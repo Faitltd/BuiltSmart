@@ -1,0 +1,180 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14531,
+    "overage_used": 4531,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Transcend-Lineage-Composite-Deck-Board-Rainier-Square-Size-94-in-W-x-5-1-2-in-RN010620TLS01-RN010620TLS01/330530968"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:48:09.764Z",
+    "processed_at": "2025-05-01T18:48:50.513Z",
+    "total_time_taken": 40.75,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Transcend-Lineage-Composite-Deck-Board-Rainier-Square-Size-94-in-W-x-5-1-2-in-RN010620TLS01-RN010620TLS01/330530968"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Transcend-Lineage-Composite-Deck-Board-Rainier-Square-Size-94-in-W-x-5-1-2-in-RN010620TLS01-RN010620TLS01/330530968",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 x 6-20 Cu. Ft. Trex Transcend Lineage Composite Deck Board Rainier Square Size: .94 in. W. x 5-1/2 in. RN010620TLS01",
+    "upc": "652835343700",
+    "item_id": "330530968",
+    "parent_id": "331943117",
+    "store_sku": "1008185150",
+    "model_number": "RN010620TLS01",
+    "description": "Elevate your outdoor space with treks transcend lineage decking, where luxury meets durability. With five exquisite color options including Island Mist, Rainier, Carmel, Biscayne, and Jasper, you can effortlessly craft a serene retreat that reflects your personal style. But beauty isn't the only feature; our decking is engineered to stay cooler under the sun, ensuring your comfort even on the hottest days. Plus, with its robust shell protection, Transcend Lineage decking resists fading and staining, offering long-lasting beauty with minimal maintenance. Enjoy peace of mind with our 50-year limited residential warranty, knowing your deck will remain a stunning centerpiece for years to come. Experience the pinnacle of outdoor living with treks transcend lineage decking.",
+    "descriptive_attributes": [
+      "Trex composite decking is a durable, beautiful, and eco-friendly alternative to traditional wood",
+      "Airy mountain grey with subtle, natural streaks",
+      "High-performance, low-maintenance boards clean easily with soap and water and never need sanding, staining, or painting",
+      "Tranquil tones that stand up to the elements: won't rot, warp or splinter",
+      "Backed by 25-year limited residential and fade and stain warranties",
+      "Unyielding shell protection: fade, stain, scratch and mold-resistant",
+      "Made of 95% recycled materials in the USA"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5a121ae7-ed08-486e-b4f5-404de7c73b08/svn/rainier-trex-composite-decking-boards-rn010620tls01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/14d4184b-cf7a-4f1f-a615-bf95f5f6ff41/svn/rainier-trex-composite-decking-boards-rn010620tls01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a666255d-98cb-41f2-9f75-fed040f827b9/svn/rainier-trex-composite-decking-boards-rn010620tls01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ca27259d-677a-43f4-aee3-21ffe9e0e41c/svn/rainier-trex-composite-decking-boards-rn010620tls01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6cb87eb2-8b26-4349-b203-3a7e9240b9a2/svn/rainier-trex-composite-decking-boards-rn010620tls01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5a121ae7-ed08-486e-b4f5-404de7c73b08/svn/rainier-trex-composite-decking-boards-rn010620tls01-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Rainier"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 50-Year Limited Residential Warranty and Trex 50-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "52"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Rainier~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-16-Cu-Ft-Trex-Transcend-Lineage-Composite-Deck-Board-Rainier-Actual-Size-94-in-W-x-5-1-2-in-RN010616TLS01-RN010616TLS01/330530922",
+        "item_id": "330530922"
+      },
+      {
+        "title": "Rainier~~Square~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Transcend-Lineage-Composite-Deck-Board-Rainier-Square-Size-94-in-W-x-5-1-2-in-RN010620TLS01-RN010620TLS01/330530968",
+        "item_id": "330530968"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

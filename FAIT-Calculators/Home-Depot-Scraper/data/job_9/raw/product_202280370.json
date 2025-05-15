@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13668,
+    "overage_used": 3668,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Harvey-1-2-in-x-260-in-Thread-Sealing-PTFE-Plumber-s-Tape-178503/202280370"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:21.799Z",
+    "processed_at": "2025-05-01T16:53:25.220Z",
+    "total_time_taken": 3.42,
+    "homedepot_url": "https://www.homedepot.com/p/Harvey-1-2-in-x-260-in-Thread-Sealing-PTFE-Plumber-s-Tape-178503/202280370"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Harvey-1-2-in-x-260-in-Thread-Sealing-PTFE-Plumber-s-Tape-178503/202280370",
+    "brand": "Harvey",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Accessories-Pipe-Sealants/Harvey/N-5yc1vZ2fkp8enZr5g",
+    "title": "Harvey 1/2 in. x 260 in. Thread Sealing PTFE Plumber's Tape",
+    "upc": "078864178500",
+    "item_id": "202280370",
+    "parent_id": "321854448",
+    "store_sku": "178438",
+    "model_number": "178503",
+    "description": "Harvey PTFE Thread Seal Tape is an economy-grade, low-density tape for use on a wide range of threaded pipes. Made with virgin white PTFE construction for long lasting durability. It is non-flammable and safe for use on potable water applications. For more than 75 years, Harvey has offered a wide variety of products for the plumbing sector.",
+    "is_bestseller": true,
+    "favorite_count": 2473,
+    "aisle": "10",
+    "bay": "006",
+    "feature_bullets": [
+      "Plumbers tape helps to create a secure seal",
+      "Thread seal tape made with PTFE construction for longevity",
+      "Safe for potable water use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "1/2 in. x 260 in. thread seal tape",
+      "All-purpose plumber's tape tightly seals threaded pipe",
+      "Made with virgin white PTFE construction for longevity",
+      "For plastic, brass, copper, aluminum and iron piping",
+      "Clean, positive seal on threaded connections",
+      "Enables easy disassembly of joints",
+      "Economy-grade, low-density tape",
+      "Not for use with lines carrying oxygen",
+      "Non-flammable material",
+      "Meets federal specification T-27730A"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fdc3e61b-6157-4b68-a9c2-996e20ea79f8/svn/harvey-pipe-sealants-178503-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f8e33570-9bc2-4492-ac65-66184fb37f94/svn/harvey-pipe-sealants-178503-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e197545a-7a6e-4a5b-b1f6-e5fa373d4ab4/svn/harvey-pipe-sealants-178503-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/96f255a7-8872-4be7-a360-fee0bc610102/svn/harvey-pipe-sealants-178503-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1ba0da0c-01f3-40e5-9832-e7f007ad33dd/svn/harvey-pipe-sealants-178503-1d_1000.jpg",
+        "type": "image_bottom_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fdc3e61b-6157-4b68-a9c2-996e20ea79f8/svn/harvey-pipe-sealants-178503-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 2709,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Dry time (hours)",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maintenance, Repair & Supplies Product Type",
+        "value": "Plumber's Tape"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Container Size (oz.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "0.8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.3 in"
+      }
+    ],
+    "keywords_list": [
+      "1/2 in. x 260 in. PTFE Tape",
+      "017850"
+    ],
+    "keywords": "1/2 in. x 260 in. PTFE Tape, 017850",
+    "variants": [
+      {
+        "title": "5",
+        "link": "https://www.homedepot.com/p/Harvey-1-2-in-x-260-in-PTFE-Tape-5-Pack-178523/202280392",
+        "item_id": "202280392"
+      },
+      {
+        "title": "1",
+        "link": "https://www.homedepot.com/p/Harvey-1-2-in-x-260-in-Thread-Sealing-PTFE-Plumber-s-Tape-178503/202280370",
+        "item_id": "202280370"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Accessories",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Accessories/N-5yc1vZbql8"
+      },
+      {
+        "name": "Pipe Sealants",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Accessories-Pipe-Sealants/N-5yc1vZ2fkp8en"
+      }
+    ],
+    "buybox_winner": {
+      "price": 0.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 704
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 704,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 582,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

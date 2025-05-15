@@ -1,0 +1,198 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13661,
+    "overage_used": 3661,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Hardboard-Tempered-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-175-in-x-48-in-x-96-in-832780/202404545"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:06.389Z",
+    "processed_at": "2025-05-01T16:53:10.445Z",
+    "total_time_taken": 4.06,
+    "homedepot_url": "https://www.homedepot.com/p/Hardboard-Tempered-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-175-in-x-48-in-x-96-in-832780/202404545"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Hardboard-Tempered-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-175-in-x-48-in-x-96-in-832780/202404545",
+    "brand": "Unbranded",
+    "title": "Unbranded Hardboard Tempered Panel (Common: 3/16 in. x 4 ft. x 8 ft.; Actual: 0.175 in. x 48 in. x 96 in.)",
+    "upc": "7896796533548",
+    "item_id": "202404545",
+    "parent_id": "328651245",
+    "store_sku": "832780",
+    "model_number": "832780",
+    "description": "This is a premium hardboard with high internal bond, exceptional stability and smoothness ideal for paneling, furniture, fixtures, toys, general manufacturing and applications where painting or die cutting is required. We create our Eucaboard from harvesting Eucalyptus from well managed forest plantations. Our product is FSC (Forest Stewardship Council) and ISO 14001 certified, so when you buy Eucaboard you are helping to preserve our most valuable asset - our environment.",
+    "favorite_count": 2078,
+    "feature_bullets": [
+      "Formaldehyde free",
+      "Great utility board for various projects",
+      "Ready to finish tempered board, smooth on one side"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "This premium hardboard surface is smooth and free of common wood defects",
+      "Provides excellent results for painting and paper laminating",
+      "The back surface is ready for gluing with commercially available adhesives for wood",
+      "Ideal for use in applications such as floor protection, furniture, toys, and others where strength, machinability and surface hardness are required",
+      "No formaldehyde added",
+      "FSC and ISO 14001 certified for environmental sustainability",
+      "For interior use only",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/sustainable-forestry/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Sustainable Forestry</a>",
+      "Note: Product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0277dafe-7ee4-48d9-a038-b1fd25b47f11/svn/mdf-832780-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b0cbf747-dada-4b23-9dbb-d103b3535c80/svn/mdf-832780-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1ce62a2c-0392-4282-8487-bc39500b6248/svn/mdf-832780-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c56df8c1-e33b-48c1-b028-fbcad25fe526/svn/mdf-832780-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0277dafe-7ee4-48d9-a038-b1fd25b47f11/svn/mdf-832780-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 843,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardboard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.188 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "plywood",
+      "hardboard plywood",
+      "eucalyptus plywood",
+      "48 in. x 96 in. plywood",
+      "EUCATEX plywood"
+    ],
+    "keywords": "plywood, hardboard plywood, eucalyptus plywood, 48 in. x 96 in. plywood, EUCATEX plywood",
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~3/16",
+        "link": "https://www.homedepot.com/p/Hardboard-Tempered-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-175-in-x-48-in-x-96-in-832780/202404545",
+        "item_id": "202404545"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~1/8",
+        "link": "https://www.homedepot.com/p/Hardboard-Tempered-Panel-Common-1-8-in-4-ft-x-8-ft-Actual-0-115-in-x-47-7-in-x-95-7-in-832777/202189720",
+        "item_id": "202189720"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 22.52,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 96,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

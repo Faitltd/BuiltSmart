@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13980,
+    "overage_used": 3980,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Ornamental-Mouldings-807-7-3-4-in-x-4-in-x-84-in-White-Hardwood-Reversible-Fluted-Victorian-Casing-Moulding-807-7FTWHW/202529366"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:18.313Z",
+    "processed_at": "2025-05-01T17:50:27.725Z",
+    "total_time_taken": 9.41,
+    "homedepot_url": "https://www.homedepot.com/p/Ornamental-Mouldings-807-7-3-4-in-x-4-in-x-84-in-White-Hardwood-Reversible-Fluted-Victorian-Casing-Moulding-807-7FTWHW/202529366"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Ornamental-Mouldings-807-7-3-4-in-x-4-in-x-84-in-White-Hardwood-Reversible-Fluted-Victorian-Casing-Moulding-807-7FTWHW/202529366",
+    "brand": "Ornamental Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Ornamental-Mouldings/N-5yc1vZclf5Z2js",
+    "title": "Ornamental Mouldings 807-7 3/4 in. x 4 in. x 84 in. White Hardwood Reversible Fluted Victorian Casing Moulding",
+    "upc": "009215058066",
+    "item_id": "202529366",
+    "parent_id": "319109149",
+    "store_sku": "443233",
+    "model_number": "807-7FTWHW",
+    "description": "Our 4 in. White Hardwood Fluted or Victorian Casing can add an air of elegance to any room in your home. This versatile moulding has a traditional Victorian profile on one side and a deeply cut fluted profile on the other. This casing blends beautiful into older homes or can add a touch of old world quality into newer constructions.",
+    "favorite_count": 37,
+    "feature_bullets": [
+      "Dual-profile design adds versatility",
+      "Solid hardwood construction ensures durability",
+      "Paintable surface offers a personalized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Durable solid hardwood construction",
+      "Paintable and stainable",
+      "4 in. Width is suitable for casing wider openings and larger rooms",
+      "Use with 4-1/2 in. corner and plinth blocks for added architectural detail or see our traditional pediment headers for a grander statement",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/97119326-d216-43da-badc-fed772b3fa45/svn/unfinished-ornamental-mouldings-casing-807-7ftwhw-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/97119326-d216-43da-badc-fed772b3fa45/svn/unfinished-ornamental-mouldings-casing-807-7ftwhw-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 12,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Fluted"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "807"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "keywords_list": [
+      "7 ft. x 4 in. x 3/4 in. Natural White Hardwood Fluted/Victorian Casing",
+      "807-7FTWHW"
+    ],
+    "keywords": "7 ft. x 4 in. x 3/4 in. Natural White Hardwood Fluted/Victorian Casing, 807-7FTWHW",
+    "variants": [
+      {
+        "title": "Unfinished~~7 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Ornamental-Mouldings-807-7-3-4-in-x-4-in-x-84-in-White-Hardwood-Reversible-Fluted-Victorian-Casing-Moulding-807-7FTWHW/202529366",
+        "item_id": "202529366"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 27.72,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 997,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 997,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

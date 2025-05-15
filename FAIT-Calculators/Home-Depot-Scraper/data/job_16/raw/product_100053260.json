@@ -1,0 +1,182 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14029,
+    "overage_used": 4029,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Plytanium-15-32-in-x-4-ft-x-8-ft-Southern-Pine-Plywood-184200/100053260"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:57.041Z",
+    "processed_at": "2025-05-01T17:52:47.659Z",
+    "total_time_taken": 50.62,
+    "homedepot_url": "https://www.homedepot.com/p/Plytanium-15-32-in-x-4-ft-x-8-ft-Southern-Pine-Plywood-184200/100053260"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Plytanium-15-32-in-x-4-ft-x-8-ft-Southern-Pine-Plywood-184200/100053260",
+    "brand": "Plytanium",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/Plytanium/N-5yc1vZc7q5Z4aj",
+    "title": "Plytanium 15/32 in. x 4 ft. x 8 ft. Southern Pine Plywood",
+    "upc": "081999104658",
+    "item_id": "100053260",
+    "store_sku": "231355",
+    "model_number": "184200",
+    "description": "The Plytanium 15/32 in. x 4 ft. x 8 ft. Southern Pine Plywood is manufactured from Southern pine. This 100% solid wood plywood can be used for residential and light construction applications. This strong, visually appealing board can be used for light frame wall and roof assemblies in weather-protected applications.",
+    "favorite_count": 785,
+    "feature_bullets": [
+      "Paintable and stainable for convenient use",
+      "Made of southern pine wood to ensure durability",
+      "Ideal for residential and light construction applications"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from Southern pine for strength and durability",
+      "For roofs, walls, floors and other weather-protected applications",
+      "Can be used for residential and light construction applications",
+      "Can be used for light frame wall and roof assemblies in weather-protected applications",
+      "Meets high grading standards for strength and appearance",
+      "1/2 in. x 4 ft. x 8 ft.",
+      "Paintable and stainable",
+      "<a href=\"https://www.homedepot.com/c/ab/how-to-choose-lumber/9ba683603be9fa5395fab90f3d653ea\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2d64e14a-9b8a-43d4-a026-c71ef7d57f0a/svn/plytanium-sheathing-plywood-184200-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/953c56d7-dcee-431a-9faf-083684d50ae8/svn/plytanium-sheathing-plywood-184200-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f3a1e7e4-fc32-4e04-b7dc-33a37132a8e7/svn/plytanium-sheathing-plywood-184200-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/de18c5e0-2bf9-4384-84dd-632c0a3bb44f/svn/plytanium-sheathing-plywood-184200-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9ec00441-7945-41f3-911b-9af56ae496eb/svn/plytanium-sheathing-plywood-184200-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bbef20f7-9d17-4f31-8968-6164fce50781/svn/plytanium-sheathing-plywood-184200-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2d64e14a-9b8a-43d4-a026-c71ef7d57f0a/svn/plytanium-sheathing-plywood-184200-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 531,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Rated Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "32/16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "95.380 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.47 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "47.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "15/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "lumber",
+      "pine lumber",
+      "plywood",
+      "pine plywood",
+      "8 ft. long lumber",
+      "8 ft. long plywood",
+      "Plytanium lumber",
+      "Plytanium plywood"
+    ],
+    "keywords": "lumber, pine lumber, plywood, pine plywood, 8 ft. long lumber, 8 ft. long plywood, Plytanium lumber, Plytanium plywood",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sheathing Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/N-5yc1vZc7q5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12754,
+    "overage_used": 2754,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-10-x-3-in-Torx-Flat-Head-305-Stainless-Steel-Wood-Deck-Screws-5-lb-Box-314-Piece-115857/204811848"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:30:29.595Z",
+    "processed_at": "2025-05-01T13:30:34.244Z",
+    "total_time_taken": 4.65,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-10-x-3-in-Torx-Flat-Head-305-Stainless-Steel-Wood-Deck-Screws-5-lb-Box-314-Piece-115857/204811848"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DECKMATE-10-x-3-in-Torx-Flat-Head-305-Stainless-Steel-Wood-Deck-Screws-5-lb-Box-314-Piece-115857/204811848",
+    "brand": "DECKMATE",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/DECKMATE/N-5yc1vZ2fkpe61Zrkz",
+    "title": "DECKMATE #10 x 3 in. Torx Flat-Head 305 Stainless Steel Wood Deck Screws 5 lb.-Box (314-Piece)",
+    "upc": "038902034496",
+    "item_id": "204811848",
+    "parent_id": "325026848",
+    "store_sku": "232567",
+    "model_number": "115857",
+    "description": "Make the most of your of your project with DeckMATE brand stainless wood screws. Lifetime warranty 305 Stainless Steel for the ultimate corrosion resistance. Out performs all coated steel fasteners in corrosive conditions.",
+    "favorite_count": 24,
+    "aisle": "17",
+    "bay": "011",
+    "feature_bullets": [
+      "305 stainless steel construction ensures durability",
+      "Bugle head offers trouble-free fastening",
+      "Ideal for use in installing siding, building decks, and more"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Great for a variety of exterior projects, including installing siding and building decks, gazebos and play sets",
+      "Stainless steel construction",
+      "Countersinking bugle head helps prevent the head from popping out",
+      "Superior corrosion resistance"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2cc5dd2f-66b5-4fca-af64-918153230c3a/svn/deckmate-deck-screws-115857-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/949f8557-da40-4040-98c0-2c2d3e1165c3/svn/deckmate-deck-screws-115857-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/97c28a5d-3c98-4da5-855b-421fd94390af/svn/deckmate-deck-screws-115857-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/486c7147-6c3a-405c-91f0-a04d06672c62/svn/deckmate-deck-screws-115857-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a76278c-ae04-48f2-b9fb-8cdb784810e2/svn/deckmate-deck-screws-115857-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/51e15f6f-81e4-4b8a-895b-c5f10c74ed96/svn/deckmate-deck-screws-115857-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5e4bb602-92cd-496a-886c-8c9c89d1f16d/svn/deckmate-deck-screws-115857-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eff5ced5-9330-4af6-88a7-7de4b9bb3560/svn/deckmate-deck-screws-115857-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/14c6091d-e8eb-471e-93c7-e8058bb0c20e/svn/deckmate-deck-screws-115857-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2cc5dd2f-66b5-4fca-af64-918153230c3a/svn/deckmate-deck-screws-115857-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 24,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Phosphate"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "305 Stainless"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "314"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "N/A - Metric Fastener"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime warranty 305 Stainless Steel for the ultimate corrosion resistance. Superior corrosion resistance"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "3 in~~#10~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-3-in-Torx-Flat-Head-Stainless-Steel-Wood-Deck-Screws-1-lb-Box-60-Piece-115856/204811936",
+        "item_id": "204811936"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-5-8-in-Torx-Flat-Head-Stainless-Steel-Wood-Deck-Screws-5-lb-Box-788-Piece-115851/204811839",
+        "item_id": "204811839"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-2-1-2-in-Torx-Flat-Head-305-Stainless-Steel-Wood-Deck-Screws-5-lb-Box-378-Piece-115855/204811998",
+        "item_id": "204811998"
+      },
+      {
+        "title": "3 in~~#10~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-3-in-Torx-Flat-Head-305-Stainless-Steel-Wood-Deck-Screws-5-lb-Box-314-Piece-115857/204811848",
+        "item_id": "204811848"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 52.15,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 145,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 145,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

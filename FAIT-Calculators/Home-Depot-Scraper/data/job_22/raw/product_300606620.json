@@ -1,0 +1,199 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14825,
+    "overage_used": 4825,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/WellDone-1-in-x-6-in-x-8-ft-Thermo-Treated-Premium-Radiata-Pine-Fluted-Siding-Board-in-Gold-Color-66-7-SF-in-20-Pack-11175/300606620"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:33:08.773Z",
+    "processed_at": "2025-05-01T19:33:12.997Z",
+    "total_time_taken": 4.22,
+    "homedepot_url": "https://www.homedepot.com/p/WellDone-1-in-x-6-in-x-8-ft-Thermo-Treated-Premium-Radiata-Pine-Fluted-Siding-Board-in-Gold-Color-66-7-SF-in-20-Pack-11175/300606620"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/WellDone-1-in-x-6-in-x-8-ft-Thermo-Treated-Premium-Radiata-Pine-Fluted-Siding-Board-in-Gold-Color-66-7-SF-in-20-Pack-11175/300606620",
+    "brand": "WellDone",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/WellDone/N-5yc1vZc55wZfp8",
+    "title": "WellDone 1 in. x 6 in. x 8 ft. Thermo-Treated Premium Radiata Pine Fluted Siding Board in Gold Color (66.7 SF in 20-Pack)",
+    "upc": "0709619999599",
+    "item_id": "300606620",
+    "store_sku": "1002163973",
+    "model_number": "11175",
+    "description": "Premium Thermally Modified FLUTED RADIATA PINE SIDING is a natural wood material with an attractive look and natural durability. Due to the thermo-modification process the wood changes its molecular structure and becomes durable for at least 25 years. It is a 100% Green product with all the advantages of natural wood.Enhance your home's exterior with Thermo Fluted Radiata Pine Siding, a beautiful, durable, and sustainable choice for homeowners and professionals alike. Made from thermally modified Radiata Pine, this siding offers enhanced stability, moisture resistance, and long-lasting performance. Its unique fluted profile delivers striking depth and texture, adding modern architectural appeal to any project. The grooving on the surface is the deepest on the market - the grooves are almost 5/8\" deep, and the total board's thickness is 15/16\". With a natural, warm wood aesthetic and minimal maintenance required, this eco-friendly siding is perfect for both residential and commercial applications and offers a stunning, modern aesthetic with the performance to withstand the elements.",
+    "favorite_count": 1,
+    "feature_bullets": [
+      "Meets highest grading standards for strength and appearance",
+      "Easy to cut, fasten and paint, perfect for many building projects",
+      "Durable for your deck and outdoor projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Premium Thermally Modified Radiata Pine - Enhanced durability and stability for long-lasting performance.",
+      "Distinct Fluted Design - Creates a visually dynamic and modern aesthetic.",
+      "Superior Resistance to Decay &amp; Insects - Thermo-treatment naturally strengthens wood without chemicals.",
+      "Dimensional Stability - Reduced warping, shrinking, or swelling, even in varying climates.",
+      "Class B Fire Rating - Increased fire resistance due to the thermal modification process.",
+      "Easy Installation - Designed with a ship-lap profile for quick and efficient mounting.",
+      "Ideal for Residential &amp; Commercial Use - Perfect for exterior fa\u00e7ades, modern designs, and architectural projects.",
+      "Rich, Natural Wood Appearance - A warm, inviting look with a consistent gold color beyond the surface.",
+      "The boards are 4-sides factory oiled (Hard Wax Oil with UV protection) and ready to install: no oiling is needed after installation",
+      "Minimal Maintenance Required - Thermo-modification extends lifespan while reducing upkeep needs.",
+      "20-pack of 8-foot boards covers 66.7 sq. ft."
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a8908a9c-67e8-4975-bbf2-6069f083af64/svn/welldone-framing-lumber-11175-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bbaabcec-fea7-4567-b98c-28772c129b4a/svn/welldone-framing-lumber-11175-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a4f04efc-89ef-4e0a-ae6c-4983c67ad06c/svn/welldone-framing-lumber-11175-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/87f7c31f-2dc2-4e61-b660-9cd3ad758dc6/svn/welldone-framing-lumber-11175-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e4dc51e0-4a52-42e3-b34c-e0caf0e4c1ad/svn/welldone-framing-lumber-11175-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/658852fe-f969-4a3f-928d-96af6b72f35f/svn/welldone-framing-lumber-11175-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25304cd6-22e9-4480-b876-109e1615e1f7/svn/welldone-framing-lumber-11175-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/72578e1e-0809-453b-b150-c08bd5f2705d/svn/welldone-framing-lumber-11175-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/adb14687-9a90-4f63-99cf-d445a0fff0e7/svn/welldone-framing-lumber-11175-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a8908a9c-67e8-4975-bbf2-6069f083af64/svn/welldone-framing-lumber-11175-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1,
+    "rating": 3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "160"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Radiata Pine"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 years against decay"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "82"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": 672.13,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 200,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

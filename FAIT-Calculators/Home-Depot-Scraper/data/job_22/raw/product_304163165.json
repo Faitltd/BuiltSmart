@@ -1,0 +1,199 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14749,
+    "overage_used": 4749,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/USG-Durock-Brand-1-2-in-x-3-ft-x-5-ft-Cement-Board-with-EdgeGuard-172954/304163165"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:09:15.271Z",
+    "processed_at": "2025-05-01T19:10:10.886Z",
+    "total_time_taken": 55.62,
+    "homedepot_url": "https://www.homedepot.com/p/USG-Durock-Brand-1-2-in-x-3-ft-x-5-ft-Cement-Board-with-EdgeGuard-172954/304163165"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/USG-Durock-Brand-1-2-in-x-3-ft-x-5-ft-Cement-Board-with-EdgeGuard-172954/304163165",
+    "brand": "USG Durock Brand",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Backer-Boards/USG-Durock-Brand/N-5yc1vZcduqZomc",
+    "title": "USG Durock Brand 1/2 in. x 3 ft. x 5 ft. Cement Board with EdgeGuard",
+    "upc": "081099040092",
+    "item_id": "304163165",
+    "parent_id": "312462205",
+    "store_sku": "1002991354",
+    "model_number": "172954",
+    "description": "USG Durock Brand Cement Board with EdgeGuard is a strong, water-durable tile backerboard with an enhanced, proprietary edge performance to prevent spinout and crumbling. This mold-resistant tile backer is the perfect choice for floors, walls, countertops, tub, shower areas and exterior finish systems. It cuts easily and installs quickly with Durock Brand Tile Backer Screws, self-drilling fasteners, or nails. USG Durock Brand Cement Board with EdgeGuard is the industry standard for performance and reliability.",
+    "is_bestseller": true,
+    "is_top_rated": true,
+    "favorite_count": 47,
+    "aisle": "B1",
+    "bay": "001",
+    "collection": {
+      "id": "Family-313327133",
+      "name": "Family-313327133",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Tile-Backerboard-Collection/Family-313327133?omsid=304163165"
+    },
+    "feature_bullets": [
+      "Strong, water-durable and mold-resistant tile backerboard",
+      "Enhanced reinforced edge to prevent spinout and crumbling",
+      "Easy to cut and fasten, provides excellent tile bond"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Warranted for interior and exterior applications",
+      "Noncombustible",
+      "GREENGUARD Gold certified for low-emitting performance"
+    ],
+    "descriptive_attributes_count": 3,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/59fcd99f-dc9d-4d31-9d4f-5add3da9f24f/svn/usg-durock-brand-backer-boards-172954-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/62d2b4ab-c47a-4816-a516-ce8e594c60e4/svn/usg-durock-brand-backer-boards-172954-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/da1361e9-7742-448d-bee4-cf5b5e36c3a0/svn/usg-durock-brand-backer-boards-172954-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7af56abc-5a75-4834-bdc5-ff9675e4c062/svn/usg-durock-brand-backer-boards-172954-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fb21eecd-98bf-4508-b34f-69c299628354/svn/usg-durock-brand-backer-boards-172954-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc924510-34a6-4d10-9823-d6180c350306/svn/usg-durock-brand-backer-boards-172954-77_1000.jpg",
+        "type": "image_open_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/59fcd99f-dc9d-4d31-9d4f-5add3da9f24f/svn/usg-durock-brand-backer-boards-172954-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/aeb4298a-153d-4547-ac11-0af81f4ea686/db230c4e-fa47-4a8a-9c9d-b1b1295e0205/main.mp4?fastly_token=NjgzODI5NDhfYjA3ODgxOTVjMzZkOTgzMGIzY2RmYTZiOWVhYmExM2UxMjgxNmRjODllYzMxYTYwNzE0N2NmMTg4YzgyMTI4MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hZWI0Mjk4YS0xNTNkLTQ1NDctYWMxMS0wYWY4MWY0ZWE2ODYvZGIyMzBjNGUtZmE0Ny00YThhLTljOWQtYjFiMTI5NWUwMjA1L21haW4ubXA0&pubid=66036796001",
+        "title": "USG Durock Brand Cement Board with EdgeGuard",
+        "id": "5733828283001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/aeb4298a-153d-4547-ac11-0af81f4ea686/ac7a85d7-19fd-4418-a6c5-181e845bbbb5/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This is a product demo of USG Durock Brand Cement Board with EdgeGuard"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/705f592b-c17a-47c3-b094-7885b483570c/e6b72fd5-d621-4fee-b7f8-d347eae26787/main.mp4?fastly_token=NjgzODI5ODRfOTNkNGM5OTkwMWEyMjY0NTZlYWUyYjY1NmRiMzZjMGY0OWZjYjMxYTQ2NjM5ODQ5Y2JkZDIzZmFlNmM4YzZiMF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83MDVmNTkyYi1jMTdhLTQ3YzMtYjA5NC03ODg1YjQ4MzU3MGMvZTZiNzJmZDUtZDYyMS00ZmVlLWI3ZjgtZDM0N2VhZTI2Nzg3L21haW4ubXA0&pubid=66036796001",
+        "title": "usg593_retail_tilebacker_1_where_to_use_durock",
+        "id": "6369097191112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/705f592b-c17a-47c3-b094-7885b483570c/main/160x90/44s768ms/match/image.jpg?pubId=66036796001",
+        "description": "Where to use Durock Cement Board"
+      }
+    ],
+    "ratings_total": 1648,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Alt. Pricing_Multiply Total SqFt by Quantity (Total Eaches)",
+        "value": "15"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Fire Resistant,Moisture Resistant,Mold Resistant,Sag Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "35.325 lb"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Drywall Product Thickness (in.)",
+        "value": "1/2 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "5 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "0.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "3 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Width (ft) x Length (ft)",
+        "value": "3ftx5ft"
+      }
+    ],
+    "variants": [
+      {
+        "title": "3ftx5ft~~0.625",
+        "link": "https://www.homedepot.com/p/USG-Durock-Brand-5-8-in-x-3-ft-x-5-ft-Cement-Board-with-EdgeGuard-172957/304220160",
+        "item_id": "304220160"
+      },
+      {
+        "title": "4ftx8ft~~0.625",
+        "link": "https://www.homedepot.com/p/USG-Durock-Brand-5-8-in-x-4-ft-x-8-ft-Cement-Board-with-EdgeGuard-170576/304220353",
+        "item_id": "304220353"
+      },
+      {
+        "title": "3ftx5ft~~0.25",
+        "link": "https://www.homedepot.com/p/USG-Durock-Brand-1-4-in-x-3-ft-x-5-ft-Cement-Board-with-EdgeGuard-170215/304218901",
+        "item_id": "304218901"
+      },
+      {
+        "title": "2.67x5ft~~0.5",
+        "link": "https://www.homedepot.com/p/USG-Durock-Brand-1-2-in-x-32-in-x-5-ft-Cement-Board-with-EdgeGuard-170579/304207707",
+        "item_id": "304207707"
+      },
+      {
+        "title": "4ftx8ft~~0.5",
+        "link": "https://www.homedepot.com/p/USG-Durock-Brand-1-2-in-x-4-ft-x-8-ft-Cement-Board-with-EdgeGuard-172956/304217914",
+        "item_id": "304217914"
+      },
+      {
+        "title": "3ftx5ft~~0.5",
+        "link": "https://www.homedepot.com/p/USG-Durock-Brand-1-2-in-x-3-ft-x-5-ft-Cement-Board-with-EdgeGuard-172954/304163165",
+        "item_id": "304163165"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Backer Boards",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Backer-Boards/N-5yc1vZcduq"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

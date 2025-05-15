@@ -1,0 +1,362 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13324,
+    "overage_used": 3324,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GRK-Fasteners-9-x-3-in-Star-Drive-Bugle-Head-Deck-Elite-Decking-Screws-350-Pack-10903/317879881"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:53:30.694Z",
+    "processed_at": "2025-05-01T13:53:35.800Z",
+    "total_time_taken": 5.11,
+    "homedepot_url": "https://www.homedepot.com/p/GRK-Fasteners-9-x-3-in-Star-Drive-Bugle-Head-Deck-Elite-Decking-Screws-350-Pack-10903/317879881"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-3-in-Star-Drive-Bugle-Head-Deck-Elite-Decking-Screws-350-Pack-10903/317879881",
+    "brand": "GRK Fasteners",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/GRK-Fasteners/N-5yc1vZ2fkpe61Z8ta",
+    "title": "GRK Fasteners #9 x 3 in. Star Drive Bugle Head Deck Elite Decking Screws (350-Pack)",
+    "upc": "092097109032",
+    "item_id": "317879881",
+    "parent_id": "318761411",
+    "store_sku": "1006622062",
+    "model_number": "10903",
+    "description": "GRK Deck Elite screws provide a quick drive and clean finish in wood decking top boards. With GRK's Fast Bite Tip, Deck Elite screws start immediately in wood. The patented W-Cut thread design allows for a smooth, fast drive to increase productivity on the job and the tan color of the screw provides and ideal finish. GRK Deck Elite screws have a corrosion resistant coating to resist rust and keep decks looking like new.",
+    "aisle": "17",
+    "bay": "013",
+    "feature_bullets": [
+      "GRK deck elite wood screws for deck boards and fence pickets",
+      "GRK deck elite wood screws for pressure treated wood decks",
+      "GRK deck elite wood screws with tan corrosion resistant coating"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Immediate start and quick drive in wood to increase productivity",
+      "Tan color provides clean and ideal finish in pressure treated decks",
+      "Keep decks looking like new with corrosion resistant coating",
+      "Fast bite tip for fast start",
+      "Corrosion resistant coating",
+      "CEE thread for no splitting",
+      "W-cut thread-form for faster drive",
+      "Star drive head for zero stripping",
+      "Cutting teeth cuts wood fiber and provides flush seating",
+      "Common project applications: decking and fencing",
+      "Cutting pockets underneath head allow screw head to countersink flush with material",
+      "Ground contact lumber approved for worry free use in pressure treated lumber",
+      "Climate coating resists corrosion"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5716b110-a322-4aa7-9a80-b55e1e1bc555/svn/grk-fasteners-deck-screws-10903-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ad7f4ee3-9fe2-42e8-9073-bdd7c121198b/svn/grk-fasteners-deck-screws-10903-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/70a0f6de-869a-4a4f-9815-08afcf83570b/svn/grk-fasteners-deck-screws-10903-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a636285b-8bc7-4202-b41e-6a2d75f0d4a8/svn/grk-fasteners-deck-screws-10903-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4257dd33-2e1a-480f-b2aa-d55aff97b11c/svn/grk-fasteners-deck-screws-10903-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/acb75f65-d98d-4371-9d1c-40c66c9b6e29/svn/grk-fasteners-deck-screws-10903-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/04079298-893a-4545-ba34-169877cf15bb/svn/grk-fasteners-deck-screws-10903-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b1d92fbd-fd8e-4308-8242-b9a7ffc804c6/svn/grk-fasteners-deck-screws-10903-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dd08978e-1570-445c-bc6e-8141b844a4cf/svn/grk-fasteners-deck-screws-10903-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0bd66325-08ff-498f-915f-3733639c4869/svn/grk-fasteners-deck-screws-10903-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1b13ca7d-8f69-4989-9f36-0d47684266a8/svn/grk-fasteners-deck-screws-10903-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5716b110-a322-4aa7-9a80-b55e1e1bc555/svn/grk-fasteners-deck-screws-10903-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/6bc55b09-7265-4cf4-9cdc-ead61ce5d884/db51781c-6b7e-4be9-8ed1-5a061a8e067c/main.mp4?fastly_token=NjgzODJiMDdfMThiZTY5YTNhM2Y4ZTI3NTI5MWY1NjRiYjdlOGVhMGMyMzMwOTMzYmM3ZDNlODYzYmI4Y2FiMjUwZmMzMjFmMV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82YmM1NWIwOS03MjY1LTRjZjQtOWNkYy1lYWQ2MWNlNWQ4ODQvZGI1MTc4MWMtNmI3ZS00YmU5LThlZDEtNWEwNjFhOGUwNjdjL21haW4ubXA0&pubid=66036796001",
+        "title": "Deck Elite",
+        "id": "6310166607112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/6bc55b09-7265-4cf4-9cdc-ead61ce5d884/main/160x90/15s58ms/match/image.jpg?pubId=66036796001",
+        "description": "GRK Deck Elite screws provide a quick drive and clean finish in wood decking top boards. With GRK's Fast Bite Tip, Deck Elite screws start immediately in wood. The patented W-Cut thread design allows for a smooth, fast drive to increase productivity."
+      }
+    ],
+    "ratings_total": 174,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Electro Galvanized Zinc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated,Self Tapping"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Bugle Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "350"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "2.2 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "W-Cut Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "11 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "ITW Brands warrants that this product is free from defects in material and workmanship. ITW Brands' sole liability for any breach of this warranty shall be to replace this product or refund the purchase price."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#9"
+      }
+    ],
+    "size": "#9",
+    "variants": [
+      {
+        "title": "3 in~~#9~~Tan~~10 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-3-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-700-Pack-40903/317676458",
+        "item_id": "317676458"
+      },
+      {
+        "title": "2 in~~#8~~Brown~~5 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-8-x-2-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-700-Pack-10802/311953362",
+        "item_id": "311953362"
+      },
+      {
+        "title": "1-5/8 in~~#9~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-1-5-8-in-Torx-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-110-Pack-39159/330152966",
+        "item_id": "330152966"
+      },
+      {
+        "title": "2 in~~#8~~Tan~~10 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-8-x-2-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-1080-Pack-40803/317676419",
+        "item_id": "317676419"
+      },
+      {
+        "title": "3 in~~#9~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-3-in-Torx-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-80-Pack-30903/330153027",
+        "item_id": "330153027"
+      },
+      {
+        "title": "1-5/8 in~~#9~~Tan~~10 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-1-5-8-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-1080-Pack-49159/317676384",
+        "item_id": "317676384"
+      },
+      {
+        "title": "1-5/8 in~~#9~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-1-5-8-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-540-Pack-19159/317676510",
+        "item_id": "317676510"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Brown~~10 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-1-2-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-1100-Pack-29212/313458495",
+        "item_id": "313458495"
+      },
+      {
+        "title": "2 in~~#8~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-8-x-2-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-540-Pack-10803/317676504",
+        "item_id": "317676504"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Tan~~10 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-1-2-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-800-Pack-49212/317676439",
+        "item_id": "317676439"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-1-2-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-400-Pack-19212/311953377",
+        "item_id": "311953377"
+      },
+      {
+        "title": "2 in~~#8~~Brown~~10 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-8-x-2-in-Star-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-1400-Pack-20802/313458229",
+        "item_id": "313458229"
+      },
+      {
+        "title": "3 in~~#9~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-3-in-Star-Drive-Bugle-Head-Deck-Elite-Decking-Screws-350-Pack-10903/317879881",
+        "item_id": "317879881"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-1-2-in-Torx-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-100-Pack-39212/330153008",
+        "item_id": "330153008"
+      },
+      {
+        "title": "2 in~~#8~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-8-x-2-in-Torx-Drive-Bugle-Head-Deck-Elite-Wood-Deck-Screw-110-Pack-30803/330151954",
+        "item_id": "330151954"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 43.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 5,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 24,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

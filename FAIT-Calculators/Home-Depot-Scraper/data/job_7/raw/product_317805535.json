@@ -1,0 +1,299 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13240,
+    "overage_used": 3240,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GE-Paintable-Supreme-Silicone-Caulk-9-5-oz-Kitchen-and-bath-Sealant-White-2733743/317805535"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:50:05.234Z",
+    "processed_at": "2025-05-01T13:50:12.652Z",
+    "total_time_taken": 7.42,
+    "homedepot_url": "https://www.homedepot.com/p/GE-Paintable-Supreme-Silicone-Caulk-9-5-oz-Kitchen-and-bath-Sealant-White-2733743/317805535"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GE-Paintable-Supreme-Silicone-Caulk-9-5-oz-Kitchen-and-bath-Sealant-White-2733743/317805535",
+    "brand": "GE",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/GE/N-5yc1vZcibhZlo",
+    "title": "GE Paintable Supreme Silicone Caulk 9.5 oz Kitchen and bath Sealant White",
+    "upc": "028756957867",
+    "item_id": "317805535",
+    "parent_id": "325102517",
+    "store_sku": "1000014278",
+    "model_number": "2733743",
+    "description": "GE Supreme Silicone Kitchen and Bath sealant is a premium, 100% silicone caulk and 100% waterproof sealant ideal for caulking areas that are constantly exposed to moisture-especially those in the kitchen and bathroom. This caulk also has a 30-minute water-ready formula and resists stain-causing mold and mildew growth. Use this silicone sealant as caulk for bathtubs, sinks, countertops, backsplashes, showers, shower doors and more. Our silicone sealant offers 100% more flexibility than Class 25 sealants and 7x stronger adhesion than our Silicone 1 sealant. Plus, GE Supreme Silicone Kitchen and Bath sealant offers 50% joint-movement capabilities without cracking or shrinking. Our caulk has a low odor that's ideal for interior applications, and it won't discolor most high-end metal finishes such as chrome, bronze and nickel.",
+    "aisle": "50",
+    "bay": "014",
+    "feature_bullets": [
+      "Caulking for sinks, bathtubs, showers, fixtures, and more",
+      "10 year mold-free protection and waterproof",
+      "Hybrid performance; paintable and water-ready in 30 minutes"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "100% waterproof sealant for interior projects where moisture may be present",
+      "Paintable in as little as 30-minutes",
+      "Water-ready in 30 minutes",
+      "Resists mold and mildew growth; backed by 10-year mold-free product protection",
+      "Provides excellent adhesion with permanent flexibility",
+      "Shrink and crackproof",
+      "Low odor caulk",
+      "Adheres to: most metals, plastics, and woods; glass, drywall, plaster, granite, cultured marble, ceramic and porcelain tile; and more",
+      "For additional performance and warranty information, see product packaging",
+      "Lifetime guarantee"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/700f0841-e895-43ba-809b-21b64fb0060a/svn/white-ge-caulk-2733743-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1f8a421d-6664-4630-bc29-1583fd7af474/svn/white-ge-caulk-2733743-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/12ce5f73-cc3e-492d-a467-95837da3ddb9/svn/white-ge-caulk-2733743-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d2dc758a-24b0-4a60-b1cc-2d47bfa1299b/svn/white-ge-caulk-2733743-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/603e47a9-788b-4e24-a6e2-4f27549d5f24/svn/white-ge-caulk-2733743-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e5848439-b2e4-4df0-9601-51eaed836a32/svn/white-ge-caulk-2733743-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2aeb7463-a3ef-4fd8-a637-9636aad8220f/svn/white-ge-caulk-2733743-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4ed03264-1f32-499d-a260-e008072476fb/svn/white-ge-caulk-2733743-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79bd0c99-5cb9-4d02-b579-c0622403b44e/svn/white-ge-caulk-2733743-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b4f57490-052b-4f6f-b309-215d2477361d/svn/white-ge-caulk-2733743-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f4d79af8-1153-4823-8a5e-9c7be053c615/svn/white-ge-caulk-2733743-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2aeb7463-a3ef-4fd8-a637-9636aad8220f/svn/white-ge-caulk-2733743-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4ed03264-1f32-499d-a260-e008072476fb/svn/white-ge-caulk-2733743-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/700f0841-e895-43ba-809b-21b64fb0060a/svn/white-ge-caulk-2733743-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/1e61eba6-4c8e-4d0e-823c-bc58e886bcbd/7bf60efb-2b6f-463f-81f7-bfac1c5d662d/main.mp4?fastly_token=NjgxMzlkZmFfNmRmNTIxOWE0NjM5NDdhZDk3YmYzYmIyMTIzMGQ4MGUzYjI5Yjk2NTcwNjQ1ZTVmNmY3YjIzNWJhOTkzMzBlNV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMWU2MWViYTYtNGM4ZS00ZDBlLTgyM2MtYmM1OGU4ODZiY2JkLzdiZjYwZWZiLTJiNmYtNDYzZi04MWY3LWJmYWMxYzVkNjYyZC9tYWluLm1wNA%3D%3D",
+        "title": "Paintable Silicone Supreme 10.1 oz. White Kitchen and Bath Sealant",
+        "id": "6272620057001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/1e61eba6-4c8e-4d0e-823c-bc58e886bcbd/7302b4c5-662e-41ea-a5f0-6cdb1d39c998/160x90/match/image.jpg",
+        "description": "short video showing product in use & description\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/50b9e8ed-2f6a-4324-b2b4-3796c4c25471/42828cf1-5172-4885-b003-7181c73c0cf5/main.mp4?fastly_token=NjgxM2E0ZDNfOTg5N2MzZTJmMTNmMjU3YjM4ZGQ1ZTVjZmM2ODdmMTkxYzQ4ZmI4YWUyODU2ZjgyZjM2MDU4ZjQ3Y2EzOTY1OV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNTBiOWU4ZWQtMmY2YS00MzI0LWIyYjQtMzc5NmM0YzI1NDcxLzQyODI4Y2YxLTUxNzItNDg4NS1iMDAzLTcxODFjNzNjMGNmNS9tYWluLm1wNA%3D%3D",
+        "title": "GE Caulk",
+        "id": "6320153243112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/50b9e8ed-2f6a-4324-b2b4-3796c4c25471/main/160x90/25s98ms/match/image.jpg",
+        "description": "GE How to select the right caulk\n"
+      }
+    ],
+    "ratings_total": 516,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Kitchen & Bathroom"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Silicone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "30"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant,Paintable,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Supreme Kitchen and Bath"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Guarantee"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "9.5 oz"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~9.5 oz~~2",
+        "link": "https://www.homedepot.com/p/GE-Paintable-Silicone-Supreme-9-5-oz-White-Kitchen-and-Bath-Caulk-2-Pack-2733743/319661116",
+        "item_id": "319661116"
+      },
+      {
+        "title": "White~~9.5 oz~~4",
+        "link": "https://www.homedepot.com/p/GE-Paintable-Silicone-Supreme-9-5-oz-White-Kitchen-and-Bath-Caulk-4-Pack-2733743/319661231",
+        "item_id": "319661231"
+      },
+      {
+        "title": "White~~9.5 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Paintable-Supreme-Silicone-Caulk-9-5-oz-Kitchen-and-bath-Sealant-White-12-pack-2733743/317805560",
+        "item_id": "317805560"
+      },
+      {
+        "title": "White~~9.5 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Paintable-Supreme-Silicone-Caulk-9-5-oz-Kitchen-and-bath-Sealant-White-2733743/317805535",
+        "item_id": "317805535"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 13.28,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 35
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 35,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

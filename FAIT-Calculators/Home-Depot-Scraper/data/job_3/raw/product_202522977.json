@@ -1,0 +1,170 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12688,
+    "overage_used": 2688,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DRYPLY-23-32in-x-4-ft-x-8-ft-T-G-Dryply-Plywood-Actual-0-703-in-x-48-in-x-96-in-673014/202522977"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:28:29.206Z",
+    "processed_at": "2025-05-01T13:29:32.752Z",
+    "total_time_taken": 63.55,
+    "homedepot_url": "https://www.homedepot.com/p/DRYPLY-23-32in-x-4-ft-x-8-ft-T-G-Dryply-Plywood-Actual-0-703-in-x-48-in-x-96-in-673014/202522977"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DRYPLY-23-32in-x-4-ft-x-8-ft-T-G-Dryply-Plywood-Actual-0-703-in-x-48-in-x-96-in-673014/202522977",
+    "brand": "DRYPLY",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/DRYPLY/N-5yc1vZc7q5Zzqr",
+    "title": "DRYPLY 23/32in. x 4 ft. x 8 ft T&G Dryply Plywood (Actual: 0.703 in. x 48 in. x 96 in.)",
+    "upc": "081999556822",
+    "item_id": "202522977",
+    "store_sku": "439058",
+    "model_number": "673014",
+    "description": "DryPly plywood ub-floor panels have a water-repellent coating. It provides weather protection during the normal exposed construction cycle. Pattern stock paneling will remain gorgeous for years.",
+    "favorite_count": 277,
+    "feature_bullets": [
+      "Excellent underlay for hardwood and laminated floors",
+      "Weather and water resistance allow for durable use",
+      "High-quality board ensures stiffness and workability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Backed by a lifetime limited warranty",
+      "Holds hardwood floors firmly - less squeaks",
+      "No surface flaking - excellent adhesion when used under laminate flooring",
+      "Superior stiffness - decreases the probability of tile cracking",
+      "Used for centuries in elegant and rustic settings",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2f912bd4-9630-4242-9a2b-ffa4b3265453/svn/dryply-sheathing-plywood-673014-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b77c17ae-548f-4390-a543-ad7bdc70b1af/svn/dryply-sheathing-plywood-673014-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f87ff01c-058d-4056-9e9b-111eadd2da8c/svn/dryply-sheathing-plywood-673014-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4f6b81f5-bdad-4025-9a55-bc662c1a7e31/svn/dryply-sheathing-plywood-673014-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ad55270c-1eab-414b-8d64-213eee78f5ed/svn/dryply-sheathing-plywood-673014-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2f912bd4-9630-4242-9a2b-ffa4b3265453/svn/dryply-sheathing-plywood-673014-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 70,
+    "rating": 3.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Rated Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "24 oc."
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "95.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.47 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "47.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "23/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "23/32 4 ft. x 8 ft. DryPly Sturd-I-Floor",
+      "439058"
+    ],
+    "keywords": "23/32 4 ft. x 8 ft. DryPly Sturd-I-Floor, 439058",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sheathing Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/N-5yc1vZc7q5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

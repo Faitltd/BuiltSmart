@@ -1,0 +1,220 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14660,
+    "overage_used": 4660,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Enhance-Basics-1-in-x-6-in-x-16-ft-Clam-Shell-Grooved-Edge-Grey-Composite-Deck-Board-543061416/309270366"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:01:31.685Z",
+    "processed_at": "2025-05-01T19:01:38.330Z",
+    "total_time_taken": 6.64,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Enhance-Basics-1-in-x-6-in-x-16-ft-Clam-Shell-Grooved-Edge-Grey-Composite-Deck-Board-543061416/309270366"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Enhance-Basics-1-in-x-6-in-x-16-ft-Clam-Shell-Grooved-Edge-Grey-Composite-Deck-Board-543061416/309270366",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Enhance Basics 1 in. x 6 in. x 16 ft. Clam Shell Grooved Edge Grey Composite Deck Board",
+    "upc": "652835288803",
+    "item_id": "309270366",
+    "store_sku": "1004544933",
+    "model_number": "543061416",
+    "description": "Ideal for the DIY-er, Enhance composite decking offers all of the charm and none of the trouble of real wood. Thanks to high-performance technology, Enhance decking retains its beauty for years with only minimal upkeep. and when it comes to deck design, our Decking and Railing Duos can give you an idea of what's possible. Plus, you can feel good about your purchase, since Trex is made from 95% recycled materials.",
+    "favorite_count": 5,
+    "feature_bullets": [
+      "Composite material resists splitting, warping, and rotting",
+      "Versatile colors and grain patterns add aesthetics",
+      "Tools and instructions help in easy installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Composite material that wont warp, rot, split or splinter",
+      "High-performance protective shell resists fading, staining, scratching and mold",
+      "Cleans easily with soap and water",
+      "Features high-definition grain pattern and a wide range of colors",
+      "Use grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Backed by the Trex 25-year limited residential warranty and the Trex 25-year limited residential fade and stain warranty",
+      "Note: product may vary by store",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/TREX COMPANY INC/home-depot-trex-decking-enhance-basics.jpg\">"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/95f0f303-96f3-42b2-a45c-034eb5a171c6/svn/clam-shell-trex-composite-decking-boards-543061416-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/71a5113b-1e6a-4a24-b24a-37582f4de8f7/svn/clam-shell-trex-composite-decking-boards-543061416-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5ad844f5-1238-4702-bf74-d2fde4f2de02/svn/clam-shell-trex-composite-decking-boards-543061416-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6077bc98-4ed4-4688-9fd0-1f96f24f93cc/svn/clam-shell-trex-composite-decking-boards-543061416-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc7c4edf-f401-45e6-8cae-046a2696b7a0/svn/clam-shell-trex-composite-decking-boards-543061416-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8608d23d-1340-4504-b220-e6d6494b585d/svn/clam-shell-trex-composite-decking-boards-543061416-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1b978989-ad01-4bbb-86f2-2c558f3b10e3/svn/clam-shell-trex-composite-decking-boards-543061416-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7ad0bb05-855a-4b97-8840-81fe57da1590/svn/clam-shell-trex-composite-decking-boards-543061416-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5ad844f5-1238-4702-bf74-d2fde4f2de02/svn/clam-shell-trex-composite-decking-boards-543061416-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6077bc98-4ed4-4688-9fd0-1f96f24f93cc/svn/clam-shell-trex-composite-decking-boards-543061416-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/95f0f303-96f3-42b2-a45c-034eb5a171c6/svn/clam-shell-trex-composite-decking-boards-543061416-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 51,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Clam Shell"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Universal Hidden Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Limited Residential"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "31"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 31.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "square foot",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 274,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

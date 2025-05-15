@@ -1,0 +1,164 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14472,
+    "overage_used": 4472,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-x-6-16-Cu-Ft-Trex-Transcend-Lineage-Composite-Deck-Board-Carmel-Actual-Size-94-in-W-x-5-1-2-in-CL010616TLS01-CL010616TLS01/330530914"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:42:17.315Z",
+    "processed_at": "2025-05-01T18:43:05.729Z",
+    "total_time_taken": 48.41,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-x-6-16-Cu-Ft-Trex-Transcend-Lineage-Composite-Deck-Board-Carmel-Actual-Size-94-in-W-x-5-1-2-in-CL010616TLS01-CL010616TLS01/330530914"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-x-6-16-Cu-Ft-Trex-Transcend-Lineage-Composite-Deck-Board-Carmel-Actual-Size-94-in-W-x-5-1-2-in-CL010616TLS01-CL010616TLS01/330530914",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 x 6-16 Cu. Ft. Trex Transcend Lineage Composite Deck Board - Carmel Actual Size: .94 in. W. x 5-1/2 in. CL010616TLS01",
+    "upc": "652835359015",
+    "item_id": "330530914",
+    "store_sku": "1009484084",
+    "model_number": "CL010616TLS01",
+    "description": "Elevate your outdoor space with treks transcend lineage decking, where luxury meets durability. With five exquisite color options including Island Mist, Rainier, Carmel, Biscayne, and Jasper, you can effortlessly craft a serene retreat that reflects your personal style. But beauty isn't the only feature; our decking is engineered to stay cooler under the sun, ensuring your comfort even on the hottest days. Plus, with its robust shell protection, Transcend Lineage decking resists fading and staining, offering long-lasting beauty with minimal maintenance. Enjoy peace of mind with our 50-year limited residential warranty, knowing your deck will remain a stunning centerpiece for years to come. Experience the pinnacle of outdoor living with treks transcend lineage decking.",
+    "descriptive_attributes": [
+      "Trex composite decking is a durable, beautiful, and eco-friendly alternative to traditional wood",
+      "Soft, creamy taupe, Carmel embodies the glow of white sands and cypress-covered cliffs, with its toasty brown and grey undertones.",
+      "High-performance, low-maintenance boards clean easily with soap and water and never need sanding, staining, or painting",
+      "Made of quality composite for durability; won't rot or splinter",
+      "Backed by 50-Year Limited Residential and Fade and Stain warranties",
+      "Use grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Transcend Lineage is engineered to keep your deck cooler, even on the hottest days",
+      "Made of 95% recycled materials in the USA"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0d35990f-6d58-4776-b858-efd2c0d79101/svn/carmel-trex-composite-decking-boards-cl010616tls01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/00316b56-0aed-489f-86de-57e0ca9cbd7b/svn/carmel-trex-composite-decking-boards-cl010616tls01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6dbfe3da-ab00-420c-abaa-235465d1c90e/svn/carmel-trex-composite-decking-boards-cl010616tls01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/61297eb9-d9b0-47a9-ae1e-9791f5076abb/svn/carmel-trex-composite-decking-boards-cl010616tls01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0d35990f-6d58-4776-b858-efd2c0d79101/svn/carmel-trex-composite-decking-boards-cl010616tls01-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Carmel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "and"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "42"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

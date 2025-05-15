@@ -1,0 +1,23 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 30,
+    "credits_used_this_request": 1,
+    "credits_remaining": 470,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "search",
+    "search_term": "*",
+    "page": "1",
+    "category": "Appliances",
+    "_t": "20250506000201",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-06T06:02:02.248Z",
+    "processed_at": "2025-05-06T06:02:04.077Z",
+    "total_time_taken": 1.83,
+    "lowes_url": "https://www.lowes.com/search?view=List&searchTerm=*"
+  }
+}

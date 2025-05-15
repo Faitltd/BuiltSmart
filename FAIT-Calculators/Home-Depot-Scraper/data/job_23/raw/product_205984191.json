@@ -1,0 +1,164 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14217,
+    "overage_used": 4217,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-108-1-2-in-x-1-2-in-Unfinished-Solid-Pine-Quarter-Round-Moulding-Sold-by-Linear-Foot-10000698/205984191"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:43.366Z",
+    "processed_at": "2025-05-01T18:20:48.127Z",
+    "total_time_taken": 4.76,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-108-1-2-in-x-1-2-in-Unfinished-Solid-Pine-Quarter-Round-Moulding-Sold-by-Linear-Foot-10000698/205984191"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-108-1-2-in-x-1-2-in-Unfinished-Solid-Pine-Quarter-Round-Moulding-Sold-by-Linear-Foot-10000698/205984191",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/Woodgrain-Millwork/N-5yc1vZ2fkp9hcZ7c8",
+    "title": "Woodgrain Millwork 108 1/2 in. x  1/2 in. Unfinished Solid Pine Quarter Round Moulding (Sold by Linear Foot)",
+    "upc": "049437901443",
+    "item_id": "205984191",
+    "store_sku": "927112",
+    "model_number": "10000698",
+    "description": "The Woodgrain Millwork 1/2 in. x 1/2 in. WM 108 Pine Quarter Round makes a great transition between base molding and flooring. Pine WM 108 Quarter Round can also be used to cover gaps where flooring surfaces meet base molding. Quarter round is also used to cover small alignment challenges where hard surface flooring meets the wall.",
+    "favorite_count": 369,
+    "aisle": "FW",
+    "bay": "024",
+    "feature_bullets": [
+      "Easy to install",
+      "Smooth, knot-free surface",
+      "Paintable and stainable"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be stained or painted with any high quality latex or oil based paint/stain",
+      "Classic small profile molding useful in covering small gaps",
+      "Can also be used to accent shelving, cabinets or any other interior elements",
+      "Installs with common woodworking tools",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3654f827-9b4a-42b5-af4e-2a146b890b60/svn/woodgrain-millwork-quarter-round-10000698-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3654f827-9b4a-42b5-af4e-2a146b890b60/svn/woodgrain-millwork-quarter-round-10000698-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 187,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Quarter Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "168 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.5 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "round moulding",
+      "building supply",
+      "round building supply",
+      "building supplies",
+      "round building supplies",
+      "pine moulding",
+      "pine building supply",
+      "pine building supplies",
+      "paintable moulding",
+      "paintable building supply",
+      "paintable building supplies"
+    ],
+    "keywords": "moulding, round moulding, building supply, round building supply, building supplies, round building supplies, pine moulding, pine building supply, pine building supplies, paintable moulding, paintable building supply, paintable building supplies",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/N-5yc1vZ2fkp9hc"
+      }
+    ],
+    "buybox_winner": {
+      "price": 0.86,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 848
+        }
+      }
+    }
+  }
+}

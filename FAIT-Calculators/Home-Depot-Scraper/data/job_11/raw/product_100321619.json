@@ -1,0 +1,204 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13645,
+    "overage_used": 3645,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-3-1-4-in-Pine-Base-Moulding-P221/100321619"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:52:36.917Z",
+    "processed_at": "2025-05-01T16:52:41.060Z",
+    "total_time_taken": 4.14,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-3-1-4-in-Pine-Base-Moulding-P221/100321619"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-3-1-4-in-Pine-Base-Moulding-P221/100321619",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Kelleher/N-5yc1vZcbjpZ4z5",
+    "title": "Kelleher LWM623 9/16 in. x 3-1/4 in. Pine Base Moulding",
+    "upc": "099443028160",
+    "item_id": "100321619",
+    "store_sku": "927422",
+    "model_number": "P221",
+    "description": "The Kelleher Corporation 3-1/4 in. x 9/16 in. Pine Base Moulding is applied where the floor meets a wall. It will add a finished, detailed look to a room. It can also cover an uneven flooring edge.",
+    "favorite_count": 5,
+    "aisle": "FW",
+    "bay": "017",
+    "feature_bullets": [
+      "Perfect for providing a detailed look to uneven flooring edges",
+      "Made of high-quality pinewood to ensure longevity",
+      "Paintable or stainable for customized utility"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Pine construction for durability",
+      "Suitable for paint or stain",
+      "Covers an uneven flooring edge",
+      "Adds a finished, detailed look to a room",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7598f3b6-8a5b-4087-95cc-07281a5674cd/svn/unfinished-kelleher-baseboard-p221-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0835db1b-a116-494e-b0ba-e5990624978e/svn/unfinished-kelleher-baseboard-p221-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7598f3b6-8a5b-4087-95cc-07281a5674cd/svn/unfinished-kelleher-baseboard-p221-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "221"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "keywords_list": [
+      "base moulding",
+      "pine base moulding",
+      "building supply",
+      "pine building supply",
+      "building supplies",
+      "pine building supplies",
+      "paintable base moulding",
+      "paintable building supply",
+      "paintable building supplies"
+    ],
+    "keywords": "base moulding, pine base moulding, building supply, pine building supply, building supplies, pine building supplies, paintable base moulding, paintable building supply, paintable building supplies",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.09,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 999
+        }
+      }
+    }
+  }
+}

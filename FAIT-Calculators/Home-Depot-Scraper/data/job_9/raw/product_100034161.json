@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13675,
+    "overage_used": 3675,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Henry-289-Elastomeric-White-Roofing-Sealant-Caulk-10-1-oz-HE289004/100034161"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:41.653Z",
+    "processed_at": "2025-05-01T16:53:47.604Z",
+    "total_time_taken": 5.95,
+    "homedepot_url": "https://www.homedepot.com/p/Henry-289-Elastomeric-White-Roofing-Sealant-Caulk-10-1-oz-HE289004/100034161"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Henry-289-Elastomeric-White-Roofing-Sealant-Caulk-10-1-oz-HE289004/100034161",
+    "brand": "Henry",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Sealants/Henry/N-5yc1vZ1z18gijZ2wn",
+    "title": "Henry 289 Elastomeric White Roofing Sealant Caulk 10.1 oz.",
+    "upc": "081725289048",
+    "item_id": "100034161",
+    "parent_id": "327850260",
+    "store_sku": "371283",
+    "model_number": "HE289004",
+    "description": "Henry 289 White Roofing Sealant is specially formulated to prevent and repair roof leaks when applied to a dry or damp surface. Its thick water-based formula provides excellent adhesion on a variety of surfaces. This product is also suitable for use with acrylic roof coatings.",
+    "is_exclusive": true,
+    "favorite_count": 81,
+    "aisle": "25",
+    "bay": "021",
+    "feature_bullets": [
+      "Seals leaks on dry surfaces and skins over quickly",
+      "Excellent adhesion to a variety of construction materials",
+      "Specially formulated for use with acrylic reflective coatings"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Applies to dry or damp surfaces to prevent and repair roof leaks",
+      "Skins over quickly - no delays",
+      "Allows for soap and water cleanup",
+      "Works with reflective acrylic coatings and won't bleed through",
+      "Seals skylights, roof vents, air conditioning units, chimneys, seams or anywhere else that leaks are likely to occur",
+      "Provides up to 12-1/2 sq. ft. of coverage at 1/8 in.",
+      "Apply with a caulk gun, brush or roof trowel"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/329b5f9e-e4e8-4e8a-9577-5d2e75382a39/svn/white-henry-roof-sealants-he289004-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7d88e003-7a43-4664-9af4-199c31aa4038/svn/white-henry-roof-sealants-he289004-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/392ccd43-304d-48d0-921a-34072863d8b9/svn/white-henry-roof-sealants-he289004-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c8e120d3-bdea-44fa-a0f0-eb501d9e394c/svn/white-henry-roof-sealants-he289004-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/329b5f9e-e4e8-4e8a-9577-5d2e75382a39/svn/white-henry-roof-sealants-he289004-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 800,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Brush On,Caulk Gun/Dispenser,Trowel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coating Base",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cold Applied",
+        "value": "Cold Applied"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Algae Resistant,Corrosion Resistant,Extreme Heat,High Impact/Hail Resistant,High Reflectivity,High Wind Resistant,Impact Resistant,Mildew Resistant,Paintable,Quick Dry,Rust Resistant,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roof Repair Type",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Sealant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "12-month limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size (oz.)",
+        "value": "10.1 oz"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2 in"
+      }
+    ],
+    "keywords_list": [
+      "roof cement",
+      "fast curing roof cement",
+      "roof sealant",
+      "fast curing roof sealant",
+      "waterproof roof cement",
+      "waterproof roof sealant",
+      "Henry roof cement"
+    ],
+    "keywords": "roof cement, fast curing roof cement, roof sealant, fast curing roof sealant, waterproof roof cement, waterproof roof sealant, Henry roof cement",
+    "variants": [
+      {
+        "title": "White~~115 oz",
+        "link": "https://www.homedepot.com/p/Henry-289-Elastomeric-White-Roofing-Sealant-0-90-gal-HE289146/100051524",
+        "item_id": "100051524"
+      },
+      {
+        "title": "White~~10.1 oz",
+        "link": "https://www.homedepot.com/p/Henry-289-Elastomeric-White-Roofing-Sealant-Caulk-10-1-oz-HE289004/100034161",
+        "item_id": "100034161"
+      },
+      {
+        "title": "Clear~~10.1 oz",
+        "link": "https://www.homedepot.com/p/Henry-212-All-Purpose-Crystal-Clear-Sealant-Caulk-10-1-oz-HE212202/202091011",
+        "item_id": "202091011"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Commercial Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing/N-5yc1vZapzz"
+      },
+      {
+        "name": "Roof Sealants",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Sealants/N-5yc1vZ1z18gij"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 59
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 78,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

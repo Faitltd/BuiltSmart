@@ -1,0 +1,252 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14320,
+    "overage_used": 4320,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-49-9-16-in-x-3-5-8-in-x-192-in-Primed-Finger-Jointed-Crown-Moulding-10000475/100321481"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:26:29.212Z",
+    "processed_at": "2025-05-01T18:26:34.905Z",
+    "total_time_taken": 5.69,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-49-9-16-in-x-3-5-8-in-x-192-in-Primed-Finger-Jointed-Crown-Moulding-10000475/100321481"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-49-9-16-in-x-3-5-8-in-x-192-in-Primed-Finger-Jointed-Crown-Moulding-10000475/100321481",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/Woodgrain-Millwork/N-5yc1vZcbjiZ7c8",
+    "title": "Woodgrain Millwork WM 49 9/16 in. x 3-5/8 in. x 192 in. Primed Finger-Jointed Crown Moulding",
+    "upc": "095624985208",
+    "item_id": "100321481",
+    "parent_id": "324384565",
+    "store_sku": "592033",
+    "model_number": "10000475",
+    "description": "The Woodgrain Millwork 9/16 in. x 3-5/8 in. WM 49 Prime Finger-Joint Crown Molding is used where walls meet ceilings. Prime Finger-Joint WM 49 Crown Molding is the best way to add interest to any room or space. Crown moldings come in a variety of sizes and patterns and can be combined to create one of kind molding buildups.",
+    "is_bestseller": true,
+    "favorite_count": 695,
+    "aisle": "FW",
+    "bay": "022",
+    "feature_bullets": [
+      "Install where walls and ceilings meet or use to create mantels",
+      "Smooth, primed surface can be painted to match your decor",
+      "Can be combined with other moldings to create unique designs"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Installs with common woodworking tools",
+      "Can be used to create mantels or cornices",
+      "Spring angle - 51/39",
+      "Note: product may vary by store",
+      "<a href=\"https://www.homedepot.com/collection/decor/coastal-retreat-living-room\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/59/Catalog/C02_CR_LivingRoom.jpg\"></a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/18bdfdd9-5783-4ab0-83a8-b2aebd539484/svn/white-woodgrain-millwork-crown-moulding-10000475-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0b3e8e03-c245-4e62-933b-d9eb743294dc/svn/white-woodgrain-millwork-crown-moulding-10000475-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-crown-moulding-10000475-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45332365-3afb-4fb0-bf0a-2a4612cca9f6/svn/white-woodgrain-millwork-crown-moulding-10000475-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/18bdfdd9-5783-4ab0-83a8-b2aebd539484/svn/white-woodgrain-millwork-crown-moulding-10000475-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 515,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Adhesive,Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint,Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Crown Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "49"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.625 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "pine moulding",
+      "mouldings",
+      "pine mouldings",
+      "crown moulding",
+      "pine crown moulding",
+      "crown mouldings",
+      "pine crown mouldings",
+      "wood moulding",
+      "wood mouldings",
+      "wood crown moulding",
+      "wood crown mouldings"
+    ],
+    "keywords": "moulding, pine moulding, mouldings, pine mouldings, crown moulding, pine crown moulding, crown mouldings, pine crown mouldings, wood moulding, wood mouldings, wood crown moulding, wood crown mouldings",
+    "variants": [
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-47-13-22-in-x-4-5-8-in-x-96-in-Primed-MDF-Crown-Moulding-1-Piece-8-Total-Linear-Feet-10001938/203898759",
+        "item_id": "203898759"
+      },
+      {
+        "title": "White~~1 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-49-9-16-in-x-3-5-8-in-x-192-in-Primed-Finger-Jointed-Crown-Moulding-10000475/100321481",
+        "item_id": "100321481"
+      },
+      {
+        "title": "white~~12 ft~~Wood~~5",
+        "link": "https://www.homedepot.com/p/CMPC-LWM-49-9-16-in-x-3-5-8-in-x-144-in-Pine-Primed-Wood-Finger-Jointed-Crown-Molding-Pro-Pack-60-LF-M-5-Pieces-VM049C-12M/202087152",
+        "item_id": "202087152"
+      },
+      {
+        "title": "White~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-49-9-16-in-x-3-5-8-in-x-192-in-Primed-Pine-Finger-Jointed-Crown-Moulding-10000475F/315636269",
+        "item_id": "315636269"
+      },
+      {
+        "title": "White~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-49-9-16-in-x-3-5-8-in-x-96-in-Primed-Finger-Jointed-Crown-Moulding-10000477/203209442",
+        "item_id": "203209442"
+      },
+      {
+        "title": "Wood~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-47-9-16-in-x-4-5-8-in-x-96-in-Wood-Prime-Finger-Jointed-Crown-Moulding-10001939/203898760",
+        "item_id": "203898760"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Crown Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/N-5yc1vZcbji"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.68,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 4169
+        }
+      }
+    }
+  }
+}

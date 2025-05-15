@@ -1,0 +1,286 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13665,
+    "overage_used": 3665,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-Clear-Latex-Caulk-Sealant-2154740/304219355"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:14.691Z",
+    "processed_at": "2025-05-01T16:53:20.892Z",
+    "total_time_taken": 6.2,
+    "homedepot_url": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-Clear-Latex-Caulk-Sealant-2154740/304219355"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-Clear-Latex-Caulk-Sealant-2154740/304219355",
+    "brand": "Loctite",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/Loctite/N-5yc1vZcibhZ4ck",
+    "title": "Loctite Polyseamseal All Purpose 10 oz. Clear Latex Caulk Sealant",
+    "upc": "079340650862",
+    "item_id": "304219355",
+    "parent_id": "308629117",
+    "store_sku": "599506",
+    "model_number": "2154740",
+    "description": "Loctite Polyseamseal All-Purpose Caulk is a premium grade water-based caulk designed to have the strength of an adhesive and the sealing characteristics of a caulk. Since it is latex based, this adhesive caulk is easy to apply and tool. It has very low odor, so it is perfect for indoor projects. Loctite Polyseamseal All-Purpose Sealant is environmentally safe and easy to clean up with just soap and water. Once fully cured after 24 hours, this unique caulking is weather-resistant, mold and mildew resistant, as well as paintable after 40 minutes. This sealant was designed to be a multiple use adhesive and caulk and can be used for almost any household or remodeling project. It is excellent for gluing loose molding or tiles, securing backsplashes, setting sinks and even repairing or concealing small cracks in plaster, drywall or around molding and baseboards. Loctite Polyseamseal All-Purpose Sealant can even help to lower energy costs by sealing air leaks around windows and doors as well as other utility and plumbing penetrations. The permanently flexible seal provides a long lasting, professional finish for any household project.",
+    "favorite_count": 47,
+    "feature_bullets": [
+      "All Purpose caulk for many household projects, inside or outside",
+      "Flexible adhesive caulk, easy to apply, fully cures in 24 hours",
+      "Low odor sealant, paintable and resistant to mildew and mold"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Caulking designed to have the strength of an adhesive and the sealing characteristics of a caulk",
+      "Formulated for sealing most indoor projects in and around the house",
+      "Strong adhesion and a permanently flexible seal provides long-lasting bond",
+      "Cured caulk resists and inhibits mold and mildew growth; ideal for humid or steamy areas",
+      "Versatile and bonds to almost any surface including wood, concrete, metal, ceramic, drywall, plaster, tile and more",
+      "Uncured caulk cleans up easily with just soap and water",
+      "Paintable after only 40 minutes for a professional finish",
+      "Low odor and non-flammable for interior projects"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/62d84593-cfcd-5118-8261-e875bbd551d3/svn/clear-loctite-caulk-2154740-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b3a812b1-a392-4729-9dc1-70756c9eb409/svn/clear-loctite-caulk-2154740-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dca74a69-7328-4495-8d1e-7b05d93abe6c/svn/clear-loctite-caulk-2154740-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f9b1a74e-89c0-4962-8982-c01c26a13e09/svn/clear-loctite-caulk-2154740-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/599ffa0a-ff4f-46e0-bf0f-cbc70a0780ec/svn/clear-loctite-caulk-2154740-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/feaf6b76-2e83-4ab0-974d-ab021199a3a8/svn/clear-loctite-caulk-2154740-66_1000.jpg",
+        "type": "image_back_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/62d84593-cfcd-5118-8261-e875bbd551d3/svn/clear-loctite-caulk-2154740-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 213,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Multipurpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "30.6"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "6 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant,Paintable,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hub Required",
+        "value": "No hub connection available"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Remote Access",
+        "value": "No Remote Access"
+      },
+      {
+        "group_name": "Details",
+        "name": "Requires Hub?",
+        "value": "No Hub Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Voice Control Hub Required",
+        "value": "No Voice Control"
+      },
+      {
+        "group_name": "Details",
+        "name": "Works With",
+        "value": "No additional compatibility"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10 oz"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Clear~~10 oz~~12",
+        "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-Clear-Latex-Caulk-Sealant-12-pack-2154740/304224978",
+        "item_id": "304224978"
+      },
+      {
+        "title": "Almond~~10 oz~~12",
+        "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-Almond-Latex-Caulk-Sealant-12-pack-2137996/304769706",
+        "item_id": "304769706"
+      },
+      {
+        "title": "Almond~~10 oz~~1",
+        "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-Almond-Latex-Caulk-Sealant-2137996/304234384",
+        "item_id": "304234384"
+      },
+      {
+        "title": "White~~10 oz~~1",
+        "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-White-Latex-Caulk-Sealant-2154751/302330147",
+        "item_id": "302330147"
+      },
+      {
+        "title": "Clear~~5.5 oz~~12",
+        "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-5-5-oz-Clear-Latex-Caulk-Sealant-12-pack-2139007/304769106",
+        "item_id": "304769106"
+      },
+      {
+        "title": "Clear~~10 oz~~1",
+        "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-Clear-Latex-Caulk-Sealant-2154740/304219355",
+        "item_id": "304219355"
+      },
+      {
+        "title": "White~~5.5 oz~~12",
+        "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-5-5-oz-White-Latex-Caulk-Sealant-12-pack-2139006/304768438",
+        "item_id": "304768438"
+      },
+      {
+        "title": "White~~10 oz~~12",
+        "link": "https://www.homedepot.com/p/Loctite-Polyseamseal-All-Purpose-10-oz-White-Latex-Caulk-Sealant-12-pack-2154751/302330251",
+        "item_id": "302330251"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.18,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 309,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-08"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 309,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14006,
+    "overage_used": 4006,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-1-1-2-in-x-5-8-in-Vinyl-S4S-Molding-0215012011/100091434"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:16.853Z",
+    "processed_at": "2025-05-01T17:51:26.758Z",
+    "total_time_taken": 9.9,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-1-1-2-in-x-5-8-in-Vinyl-S4S-Molding-0215012011/100091434"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-1-1-2-in-x-5-8-in-Vinyl-S4S-Molding-0215012011/100091434",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Royal-Mouldings/N-5yc1vZcbj5Z8ui",
+    "title": "Royal Mouldings 12 ft. x 1-1/2 in. x 5/8 in. Vinyl S4S Molding",
+    "upc": "070673836831",
+    "item_id": "100091434",
+    "parent_id": "334560951",
+    "store_sku": "245779",
+    "model_number": "0215012011",
+    "description": "The Royal Moldings Never Rot 12 ft. x 1-1/2 in. x 5/8 in. Vinyl S4S Molding is an exterior molding that is ideal for transitions and edge covers. Royal PVC molding is very durable and easy to install with standard wood working tools. Adding molding to your home adds a nice detailed finishing touch.",
+    "favorite_count": 323,
+    "aisle": "19",
+    "bay": "007",
+    "feature_bullets": [
+      "Durable and lightweight vinyl construction",
+      "Moisture, termite and rot-resistant design",
+      "Ideal for application at transitions"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of vinyl",
+      "Pre-finished for easy painting with 100% acrylic latex paint.",
+      "Moisture, rot and termite resistant",
+      "Use for transitions and edge covers",
+      "12 ft. Length",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a6d863ba-26da-440b-b1ac-146b61335ecf/svn/white-royal-mouldings-general-purpose-moulding-0215012011-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8bb56369-c2f3-4fa3-a7bc-21ad56486c8b/svn/white-royal-mouldings-general-purpose-moulding-0215012011-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7aa2d801-baad-4085-a2f1-61b9c71e63cb/svn/white-royal-mouldings-general-purpose-moulding-0215012011-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e3efd496-a812-4c92-93de-c240b23b2ead/svn/white-royal-mouldings-general-purpose-moulding-0215012011-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cd6d0277-b169-4aa8-b97e-20db762a44e0/svn/white-royal-mouldings-general-purpose-moulding-0215012011-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a6d863ba-26da-440b-b1ac-146b61335ecf/svn/white-royal-mouldings-general-purpose-moulding-0215012011-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 297,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Adhesive,Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Moisture Resistant,Paintable,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "S4S Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2150"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.5 in"
+      }
+    ],
+    "keywords_list": [
+      "rubber baseboards",
+      "moulding",
+      "vinyl moulding",
+      "mouldings",
+      "vinyl mouldings",
+      "S4S moulding",
+      "S4S mouldings",
+      "Never Rot moulding",
+      "Never Rot mouldings"
+    ],
+    "keywords": "rubber baseboards, moulding, vinyl moulding, mouldings, vinyl mouldings, S4S moulding, S4S mouldings, Never Rot moulding, Never Rot mouldings",
+    "variants": [
+      {
+        "title": "White~~1 in",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-2363-3-4-in-x-1-in-x-12-ft-PVC-S4S-Molding-0236312003/202089966",
+        "item_id": "202089966"
+      },
+      {
+        "title": "White~~3.5 in",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-4-in-x-1-in-Vinyl-Trim-Plank-Molding-0731812003/100060499",
+        "item_id": "100060499"
+      },
+      {
+        "title": "White~~1.5 in",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-1-1-2-in-x-5-8-in-Vinyl-S4S-Molding-0215012011/100091434",
+        "item_id": "100091434"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 12.74,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 37
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 37,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

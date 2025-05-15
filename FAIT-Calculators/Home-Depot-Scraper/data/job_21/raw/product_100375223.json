@@ -1,0 +1,21 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14380,
+    "overage_used": 4380,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-ECCQ-End-Column-Cap-for-6x-Beam-6x-Post-with-Strong-Drive-SDS-Screws-ECCQ66SDS2-5/100375223"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:30:47.090Z",
+    "processed_at": "2025-05-01T18:30:49.865Z",
+    "total_time_taken": 2.77,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-ECCQ-End-Column-Cap-for-6x-Beam-6x-Post-with-Strong-Drive-SDS-Screws-ECCQ66SDS2-5/100375223"
+  },
+  "message": "Product not found."
+}

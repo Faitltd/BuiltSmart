@@ -1,0 +1,197 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14787,
+    "overage_used": 4787,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-16-ft-Timber-Brown-Grooved-Edge-Capped-Composite-Decking-Board-BRDVCDG-B-16/324920738"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:28:04.181Z",
+    "processed_at": "2025-05-01T19:28:49.550Z",
+    "total_time_taken": 45.37,
+    "homedepot_url": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-16-ft-Timber-Brown-Grooved-Edge-Capped-Composite-Decking-Board-BRDVCDG-B-16/324920738"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-16-ft-Timber-Brown-Grooved-Edge-Capped-Composite-Decking-Board-BRDVCDG-B-16/324920738",
+    "brand": "Veranda",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Veranda/N-5yc1vZc5mbZ1ko",
+    "title": "Veranda 15/16 in. x 5-1/4 in. x 16 ft. Timber Brown Grooved Edge Capped Composite Decking Board",
+    "upc": "844219033677",
+    "item_id": "324920738",
+    "parent_id": "327565291",
+    "store_sku": "1009454783",
+    "model_number": "BRDVCDG B 16",
+    "description": "Veranda PE composite decking by Fiberon is available in 2 versatile solid colors with realistic, wood-grained embossing - Timber Brown and Stone Gray. Making it even easier for you to find the perfect look for your outdoor living space. Whether you're adding a brand-new deck or upgrading your worn-out wood decking, Veranda by Fiberon helps you create a look that lasts.",
+    "feature_bullets": [
+      "Realistic wood-grained embossing offers a natural look",
+      "Low maintenance composite material resists mold and mildew",
+      "Prefinished with protective cap for added durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Veranda PE composite decking offers great performance at an exceptional value",
+      "Veranda deck boards are prefinished, and feature a durable, protective cap",
+      "Unlike wood, Veranda deck boards never need to be painted or refinished",
+      "The low-maintenance composite material is easy to clean, and resists mold and mildew",
+      "16 ft. and 20 ft. grooved deck boards are available for hidden fastener installation.",
+      "Complementary fascia colors are available for purchase"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ab615d3f-aaf3-4ec8-bb3d-bba76873134f/svn/timber-brown-veranda-composite-decking-boards-brdvcdg-b-16-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1883da98-458f-45ef-86a8-67d09ca63302/svn/timber-brown-veranda-composite-decking-boards-brdvcdg-b-16-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/479c4dc4-0442-413e-876c-1f34850f1d38/svn/timber-brown-veranda-composite-decking-boards-brdvcdg-b-16-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4ed2f780-e7ff-44e6-87ed-a5edfea6076d/svn/timber-brown-veranda-composite-decking-boards-brdvcdg-b-16-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f0abac47-1406-4e07-ad38-f1a2a799797f/svn/timber-brown-veranda-composite-decking-boards-brdvcdg-b-16-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ab615d3f-aaf3-4ec8-bb3d-bba76873134f/svn/timber-brown-veranda-composite-decking-boards-brdvcdg-b-16-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 141,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Timber Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Fiberon ArmorGuard hidden fastners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Backed by a 25-year stain, fade and performance warranty."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".93 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "34"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Stone Gray~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-20-ft-Stone-Gray-Grooved-Edge-Capped-Composite-Decking-Board-BRDVCDG-G-20/324920655",
+        "item_id": "324920655"
+      },
+      {
+        "title": "Timber Brown~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-20-ft-Timber-Brown-Grooved-Edge-Capped-Composite-Decking-Board-BRDVCDG-B-20/324920656",
+        "item_id": "324920656"
+      },
+      {
+        "title": "Stone Gray~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-16-ft-Stone-Gray-Grooved-Edge-Capped-Composite-Decking-Board-BRDVCDG-G-16/324920739",
+        "item_id": "324920739"
+      },
+      {
+        "title": "Timber Brown~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-16-ft-Timber-Brown-Grooved-Edge-Capped-Composite-Decking-Board-BRDVCDG-B-16/324920738",
+        "item_id": "324920738"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

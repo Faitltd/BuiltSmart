@@ -1,0 +1,143 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12668,
+    "overage_used": 2668,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DPI-Hardboard-Tempered-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-SS2204825/321726020"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:27:59.685Z",
+    "processed_at": "2025-05-01T13:28:04.335Z",
+    "total_time_taken": 4.65,
+    "homedepot_url": "https://www.homedepot.com/p/DPI-Hardboard-Tempered-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-SS2204825/321726020"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DPI-Hardboard-Tempered-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-SS2204825/321726020",
+    "brand": "Unbranded",
+    "title": "Unbranded DPI Hardboard Tempered Panel (Common: 3/16 in. x 4 ft. x 8 ft., Actual: 0.155 in. x 47.7 in. x 95.7 in.)",
+    "upc": "765096090341",
+    "item_id": "321726020",
+    "store_sku": "832780",
+    "model_number": "SS2204825",
+    "description": "DPI S2S tempered Hardboard Panel is great for use in signs, arts and crafts, packaging, floor protectors, sample boards and for making furniture. Our hardboard resists buckling and warping. It comes brown but is paintable. This product contains a mold-resistant formulation built into the substrate to fend off typical stains.",
+    "descriptive_attributes": [
+      "Both sides are smooth and usable",
+      "Great machinability with a router or drill",
+      "No added formaldehyde- meets carb l and carb ll requirements",
+      "100% sourced using sustainable forestry practices",
+      "Back surface is readily glued with commercially available adhesives for wood"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/faf4afa8-f031-4af9-b444-69ea7a75b921/svn/mdf-ss2204825-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/faf4afa8-f031-4af9-b444-69ea7a75b921/svn/mdf-ss2204825-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardboard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.00 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 22.52,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 96,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

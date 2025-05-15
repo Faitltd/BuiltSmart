@@ -1,0 +1,229 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14022,
+    "overage_used": 4022,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-1-35-64-in-x-1-4-in-Cellular-Vinyl-Lattice-Molding-0201812005/202089969"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:44.730Z",
+    "processed_at": "2025-05-01T17:51:50.157Z",
+    "total_time_taken": 5.43,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-1-35-64-in-x-1-4-in-Cellular-Vinyl-Lattice-Molding-0201812005/202089969"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-1-35-64-in-x-1-4-in-Cellular-Vinyl-Lattice-Molding-0201812005/202089969",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Royal-Mouldings/N-5yc1vZcbj5Z8ui",
+    "title": "Royal Mouldings 12 ft. x 1-35/64 in. x 1/4 in. Cellular Vinyl Lattice Molding",
+    "upc": "070673561085",
+    "item_id": "202089969",
+    "store_sku": "745535",
+    "model_number": "0201812005",
+    "description": "For a strong, pre-finished molding, select the 12 ft. x 1-35/64 in. x 1/4 in. Cellular Vinyl Lattice Molding. It can be installed inside or outdoors. Install as is or apply paint or stain.",
+    "favorite_count": 173,
+    "aisle": "19",
+    "bay": "005",
+    "feature_bullets": [
+      "100% PVC",
+      "Rot free, moisture and termite proof material",
+      "Paintable with 100% acrylic latex paint"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of durable cellular vinyl",
+      "Pre-finished white and can be painted or stained",
+      "Resists moisture, rot and termites",
+      "For interior or exterior use",
+      "12 ft. Length",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/17d05329-10da-42a3-bd0a-5b9f72b55fc2/svn/white-royal-mouldings-general-purpose-moulding-0201812005-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/49f6cf0b-8ea5-4ec9-9a59-252ffe8b0e0f/svn/white-royal-mouldings-general-purpose-moulding-0201812005-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cd4d96b8-b6a7-4217-a7b0-582e172f73c9/svn/white-royal-mouldings-general-purpose-moulding-0201812005-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b06b9ef9-9e5d-416f-a746-589d6f4f6959/svn/white-royal-mouldings-general-purpose-moulding-0201812005-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/48f4c49f-08d1-4529-a434-1a2a51ca374e/svn/white-royal-mouldings-general-purpose-moulding-0201812005-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34212c6b-5e50-44e7-977e-f9ff9bbe2a38/svn/white-royal-mouldings-general-purpose-moulding-0201812005-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/17d05329-10da-42a3-bd0a-5b9f72b55fc2/svn/white-royal-mouldings-general-purpose-moulding-0201812005-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 123,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Lattice Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2018"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.5 in"
+      }
+    ],
+    "keywords_list": [
+      "lattice moulding",
+      "vinyl lattice moulding",
+      "moulding",
+      "vinyl moulding",
+      "pre-finished lattice moulding",
+      "pre-finished moulding",
+      "white lattice moulding"
+    ],
+    "keywords": "lattice moulding, vinyl lattice moulding, moulding, vinyl moulding, pre-finished lattice moulding, pre-finished moulding, white lattice moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 13.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 54
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 61,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

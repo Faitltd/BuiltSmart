@@ -1,0 +1,160 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14861,
+    "overage_used": 4861,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-2-in-x-8-ft-Premium-S4S-Cedar-Lumber-226573/202086386"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:58:19.734Z",
+    "processed_at": "2025-05-01T19:59:12.383Z",
+    "total_time_taken": 52.65,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-2-in-x-8-ft-Premium-S4S-Cedar-Lumber-226573/202086386"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-2-in-x-8-ft-Premium-S4S-Cedar-Lumber-226573/202086386",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 2 in. x 8 ft. Premium S4S Cedar Lumber",
+    "upc": "812181004049",
+    "item_id": "202086386",
+    "store_sku": "226573",
+    "model_number": "226573",
+    "description": "When planning on building a deck consider the 6 in. 2 in. x 2 in. x 8 ft. Cedar Decking Board. This untreated natural wood board can be stained or painted to match your existing decking decor.",
+    "favorite_count": 438,
+    "feature_bullets": [
+      "High-quality untreated wood can be painted to suit your decor",
+      "Resists decay offering years of reliable usage",
+      "Smoothened surfaces on all sides enhance utility"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of cedar",
+      "#2 and better lumber grade",
+      "Can be stained or painted",
+      "Surfaced on all four sides",
+      "Naturally resistant to decay",
+      "Note: product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/8d68ceb8-aa7e-47dc-8f23-e93b009e9384/svn/framing-lumber-226573-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/8d68ceb8-aa7e-47dc-8f23-e93b009e9384/svn/framing-lumber-226573-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 67,
+    "rating": 3.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "No. 2 & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "8"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Cedar"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "7"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "2 in"
+      }
+    ],
+    "keywords_list": [
+      "decking board",
+      "cedar decking board",
+      "board",
+      "cedar board",
+      "untreated decking board",
+      "untreated board",
+      "wood decking board",
+      "wood board"
+    ],
+    "keywords": "decking board, cedar decking board, board, cedar board, untreated decking board, untreated board, wood decking board, wood board",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

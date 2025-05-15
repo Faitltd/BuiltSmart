@@ -1,0 +1,180 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13753,
+    "overage_used": 3753,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/LTL-Home-Products-Groundmaster-30-in-Gray-Post-GM-30/100039044"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:57:30.537Z",
+    "processed_at": "2025-05-01T16:57:35.635Z",
+    "total_time_taken": 5.1,
+    "homedepot_url": "https://www.homedepot.com/p/LTL-Home-Products-Groundmaster-30-in-Gray-Post-GM-30/100039044"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/LTL-Home-Products-Groundmaster-30-in-Gray-Post-GM-30/100039044",
+    "brand": "LTL Home Products",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Specialty-Fasteners-Composite-Fasteners/LTL-Home-Products/N-5yc1vZc2c2Zcan",
+    "title": "LTL Home Products Groundmaster 30 in. Gray Post",
+    "upc": "094416300366",
+    "item_id": "100039044",
+    "store_sku": "655843",
+    "model_number": "GM-30",
+    "description": "Install decking, retaining walls, small fences, signs, steps, piers and carports with the LTL Home Groundmaster 30 in. Gray Posts. These posts are constructed of steel and are rust and scratch resistant. Two bolts and two nuts are included to safely secure post (not included). Easy to install. Not recommended for fences over 5 ft. in height and cannot be used with closed fences.",
+    "is_top_rated": true,
+    "favorite_count": 352,
+    "feature_bullets": [
+      "Heavy-gauge steel construction for enhanced durability",
+      "Powder coating resists rusting, scratching, and corrosion",
+      "Features a 30 in. long design and includes two mounting bolts"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Heavy-gauge steel construction",
+      "30 in. long",
+      "Scratch-resistant powder-coated finish",
+      "Rust and corrosion resistant",
+      "Includes 2 mounting bolts",
+      "Tested to withstand nature is extremes",
+      "2 bolts (included) safely secure post",
+      "Not recommended for fences over 5 ft",
+      "Cannot be used with closed fences",
+      "Note: Product may vary by store."
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e254c5fe-c612-4467-862e-28cdd361de39/svn/grays-ltl-home-products-composite-fasteners-gm-30-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b1d27e30-2a6f-417e-b364-a715b81a772a/svn/grays-ltl-home-products-composite-fasteners-gm-30-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4572438f-6e3f-4fa6-af76-dc6a01a68320/svn/grays-ltl-home-products-composite-fasteners-gm-30-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/86a15b09-ad2d-4425-bc28-0579dcd8036d/svn/grays-ltl-home-products-composite-fasteners-gm-30-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e254c5fe-c612-4467-862e-28cdd361de39/svn/grays-ltl-home-products-composite-fasteners-gm-30-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 266,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Grays"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Specialty Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "6.3 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Depth (in.)",
+        "value": "4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Height (in.)",
+        "value": "35.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Width (in.)",
+        "value": "4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Fastener Length (in.)",
+        "value": "1.5"
+      }
+    ],
+    "keywords_list": [
+      "LTL Home",
+      "Groundmaster 30 in. Gray Posts (24-Pack)",
+      "GM-30"
+    ],
+    "keywords": "LTL Home, Groundmaster 30 in. Gray Posts (24-Pack), GM-30",
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Specialty Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Specialty-Fasteners/N-5yc1vZc2au"
+      },
+      {
+        "name": "Composite Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Specialty-Fasteners-Composite-Fasteners/N-5yc1vZc2c2"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.96,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

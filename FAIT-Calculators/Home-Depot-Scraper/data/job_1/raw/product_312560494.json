@@ -1,0 +1,245 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14935,
+    "overage_used": 4935,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/ZEP-32-oz-Acidic-Toilet-Bowl-Cleaner-ZUATBC32/312560494"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:44:18.252Z",
+    "processed_at": "2025-05-02T21:44:22.314Z",
+    "total_time_taken": 4.06,
+    "homedepot_url": "https://www.homedepot.com/p/ZEP-32-oz-Acidic-Toilet-Bowl-Cleaner-ZUATBC32/312560494"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/ZEP-32-oz-Acidic-Toilet-Bowl-Cleaner-ZUATBC32/312560494",
+    "brand": "ZEP",
+    "brand_link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Bathroom-Cleaners-Toilet-Bowl-Cleaners/ZEP/N-5yc1vZcba1Z1n9",
+    "title": "ZEP 32 oz. Acidic Toilet Bowl Cleaner",
+    "upc": "021709022896",
+    "item_id": "312560494",
+    "parent_id": "317165205",
+    "store_sku": "1005225403",
+    "model_number": "ZUATBC32",
+    "description": "Quickly eliminates rust, organic stains and hard water residue from toilets and urinals. Its powerful 10% acid gel formula tackles even the most stubborn of stains, while the thick gel clings to vertical surfaces. The angled neck and squirt top make under-the-rim application easy. Plus, its fresh winter green scent neutralizers harsh odors.",
+    "favorite_count": 35,
+    "aisle": "53",
+    "bay": "014",
+    "collection": {
+      "id": "Family-325947957",
+      "name": "Family-325947957",
+      "link": "https://www.homedepot.com/collection/Cleaning/Zep-Plus-Spring-Cleaning-Bathroom-Collection/Family-325947957?omsid=312560494"
+    },
+    "feature_bullets": [
+      "Pro Grade acidic formula eliminates rust, stains & water residue",
+      "Angled neck and squirt top makes under-the-rim application easy",
+      "Strong 10% acid gel formula is perfect for use in toilets/urinals"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Thick gel clings to vertical surfaces",
+      "Fresh winter green fragrance",
+      "Safe for septic tanks, drain lines and water treatment systems",
+      "Instructions: Apply under rim &amp; around sides, wait 5 minutes, scrub and flush; For urinals: Remove screens, apply at least four ounces around edges and top, wait 5 minutes before scrubbing, flush to rinse",
+      "Pro-Tip: Allow cleaner to sit for five minutes for easier scrubbing"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e49abe3c-6a10-4dde-b94d-a11fc75cc6b3/svn/zep-toilet-bowl-cleaners-zuatbc32-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7efd9628-a023-4341-83e0-700f6c239f0a/svn/zep-toilet-bowl-cleaners-zuatbc32-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/03ce7e5f-2bf6-427d-b881-6e29e91ac9a0/svn/zep-toilet-bowl-cleaners-zuatbc32-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/528b0356-9b8c-4817-bec1-be44c553e91b/svn/zep-toilet-bowl-cleaners-zuatbc32-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3b602721-344d-455f-b1f1-309a4c723876/svn/zep-toilet-bowl-cleaners-zuatbc32-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c7864ee-a637-4222-b57a-491a57fdd008/svn/zep-toilet-bowl-cleaners-zuatbc32-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/17467343-d6e4-481e-b79d-68905059c4ac/svn/zep-toilet-bowl-cleaners-zuatbc32-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/505ddb15-261b-4963-abbd-5b872b9b1c7a/svn/zep-toilet-bowl-cleaners-zuatbc32-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d942c03c-fd2d-4411-a5a4-162ae986c811/svn/zep-toilet-bowl-cleaners-zuatbc32-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e49abe3c-6a10-4dde-b94d-a11fc75cc6b3/svn/zep-toilet-bowl-cleaners-zuatbc32-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4c991296-0ee4-4795-a45d-b1f33bf85e22/5f6e6c59-1408-46c4-bdc1-8370ef98ec3c/main.mp4?fastly_token=NjgzOTc4NWVfY2I4NzZiZDI1NWY1NjE1ZTZkMmQ0MjVlYjY3ZDkzNDJhNDkxMmRmMWQ1NDBiZWU3NTQxZGVjY2NmZjUzYjBmNV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80Yzk5MTI5Ni0wZWU0LTQ3OTUtYTQ1ZC1iMWYzM2JmODVlMjIvNWY2ZTZjNTktMTQwOC00NmM0LWJkYzEtODM3MGVmOThlYzNjL21haW4ubXA0&pubid=66036796001",
+        "title": "Zep Acidic Toilet Bowl Cleaner",
+        "id": "2678485816001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/4c991296-0ee4-4795-a45d-b1f33bf85e22/944568e0-cda2-4f69-8def-1347640d8b65/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Zep Acidic Toilet Bowl Cleaner quickly removes rust stains, organic and hard water stains and residue. Its clinging gel formula works longer and harder on vertical surfaces, leaving a clean shine and fresh fragrance. "
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/0bae9f22-0378-4479-aa1f-bcb6d7b9c082/4476adaa-7cdd-4026-876a-9854e55f541d/main.mp4?fastly_token=NjgzOTc4YTZfOWNkMzI0YzNiZjlhOTZlMDA0YWM3YmJlMTBhNWMwZjY5ODY1NjIyMGI5ODA5MmMzZDUwNjBiMWU2ZGQwYTQ2N18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8wYmFlOWYyMi0wMzc4LTQ0NzktYWExZi1iY2I2ZDdiOWMwODIvNDQ3NmFkYWEtN2NkZC00MDI2LTg3NmEtOTg1NGU1NWY1NDFkL21haW4ubXA0&pubid=66036796001",
+        "title": "Zep Bath Cleaning Kit",
+        "id": "2678736735001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/0bae9f22-0378-4479-aa1f-bcb6d7b9c082/1792b513-c156-43f7-866c-c5a392dda601/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Zep Bath Cleaning Kit is a 4 pack maintenance solution designed to make your bathroom shine. It includes a Shower, Tub and Tile Cleaner, an Acidic Toilet Bowl Cleaner Glass Cleaner, and an All Purpose Degreaser."
+      }
+    ],
+    "ratings_total": 1820,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Concentrated or Ready to Use",
+        "value": "Ready to use"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Formulation",
+        "value": "Professional Strength"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Form",
+        "value": "Liquid"
+      },
+      {
+        "group_name": "Details",
+        "name": "Recommended Surfaces",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Where to Use",
+        "value": "Bathroom"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Not applicable"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size",
+        "value": "32 OZ-Ounce"
+      }
+    ],
+    "color": "White",
+    "variants": [
+      {
+        "title": "1~~128 OZ-Ounce",
+        "link": "https://www.homedepot.com/p/ZEP-128-oz-Acidic-Toilet-Bowl-Cleaner-R43710/311411943",
+        "item_id": "311411943"
+      },
+      {
+        "title": "4~~128 OZ-Ounce",
+        "link": "https://www.homedepot.com/p/ZEP-128-oz-Acidic-Toilet-Bowl-Cleaner-4-Pack-R43710/316704601",
+        "item_id": "316704601"
+      },
+      {
+        "title": "1~~32 OZ-Ounce",
+        "link": "https://www.homedepot.com/p/ZEP-32-oz-Acidic-Toilet-Bowl-Cleaner-ZUATBC32/312560494",
+        "item_id": "312560494"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Cleaning",
+        "link": "https://www.homedepot.com/b/Cleaning/N-5yc1vZbqsi"
+      },
+      {
+        "name": "Cleaning Products",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products/N-5yc1vZcb33"
+      },
+      {
+        "name": "Bathroom Cleaners",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Bathroom-Cleaners/N-5yc1vZcb45"
+      },
+      {
+        "name": "Toilet Bowl Cleaners",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Bathroom-Cleaners-Toilet-Bowl-Cleaners/N-5yc1vZcba1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 27
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 32,
+          "price": 2.99,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

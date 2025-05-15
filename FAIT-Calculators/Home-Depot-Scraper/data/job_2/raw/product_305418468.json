@@ -1,0 +1,293 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12964,
+    "overage_used": 2964,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Green-Exterior-Self-Starting-Star-Flat-Head-Wood-Deck-Screws-5-lbs-365-Piece-212DMG5/305418468"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:36:05.607Z",
+    "processed_at": "2025-05-01T13:36:11.913Z",
+    "total_time_taken": 6.31,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Green-Exterior-Self-Starting-Star-Flat-Head-Wood-Deck-Screws-5-lbs-365-Piece-212DMG5/305418468"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Green-Exterior-Self-Starting-Torx-Flat-Head-Wood-Deck-Screws-5-lb-365-Piece-212DMG5/305418468",
+    "brand": "DECKMATE",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/DECKMATE/N-5yc1vZ2fkpe61Zrkz",
+    "title": "DECKMATE #9 x 2-1/2 in. Green Exterior Self-Starting Torx Flat-Head Wood Deck Screws (5 lb./365-Piece)",
+    "upc": "764666733039",
+    "item_id": "305418468",
+    "parent_id": "322115370",
+    "store_sku": "1003274855",
+    "model_number": "212DMG5",
+    "description": "Make the most of you of your outdoor project with DECKMATE brand exterior screws. Designed for use with all treated lumber and all exterior projects to connect wood to wood. A lifetime polymer coating provides extra corrosion resistance that is guaranteed for the life of your outdoor project.",
+    "favorite_count": 302,
+    "aisle": "17",
+    "bay": "011",
+    "collection": {
+      "id": "Family-317458890",
+      "name": "Family-317458890",
+      "link": "https://www.homedepot.com/collection/Hardware/DECKMATE-Deck-Screws/Family-317458890?omsid=305418468"
+    },
+    "feature_bullets": [
+      "Deck screws for treated wood & all exterior material applications",
+      "2-1/2 inch star drive screw with nibs & patented thread design",
+      "Coated, Corrosion-resistant finish (5 lb./ Approx.365 pcs)"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Star drive head helps transfer torque and prevent cam outs",
+      "Nibs under head allow screw to countersink better for a smoother finish",
+      "Type-17 point with flute creates its own pilot hole limiting the need for pre-drilling",
+      "Includes T-25 driver bit in the box"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b6ae500d-f994-48ae-9977-f39f6fd722f8/svn/deckmate-deck-screws-212dmg5-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/074a46e7-40ae-4bb0-b3c3-26b20b3ff6a0/svn/deckmate-deck-screws-212dmg5-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/55e77e0d-c759-43a6-b479-803f3854ef5b/svn/deckmate-deck-screws-212dmg5-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a5c97306-e17a-455e-b76c-490a1e7fe775/svn/deckmate-deck-screws-212dmg5-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/10481087-7461-437a-8b66-a440152f7986/svn/deckmate-deck-screws-212dmg5-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab65e0de-ba84-4a46-b1db-70a6e72833d7/svn/deckmate-deck-screws-212dmg5-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4bd908ac-effb-4626-b393-9d07f567c57c/svn/deckmate-deck-screws-212dmg5-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1e900f91-a8a2-4949-8bbd-0cb06cc638db/svn/deckmate-deck-screws-212dmg5-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b6ae500d-f994-48ae-9977-f39f6fd722f8/svn/deckmate-deck-screws-212dmg5-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/235c2eda-531e-4d16-88b5-78349ad8b4d3/1723830f-83d3-4b7b-b598-f76dab1dc9b4/main.mp4?fastly_token=NjgzODI3YzVfMTc2OGE5MjM3NWRhZjg2YTg1MzY5OGM4YmE0MDZiZTNlNGZhZjU4NDMwZmYxZDdkNjFkNTYxMzdiODJlY2Y1NV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yMzVjMmVkYS01MzFlLTRkMTYtODhiNS03ODM0OWFkOGI0ZDMvMTcyMzgzMGYtODNkMy00YjdiLWI1OTgtZjc2ZGFiMWRjOWI0L21haW4ubXA0&pubid=66036796001",
+        "title": "Deck Mate Screws With Star Drive",
+        "id": "3479381189001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/235c2eda-531e-4d16-88b5-78349ad8b4d3/ba6299f3-5f13-425d-bdb6-ddebbd1c6fc5/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Tan Polymer-Plated Flat-Head Star Deckmate Wood Screws are ideal for outdoor wood deck projects and are ACQ rated. Star drive head reduces stripping and provides better torque transfer."
+      }
+    ],
+    "ratings_total": 305,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Green"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Ceramic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "365"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "9 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#9"
+      }
+    ],
+    "size": "#9",
+    "variants": [
+      {
+        "title": "2-1/2 in~~#9~~Black~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Black-Star-Flat-Head-Wood-Deck-Screw-1-lb-Pack-212DMB1/312274604",
+        "item_id": "312274604"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Green~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Green-Exterior-Self-Starting-Torx-Flat-Head-Wood-Deck-Screws-5-lb-365-Piece-212DMG5/305418468",
+        "item_id": "305418468"
+      },
+      {
+        "title": "3 in~~#9~~Black~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Black-Star-Flat-Head-Wood-Deck-Screw-5-lbs-Pack-3DMB5/312274708",
+        "item_id": "312274708"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Black~~1 lb",
+        "link": "https://www.homedepot.com/p/8-x-1-5-8-in-Black-Star-Flat-Head-Wood-Deck-Screw-1-lb-Pack-158DMB1/312274709",
+        "item_id": "312274709"
+      },
+      {
+        "title": "3 in~~#9~~Black~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Black-Star-Flat-Head-Wood-Deck-Screw-1-lb-Pack-3DMB1/312274822",
+        "item_id": "312274822"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Black~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Star-Flat-Head-Wood-Deck-Screw-in-Black-5-lbs-Pack-212DMB5/312274823",
+        "item_id": "312274823"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 35.57,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 19
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 50,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12808,
+    "overage_used": 2808,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-19-Pewter-10-1-oz-Silicone-Caulk-CCSC19/202753918"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:32:05.214Z",
+    "processed_at": "2025-05-01T13:32:10.341Z",
+    "total_time_taken": 5.13,
+    "homedepot_url": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-19-Pewter-10-1-oz-Silicone-Caulk-CCSC19/202753918"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-19-Pewter-10-1-oz-Silicone-Caulk-CCSC19/202753918",
+    "brand": "Custom Building Products",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting-Grout-Caulk/Custom-Building-Products/N-5yc1vZcdtfZef",
+    "title": "Custom Building Products Commercial #19 Pewter 10.1 oz. Silicone Caulk",
+    "upc": "010186775708",
+    "item_id": "202753918",
+    "parent_id": "203901450",
+    "store_sku": "1001480749",
+    "model_number": "CCSC19",
+    "description": "Commercial 100% Silicone Caulk is designed for use in coves, corners, changes in plane and expansion joints associated with exterior and interior applications of tile and stone. This caulk can be used in pools and other wet area applications. This product can also be used with ceramic and porcelain tile installations.",
+    "favorite_count": 110,
+    "aisle": "47",
+    "bay": "003",
+    "feature_bullets": [
+      "Permantly flexible, matches grout colors - #19 Pewter",
+      "Suitable for expansion joints, wet and submerged areas",
+      "Use around tubs, showers and sinks"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Great for high-traffic applications",
+      "Permanently flexible",
+      "Meets the requirements of ASTM C-920 and TCNA EJ 171",
+      "Other colors available",
+      "Sample colors shown may vary from actual grout; final installed shade can differ based on tile type, porosity, job site conditions and finishing techniques"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/28c099d1-8a29-4b58-8bf2-22bc5e3b395b/svn/custom-building-products-grout-caulk-ccsc19-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/714bd7bd-194e-4a23-b834-74bac0a43a20/svn/custom-building-products-grout-caulk-ccsc19-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b26b97f9-1db5-4d68-92bf-de7285e8f171/svn/custom-building-products-grout-caulk-ccsc19-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34d96500-0fe9-400b-aa60-6cbd89b39487/svn/custom-building-products-grout-caulk-ccsc19-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1ff87a2c-7904-4075-80b3-d3871bae214c/svn/custom-building-products-grout-caulk-ccsc19-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/22701f2e-7c68-4c37-9669-2e6fbfdabfb7/svn/custom-building-products-grout-caulk-ccsc19-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a2abd3aa-af16-4b4c-b4b8-d79b64312914/svn/custom-building-products-grout-caulk-ccsc19-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/28c099d1-8a29-4b58-8bf2-22bc5e3b395b/svn/custom-building-products-grout-caulk-ccsc19-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1491,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color",
+        "value": "Pewter"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Crack resistant,Moisture resistant,Mold/mildew resistant,No mixing required,Stain resistant,Waterproof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Countertop,Exterior wall,Floor,Interior wall,Kitchen Backsplash,Shower,Swimming pool,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Lifetime Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Product"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Coverage Area (sq. ft.)",
+        "value": "24 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.2 in"
+      }
+    ],
+    "color": "Pewter",
+    "keywords_list": [
+      "Custom Building Products",
+      "#19 Pewter 10.1 oz Silicone Caulk",
+      "CCSC19"
+    ],
+    "keywords": "Custom Building Products, #19 Pewter 10.1 oz Silicone Caulk, CCSC19",
+    "variants": [
+      {
+        "title": "Chateau",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-183-Chateau-10-1-oz-Silicone-Caulk-CCSC183/202753937",
+        "item_id": "202753937"
+      },
+      {
+        "title": "Sandstone",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-180-Sandstone-10-1-oz-Silicone-Caulk-CCSC180/202753936",
+        "item_id": "202753936"
+      },
+      {
+        "title": "New Taupe",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-185-New-Taupe-10-1-oz-Silicone-Caulk-CCSC185/202753938",
+        "item_id": "202753938"
+      },
+      {
+        "title": "Driftwood",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-543-Driftwood-10-1-oz-Silicone-Caulk-CCSC543/205939342",
+        "item_id": "205939342"
+      },
+      {
+        "title": "Rolling Fog",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-544-Rolling-Fog-10-1-oz-Silicone-Caulk-CCSC544/205939343",
+        "item_id": "205939343"
+      },
+      {
+        "title": "Walnut",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-541-Walnut-10-1-oz-Silicone-Caulk-CCSC541/205939340",
+        "item_id": "205939340"
+      },
+      {
+        "title": "Haystack",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-380-Haystack-10-1-oz-Silicone-Caulk-CCSC380/202753951",
+        "item_id": "202753951"
+      },
+      {
+        "title": "Graystone",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-542-Graystone-10-1-oz-Silicone-Caulk-CCSC542/205939341",
+        "item_id": "205939341"
+      },
+      {
+        "title": "Truffle",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-540-Truffle-10-1-oz-Silicone-Caulk-CCSC540/205939339",
+        "item_id": "205939339"
+      },
+      {
+        "title": "Alabaster",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-333-Alabaster-10-1-oz-Silicone-Caulk-CCSC333/202753946",
+        "item_id": "202753946"
+      },
+      {
+        "title": "Sable Brown",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-95-Sable-Brown-10-1-oz-Silicone-Caulk-CCSC95/205939350",
+        "item_id": "205939350"
+      },
+      {
+        "title": "Urban Putty",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-172-Urban-Putty-10-1-oz-Silicone-Caulk-CCSC172/205939351",
+        "item_id": "205939351"
+      },
+      {
+        "title": "Khaki",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-186-Khaki-10-1-oz-Silicone-Caulk-CCSC186/205939348",
+        "item_id": "205939348"
+      },
+      {
+        "title": "Earth",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-105-Earth-10-1-oz-Silicone-Caulk-CCSC105/202753927",
+        "item_id": "202753927"
+      },
+      {
+        "title": "Quartz",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-101-Quartz-10-1-oz-Silicone-Caulk-CCSC101/202753926",
+        "item_id": "202753926"
+      },
+      {
+        "title": "Winter Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-335-Winter-Gray-10-1-oz-Silicone-Caulk-CCSC335/205939349",
+        "item_id": "205939349"
+      },
+      {
+        "title": "Tobacco Brown",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-52-Tobacco-Brown-10-1-oz-Silicone-Caulk-CCSC52/202753921",
+        "item_id": "202753921"
+      },
+      {
+        "title": "Summer Wheat",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-45-Summer-Wheat-10-1-oz-Silicone-Caulk-CCSC45/202753920",
+        "item_id": "202753920"
+      },
+      {
+        "title": "Bleached Wood",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-545-Bleached-Wood-10-1-oz-Silicone-Caulk-CCSC545/205939344",
+        "item_id": "205939344"
+      },
+      {
+        "title": "Charcoal",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-60-Charcoal-10-1-oz-Silicone-Caulk-CCSC60/202753923",
+        "item_id": "202753923"
+      },
+      {
+        "title": "Cape Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-546-Cape-Gray-10-1-oz-Silicone-Caulk-CCSC546/205939345",
+        "item_id": "205939345"
+      },
+      {
+        "title": "Saddle Brown",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-59-Saddle-Brown-10-1-oz-Silicone-Caulk-CCSC59/202753922",
+        "item_id": "202753922"
+      },
+      {
+        "title": "Fawn",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-156-Fawn-10-1-oz-Silicone-Caulk-CCSC156/202753933",
+        "item_id": "202753933"
+      },
+      {
+        "title": "Light Smoke",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-145-Light-Smoke-10-1-oz-Silicone-Caulk-CCSC145/202753932",
+        "item_id": "202753932"
+      },
+      {
+        "title": "Sahara Tan",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-22-Sahara-Tan-10-1-oz-Silicone-Caulk-CCSC22/205939356",
+        "item_id": "205939356"
+      },
+      {
+        "title": "Delorean Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-165-Delorean-Gray-10-1-oz-Silicone-Caulk-CCSC165/202753935",
+        "item_id": "202753935"
+      },
+      {
+        "title": "Nutmeg",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-50-Nutmeg-10-1-oz-Silicone-Caulk-CCSC50/205939354",
+        "item_id": "205939354"
+      },
+      {
+        "title": "Linen",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-122-Linen-10-1-oz-Silicone-Caulk-CCSC122/202753928",
+        "item_id": "202753928"
+      },
+      {
+        "title": "Platinum",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-115-Platinum-10-1-oz-Silicone-Caulk-CCSC115/205939355",
+        "item_id": "205939355"
+      },
+      {
+        "title": "Dove Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-370-Dove-Gray-10-1-oz-Silicone-Caulk-CCSC370/205939352",
+        "item_id": "205939352"
+      },
+      {
+        "title": "Mushroom",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-135-Mushroom-10-1-oz-Silicone-Caulk-CCSC135/202753931",
+        "item_id": "202753931"
+      },
+      {
+        "title": "Snow White",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-11-Snow-White-10-1-oz-Silicone-Caulk-CCSC11/205939353",
+        "item_id": "205939353"
+      },
+      {
+        "title": "Arctic White",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-640-10-1-oz-Arctic-White-Silicone-Caulk-CCSC640/312998979",
+        "item_id": "312998979"
+      },
+      {
+        "title": "Coffee Bean",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-646-10-1-oz-Coffee-Bean-Silicone-Caulk-CCSC646/312998978",
+        "item_id": "312998978"
+      },
+      {
+        "title": "Brown Velvet",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-647-10-1-oz-Brown-Velvet-Silicone-Caulk-CCSC647/312998977",
+        "item_id": "312998977"
+      },
+      {
+        "title": "Antique White",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-10-Antique-White-10-1-oz-Silicone-Caulk-CCSC10/202753917",
+        "item_id": "202753917"
+      },
+      {
+        "title": "Pewter",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-19-Pewter-10-1-oz-Silicone-Caulk-CCSC19/202753918",
+        "item_id": "202753918"
+      },
+      {
+        "title": "Natural Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-09-Natural-Gray-10-1-oz-Silicone-Caulk-CCSC09/202753915",
+        "item_id": "202753915"
+      },
+      {
+        "title": "Clear",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-000-Clear-10-1-oz-Silicone-Caulk-CCSC000/202753914",
+        "item_id": "202753914"
+      },
+      {
+        "title": "Bright White",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-381-Bright-White-10-1-oz-Silicone-Caulk-CCSC381/202753956",
+        "item_id": "202753956"
+      },
+      {
+        "title": "Shadow",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-644-10-1-oz-Shadow-Silicone-Caulk-CCSC644/313274900",
+        "item_id": "313274900"
+      },
+      {
+        "title": "Oyster Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-386-Oyster-Gray-10-1-oz-Silicone-Caulk-CCSC386/202753965",
+        "item_id": "202753965"
+      },
+      {
+        "title": "Warm Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-643-10-1-oz-Warm-Gray-Silicone-Caulk-CCSC643/313274901",
+        "item_id": "313274901"
+      },
+      {
+        "title": "Ash",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-642-10-1-oz-Ash-Silicone-Caulk-CCSC642/313274902",
+        "item_id": "313274902"
+      },
+      {
+        "title": "Cool White",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-641-10-1-oz-Cool-White-Silicone-Caulk-CCSC641/313274903",
+        "item_id": "313274903"
+      },
+      {
+        "title": "Bone",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-382-Bone-10-1-oz-Silicone-Caulk-CCSC382/202753960",
+        "item_id": "202753960"
+      },
+      {
+        "title": "Steel Blue",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Commercial-645-10-1-oz-Steel-Blue-Silicone-Caulk-CCSC645/313274899",
+        "item_id": "313274899"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Tile Setting",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting/N-5yc1vZcdut"
+      },
+      {
+        "name": "Grout Caulk",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting-Grout-Caulk/N-5yc1vZcdtf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 18.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 4
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 10,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 497,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

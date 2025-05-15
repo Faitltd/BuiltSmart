@@ -1,0 +1,281 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14956,
+    "overage_used": 4956,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Glacier-Bay-Power-Flush-12-in-Rough-in-2-Piece-0-95-GPF-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-with-Slow-Close-Seat-Included-N2455E/332209561"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:46:25.971Z",
+    "processed_at": "2025-05-02T21:46:31.256Z",
+    "total_time_taken": 5.29,
+    "homedepot_url": "https://www.homedepot.com/p/Glacier-Bay-Power-Flush-12-in-Rough-in-2-Piece-0-95-GPF-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-with-Slow-Close-Seat-Included-N2455E/332209561"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Glacier-Bay-Power-Flush-12-in-Rough-in-2-Piece-0-95-GPF-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-with-Slow-Close-Seat-Included-N2455E/332209561",
+    "brand": "Glacier Bay",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/Glacier-Bay/N-5yc1vZcb8nZn7",
+    "title": "Glacier Bay Power Flush 12 in. Rough in 2-Piece 0.95 GPF/1.28 GPF Dual Flush Elongated Toilet in White with Slow-Close Seat Included",
+    "upc": "732291004534",
+    "item_id": "332209561",
+    "store_sku": "1012554129",
+    "model_number": "N2455E",
+    "description": "Replace your old toilet with the Power Flush 2-piece 0.95 GPF / 1.28 GPF high-efficiency dual flush elongated toilet featuring Niagara Stealth Technology in white. This toilet features patented hydraulic technology, known as the Stealth. 1 flush thoroughly evacuates the bowl every time and eliminates double flushing. This toilet has achieved a quiet, powerful and proven flush, saving thousands of gallons with no change in consumer use or behavior. The flapper-less design means no costly flapper, chains or levers to replace and no leaks ever. Also, this toilet virtually eliminates all refill noise as the fill valve is never exposed. Quiet, slow-close seat included.",
+    "is_exclusive": true,
+    "aisle": "37",
+    "bay": "010",
+    "collection": {
+      "id": "Family-327091269",
+      "name": "Family-327091269",
+      "link": "https://www.homedepot.com/collection/Bath/Power-Flush/Family-327091269?omsid=332209561"
+    },
+    "feature_bullets": [
+      "Patented Power Flush performance",
+      "Vacuum-assisted flush clears 7 billiard balls on the first flush",
+      "Includes slow-close toilet seat, wax ring and floor bolt set"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "16.5 in. tall toilet bowl for added comfort",
+      "0.95 gallons for partial flush, 1.28 gallons for full flush",
+      "Toilet includes a slow-close seat with easy clean hinges",
+      "Includes: tank, bowl, slow-close seat, wax ring, bolts and caps",
+      "Extra-large 2 3/8 in. fully glazed trap way for clog free flush performance",
+      "Elongated toilet bowl for extra comfort",
+      "Features quick connect installation system to make installation a breeze",
+      "Vacuum-assist power chamber allows extra strength to flush more with less",
+      "Extra large footprint is excellent for retrofitting without re-doing your flooring",
+      "MaP 1000g",
+      "Limited lifetime warranty",
+      "Meets HET rebate standards",
+      "Supply lines sold separately",
+      "<a href=\"https://www.homedepot.com/b/Glacier-Bay/N-5yc1vZn7\" target=\"_blank\" style=\"color:#F96302;\">Click here to learn more about exclusive Glacier Bay products</a>",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/water-conservation/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Water Conservation</a>"
+    ],
+    "descriptive_attributes_count": 15,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/82ca819a-dd7a-4b3d-aa9b-74f2261cd4e5/svn/white-glacier-bay-two-piece-toilets-n2455e-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7d789ad6-1be8-45a6-b957-a4a40eae27c3/svn/white-glacier-bay-two-piece-toilets-n2455e-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5fd12126-5028-4d00-99c0-215aafd84312/svn/white-glacier-bay-two-piece-toilets-n2455e-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fd0a9554-71f4-440c-8940-8675b49e98a5/svn/white-glacier-bay-two-piece-toilets-n2455e-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a3b15f7f-285e-4cd7-acb4-64769ac97516/svn/white-glacier-bay-two-piece-toilets-n2455e-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9fb33995-709e-4b1f-ac08-4ced6b27f6f0/svn/white-glacier-bay-two-piece-toilets-n2455e-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/37048f66-6038-42fb-b18c-06f77e7d0de9/svn/white-glacier-bay-two-piece-toilets-n2455e-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6bb58176-9a65-465b-9469-fdc91c966ad3/svn/white-glacier-bay-two-piece-toilets-n2455e-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c58dcf0b-848d-4ddd-a1b3-e2f9ffb502a6/svn/white-glacier-bay-two-piece-toilets-n2455e-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/82ca819a-dd7a-4b3d-aa9b-74f2261cd4e5/svn/white-glacier-bay-two-piece-toilets-n2455e-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 36,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Dual Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Dual Flush: 0.9/1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "79.6 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Contemporary,Modern,Transitional"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.375 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "LImited Lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "28 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "32 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "17.1 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 169,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 5
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

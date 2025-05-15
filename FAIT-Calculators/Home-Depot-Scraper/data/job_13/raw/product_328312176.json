@@ -1,0 +1,181 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13764,
+    "overage_used": 3764,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Multinautic-QP-427-4-ft-x-8-ft-2-Sections-I-Shape-Post-Dock-19700/328312176"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:58:14.513Z",
+    "processed_at": "2025-05-01T16:58:20.924Z",
+    "total_time_taken": 6.41,
+    "homedepot_url": "https://www.homedepot.com/p/Multinautic-QP-427-4-ft-x-8-ft-2-Sections-I-Shape-Post-Dock-19700/328312176"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Multinautic-QP-427-4-ft-x-8-ft-2-Sections-I-Shape-Post-Dock-19700/328312176",
+    "brand": "Multinautic",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware-Boat-Docks/Multinautic/N-5yc1vZc8xhZbaz",
+    "title": "Multinautic QP-427 4 ft. x 8 ft.-2 Sections I Shape Post Dock",
+    "upc": "628888197003",
+    "item_id": "328312176",
+    "store_sku": "1010711811",
+    "model_number": "19700",
+    "description": "This QP-427 Series Aluminum Dock package is created for simple, quick and efficient DIY setup (excluding lumber). This dock is ideal for shallow water up to 4 ft. deep. Can be assembled by one person and installed with ease by only 2-people. The included base plates allow to drive the piles and keep them at the required depth. Easy height adjustments can be made at dock level in season if needed.",
+    "feature_bullets": [
+      "For a stable installation even in agitated waters",
+      "Ultralight structure for easy installation",
+      "Includes a mooring kit and a dock ladder"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "2 section, I-shape stationary dock offers 64 sq. ft. of usable surface area",
+      "Recommended for boating, swimming and water sports (paddle boarding, windsurfing, canoe, kayak, dinghy)",
+      "Stationary dock is designed to be installed at a depth of 4 ft. or less",
+      "Items included: (2x) QP-427, 4 ft. x 8 ft. aluminum dock structure, (1x) mooring kit for stationary dock, (1x) 3-step straight aluminum ladder with quick-release J hooks",
+      "See the detailed dock design guide on this website for all your wood and hardware needs required to complete your project"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d57791d1-1f67-4bc7-8e23-e68209448422/svn/multinautic-boat-docks-19700-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5645eb4f-c9a0-4538-b0f6-c0abe39cdf6b/svn/multinautic-boat-docks-19700-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/10701eb5-0997-4714-a2b1-d345f0bf7e9c/svn/multinautic-boat-docks-19700-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25ae50fc-93f4-4d2a-8e40-e0d4c828bda8/svn/multinautic-boat-docks-19700-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/07e9dd74-9222-4610-b42d-2611f083674f/svn/multinautic-boat-docks-19700-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d57791d1-1f67-4bc7-8e23-e68209448422/svn/multinautic-boat-docks-19700-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/cabc45d1-028d-41eb-a306-6765c1f032a5/1c26eeeb-08d6-45db-bf73-bb0c7e3ebd73/main.mp4?fastly_token=NjgzODJmNzVfNTc0YjdkNzM3Mjg5ZTBhNGRiM2IwOTU2ZTdiNWIwYWZmOGUxY2QxOGEwY2RlYmM3ZGY2MmYzYzhmNGQxOTY5Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jYWJjNDVkMS0wMjhkLTQxZWItYTMwNi02NzY1YzFmMDMyYTUvMWMyNmVlZWItMDhkNi00NWRiLWJmNzMtYmIwYzdlM2ViZDczL21haW4ubXA0&pubid=66036796001",
+        "title": "QP-427 Aluminum Dock Kit Product Demo",
+        "id": "6354205847112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/cabc45d1-028d-41eb-a306-6765c1f032a5/main/160x90/47s498ms/match/image.jpg?pubId=66036796001",
+        "description": "This QP-427 Series Aluminum Dock package is created for simple, quick and efficient DIY setup (excluding lumber). This dock is ideal for shallow water up to 4 ft. deep. Can be assembled by one person and installed with ease by only two people."
+      }
+    ],
+    "ratings_total": 41,
+    "rating": 4.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Dock Type",
+        "value": "Stationary"
+      },
+      {
+        "group_name": "Details",
+        "name": "Marine Supplies Product Type",
+        "value": "Other Marine Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "210 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "101 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "4 ft"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Boat Docks & Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware/N-5yc1vZar4z"
+      },
+      {
+        "name": "Boat Docks",
+        "link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware-Boat-Docks/N-5yc1vZc8xh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1107,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 1230,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 55,
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-16",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

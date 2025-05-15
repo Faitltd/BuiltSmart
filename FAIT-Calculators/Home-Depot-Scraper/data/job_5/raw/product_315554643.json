@@ -1,0 +1,317 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13339,
+    "overage_used": 3339,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FastenMaster-Collated-Cortex-Hidden-Fastening-System-for-Veranda-Trim-2-inch-Cortex-screws-and-plugs-Smooth-50-LF-FMCTXTCL-VA50SMHD/315554643"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:54:13.027Z",
+    "processed_at": "2025-05-01T13:54:17.412Z",
+    "total_time_taken": 4.38,
+    "homedepot_url": "https://www.homedepot.com/p/FastenMaster-Collated-Cortex-Hidden-Fastening-System-for-Veranda-Trim-2-inch-Cortex-screws-and-plugs-Smooth-50-LF-FMCTXTCL-VA50SMHD/315554643"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FastenMaster-Collated-Cortex-Hidden-Fastening-System-for-Veranda-Trim-2-inch-Cortex-screws-and-plugs-Smooth-50-LF-FMCTXTCL-VA50SMHD/315554643",
+    "brand": "FastenMaster",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/FastenMaster/N-5yc1vZ2fkpe6aZ64d",
+    "title": "FastenMaster Collated Cortex Hidden Fastening System for Veranda Trim - 2 inch Cortex screws and plugs - Smooth (50 LF)",
+    "upc": "608309446033",
+    "item_id": "315554643",
+    "parent_id": "321066563",
+    "store_sku": "1006208475",
+    "model_number": "FMCTXTCL-VA50SMHD",
+    "description": "The FastenMaster Collated Cortex Hidden Fastening System for PVC Trim is the fastest, easiest way to hide trim fasteners in PVC Trim. Features TORX ttap Drive System which is almost impossible to strip-out and the deck fastener is easily removed. The stability button keeps the fastener straight through installation.Cortex plugs are made with the same material as leading trim boards, meaning you can achieve a perfect seamless finish every time. Once installed, Cortex plugs become a part of your trim board, expanding and contracting along with the boards around them - this means your plugs will not need to be replaced for the lifetime of the project. The plugs come pre-aligned on a collated strip, eliminating the need to fumble around with loose plugs and making installation 50% faster.To install, simply drive the Cortex fastener using the included setting tool - this will countersink the screw to the perfect depth. Then, place your Cortex plugs on top of the fastener holes with the grains aligned, and tap to finish.Designed to fasten 50 lineal feet of Veranda Smooth Trim. Includes 75, 2 inch carbon steel Cortex trim screws, 80 collated Cortex plugs and 1 Cortex setting tool.Cortex is trusted by PROs everywhere who are dedicated to craftsmanship and quality.",
+    "aisle": "17",
+    "bay": "015",
+    "feature_bullets": [
+      "Cortex Screws for AZEK Trim \u2013 Smooth",
+      "3 inch Cortex screws and plugs on a collated strip \u2013 50 LF",
+      "Cortex Hidden Fastening System hides all fasteners in your trim"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Compatible with Veranda Smooth trim",
+      "50 lineal feet of coverage - Includes 75, 2 inch screws, 80 collated plugs and 1 setting tool",
+      "Hides fasteners in PVC trim boards",
+      "Cortex plugs come on a collated strip with pre-aligned grains - Eliminating the need to fumble around with loose plugs, making installation 50% faster",
+      "Cortex screws are made from high-strength carbon steel",
+      "Cortex plugs are made from the same material as market-leading trim boards, creating a 100% perfect match every time",
+      "The TORX ttap Drive System delivers a superior bit engagement for a stable wobble free installation",
+      "The Cortex setting tool is optimized for the PRO contractor - Stronger bit material and industrial grade felt will enable you to install 350 fasteners with one setting tool",
+      "Warrantied for the life of the project"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/15799fb3-e740-4aad-b779-78ff0857e5c7/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0fda8476-1729-453e-89ee-03bc372e973f/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c2840690-9d46-4cf3-b93d-1eaa0c327dab/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b93ac32f-02eb-42e9-9e49-d4497a614f1a/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c96cc1ab-8399-4333-8009-632bbe6f92fe/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/63c7b45f-bd48-48e2-9c47-8bc5eae4fd51/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d641f4b1-cb07-4fd0-bb5f-fda402944beb/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/057f0fae-aa0f-44ad-95f3-2f0a00eb43f8/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2832f164-6316-4494-b7fa-f226272b10e4/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/15799fb3-e740-4aad-b779-78ff0857e5c7/svn/fastenmaster-composite-deck-screws-fmctxtcl-va50smhd-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/328d73aa-dcd5-4496-91d7-ef95470d7689/a798d305-440b-4b0a-8bb8-6a5365056fc3/main.mp4?fastly_token=NjgzODJmNDhfMGQ3ODNkODBlMzE4YmU3ZWUyMjdiNmVmZTc2MTJlZTYyOTBjNzBlYjFlNjJjZDI0ODRiNDkxYTA3M2I0Mjk3NF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zMjhkNzNhYS1kY2Q1LTQ0OTYtOTFkNy1lZjk1NDcwZDc2ODkvYTc5OGQzMDUtNDQwYi00YjBhLThiYjgtNmE1MzY1MDU2ZmMzL21haW4ubXA0&pubid=66036796001",
+        "title": "HDCortexV1",
+        "id": "6303810424001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/328d73aa-dcd5-4496-91d7-ef95470d7689/main/160x90/1m18s645ms/match/image.jpg?pubId=66036796001",
+        "description": "Overview of hidden fastening system"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/6cd7b507-578b-41e5-bc9f-b1e22658e2c1/4cb1784d-f697-4d4d-93d6-86d503bc50e3/main.mp4?fastly_token=NjgzODM3YTZfZTFlMWZkNTVmZGNlNDVmNzUxYTc0OGU4ODY1NGJkNzE4ZmQ4ZWMyMDZjOWEzZjYzYzA0YjYwMTdhZTIyOTJjMV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82Y2Q3YjUwNy01NzhiLTQxZTUtYmM5Zi1iMWUyMjY1OGUyYzEvNGNiMTc4NGQtZjY5Ny00ZDRkLTkzZDYtODZkNTAzYmM1MGUzL21haW4ubXA0&pubid=66036796001",
+        "title": "G FastenMaster Collated Cortex",
+        "id": "6310872476112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/6cd7b507-578b-41e5-bc9f-b1e22658e2c1/main/160x90/37s386ms/match/image.jpg?pubId=66036796001",
+        "description": "Brand overview"
+      }
+    ],
+    "ratings_total": 145,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Electro Galvanized Zinc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Trim Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "75"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.9 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "12 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "2-3/4 in~~#10~~White~~4.5 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-Collated-Cortex-Hidden-Fastening-System-for-Veranda-Trim-2-3-4-inch-Cortex-screws-and-plugs-Smooth-50-LF-FMCTXTCL234-V5S/322677993",
+        "item_id": "322677993"
+      },
+      {
+        "title": "1-3/4 in~~#10~~Brown~~0.94 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-Cortex-Hidden-Fastening-System-for-Trex-Transcend-Fascia-1-3-4-inch-Cortex-screws-and-plugs-Spiced-Rum-50-LF-FMCTXF-TX50TSSR/315852566",
+        "item_id": "315852566"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Black~~1.07 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-Cortex-for-Fiberon-ArmorGuard-Decking-2-1-2-inch-Cortex-screws-and-plugs-Nantucket-Gray-50-LF-FMCTX-FB75AGNG/316100047",
+        "item_id": "316100047"
+      },
+      {
+        "title": "2 in~~#10~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-Collated-Cortex-Hidden-Fastening-System-for-AZEK-Trim-2-inch-Cortex-screws-and-plugs-Traditional-50-LF-FMCTXTCL-AZ50TDHD/315576915",
+        "item_id": "315576915"
+      },
+      {
+        "title": "2 in~~#10~~Silver~~0.9 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-Collated-Cortex-Hidden-Fastening-System-for-Veranda-Trim-2-inch-Cortex-screws-and-plugs-Smooth-50-LF-FMCTXTCL-VA50SMHD/315554643",
+        "item_id": "315554643"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Black~~1.06 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-Cortex-for-Fiberon-ArmorGuard-Decking-2-1-2-inch-Cortex-screws-and-plugs-Brazilian-Walnut-50-LF-FMCTX-FB75AGBW/316100040",
+        "item_id": "316100040"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 24.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 5
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 89,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

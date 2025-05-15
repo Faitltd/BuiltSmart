@@ -1,0 +1,258 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13857,
+    "overage_used": 3857,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Indian-Ebony-Composite-Decking-Board-US53-16-EB/332222057"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:03:29.682Z",
+    "processed_at": "2025-05-01T17:03:34.384Z",
+    "total_time_taken": 4.7,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Indian-Ebony-Composite-Decking-Board-US53-16-EB/332222057"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Indian-Ebony-Composite-Decking-Board-US53-16-EB/332222057",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/NewTechWood/N-5yc1vZc5mbZbzg",
+    "title": "NewTechWood Bell Series 0.88 in. x 5.5 in. x 16 ft. Grooved Indian Ebony Composite Decking Board",
+    "upc": "810146111696",
+    "item_id": "332222057",
+    "parent_id": "334560728",
+    "store_sku": "1012823358",
+    "model_number": "US53-16-EB",
+    "description": "Introducing the Bell Series Decking-where timeless design meets modern durability. Capped on all 4-sides and featuring our beloved Heritage wood grain, this decking offers classic appeal with enhanced protection. Available in standard colors, it seamlessly integrates with our Cortes and Magellan series, showcasing multichromatic coloring throughout. Plus, the capped underside ensures a polished look even when the deck is visible from below.",
+    "feature_bullets": [
+      "Premium Wood Look without the Maintenace\u2002\u2002\u2002",
+      "Capped all the way around to withstand the weather",
+      "Talk to a live NewTechWood expert at 855-592-8088"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Heritage wood grain: classic design that adds timeless appeal to any outdoor space",
+      "All-sides capped: enhanced protection against moisture, UV rays, and weather for lasting durability",
+      "Multichromatic coloring: rich, dynamic hues throughout the board for a sophisticated look",
+      "Standard color options: complements our cortes and magellan series for versatile design possibilities",
+      "Capped underside: maintains a finished appearance even when the deck's underside is visible",
+      "Seamless integration: works effortlessly with existing NewTechWood products for a cohesive outdoor aesthetic"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/05f6698b-0fed-481c-93fb-354759ff36b8/svn/indian-ebony-newtechwood-composite-decking-boards-us53-16-eb-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3ad9c843-fd43-4216-8645-8183568fe3ba/svn/indian-ebony-newtechwood-composite-decking-boards-us53-16-eb-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/144073f1-2d11-4243-9338-1ad2015a9b5b/svn/indian-ebony-newtechwood-composite-decking-boards-us53-16-eb-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ce28598c-b157-4dce-813f-e0945a3f6272/svn/indian-ebony-newtechwood-composite-decking-boards-us53-16-eb-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/67dcb85c-ad69-4fd1-b8ea-424ee319041b/svn/indian-ebony-newtechwood-composite-decking-boards-us53-16-eb-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/05f6698b-0fed-481c-93fb-354759ff36b8/svn/indian-ebony-newtechwood-composite-decking-boards-us53-16-eb-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Indian Ebony"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "NewTechWood Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Years"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "36"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Brazillian IPE~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Brazilian-IPE-Composite-Decking-Board-US53-16-IP/332222367",
+        "item_id": "332222367"
+      },
+      {
+        "title": "Peruvian Teak~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Peruvian-Teak-Composite-Decking-Board-US53-16-TK/332222687",
+        "item_id": "332222687"
+      },
+      {
+        "title": "Indian Ebony~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Indian-Ebony-Composite-Decking-Board-US53-16-EB/332222057",
+        "item_id": "332222057"
+      },
+      {
+        "title": "Argentinian Silver Gray~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Argentinian-Silver-Gray-Composite-Decking-Board-US53-16-SI/332222616",
+        "item_id": "332222616"
+      },
+      {
+        "title": "Argentinian Silver Gray~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-8-ft-Grooved-Argentinian-Silver-Gray-Composite-Decking-Board-US53-8-SI/332222907",
+        "item_id": "332222907"
+      },
+      {
+        "title": "Spanish Walnut~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-8-ft-Grooved-Spanish-Walnut-Composite-Decking-Board-US53-8-WN/332222971",
+        "item_id": "332222971"
+      },
+      {
+        "title": "Roman Antique~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-8-ft-Grooved-Roman-Antique-Composite-Decking-Board-US53-8-AT/332222827",
+        "item_id": "332222827"
+      },
+      {
+        "title": "Indian Ebony~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-8-ft-Grooved-Indian-Ebony-Composite-Decking-Board-US53-8-EB/332222853",
+        "item_id": "332222853"
+      },
+      {
+        "title": "Peruvian Teak~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-8-ft-Grooved-Peruvian-Teak-Composite-Decking-Board-US53-8-TK/332222949",
+        "item_id": "332222949"
+      },
+      {
+        "title": "Spanish Walnut~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Spanish-Walnut-Composite-Decking-Board-US53-16-WN/332222788",
+        "item_id": "332222788"
+      },
+      {
+        "title": "Roman Antique~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-16-ft-Grooved-Roman-Antique-Composite-Decking-Board-US53-16-AT/332222004",
+        "item_id": "332222004"
+      },
+      {
+        "title": "Brazillian IPE~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Bell-Series-0-88-in-x-5-5-in-x-8-ft-Grooved-Brazilian-IPE-Composite-Decking-Board-US53-8-IP/332222871",
+        "item_id": "332222871"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 61.25,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1230,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        }
+      }
+    }
+  }
+}

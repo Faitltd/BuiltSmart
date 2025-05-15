@@ -1,0 +1,180 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14129,
+    "overage_used": 4129,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/PureBond-3-4-in-x-4-ft-x-8-ft-Poplar-Hardwood-Plywood-5787/317372919"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:57:20.306Z",
+    "processed_at": "2025-05-01T17:58:04.418Z",
+    "total_time_taken": 44.11,
+    "homedepot_url": "https://www.homedepot.com/p/PureBond-3-4-in-x-4-ft-x-8-ft-Poplar-Hardwood-Plywood-5787/317372919"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/PureBond-3-4-in-x-4-ft-x-8-ft-Poplar-Hardwood-Plywood-5787/317372919",
+    "brand": "PureBond",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/PureBond/N-5yc1vZc7r1Z9qi",
+    "title": "PureBond 3/4 in. x 4 ft. x 8 ft. Poplar Hardwood Plywood",
+    "upc": "730232005787",
+    "item_id": "317372919",
+    "store_sku": "1006540639",
+    "model_number": "5787",
+    "description": "Each 7-ply sheet features decorative poplar veneers on the face and back, which exhibit the warmth and beauty of natural hardwood to supply your carpentry creations with visual allure. Furthermore, the 3/4 in. x 4 ft. x 8 ft. panels are manufactured with a soy-based PureBond technology that is formaldehyde-free so it won't deteriorate air quality, as is common with UF-constructed sheets that are susceptible to releasing airborne contaminants over time. Intended for interior use, these poplar plywood panels are an affordable way to craft authentic hardwood-faced masterpieces such as built-in cabinets, entertainment centers, tables, shelves, headboards, wall panels and more.",
+    "feature_bullets": [
+      "Poplar plywood strength, performance and durability",
+      "Beautiful poplar plywood for furniture, cabinets and more",
+      "Poplar veneer on both sides of plywood"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "PureBond hardwood plywood is an environmentally friendly, cost-competitive alternative to panels manufactured with urea formaldehyde (UF), which may degrade air quality over time",
+      "7-ply hardwood plywood panel is assembled with decorative poplar veneer",
+      "Contains 100% natural wood bonded with a food-grade soy-based adhesive that does not emit toxic air contaminants",
+      "Decorative top and bottom veneers, measuring approximately 1/39 in. thick, exhibit the beauty and timeless quality of natural hardwood and are suitable for painting or staining",
+      "Water-resistant composition has a higher moisture tolerance than UF panels and is less likely to warp than solid wood",
+      "Allow panel to acclimate to interior climate conditions for several days before customizing - for interior applications only",
+      "For best cutting results, use an 80-tooth (or greater) table saw blade intended for sheet goods or a carbide-tipped circular saw plywood blade",
+      "Common: 3/4 in. x 4 ft. x 8 ft., actual: 0.703 in. x 48 in. x 96 in.",
+      "Direction of the grain is the length of panel",
+      "Each panel weighs approximately 70 lbs.",
+      "Grade: C-3 - see grading guide for additional information"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bbd48dd0-71a8-4318-b289-51ff2059e7ea/svn/purebond-hardwood-plywood-5787-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/05d3f053-792a-48a5-979d-3464673e397b/svn/purebond-hardwood-plywood-5787-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9289ebcb-29c9-408b-ac0c-cdf640d784ce/svn/purebond-hardwood-plywood-5787-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ec5aee3f-0b90-4974-b1d6-0098d8954dfc/svn/purebond-hardwood-plywood-5787-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ec5aee3f-0b90-4974-b1d6-0098d8954dfc/svn/purebond-hardwood-plywood-5787-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/210658eb-bce6-4926-af30-a9b0a31af570/svn/purebond-hardwood-plywood-5787-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cab1c211-120c-494a-ad5c-089a6e7a6d1a/svn/purebond-hardwood-plywood-5787-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1bd9c362-653d-4d56-b1f9-55f896826738/svn/purebond-hardwood-plywood-5787-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/67727b00-c2df-42e5-b64e-317917e19229/svn/purebond-hardwood-plywood-5787-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0484d54e-139f-45a9-b8e2-cf2b3e993dae/svn/purebond-hardwood-plywood-5787-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bbd48dd0-71a8-4318-b289-51ff2059e7ea/svn/purebond-hardwood-plywood-5787-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 51,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "C3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Product warranted against glue or bond failure. Product replacement provided."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.703 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Hardwood Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/N-5yc1vZc7r1"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

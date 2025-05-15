@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14270,
+    "overage_used": 4270,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-205-1-1-8-in-x-1-1-8-in-Primed-Finger-Jointed-Outside-Corner-Moulding-10001883/206001706"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:31.173Z",
+    "processed_at": "2025-05-01T18:23:35.883Z",
+    "total_time_taken": 4.71,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-205-1-1-8-in-x-1-1-8-in-Primed-Finger-Jointed-Outside-Corner-Moulding-10001883/206001706"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-205-1-1-8-in-x-1-1-8-in-Primed-Finger-Jointed-Outside-Corner-Moulding-10001883/206001706",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/Woodgrain-Millwork/N-5yc1vZcbjfZ7c8",
+    "title": "Woodgrain Millwork WM 205 1-1/8 in. x 1-1/8 in. Primed Finger-Jointed Outside Corner Moulding",
+    "upc": "049437362336",
+    "item_id": "206001706",
+    "store_sku": "565983",
+    "model_number": "10001883",
+    "description": "The Woodgrain Distribution 1-1/8 in. x 1-1/8 in. WM 2051 Prime Finger-Jointed outside corner moulding is used to protect and cover corners where walls form outside corners or where wall coverings and painted surfaces meet. The moulding is sometimes referred to as outside corner guards. The Prime Finger-Jointed WM 2051 outside corner can also be used on shelving boards to prevent items from sliding off.",
+    "favorite_count": 37,
+    "aisle": "FW",
+    "bay": "024",
+    "feature_bullets": [
+      "Protects corners of wallpaper and painted wall meeting point",
+      "Smooth surface allows for painting over",
+      "Easy installation with woodworking tools ensures convenience"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Use to protect corners where wall paper meets a painted wall",
+      "Use to protect outside corners from dents and scratches in high traffic areas",
+      "Installs with common woodworking tools",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4c4eb926-76e1-4457-8716-63941d22f6d7/svn/white-woodgrain-millwork-corner-moulding-10001883-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5e6a63d3-8ff0-41e7-848c-34d6dd22b178/svn/white-woodgrain-millwork-corner-moulding-10001883-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4c4eb926-76e1-4457-8716-63941d22f6d7/svn/white-woodgrain-millwork-corner-moulding-10001883-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 74,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Corner Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "205"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.125 in"
+      }
+    ],
+    "keywords_list": [
+      "American Wood Moulding",
+      "1 ft. x 1-1/8 in. x 1-1/8 in. WM205 Primed Finger-Joint Outside Corner Moulding",
+      "205-PFJ"
+    ],
+    "keywords": "American Wood Moulding, 1 ft. x 1-1/8 in. x 1-1/8 in. WM205 Primed Finger-Joint Outside Corner Moulding, 205-PFJ",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Corner Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/N-5yc1vZcbjf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.78,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 695
+        }
+      }
+    }
+  }
+}

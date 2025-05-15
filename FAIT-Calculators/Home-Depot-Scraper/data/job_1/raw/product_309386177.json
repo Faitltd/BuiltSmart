@@ -1,0 +1,315 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14921,
+    "overage_used": 4921,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Veil-Comfort-Height-Intelligent-1-Piece-0-8-GPF-Dual-Flush-Elongated-Toilet-in-White-with-built-in-bidet-Seat-Included-K-5401-PA-0/309386177"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:42:32.295Z",
+    "processed_at": "2025-05-02T21:42:36.725Z",
+    "total_time_taken": 4.43,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Veil-Comfort-Height-Intelligent-1-Piece-0-8-GPF-Dual-Flush-Elongated-Toilet-in-White-with-built-in-bidet-Seat-Included-K-5401-PA-0/309386177"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Veil-Comfort-Height-Intelligent-1-Piece-0-8-GPF-Dual-Flush-Elongated-Toilet-in-White-with-built-in-bidet-Seat-Included-K-5401-PA-0/309386177",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/KOHLER/N-5yc1vZbzacZ1qh",
+    "title": "KOHLER Veil Comfort Height Intelligent 1-Piece 0.8 GPF Dual Flush Elongated Toilet in White with built in bidet, Seat Included",
+    "upc": "885612706195",
+    "item_id": "309386177",
+    "parent_id": "334731502",
+    "store_sku": "1004548103",
+    "model_number": "K-5401-PA-0",
+    "description": "With its flowing and immaculately balanced curves, the Veil one-piece toilet with integrated cleansing functionality epitomizes minimalist and ergonomic design. Its sculpted core provides a suite of precision features finely tuned to offer optimum hygiene and ultimate individual comfort, from personal cleansing to an LED nightlight to hands-free opening and closing. All of the features are easy to control on a touchscreen LCD remote control.",
+    "favorite_count": 110,
+    "feature_bullets": [
+      "Bidet wand offers adjustable spray shape, position & pressure",
+      "Kohler UV Light Cleansing Technology reduces bacteria by 99.9%*",
+      "Tankless flush system carries direct water supply to the toilet"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Compact, streamlined one-piece toilet with integrated cleansing",
+      "Elongated bowl offers added room and comfort",
+      "Tankless design with direct water supply",
+      "Dual flush offers a choice of 0.8 or 1.28 gallons per flush (GPF)",
+      "Stainless steel wand offers adjustable spray shape, position, water pressure, temperature, pulsate, and oscillate functions",
+      "Front and rear wash modes provide warm water for cleansing",
+      "Self-cleaning function uses UV light and electrolyzed water systems to sanitize the wand surfaces",
+      "Warm-air drying system with adjustable temperature settings",
+      "Automatic deodorization system",
+      "Heated seat with adjustable temperature settings",
+      "Motion-activated, hands-free opening/closing of seat and cover",
+      "Quiet-close lid closes slowly and quietly without slamming",
+      "LED lighting illuminates the bowl to serve as a night-light",
+      "English-language touchscreen LCD remote control",
+      "Emergency flush feature for power outages",
+      "Dual-flush technology allows you to choose between a full- or partial-flush",
+      "Included components: complete toilet and seat, supply stop valve, braided inlet supply hose, power cord, and LCD remote control",
+      "Standard 12 in. rough-in",
+      "WaterSense",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 20,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f7e9fdb4-a996-4ef8-8080-1d01bd65b9e3/svn/white-kohler-bidet-toilets-k-5401-pa-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f5b648d5-44d8-4f9f-a939-c9878122f674/svn/white-kohler-bidet-toilets-k-5401-pa-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8964eb32-a1d7-4bd6-8f3e-bbe2966ca9ed/svn/white-kohler-bidet-toilets-k-5401-pa-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/21b28e6b-f8c3-4f5d-bd5b-d606ae52142d/svn/white-kohler-bidet-toilets-k-5401-pa-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0e5dc1c0-addb-4d2a-939b-601d1be2cd4f/svn/white-kohler-bidet-toilets-k-5401-pa-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7586c3df-9e5e-4a06-bad9-ba9803e88a19/svn/white-kohler-bidet-toilets-k-5401-pa-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3594998b-4cb3-4379-8ee4-5b3a779b7359/svn/white-kohler-bidet-toilets-k-5401-pa-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/05274515-7810-408e-a7c1-e46f930dccd3/svn/white-kohler-bidet-toilets-k-5401-pa-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/93bce5e5-b3d7-4777-8859-b3a67e46b531/svn/white-kohler-bidet-toilets-k-5401-pa-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7baf2c47-6a0f-45df-add4-4cb3c1728780/svn/white-kohler-bidet-toilets-k-5401-pa-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8987af7d-e6c3-4926-b523-f08407b2de8b/svn/white-kohler-bidet-toilets-k-5401-pa-0-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c8a614de-402a-406f-b9a5-710fbd8cac4f/svn/white-kohler-bidet-toilets-k-5401-pa-0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e1ef4f34-1ccb-4b58-adaf-5e2b8a34433d/svn/white-kohler-bidet-toilets-k-5401-pa-0-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f7e9fdb4-a996-4ef8-8080-1d01bd65b9e3/svn/white-kohler-bidet-toilets-k-5401-pa-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/5c1396c6-b2e2-4901-bc77-78af0406018a/af1530ab-bc12-4bfb-ae62-68800f9f0052/main.mp4?fastly_token=NjgxNGU1MjBfNDFlMjY5MDJmZGYyOTlhOTUxN2FjNzI1YzVhN2NkNzRiNDUyMmFkZmU5ZDJhZGU4YWNjMjZjYzgyNjhiMmFmM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNWMxMzk2YzYtYjJlMi00OTAxLWJjNzctNzhhZjA0MDYwMThhL2FmMTUzMGFiLWJjMTItNGJmYi1hZTYyLTY4ODAwZjlmMDA1Mi9tYWluLm1wNA%3D%3D",
+        "title": "Intelligent Toilet",
+        "id": "6074939728001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/5c1396c6-b2e2-4901-bc77-78af0406018a/461f34e5-f473-460a-8751-219117119f32/600x338/match/image.jpg",
+        "description": "Veil Art and Technology\n"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ac6ed7eb-8cad-4d68-8d0b-7d9acead2cc7/e9735384-c567-4823-917b-2f6c45288904/main.mp4?fastly_token=NjgzOTc5Y2ZfNTA5Nzc3YjdkMDkxMWM5ZWI0NjA1MWNjY2Y4ZjY2ZmNiZmYxZmI2MTlhNDA4MThmNWUwYjkzMDgxNjhlMjNlOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hYzZlZDdlYi04Y2FkLTRkNjgtOGQwYi03ZDlhY2VhZDJjYzcvZTk3MzUzODQtYzU2Ny00ODIzLTkxN2ItMmY2YzQ1Mjg4OTA0L21haW4ubXA0&pubid=66036796001",
+        "title": "K25CN29453_Veil_DiscreetFunction_White_15_16x9",
+        "id": "6370604713112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ac6ed7eb-8cad-4d68-8d0b-7d9acead2cc7/main/160x90/7s562ms/match/image.jpg?pubId=66036796001",
+        "description": "Veil Discreet Function White"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d000249e-9d89-42a9-956f-8d3a544a7402/9399531d-272e-485e-aa35-54f1e8f9f4a5/main.mp4?fastly_token=NjgzOTc5Y2ZfZjM4ZGZmZDZkYTRkMmU4YTVjOTZlMjFmNmM5ODExM2IxMDYwODVlNWQxNGRkMzk3NGVkZWJkMjEzMjYxN2Q3Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kMDAwMjQ5ZS05ZDg5LTQyYTktOTU2Zi04ZDNhNTQ0YTc0MDIvOTM5OTUzMWQtMjcyZS00ODVlLWFhMzUtNTRmMWU4ZjlmNGE1L21haW4ubXA0&pubid=66036796001",
+        "title": "K25CN29427_Veil_Design_White_15_16x9",
+        "id": "6370675626112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/d000249e-9d89-42a9-956f-8d3a544a7402/main/160x90/7s562ms/match/image.jpg?pubId=66036796001",
+        "description": "Veil Design"
+      }
+    ],
+    "ratings_total": 49,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bidet Power Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bidet Spray Type",
+        "value": "Vertical"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Automatic Close,Automatic Open,Deodorizing,Heated,Lighted,Self-Cleaning,Touchless,Warm Air Dryer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 0.8"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Through-the-floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Faucet Holes",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "114.60 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ASME Certified,CSA Certified,EPA Approved"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Three-Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "25.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "21 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "17.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Elongated~~12 inch Rough In",
+        "link": "https://www.homedepot.com/p/KOHLER-Veil-Comfort-Height-Intelligent-1-Piece-0-8-GPF-Dual-Flush-Elongated-Toilet-in-White-with-built-in-bidet-Seat-Included-K-5401-PA-0/309386177",
+        "item_id": "309386177"
+      },
+      {
+        "title": "Honed Black~~Elongated~~12 inch Rough In",
+        "link": "https://www.homedepot.com/p/KOHLER-Veil-12-in-Rough-In-One-Piece-0-8-1-28-GPF-Dual-Flush-Elongated-Smart-Toilet-in-Honed-Black-with-BuiltiIn-Bidet-5401-PA-HB1/333313192",
+        "item_id": "333313192"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Bidet Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/N-5yc1vZbzac"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4249.85,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 8,
+          "price": 0,
+          "start_date": "2025-05-14",
+          "end_date": "2025-05-19"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 8,
+          "price": 55,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

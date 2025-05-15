@@ -1,0 +1,232 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13826,
+    "overage_used": 3826,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-10-x-2-1-2-in-Stainless-Steel-Star-Drive-Flat-Undercut-Composite-Deck-Screw-in-Westminster-Gray-100-Pack-LG-100-SS-SC/308644787"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:01:40.874Z",
+    "processed_at": "2025-05-01T17:02:26.921Z",
+    "total_time_taken": 46.05,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-10-x-2-1-2-in-Stainless-Steel-Star-Drive-Flat-Undercut-Composite-Deck-Screw-in-Westminster-Gray-100-Pack-LG-100-SS-SC/308644787"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-10-x-2-1-2-in-Stainless-Steel-Star-Drive-Flat-Undercut-Composite-Deck-Screw-in-Westminster-Gray-100-Pack-LG-100-SS-SC/308644787",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/NewTechWood/N-5yc1vZ2fkpe6aZbzg",
+    "title": "NewTechWood #10 x 2-1/2 in. Stainless Steel Star Drive Flat Undercut Composite Deck Screw in Westminster Gray (100-Pack)",
+    "upc": "854018008899",
+    "item_id": "308644787",
+    "parent_id": "324217178",
+    "store_sku": "1004111438",
+    "model_number": "LG-100-SS-SC",
+    "description": "#10 x 2-1/2 in. Star Drive NewTechWood Stainless Steel Composite Deck Screws are specifically designed to provide a clean, smooth and uniform finish in NewTechWood composite products. These screws feature extra deep star drive recesses, undercut heads, reverse threads, tri-lobular shanks, Type 17 auger tips. Made to match NewTechWood Colors.",
+    "favorite_count": 27,
+    "feature_bullets": [
+      "Top of screw matches the color of the decking",
+      "Makes screws hidden for a seamless look",
+      "Bit is included in every box"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Auger point: provides faster entry and splitting prevention",
+      "Star recess: allows for better torqueing and less stripping",
+      "Special head design: achieve better countersinking thanks to the nibs built-in to both head types, flat heads have greater strength at the reinforced neck and the trim head's diameter is so small that the head is hardly noticeable",
+      "ACQ-rated: approved for use with ACQ treated lumber"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/42e885b5-c842-438a-b638-3de8e393be00/svn/newtechwood-composite-deck-screws-lg-100-ss-sc-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8ab83701-4746-423e-857d-f3f30e0446f2/svn/newtechwood-composite-deck-screws-lg-100-ss-sc-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eb50db6e-a1b9-43e8-9201-fa8181d019e8/svn/newtechwood-composite-deck-screws-lg-100-ss-sc-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9fe47b6a-7526-4c8b-b1d0-30c13dffe513/svn/newtechwood-composite-deck-screws-lg-100-ss-sc-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/42e885b5-c842-438a-b638-3de8e393be00/svn/newtechwood-composite-deck-screws-lg-100-ss-sc-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/0580fa2b-8c6b-42b4-9fe3-559fb2d8b9f7/main.mp4?fastly_token=NjgzODkyMmFfNGRmMDM5MWRjYmY3MjVmYjIwNjY3M2U1NWVkM2EwOTlmMzBjOTBjNjQwMTAzNTFjZmIwMTNiOTc3OWU1Y2M1MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hY2U2MjRkOS05NTBlLTRmODktYTgzZi1kNzUzMTkyYjExMmUvMDU4MGZhMmItOGM2Yi00MmI0LTlmZTMtNTU5ZmIyZDhiOWY3L21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Composite Decking Deep Dive",
+        "id": "6299851835001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/main/160x90/5m43s104ms/match/image.jpg?pubId=66036796001",
+        "description": "In this video we take a deep dive into NewTechWood Composite Decking to show you the different profiles and their use cases as well as the clips."
+      }
+    ],
+    "ratings_total": 15,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Painted"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "18-8 Stainless"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Undercut"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit,Screw"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "100"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.22 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Westminster Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Spiral Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "12 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "0"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "2-1/2 in~~#10~~Westminster Gray~~1.22 lb",
+        "link": "https://www.homedepot.com/p/NewTechWood-10-x-2-1-2-in-Stainless-Steel-Star-Drive-Flat-Undercut-Composite-Deck-Screw-in-Westminster-Gray-100-Pack-LG-100-SS-SC/308644787",
+        "item_id": "308644787"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Roman Antique~~1.22 lb",
+        "link": "https://www.homedepot.com/p/NewTechWood-10-x-2-1-2-in-Stainless-Steel-Star-Drive-Flat-Undercut-Composite-Deck-Screw-in-Roman-Antique-100-Pack-AT-100-SS-SC/308644793",
+        "item_id": "308644793"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 37.45,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case"
+    }
+  }
+}

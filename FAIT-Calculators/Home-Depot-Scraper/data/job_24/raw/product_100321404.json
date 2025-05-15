@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14276,
+    "overage_used": 4276,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-292-9-16-in-x-1-1-8-in-Solid-Pine-Wainscot-Panel-Cap-Molding-10000766/100321404"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:51.069Z",
+    "processed_at": "2025-05-01T18:24:30.614Z",
+    "total_time_taken": 39.55,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-292-9-16-in-x-1-1-8-in-Solid-Pine-Wainscot-Panel-Cap-Molding-10000766/100321404"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-292-9-16-in-x-1-1-8-in-Solid-Pine-Wainscot-Panel-Cap-Molding-10000766/100321404",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/Woodgrain-Millwork/N-5yc1vZcbjjZ7c8",
+    "title": "Woodgrain Millwork WM 292 9/16 in. x 1-1/8 in. Solid Pine Wainscot Panel Cap Molding",
+    "upc": "095624134200",
+    "item_id": "100321404",
+    "parent_id": "325476794",
+    "store_sku": "588449",
+    "model_number": "10000766",
+    "description": "The Woodgrain Distribution 9/16 in. x 1-1/8 in. WM292 Pine Ply Cap Molding is used finish the exposed top of wainscot panels. The Pine WM292 Ply Cap Molding can also be used to cover the exposed edge of plywood panels. The rabbeted design allows some room for changes in height for the wainscot panels.",
+    "is_top_rated": true,
+    "favorite_count": 74,
+    "feature_bullets": [
+      "Made using pinewood to ensure longevity",
+      "Smooth finish makes for a great option to cap wainscot panels",
+      "Raw wooden texture pairs well with any decor"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be stained or painted with any high quality latex or oil based paint/stain",
+      "Installs with common woodworking tools",
+      "Can be used to trim the rough exposed edges of shelves",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f4844564-fa7d-4fcb-9f86-9c865db0c61d/svn/beige-woodgrain-millwork-chair-rail-10000766-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/beige-woodgrain-millwork-chair-rail-10000766-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f4844564-fa7d-4fcb-9f86-9c865db0c61d/svn/beige-woodgrain-millwork-chair-rail-10000766-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 118,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Beige"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Chair Rail Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "292"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.125 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "pine moulding",
+      "ply cap moulding",
+      "pine ply cap moulding",
+      "9/16 in. x 1-1/8 in. moulding",
+      "9/16 in. x 1-1/8 in. ply cap moulding"
+    ],
+    "keywords": "moulding, pine moulding, ply cap moulding, pine ply cap moulding, 9/16 in. x 1-1/8 in. moulding, 9/16 in. x 1-1/8 in. ply cap moulding",
+    "variants": [
+      {
+        "title": "Beige~~16 ft",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-292-9-16-in-x-1-1-8-in-Solid-Pine-Wainscot-Panel-Cap-Molding-10000766/100321404",
+        "item_id": "100321404"
+      },
+      {
+        "title": "Beige~~8 ft",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-292-9-16-in-x-1-1-8-in-x-96-in-Solid-Pine-Wainscot-Panel-Cap-Moulding-10004432/206178787",
+        "item_id": "206178787"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Chair Rail",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/N-5yc1vZcbjj"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

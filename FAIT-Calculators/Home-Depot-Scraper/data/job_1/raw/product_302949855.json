@@ -1,0 +1,397 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13005,
+    "overage_used": 3005,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DAP-DYNAFLEX-Ultra-10-1-oz-White-Advanced-Exterior-Window-Door-and-Siding-Sealant-18211/302949855"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:37:30.655Z",
+    "processed_at": "2025-05-01T13:37:35.510Z",
+    "total_time_taken": 4.86,
+    "homedepot_url": "https://www.homedepot.com/p/DAP-DYNAFLEX-Ultra-10-1-oz-White-Advanced-Exterior-Window-Door-and-Siding-Sealant-18211/302949855"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DAP-DYNAFLEX-Ultra-10-1-oz-White-Advanced-Exterior-Window-Door-and-Siding-Sealant-18211/302949855",
+    "brand": "DAP",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/DAP/N-5yc1vZcibhZ1wf",
+    "title": "DAP DYNAFLEX Ultra 10.1 oz. White Advanced Exterior Window, Door, and Siding Sealant",
+    "upc": "070798182110",
+    "item_id": "302949855",
+    "parent_id": "309011642",
+    "store_sku": "1003144849",
+    "model_number": "18211",
+    "description": "DAP Dynaflex Ultra Advanced Sealant for Window, Door, Siding & Trim applications is formulated with innovative Weather Max Technology to resist UV fading, chalking, crumbling, cracking and dirt build up. It also has a lifetime mold, mildew and algae resistance guarantee, so the sealant stays looking clean and new. Dynaflex Ultra has strong adhesion to common building materials and stays permanently flexible for a long-lasting, weatherproof seal that provides All Weather Protection and stands up to the elements. It is rain ready and paintable in one hour for better productivity. Waterproof sealant does not bubble, is low in odor and cleans up easily with water. DAP sealant guns out effortlessly and tools smoothly for easy application. Dynaflex Ultra meets ASTM C920, Class 35, is VOC compliant, and can be used on exterior and interior applications. DAP caulk and sealants provide durable performance for a variety of projects.",
+    "favorite_count": 1223,
+    "aisle": "50",
+    "bay": "016",
+    "feature_bullets": [
+      "Paintable latex flex sealant for exterior and interior use",
+      "Weatherproof with a lifetime resistance to mold, mildew and algae",
+      "Maintains flexibility and adhesion and rain ready in 1 hour"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">Step-by-Step How to Caulk like a Professional</a>",
+      "Dynaflex Ultra is powered by Weather Max Technology for long-lasting, all weather protection, making it the perfect exterior sealant for windows, door, siding and trim",
+      "Dynaflex Ultra is an all purpose sealant in a proprietary synthetic latex formula that creates a 100% waterproof and weatherproof seal",
+      "White sealant seals joints up to 1\" wide and creates a tough hydrophobic surface that prevents water absorption and resists dirt pick up for a clean looking surface",
+      "Proprietary synthetic latex sealant is low in odor and cleans up with water",
+      "Adheres to a wide range of building materials indoors or outdoors, such as wood, MDF, PVC, and composite trimboard; meets ASTM Specification C920, Class 35",
+      "Dries tack free in 30 minutes, is paint and rain ready in 1 hour",
+      "100% waterproof &amp; weatherproof seal guarantees mold, mildew and algae resistance on the cured caulk surface",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">How to Caulk Like a Professional</a>",
+      "<a href=\"https://www.homedepot.com/c/ab/best-caulks-and-sealants-for-your-home-improvement-projects/9ba683603be9fa5395fab90d0b119c3\" target=\"_blank\" style=\"color:#F96302;\">Best Caulks and Sealants for Your Home Improvement Projects</a>",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-use-a-caulk-gun/9ba683603be9fa5395fab9014749e39b\" target=\"_blank\" style=\"color:#F96302;\">How to use a caulk gun</a>",
+      "<img src=\"https://inlinecontent.thdstatic.com/24/DAP INC/DynaFlex Ultra Inline 1.jpg\"> <img src=\"https://inlinecontent.thdstatic.com/24/DAP INC/DynaFlex Ultra Inline 2.jpg\">"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/405c2e30-71ad-4cee-8356-8c3ab6ecba07/svn/white-dap-caulk-18211-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c787bdda-2a5b-48eb-9d61-367e72908a28/svn/white-dap-caulk-18211-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2264da17-ff1e-460d-bab2-5ff66e634c4b/svn/white-dap-caulk-18211-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f79eb194-7fda-462d-bf1a-72881a5e18db/svn/white-dap-caulk-18211-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3503330f-5086-4491-8d86-af91e95a4e09/svn/white-dap-caulk-18211-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8ecf2fa7-442f-4cc1-b0f5-116ab5c9ad54/svn/white-dap-caulk-18211-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3a131bfa-9b50-48af-87ae-a6d6ad0d0dd6/svn/white-dap-caulk-18211-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3289517c-1ba9-46b8-868f-4a7fdc2f378e/svn/white-dap-caulk-18211-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bb741035-9d49-4d3e-af55-02b34fdbe235/svn/white-dap-caulk-18211-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f763bcc7-c206-4baf-b6c5-860afe6ed186/svn/white-dap-caulk-18211-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fbbfe0c6-9dd0-444b-a910-9deb3ca121c6/svn/white-dap-caulk-18211-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/405c2e30-71ad-4cee-8356-8c3ab6ecba07/svn/white-dap-caulk-18211-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/be05edce-fbe7-4ad4-a5e4-5585f4ca19ad/1310e829-444c-4be3-9ffb-6740b728d31d/main.mp4?fastly_token=NjgzODJjMTlfMTI4MTM4ODcwOTRlYTZiNzljYTVhYmNiNzRjYTNlYTQ4YzdmYWQ4Y2Y5M2RkNjAyZjU0M2YwYzE1N2M4ZmExY18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iZTA1ZWRjZS1mYmU3LTRhZDQtYTVlNC01NTg1ZjRjYTE5YWQvMTMxMGU4MjktNDQ0Yy00YmUzLTlmZmItNjc0MGI3MjhkMzFkL21haW4ubXA0&pubid=66036796001",
+        "title": "Dynaflex Ultra",
+        "id": "5773241503001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/be05edce-fbe7-4ad4-a5e4-5585f4ca19ad/87d9a0e4-805d-4173-9804-e2beaae8ee20/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Dynaflex Ultra 10.1 oz. Advanced Window, Door and Siding Exterior Sealant"
+      }
+    ],
+    "ratings_total": 4459,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Window & Door"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Latex"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "55"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant,Paintable,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Dynaflex Ultra"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Warranty Information: If you are not satisfied with this product\u2019s performance when used as directed, return used container and sales receipt to DAP Inc., Technical Customer Service, 2400 Boston Street, Suite 200, Baltimore, MD 21224 for product replacement or sales price refund. DAP will not be liable for incidental or consequential damages."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10.1 oz"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Beige~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Beige-Advanced-Exterior-Window-or-Door-and-Siding-Sealant-2-Pack-7079818213/319661318",
+        "item_id": "319661318"
+      },
+      {
+        "title": "Black~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-DYNAFLEX-ULTRA-10-1-oz-Black-Advanced-Exterior-Window-Door-and-Siding-Sealant-2-Pack-7079818220/319639489",
+        "item_id": "319639489"
+      },
+      {
+        "title": "Black~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Black-Advanced-Exterior-Window-Door-and-Siding-Sealant-12-Pack-7079818220/309051771",
+        "item_id": "309051771"
+      },
+      {
+        "title": "White~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-DYNAFLEX-Ultra-10-1-oz-White-Advanced-Exterior-Window-Door-and-Siding-Sealant-18211/302949855",
+        "item_id": "302949855"
+      },
+      {
+        "title": "Gray~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Gray-Advanced-Exterior-Window-Door-and-Siding-Sealant-12-Pack-7079818219/309051770",
+        "item_id": "309051770"
+      },
+      {
+        "title": "Clear~~5.5 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-5-5-oz-Clear-Advanced-Exterior-Window-Door-and-Siding-Sealant-18207/316996917",
+        "item_id": "316996917"
+      },
+      {
+        "title": "Brown~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Brown-Advanced-Exterior-Window-Door-and-Siding-Sealant-12-Pack-7079818217/309051769",
+        "item_id": "309051769"
+      },
+      {
+        "title": "Cedar Tan~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Cedar-Tan-Advanced-Exterior-Window-Door-and-Siding-Sealant-12-Pack-7079818221/309051768",
+        "item_id": "309051768"
+      },
+      {
+        "title": "White~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-White-Advanced-Exterior-Window-Door-and-Siding-Sealant-2-Pack-7079818211/317658489",
+        "item_id": "317658489"
+      },
+      {
+        "title": "White~~5.5 oz~~15",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-5-5-oz-White-Advanced-Exterior-Window-Door-and-Siding-Sealant-15-Pack-7079818208/318305774",
+        "item_id": "318305774"
+      },
+      {
+        "title": "Cedar Tan~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Cedar-Tan-Advanced-Exterior-Window-Door-and-Siding-Sealant-18221/306283429",
+        "item_id": "306283429"
+      },
+      {
+        "title": "Clear~~5.5 oz~~15",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-5-5-oz-Clear-Advanced-Exterior-Window-Door-and-Siding-Sealant-15-Pack-7079818207/318305822",
+        "item_id": "318305822"
+      },
+      {
+        "title": "Brown~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Brown-Advanced-Exterior-Window-Door-and-Siding-Sealant-2-Pack-7079818217/319660907",
+        "item_id": "319660907"
+      },
+      {
+        "title": "Clear~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Clear-Advanced-Exterior-Window-Door-and-Siding-Sealant-2-Pack-7079818212/319661028",
+        "item_id": "319661028"
+      },
+      {
+        "title": "Brown~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Brown-Advanced-Exterior-Window-Door-and-Siding-Sealant-18217/306283502",
+        "item_id": "306283502"
+      },
+      {
+        "title": "Gray~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-DYNAFLEX-Ultra-10-1-oz-Gray-Advanced-Exterior-Window-Door-and-Siding-Sealant-18219/306283633",
+        "item_id": "306283633"
+      },
+      {
+        "title": "Clear~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Clear-Advanced-Exterior-Window-Door-and-Siding-Sealant-12-Pack-7079818212/304060975",
+        "item_id": "304060975"
+      },
+      {
+        "title": "Beige~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Beige-Advanced-Exterior-Window-Door-and-Siding-Sealant-12-Pack-7079818213/304060974",
+        "item_id": "304060974"
+      },
+      {
+        "title": "Beige~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-DYNAFLEX-ULTRA-10-1-oz-Beige-Advanced-Exterior-Window-Door-and-Siding-Sealant-18213/302949884",
+        "item_id": "302949884"
+      },
+      {
+        "title": "White~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-White-Advanced-Exterior-Window-Door-and-Siding-Sealant-12-Pack-7079818211/304060973",
+        "item_id": "304060973"
+      },
+      {
+        "title": "Cedar Tan~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Cedar-Tan-Advanced-Exterior-Window-Door-and-Siding-Sealant-2-Pack-7079818221/319660921",
+        "item_id": "319660921"
+      },
+      {
+        "title": "Gray~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-10-1-oz-Gray-Advanced-Exterior-Window-Door-and-Siding-Sealant-2-Pack-7079818219/317967109",
+        "item_id": "317967109"
+      },
+      {
+        "title": "Clear~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-DYNAFLEX-ULTRA-10-1-oz-Clear-Advanced-Exterior-Window-Door-and-Siding-Sealant-18212/306272827",
+        "item_id": "306272827"
+      },
+      {
+        "title": "White~~5.5 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-Ultra-5-5-oz-White-Advanced-Exterior-Window-Door-and-Siding-Sealant-18208/316996831",
+        "item_id": "316996831"
+      },
+      {
+        "title": "Black~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-DYNAFLEX-ULTRA-10-1-oz-Black-Advanced-Exterior-Window-Door-and-Siding-Sealant-18220/306283455",
+        "item_id": "306283455"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 99
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 237,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 237,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

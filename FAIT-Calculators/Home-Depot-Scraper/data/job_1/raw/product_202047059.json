@@ -1,0 +1,335 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14938,
+    "overage_used": 4938,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-Inlet-x-3-8-in-Compression-Outlet-1-4-Turn-Angle-Valve-G2CR19X-C1/202047059"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:44:33.987Z",
+    "processed_at": "2025-05-02T21:44:39.161Z",
+    "total_time_taken": 5.17,
+    "homedepot_url": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-Inlet-x-3-8-in-Compression-Outlet-1-4-Turn-Angle-Valve-G2CR19X-C1/202047059"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-Inlet-x-3-8-in-Compression-Outlet-1-4-Turn-Angle-Valve-G2CR19X-C1/202047059",
+    "brand": "BrassCraft",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Valves-Shut-off-Valves/BrassCraft/N-5yc1vZbqlwZa4",
+    "title": "BrassCraft 1/2 in. Compression Inlet x 3/8 in. Compression Outlet 1/4-Turn Angle Valve",
+    "upc": "026613135809",
+    "item_id": "202047059",
+    "parent_id": "326344898",
+    "store_sku": "235839",
+    "model_number": "G2CR19X C1",
+    "description": "BrassCraft 1/2 in. Nominal Compression Inlet x 3/8 in. O.D. Compression Outlet 1/4-Turn Angle Valve controls water flow to household plumbing fixtures - faucets, toilets, dishwashers, icemakers, washing machines, etc. The angle valve is most often used where the water pipe enters the room from the wall. With a 90\u00b0 turn of the valve handle, you are able to stop the flow of water leading to the plumbing fixture, allowing for maintenance and repair without shutting off the water to the entire home.",
+    "is_bestseller": true,
+    "favorite_count": 2548,
+    "aisle": "09",
+    "bay": "013",
+    "feature_bullets": [
+      "Compatible with Copper or PEX (requires tube insert)",
+      "1/4-turn water flow control",
+      "Designed to operate even after long periods without use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Compatible with copper or PEX (PEX installations require a stainless steel tube insert)",
+      "Smooth, quarter-turn operation, on/off flow control with a 90\u00b0 turn of the handle",
+      "1-piece shut-off mechanism ensures smooth operation without freeze-ups even after long periods without use",
+      "Easy-to-remove handle protects against accidental operation during rough-ins",
+      "1-piece body construction for strength, durability and long-lasting performance",
+      "Chrome-plated brass",
+      "Temperature rating: 40\u00b0 to 160\u00b0",
+      "Pressure rating: 125 psi maximum",
+      "No-lead certified",
+      "IAPMO and CSA listed to ASME A112.18.1/CSA B125.1",
+      "For use in potable water distribution systems. Not intended for recirculating water systems that produce continuous use temperatures above 115-Degree F"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/915896c2-7849-4bd7-ba42-9bca186bd332/svn/silver-brasscraft-shut-off-valves-g2cr19x-c1-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/affd90e7-e4c4-4f0c-949a-99dcd6ae46fb/svn/silver-brasscraft-shut-off-valves-g2cr19x-c1-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36a8960c-b8fb-47df-aa5f-dee156bdb12e/svn/silver-brasscraft-shut-off-valves-g2cr19x-c1-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fa6c64f6-ce29-4625-aacf-7fd2b03dd1e7/svn/silver-brasscraft-shut-off-valves-g2cr19x-c1-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4c282317-fe3c-412b-9fc2-b535eec4f33f/svn/silver-brasscraft-shut-off-valves-g2cr19x-c1-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8f70ab9-d790-44cd-b8c2-c10535d0cb73/svn/silver-brasscraft-shut-off-valves-g2cr19x-c1-66_1000.jpg",
+        "type": "image_back_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/915896c2-7849-4bd7-ba42-9bca186bd332/svn/silver-brasscraft-shut-off-valves-g2cr19x-c1-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/cbf5963f-3f9b-4ec3-a3f0-3594923d5091/0cb0a1bc-9e47-439b-8035-0481871e0b8c/main.mp4?fastly_token=NjgzOTc0Y2RfNDJkOTA1YjAwODM2OGExMGUzY2RiYmQ4YTRkZWM0MTNkZDNmYTRmY2U5MTEyMmVkZGJjMDMxMTA4ZTQyNzU1NF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jYmY1OTYzZi0zZjliLTRlYzMtYTNmMC0zNTk0OTIzZDUwOTEvMGNiMGExYmMtOWU0Ny00MzliLTgwMzUtMDQ4MTg3MWUwYjhjL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install a Compression Valve",
+        "id": "3958462210001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/cbf5963f-3f9b-4ec3-a3f0-3594923d5091/56dfb681-f429-48f0-9411-dddfb0f74fdf/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn how to install or replace a water supply Compression valve. \r\n"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/2416b8bf-6b10-4d46-aa60-7b82b13d581a/87ab5a25-0e60-4d3d-a358-d5849b964eb6/main.mp4?fastly_token=NjgzOTZlMDdfNjQ3MzZjMTZlYzhiZDY4ODA1NWY3ODMxNTA2ZDkyNGM4MzA4ZWNjMmI0YjVkZjY0MzQxNjk5YzVmNTVhMWMzOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yNDE2YjhiZi02YjEwLTRkNDYtYWE2MC03YjgyYjEzZDU4MWEvODdhYjVhMjUtMGU2MC00ZDNkLWEzNTgtZDU4NDliOTY0ZWI2L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Select a Water Connection for your Faucet or Toilet",
+        "id": "4598225126001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/2416b8bf-6b10-4d46-aa60-7b82b13d581a/995e74dd-1631-49d8-890b-ff190d848e68/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn How to Select a Water Connection for your Faucet or Toilet"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 2816,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application",
+        "value": "Potable Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Pipe Material",
+        "value": "Copper"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Product",
+        "value": "Faucet,Ice Maker,Other"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connection",
+        "value": "Comp x Comp"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Lead Free"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor,Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Inlet Fitting End Type",
+        "value": "Compression"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Pressure (PSI)",
+        "value": "125 PSI"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Working Temperature (F)",
+        "value": "160"
+      },
+      {
+        "group_name": "Details",
+        "name": "Outlet Fitting End Type",
+        "value": "Compression"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": ".21277 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Stop Valve Type",
+        "value": "Angle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Configuration",
+        "value": "Angle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Connection",
+        "value": "Compression"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Type",
+        "value": "Stop"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Manufacturer Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Inlet Diameter (In.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Inlet Size",
+        "value": "1/2 In."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Outlet Diameter (In.)",
+        "value": "3/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.7500 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "2.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "2.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Valve Inlet Diameter (in.)",
+        "value": "1/2"
+      }
+    ],
+    "keywords_list": [
+      "stop valve",
+      "brass stop valve",
+      "stop valves",
+      "brass stop valves",
+      "valve",
+      "brass valve",
+      "valves",
+      "brass valves",
+      "angle stop valve",
+      "angle stop valves",
+      "angle valve",
+      "angle valves",
+      "durable stop valve",
+      "durable stop valves",
+      "durable valve",
+      "durable valves"
+    ],
+    "keywords": "stop valve, brass stop valve, stop valves, brass stop valves, valve, brass valve, valves, brass valves, angle stop valve, angle stop valves, angle valve, angle valves, durable stop valve, durable stop valves, durable valve, durable valves",
+    "variants": [
+      {
+        "title": "1/2~~1",
+        "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-Inlet-x-3-8-in-Compression-Outlet-1-4-Turn-Angle-Valve-G2CR19X-C1/202047059",
+        "item_id": "202047059"
+      },
+      {
+        "title": "1/2~~5",
+        "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Comp-Inlet-x-3-8-in-Comp-Outlet-1-4-Turn-Angle-Valve-5-pack-G2CR19X-CM5/309283969",
+        "item_id": "309283969"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Valves",
+        "link": "https://www.homedepot.com/b/Plumbing-Valves/N-5yc1vZbbl6"
+      },
+      {
+        "name": "Shut-off Valves",
+        "link": "https://www.homedepot.com/b/Plumbing-Valves-Shut-off-Valves/N-5yc1vZbqlw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 9.73,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 256
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 297,
+          "price": 2.99,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1509,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

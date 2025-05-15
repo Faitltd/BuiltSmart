@@ -1,0 +1,244 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13203,
+    "overage_used": 3203,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM-356-5-8-in-x-2-1-4-in-x-84-in-FEMDF-Casing-DoorPack-10011806/301886791"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:47:59.841Z",
+    "processed_at": "2025-05-01T13:48:07.542Z",
+    "total_time_taken": 7.7,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM-356-5-8-in-x-2-1-4-in-x-84-in-FEMDF-Casing-DoorPack-10011806/301886791"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM-356-5-8-in-x-2-1-4-in-x-84-in-FEMDF-Casing-DoorPack-10011806/301886791",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/FINISHED-ELEGANCE/N-5yc1vZclf5Zr98",
+    "title": "FINISHED ELEGANCE WM 356 5/8 in. x 2-1/4 in. x 84 in. FEMDF Casing DoorPack",
+    "upc": "095624522625",
+    "item_id": "301886791",
+    "parent_id": "328892523",
+    "store_sku": "1002493783",
+    "model_number": "10011806",
+    "description": "The Woodgrain Millwork 5/8 in. x 2-1/4 in. x 84 in. Finished Elegance MDF 356 Casing Door Pack includes five 84 in. sides which are enough material to finish both sides of a door. The casing is used around doors and windows to cover the gaps between the frames and walls. Finished Elegance MDF 356 Casing Door Pack is the finishing touch on any window and door. You can combine casing with a backband to create a bold one of kind look.",
+    "favorite_count": 73,
+    "aisle": "19",
+    "bay": "011",
+    "feature_bullets": [
+      "Medium-density fiber composition is fire- and moisture-resistant",
+      "Scratch- and dent-resistant finish is incredibly durable",
+      "Traditional design adds a graceful touch to your living space"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Simply nail to the wall and fill the holes for a perfect installation",
+      "Durable finish is resistant to scratches and dents",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Installs with common woodworking tools",
+      "For interior use only"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/8ce78c6f-eefb-4cfc-9de8-f6e2c3c89ed2/svn/white-finished-elegance-casing-10011806-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-finished-elegance-casing-10011806-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3c999db2-e8cb-421b-980a-12cf1c37fb22/svn/white-finished-elegance-casing-10011806-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/8ce78c6f-eefb-4cfc-9de8-f6e2c3c89ed2/svn/white-finished-elegance-casing-10011806-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 110,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "356"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-FE-361-11-16-in-x-2-1-2-in-FEMDF-Casing-10001887/203468885",
+        "item_id": "203468885"
+      },
+      {
+        "title": "White~~7 ft~~Medium Density Fiberboard (MDF)~~5",
+        "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM-356-5-8-in-x-2-1-4-in-x-84-in-FEMDF-Casing-DoorPack-10011806/301886791",
+        "item_id": "301886791"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 37,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 15
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 17,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 406,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

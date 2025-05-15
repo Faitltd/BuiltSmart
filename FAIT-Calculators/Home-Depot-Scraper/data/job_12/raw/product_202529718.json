@@ -1,0 +1,198 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13778,
+    "overage_used": 3778,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Mendocino-Forest-Products-1-3-8-in-x-1-3-8-in-x-12-ft-B-Heart-S4S-Redwood-Lumber-97774/202529718"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:58:59.792Z",
+    "processed_at": "2025-05-01T16:59:46.831Z",
+    "total_time_taken": 47.04,
+    "homedepot_url": "https://www.homedepot.com/p/Mendocino-Forest-Products-1-3-8-in-x-1-3-8-in-x-12-ft-B-Heart-S4S-Redwood-Lumber-97774/202529718"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Mendocino-Forest-Products-1-3-8-in-x-1-3-8-in-x-12-ft-B-Heart-S4S-Redwood-Lumber-97774/202529718",
+    "brand": "Mendocino Forest Products",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/Mendocino-Forest-Products/N-5yc1vZc55wZf8n",
+    "title": "Mendocino Forest Products 1-3/8 in. x 1-3/8 in. x 12 ft. B Heart S4S Redwood Lumber",
+    "upc": "737164977748",
+    "item_id": "202529718",
+    "parent_id": "310150733",
+    "store_sku": "855667",
+    "model_number": "97774",
+    "description": "The warm, rich color and timeless beauty of Mendocino Redwood creates a breathtaking first impression. Beyond first impressions, it blends into the landscape creating a peaceful and relaxing natural outdoor living environment. With simple care and maintenance, your redwood deck, fence and outdoor living structures will provide decades of excellent performance, and long-lasting value. Mendocino Redwood is one of nature's finest and strongest building materials with shear strength up to five times greater than other decking materials. Whether you're building a deck, fence, play set or outdoor living structure; the enduring strength of redwood means safety and security for those that matter most. Nature can be harsh on outdoor living spaces - but Mendocino Redwood naturally stands up to the elements, insects, decay, warping, and splitting. All while staying comfortable on bare feet even on the hottest, sunniest days. Using energy-efficient natural redwood products helps store carbon instead of energy-intensive manufactured products that release carbon, therefore lowering your carbon footprint and reducing carbon emissions. Whether you are a frequent entertainer, or prefer to relax in the quiet of your own home, decks, fences, landscapes, and garden structures made of real redwood make for a beautiful addition. Mendocino Redwood is a high-quality, long-lasting, eco-friendly building material, which makes it the right choice for outdoor construction projects.",
+    "favorite_count": 22,
+    "feature_bullets": [
+      "Redwood is not only affordable, it adds great value to your home",
+      "Maintains beauty and structural integrity with easy maintenance",
+      "Naturally resistant to insects, decay, shrinking, and warping"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Renewable/recyclable material is an eco-friendly option",
+      "Can be stained",
+      "Heartwood is naturally decay resistant",
+      "Natural color will weather beautifully",
+      "Can be used for residential and commercial projects",
+      "Actual: 1.375 in. x 1.375 in. x 12 ft.",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/sustainable-forestry/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Sustainable Forestry</a>",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>",
+      "<img src=\"https://inlinecontent.thdstatic.com/pre/122415/C6/Inline%20Content%20Decking.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e662d00c-0675-45ba-9b02-ec24e4dcf534/svn/mendocino-forest-products-framing-lumber-97774-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1327cf61-006f-4187-88fe-6bde00e8bfb2/svn/mendocino-forest-products-framing-lumber-97774-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a6bdd5c-3879-46fc-ac27-b6c842ef7302/svn/mendocino-forest-products-framing-lumber-97774-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e662d00c-0675-45ba-9b02-ec24e4dcf534/svn/mendocino-forest-products-framing-lumber-97774-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ac760f2e-9fff-4c7d-82b7-97092e79182a/4d33df34-9c60-4994-b767-2331d1368a1a/main.mp4?fastly_token=NjgzODI2ZjlfYzg5NTYxNzk0MjZiMWU4MjAyMjVkOTFlYjIxZDIzMWIwZjVmMmQ2YzQzOTUxMjQ3NmYzZjJiYTFhMDdjNTMzN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hYzc2MGYyZS05ZmZmLTRjN2QtODJiNy05NzA5MmU3OTE4MmEvNGQzM2RmMzQtOWM2MC00OTk0LWI3NjctMjMzMWQxMzY4YTFhL21haW4ubXA0&pubid=66036796001",
+        "title": "Mendocino-Redwood-Pergola-Next",
+        "id": "4355834115001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/ac760f2e-9fff-4c7d-82b7-97092e79182a/84d93290-df7a-4994-b28b-c3e6f373c78a/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Join a young couple as they search for FSC\u00ae certified Mendocino\u00ae Redwood decking at their local Home Depot store. What starts as a new deck turns into much more as a new pergola shade structure catches the homeowner's eye."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/9d7822f8-eeb5-436f-a3a5-404908ac3a93/10e5b5ed-7c41-4d1f-a82c-f5b6de3ab508/main.mp4?fastly_token=NjgzODFkNDNfMzMyMTFmZWQzNDMxYTMxNGRiYTE5MzJjMzViZmE1ZWQ0YzVjZTUyYjA3MTJkMWJhOGJjOTAwYjI0MDIyMzY3Zl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS85ZDc4MjJmOC1lZWI1LTQzNmYtYTNhNS00MDQ5MDhhYzNhOTMvMTBlNWI1ZWQtN2M0MS00ZDFmLWE4MmMtZjViNmRlM2FiNTA4L21haW4ubXA0&pubid=66036796001",
+        "title": "Mendocino Redwood Benefits of Redwood",
+        "id": "4394525845001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/9d7822f8-eeb5-436f-a3a5-404908ac3a93/6b57b6b4-c953-4898-8eb7-e6e30ed7e111/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Available at The Home Depot, Mendocino Redwood is beautiful, versatile, durable, and easy to work with. Products available include decking, fencing, landscaping, garden, and timbers. Build your dream outdoor living space with Mendocino Redwood.\r\n\r\n"
+      }
+    ],
+    "ratings_total": 11,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Premium Heart B-or Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Redwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "NA"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "1.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "2 in"
+      }
+    ],
+    "keywords_list": [
+      "Mendocino",
+      "1 -3/8 in. x 1 -3/8 in. x 12 ft. Redwood Heart B S4S Lumber",
+      "97774"
+    ],
+    "keywords": "Mendocino, 1 -3/8 in. x 1 -3/8 in. x 12 ft. Redwood Heart B S4S Lumber, 97774",
+    "variants": [
+      {
+        "title": "12 ft",
+        "link": "https://www.homedepot.com/p/Mendocino-Forest-Products-1-3-8-in-x-1-3-8-in-x-12-ft-B-Heart-S4S-Redwood-Lumber-97774/202529718",
+        "item_id": "202529718"
+      },
+      {
+        "title": "8 ft",
+        "link": "https://www.homedepot.com/p/Mendocino-Forest-Products-1-3-8-in-x-1-3-8-in-x-8-ft-B-Heart-S4S-Redwood-Lumber-97773/202529717",
+        "item_id": "202529717"
+      },
+      {
+        "title": "6 ft",
+        "link": "https://www.homedepot.com/p/Mendocino-Forest-Products-1-3-8-in-x-1-3-8-in-x-6-ft-Heart-S4S-Redwood-Lumber-97772/202529740",
+        "item_id": "202529740"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

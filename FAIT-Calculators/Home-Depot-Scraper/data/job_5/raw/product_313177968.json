@@ -1,0 +1,304 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13388,
+    "overage_used": 3388,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Spiced-Rum-200-Pack-FMTRF-1LFSR/313177968"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:56:47.834Z",
+    "processed_at": "2025-05-01T13:56:52.185Z",
+    "total_time_taken": 4.35,
+    "homedepot_url": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Spiced-Rum-200-Pack-FMTRF-1LFSR/313177968"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Spiced-Rum-200-Pack-FMTRF-1LFSR/313177968",
+    "brand": "FastenMaster",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/FastenMaster/N-5yc1vZ2fkpe6aZ64d",
+    "title": "FastenMaster TrapEase Fascia Color Matched Fascia Fastener 100 lin ft - Spiced Rum (200 Pack)",
+    "upc": "608309443964",
+    "item_id": "313177968",
+    "parent_id": "321066564",
+    "store_sku": "1006211535",
+    "model_number": "FMTRF-1LFSR",
+    "description": "TrapEase Fascia has been designed to allow for fascia board expansion and contraction. The TrapEase Fascia System is the strongest, fastest way to attach composite fascia boards. Delivers a long-lasting, beautiful finished look.",
+    "feature_bullets": [
+      "Trex color match screws for fascia \u2013 Transcend - Spiced Rum",
+      "1-3/4 inch TrapEase Fascia screws \u2013 100 LF pack",
+      "Designed for use in PVC, Capstock & Composite fascia"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Sold as complete kit which includes counter bore tool, screws, and driver bit",
+      "Head paint is UV resistant and color matched to the fascia boards",
+      "TORX ttap virtually eliminates fastener strip-out",
+      "Approved for use in ACQ and pressure treated lumber",
+      "Drills a perfect pilot hole and recess to allow fastener head to sit flush when installed."
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f83d7031-e0d1-44f7-ad30-3b26eafe931a/svn/fastenmaster-composite-deck-screws-fmtrf-1lfsr-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dfb13897-bb69-42a2-a7d9-a4b5c01fd6ba/svn/fastenmaster-composite-deck-screws-fmtrf-1lfsr-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e535b12e-be77-4a2c-825c-dc0a79902452/svn/fastenmaster-composite-deck-screws-fmtrf-1lfsr-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f83d7031-e0d1-44f7-ad30-3b26eafe931a/svn/fastenmaster-composite-deck-screws-fmtrf-1lfsr-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/aabdf89c-8290-450c-88c1-ad136d95092d/afaef3d2-dc0c-45bd-b425-cff4b7cfba44/main.mp4?fastly_token=NjgzODJiYWNfZWQ4OTAxMWQ1OTFmMTRmOTdmODE1MjMxZGExYzg3ZjdmYmQ5ZWViN2Q2N2M2ZDZhOGJjYzM3NWY1NjVmN2QxNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hYWJkZjg5Yy04MjkwLTQ1MGMtODhjMS1hZDEzNmQ5NTA5MmQvYWZhZWYzZDItZGMwYy00NWJkLWI0MjUtY2ZmNGI3Y2ZiYTQ0L21haW4ubXA0&pubid=66036796001",
+        "title": "TRF_VID",
+        "id": "6321207127112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/aabdf89c-8290-450c-88c1-ad136d95092d/main/160x90/1m7s71ms/match/image.jpg?pubId=66036796001",
+        "description": "TrapEase Fascia Fastener video"
+      }
+    ],
+    "ratings_total": 25,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Electro Galvanized Zinc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Trim Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "200"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.86 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "12 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "FastenMaster\u00ae warrantees its fasteners to be free from defects in materials and workmanship for the life of the project. When used as recommended by FastenMaster\u00ae and within the manufacturer\u2019s instructions for the materials being attached, the coating and structural performance of these fasteners is covered under the terms of this limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "1-3/4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "1-3/4 in~~#10~~Silver~~1.83 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Island-Mist-200-Pack-FMTRF-1LFLM/315852483",
+        "item_id": "315852483"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~1.2 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Spiced-Rum-75-Pack-FMTR3-212-75TSSR/316075990",
+        "item_id": "316075990"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~1.10 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Saddle-Brown-75-Pack-FMTR3-212-75SLSD/316076119",
+        "item_id": "316076119"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~4.8 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Island-Mist-350-Pack-FMTR3-212-350TSLM/315852183",
+        "item_id": "315852183"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~4.9 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Pebble-Gray-350-Pack-FMTR3-212-350SLPB/311791795",
+        "item_id": "311791795"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Tan~~1.1 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-Deck-Screws-for-Trex-Select-Decking-2-1-2-inch-color-matched-deck-screws-Pebble-75-Pack-FMTR3-212-75SLPB/311788050",
+        "item_id": "311788050"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~1.0 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Island-Mist-75-Pack-FMTR3-212-75TSLM/316076065",
+        "item_id": "316076065"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~4.6 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Saddle-Brown-350-Pack-FMTR3-212-350SLSD/315852203",
+        "item_id": "315852203"
+      },
+      {
+        "title": "1-3/4 in~~#10~~Brown~~1.86 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Spiced-Rum-200-Pack-FMTRF-1LFSR/313177968",
+        "item_id": "313177968"
+      },
+      {
+        "title": "1-3/4 in~~#10~~Brown~~1.84 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Saddle-Brown-200-Pack-FMTRF-1LFSD/315852527",
+        "item_id": "315852527"
+      },
+      {
+        "title": "1-3/4 in~~#10~~Brown~~1.85 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-200-Piece-100-LF-1-3-4-in-Fascia-Screws-with-Countersink-Tooland-Bit-in-Pebble-FMTRF-1LFPB/315852476",
+        "item_id": "315852476"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~4.5 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Spiced-Rum-350-Pack-FMTR3-212-350TSSR/315852172",
+        "item_id": "315852172"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 73.73,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

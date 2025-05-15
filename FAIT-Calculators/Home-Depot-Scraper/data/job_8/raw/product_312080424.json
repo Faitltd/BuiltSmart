@@ -1,0 +1,347 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13520,
+    "overage_used": 3520,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grip-Rite-9-x-3-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Screws-10-lb-Box-PTN310B/312080424"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:46:32.074Z",
+    "processed_at": "2025-05-01T16:46:38.267Z",
+    "total_time_taken": 6.19,
+    "homedepot_url": "https://www.homedepot.com/p/Grip-Rite-9-x-3-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Screws-10-lb-Box-PTN310B/312080424"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grip-Rite-3-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Deck-Screws-10-lb-Box-PTN310B/312080424",
+    "brand": "Grip-Rite",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Grip-Rite/N-5yc1vZ2fkpe61Z5kt",
+    "title": "Grip-Rite 3 in. #2 Phillips Bugle Head Coarse Thread Coated Exterior Wood Deck Screws 10 lb. Box",
+    "upc": "764666736337",
+    "item_id": "312080424",
+    "parent_id": "333438340",
+    "store_sku": "1005194600",
+    "model_number": "PTN310B",
+    "description": "Grip-Rite PTN310B PrimeGuard #9 x 3 in. #2 Phillips Bugle Head Coarse Thread Coated Exterior Screws feature a sharp point and 10-year coating for quality and value. Designed for exterior, wood to wood applications, the coarse threads reduce splitting and speed installation. Backed by a limited lifetime warranty, these screws are perfect for your weekend DIY projects.",
+    "feature_bullets": [
+      "#9 x 3 in. screws designed for outdoor construction",
+      "Hand drive fastener for use in exterior wood to wood applications",
+      "Made from high strength steel for robust durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used in general woodworking and construction applications",
+      "Durable steel construction",
+      "PrimeGuard coated for corrosion and rust resistance",
+      "#9 x 3 in. screws designed for wood to wood construction",
+      "#2 Phillips drive prevents over driving",
+      "Sharp point and aggressive threads provide maximum holding power",
+      "10 lb. box with around 737 #9 x 3 in. wood construction screws"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/655d4a68-7acf-4e99-910c-2b2f9a333a63/svn/grip-rite-deck-screws-ptn310b-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6210c010-e3be-4747-b1a4-bd5bcdcfe757/svn/grip-rite-deck-screws-ptn310b-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6dcf930b-bbd8-4dde-8bb5-f4b28910ccd9/svn/grip-rite-deck-screws-ptn310b-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7527f060-b851-43b5-8a8d-0863f882bc43/svn/grip-rite-deck-screws-ptn310b-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fc789e40-cb21-45cf-b073-071e197e3bcf/svn/grip-rite-deck-screws-ptn310b-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fc789e40-cb21-45cf-b073-071e197e3bcf/svn/grip-rite-deck-screws-ptn310b-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d531f903-6dd5-4891-87ac-dcb3e6e1cf86/svn/grip-rite-deck-screws-ptn310b-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/655d4a68-7acf-4e99-910c-2b2f9a333a63/svn/grip-rite-deck-screws-ptn310b-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ad447cd5-7f05-40c4-bf50-896ddf937d3d/e8295825-18d3-417b-a9d9-a0475e07a158/main.mp4?fastly_token=NjgxM2E0YzhfNDQxYmM3YzAwNTZiNmQxYTk5ZWJhYzI5NjcxYzM5OTg4ODRkZDRkMzBmOGUwN2UxMDhhZGRjZWRjODI5NGVjMF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYWQ0NDdjZDUtN2YwNS00MGM0LWJmNTAtODk2ZGRmOTM3ZDNkL2U4Mjk1ODI1LTE4ZDMtNDE3Yi1hOWQ5LWEwNDc1ZTA3YTE1OC9tYWluLm1wNA%3D%3D",
+        "title": "Grip-Rite Exterior Screw Video",
+        "id": "6362507845112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/ad447cd5-7f05-40c4-bf50-896ddf937d3d/main/160x90/15s40ms/match/image.jpg",
+        "description": "Grip-Rite Exterior Screws\n"
+      }
+    ],
+    "ratings_total": 7260,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Phillips"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Phosphate"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Bugle Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "730"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "10 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3.63 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "8 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#8"
+      }
+    ],
+    "size": "#8",
+    "variants": [
+      {
+        "title": "1-5/8 in~~#8~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-1-5-8-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Deck-Screws-1-lb-Box-PTN158S1/100192216",
+        "item_id": "100192216"
+      },
+      {
+        "title": "3 in~~#9~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-3-in-2-Phillips-Bugle-Head-Coarse-Thread-Sharp-Point-Coated-Exterior-Wood-Deck-Screws-1-lb-Box-PTN3S1/100115639",
+        "item_id": "100115639"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Silver~~25 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-2-1-2-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Screw-25-lb-Box-PTN21225B/100132182",
+        "item_id": "100132182"
+      },
+      {
+        "title": "2 in~~#8~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-2-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Screws-1-lb-Box-PTN2S1/100197689",
+        "item_id": "100197689"
+      },
+      {
+        "title": "2 in~~#8~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-2-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Screws-5-lb-Box-PTN2S5/100136822",
+        "item_id": "100136822"
+      },
+      {
+        "title": "4 in~~#10~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-4-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Deck-Screws-5-lb-Box-PTN4S5/100119892",
+        "item_id": "100119892"
+      },
+      {
+        "title": "2-1/2 in~~#8~~Silver~~10 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-2-1-2-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Deck-Screws-10-lb-Box-PTN21210B/312080382",
+        "item_id": "312080382"
+      },
+      {
+        "title": "1-1/4 in~~#8~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-1-1-4-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Composite-Deck-Screws-5-lb-Box-PTN114S5/100121757",
+        "item_id": "100121757"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-1-5-8-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Screws-5-lb-Box-PTN158S5/100160887",
+        "item_id": "100160887"
+      },
+      {
+        "title": "3 in~~#8~~Silver~~10 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-3-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Deck-Screws-10-lb-Box-PTN310B/312080424",
+        "item_id": "312080424"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-3-1-2-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Screws-1lb-Box-PTN312S1/100161193",
+        "item_id": "100161193"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-3-1-2-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Screws-5-lb-Box-PTN312S5/100154476",
+        "item_id": "100154476"
+      },
+      {
+        "title": "4 in~~#10~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-4-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Deck-Screws-1-lb-Box-PTN4S1/100153825",
+        "item_id": "100153825"
+      },
+      {
+        "title": "3 in~~#8~~Silver~~25 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-3-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Deck-Screws-25-lb-Box-PTN325B/100152290",
+        "item_id": "100152290"
+      },
+      {
+        "title": "3 in~~#9~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-3-in-2-Phillips-Bugle-Head-Coarse-Thread-Sharp-Point-Coated-Exterior-Wood-Screws-5-lb-Box-PTN3S5/100200675",
+        "item_id": "100200675"
+      },
+      {
+        "title": "2-1/2 in~~#8~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-2-1-2-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Screws-5-lb-Box-PTN212S5/100136137",
+        "item_id": "100136137"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-2-1-2-in-2-Phillips-Bugle-Head-Coarse-Thread-Sharp-Point-Coated-Exterior-Wood-Screws-1-lb-Box-PTN212S1/100173447",
+        "item_id": "100173447"
+      },
+      {
+        "title": "1-1/4 in~~#8~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-1-1-4-in-2-Phillips-Bugle-Head-Coarse-Thread-Coated-Exterior-Wood-Screws-1-lb-Box-PTN114S1/100170151",
+        "item_id": "100170151"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 49.87,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

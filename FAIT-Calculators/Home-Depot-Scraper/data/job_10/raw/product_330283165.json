@@ -1,0 +1,233 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13732,
+    "overage_used": 3732,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/LIQUID-RUBBER-Liquid-Rubber-Silicone-Roof-Coating-Roof-Sealant-for-Flat-Sloped-and-Metal-Roofs-White-4-Gallons-512-oz-43201US/330283165"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:56:40.385Z",
+    "processed_at": "2025-05-01T16:56:49.251Z",
+    "total_time_taken": 8.87,
+    "homedepot_url": "https://www.homedepot.com/p/LIQUID-RUBBER-Liquid-Rubber-Silicone-Roof-Coating-Roof-Sealant-for-Flat-Sloped-and-Metal-Roofs-White-4-Gallons-512-oz-43201US/330283165"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/LIQUID-RUBBER-Liquid-Rubber-Silicone-Roof-Coating-Roof-Sealant-for-Flat-Sloped-and-Metal-Roofs-White-4-Gallons-512-oz-43201US/330283165",
+    "brand": "LIQUID RUBBER",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Sealants/LIQUID-RUBBER/N-5yc1vZcibvZznv",
+    "title": "LIQUID RUBBER Liquid Rubber Silicone Roof Coating - Roof Sealant for Flat, Sloped, and Metal Roofs, White, 4 Gallons (512 oz)",
+    "upc": "628421432011",
+    "item_id": "330283165",
+    "parent_id": "331622297",
+    "store_sku": "1012265546",
+    "model_number": "43201US",
+    "description": "Liquid Rubber Silicone Roof Coating is a UV-stable, flexible coating that allows you to achieve professional results in just one coat! Our formula is solids-based and has ultra-low VOC's, making it safe for you, your family, and the environment. This protective sealant can be applied on various materials including metal, wood, concrete, EPDM and more. Use it as your roof sealant, or flat roof sealer. No matter where the roof is or what it's made of, Liquid Rubber Silicone Roof Coating is safe to apply.",
+    "descriptive_attributes": [
+      "PROTECTIVE MULTI-USE ROOF SEALANT: The Liquid Rubber silicone roof coating can be used as a flat roof sealer, on sloped roofs, sheds, wood, concrete, as a metal roof sealant. No matter the material, Liquid Rubber has you covered",
+      "HIGHLY FLEXIBLE AND DURABLE: The roof sealer final membrane has over 237% elongation preventing cracking from thermal expansion and adhesion failure. It is also UV Stable, won't degrade due to sun exposure",
+      "COVERAGE: Depending upon the roofing material you're working with, the Liquid Rubber roof silicone sealant should be applied approximately 1 gallon per 50 sq ft (or 4.65 sq/m). We recommend applying 1-2 layers",
+      "SAFE AND EFFECTIVE: Our roof sealant is waterproof and made with high-quality solids based ingredients that contain no solvents, ultra-low VOC's or harmful odors. Our roof sealant is safe and can be used indoors and outdoors with no special breathing apparatus",
+      "LOCK IT IN WITH LIQUID RUBBER: Liquid Rubber manufactures a wide range of products for waterproofing, flat roofs, metal roofs, foundations, RV roofs, ponds, planter boxes, corrosion protection, concrete cleaning, and much more. Trust us to get your household job done",
+      "EASY TO APPLY: Apply using a brush, medium nap roller, tank spreader, or silicone-rated airless paint sprayer",
+      "PRODUCTS THAT PROVE THEMSELVES - Built to last, our products are designed with durability in mind. They are safe for various applications and suitable for all your projects",
+      "WHY LIQUID RUBBER - Liquid Rubber has been around for a long time. Our mission is to help you complete your project successfully. Speak to Liquid Rubber Tech Support if you have any questions"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/390dbf07-9ed3-471d-97df-b711a4a0db2f/svn/white-liquid-rubber-sealants-43201us-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c2ce79f-5dd8-476e-b26f-22920da2be94/svn/white-liquid-rubber-sealants-43201us-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92d3ba5c-c177-44c8-ba44-96e6d83b7699/svn/white-liquid-rubber-sealants-43201us-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/30ddcaf1-80a4-40b7-9020-43d6d896e3ec/svn/white-liquid-rubber-sealants-43201us-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/815e187d-7fa9-4a6e-85dc-a1a36c161fc7/svn/white-liquid-rubber-sealants-43201us-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/660cd35a-1675-4e2f-81c5-50e7300ad4e8/svn/white-liquid-rubber-sealants-43201us-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/41790687-84d4-46c4-b011-cda100baf9ad/svn/white-liquid-rubber-sealants-43201us-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/390dbf07-9ed3-471d-97df-b711a4a0db2f/svn/white-liquid-rubber-sealants-43201us-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 2,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Specialty"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Synthetic Rubber"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "120 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sealant Form",
+        "value": "Drum/Pail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Transparency",
+        "value": "Solid"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "512 oz"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~512 oz~~0",
+        "link": "https://www.homedepot.com/p/LIQUID-RUBBER-Liquid-Rubber-Silicone-Roof-Coating-Roof-Sealant-for-Flat-Sloped-and-Metal-Roofs-White-4-Gallons-512-oz-43201US/330283165",
+        "item_id": "330283165"
+      },
+      {
+        "title": "White~~128 oz~~0",
+        "link": "https://www.homedepot.com/p/LIQUID-RUBBER-Liquid-Rubber-Silicone-Roof-Coating-Roof-Sealant-for-Flat-Sloped-and-Metal-Roofs-White-1-Gallon-128-oz-13201US/330283130",
+        "item_id": "330283130"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Sealants/N-5yc1vZcibv"
+      }
+    ],
+    "buybox_winner": {
+      "price": 349.95,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 261,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 261,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

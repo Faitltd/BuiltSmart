@@ -1,0 +1,236 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14450,
+    "overage_used": 4450,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HTT-16-in-11-Gauge-Tension-Tie-Kit-with-Bearing-Plate-and-Screws-HTT5KT/205330073"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:39:50.627Z",
+    "processed_at": "2025-05-01T18:39:54.347Z",
+    "total_time_taken": 3.72,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HTT-16-in-11-Gauge-Tension-Tie-Kit-with-Bearing-Plate-and-Screws-HTT5KT/205330073"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HTT-16-in-11-Gauge-Tension-Tie-Kit-with-Bearing-Plate-and-Screws-HTT5KT/205330073",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Metal-Straps/Simpson-Strong-Tie/N-5yc1vZaqtaZ615",
+    "title": "Simpson Strong-Tie HTT 16 in. 11-Gauge Tension Tie Kit with Bearing Plate and Screws",
+    "upc": "707392357803",
+    "item_id": "205330073",
+    "store_sku": "1000075155",
+    "model_number": "HTT5KT",
+    "description": "The HTT is designed to resist medium tension loads that are fastened with #10 screws. This single-piece formed heavy tension tie has a four-ply formed seat, is designed without rivets and does not require washers. This tension tie provides high-strength, post-pour, concrete-to-steel connections.",
+    "favorite_count": 9,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Ideal for retrofit or new construction projects",
+      "Can be installed with cast-in-place or post-installed anchor bolts",
+      "Four-ply formed steel provides increased tension capacity",
+      "Anchor bolt washers not required",
+      "2-1/2-in width x 16-in length",
+      "HTT5KT is sold as a kit with the holdown, BP 5/8-2 bearing plate washer and (26) #10 x 2-1/2 in. Strong-Drive SD Connector screws",
+      "Made from 11-Gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with (1) BP 5/8-2 bearing plate washer and (26) #10 x 2-1/2 in. Strong-Drive SD Connector screws (included)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/9a57790c-5f01-4897-99ed-67438cabb0f7/svn/simpson-strong-tie-metal-straps-htt5kt-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ac7437f0-ee5d-4b53-930a-187e087bc0c5/svn/simpson-strong-tie-metal-straps-htt5kt-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e437fb3d-266a-467a-b7cd-c94a6bb78887/svn/simpson-strong-tie-metal-straps-htt5kt-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5cb68fdf-057f-4380-bd45-c87b26567ade/svn/simpson-strong-tie-metal-straps-htt5kt-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a02f22f2-1c97-47cf-8ffb-9819691a8893/svn/simpson-strong-tie-metal-straps-htt5kt-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0dc989bc-191f-48ef-bd41-a954ed2255f3/svn/simpson-strong-tie-metal-straps-htt5kt-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-metal-straps-htt5kt-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/9a57790c-5f01-4897-99ed-67438cabb0f7/svn/simpson-strong-tie-metal-straps-htt5kt-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a7d44cb4-e10f-4c89-a4e2-e48f2a77e09a/d3d6501e-f295-44ac-8147-894583e07659/main.mp4?fastly_token=NjgzODI4YjNfNDY3M2IyY2Q3ODNlMTk4YzM2ZmNhYWQxYzY3NDI3ODQ4YzBmYjhiZWEzOWU4MjdiMTVlOWY1MTZhM2JmMDY3N18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hN2Q0NGNiNC1lMTBmLTRjODktYTRlMi1lNDhmMmE3N2UwOWEvZDNkNjUwMWUtZjI5NS00NGFjLTgxNDctODk0NTgzZTA3NjU5L21haW4ubXA0&pubid=66036796001",
+        "title": "Build a Stronger Deck: Guard Post Connections",
+        "id": "6183648952001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/a7d44cb4-e10f-4c89-a4e2-e48f2a77e09a/b623d7ac-3e77-4168-a48a-22bb959d342d/160x90/match/image.jpg?pubId=66036796001",
+        "description": "The guardrail-post-to-deck-framing connection is critical when it comes to deck safety. We highlight the available guard post connection options to help you select what\u2019s best for your project."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 2,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector recommendation",
+        "value": "Tie"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "2.68 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Staggered Nail Pattern",
+        "value": "Not Staggered"
+      },
+      {
+        "group_name": "Details",
+        "name": "Strap Type",
+        "value": "Tie"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.47 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "15.875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.53 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Metal Straps",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Metal-Straps/N-5yc1vZaqta"
+      }
+    ],
+    "buybox_winner": {
+      "price": 32.73,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

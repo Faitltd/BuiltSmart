@@ -1,0 +1,179 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12711,
+    "overage_used": 2711,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Craftsman-9973-9-16-in-D-x-4-1-4-in-W-x-96-in-L-PVC-Baseboard-Moulding-White-5836430/334888585"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:29:10.234Z",
+    "processed_at": "2025-05-01T13:29:56.611Z",
+    "total_time_taken": 46.38,
+    "homedepot_url": "https://www.homedepot.com/p/Craftsman-9973-9-16-in-D-x-4-1-4-in-W-x-96-in-L-PVC-Baseboard-Moulding-White-5836430/334888585"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Craftsman-9973-9-16-in-D-x-4-1-4-in-W-x-96-in-L-PVC-Baseboard-Moulding-White-5836430/334888585",
+    "brand": "Royal Building Products",
+    "title": "Royal Building Products Craftsman 9973 9/16 in. D x 4-1/4 in. W x 96 in. L PVC Baseboard Moulding White",
+    "upc": "070673890840",
+    "item_id": "334888585",
+    "store_sku": "1005586150",
+    "model_number": "5836430",
+    "description": "Enhance your home with PVC craftsman moulding by royal. Product offers simple installation and long-term performance inside or out. Add these classic trim designs around doors, windows and walls. Craftsman moulding will add that finishing touch to any room and value to your home.",
+    "feature_bullets": [
+      "White finish complements your home decor",
+      "Moisture, rot and termite resistant for long-term use",
+      "Easy to install with glue or nails"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Vinyl construction for ultimate durability",
+      "Ready to install inside or out",
+      "Moisture, rot and termite resistant",
+      "Easy to clean for low maintenance"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3494a10c-364e-4774-88ae-46a1e1a00c50/svn/white-baseboard-5836430-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c670c1ec-ee2d-4f7c-a545-d1e54c029bc9/svn/white-baseboard-5836430-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3494a10c-364e-4774-88ae-46a1e1a00c50/svn/white-baseboard-5836430-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "9973"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Liffetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 24.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

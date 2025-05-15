@@ -1,0 +1,220 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14026,
+    "overage_used": 4026,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-3-1-4-in-x-9-16-in-Vinyl-Colonial-Base-Molding-0752712001/100575144"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:51.322Z",
+    "processed_at": "2025-05-01T17:51:55.469Z",
+    "total_time_taken": 4.15,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-3-1-4-in-x-9-16-in-Vinyl-Colonial-Base-Molding-0752712001/100575144"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-3-1-4-in-x-9-16-in-Vinyl-Colonial-Base-Molding-0752712001/100575144",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Royal-Mouldings/N-5yc1vZcbjpZ8ui",
+    "title": "Royal Mouldings 12 ft. x 3-1/4 in. x 9/16 in. Vinyl Colonial Base Molding",
+    "upc": "070673867958",
+    "item_id": "100575144",
+    "store_sku": "227032",
+    "model_number": "0752712001",
+    "description": "This 12 ft. x 3-1/4 in. x 9/16 in. Vinyl Colonial Base Molding. It is a hardy exterior colonial molding that can also be installed indoors. It comes finished in white but can be painted or stained to your taste.",
+    "favorite_count": 616,
+    "aisle": "19",
+    "bay": "005",
+    "feature_bullets": [
+      "Can be installed indoors or outdoors",
+      "Can be painted or stained for custom look",
+      "Resistant to moisture, rot and termites"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Vinyl/polymer extrusion",
+      "Pre-finished white and can be painted or stained",
+      "Never rot material resists moisture, rot and termites",
+      "Colonial design",
+      "Hides exterior gaps and adds decor",
+      "Also for interior use",
+      "12 ft. Length",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5c3eb093-ff34-47a4-a506-f12e9a285f2a/svn/white-royal-mouldings-baseboard-0752712001-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8fb23cc8-7643-4d19-a396-d56c00f9cf79/svn/white-royal-mouldings-baseboard-0752712001-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bffa1307-461a-42a7-9bea-ae738225537c/svn/white-royal-mouldings-baseboard-0752712001-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5c3eb093-ff34-47a4-a506-f12e9a285f2a/svn/white-royal-mouldings-baseboard-0752712001-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 197,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "7527"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.562 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "keywords_list": [
+      "base moulding",
+      "colonial base moulding",
+      "moulding",
+      "colonial moulding",
+      "white base moulding",
+      "white moulding",
+      "vinyl base moulding",
+      "vinyl moulding"
+    ],
+    "keywords": "base moulding, colonial base moulding, moulding, colonial moulding, white base moulding, white moulding, vinyl base moulding, vinyl moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 19.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 17
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5860",
+          "in_stock": true,
+          "stock_level": 44,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

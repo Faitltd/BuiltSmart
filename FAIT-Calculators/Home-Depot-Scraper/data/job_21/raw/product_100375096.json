@@ -1,0 +1,336 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14474,
+    "overage_used": 4474,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x6-Nominal-Lumber-HUC46/100375096"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:42:27.943Z",
+    "processed_at": "2025-05-01T18:42:34.548Z",
+    "total_time_taken": 6.61,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x6-Nominal-Lumber-HUC46/100375096"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x6-Nominal-Lumber-HUC46/100375096",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/Simpson-Strong-Tie/N-5yc1vZaqxbZ615",
+    "title": "Simpson Strong-Tie HUC Galvanized Face-Mount Concealed-Flange Joist Hanger for 4x6 Nominal Lumber",
+    "upc": "044315427701",
+    "item_id": "100375096",
+    "parent_id": "313965394",
+    "store_sku": "755870",
+    "model_number": "HUC46",
+    "description": "The HUC is designed for structures requiring additional strength and safety factors. These face-mount joist hangers have concealed header flanges providing cleaner visible lines in exposed conditions. Some models of this heavy-duty hanger can be special ordered with a skewable seat and a seat that slopes as far as up to 45-degrees.",
+    "favorite_count": 119,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Extra optional triangle holes for additional load",
+      "HUC-series hangers are tested, load rated and code compliant",
+      "Install wood joists to wood, masonry and concrete",
+      "Seat width: 3-9/16-in",
+      "Nominal joist size: 4x6",
+      "Made from 14-Gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with 0.148 in. x 3 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-in-x-0-148-in-SCN-Smooth-Shank-HDG-Connector-Nail-50-Pack-10DHDG-R/206101773\" target=\"_blank\" style=\"color:#F96302;\">10DHDG</a>) and 0.162 in. x 3-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">16DHDG</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c32f4e3e-3828-4edc-aafe-99ce6d1449a3/svn/simpson-strong-tie-joist-hangers-huc46-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2581c693-3c30-4498-adbd-84c009f49dc1/svn/simpson-strong-tie-joist-hangers-huc46-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0c40faeb-d144-4b43-b0b0-49483aa635b4/svn/simpson-strong-tie-joist-hangers-huc46-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe45d5b3-6b2a-4a94-8263-5889c42b878f/svn/simpson-strong-tie-joist-hangers-huc46-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-joist-hangers-huc46-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-joist-hangers-huc46-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c32f4e3e-3828-4edc-aafe-99ce6d1449a3/svn/simpson-strong-tie-joist-hangers-huc46-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/be551faa-1b46-408f-905b-a33f1135ef4e/5a4778d9-2b93-4c41-981c-0d542f6b37fe/main.mp4?fastly_token=NjgzODEzOWNfOWZmZDZjMjYwMDllNzVhZWE3YzU2ZDc1MDhiNjYyNWFlNzg1NGE4OGQyZDk3OTkyMGJjODg0ODRlMzdiYWYyMF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iZTU1MWZhYS0xYjQ2LTQwOGYtOTA1Yi1hMzNmMTEzNWVmNGUvNWE0Nzc4ZDktMmI5My00YzQxLTk4MWMtMGQ1NDJmNmIzN2ZlL21haW4ubXA0&pubid=66036796001",
+        "title": "Build a Stronger Deck: Joist Connections",
+        "id": "6183648472001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/be551faa-1b46-408f-905b-a33f1135ef4e/cceca938-b06c-4399-b704-9117aa084d54/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Deck joists may terminate at a beam or ledger, rest on top of the beams, or terminate at the rim board. We highlight the available joist connection options to help you select what\u2019s best for your project."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 196,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "14"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Flange Type",
+        "value": "Concealed Flange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Modifications",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.75 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Joist Hanger Size",
+        "value": "4x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "5.19 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "2.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6.06 in"
+      }
+    ],
+    "keywords_list": [
+      "hanger",
+      "joist hanger",
+      "connector",
+      "joist connector",
+      "steel hanger",
+      "steel connector",
+      "SIMPSON STRONG-TIE hanger",
+      "SIMPSON STRONG-TIE connector"
+    ],
+    "keywords": "hanger, joist hanger, connector, joist connector, steel hanger, steel connector, SIMPSON STRONG-TIE hanger, SIMPSON STRONG-TIE connector",
+    "variants": [
+      {
+        "title": "4x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x6-Nominal-Lumber-HUC46/100375096",
+        "item_id": "100375096"
+      },
+      {
+        "title": "Double 2x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-Double-2x8-Nominal-Lumber-HUC28-2/204842352",
+        "item_id": "204842352"
+      },
+      {
+        "title": "6x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-6x6-Nominal-Lumber-HUC66/100375006",
+        "item_id": "100375006"
+      },
+      {
+        "title": "6x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-6x8-Nominal-Lumber-HUC68/204842355",
+        "item_id": "204842355"
+      },
+      {
+        "title": "6x16",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-6x16-Nominal-Lumber-HUC616/205227186",
+        "item_id": "205227186"
+      },
+      {
+        "title": "6x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-6x12-Nominal-Lumber-HUC612/205227185",
+        "item_id": "205227185"
+      },
+      {
+        "title": "4x16",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x16-Nominal-Lumber-HUC416/205227184",
+        "item_id": "205227184"
+      },
+      {
+        "title": "4x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x10-Nominal-Lumber-HUC410/100375382",
+        "item_id": "100375382"
+      },
+      {
+        "title": "Double 2x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-Double-2x12-Nominal-Lumber-HUC212-2/205227178",
+        "item_id": "205227178"
+      },
+      {
+        "title": "4x14",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x14-Nominal-Lumber-HUC414/205227183",
+        "item_id": "205227183"
+      },
+      {
+        "title": "Double 2x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-Double-2x6-Nominal-Lumber-HUC26-2/205227182",
+        "item_id": "205227182"
+      },
+      {
+        "title": "4x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x8-Nominal-Lumber-HUC48/100375182",
+        "item_id": "100375182"
+      },
+      {
+        "title": "6x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-6x10-Nominal-Lumber-HUC610/100237004",
+        "item_id": "100237004"
+      },
+      {
+        "title": "Double 2x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-Double-2x10-Nominal-Lumber-HUC210-2/203302248",
+        "item_id": "203302248"
+      },
+      {
+        "title": "4x4",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x4-Nominal-Lumber-HUC44/100374925",
+        "item_id": "100374925"
+      },
+      {
+        "title": "Triple 2x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-Triple-2x12-Nominal-Lumber-HUC212-3/205227180",
+        "item_id": "205227180"
+      },
+      {
+        "title": "Triple 2x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-Triple-2x10-Nominal-Lumber-HUC210-3/204842351",
+        "item_id": "204842351"
+      },
+      {
+        "title": "4x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HUC-Galvanized-Face-Mount-Concealed-Flange-Joist-Hanger-for-4x12-Nominal-Lumber-HUC412/100250020",
+        "item_id": "100250020"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Joist Hangers",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/N-5yc1vZaqxb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 13.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "1749",
+          "in_stock": true,
+          "stock_level": 6,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 68,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

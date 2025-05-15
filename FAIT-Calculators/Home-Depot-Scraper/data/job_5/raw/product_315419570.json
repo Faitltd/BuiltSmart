@@ -1,0 +1,177 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13214,
+    "overage_used": 3214,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FORTRESS-Evolution-3-5-in-x-3-5-in-x-10-ft-Post-Steel-Black-Deck-Framing-186110111/315419570"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:48:40.467Z",
+    "processed_at": "2025-05-01T13:48:44.999Z",
+    "total_time_taken": 4.53,
+    "homedepot_url": "https://www.homedepot.com/p/FORTRESS-Evolution-3-5-in-x-3-5-in-x-10-ft-Post-Steel-Black-Deck-Framing-186110111/315419570"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FORTRESS-Evolution-3-5-in-x-3-5-in-x-10-ft-Post-Steel-Black-Deck-Framing-186110111/315419570",
+    "brand": "FORTRESS",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Parts-Accessories/FORTRESS/N-5yc1vZbqnwZs8t",
+    "title": "FORTRESS Evolution 3.5 in. x 3.5 in. x 10 ft. Post Steel Black Deck Framing",
+    "upc": "0811397030248",
+    "item_id": "315419570",
+    "store_sku": "1006022864",
+    "model_number": "186110111",
+    "description": "FORTRESS Evolution steel deck framing and stair system is the next evolution in decking. It's a smarter galvanized steel system designed by deck builders, for deck builders. Our total solution system features joist, beams, ledgers, brackets and accessories. The steel post and brackets (sold separately) provide the perfect solution to support your deck The black powder coated posts look great on their own or can be customized with the trim of your choice.",
+    "feature_bullets": [
+      "Designed to support your deck",
+      "Made of galvanized steel for durability and strength",
+      "Black powder coating offers an attractive look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Easy to install if you know how to frame with wood, you can frame with evolution",
+      "Straight, uniform pieces builds flat, stays flat",
+      "Greater spans fewer posts for less obstructed views",
+      "Compatibility works with any type or brand of decking",
+      "Beautiful the premium black sand powder coat provides a pleasing look that virtually disappears",
+      "Class-A fire rating a non-combustible material that's resistant to fire and meets the requirements for use in all Wildland Urban Interface (WUI) zones",
+      "Protected invulnerable to rotting, warping, splitting and insect damage",
+      "Warranty 25-year limited",
+      "Dimensions 3-1/2 in. x 3-1/2 in. x 10 ft. post",
+      "Visit your local Home Depot pro-desk for additional availability information on evolution frame products"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/46f27edb-1e2a-49a9-b12a-375df475b4b2/svn/fortress-deck-parts-accessories-186110111-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7023ec89-d03c-4277-b956-25a93240c8d4/svn/fortress-deck-parts-accessories-186110111-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bb14364f-e9c6-45a9-b29a-6d9196270064/svn/fortress-deck-parts-accessories-186110111-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3ac3d6cb-82c5-4127-a975-5957e30adf38/svn/fortress-deck-parts-accessories-186110111-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/80f61145-a847-4540-808d-942f12c59db2/svn/fortress-deck-parts-accessories-186110111-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34b089b2-5ad5-4c2d-85db-a00e39550dae/svn/fortress-deck-parts-accessories-186110111-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fb04809c-b608-47e7-b534-2531132e4b2d/svn/fortress-deck-parts-accessories-186110111-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/46f27edb-1e2a-49a9-b12a-375df475b4b2/svn/fortress-deck-parts-accessories-186110111-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/3585964c-b98e-43d1-bf96-a0dcbc5381cc/ca121aa5-2cd1-4dba-890e-05d908b41621/main.mp4?fastly_token=NjgzODJhZWNfMzU3MTBlMTQzYTJlNzk0NWExODFmM2IzMzUxNmEyMTRiZjE0NGM4NmI4Y2UyMmIwNTE5NWZkNDc5MDBkZjQxYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zNTg1OTY0Yy1iOThlLTQzZDEtYmY5Ni1hMGRjYmM1MzgxY2MvY2ExMjFhYTUtMmNkMS00ZGJhLTg5MGUtMDVkOTA4YjQxNjIxL21haW4ubXA0&pubid=66036796001",
+        "title": "Evolution Basic Footing Options",
+        "id": "6338741677112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/3585964c-b98e-43d1-bf96-a0dcbc5381cc/main/160x90/2m25s345ms/match/image.jpg?pubId=66036796001",
+        "description": "Footing Options for Frame"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/9e9db1e6-8349-42e8-9ed0-00c039ad395a/164c02ab-3fc5-4a42-af99-a17739df4a96/main.mp4?fastly_token=NjgzODI5MTVfMDY0NjRlOGUzMDA4MmVlMjdmNTc1NDBlMzU0NGE1YmM5OTFkZTQyYjE4OTI4MzM3Mzg1MmYyODc3NzNiNWY3Zl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS85ZTlkYjFlNi04MzQ5LTQyZTgtOWVkMC0wMGMwMzlhZDM5NWEvMTY0YzAyYWItM2ZjNS00YTQyLWFmOTktYTE3NzM5ZGY0YTk2L21haW4ubXA0&pubid=66036796001",
+        "title": "3.5 Single Beam to Post Bracket Connection Process",
+        "id": "6338787629112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/9e9db1e6-8349-42e8-9ed0-00c039ad395a/main/160x90/2m5s910ms/match/image.jpg?pubId=66036796001",
+        "description": "Single Beam to post bracket install"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/366f0641-7108-4061-8ab5-e1648eb383ef/6b55785e-1ba9-41cb-9f67-06965b0512df/main.mp4?fastly_token=NjgzODJhMWRfM2Q5NzdjZTA1N2Q5M2NhY2JlOGQ1N2EzMmRlYTAwMjA5YTU5MzY4NTBlMzc5ZDdmZDM2ZDk5YTE3ZWQ4Y2Q2Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zNjZmMDY0MS03MTA4LTQwNjEtOGFiNS1lMTY0OGViMzgzZWYvNmI1NTc4NWUtMWJhOS00MWNiLTlmNjctMDY5NjViMDUxMmRmL21haW4ubXA0&pubid=66036796001",
+        "title": "3.5 Post to Pier Mount",
+        "id": "6338788997112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/366f0641-7108-4061-8ab5-e1648eb383ef/main/160x90/56s459ms/match/image.jpg?pubId=66036796001",
+        "description": "How to attach pier bracket to post"
+      }
+    ],
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Accessory Type",
+        "value": "Post"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decking Material Compatibility",
+        "value": "Metal,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Limited Warranty"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Parts & Accessories",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Parts-Accessories/N-5yc1vZbqnw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 149.83,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 187.29,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 834,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 834,
+          "price": 55,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13716,
+    "overage_used": 3716,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/MYWISH-50-Pcs-14-x-4-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00336/334400827"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:55:41.324Z",
+    "processed_at": "2025-05-01T16:55:47.942Z",
+    "total_time_taken": 6.62,
+    "homedepot_url": "https://www.homedepot.com/p/MYWISH-50-Pcs-14-x-4-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00336/334400827"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/MYWISH-50-Pcs-14-x-4-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00336/334400827",
+    "brand": "MYWISH",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/MYWISH/N-5yc1vZ2fkpe61Z105y",
+    "title": "MYWISH 50-Pcs #14 x 4 in Black Hex Flat Head Wood Deck Screws",
+    "upc": "810155652937",
+    "item_id": "334400827",
+    "parent_id": "334721865",
+    "store_sku": "1013622293",
+    "model_number": "SF-DP00336",
+    "description": "Simplify your woodworking and construction projects with mywish #14 x 4-in. deck screws. These premium screws are designed for strength, durability, and ease of use. Featuring a coarse thread and self-drilling tip, they eliminate the need for pre-drilling, making every installation fast and effortless. Whether you're building a deck, securing a fence, or assembling furniture, mywish deck screws deliver reliable performance in every scenario. Crafted from high-quality carbon steel with enhanced heat resistance and anti-corrosion properties, these screws are built to last even in extreme environments. Their black finish adds a sleek, professional look while resisting rust and wear over time. A must-have for contractors, DIY enthusiasts, and home improvement projects alike.",
+    "feature_bullets": [
+      "Self-drilling design for easy installation",
+      "Made of high-quality carbon steel to ensure durability"
+    ],
+    "feature_bullets_count": 2,
+    "descriptive_attributes": [
+      "Superior durability: made from premium carbon steel, these deck screws are heat-resistant, corrosion-resistant, and built for long-term performance in various environments",
+      "Self-drilling design: the coarse thread and self-drilling tip eliminate the need for pre-drilling, saving time and effort on your projects",
+      "Versatile applications: ideal for decking, fencing, furniture assembly, framing, and other woodworking or structural applications",
+      "Comprehensive kit: includes 50 screws neatly packed in a reusable transparent storage container, with clear labeling for size and quantity",
+      "Reliable performance: strong, solid structure ensures a secure hold for structural integrity and a polished finish for aesthetic appeal",
+      "Customer-centered service: backed by my wish\u2019s dedicated after-sales team for professional support and quick resolutions to any product concerns"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1652812f-6f16-4f99-8f76-b16f837c1b6a/svn/mywish-deck-screws-sf-dp00336-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/863932ca-a26d-4b53-83af-8d1b2ae31ee8/svn/mywish-deck-screws-sf-dp00336-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c9aad21c-e0e4-4c43-b77b-ded3aa46f6d7/svn/mywish-deck-screws-sf-dp00336-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e2192db9-127f-4db2-b89e-b583037cef2d/svn/mywish-deck-screws-sf-dp00336-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eab5ca97-2b62-43a2-aa04-25576984bc34/svn/mywish-deck-screws-sf-dp00336-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19cf2a47-98b6-4a59-a814-c2563f442b6b/svn/mywish-deck-screws-sf-dp00336-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1652812f-6f16-4f99-8f76-b16f837c1b6a/svn/mywish-deck-screws-sf-dp00336-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Hex"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Epoxy"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit,Screw"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "2 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "N/A - Metric Fastener"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#14"
+      }
+    ],
+    "size": "#14",
+    "variants": [
+      {
+        "title": "6 in~~#14~~Black~~3 lb",
+        "link": "https://www.homedepot.com/p/MYWISH-50-Pcs-14-x-6-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00338/334400830",
+        "item_id": "334400830"
+      },
+      {
+        "title": "6 in~~#14~~Black~~6 lb",
+        "link": "https://www.homedepot.com/p/MYWISH-100-Pcs-14-x-6-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00339/334400831",
+        "item_id": "334400831"
+      },
+      {
+        "title": "4 in~~#14~~Black~~4 lb",
+        "link": "https://www.homedepot.com/p/MYWISH-100-Pcs-14-x-4-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00337/334400829",
+        "item_id": "334400829"
+      },
+      {
+        "title": "4 in~~#14~~Black~~2 lb",
+        "link": "https://www.homedepot.com/p/MYWISH-50-Pcs-14-x-4-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00336/334400827",
+        "item_id": "334400827"
+      },
+      {
+        "title": "8 in~~#14~~Black~~7 lb",
+        "link": "https://www.homedepot.com/p/MYWISH-100-Pcs-14-x-8-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00341/334401474",
+        "item_id": "334401474"
+      },
+      {
+        "title": "8 in~~#14~~Black~~4 lb",
+        "link": "https://www.homedepot.com/p/MYWISH-50-Pcs-14-x-8-in-Black-Hex-Flat-Head-Wood-Deck-Screws-SF-DP00340/334401473",
+        "item_id": "334401473"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 20.45,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14927,
+    "overage_used": 4927,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Cimarron-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Toilet-in-White-with-Soft-Close-Seat-K-31648-0/313789704"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:43:19.013Z",
+    "processed_at": "2025-05-02T21:43:27.660Z",
+    "total_time_taken": 8.65,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Cimarron-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Toilet-in-White-with-Soft-Close-Seat-K-31648-0/313789704"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Cimarron-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Toilet-in-White-with-Soft-Close-Seat-K-31648-0/313789704",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/KOHLER/N-5yc1vZcb8nZ1qh",
+    "title": "KOHLER Cimarron 12 in. Rough In 2-Piece 1.28 GFP Single Flush Elongated Toilet in White with Soft Close Seat",
+    "upc": "885612872524",
+    "item_id": "313789704",
+    "parent_id": "330806870",
+    "store_sku": "1005536234",
+    "model_number": "K-31648-0",
+    "description": "The Cimarron Comfort Height toilet has become an enduring symbol of power and timeless beauty. Trusted for years by professionals and homeowners, Cimarron features KOHLER's most complete flush ever, Revolution 360 degree swirl flush powered by the AquaPiston flush valve. Revolution 360 degree swirl flushing technology keeps your bowl cleaner longer than a conventional flush. Installation saves you time and money, too, with KOHLER's patent-pending two-bolt tank-to-bowl omni-directional leveling system.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "favorite_count": 327,
+    "aisle": "37",
+    "bay": "002",
+    "feature_bullets": [
+      "Made of vitreous, ADA comfort height 1.28 GPF 360 swirl flush",
+      "CleanCoat surface treatment prevents stains for easy cleaning",
+      "Soft close toilet seat, wax ring, and hardware included"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "2-piece design",
+      "Elongated bowl offers added room and comfort",
+      "Comfort height feature offers chair-height seating that makes sitting down and standing up easier for most adults",
+      "1.28 GPF (4.8 LPF)",
+      "Left-hand polished chrome trip lever",
+      "2-1/8 in. (54 mm) fully-glazed trapway",
+      "Revolution 360 degree swirl-flushing technology generates a forceful swirling motion to keep the bowl cleaner, longer",
+      "Sanitary guard where bowl and tank meet for ease of cleaning",
+      "Complete solution toilets provide everything you need in one box, including bowl, tank, seat, wax ring, and floor hardware.",
+      "CleanCoat technology inhibits the growth of water scale and mineral stains for improved ease of cleaning",
+      "AquaPiston canister optimizes the flow out of the tank, harnessing gravity and the natural powerful reducing cascade of water to increase the power and effectiveness of the flush",
+      "Easy-to-flush canister design requires less force to actuate than a 3 in. (76 mm) flapper, and has 90% less exposed seal material which resists conditions that cause wear, tear, shrinkage and swelling",
+      "Standard 12 in. (305 mm) rough-in",
+      "Supply line sold separately",
+      "WaterSense",
+      "<img src=\"https://inlinecontent.thdstatic.com/29K/KOHLER COMPANY/JOB025093-001_Cimmaron_Toilet_Refresh_Inline 1645564.jpg\">",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 17,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/98154a8d-5ab1-4d80-9122-fd4f935c1786/svn/white-kohler-two-piece-toilets-k-31648-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/241f5263-a393-48dd-8b41-09afd99bfb4b/svn/white-kohler-two-piece-toilets-k-31648-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ae290548-0598-4053-8529-3d6efbd558bd/svn/white-kohler-two-piece-toilets-k-31648-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a1a7baf6-fe22-45ba-b90e-1a3468c8888a/svn/white-kohler-two-piece-toilets-k-31648-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/05545f52-1c45-43e5-b78a-3aa1a400ddce/svn/white-kohler-two-piece-toilets-k-31648-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/801f48f8-0d73-4ed7-8a4f-3e0af4a28bb3/svn/white-kohler-two-piece-toilets-k-31648-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f277fafb-a985-4a84-a63b-57d931a860db/svn/white-kohler-two-piece-toilets-k-31648-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0416b39c-9928-463d-ae9a-c0c581a12a3a/svn/white-kohler-two-piece-toilets-k-31648-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c740c6f-42a3-4322-89b2-1209c26546d2/svn/white-kohler-two-piece-toilets-k-31648-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a37fd13c-a484-4f7f-b84e-455a924e4e53/svn/white-kohler-two-piece-toilets-k-31648-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/96871c35-be4f-4072-86d7-02944804bdc1/svn/white-kohler-two-piece-toilets-k-31648-0-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e17a2ac4-191f-4d19-a566-8d4bf2aac240/svn/white-kohler-two-piece-toilets-k-31648-0-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c93392f9-c734-436f-8361-df669bffd4d4/svn/white-kohler-two-piece-toilets-k-31648-0-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/98154a8d-5ab1-4d80-9122-fd4f935c1786/svn/white-kohler-two-piece-toilets-k-31648-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/c64a7251-4b22-48f5-9433-edc7e5ee066e/22a59912-e2e5-409a-82b8-9ebc5b94d40b/main.mp4?fastly_token=NjgxNGUzNjBfYTU4Njc3NmFkMTA5ZWFmNmJmZTg0N2FiOTFkODhmMjJkYzUwMzhmZDc3NGMyMDIwYWYxMjEyMmE0MzQ3NDhlM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYzY0YTcyNTEtNGIyMi00OGY1LTk0MzMtZWRjN2U1ZWUwNjZlLzIyYTU5OTEyLWUyZTUtNDA5YS04MmI4LTllYmM1Yjk0ZDQwYi9tYWluLm1wNA%3D%3D",
+        "title": "Cimarron Revolution 360",
+        "id": "6252639679001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/c64a7251-4b22-48f5-9433-edc7e5ee066e/f21c96e6-223b-4ce9-8e1c-18d0f3298836/160x90/match/image.jpg",
+        "description": "video that shows the revolution 360 flushing \n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/096b3c0e-c305-4609-958d-e854489704b4/2e6a8c63-bb7e-4ebe-a959-52aec6ae0347/main.mp4?fastly_token=NjgxNGUzOWFfMWUyYjE4MzhjMDRhMGJkMGIyZmMzMjg2NTg4YmNiNTMyZjZhMjMxMjc5NGY2Y2ZjNjljNTc4Mzg5MzZhMmMxYl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMDk2YjNjMGUtYzMwNS00NjA5LTk1OGQtZTg1NDQ4OTcwNGI0LzJlNmE4YzYzLWJiN2UtNGViZS1hOTU5LTUyYWVjNmFlMDM0Ny9tYWluLm1wNA%3D%3D",
+        "title": "K22BN6246_CimarronTHD_computer",
+        "id": "6307481197112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/096b3c0e-c305-4609-958d-e854489704b4/main/160x90/32s608ms/match/image.jpg",
+        "description": "Cimarron Flushing\n"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ab5d8c0e-0fa4-45ef-a768-49020652f0ba/f7319bc9-8975-4a2e-9929-3081c27f5f98/main.mp4?fastly_token=NjgzOTc5Y2VfZDFhYTVlMGJlMWIzYTUwMjFmZjFlYmY5MTQ1NjkxOTczODMwMWRiM2E3YjAxZDZiMzQ5YjU2MmEyMzlkZWZkY18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hYjVkOGMwZS0wZmE0LTQ1ZWYtYTc2OC00OTAyMDY1MmYwYmEvZjczMTliYzktODk3NS00YTJlLTk5MjktMzA4MWMyN2Y1Zjk4L21haW4ubXA0&pubid=66036796001",
+        "title": "Cimarron Installation Video",
+        "id": "6352907867112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ab5d8c0e-0fa4-45ef-a768-49020652f0ba/main/160x90/1m35s882ms/match/image.jpg?pubId=66036796001",
+        "description": "This video shows how to install the cimarron toilet."
+      }
+    ],
+    "ratings_total": 3075,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Complete Kit"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "Not Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "102 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.125 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ASME Certified,CSA Certified,EPA Approved"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "28.8125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "31.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18.625 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Round~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Cimarron-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Round-Toilet-in-White-with-Soft-Close-Seat-31668-0/314689625",
+        "item_id": "314689625"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Cimarron-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Toilet-in-White-with-Soft-Close-Seat-K-31648-0/313789704",
+        "item_id": "313789704"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 269,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 16
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 70,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 117,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

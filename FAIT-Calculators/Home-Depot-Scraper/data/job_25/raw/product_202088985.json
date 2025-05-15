@@ -1,0 +1,166 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14855,
+    "overage_used": 4855,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-12-in-x-24-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0122524/202088985"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:53:21.178Z",
+    "processed_at": "2025-05-01T19:54:10.840Z",
+    "total_time_taken": 49.66,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-12-in-x-24-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0122524/202088985"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-12-in-x-24-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0122524/202088985",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 12 in. x 24 ft. FIR #2 Standard Grade Dimensional Lumber",
+    "upc": "099167360881",
+    "item_id": "202088985",
+    "store_sku": "511889",
+    "model_number": "0122524",
+    "description": "Hem-Fir is useful for a variety of general-purpose framing applications. The material hold nails and screws securely, as works well with a variety of glues and adhesives. Cuts and shapes with standard woodworking tools.",
+    "feature_bullets": [
+      "Meets highest grading standards for strength and appearance",
+      "Easy to cut, fasten and paint, perfect for many building projects",
+      "Ideal for framing, houses, sheds, and other structures"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Meets many of the structural load-carrying and load-bearing requirements",
+      "Kiln dried",
+      "Strong wood that is light in color",
+      "Resists splitting in nailing and screwing",
+      "Paintable",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/049904c7-cf55-4ae0-a281-5afd3344de0a/svn/framing-lumber-0122524-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/049904c7-cf55-4ae0-a281-5afd3344de0a/svn/framing-lumber-0122524-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxM2I5YjNfMWI3YmY4MTQxNzNiZDg4ZDQzMmY0OGFlMGU0MWZkMDI1NDBmNDQwMjFmMDdmYmI3ZjQxOWM3ZWQ5MjI4MmI2Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Standard Nails"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "No. 2; 2&Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Whitewood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "24 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "24 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "keywords_list": [
+      "board",
+      "untreated board",
+      "wood",
+      "untreated wood",
+      "hemlock-fir board",
+      "hemlock-fir wood",
+      "2 in. x 12 in. x 24 ft. board",
+      "2 in. x 12 in. x 24 ft. wood"
+    ],
+    "keywords": "board, untreated board, wood, untreated wood, hemlock-fir board, hemlock-fir wood, 2 in. x 12 in. x 24 ft. board, 2 in. x 12 in. x 24 ft. wood",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

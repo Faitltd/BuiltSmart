@@ -1,0 +1,286 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14429,
+    "overage_used": 4429,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-4x12-Nominal-Lumber-HGUS412/203302208"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:38:02.268Z",
+    "processed_at": "2025-05-01T18:38:12.308Z",
+    "total_time_taken": 10.04,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-4x12-Nominal-Lumber-HGUS412/203302208"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-4x12-Nominal-Lumber-HGUS412/203302208",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/Simpson-Strong-Tie/N-5yc1vZaqxbZ615",
+    "title": "Simpson Strong-Tie HGUS Galvanized Face-Mount Joist Hanger for 4x12 Nominal Lumber",
+    "upc": "044315806803",
+    "item_id": "203302208",
+    "parent_id": "313965389",
+    "store_sku": "1000062476",
+    "model_number": "HGUS412",
+    "description": "The HGUS is an extra-heavy-capacity hanger for applications requiring girder support. This girder hanger features double-shear nailing that distributes the load through two points on each joist nail for greater strength. Value-engineered, the HGUS is designed to carry high loads for an economical price.",
+    "favorite_count": 3,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Can be installed after the beam is secured in place",
+      "HGUS-series hangers are tested, load rated and code compliant",
+      "Do not bend or remove tabs",
+      "Nominal joist size: 4x12",
+      "Made from 12-gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with 0.162 in. x 3-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">16DHDG</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a11902d5-439b-4b6f-b0c2-ef6b468a042b/svn/simpson-strong-tie-joist-hangers-hgus412-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e4c2d732-60d4-4233-a3aa-6dc89bcbc505/svn/simpson-strong-tie-joist-hangers-hgus412-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bd0ad441-cec4-4502-9b59-59195a35c2c8/svn/simpson-strong-tie-joist-hangers-hgus412-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1f1ae8bb-1857-4fb7-8030-d454b7afe68c/svn/simpson-strong-tie-joist-hangers-hgus412-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-joist-hangers-hgus412-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-joist-hangers-hgus412-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a11902d5-439b-4b6f-b0c2-ef6b468a042b/svn/simpson-strong-tie-joist-hangers-hgus412-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxM2FhYThfMmE2MzkzNzdjNTk0OGVjZWQzZmM1NmQxNWI2YTYyYzQxNTU4NTkyYTg4YTc3Yjg3MDU4NGMyMmVkN2M5ZWEyZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 18,
+    "rating": 4.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Flange Type",
+        "value": "Face Mount Flange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Modifications",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "3.01 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Joist Hanger Size",
+        "value": "4x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "8.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "10.44 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Triple 2x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-7-1-4-in-Galvanized-Face-Mount-Joist-Hanger-for-Triple-2x-Truss-Nominal-Lumber-HGUS28-3/205227114",
+        "item_id": "205227114"
+      },
+      {
+        "title": "Double 2x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-7-3-16-in-Galvanized-Face-Mount-Joist-Hanger-for-Double-2x-Truss-Nominal-Lumber-HGUS28-2/205227113",
+        "item_id": "205227113"
+      },
+      {
+        "title": "Double 2x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-5-7-16-in-Galvanized-Face-Mount-Joist-Hanger-for-Double-2x-Truss-Nominal-Lumber-HGUS26-2/205227112",
+        "item_id": "205227112"
+      },
+      {
+        "title": "4x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-4x8-Nominal-Lumber-HGUS48/205227118",
+        "item_id": "205227118"
+      },
+      {
+        "title": "4x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-4x6-Nominal-Lumber-HGUS46/205227117",
+        "item_id": "205227117"
+      },
+      {
+        "title": "4x14",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-4x14-Nominal-Lumber-HGUS414/205227116",
+        "item_id": "205227116"
+      },
+      {
+        "title": "4x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Beam-Hanger-for-4x10-Nominal-Lumber-HGUS410/202985121",
+        "item_id": "202985121"
+      },
+      {
+        "title": "Triple 2x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-Triple-2x12-Nominal-Lumber-HGUS212-3/205227107",
+        "item_id": "205227107"
+      },
+      {
+        "title": "Quad 2x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-9-3-16-in-Galvanized-Face-Mount-Joist-Hanger-for-Quad-2x10-Nominal-Lumber-HGUS210-4/205227106",
+        "item_id": "205227106"
+      },
+      {
+        "title": "Double 2x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-9-3-16-in-Galvanized-Face-Mount-Joist-Hanger-for-Double-2x10-Nominal-Lumber-HGUS210-2/205227105",
+        "item_id": "205227105"
+      },
+      {
+        "title": "2x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-5-3-8-in-Galvanized-Face-Mount-Joist-Hanger-for-2x-Truss-Nominal-Lumber-HGUS26/205227111",
+        "item_id": "205227111"
+      },
+      {
+        "title": "Quad 2x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-Quad-2x12-Nominal-Lumber-HGUS212-4/205227110",
+        "item_id": "205227110"
+      },
+      {
+        "title": "4x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HGUS-Galvanized-Face-Mount-Joist-Hanger-for-4x12-Nominal-Lumber-HGUS412/203302208",
+        "item_id": "203302208"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Joist Hangers",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/N-5yc1vZaqxb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 61.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

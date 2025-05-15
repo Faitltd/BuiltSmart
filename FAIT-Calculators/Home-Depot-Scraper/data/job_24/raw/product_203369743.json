@@ -1,0 +1,211 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14269,
+    "overage_used": 4269,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-x-96-in-Solid-Pine-Shoe-Base-Moulding-10001831/203369743"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:24.195Z",
+    "processed_at": "2025-05-01T18:23:30.007Z",
+    "total_time_taken": 5.81,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-x-96-in-Solid-Pine-Shoe-Base-Moulding-10001831/203369743"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-x-96-in-Solid-Pine-Shoe-Base-Moulding-10001831/203369743",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/Woodgrain-Millwork/N-5yc1vZ2fkp9hdZ7c8",
+    "title": "Woodgrain Millwork WM 129 7/16 in. x 11/16 in. x 96 in. Solid Pine Shoe Base Moulding",
+    "upc": "095624516686",
+    "item_id": "203369743",
+    "parent_id": "327768413",
+    "store_sku": "1000368570",
+    "model_number": "10001831",
+    "description": "The Woodgrain Millwork 7/16 in. x 11/16 in. x 96 in. WM129 Pine Base Shoe makes a great transition between base moulding and flooring. Pine WM129 Base Shoe can also be used to cover gaps where flooring surfaces meet base moulding. Base Shoe is also used to cover small alignment challenges where hard surface flooring meets the wall.",
+    "favorite_count": 555,
+    "feature_bullets": [
+      "Great to cover gaps between base moulding and flooring",
+      "Covers small alignment changes where surface flooring meets wall",
+      "Solid pine construction offers durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be stained or painted with any high quality latex or oil based paint/stain",
+      "Classic small profile moulding useful in covering small gaps",
+      "Can be used to accent traditional base mouldings",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/97b64c3c-513b-423c-86ae-4ea26517efcd/svn/unfinished-woodgrain-millwork-shoe-moulding-10001831-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ed64b694-ae65-4012-8cba-3c8bdc6fb692/svn/unfinished-woodgrain-millwork-shoe-moulding-10001831-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/415ced93-e17e-451d-b458-dff878cd7c95/svn/unfinished-woodgrain-millwork-shoe-moulding-10001831-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/97b64c3c-513b-423c-86ae-4ea26517efcd/svn/unfinished-woodgrain-millwork-shoe-moulding-10001831-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 148,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Shoe Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.438 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.688 in"
+      }
+    ],
+    "keywords_list": [
+      "Moulding",
+      "Base Shoe Moulding",
+      "Wood Pine Base Shoe Moulding",
+      "Natural Base Shoe Moulding",
+      "",
+      "WM 129 7/16 in. x 11/16 in. x 96 in. Pine Primed Base Shoe Moulding",
+      "109436"
+    ],
+    "keywords": "Moulding, Base Shoe Moulding, Wood Pine Base Shoe Moulding, Natural Base Shoe Moulding, , WM 129 7/16 in. x 11/16 in. x 96 in. Pine Primed Base Shoe Moulding, 109436",
+    "variants": [
+      {
+        "title": "Unfinished~~96 in~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-x-96-in-Solid-Pine-Shoe-Base-Moulding-10001831/203369743",
+        "item_id": "203369743"
+      },
+      {
+        "title": "Gunstock~~192 in~~0.688 in",
+        "link": "https://www.homedepot.com/p/WM-129-7-16-in-x-11-16-in-Prefinished-Gunstock-Base-Shoe-Moulding-10001651/202800909",
+        "item_id": "202800909"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Shoe Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/N-5yc1vZ2fkp9hd"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.54,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 714,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 714,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

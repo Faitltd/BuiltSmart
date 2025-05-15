@@ -1,0 +1,160 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13473,
+    "overage_used": 3473,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-1x6-20-Sanctuary-Fire-Rated-Composite-Deck-Board-Espresso-Grooved-Edge-Actual-Size-925-x-5-25-BRDSANGFR-BRDSANGFR-EP-20/313984244"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:19:28.728Z",
+    "processed_at": "2025-05-01T14:20:15.668Z",
+    "total_time_taken": 46.94,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-1x6-20-Sanctuary-Fire-Rated-Composite-Deck-Board-Espresso-Grooved-Edge-Actual-Size-925-x-5-25-BRDSANGFR-BRDSANGFR-EP-20/313984244"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-1x6-20-Sanctuary-Fire-Rated-Composite-Deck-Board-Espresso-Grooved-Edge-Actual-Size-925-x-5-25-BRDSANGFR-BRDSANGFR-EP-20/313984244",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon 1x6-20' Sanctuary Fire Rated Composite Deck Board-Espresso Grooved Edge (Actual Size:. 925\" x 5.25\") BRDSANGFR",
+    "upc": "844219026846",
+    "item_id": "313984244",
+    "store_sku": "1005580233",
+    "model_number": "BRDSANGFR EP 20",
+    "description": "Make your backyard a place to stay. Beautiful and easy to maintain, Sanctuary decking features bold, multi-tonal colors and rustic embossing. Fiberon products are nearly maintenance free and retain their beauty for years to come, meaning you can enjoy the quiet moments without spending precious time on maintenance and upkeep.",
+    "feature_bullets": [
+      "Fire-rated composite deck board approved for use in all WUI zones",
+      "Stain and fade resistant; 3 sided PermaTech cap layer"
+    ],
+    "feature_bullets_count": 2,
+    "descriptive_attributes": [
+      "A Fire-rated version of Sanctuary decking approved for use in all Wildland Urban Interface (WUI) zones.",
+      "Sanctuary decking is beautiful and easy to maintain, featuring bold, multi-tonal colors and rustic embossing.",
+      "Strong composite construction helps resist splintering, rotting, cracking, insects and decay.",
+      "Features a three-sided PermaTech cap layer for superior stain and fade resistance.",
+      "The flat-profile bottom provides a sturdy feel, reminiscent of traditional lumber.",
+      "Contains 95% recycled content."
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7aa240ed-8106-4da0-98f6-d60d6890a94a/svn/espresso-fiberon-composite-decking-boards-brdsangfr-ep-20-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7aa240ed-8106-4da0-98f6-d60d6890a94a/svn/espresso-fiberon-composite-decking-boards-brdsangfr-ep-20-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Espresso"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Screws or hidden fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "40 year Stain, Fade and Performance"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".925"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "47"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

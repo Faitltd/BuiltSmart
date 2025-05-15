@@ -1,0 +1,253 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13203,
+    "overage_used": 3203,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GAF-WeatherWatch-200-sq-ft-Mineral-Surfaced-Peel-and-Stick-Roof-Leak-Barrier-Roll-0914000/100083275"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:47:59.500Z",
+    "processed_at": "2025-05-01T13:48:05.363Z",
+    "total_time_taken": 5.86,
+    "homedepot_url": "https://www.homedepot.com/p/GAF-WeatherWatch-200-sq-ft-Mineral-Surfaced-Peel-and-Stick-Roof-Leak-Barrier-Roll-0914000/100083275"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GAF-WeatherWatch-200-sq-ft-Mineral-Surfaced-Peel-and-Stick-Roof-Leak-Barrier-Roll-0914000/100083275",
+    "brand": "GAF",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Underlayments/GAF/N-5yc1vZc5rwZll",
+    "title": "GAF WeatherWatch 200 sq. ft. Mineral-Surfaced Peel and Stick Roof Leak Barrier Roll",
+    "upc": "073590568038",
+    "item_id": "100083275",
+    "store_sku": "368326",
+    "model_number": "0914000",
+    "description": "WeatherWatch\u00ae Mineral-Surfaced Leak Barrier is a key part of the GAF Lifetime Roofing System.1 It\u2019s eligible for Lifetime limited warranty when used on Lifetime Shingle roofs1 and it\u2019s an eligible component of GAF residential enhanced warranties.   How does WeatherWatch\u00ae Protect your Roof?   By Creating a barrier at the most vulnerable areas of your asphalt shingle (at the eaves and rakes, in valleys, & around chimneys, etc.), WeatherWatch\u00ae Mineral-Surfaced Leak Barrier helps prevent leaks due to water backing up in your gutters, wind-driven rain, and, in the North, damaging ice dams. It will also help protect your home from expensive wall and ceiling staining from leaks.",
+    "favorite_count": 314,
+    "feature_bullets": [
+      "Self-adhering leak barrier keeps water out at vulnerable areas",
+      "Split-back release & self-seal around nails helps save time&labor",
+      "Mineral-surfaced leak barrier made for use under asphalt shingles"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://quickmeasure.gaf.com/THD\" target=\"_blank\" style=\"color:#F96302;\">Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders.&nbsp;A complete bill of materials, with Home Depot product&nbsp;SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]</a>",
+      "Strong Protection: Guards vulnerable areas of your roofing including eaves and rakes, in valleys, around chimneys and skylights, and more.",
+      "Dependable: Self-seals around nails to help avoid leaks",
+      "Fiberglass-reinforced: Helps resist buckling and wrinkling that can detract from the look of your finished roof.",
+      "Split-back Release Film: Peels off in layers for fast installation",
+      "Convenient: Available in 1.5 square (150ft.2 [13.9 m2) and 2.0 square (200 ft.2 [18.58 m2]) roll size.",
+      "Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders.&nbsp;A complete bill of materials, with Home Depot product&nbsp;SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]",
+      "<a href=\"https://www.homedepot.com/catalog/pdfImages/ad/ad8f5906-18db-4b89-b232-5b1a19c2574e.pdf\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/22/GAF BUILDING MATERIALS/Roofing Project Checklist Inline Q1 2018.jpg\"></a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/004195eb-8bbb-40b0-9a28-aa696b2106d7/svn/gaf-roof-underlayments-0914000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0066b291-cf90-43dd-bc88-a3b90b02f3ee/svn/gaf-roof-underlayments-0914000-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ad7cc20b-7a8f-4fa7-be10-4b72d9475be3/svn/gaf-roof-underlayments-0914000-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5add2102-c6b1-492c-946f-888efe6dba01/svn/gaf-roof-underlayments-0914000-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3c123151-234b-4bbd-b200-f2b4b9a146c3/svn/gaf-roof-underlayments-0914000-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d1bdfac9-4b25-467a-8fa8-c25226e4d790/svn/gaf-roof-underlayments-0914000-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/411cb99f-96d6-4a46-8d0c-4d400db38cf6/svn/gaf-roof-underlayments-0914000-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6c7f7ed6-0a3f-4eb5-8b9e-7e035d5427e9/svn/gaf-roof-underlayments-0914000-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e672a10a-7b8c-45b2-991e-dc1a66355a34/svn/gaf-roof-underlayments-0914000-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/004195eb-8bbb-40b0-9a28-aa696b2106d7/svn/gaf-roof-underlayments-0914000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/587e2d8f-341c-4332-8740-5df739c8a7b1/814e2f44-d002-491f-86b9-577d97f95656/main.mp4?fastly_token=NjgzODI3OWFfOGQ5MTVkMjJmMDMyYTVjYWUwNTU0MGRhYmI2MzEyNzE0MjQ1ODJkMWM5MWRhM2FmZjA0N2U3ZTk1YmM2NTU3MV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81ODdlMmQ4Zi0zNDFjLTQzMzItODc0MC01ZGY3MzljOGE3YjEvODE0ZTJmNDQtZDAwMi00OTFmLTg2YjktNTc3ZDk3Zjk1NjU2L21haW4ubXA0&pubid=66036796001",
+        "title": "GAF Pro Series Leak Barrier Basic Install",
+        "id": "5786604676001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/587e2d8f-341c-4332-8740-5df739c8a7b1/dab642f7-37c1-4609-b90b-a6115a172978/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Installation demo video for GAF leak barrier products"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d652cc82-892b-4f9d-8a7f-3c0c35f6bb94/2cd08e08-7cab-4daa-b715-0e6f5427124b/main.mp4?fastly_token=NjgzODI3MzNfNDhiMGFjNmEyOGI1M2MyYzZiMDBlYzRjZGQ0ODYxNTYwMTQwODU1OWMwNmM4OWNkNzAzNTY1NThiNGRjZGVhMl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kNjUyY2M4Mi04OTJiLTRmOWQtOGE3Zi0zYzBjMzVmNmJiOTQvMmNkMDhlMDgtN2NhYi00ZGFhLWI3MTUtMGU2ZjU0MjcxMjRiL21haW4ubXA0&pubid=66036796001",
+        "title": "GAF Pro Series Leak Barrier Valley Install",
+        "id": "5786651244001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/d652cc82-892b-4f9d-8a7f-3c0c35f6bb94/bf60d84f-ca6d-4ac1-bfe6-e35879b810f2/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Demonstrates how to install GAF leak barriers in roof valleys"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 100,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Nail,Peel & Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Ice and Water Shield"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "Class A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Asphalt"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "87 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Squares (100sq. Ft)/Roll",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Recommended",
+        "value": "Concrete Roofs,Concrete/Masonry,Metal,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Granulated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Underlayment/Barrier Type",
+        "value": "Leak Barrier"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Varies by Application - See Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "200 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "0.05 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Unrolled length (ft.)",
+        "value": "66.7"
+      }
+    ],
+    "keywords_list": [
+      "leak barrier",
+      "granular leak barrier",
+      "roofing felt",
+      "granular roofing felt",
+      "watertight leak barrier",
+      "watertight roofing felt",
+      "200 sq. ft. leak barrier"
+    ],
+    "keywords": "leak barrier, granular leak barrier, roofing felt, granular roofing felt, watertight leak barrier, watertight roofing felt, 200 sq. ft. leak barrier",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Roof Underlayments",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Underlayments/N-5yc1vZc5rw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 109,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "roll",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 26,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 26,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

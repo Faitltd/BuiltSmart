@@ -1,0 +1,160 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14844,
+    "overage_used": 4844,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-10-in-x-20-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108420/323152997"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:44:19.036Z",
+    "processed_at": "2025-05-01T19:44:54.384Z",
+    "total_time_taken": 35.35,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-10-in-x-20-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108420/323152997"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-10-in-x-20-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108420/323152997",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 10 in. x 20 ft. FIR #2 Standard Grade Dimensional Lumber",
+    "upc": "099167247069",
+    "item_id": "323152997",
+    "parent_id": "330800464",
+    "store_sku": "1010896188",
+    "model_number": "0108420",
+    "description": "Every-piece meets the highest grading standards for strength and appearance. Dimensional lumber is ideal for a wide range of structural and nonstructural applications including framing of houses, barns, sheds and commercial construction. Dimensional lumber comes in a variety of widths and lengths to meet all your construction needs.",
+    "feature_bullets": [
+      "Made of Douglas fir or Hem-Fir for durability",
+      "Smooth texture offers an elegant look to your space",
+      "Ideal choice for framing houses, barns and sheds"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of douglas fir or hem-fir",
+      "Smooth texture",
+      "No. 2 and BTR S4S grade",
+      "KDHT moisture content",
+      "Paintable",
+      "Stainable"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/880cca39-c8df-4f12-a0aa-b48636f46c42/svn/framing-lumber-0108420-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/880cca39-c8df-4f12-a0aa-b48636f46c42/svn/framing-lumber-0108420-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Standard Nails"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "No. 2 & Btr S4S"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Douglas Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "9.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x10"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "10 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "24 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-24-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108424/323152994",
+        "item_id": "323152994"
+      },
+      {
+        "title": "20 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-20-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108420/323152997",
+        "item_id": "323152997"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

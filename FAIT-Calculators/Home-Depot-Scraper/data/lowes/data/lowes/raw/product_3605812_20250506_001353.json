@@ -1,0 +1,205 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 37,
+    "credits_used_this_request": 1,
+    "credits_remaining": 463,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.lowes.com/pd/streamline-12-in-x-5-ft-copper-type-m-pipe/3605812",
+    "_t": "20250506001352",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-06T06:13:52.542Z",
+    "processed_at": "2025-05-06T06:13:53.925Z",
+    "total_time_taken": 1.38,
+    "lowes_url": "https://www.lowes.com/pd/Mueller-Streamline-1-2-in-Dia-x-5-ft-L-Copper-Pipe/3605812"
+  },
+  "product": {
+    "link": "https://www.lowes.com/pd/Mueller-Streamline-1-2-in-Dia-x-5-ft-L-Copper-Pipe/3605812",
+    "brand": "Streamline",
+    "title": "Streamline 1/2-in x 5-ft Copper Type M Pipe",
+    "upc": "685768363170",
+    "item_id": "3605812",
+    "item_number": "23787",
+    "model_number": "MH04005RT",
+    "description": "Streamline&#174; Copper Tube sets the standard for quality, consistency and service in the plumbing industries. Copper Type L coils is perfect for above and below ground water supply use. Manufactured in accordance with applicable standards, our ongoing commitment to quality continues to make Streamline&#174; Copper Tube the preferred and specified brand of industry professionals.",
+    "feature_bullets": [
+      "Copper M construction offers a durable water system",
+      "For use in residential and commercial water applications",
+      "For use in above ground potable water supply systems"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Copper M construction offers a durable water system",
+      "For use in residential and commercial water applications",
+      "For use in above ground potable water supply systems",
+      "This product is lead free making the elements running through it safe for human consumption",
+      "Copper is recyclable, aiding in sustainability and reducing waste"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/3a9170f9-22de-4ec6-8b58-85ca799bb23b/65995898.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/525c01b0-0dfa-4569-9f74-a2b701d48cf5/65995900.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/8dc1eb97-cdd1-407b-b7a2-dccf596557a2/65995904.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/57c4e0f4-9dfc-46ab-816c-7a66aa31f5ec/66529692.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/9d45c535-2e82-4620-bc41-3c0e843d2bfa/65995905.jpeg"
+      }
+    ],
+    "main_image": {
+      "src": "Vendor Provided",
+      "link": "https://mobileimages.lowes.com/productimages/3a9170f9-22de-4ec6-8b58-85ca799bb23b/65995898.jpeg"
+    },
+    "videos": [],
+    "has_360_view": false,
+    "ratings_total": 240,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "name": "Color/Finish Family",
+        "value": "Copper"
+      },
+      {
+        "name": "Sub Type",
+        "value": "M"
+      },
+      {
+        "name": "Type",
+        "value": "Pipe"
+      },
+      {
+        "name": "Diameter (End 1)",
+        "value": "1/2-in"
+      },
+      {
+        "name": "Diameter (End 2)",
+        "value": "1/2-in"
+      },
+      {
+        "name": "Pipe Diameter",
+        "value": "1/2-in"
+      },
+      {
+        "name": "Pipe Length",
+        "value": "5-ft"
+      },
+      {
+        "name": "Connection Type (End 1)",
+        "value": "Cup (Solder)"
+      },
+      {
+        "name": "Connection Type (End 2)",
+        "value": "Cup (Solder)"
+      },
+      {
+        "name": "Fitting Type",
+        "value": "Solder"
+      },
+      {
+        "name": "Material",
+        "value": "Copper"
+      },
+      {
+        "name": "Maximum Working Temperature (Fahrenheit)",
+        "value": "200"
+      },
+      {
+        "name": "Minimum Working Temperature (Fahrenheit)",
+        "value": "-452"
+      },
+      {
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "name": "Permanent or Removable",
+        "value": "Permanent"
+      },
+      {
+        "name": "CA Residents: Prop 65 Warning(s)",
+        "value": "No"
+      },
+      {
+        "name": "Complies with Federal Lead Guidelines",
+        "value": "Yes"
+      },
+      {
+        "name": "Safety Listing",
+        "value": "NSF safety listing"
+      },
+      {
+        "name": "Warranty",
+        "value": "1-year limited"
+      },
+      {
+        "name": "UNSPSC",
+        "value": "40171500"
+      }
+    ],
+    "breadcrumbs": [],
+    "buybox_winner": {
+      "price": 14.75,
+      "symbol": "$",
+      "currency": "USD",
+      "unit": "EACH",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "1875",
+          "store_name": "Atlanta-Edgewood Lowe's",
+          "store_state": "GA",
+          "in_stock": true,
+          "stock_level": 24
+        },
+        "scheduled_delivery_info": {
+          "in_stock": true,
+          "stock_level": 39,
+          "lead_time": "05-06-2025-04:00 UTC",
+          "consolidation_date": "05-07-2025-04:00 UTC",
+          "availability_date": "05-06-2025-04:00 UTC"
+        },
+        "ship_to_home_info": {
+          "store_id": "110",
+          "in_stock": true,
+          "stock_level": 46,
+          "parcel_dates": [
+            {
+              "promise_date": "2025-05-09T15:00:00-04:00",
+              "ship_date": "2025-05-07T15:00:00-04:00",
+              "carrier_type": "STANDARD"
+            },
+            {
+              "promise_date": "2025-05-09T15:00:00-04:00",
+              "ship_date": "2025-05-07T15:00:00-04:00",
+              "carrier_type": "TWODAY"
+            },
+            {
+              "promise_date": "2025-05-08T15:00:00-04:00",
+              "ship_date": "2025-05-07T15:00:00-04:00",
+              "carrier_type": "NEXTDAY"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+
+<!-- Add this section near the top of your page, perhaps after the header -->
+<div class="row mb-4">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header bg-dark text-white">
+                <h5 class="mb-0">Application Management</h5>
+            </div>
+            <div class="card-body">
+                <div class="d-flex justify-content-between">
+                    <button id="restartAppBtn" class="btn btn-warning">
+                        <i class="fas fa-sync-alt me-2"></i> Restart App
+                    </button>
+                    <button id="killAppBtn" class="btn btn-danger">
+                        <i class="fas fa-power-off me-2"></i> Kill App
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Add this JavaScript at the end of your page, before the closing </body> tag -->
+<script>
+    // App management functions
+    document.getElementById('restartAppBtn').addEventListener('click', function() {
+        if (confirm('Are you sure you want to restart the application? Any running jobs will be interrupted.')) {
+            fetch('/api/restart', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert('Application restart initiated. Please wait a moment and refresh the page.');
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Failed to restart application: ' + error);
+            });
+        }
+    });
+
+    document.getElementById('killAppBtn').addEventListener('click', function() {
+        if (confirm('Are you sure you want to kill the application? All running jobs will be terminated immediately.')) {
+            fetch('/api/kill', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert('Application shutdown initiated.');
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Failed to kill application: ' + error);
+            });
+        }
+    });
+</script>

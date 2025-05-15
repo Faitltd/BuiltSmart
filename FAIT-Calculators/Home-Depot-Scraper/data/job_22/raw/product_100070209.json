@@ -1,0 +1,169 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14790,
+    "overage_used": 4790,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Veranda-3-4-in-x-4-ft-x-8-ft-Melamine-White-Particleboard-Panel-461877/100070209"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:29:06.912Z",
+    "processed_at": "2025-05-01T19:29:16.709Z",
+    "total_time_taken": 9.8,
+    "homedepot_url": "https://www.homedepot.com/p/Veranda-3-4-in-x-4-ft-x-8-ft-Melamine-White-Particleboard-Panel-461877/100070209"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Veranda-3-4-in-x-4-ft-x-8-ft-Melamine-White-Particleboard-Panel-461877/100070209",
+    "brand": "Veranda",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/Veranda/N-5yc1vZbtn1Z1ko",
+    "title": "Veranda 3/4 in. x 4 ft. x 8 ft. Melamine White Particleboard Panel",
+    "upc": "053608007193",
+    "item_id": "100070209",
+    "store_sku": "461877",
+    "model_number": "461877",
+    "description": "TDL panels are particleboard laminated with a thermally fused paper/resin coating to provide a durable hard surface. Great for making cabinet carcases because it wipes clean easily. Use it, as well, for shop fixtures or to make an economical router-table top. Melamine is resistant to scratches, chemicals and staining.",
+    "favorite_count": 5301,
+    "aisle": "20",
+    "bay": "020",
+    "feature_bullets": [
+      "Highly durable and resistant to scratches and staining.",
+      "Great for cabinets, closets, furniture and much more",
+      "Easy to maintain and clean"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Great for making cabinet carcases. It is inexpensive too",
+      "Melamine is a highly durable product",
+      "It is easy to maintain and clean",
+      "Great also for cabinet liners, desk tops, furniture, closet, store fixtures etc.",
+      "Ideal for cabinets, desk tops, closets, store fixtures, furniture and more",
+      "Easy to maintain and clean",
+      "Resistant to scratches, chemicals and staining",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/67ccf995-4b07-4357-9ac9-e8b9e74d90d7/svn/veranda-mdf-461877-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/67ccf995-4b07-4357-9ac9-e8b9e74d90d7/svn/veranda-mdf-461877-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 464,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "MDF"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "97.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "49 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "melamine sheet",
+      "board",
+      "engineered board",
+      "wood",
+      "engineered wood",
+      "melamine board",
+      "melamine wood",
+      "3/4 in. x 4 ft. x 8-1/8 ft. board",
+      "3/4 in. x 4 ft. x 8-1/8 ft. wood"
+    ],
+    "keywords": "melamine sheet, board, engineered board, wood, engineered wood, melamine board, melamine wood, 3/4 in. x 4 ft. x 8-1/8 ft. board, 3/4 in. x 4 ft. x 8-1/8 ft. wood",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 43.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 42
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 750,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14838,
+    "overage_used": 4838,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Builders-Choice-49-9-16-in-x-1-in-Primed-MDF-Crown-Moulding-Sold-by-Linear-Foot-HDFB149/206061938"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:39:56.033Z",
+    "processed_at": "2025-05-01T19:40:41.606Z",
+    "total_time_taken": 45.57,
+    "homedepot_url": "https://www.homedepot.com/p/Builders-Choice-49-9-16-in-x-1-in-Primed-MDF-Crown-Moulding-Sold-by-Linear-Foot-HDFB149/206061938"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Builders-Choice-49-9-16-in-x-1-in-Primed-MDF-Crown-Moulding-Sold-by-Linear-Foot-HDFB149/206061938",
+    "brand": "Builders Choice",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/Builders-Choice/N-5yc1vZcbjiZflz",
+    "title": "Builders Choice 49 9/16 in. x 1 in. Primed MDF Crown Moulding (Sold by Linear Foot)",
+    "upc": "096037182543",
+    "item_id": "206061938",
+    "parent_id": "327768333",
+    "store_sku": "299725",
+    "model_number": "HDFB149",
+    "description": "Featuring a sleek white surface, primed MDF is a great way to update your rooms and highlight the special care that has gone into your property. MDF crown molding can increase the value of your home or business estate and are an inexpensive way to add character and flair to any home. Crown molding works great to soften the transition from the wall to the ceiling.",
+    "favorite_count": 49,
+    "feature_bullets": [
+      "Designed for leveling out the transition from the wall to ceiling",
+      "MDF construction is resilient to warping",
+      "Primed surface adheres to paint for allowing color coordination"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finest premium MDF for enhanced quality and appearance",
+      "Smooth surface and grain for a superior finish",
+      "Primed for superior paint adhesion and reduced labor costs",
+      "Paint to match your decor",
+      "Can be used in buildups for unique designs",
+      "Designed to be used where the ceiling and wall meet",
+      "Available in random lengths",
+      "Manufacturers and availability may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2aa4cad8-99cf-432f-9e24-89f235582c3c/svn/primed-white-builders-choice-crown-moulding-hdfb149-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2fb73139-ee7a-4592-9bb5-b8d9fff0b2e9/svn/primed-white-builders-choice-crown-moulding-hdfb149-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2aa4cad8-99cf-432f-9e24-89f235582c3c/svn/primed-white-builders-choice-crown-moulding-hdfb149-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 39,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Crown Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "49"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "0.5625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Primed White~~12 ft~~Medium Density Fiberboard (MDF)~~5",
+        "link": "https://www.homedepot.com/p/Builders-Choice-LWM51-9-16-in-x-3-5-8-in-x-144-in-MDF-ProPack-Crown-Moulding-Pack-of-5-HDFB51-PP/203363813",
+        "item_id": "203363813"
+      },
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builders-Choice-49-9-16-in-x-1-in-Primed-MDF-Crown-Moulding-Sold-by-Linear-Foot-HDFB149/206061938",
+        "item_id": "206061938"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Crown Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/N-5yc1vZcbji"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13525,
+    "overage_used": 3525,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-1-2-in-x-3-4-in-x-8-ft-Oak-Wood-Shoe-Moulding-9550/203116455"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:47:07.130Z",
+    "processed_at": "2025-05-01T16:47:12.784Z",
+    "total_time_taken": 5.65,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-1-2-in-x-3-4-in-x-8-ft-Oak-Wood-Shoe-Moulding-9550/203116455"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-1-2-in-x-3-4-in-x-8-ft-Oak-Wood-Shoe-Moulding-9550/203116455",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/HOUSE-OF-FARA/N-5yc1vZ2fkp9hdZucc",
+    "title": "HOUSE OF FARA 1/2 in. x 3/4 in. x 8 ft. Oak Wood Shoe Moulding",
+    "upc": "043559895505",
+    "item_id": "203116455",
+    "store_sku": "1000363779",
+    "model_number": "9550",
+    "description": "Try this House of Fara 1/2 in. x 3/4 in. x 8 ft. Oak Shoe (WM126) moulding if you ft.re looking to add interest and dimension to your room. This solid red oak moulding adds a touch of charming old-fashioned elegance. Manufactured from solid hardwood, it may be clear-coated, stained or painted to match your existing decor. Its unique detail will add an architectural touch to any room or project.",
+    "favorite_count": 136,
+    "feature_bullets": [
+      "Oakwood construction offers reliability, style, and perfection",
+      "Can be clear coated, painted or stained to match the decor",
+      "Shoe molding elegantly covers joint and adds a visual appeal"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Solid red oak moulding",
+      "May be clear-coated, stained or painted",
+      "Add an architectural touch to any room or project",
+      "Solid oak moulding adds charming old-fashioned elegance",
+      "Great for a variety of projects"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7be6fffa-4dc5-42ab-9e06-e1abbdf8f8b0/svn/oak-house-of-fara-shoe-moulding-9550-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/21570bf6-ca51-4e6c-bdf5-448aed6da38c/svn/oak-house-of-fara-shoe-moulding-9550-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/961e5b1e-53ab-4b6b-ab21-3b0a3dda4176/svn/oak-house-of-fara-shoe-moulding-9550-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39b0b7c0-2963-4cf9-bf9d-018414ffdb27/svn/oak-house-of-fara-shoe-moulding-9550-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7be6fffa-4dc5-42ab-9e06-e1abbdf8f8b0/svn/oak-house-of-fara-shoe-moulding-9550-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 48,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Oak"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Shoe Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "9550"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Satisfaction Guaranteed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "keywords_list": [
+      "House of Fara",
+      "1/2 in. x 3/4 in. x 8 ft. Oak Shoe (WM126)",
+      "9550"
+    ],
+    "keywords": "House of Fara, 1/2 in. x 3/4 in. x 8 ft. Oak Shoe (WM126), 9550",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Shoe Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/N-5yc1vZ2fkp9hd"
+      }
+    ],
+    "buybox_winner": {
+      "price": 9.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 398,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 398,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

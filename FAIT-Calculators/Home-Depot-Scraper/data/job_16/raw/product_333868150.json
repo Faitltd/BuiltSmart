@@ -1,0 +1,195 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14104,
+    "overage_used": 4104,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/ProWood-15-32-in-x-2-ft-x-2-ft-Sanded-Plywood-Project-Panel-109118/333868150"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:55:38.890Z",
+    "processed_at": "2025-05-01T17:55:43.326Z",
+    "total_time_taken": 4.44,
+    "homedepot_url": "https://www.homedepot.com/p/ProWood-15-32-in-x-2-ft-x-2-ft-Sanded-Plywood-Project-Panel-109118/333868150"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/ProWood-15-32-in-x-2-ft-x-2-ft-Sanded-Plywood-Project-Panel-109118/333868150",
+    "brand": "ProWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/ProWood/N-5yc1vZc7hmZn9a",
+    "title": "ProWood 15/32 in. x 2 ft. x 2 ft. Sanded Plywood Project Panel",
+    "upc": "090489767808",
+    "item_id": "333868150",
+    "store_sku": "1013870013",
+    "model_number": "109118",
+    "description": "Give your holiday tree a sturdy foundation with this versatile plywood panel at its base. Perfect for enhancing the stability of any traditional tree stand, this ready-to-customize panel can be painted or stained to complement the rest of your holiday decor. Made from planet-friendly material and sized for easy handling, it adds both safety and protection to your holiday tree display, indoors or out.",
+    "feature_bullets": [
+      "Place on floor under normal tree stand for enhanced stability",
+      "Paint or stain to match stand, flooring or other holiday decor",
+      "Right-sized for easy transportation and annual setup/storage"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Adds critical stability: 15/32 in. plywood provides a solid, stable, durable foundation for supporting holiday trees, reducing the risk of tipping",
+      "Protects flooring: prevents water and other debris from staining carpet and keeps your tree stand from scratching or denting your flooring, etc",
+      "DIY-friendly: personalize as a tree support or use as a blank canvas for a host of other holiday decor projects perfectly sized for easy handling",
+      "Weather-resistant: when properly sealed, this southern yellow pine plywood can be used outdoors on porches, patios, etc",
+      "Eco-friendly: made from the most renewable resource on earth - sustainably sourced wood - for years of planet-friendly holidays",
+      "Actual dimensions: 0.47 in. x 23.75 in. x 23.75 in. Tolerance: +/- 1/4 in.",
+      "Weight: approx. 4 lbs."
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1a61dc75-775e-41c9-9d95-daee76cb39f3/svn/prowood-project-panels-109118-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/02f80b44-e500-45de-b58e-9fe3b1b4a6e9/svn/prowood-project-panels-109118-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/66d44ecd-3602-49c7-ae17-dd00f81e34e3/svn/prowood-project-panels-109118-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eb81a029-75f2-46a1-a6e5-d420103cdcdf/svn/prowood-project-panels-109118-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/71dd64cc-cfd5-4a6c-95f9-cebe49642b2a/svn/prowood-project-panels-109118-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/13109aba-a6cd-4769-abbf-a5de69f3c7b3/svn/prowood-project-panels-109118-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e8eb942b-4eb3-4ffc-8a7e-40569ff6bd2c/svn/prowood-project-panels-109118-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1a61dc75-775e-41c9-9d95-daee76cb39f3/svn/prowood-project-panels-109118-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 539,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Sanded Plywood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "23.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.45 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "23.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 22.93,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 200,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        }
+      }
+    }
+  }
+}

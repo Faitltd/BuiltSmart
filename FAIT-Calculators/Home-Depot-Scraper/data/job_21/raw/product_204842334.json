@@ -1,0 +1,285 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14469,
+    "overage_used": 4469,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-2x12-Nominal-Lumber-HU212TF/204842334"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:42:02.705Z",
+    "processed_at": "2025-05-01T18:42:08.218Z",
+    "total_time_taken": 5.51,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-2x12-Nominal-Lumber-HU212TF/204842334"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-2x12-Nominal-Lumber-HU212TF/204842334",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/Simpson-Strong-Tie/N-5yc1vZaqxbZ615",
+    "title": "Simpson Strong-Tie HU Galvanized Top-Flange Joist Hanger for 2x12 Nominal Lumber",
+    "upc": "044315391507",
+    "item_id": "204842334",
+    "parent_id": "313965393",
+    "store_sku": "1000061294",
+    "model_number": "HU212TF",
+    "description": "The HUTF is a hybrid hanger that incorporates the advantages of both face-mount and top-mount hangers. This heavy-duty, top-flange joist hanger features face-nailing that allows the hanger to be securely attached to the member. The HUTF is available with one \"A\" flange concealed.",
+    "favorite_count": 2,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Rough beam sizes are available by special order",
+      "The hanger can be skewed a maximum of 45-degrees or sloped downward to a maximum of 45-degrees",
+      "HUTF-series hangers are tested, load rated and code compliant",
+      "Seat width: 1-9/16-in",
+      "Nominal joist size: 2x12",
+      "Made from 12-Gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with 0.148 in. x 3 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-in-x-0-148-in-SCN-Smooth-Shank-HDG-Connector-Nail-50-Pack-10DHDG-R/206101773\" target=\"_blank\" style=\"color:#F96302;\">10DHDG</a>) and 0.162 in. x 3-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">16DHDG</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6cac75e4-0049-4494-9c7b-b6ad6385b6a9/svn/simpson-strong-tie-joist-hangers-hu212tf-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45a62be2-6347-401d-8606-afc663fb9b9f/svn/simpson-strong-tie-joist-hangers-hu212tf-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/58a05a40-fb5c-41af-8d85-5a5e00e0f714/svn/simpson-strong-tie-joist-hangers-hu212tf-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-joist-hangers-hu212tf-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-joist-hangers-hu212tf-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6cac75e4-0049-4494-9c7b-b6ad6385b6a9/svn/simpson-strong-tie-joist-hangers-hu212tf-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/be551faa-1b46-408f-905b-a33f1135ef4e/5a4778d9-2b93-4c41-981c-0d542f6b37fe/main.mp4?fastly_token=NjgzODMwMGJfMGZjY2Y5NzJlN2M2OTAzYjY2M2EwMzllYzc3OGRiYjU4Njg5ZGFjNzlhZTgzYTc0YjgyMDBiNmIyZDVjYWJkNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iZTU1MWZhYS0xYjQ2LTQwOGYtOTA1Yi1hMzNmMTEzNWVmNGUvNWE0Nzc4ZDktMmI5My00YzQxLTk4MWMtMGQ1NDJmNmIzN2ZlL21haW4ubXA0&pubid=66036796001",
+        "title": "Build a Stronger Deck: Joist Connections",
+        "id": "6183648472001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/be551faa-1b46-408f-905b-a33f1135ef4e/cceca938-b06c-4399-b704-9117aa084d54/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Deck joists may terminate at a beam or ledger, rest on top of the beams, or terminate at the rim board. We highlight the available joist connection options to help you select what\u2019s best for your project."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 15,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Flange Type",
+        "value": "Top Flange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Modifications",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.71 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Joist Hanger Size",
+        "value": "2x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "10.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.8 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "2x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-2x8-Nominal-Lumber-HU28TF/205227163",
+        "item_id": "205227163"
+      },
+      {
+        "title": "2x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-2x6-Nominal-Lumber-HU26TF/205227162",
+        "item_id": "205227162"
+      },
+      {
+        "title": "2x4",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-2x4-Nominal-Lumber-HU24TF/205227160",
+        "item_id": "205227160"
+      },
+      {
+        "title": "Double 2x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-Double-2x8-Nominal-Lumber-HU28-2TF/204842337",
+        "item_id": "204842337"
+      },
+      {
+        "title": "2x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-2x10-Nominal-Lumber-HU210TF/205227155",
+        "item_id": "205227155"
+      },
+      {
+        "title": "4x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-4x10-Nominal-Lumber-HU410TF/205227170",
+        "item_id": "205227170"
+      },
+      {
+        "title": "2x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-2x12-Nominal-Lumber-HU212TF/204842334",
+        "item_id": "204842334"
+      },
+      {
+        "title": "4x4",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-4x4-Nominal-Lumber-HU44TF/205227173",
+        "item_id": "205227173"
+      },
+      {
+        "title": "Double 2x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-Double-2x10-Nominal-Lumber-HU210-2TF/204842331",
+        "item_id": "204842331"
+      },
+      {
+        "title": "Triple 2x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-Triple-2x12-Nominal-Lumber-HU212-3TF/205227157",
+        "item_id": "205227157"
+      },
+      {
+        "title": "4x3",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-4x3-Nominal-Lumber-HU43TF/205227172",
+        "item_id": "205227172"
+      },
+      {
+        "title": "Double 2x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Top-Flange-Joist-Hanger-for-Double-2x12-Nominal-Lumber-HU212-2TF/205227156",
+        "item_id": "205227156"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Joist Hangers",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/N-5yc1vZaqxb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 27.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 50,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 50,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

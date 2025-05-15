@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13535,
+    "overage_used": 3535,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-1-2-in-x-3-4-in-Pine-S4S-Moulding-P360/100321645"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:48:27.360Z",
+    "processed_at": "2025-05-01T16:48:36.656Z",
+    "total_time_taken": 9.3,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-1-2-in-x-3-4-in-Pine-S4S-Moulding-P360/100321645"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-1-2-in-x-3-4-in-Pine-S4S-Moulding-P360/100321645",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Kelleher/N-5yc1vZcbj5Z4z5",
+    "title": "Kelleher 1/2 in. x 3/4 in. Pine S4S Moulding",
+    "upc": "099443113521",
+    "item_id": "100321645",
+    "store_sku": "143332",
+    "model_number": "P360",
+    "description": "The Kelleher 3/4 in. x 1/2 in. S4S is a multi-purposes moulding. It is smooth on 4 sides. Use it to where any flat piece of wood is needed. It is also used in many crafts. projects.",
+    "favorite_count": 5,
+    "aisle": "FW",
+    "bay": "025",
+    "feature_bullets": [
+      "Crafted from solid pinewood for lasting durability",
+      "Suitable for versatile projects and DIY crafts",
+      "Customizable with clear varnish or stains for elegance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from solid pine",
+      "Apply clear varnish to bring out the natural beauty",
+      "Apply stain, light to dark finishes, to match your home decor",
+      "Sold by the linear ft.",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a6f3561f-3faf-4a4c-996e-c0bd8f0f6741/svn/unfinished-kelleher-general-purpose-moulding-p360-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5e3139f1-b46d-457d-8871-907bb2da54fc/svn/unfinished-kelleher-general-purpose-moulding-p360-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a6f3561f-3faf-4a4c-996e-c0bd8f0f6741/svn/unfinished-kelleher-general-purpose-moulding-p360-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 3,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "S4S Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "360"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "S4S moulding",
+      "building supply",
+      "S4S building supply",
+      "building supplies",
+      "S4S building supplies",
+      "pine moulding",
+      "pine building supply",
+      "pine building supplies",
+      "paintable moulding",
+      "paintable building supply",
+      "paintable building supplies"
+    ],
+    "keywords": "moulding, S4S moulding, building supply, S4S building supply, building supplies, S4S building supplies, pine moulding, pine building supply, pine building supplies, paintable moulding, paintable building supply, paintable building supplies",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.16,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1054
+        }
+      }
+    }
+  }
+}

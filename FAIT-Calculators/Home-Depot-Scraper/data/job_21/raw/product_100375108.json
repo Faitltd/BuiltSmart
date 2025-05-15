@@ -1,0 +1,251 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14512,
+    "overage_used": 4512,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-LB-Galvanized-Top-Flange-Joist-Hanger-for-2x8-Nominal-Lumber-LB28/100375108"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:46:23.753Z",
+    "processed_at": "2025-05-01T18:46:29.073Z",
+    "total_time_taken": 5.32,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-LB-Galvanized-Top-Flange-Joist-Hanger-for-2x8-Nominal-Lumber-LB28/100375108"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-LB-Galvanized-Top-Flange-Joist-Hanger-for-2x8-Nominal-Lumber-LB28/100375108",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/Simpson-Strong-Tie/N-5yc1vZaqxbZ615",
+    "title": "Simpson Strong-Tie LB Galvanized Top-Flange Joist Hanger for 2x8 Nominal Lumber",
+    "upc": "044315661501",
+    "item_id": "100375108",
+    "parent_id": "312092313",
+    "store_sku": "976935",
+    "model_number": "LB28",
+    "description": "Joist hangers are designed to provide support underneath the joist, rafter or beam to provide a strong a connection. Simpson Strong-Tie offers a diverse line of hangers to handle almost any application with top flange, concealed flange and field-skewable and slopeable options. LB top-flange hangers are suitable for joist, beam or purlin use.",
+    "favorite_count": 48,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Designed to help resist download forces",
+      "The unique two-level embossment provides added stiffness to the top flange",
+      "Quick installation",
+      "Nominal joist size: 2x8",
+      "Made from 14-gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with 0.148 in. x 1-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-1-1-2-in-x-0-148-in-SCN-Smooth-Shank-HDG-Connector-Nail-120-Pack-N10DHDG-R/206101770\" target=\"_blank\" style=\"color:#F96302;\">N10DHDG</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c5338f03-173e-49d5-834a-3192065dd5dc/svn/simpson-strong-tie-joist-hangers-lb28-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1be34e2b-bccf-4ad7-b77e-f4ce3cd084e9/svn/simpson-strong-tie-joist-hangers-lb28-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a931c35-db70-4605-a287-70f58b58e64f/svn/simpson-strong-tie-joist-hangers-lb28-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-joist-hangers-lb28-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c1a63a08-760a-4c8b-9c1d-a6f402ae5a3b/svn/simpson-strong-tie-joist-hangers-lb28-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-joist-hangers-lb28-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c5338f03-173e-49d5-834a-3192065dd5dc/svn/simpson-strong-tie-joist-hangers-lb28-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxM2FhYWVfNjc1ZjhkNDZmNmE2NmRiNDU4ODJlOGM5NzhhODRhY2IzMjVjMjAyOWRhMmM3MGI3OWFjMGVmYWE4N2JmOTIwYV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 29,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "14"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Flange Type",
+        "value": "Top Flange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Modifications",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.58 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Joist Hanger Size",
+        "value": "2x8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "7.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "2.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.56 in"
+      }
+    ],
+    "keywords_list": [
+      "connector",
+      "galvanized connector",
+      "joist hanger",
+      "galvanized joist hanger",
+      "steel connector",
+      "steel joist hanger",
+      "SIMPSON STRONG-TIE connector"
+    ],
+    "keywords": "connector, galvanized connector, joist hanger, galvanized joist hanger, steel connector, steel joist hanger, SIMPSON STRONG-TIE connector",
+    "variants": [
+      {
+        "title": "2x12",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-LBAZ-ZMAX-Galvanized-Light-Bent-Top-Flange-Joist-Hanger-for-2x12-Nominal-Lumber-LB212AZ/205857682",
+        "item_id": "205857682"
+      },
+      {
+        "title": "2x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-LB-Galvanized-Top-Flange-Joist-Hanger-for-2x6-Nominal-Lumber-LB26/100375109",
+        "item_id": "100375109"
+      },
+      {
+        "title": "2x8",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-LB-Galvanized-Top-Flange-Joist-Hanger-for-2x8-Nominal-Lumber-LB28/100375108",
+        "item_id": "100375108"
+      },
+      {
+        "title": "2x10",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-LB-ZMAX-Galvanized-Top-Flange-Joist-Hanger-for-2x10-Nominal-Lumber-LB210AZ/205857690",
+        "item_id": "205857690"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Joist Hangers",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/N-5yc1vZaqxb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 249,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 249,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

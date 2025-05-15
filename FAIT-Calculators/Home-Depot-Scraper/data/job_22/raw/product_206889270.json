@@ -1,0 +1,190 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14813,
+    "overage_used": 4813,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/WeatherShield-2-in-x-6-in-x-12-ft-2-Prime-Pressure-Treated-Ground-Contact-Southern-Pine-Lumber-2331255/206889270"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:31:58.532Z",
+    "processed_at": "2025-05-01T19:32:02.945Z",
+    "total_time_taken": 4.41,
+    "homedepot_url": "https://www.homedepot.com/p/WeatherShield-2-in-x-6-in-x-12-ft-2-Prime-Pressure-Treated-Ground-Contact-Southern-Pine-Lumber-2331255/206889270"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-6-in-x-12-ft-2-Prime-Pressure-Treated-Ground-Contact-Southern-Pine-Lumber-2331255/206889270",
+    "brand": "WeatherShield",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/WeatherShield/N-5yc1vZc3srZ4l6",
+    "title": "WeatherShield 2 in. x 6 in. x 12 ft. #2 Prime Pressure-Treated Ground Contact Southern Pine Lumber",
+    "upc": "098168700597",
+    "item_id": "206889270",
+    "store_sku": "1001753914",
+    "model_number": "2331255",
+    "description": "Every piece meets the highest grading standards for strength and appearance. This lumber is pressure-treated with micronized copper azole in order to protect it from termites, fungal decay and rot. Ideal for a variety of applications, including decks, play sets, landscaping, stair support, walkways and other outdoor projects where lumber is exposed to the elements. This lumber can be painted or stained. When used properly, it is both safe and environmentally friendly.",
+    "favorite_count": 1280,
+    "aisle": "22",
+    "bay": "004",
+    "feature_bullets": [
+      "For outdoor playsets, decks, walkways, landscaping, and more",
+      "Can be stained or painted to match your existing decor",
+      "Pressure treated to provide resistance against rot/decay/termites"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Pressure-treated for long-term protection against rot, fungal decay and termite attack",
+      "Treated for ground contact applications",
+      "Treatment process has achieved a number of environmental certifications",
+      "Lifetime limited warranty",
+      "Hot-dipped galvanized fasteners recommended",
+      "<a href=\"https://www.homedepot.com/c/discover_benefit_pressure_treated_wood_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to discover the benefits of pressure treated wood</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/49b04e2b-7680-4e98-aaaa-c2aa8ac3f5d4/svn/brown-weathershield-pressure-treated-lumber-2331255-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/49b04e2b-7680-4e98-aaaa-c2aa8ac3f5d4/svn/brown-weathershield-pressure-treated-lumber-2331255-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/60192e84-0d9a-4f2a-9f75-7fdb533e41f1/9afaddba-98cf-4618-909e-5a3bc55da565/main.mp4?fastly_token=NjgxMzgxNGJfNGYwZWQ0MDZjZmNmYThmMjRlMTNjZWYwNmQ3MzczZjY4ZGQ2MzNlMTlmZGJkZTU1NGU4MjZjOGEzMjUwNWUyMV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjAxOTJlODQtMGQ5YS00ZjJhLTlmNzUtN2ZkYjUzM2U0MWYxLzlhZmFkZGJhLTk4Y2YtNDYxOC05MDllLTVhM2JjNTVkYTU2NS9tYWluLm1wNA%3D%3D",
+        "title": "Choosing Pressure Treated Wood",
+        "id": "4292649396001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/60192e84-0d9a-4f2a-9f75-7fdb533e41f1/e11a56ea-be04-4a87-879a-3b72473efeed/160x90/match/image.jpg",
+        "description": "If you\u2019re tackling any outdoor building project such as a deck, fence, or arbor, you should plan on using pressure-treated wood.  Here are the basics on what you need to know when shopping for your project."
+      }
+    ],
+    "ratings_total": 658,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chemical retention (lb./cu. ft.)",
+        "value": "0.15 lb/ft3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Galvanized Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Pressure Treated,Stainable,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 prime"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Southern Yellow Pine"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pressure Treatment Chemical",
+        "value": "MCA - Micronized Copper Azole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Southern Pine"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Pressure Treated Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/N-5yc1vZc3sr"
+      }
+    ],
+    "buybox_winner": {
+      "price": 12.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 298
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 3480,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

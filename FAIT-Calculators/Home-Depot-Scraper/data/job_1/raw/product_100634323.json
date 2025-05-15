@@ -1,0 +1,330 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12926,
+    "overage_used": 2926,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-10-1-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-18425/100634323"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:35:08.825Z",
+    "processed_at": "2025-05-01T13:35:15.559Z",
+    "total_time_taken": 6.73,
+    "homedepot_url": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-10-1-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-18425/100634323"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-10-1-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-18425/100634323",
+    "brand": "DAP",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/DAP/N-5yc1vZcibhZ1wf",
+    "title": "DAP Alex Fast Dry 10.1 oz. White Acrylic Latex Plus Silicone Caulk",
+    "upc": "070798184251",
+    "item_id": "100634323",
+    "parent_id": "335744598",
+    "store_sku": "753709",
+    "model_number": "18425",
+    "description": "DAP Alex Fast Dry Acrylic Latex Caulk Plus Silicone is specifically formulated to meet the demanding needs of Professional Painters and deliver outstanding paint finish results. It can be brush painted in 20 minutes after application or spray painted immediately, so the job gets finished faster. Durable, flexible, white caulk won't crack or discolor paint and doesn't pick up dirt. It has outstanding adhesion to a wide variety of surfaces and provides a 100% waterproof seal. It applies smoothly and easily. Cured caulk is mold and mildew resistant. Exceeds ASTM Specification C834. Interior/exterior use.",
+    "is_bestseller": true,
+    "favorite_count": 1853,
+    "aisle": "32",
+    "bay": "SC1",
+    "feature_bullets": [
+      "Latex caulk seals cracks and gaps around windows, doors and more",
+      "Strong, durable adhesion to multiple surfaces and 100% waterproof",
+      "Crack resistant and paint ready after 20 minutes of application"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Paintable caulk is paint ready in 20 minutes with brush or immediately with spray paint",
+      "Fast drying caulk works on many surfaces including wood, plaster, drywall",
+      "Top applications include baseboards, crown molding, interior door casings and interior wood trim",
+      "White caulk won't shine through or discolor paint, is low in odor and has easy water clean-up",
+      "Acrylic latex caulk with silicone works for interior and exterior paint projects",
+      "Fast dry caulk is ready for brush on paint in 20 minutes and finishes projects quickly",
+      "100% waterproof painters caulk is mold and mildew resistant when cured",
+      "Fully cures in 24 hours"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1b6476c1-0db0-46e7-967d-db187cb7113e/svn/white-dap-caulk-18425-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d069288f-ba8c-445b-a887-9960e079dea5/svn/white-dap-caulk-18425-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/98a6e2b2-fbd7-4732-a860-64044cb22fac/svn/white-dap-caulk-18425-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7f613ba2-22d1-4399-b1cd-3b8df9263b8d/svn/white-dap-caulk-18425-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9b145a2c-0dc6-4189-b09a-284c62ea0d71/svn/white-dap-caulk-18425-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cb48532e-a59f-4123-b7e9-7884852773d8/svn/white-dap-caulk-18425-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8820f16e-571f-4cab-ae3a-d76f9c4e008c/svn/white-dap-caulk-18425-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eaad7ae5-cdf5-48e1-853e-544e9b663f6e/svn/white-dap-caulk-18425-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9690817d-2e0e-4f88-bbe3-a40f5e5fa495/svn/white-dap-caulk-18425-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9b7cc889-644f-4c14-abdd-620738d3e66c/svn/white-dap-caulk-18425-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4df29b30-b8a1-4520-8b3e-ba3b1a7d1e22/svn/white-dap-caulk-18425-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1b6476c1-0db0-46e7-967d-db187cb7113e/svn/white-dap-caulk-18425-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/01dc413b-32dc-4a64-8291-66345737b175/a44333db-33e5-4df2-b2e9-5b852b32cee3/main.mp4?fastly_token=NjgxMzkyNWZfYzc0MmRlMzJiNWNiZTVjMGQxNzZjNDlmYmE3ZTc2OWU3NmNjMWI4NGFjZDAwODFiMDAzNGE0N2NhMzNhZDQ4N18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMDFkYzQxM2ItMzJkYy00YTY0LTgyOTEtNjYzNDU3MzdiMTc1L2E0NDMzM2RiLTMzZTUtNGRmMi1iMmU5LTViODUyYjMyY2VlMy9tYWluLm1wNA%3D%3D",
+        "title": "DAP Alex Plus vs. AMP Caulk",
+        "id": "6306845630112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/01dc413b-32dc-4a64-8291-66345737b175/main/160x90/36s309ms/match/image.jpg",
+        "description": "Select the right caulk for your project\n"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 2119,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Multipurpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Latex"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "55"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "15 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Alex Fast Dry"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Warranty Information: If you are not satisfied with this products performance when used as directed, return used container and sales receipt to DAP Inc., Technical Customer Service, 2400 Boston Street, Suite 200, Baltimore, MD 21224 for product replacement or sales price refund. DAP will not be liable for incidental or consequential damages."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10.1 oz"
+      }
+    ],
+    "keywords_list": [
+      "colored caulks",
+      "color caulks",
+      "",
+      "caulk",
+      "fast-drying caulk",
+      "sealant",
+      "fast-drying sealant",
+      "sealants",
+      "fast-drying sealants",
+      "flexible caulk",
+      "flexible sealant",
+      "flexible sealants",
+      "paintable caulk",
+      "paintable sealant",
+      "paintable sealants",
+      "DAP caulk",
+      "DAP sealant"
+    ],
+    "keywords": "colored caulks, color caulks,, caulk, fast-drying caulk, sealant, fast-drying sealant, sealants, fast-drying sealants, flexible caulk, flexible sealant, flexible sealants, paintable caulk, paintable sealant, paintable sealants, DAP caulk, DAP sealant",
+    "variants": [
+      {
+        "title": "White~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-10-1-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-2-Pack-18425/317619146",
+        "item_id": "317619146"
+      },
+      {
+        "title": "White~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-10-1-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-Contractor-12-Pack-18426/100634331",
+        "item_id": "100634331"
+      },
+      {
+        "title": "White~~5.5 oz~~4",
+        "link": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-5-5-oz-4-Pack-7079818436/323962137",
+        "item_id": "323962137"
+      },
+      {
+        "title": "White~~5.5 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Alex-5-5-oz-Fast-Dry-White-Acrylic-Latex-Plus-Silicone-Caulk-2-Pack-18436/317954922",
+        "item_id": "317954922"
+      },
+      {
+        "title": "White~~10.1 oz~~4",
+        "link": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-White-10-1-oz-4-Pack-7079818425/323961525",
+        "item_id": "323961525"
+      },
+      {
+        "title": "White~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-10-1-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-18425/100634323",
+        "item_id": "100634323"
+      },
+      {
+        "title": "White~~5.5 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Alex-Fast-Dry-5-5-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-18436/206046711",
+        "item_id": "206046711"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2064
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 2445,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 547,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

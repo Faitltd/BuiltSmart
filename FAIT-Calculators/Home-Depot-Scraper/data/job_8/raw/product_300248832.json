@@ -1,0 +1,251 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13517,
+    "overage_used": 3517,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grip-Rite-9-x-2-1-2-in-Star-Drive-Bugle-Head-Coarse-Thread-Coated-Deck-Screws-40-per-Box-P212STGD40/300248832"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:46:04.109Z",
+    "processed_at": "2025-05-01T16:46:10.910Z",
+    "total_time_taken": 6.8,
+    "homedepot_url": "https://www.homedepot.com/p/Grip-Rite-9-x-2-1-2-in-Star-Drive-Bugle-Head-Coarse-Thread-Coated-Deck-Screws-40-per-Box-P212STGD40/300248832"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grip-Rite-9-x-2-1-2-in-Star-Drive-Bugle-Head-Coarse-Thread-Coated-Deck-Screws-40-per-Box-P212STGD40/300248832",
+    "brand": "Grip-Rite",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Grip-Rite/N-5yc1vZ2fkpe61Z5kt",
+    "title": "Grip-Rite #9 x 2-1/2 in. Star Drive Bugle Head Coarse Thread Coated Deck Screws 40 per Box",
+    "upc": "764666708167",
+    "item_id": "300248832",
+    "parent_id": "320220170",
+    "store_sku": "1002149888",
+    "model_number": "P212STGD40",
+    "description": "Grip-Rite P212STGD40 #9 x 2-1/2 in. Gold exterior self-starting flat head wood deck screws feature a T17 point for easy, hassle-free installation. PrimeGuard Plus zinc coating protects these fasteners from corrosion and rust, prolonging the life of your deck. Improved thread design and nibs under the drive head reduce slippage in your treated wood and wood to wood deck.",
+    "favorite_count": 81,
+    "aisle": "17",
+    "bay": "009",
+    "feature_bullets": [
+      "#9 x 2-1/2 in. screws designed for wood decking",
+      "Hand drive fastener for use in wood to wood applications",
+      "Made from high strength steel for robust durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used for exterior wood to wood and treated wood applications",
+      "Durable steel construction",
+      "PrimeGuard Plus coated for resistance to corrosion and rust",
+      "#9 x 2-1/2 in. screws for treated wood applications and carpentry",
+      "Star drive allows more torque for fast driving and fewer cam outs",
+      "Coarse threads for a tight bond between materials",
+      "Includes 40 #9 x 2-1/2 in. wood deck screws",
+      "Common project applications: remodeling, fencing, storage, cabinets, framing"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/84d74f9b-4856-4bb1-b693-f7d397726c5c/svn/grip-rite-deck-screws-p212stgd40-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b7b76543-d819-4e99-9057-c2d246bc2b14/svn/grip-rite-deck-screws-p212stgd40-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e8a26039-8145-4ae1-bb52-976473ec24ab/svn/grip-rite-deck-screws-p212stgd40-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/da9d962f-669c-491b-aeae-2b1878588e2f/svn/grip-rite-deck-screws-p212stgd40-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4b665c57-57af-4984-8155-71c360db5d31/svn/grip-rite-deck-screws-p212stgd40-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f1731f98-100e-4bca-91ab-015cc7e0caa8/svn/grip-rite-deck-screws-p212stgd40-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0061f3af-3e23-4cbf-b96c-2b14ee0d7738/svn/grip-rite-deck-screws-p212stgd40-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3042d607-68de-467d-8477-535dfef1c49d/svn/grip-rite-deck-screws-p212stgd40-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/84d74f9b-4856-4bb1-b693-f7d397726c5c/svn/grip-rite-deck-screws-p212stgd40-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ad447cd5-7f05-40c4-bf50-896ddf937d3d/e8295825-18d3-417b-a9d9-a0475e07a158/main.mp4?fastly_token=NjgxM2MxMjFfMmVjYjc3ZjgyNTMxNDk4YmRjMTdmYzg3OTBhNDUwNzZlNGZjZDc4NTRjODFiMmNjMzU3ZTM4MGMwOTQ0MmRmNF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYWQ0NDdjZDUtN2YwNS00MGM0LWJmNTAtODk2ZGRmOTM3ZDNkL2U4Mjk1ODI1LTE4ZDMtNDE3Yi1hOWQ5LWEwNDc1ZTA3YTE1OC9tYWluLm1wNA%3D%3D",
+        "title": "Grip-Rite Exterior Screw Video",
+        "id": "6362507845112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/ad447cd5-7f05-40c4-bf50-896ddf937d3d/main/160x90/15s40ms/match/image.jpg",
+        "description": "Grip-Rite Exterior Screws\n"
+      }
+    ],
+    "ratings_total": 181,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gold"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated,Tamper Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish",
+        "value": "Gold"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Family",
+        "value": "Gold"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "40"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.50 lb"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#9"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Thread Pitch (mm)",
+        "value": "9 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Threads Per Inch (TPI)",
+        "value": "0.143"
+      }
+    ],
+    "size": "#9",
+    "variants": [
+      {
+        "title": "2-1/2 in~~#9~~0.50 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-9-x-2-1-2-in-Star-Drive-Bugle-Head-Coarse-Thread-Coated-Deck-Screws-40-per-Box-P212STGD40/300248832",
+        "item_id": "300248832"
+      },
+      {
+        "title": "1-5/8 in~~#8~~0.50 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-8-x-1-5-8-in-Star-Drive-Bugle-Head-Coarse-Thread-Coated-Deck-Screws-67-per-Box-P158STGD67/300248831",
+        "item_id": "300248831"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 16
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

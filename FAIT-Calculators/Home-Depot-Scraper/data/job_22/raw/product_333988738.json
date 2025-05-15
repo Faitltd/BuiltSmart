@@ -1,0 +1,191 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14794,
+    "overage_used": 4794,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/WILSON-Basswood-Natural-Wood-Round-Slices-Project-Panel-4-pack-50800-50080/333988738"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:29:40.222Z",
+    "processed_at": "2025-05-01T19:29:44.671Z",
+    "total_time_taken": 4.45,
+    "homedepot_url": "https://www.homedepot.com/p/WILSON-Basswood-Natural-Wood-Round-Slices-Project-Panel-4-pack-50800-50080/333988738"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/WILSON-Basswood-Natural-Wood-Round-Slices-Project-Panel-4-pack-50800-50080/333988738",
+    "brand": "WILSON",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/WILSON/N-5yc1vZc7hmZzf6",
+    "title": "WILSON Basswood Natural Wood Round Slices Project Panel (4-pack) (50800)",
+    "upc": "734343508007",
+    "item_id": "333988738",
+    "parent_id": "333988476",
+    "store_sku": "1013431425",
+    "model_number": "50080",
+    "description": "Basswood rounds are perfect for your country, cabin, or rustic themed event or craft. Use as a centerpiece to display vases, bouquets, candles, or mason jars with fresh wildflowers. These slices are cut, kiln dried, and left un-sanded for a natural, rustic feel. These pieces may also have natural imperfections such as small cracks, loose or removed pieces of bark, blemishes, or knots. Feature an unsanded surface and a refined sanded surface. The refined surface opens the door to new applications such as painting, woodburning, decoupage, and other crafts.",
+    "feature_bullets": [
+      "Made of high-quality wood for durability",
+      "Ideal as an accent piece, centerpiece or decorative item"
+    ],
+    "feature_bullets_count": 2,
+    "descriptive_attributes": [
+      "Each wood slice is approximately 9-12 in. Dia. x 1 in. thick",
+      "Each piece is sanded smooth on one side and unsanded on the other for decor and crafting versatility",
+      "Proudly made in michigan's upperp peninsula",
+      "Kiln dried to preserve the integrity of the raw bark edges",
+      "Each product is unique and carries its own natural characteristics as this is a natural product and may not match the picture identically"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c49b29db-d485-47c0-89fe-8c42f7fc31cf/svn/wilson-project-panels-50080-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0316248f-cde7-4f13-a368-6e2f5f9956f0/svn/wilson-project-panels-50080-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/884dae94-7213-4f3d-aea9-dee37f8f75c8/svn/wilson-project-panels-50080-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/edb5e924-f0e4-4cfb-8145-5087f6202ce0/svn/wilson-project-panels-50080-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fb2f4f48-21ec-4d43-aa90-cdf3608df82f/svn/wilson-project-panels-50080-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c49b29db-d485-47c0-89fe-8c42f7fc31cf/svn/wilson-project-panels-50080-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardwood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Appearance Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "We guarantee that our product will be free of defect upon delivery."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "12.00 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "1"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1 ft. x 1 ft.~~1~~Basswood",
+        "link": "https://www.homedepot.com/p/WILSON-Basswood-Natural-Wood-Round-Slices-Project-Panel-4-pack-50800-50080/333988738",
+        "item_id": "333988738"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 99,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 99,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14960,
+    "overage_used": 4960,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fluidmaster-400A-Universal-Toilet-Fill-Valve-400ARP25/100554467"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:46:50.615Z",
+    "processed_at": "2025-05-02T21:46:58.289Z",
+    "total_time_taken": 7.67,
+    "homedepot_url": "https://www.homedepot.com/p/Fluidmaster-400A-Universal-Toilet-Fill-Valve-400ARP25/100554467"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fluidmaster-400A-Universal-Toilet-Fill-Valve-400ARP25/100554467",
+    "brand": "Fluidmaster",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Fill-Valves/Fluidmaster/N-5yc1vZckh9Zl3",
+    "title": "Fluidmaster 400A Universal Toilet Fill Valve",
+    "upc": "039961000026",
+    "item_id": "100554467",
+    "store_sku": "147966",
+    "model_number": "400ARP25",
+    "description": "The Fluidmaster 400A Universal Toilet Fill Valve is the #1 selling toilet fill valve in the world. A height adjustable toilet replacement part designed to fix leaking, noisy and slow filling toilet valves, in an easy to install model. The anti-siphon design eliminates fresh water supply contamination, is code approved and efficiently uses water. The 400A is a trusted and durable toilet replacement part, consisting of corrosion-resistant materials combined with simple installation. Fluidmaster is the trusted brand for replacement fill valves and all your toilet parts needs. Parts included with 400A purchase are Fill Valve, Shank Washer, Locknut, Refill Tube, Refill Clip and Instructions. Upgrade your toilets fill performance with this proven toilet tank fill valve. The Fluidmaster 400A is a quick and easy replacement toilet fill valve that solves common toilet problems.",
+    "is_bestseller": true,
+    "favorite_count": 2996,
+    "aisle": "09",
+    "bay": "009",
+    "feature_bullets": [
+      "A Fluidmaster 400A fill valve replacement",
+      "Universal design fit\u2019s most toilet models and is easy to install",
+      "The trusted, and proven Fluidmaster toilet fill valve"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Consumers top choice to fix noisy toilets",
+      "Easy to install",
+      "New easier to turn tank water level adjustment dial",
+      "Now pre-installed shank washer for quicker installation",
+      "Quickly replaces old or inefficient fill valves",
+      "5 year warranty",
+      "Best-selling toilet fill valve in worldwide",
+      "<img src=\"https://inlinecontent.thdstatic.com/26P/FLUIDMASTER INC/400A-019_VisualGraphics_900x450_A (3) 1943213.jpg\"><img src=\"https://inlinecontent.thdstatic.com/26P/FLUIDMASTER INC/400A-019_VisualGraphics_900x450_B 1943213.jpg\">",
+      "<img src=\"https://inlinecontent.thdstatic.com/26P/FLUIDMASTER INC/Digital Banner_GrayBathroombcgd_product_900x450px_093019_1 (1) 1943213.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/83cbd585-c033-4c6c-8bfd-4895635b56b3/svn/fluidmaster-toilet-fill-valves-400arp25-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c555ef23-1bbe-4510-8574-3e0f0a0cd6b8/svn/fluidmaster-toilet-fill-valves-400arp25-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7b5a370e-56d2-4eec-8bf9-d22648c306dd/svn/fluidmaster-toilet-fill-valves-400arp25-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/703b9c52-6cca-4f95-9536-0c17a57e1f28/svn/fluidmaster-toilet-fill-valves-400arp25-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fa8003f8-b3cc-4f6e-b53a-c6f15cc825d6/svn/fluidmaster-toilet-fill-valves-400arp25-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/83cbd585-c033-4c6c-8bfd-4895635b56b3/svn/fluidmaster-toilet-fill-valves-400arp25-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/795593f6-e9d2-4a43-a47a-d3df09284e90/02de75df-1a45-43cd-b307-af9b1357deab/main.mp4?fastly_token=NjgzOTc4Y2RfZTMyYjA1YzM2OGNlNzllYzAyYTAyYzgxMTJkMjE4OWY0Mzc1YWQwMjNhNWI4NTkxNGI3Mzk1ZTVkYTk4MDljM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83OTU1OTNmNi1lOWQyLTRhNDMtYTQ3YS1kM2RmMDkyODRlOTAvMDJkZTc1ZGYtMWE0NS00M2NkLWIzMDctYWY5YjEzNTdkZWFiL21haW4ubXA0&pubid=66036796001",
+        "title": "How To Install a Fluidmaster 400A Toilet Fill Valve",
+        "id": "5631929494001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/795593f6-e9d2-4a43-a47a-d3df09284e90/364e7729-f861-4726-b138-2fc3ed2b5671/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This is a how to video for installing a Fluidmaster's 400A Toilet Fill Valve."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 11527,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Adjustable Fit",
+        "value": "Shank will adjust from 9\" to 14\""
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Hardware Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Toilet Fill Valve"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Classic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Type",
+        "value": "Fill"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "5 year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "12.6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3 in"
+      }
+    ],
+    "keywords_list": [
+      "plumbing",
+      "toilet plumbing",
+      "part",
+      "toilet part",
+      "fill valve plumbing",
+      "fill valve part",
+      "400A plumbing",
+      "400A part",
+      "Fluidmaster plumbing",
+      "Fluidmaster part"
+    ],
+    "keywords": "plumbing, toilet plumbing, part, toilet part, fill valve plumbing, fill valve part, 400A plumbing, 400A part, Fluidmaster plumbing, Fluidmaster part",
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Toilet Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts/N-5yc1vZc69l"
+      },
+      {
+        "name": "Toilet Fill Valves",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Fill-Valves/N-5yc1vZckh9"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 60
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 87,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 268,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

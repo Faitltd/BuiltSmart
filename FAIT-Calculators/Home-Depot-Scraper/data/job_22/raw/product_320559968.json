@@ -1,0 +1,215 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14388,
+    "overage_used": 4388,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Tommy-Docks-16-ft-Roll-in-Dock-Straight-Aluminum-Frame-With-Removable-Cedar-Decking-Complete-Dock-Package-for-Boat-Dock-Systems-TD-50600/320559968"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:31:47.918Z",
+    "processed_at": "2025-05-01T18:31:54.421Z",
+    "total_time_taken": 6.5,
+    "homedepot_url": "https://www.homedepot.com/p/Tommy-Docks-16-ft-Roll-in-Dock-Straight-Aluminum-Frame-With-Removable-Cedar-Decking-Complete-Dock-Package-for-Boat-Dock-Systems-TD-50600/320559968"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Tommy-Docks-16-ft-Roll-in-Dock-Straight-Aluminum-Frame-With-Removable-Cedar-Decking-Complete-Dock-Package-for-Boat-Dock-Systems-TD-50600/320559968",
+    "brand": "Tommy Docks",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware-Boat-Docks/Tommy-Docks/N-5yc1vZc8xhZ659",
+    "title": "Tommy Docks 16 ft. Roll in.-Dock Straight Aluminum Frame With Removable Cedar Decking Complete Dock Package for Boat Dock Systems",
+    "upc": "724785506013",
+    "item_id": "320559968",
+    "parent_id": "329495235",
+    "store_sku": "1008044749",
+    "model_number": "TD-50600",
+    "description": "Tommy Docks have great do-it-yourself durable modular designs with the flexibility to expand on in the future. Tommy Docks 4 ft. x 16 ft. Straight Aluminum Frame Roll-in Dock with Removable Cedar Decking is a complete dock package that was designed with our customers in mind. This great all in one kit is constructed from high-quality cedar and corrosion-resistant hardware. No cutting required for assembling. Package includes the following components.",
+    "feature_bullets": [
+      "Complete dock with wheels for easy mobility",
+      "Made from aluminum and cedar wood for lasting use",
+      "Specifically crafted for stationary use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "2-4 ft. x 8 ft. Aluminum frame kits #TD-40008",
+      "4- 4 ft. x 4 ft. Cedar drop in panel kits #TDD-308CED",
+      "2-Gray polyester powder coated heavy duty \"A\" outside corner bracket #TD-10001",
+      "2-Gray polyester powder coated heavy duty \"B\" straight bracket #TD-10003",
+      "2-8 in. Gray polyester powder coated heavy-duty footpads #TD-10012",
+      "2-4 ft. Heavy duty corrosion resistant superior dock pipes #TD-20039",
+      "2-6 ft. Heavy duty corrosion resistant superior dock pipes #TD-20041",
+      "4-Heavy duty PVC vinyl safety caps #TD-30063",
+      "1-Roll-in dock kit #TD-30145",
+      "High-quality cedar and corrosion-resistant materials",
+      "Pre-cut components for hassle-free assembly",
+      "Ideal for hard bottom lakes/rivers, not for mucky bottoms",
+      "Designed for water depths up to 5 feet",
+      "Each 4x8 section weighs 112lbs with precise cedar board measurements"
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bc4861e6-894e-4ca0-af40-b988595b41d1/svn/tommy-docks-boat-docks-td-50600-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bbeb422b-e33b-4a2e-a0b5-f26c7dca6dd3/svn/tommy-docks-boat-docks-td-50600-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4b2d1033-01ec-4cda-8c04-9a945f861e50/svn/tommy-docks-boat-docks-td-50600-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8df778ea-6f0d-4583-84b9-5ef7fef15ad0/svn/tommy-docks-boat-docks-td-50600-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b525104b-7443-46b8-81a5-a8c8480a0d6e/svn/tommy-docks-boat-docks-td-50600-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/532859bb-1141-4ec7-a8d3-fd411ea625d9/svn/tommy-docks-boat-docks-td-50600-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1341b914-9d6f-4006-9586-43efb9738409/svn/tommy-docks-boat-docks-td-50600-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/78c162fe-eff8-4059-9ad8-da7f6322dc52/svn/tommy-docks-boat-docks-td-50600-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1f152a66-bf21-4a75-86b2-cb63f5fbaf90/svn/tommy-docks-boat-docks-td-50600-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bc4861e6-894e-4ca0-af40-b988595b41d1/svn/tommy-docks-boat-docks-td-50600-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 7,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Dock Type",
+        "value": "Roll-In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Marine Supplies Product Type",
+        "value": "Other Marine Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "399 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "6.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "6.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "4 ft"
+      }
+    ],
+    "variants": [
+      {
+        "title": "24 ft",
+        "link": "https://www.homedepot.com/p/Tommy-Docks-24-ft-Roll-In-Dock-Straight-System-with-Aluminum-Frame-and-Removable-Cedar-Decking-TD-50605/325854107",
+        "item_id": "325854107"
+      },
+      {
+        "title": "16 ft",
+        "link": "https://www.homedepot.com/p/Tommy-Docks-16-ft-Roll-in-Dock-Straight-Aluminum-Frame-With-Removable-Cedar-Decking-Complete-Dock-Package-for-Boat-Dock-Systems-TD-50600/320559968",
+        "item_id": "320559968"
+      },
+      {
+        "title": "32 ft",
+        "link": "https://www.homedepot.com/p/Tommy-Docks-32-ft-Roll-In-Dock-Straight-System-with-Aluminum-Frame-and-Removable-Cedar-Decking-TD-50610/325854113",
+        "item_id": "325854113"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Boat Docks & Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware/N-5yc1vZar4z"
+      },
+      {
+        "name": "Boat Docks",
+        "link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware-Boat-Docks/N-5yc1vZc8xh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1738.8,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 1932,
+      "unit": "pallet(lift)",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9,
+          "price": 55,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

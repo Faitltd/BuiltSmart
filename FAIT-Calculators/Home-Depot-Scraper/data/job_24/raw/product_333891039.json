@@ -1,0 +1,240 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14364,
+    "overage_used": 4364,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Brown-Hollow-Composite-Decking-Board-3-Pack-CD00102/333891039"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:28:44.431Z",
+    "processed_at": "2025-05-01T18:28:49.350Z",
+    "total_time_taken": 4.92,
+    "homedepot_url": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Brown-Hollow-Composite-Decking-Board-3-Pack-CD00102/333891039"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Brown-Hollow-Composite-Decking-Board-3-Pack-CD00102/333891039",
+    "brand": "mondaria",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/mondaria/N-5yc1vZc5mbZzes",
+    "title": "mondaria Outdoor Waterproof 1 in. x 5.4 in. x 8 ft. Brown Hollow Composite Decking Board (3-Pack)",
+    "upc": "717817610833",
+    "item_id": "333891039",
+    "parent_id": "333891003",
+    "store_sku": "1013388560",
+    "model_number": "CD00102",
+    "description": "Introducing our innovative new Composite Decking Line, our team has dedicated countless hours to perfecting the realistic wood grain design of this composite material, resulting in the most authentic appearance on the market. The texture of the boards is expertly crafted to mimic the look and feel of real wood, fooling even the most discerning eye.In addition to its natural aesthetics, our composite decking offers unparalleled stain, fade, water and scratch resistance, ensuring long-lasting durability and beauty. The boards feature two distinct sides - one with a realistic wood grain and the other without - providing versatility in installation and design.With the added benefit of waterproof technology, our Natural Decking Line is the ideal choice for outdoor spaces, providing peace of mind against moisture damage and ensuring years of enjoyment. Experience the beauty and durability of wood without the maintenance with our exceptional Decking Line.",
+    "feature_bullets": [
+      "Realistic wood grain design offers a realistic look",
+      "Waterproof technology ensures long-lasting durability",
+      "Versatile installation options for versatile use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Expertly crafted texture mimics real wood",
+      "Unparalleled stain, fade, water, and scratch resistance",
+      "Versatility with two distinct sides for installation options",
+      "Low-maintenance compared to traditional wood decking",
+      "Durable and resistant to rodent and insect damage",
+      "Ideal for various settings such as courtyards, running tracks, poolside decks, and seaside villas"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6e4837bf-c951-4784-9831-881f70b687d7/svn/brown-3-pack-mondaria-composite-decking-boards-cd00102-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a4993e2d-957d-4fc3-ace7-763e060e97f5/svn/brown-3-pack-mondaria-composite-decking-boards-cd00102-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cdb21e45-a679-48a9-b32d-389d26cb5696/svn/brown-3-pack-mondaria-composite-decking-boards-cd00102-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/66c4fa60-8211-4436-92c6-d3c456dc6f25/svn/brown-3-pack-mondaria-composite-decking-boards-cd00102-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a6fd6c45-aa70-4062-af9f-9f73e9b00157/svn/brown-3-pack-mondaria-composite-decking-boards-cd00102-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6e4837bf-c951-4784-9831-881f70b687d7/svn/brown-3-pack-mondaria-composite-decking-boards-cd00102-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1,
+    "rating": 3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown-3-Pack"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Mondaria Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "24"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Years"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.9 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "47"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.4 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Grey-9-Pack~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Grey-Hollow-Composite-Decking-Board-9-Pack-CD00106/333891078",
+        "item_id": "333891078"
+      },
+      {
+        "title": "Grey-3-Pack~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Grey-Hollow-Composite-Decking-Board-3-Pack-CD00103/333891047",
+        "item_id": "333891047"
+      },
+      {
+        "title": "Black-9-Pack~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Black-Hollow-Composite-Decking-Board-9-Pack-CD00104/333891060",
+        "item_id": "333891060"
+      },
+      {
+        "title": "Black-3-Pack~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Black-Hollow-Composite-Decking-Board-3-Pack-CD00101/333891027",
+        "item_id": "333891027"
+      },
+      {
+        "title": "Brown-9-Pack~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Brown-Hollow-Composite-Decking-Board-9-Pack-CD00105/333891070",
+        "item_id": "333891070"
+      },
+      {
+        "title": "Brown-3-Pack~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/mondaria-Outdoor-Waterproof-1-in-x-5-4-in-x-8-ft-Brown-Hollow-Composite-Decking-Board-3-Pack-CD00102/333891039",
+        "item_id": "333891039"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 99.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 116.67,
+      "unit": "carton",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 55,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13992,
+    "overage_used": 3992,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Pegboard-White-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-486140/202189722"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:49.426Z",
+    "processed_at": "2025-05-01T17:50:59.407Z",
+    "total_time_taken": 9.98,
+    "homedepot_url": "https://www.homedepot.com/p/Pegboard-White-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-486140/202189722"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Pegboard-White-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-486140/202189722",
+    "brand": "Unbranded",
+    "title": "Unbranded Pegboard White Panel (Common: 3/16 in. x 4 ft. x 8 ft.; Actual: 0.155 in. x 47.7 in. x 95.7 in.)",
+    "upc": "7896796539700",
+    "item_id": "202189722",
+    "store_sku": "486140",
+    "model_number": "486140",
+    "description": "This is a premium hardboard pegboard with high internal bond, exceptional stability and smoothness ideal for multiple applications. We create our Eucaboard from harvesting Eucalyptus from well managed forest plantations. Our product is FSC (Forest Stewardship Council) and ISO 14001 certified, so when you buy Eucaboard you are helping to preserve our most valuable asset - our environment.",
+    "favorite_count": 3000,
+    "feature_bullets": [
+      "Formaldehyde free",
+      "Perfect for organizing your garage or work space",
+      "Heavy duty tempered board"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Pegboard is a great solution to help you organize your workshop, garage or any interior space where vertical pegboard can be installed",
+      "Can be cut to fit any wall",
+      "Made with evenly spaced holes of 1/4 in. diameter",
+      "The pegboard's surface has a white acrylic top coat that improves scratch resistance",
+      "Pegboard can be cut to fit most wall spaces",
+      "Helps organize spaces where vertical pegboard can be hung such as a workshop or garage",
+      "Eucaboard is FSC certified and ISO 14001 certified",
+      "Note: Product may vary by store",
+      "For internal use only",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/sustainable-forestry/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Sustainable Forestry</a>",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e5da0f0d-0cda-4ead-a96b-bccd1a2df3f2/svn/mdf-486140-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/09b2b146-45df-4cdf-97a6-01c0beaa949d/svn/mdf-486140-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d92bbf9-0366-43c2-b43e-3e1ece199d32/svn/mdf-486140-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/63419ff0-ab48-4027-bcd0-bc66bb2d9c7f/svn/mdf-486140-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/67d8dd6d-3e9c-4dad-8e6a-834546ab97c6/svn/mdf-486140-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/592a7ce9-016b-4ff4-8bb1-52544438c436/svn/mdf-486140-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7f44d919-38eb-45eb-8795-571e6c6d4846/svn/mdf-486140-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e5da0f0d-0cda-4ead-a96b-bccd1a2df3f2/svn/mdf-486140-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 583,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardboard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.188 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "garage liner",
+      "eucalyptus garage liner",
+      "pegboard",
+      "eucalyptus pegboard",
+      "white garage liner",
+      "white pegboard",
+      "Eucatex N. A. garage liner"
+    ],
+    "keywords": "garage liner, eucalyptus garage liner, pegboard, eucalyptus pegboard, white garage liner, white pegboard, Eucatex N. A. garage liner",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 24.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 51,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

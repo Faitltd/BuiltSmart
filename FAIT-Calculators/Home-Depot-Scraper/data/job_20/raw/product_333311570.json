@@ -1,0 +1,143 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14021,
+    "overage_used": 4021,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Sierra-Pacific-Industries-2-in-x-6-in-x-8-ft-2-Premium-Grade-Fir-Dimensional-Lumber-769887254813/333311570"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:41.037Z",
+    "processed_at": "2025-05-01T17:52:27.660Z",
+    "total_time_taken": 46.62,
+    "homedepot_url": "https://www.homedepot.com/p/Sierra-Pacific-Industries-2-in-x-6-in-x-8-ft-2-Premium-Grade-Fir-Dimensional-Lumber-769887254813/333311570"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Sierra-Pacific-Industries-2-in-x-6-in-x-8-ft-2-Premium-Grade-Fir-Dimensional-Lumber-769887254813/333311570",
+    "brand": "Sierra Pacific Industries",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/Sierra-Pacific-Industries/N-5yc1vZc55wZ904",
+    "title": "Sierra Pacific Industries 2 in. x 6 in. x 8 ft. #2 Premium Grade Fir Dimensional Lumber",
+    "upc": "769887254813",
+    "item_id": "333311570",
+    "store_sku": "603643",
+    "model_number": "769887254813",
+    "description": "Pound for pound, fir is 1 of the strongest western soft woods. This wood is used in the manufacturing of more products than any other lumber species. This strong, reliable, and workable wood is perfect for use in any construction or hobby driven projects. The product is easy to glue and has good nail and screw holding properties. The paint retention properties are good and it is fairly easily treated with preservatives.",
+    "descriptive_attributes": [
+      "Suitable for the heaviest of structural work",
+      "Great screw and nail holding properties",
+      "Strong, reliable and workable",
+      "Smooth texture",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f55b40e7-c44e-4b71-9975-a7930bcebe4d/svn/sierra-pacific-industries-framing-lumber-769887254813-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f55b40e7-c44e-4b71-9975-a7930bcebe4d/svn/sierra-pacific-industries-framing-lumber-769887254813-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 62,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "No. 2 & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Douglas Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

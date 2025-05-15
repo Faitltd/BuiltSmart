@@ -1,0 +1,379 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13718,
+    "overage_used": 3718,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/LG-Smart-30-in-W-2-cu-ft-Over-the-Range-Microwave-with-EasyClean-1-050-Watt-in-PrintProof-Stainless-Steel-MVEL2033F/321606321"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:55:45.082Z",
+    "processed_at": "2025-05-01T16:56:32.159Z",
+    "total_time_taken": 47.08,
+    "homedepot_url": "https://www.homedepot.com/p/LG-Smart-30-in-W-2-cu-ft-Over-the-Range-Microwave-with-EasyClean-1-050-Watt-in-PrintProof-Stainless-Steel-MVEL2033F/321606321"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/LG-Smart-30-in-W-2-cu-ft-Over-the-Range-Microwave-with-EasyClean-1-050-Watt-in-PrintProof-Stainless-Steel-MVEL2033F/321606321",
+    "brand": "LG",
+    "brand_link": "https://www.homedepot.com/b/Appliances-Microwaves-Over-the-Range-Microwaves/LG/N-5yc1vZc3paZ8qk",
+    "title": "LG Smart 30 in. W 2 cu. ft. Over the Range Microwave with EasyClean 1,050-Watt in PrintProof Stainless Steel",
+    "upc": "048231342087",
+    "item_id": "321606321",
+    "parent_id": "321606167",
+    "store_sku": "1008264967",
+    "model_number": "MVEL2033F",
+    "description": "The integrated pocket handle, Wide View window and SmoothTouch glass controls deliver a seamless and refined look to your kitchen while offering easy access and intuitive operation. Simplify meal prep with sensor cook and auto cook options, or scan-to-cook technology that sends cooking instructions to your microwave. Plus, sync the microwave with your LG Smart range to automatically turn on the light and vent when the cooktop is in use, for extra convenience.",
+    "aisle": "AS",
+    "bay": "011",
+    "feature_bullets": [
+      "WideView window offers a modern point of view",
+      "Humidity-sensing technology determines when food is cooked",
+      "Wi-Fi enabled LG microwave becomes smart through the ThinQ App"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://dam.thdstatic.com/content/production/GcSOlhH5IqjObcl8jn_Gig/Op1Wvqxj6rXWf9CGGnQ_oA/Original%20file/2025_Rebate_January_341368.pdf\" target=\"_blank\" style=\"color:#F96302;\">Extend the original 1 year to 2 YEARS at no additional cost (up to $185 value).</a>",
+      "Humidity-sensing technology determines when food is cooked and automatically turns off the microwave to help prevent over or undercooking your food",
+      "Auto settings make cooking easier and decisions faster",
+      "Scan-to-Cook feature works with the ThinQ app to remotely send customized cooking instructions straight to your microwave",
+      "Pairs with your LG Smart range to automatically turn on the microwave vent and light when the cooktop is in use, for a seamless cooking experience",
+      "LG EasyClean makes cleaning simple with just a wipe - no chemicals or scrubbing necessary",
+      "Use the ThinQ app to sync your microwave and range, scan-to-cook meals, check on your food, and adjust settings from anywhere",
+      "LG microwaves live up to stylish design with hidden vents, so that it looks as smooth as it works",
+      "Ventilation can be installed either updraft or front, whichever meets your needs for the perfect kitchen",
+      "Limited warranty: 1-year parts and labor, 10-years Magnetron",
+      "Microwave cooking power: 1050",
+      "<a href=\"https://www.homedepot.com/b/Featured-Products-LG-Consumer-Reports-Recommended/N-5yc1vZ2fkpf9i\" target=\"_blank\" style=\"color:#F96302;\">Check out LG's Consumer Reports Recommended models</a>",
+      "<a href=\"https://www.homedepot.com/c/electronics_recycling_programs\" style=\"color:#F96302;\" target=\"_blank\">Click here for more information on Electronic Recycling Programs</a>"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/94cf7236-5b34-4ddc-a448-de2be325db31/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/193f98d7-83ae-4df5-af48-de652d2289e2/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3317f0df-0403-4b0e-ae1f-d24574bdfebb/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b74ee52d-707d-4e3d-b5ca-51a9d546b1f1/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c2d1ba7-dd4e-49d1-ab46-7989f65dfd39/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c959666d-c223-4e79-af79-2e58045d1a80/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c805d34c-83b4-49ac-bcbe-fa973095f6e1/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8af59966-38b0-4c54-91d4-a12ee94c2806/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e2756d54-55b9-48ce-870c-4c55a019724e/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a52e0c45-8670-44a1-9289-3daaed184e09/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6e47d0ff-36fc-4ad0-b09f-20f90e14def5/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/94cf7236-5b34-4ddc-a448-de2be325db31/svn/printproof-stainless-steel-lg-over-the-range-microwaves-mvel2033f-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/5061e73e-76e7-4f17-b975-4d07aaa6ed97/549f4ce4-d891-488f-a963-c795c73427dd/main.mp4?fastly_token=NjgzODI3NzJfZTM0MzEwYmY1YjgwN2VmNjAyZDY4MzJkM2IzN2VhNTkxYTM1NjFkYjczODU3YWZkZTRhY2MwZmI5MWU1Y2MyOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81MDYxZTczZS03NmU3LTRmMTctYjk3NS00ZDA3YWFhNmVkOTcvNTQ5ZjRjZTQtZDg5MS00ODhmLWE5NjMtYzc5NWM3MzQyN2RkL21haW4ubXA0&pubid=66036796001",
+        "title": "Scan-to-Cook",
+        "id": "6335588743112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/5061e73e-76e7-4f17-b975-4d07aaa6ed97/main/160x90/13s386ms/match/image.jpg?pubId=66036796001",
+        "description": "Explains the Scan to Cook feature"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a951c43c-33df-444c-a06e-e965272dc795/62352f2a-d21d-4e47-a576-603f3bc0994c/main.mp4?fastly_token=NjgzODI2ZTlfMDUzMjM0YmVhMDdmMDYyYjhlYWQyOTgxZWFjOGViNmUwYzFkNWIyMWM5YzJlM2IyYWYxNGUxNzQ0YzNjYzFiN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hOTUxYzQzYy0zM2RmLTQ0NGMtYTA2ZS1lOTY1MjcyZGM3OTUvNjIzNTJmMmEtZDIxZC00ZTQ3LWE1NzYtNjAzZjNiYzA5OTRjL21haW4ubXA0&pubid=66036796001",
+        "title": "LG Brand Kitchen",
+        "id": "6351740314112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a951c43c-33df-444c-a06e-e965272dc795/main/160x90/14s378ms/match/image.jpg?pubId=66036796001",
+        "description": "Overview of kitchen appliances"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ae7b1388-ecdc-4ea3-a045-ce913fb3850a/a3688e76-db6f-4e4a-b4d3-d1c09aefd5d6/main.mp4?fastly_token=NjgzODJjZGJfZGI1ZDlkMjU4ZTY5ZTViNDc5MWU1NzY2MGY3NmVkMWUyM2RhYzI3NGI4MmQ5MjYwYTI4MjE0MzhmNGU3YzY2Nl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hZTdiMTM4OC1lY2RjLTRlYTMtYTA0NS1jZTkxM2ZiMzg1MGEvYTM2ODhlNzYtZGI2Zi00ZTRhLWI0ZDMtZDFjMDlhZWZkNWQ2L21haW4ubXA0&pubid=66036796001",
+        "title": "Range Sync",
+        "id": "6351744032112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ae7b1388-ecdc-4ea3-a045-ce913fb3850a/main/160x90/11s701ms/match/image.jpg?pubId=66036796001",
+        "description": "Feature"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/a3ecb0c2-d22c-4e6e-9bfd-7617a72bf32e/5ffcd53d-80f9-4e88-97ca-27e8d90e1d71/main.mp4?fastly_token=NjgxMzg1MzRfODBkYjEwM2E2MzIwZjc0NTRlOGIyMzdiMTlmYjk3OTk1M2U5YzRiOTBkNTJhYjA2MGI0YmRiNTdkMmFkOWQ4MV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYTNlY2IwYzItZDIyYy00ZTZlLTliZmQtNzYxN2E3MmJmMzJlLzVmZmNkNTNkLTgwZjktNGU4OC05N2NhLTI3ZThkOTBlMWQ3MS9tYWluLm1wNA%3D%3D",
+        "title": "Home Depot Over The Range Microwave Delivery & Installation",
+        "id": "5088529750001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/a3ecb0c2-d22c-4e6e-9bfd-7617a72bf32e/df35375a-0c12-45f2-8e63-14054f15f193/160x90/match/image.jpg",
+        "description": "This video will walk you through the simple steps you must take in order to ensure a successful delivery and installation of your new Over The Range Microwave Oven from The Home Depot."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 1184,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Appliance Category",
+        "value": "Microwave"
+      },
+      {
+        "group_name": "Details",
+        "name": "Appliance Series",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Appliance Type",
+        "value": "Over the Range Microwave"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "PrintProof Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Trim Kit Model Number",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Controls Location",
+        "value": "Bottom Controls"
+      },
+      {
+        "group_name": "Details",
+        "name": "Door Swing/Style",
+        "value": "Right to Left Swing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Exhaust Fan Speeds",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Exhaust Maximum CFM",
+        "value": "400 CFM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hardware Color/Finish",
+        "value": "Stainless"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hardware Color/Finish Family",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior Light Type",
+        "value": "LED"
+      },
+      {
+        "group_name": "Details",
+        "name": "Light Source",
+        "value": "Halogen"
+      },
+      {
+        "group_name": "Details",
+        "name": "Microwave Door Release",
+        "value": "Push Button"
+      },
+      {
+        "group_name": "Details",
+        "name": "Microwave Features",
+        "value": "Charcoal Filter,Fingerprint Resistant,Turntable,With Interior Light,With Vent"
+      },
+      {
+        "group_name": "Details",
+        "name": "Microwave Settings",
+        "value": "Auto Defrost,Beverage,Cook Power,Defrost,Popcorn,Reheat,Start/ +30 Sec,Steam Cook"
+      },
+      {
+        "group_name": "Details",
+        "name": "Microwave Size",
+        "value": "Large"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of One-Touch Settings",
+        "value": "6"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Power Levels",
+        "value": "10"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "61.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "Non-Returnable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trim Kits Available",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Vent Location",
+        "value": "Back"
+      },
+      {
+        "group_name": "Details",
+        "name": "Vent Type",
+        "value": "Convertible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wattage (W)",
+        "value": "1050 W"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty: 1 Year Parts & Labor, 10 Years Magnetron"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Safety Listing",
+        "value": "ETL"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Capacity of Microwave (cu. ft.)",
+        "value": "2.0 cu. ft."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cut-Out Front to Back Depth (in.)",
+        "value": "16 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cut-Out Height (in.)",
+        "value": "18 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cut-Out Left to Right Width (in.)",
+        "value": "30 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Depth With Door(s) Open 90 Degrees (in.)",
+        "value": "43.76 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Interior Depth (in.)",
+        "value": "14.9 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Interior Height (in.)",
+        "value": "11.62 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Interior Width (in.)",
+        "value": "21.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "15.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "16.44 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "29.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Turntable Width (in.)",
+        "value": "14 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "PrintProof Black Stainless Steel~~29.88 in~~2.0 cu. ft.",
+        "link": "https://www.homedepot.com/p/LG-Smart-30-in-W-2-1-cu-ft-Over-the-Range-Microwave-with-EasyClean-1-050-Watt-in-PrintProof-Black-Stainless-Steel-MVEL2033D/321606264",
+        "item_id": "321606264"
+      },
+      {
+        "title": "PrintProof Stainless Steel~~29.88 in~~2.0 cu. ft.",
+        "link": "https://www.homedepot.com/p/LG-Smart-30-in-W-2-cu-ft-Over-the-Range-Microwave-with-EasyClean-1-050-Watt-in-PrintProof-Stainless-Steel-MVEL2033F/321606321",
+        "item_id": "321606321"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Appliances",
+        "link": "https://www.homedepot.com/b/Appliances/N-5yc1vZbv1w"
+      },
+      {
+        "name": "Microwaves",
+        "link": "https://www.homedepot.com/b/Appliances-Microwaves/N-5yc1vZc3ok"
+      },
+      {
+        "name": "Over-the-Range Microwaves",
+        "link": "https://www.homedepot.com/b/Appliances-Microwaves-Over-the-Range-Microwaves/N-5yc1vZc3pa"
+      }
+    ],
+    "buybox_winner": {
+      "price": 349,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 479,
+      "unit": "each"
+    }
+  }
+}

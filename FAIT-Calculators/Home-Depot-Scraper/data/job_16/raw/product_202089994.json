@@ -1,0 +1,229 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14186,
+    "overage_used": 4186,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Building-Products-2024-1-2-in-x-1-2-in-x-96-in-Primed-Vinyl-Quarter-Round-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM108WH/202089994"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:01:40.620Z",
+    "processed_at": "2025-05-01T18:01:45.167Z",
+    "total_time_taken": 4.55,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Building-Products-2024-1-2-in-x-1-2-in-x-96-in-Primed-Vinyl-Quarter-Round-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM108WH/202089994"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Building-Products-2024-1-2-in-x-1-2-in-x-96-in-Primed-Vinyl-Quarter-Round-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM108WH/202089994",
+    "brand": "Royal Building Products",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/Royal-Building-Products/N-5yc1vZ2fkp9hcZgkn",
+    "title": "Royal Building Products 2024 1/2 in. x 1/2 in. x 96 in. Primed Vinyl Quarter Round Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "070673876585",
+    "item_id": "202089994",
+    "store_sku": "837699",
+    "model_number": "MLDP01X01WM108WH",
+    "description": "Use 8 ft. x 1/2 in. x 1/2 in. Cellular Vinyl Quarter Round Molding as a finishing touch and know that it will hold up for many years. Simply cut and glue or nail this bright-white quarter round into place. It is also paintable.",
+    "favorite_count": 512,
+    "aisle": "19",
+    "bay": "009",
+    "feature_bullets": [
+      "Primed white finish brings a classy vibe to your decor",
+      "Cellular vinyl molding for strength and durability",
+      "Paintable and stainable for a customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of durable cellular vinyl",
+      "Pre-finished in bright white and can be painted or stained",
+      "Resists moisture, rot and termites",
+      "96 in. Length"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5f6b3241-6343-4a9a-a8c1-84e67cc1b3a6/svn/white-royal-building-products-quarter-round-mldp01x01wm108wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cddc9d5a-657e-49f3-9a18-31613b29a37b/svn/white-royal-building-products-quarter-round-mldp01x01wm108wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5f6b3241-6343-4a9a-a8c1-84e67cc1b3a6/svn/white-royal-building-products-quarter-round-mldp01x01wm108wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 184,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Quarter Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2024"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Interior Waterproof Material"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.5 in"
+      }
+    ],
+    "keywords_list": [
+      "quarter round moulding",
+      "vinyl quarter round moulding",
+      "moulding",
+      "vinyl moulding",
+      "white quarter round moulding",
+      "white moulding"
+    ],
+    "keywords": "quarter round moulding, vinyl quarter round moulding, moulding, vinyl moulding, white quarter round moulding, white moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/N-5yc1vZ2fkp9hc"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.64,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 50
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 70,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1280,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

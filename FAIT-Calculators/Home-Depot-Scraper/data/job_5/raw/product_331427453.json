@@ -1,0 +1,300 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13212,
+    "overage_used": 3212,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FLEX-SEAL-FAMILY-OF-PRODUCTS-9-oz-Flex-Caulk-White-Pressurized-Can-CFSWHTR675/331427453"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:48:29.496Z",
+    "processed_at": "2025-05-01T13:48:39.234Z",
+    "total_time_taken": 9.74,
+    "homedepot_url": "https://www.homedepot.com/p/FLEX-SEAL-FAMILY-OF-PRODUCTS-9-oz-Flex-Caulk-White-Pressurized-Can-CFSWHTR675/331427453"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FLEX-SEAL-FAMILY-OF-PRODUCTS-9-oz-Flex-Caulk-White-Pressurized-Can-CFSWHTR675/331427453",
+    "brand": "FLEX SEAL FAMILY OF PRODUCTS",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/FLEX-SEAL-FAMILY-OF-PRODUCTS/N-5yc1vZcibhZrem",
+    "title": "FLEX SEAL FAMILY OF PRODUCTS 9 oz. Flex Caulk White Pressurized Can",
+    "upc": "810129870756",
+    "item_id": "331427453",
+    "parent_id": "331393721",
+    "store_sku": "1012165463",
+    "model_number": "CFSWHTR675",
+    "description": "Flex Caulk is our latest innovation in caulking technology. It's a high-performance, hybrid polymer caulk, delivered through our Adjustable Trigger Flow Nozzle, which eliminates the need for a caulking gun and allows you to control the flow of caulk. Just adjust the flow setting and push the trigger for a perfect bead. And when you stop, it stops. There's no running, no dripping and no mess. NO CAULK GUN NEEDED - EASY TO USE.",
+    "feature_bullets": [
+      "No caulking gun needed - easy to use",
+      "100% waterproof and weatherproof",
+      "Perfect for hard-to-reach areas"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Adjustable trigger flow nozzle",
+      "Advanced hybrid polymer formulation",
+      "Available in white (9 oz.) and clear (6.6 oz.)",
+      "Extremely durable and lasts for years",
+      "Fully paintable",
+      "Solvent-free and virtually odorless",
+      "Snap and save cap eliminates waste",
+      "Adheres to virtually any surface, wet or dry",
+      "Use indoors or outdoors",
+      "Won't shrink, crack or become brittle",
+      "Excellent for: bathrooms, kitchens, sinks, showers, toilets, backsplashes, countertops, baseboards, moulding, pipes, skylights, windows, doors, auto and boat repairs and more"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/627f9b88-6b31-4dfb-af47-08a7062e59c7/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e817c4cd-c9d8-4e40-b003-a630d346cbbf/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fb9a8600-c248-4315-ba86-644fca3f2e4e/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d01b7c5-3cdf-4dbd-bfee-c58bce73534d/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8764a6a9-285f-45e6-9084-acbe6de31815/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4bba7afa-754b-4d25-aebf-2e5d0f38636f/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9cd8419d-2a8d-4aff-89e7-b62b68a691e7/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fdd054a5-be40-49e5-8810-6eb19ef3fd74/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8f10e431-d4bf-4853-ac38-fed9f119187b/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/290e6b50-ab1f-49a2-812b-764155c3a839/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/64b04964-fbdc-4e30-847d-fec8e542ced7/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/551725da-9cce-4a0e-b6f6-90d935f2037b/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/627f9b88-6b31-4dfb-af47-08a7062e59c7/svn/white-flex-seal-family-of-products-caulk-cfswhtr675-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/6a4a4d22-99fe-4d04-87fa-697c570b73a1/9775a3ce-c46b-474e-91f7-a4835ac41d3c/main.mp4?fastly_token=NjgzODI4ZTdfOTU4OTc1YjJkM2Y0YzcwOTI3NWM3ZjBmMTU0Nzk0MDg3MGRhODM3ZDBmOGY5NWE3YmE1NjY4NWQxNDlmYzgzNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82YTRhNGQyMi05OWZlLTRkMDQtODdmYS02OTdjNTcwYjczYTEvOTc3NWEzY2UtYzQ2Yi00NzRlLTkxZjctYTQ4MzVhYzQxZDNjL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Use Flex Caulk",
+        "id": "6352599915112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/6a4a4d22-99fe-4d04-87fa-697c570b73a1/main/160x90/1m44s330ms/match/image.jpg?pubId=66036796001",
+        "description": "How to Use Flex Caulk"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f491b217-2174-4225-86a0-303346b8ac14/27750eaa-c367-4be0-9abe-c87e44b4b51a/main.mp4?fastly_token=NjgzODJiNDZfMWM4ZjExNmViMjA2ODk1ZjE5MTc3OWRhZGRmNTY4OWMwMjhmNGY4MjU1OTRlMGZmYzQ3ODRjNmFjZWUzN2NlMV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mNDkxYjIxNy0yMTc0LTQyMjUtODZhMC0zMDMzNDZiOGFjMTQvMjc3NTBlYWEtYzM2Ny00YmUwLTlhYmUtYzg3ZTQ0YjRiNTFhL21haW4ubXA0&pubid=66036796001",
+        "title": "Flex Caulk Commercial",
+        "id": "6352600503112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/f491b217-2174-4225-86a0-303346b8ac14/main/160x90/15s61ms/match/image.jpg?pubId=66036796001",
+        "description": "Flex Caulk Commercial - 30 Sec"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/2d3757e7-2ab7-4342-ad48-1e468e298285/b01d71b4-0a1d-4bd0-b704-2296281020b4/main.mp4?fastly_token=NjgzODI4ODBfM2ZlMDMyYTA2MzI1ODI2MTU3NjE5M2Y4OWJlNjA0ZmE1OTIwMzcyODNjYmQyZTIwY2QzMzliNzA2ZDMwNjBiYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yZDM3NTdlNy0yYWI3LTQzNDItYWQ0OC0xZTQ2OGUyOTgyODUvYjAxZDcxYjQtMGExZC00YmQwLWI3MDQtMjI5NjI4MTAyMGI0L21haW4ubXA0&pubid=66036796001",
+        "title": "Flex Caulk Commercial",
+        "id": "6352600800112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/2d3757e7-2ab7-4342-ad48-1e468e298285/main/160x90/1m106ms/match/image.jpg?pubId=66036796001",
+        "description": "Flex Caulk Commercial - 120 Sec"
+      }
+    ],
+    "ratings_total": 111,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Multipurpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Polymer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "30"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "10 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant,Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "9 oz"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~9 oz~~4",
+        "link": "https://www.homedepot.com/p/FLEX-SEAL-FAMILY-OF-PRODUCTS-Flex-Caulk-9-oz-White-Pressurized-Caulk-Can-4-Pack-CFSWHTR675-CS/330432579",
+        "item_id": "330432579"
+      },
+      {
+        "title": "White~~9 oz~~1",
+        "link": "https://www.homedepot.com/p/FLEX-SEAL-FAMILY-OF-PRODUCTS-9-oz-Flex-Caulk-White-Pressurized-Can-CFSWHTR675/331427453",
+        "item_id": "331427453"
+      },
+      {
+        "title": "Clear~~6.6 oz~~1",
+        "link": "https://www.homedepot.com/p/FLEX-SEAL-FAMILY-OF-PRODUCTS-6-60-oz-Flex-Caulk-Clear-Pressurized-Can-CFSCLRR675/331427468",
+        "item_id": "331427468"
+      },
+      {
+        "title": "Clear~~6.6 oz~~4",
+        "link": "https://www.homedepot.com/p/FLEX-SEAL-FAMILY-OF-PRODUCTS-Flex-Caulk-6-6-oz-Clear-Pressurized-Caulk-Can-4-Pack-CFSCLRR675-CS/330432604",
+        "item_id": "330432604"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 19.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 97,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 97,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12599,
+    "overage_used": 2599,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Columbia-Forest-Products-3-4-in-x-4-ft-x-8-ft-PureBond-Red-Oak-Plywood-165956/100046409"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:25:50.484Z",
+    "processed_at": "2025-05-01T13:25:56.457Z",
+    "total_time_taken": 5.97,
+    "homedepot_url": "https://www.homedepot.com/p/Columbia-Forest-Products-3-4-in-x-4-ft-x-8-ft-PureBond-Red-Oak-Plywood-165956/100046409"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Columbia-Forest-Products-3-4-in-x-4-ft-x-8-ft-PureBond-Red-Oak-Plywood-165956/100046409",
+    "brand": "Columbia Forest Products",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/Columbia-Forest-Products/N-5yc1vZc7r1Z5uf",
+    "title": "Columbia Forest Products 3/4 in. x 4 ft. x 8 ft. PureBond Red Oak Plywood",
+    "upc": "730232000423",
+    "item_id": "100046409",
+    "store_sku": "165956",
+    "model_number": "165956",
+    "description": "The beauty and warmth of natural hardwood shines through on these PureBond Red Oak Plywood panels from Columbia Forest Products. Assembled using a soy-based PureBond technology, these 3/4 in. x 4 ft. x 8 ft. sheets feature American-grown timber throughout with decorative red oak face and back veneers that produce stellar results on DIY woodworking projects. Using a proper saw blade, these sheets can be custom-cut to suit an assortment of carpentry applications, including construction of furniture, shelves, bookcases, built-in cabinets, media centers, headboards and more. This formaldehyde-free plywood is a cost-competitive alternative to potentially health-hazardous UF boards that may release air-degrading fumes over time. It's as exquisite and robust as solid hardwood but without the expense and heft.",
+    "favorite_count": 2342,
+    "feature_bullets": [
+      "Red Oak plywood strength, performance and durability",
+      "Beautiful red oak plywood for furniture, cabinets and more",
+      "Red Oak veneer on both sides of plywood"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Hardwood plywood is assembled with smooth, patch-free red oak face and back veneers",
+      "PureBond hardwood plywood is an environmentally friendly, cost-competitive alternative to panels manufactured with urea formaldehyde (UF), which may degrade air quality over time",
+      "Contains 100% natural wood bonded with a food-grade soy-based adhesive that does not emit toxic air contaminants",
+      "Decorative top and bottom veneers, measuring approximately 1/42 in. thick, exhibit the beauty and timeless quality of natural hardwood and are suitable for painting or staining",
+      "Water-resistant composition has a higher moisture tolerance than UF panels and is less likely to warp than solid wood",
+      "Allow panel to acclimate to interior climate conditions for several days before customizing - for interior applications only",
+      "For best cutting results, use an 80-tooth (or greater) table saw blade intended for sheet goods or a carbide-tipped circular saw plywood blade",
+      "Common: 3/4 in. x 4 ft. x 8 ft.; actual: 0.703 in. x 48 in. x 96 in.",
+      "Direction of the grain is the length of panel",
+      "Each panel weighs approximately 70 lbs.",
+      "Grade: C-3 - see grading guide for additional information",
+      "Available in additional species- Birch and Maple",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/76fcc74e-6c68-44de-8c28-fc807ebdd46d/svn/columbia-forest-products-hardwood-plywood-165956-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/05d3f053-792a-48a5-979d-3464673e397b/svn/columbia-forest-products-hardwood-plywood-165956-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9289ebcb-29c9-408b-ac0c-cdf640d784ce/svn/columbia-forest-products-hardwood-plywood-165956-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d9d2066c-69ac-48c1-8cfb-30345f6837be/svn/columbia-forest-products-hardwood-plywood-165956-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9ea56a28-09ee-4043-a1f5-0b86b5d73153/svn/columbia-forest-products-hardwood-plywood-165956-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fa224964-8732-46f0-839f-7574c9532b00/svn/columbia-forest-products-hardwood-plywood-165956-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/61902d8a-d80a-47a7-acb8-6577fa6371b6/svn/columbia-forest-products-hardwood-plywood-165956-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8cb2db9f-837b-453f-81bf-13ff08738942/svn/columbia-forest-products-hardwood-plywood-165956-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/866caeb4-6db5-4c57-b129-dbb397ace7d1/svn/columbia-forest-products-hardwood-plywood-165956-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0acd8798-789b-468c-b769-3cc4440481ad/svn/columbia-forest-products-hardwood-plywood-165956-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0762f77e-7d4a-47c7-a34b-524875cb477d/svn/columbia-forest-products-hardwood-plywood-165956-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/60def7e5-a86d-4770-90b5-d663959017ed/svn/columbia-forest-products-hardwood-plywood-165956-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/76fcc74e-6c68-44de-8c28-fc807ebdd46d/svn/columbia-forest-products-hardwood-plywood-165956-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/7d256456-7fd0-49cf-ae78-686eab6044a0/72f4fc11-85a8-4fbb-881a-aba708de434a/main.mp4?fastly_token=NjgxMzg3ODRfMDY4NjA5NDRjYjUwMTIyMTU3MzNhODcwMzFmNGEyZmIzNjY4YzYzODI3ZjU3NmJhYjc5Yzk4MDMxNDg3YWI0Y18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvN2QyNTY0NTYtN2ZkMC00OWNmLWFlNzgtNjg2ZWFiNjA0NGEwLzcyZjRmYzExLTg1YTgtNGZiYi04ODFhLWFiYTcwOGRlNDM0YS9tYWluLm1wNA%3D%3D",
+        "title": "PureBond: How Its Made",
+        "id": "2016020007001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/7d256456-7fd0-49cf-ae78-686eab6044a0/c27c2a64-693a-47b0-a8a4-45bfbb810ca2/160x90/match/image.jpg",
+        "description": "Colombia Forest Products demonstrates how PureBond Hardwood Plywood is made. Yellow Poplar logs are used for peeling PureBond plywood core. Every panel is inspected for defects."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/5cec7c14-aec2-4c2a-a5cf-da0e6dfead4e/3ea86f72-93a9-4bb9-80fb-2e10dd67f2c9/main.mp4?fastly_token=NjgzODI3OWJfNDQ4NjEwMjg4NmI5NjM3YzhhOTliZDZhNDg1ZWNjNmRhNDllMWNmYzU0OWM3ZWIwZWI1ZmY4Yzk5ZjRiY2EwM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81Y2VjN2MxNC1hZWMyLTRjMmEtYTVjZi1kYTBlNmRmZWFkNGUvM2VhODZmNzItOTNhOS00YmI5LTgwZmItMmUxMGRkNjdmMmM5L21haW4ubXA0&pubid=66036796001",
+        "title": "INV- columbia-forest-products-plywood-Top3",
+        "id": "4836704976001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/5cec7c14-aec2-4c2a-a5cf-da0e6dfead4e/c3a1bb0b-2eea-40c1-a0e6-246689ef4396/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Columbia Forest Top 3 video. Maple, Red Oak and Birch"
+      }
+    ],
+    "ratings_total": 479,
+    "rating": 3.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "C3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.703 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "board",
+      "red oak board",
+      "wood",
+      "red oak wood",
+      "3/4 in. x 4 ft. x 8 ft. board",
+      "3/4 in. x 4 ft. x 8 ft. wood",
+      "PureBond board",
+      "PureBond wood"
+    ],
+    "keywords": "board, red oak board, wood, red oak wood, 3/4 in. x 4 ft. x 8 ft. board, 3/4 in. x 4 ft. x 8 ft. wood, PureBond board, PureBond wood",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Hardwood Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/N-5yc1vZc7r1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 89.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 600,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

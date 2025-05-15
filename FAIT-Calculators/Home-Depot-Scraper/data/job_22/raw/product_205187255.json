@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14259,
+    "overage_used": 4259,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Surface-Shields-24-in-x-50-ft-Carpet-Protection-Self-Adhesive-Film-CS2450/205187255"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:22:29.940Z",
+    "processed_at": "2025-05-01T18:22:39.564Z",
+    "total_time_taken": 9.62,
+    "homedepot_url": "https://www.homedepot.com/p/Surface-Shields-24-in-x-50-ft-Carpet-Protection-Self-Adhesive-Film-CS2450/205187255"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/SURFACE-SHIELDS-24-in-x-50-ft-Carpet-Protection-Self-Adhesive-Film-CS2450/205187255",
+    "brand": "SURFACE SHIELDS",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Floor-Protection-Materials-Floor-Protection-Film/SURFACE-SHIELDS/N-5yc1vZcdtmZxlj",
+    "title": "SURFACE SHIELDS 24 in. x 50 ft. Carpet Protection Self Adhesive Film",
+    "upc": "796976002017",
+    "item_id": "205187255",
+    "parent_id": "325772720",
+    "store_sku": "758377",
+    "model_number": "CS2450",
+    "description": "Carpet Shield is a protective film that can be used on most types of carpet for up to 30 days. Temporary floor protection is designed with a special blend of polyethylene and is highly resistant to tears and punctures. Self adhering film is ideal for the construction, remodeling and moving industries.",
+    "is_top_rated": true,
+    "favorite_count": 886,
+    "aisle": "58",
+    "bay": "001",
+    "feature_bullets": [
+      "Helps protect carpet from paint, dirt and debris",
+      "Adheres without the need for tape",
+      "Ideal for quick clean up on projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Temporary floor protection for carpets",
+      "Ideal for the construction, remodeling and moving industries",
+      "Carpet protective film is highly resistant to tears and punctures",
+      "Reverse wound film measures 24\" x 200'",
+      "Protects all types of carpeting for up to 30 days",
+      "Minimizes cleaning and damage",
+      "Available in a variety of sizes"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2bcb2397-85b1-40eb-ac84-7002b544ec75/svn/surface-shields-floor-protection-film-cs2450-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2e3ddaae-44e2-4285-ad2c-961c36476df3/svn/surface-shields-floor-protection-film-cs2450-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c5f365e2-d6a4-4981-82d7-18aade58ddef/svn/surface-shields-floor-protection-film-cs2450-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bee81d94-0913-41b2-8d3a-b058bca68d2f/svn/surface-shields-floor-protection-film-cs2450-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1ab3a72a-e788-4fdb-a320-0ed04d05bd54/svn/surface-shields-floor-protection-film-cs2450-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2bcb2397-85b1-40eb-ac84-7002b544ec75/svn/surface-shields-floor-protection-film-cs2450-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 768,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Carpet Protector"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See manufacturer for warranty."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Sheet Length (ft.)",
+        "value": "50"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Sheet Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "variants": [
+      {
+        "title": "500 ft x 4 ft",
+        "link": "https://www.homedepot.com/p/SURFACE-SHIELDS-48-in-x-500-ft-Self-Adhesive-Film-CS48500/303528672",
+        "item_id": "303528672"
+      },
+      {
+        "title": "50 ft x 2 ft",
+        "link": "https://www.homedepot.com/p/SURFACE-SHIELDS-24-in-x-50-ft-Carpet-Protection-Self-Adhesive-Film-CS2450/205187255",
+        "item_id": "205187255"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Floor Protection Materials",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Floor-Protection-Materials/N-5yc1vZcdus"
+      },
+      {
+        "name": "Floor Protection Film",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Floor-Protection-Materials-Floor-Protection-Film/N-5yc1vZcdtm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 22,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 22
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 22,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 492,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

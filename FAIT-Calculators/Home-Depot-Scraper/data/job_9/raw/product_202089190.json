@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13723,
+    "overage_used": 3723,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Huber-7-16-In-4-Ft-x-8-Ft-Zip-OSB-Wall-Sheathing-777198/202089190"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:56:21.265Z",
+    "processed_at": "2025-05-01T16:56:24.897Z",
+    "total_time_taken": 3.63,
+    "homedepot_url": "https://www.homedepot.com/p/Huber-7-16-In-4-Ft-x-8-Ft-Zip-OSB-Wall-Sheathing-777198/202089190"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Huber-7-16-In-4-Ft-x-8-Ft-Zip-OSB-Wall-Sheathing-777198/202089190",
+    "brand": "Huber",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Oriented-Strand-Board-OSB/Huber/N-5yc1vZbqpqZ7ay",
+    "title": "Huber 7/16 In. 4 Ft. x 8 Ft. Zip OSB Wall Sheathing",
+    "upc": "728265061153",
+    "item_id": "202089190",
+    "store_sku": "777198",
+    "model_number": "777198",
+    "description": "Zip System roof sheathing and wall sheathing offer structural panels with built-in protective overlays that eliminate the need for house wrap or felt forever. Simply install the panels, tape the seams with the specially designed zip System tape and you're done. You can install siding and roof covering directly on top of zip System roof and wall sheathing, but until you do, you'll differentiate your jobs with the high-quality curb appeal of zip System roof and wall sheathing. Zip System roof and wall sheathing are backed by a best-in-class warranty so that you and your homeowners can rest assured that Huber engineered woods stands behind the zip System products used in your homes.",
+    "is_top_rated": true,
+    "favorite_count": 370,
+    "feature_bullets": [
+      "Built-in, water-resistive barrier",
+      "Provides higher R-Value",
+      "Continuous air barrier promotes greater energy efficiency"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Use in wall applications",
+      "No risk of water becoming trapped between house wrap and sheathing, which could result in moisture-related issues",
+      "No more delays because of felt or building wraps blowing off with easy installation",
+      "Continuous vapor permeable moisture barrier that blocks out liquid water but still allows walls to dry out",
+      "A continuous, rigid air barrier decreases unwanted air leakage for greater energy efficiency.",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c051b9e0-e63a-437c-9ab6-5c6d4d04ec59/svn/huber-oriented-strand-board-osb-777198-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0c2f691d-1b51-407e-bf60-26e10dd45313/svn/huber-oriented-strand-board-osb-777198-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6b59a65f-3757-4f81-bdf3-51c45f52a5d9/svn/huber-oriented-strand-board-osb-777198-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1cc3c994-24a2-49eb-bf2d-ba37c3db978c/svn/huber-oriented-strand-board-osb-777198-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/347faad4-6324-4f9f-9e34-f19b600a4d09/svn/huber-oriented-strand-board-osb-777198-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc2ab17e-e908-4d80-ba8c-521d655848c4/svn/huber-oriented-strand-board-osb-777198-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dd383ee7-b5c1-4324-8a89-76a54e178493/svn/huber-oriented-strand-board-osb-777198-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c051b9e0-e63a-437c-9ab6-5c6d4d04ec59/svn/huber-oriented-strand-board-osb-777198-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 101,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "OSB"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "16 oc."
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "n/a"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.437 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "7/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "plywood",
+      "waferboard plywood",
+      "sheathing",
+      "waferboard sheathing",
+      "aspen plywood",
+      "aspen sheathing",
+      "wall plywood",
+      "wall sheathing"
+    ],
+    "keywords": "plywood, waferboard plywood, sheathing, waferboard sheathing, aspen plywood, aspen sheathing, wall plywood, wall sheathing",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Oriented Strand Board - OSB",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Oriented-Strand-Board-OSB/N-5yc1vZbqpq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 34.73,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 363,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

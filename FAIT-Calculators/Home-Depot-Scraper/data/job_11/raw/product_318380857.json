@@ -1,0 +1,216 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13571,
+    "overage_used": 3571,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-Doorpack-9-16-in-x-2-1-4-in-x-84-in-Primed-Pine-Casing-Molding-5-Pack-234PRDPK35/318380857"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:50:11.904Z",
+    "processed_at": "2025-05-01T16:50:54.363Z",
+    "total_time_taken": 42.46,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-Doorpack-9-16-in-x-2-1-4-in-x-84-in-Primed-Pine-Casing-Molding-5-Pack-234PRDPK35/318380857"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-Doorpack-9-16-in-x-2-1-4-in-x-84-in-Primed-Pine-Casing-Molding-5-Pack-234PRDPK35/318380857",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Kelleher/N-5yc1vZclf5Z4z5",
+    "title": "Kelleher Doorpack 9/16 in. x 2-1/4 in. x 84 in. Primed Pine Casing Molding (5-Pack)",
+    "upc": "099443054831",
+    "item_id": "318380857",
+    "parent_id": "327768504",
+    "store_sku": "1006854959",
+    "model_number": "234PRDPK35",
+    "description": "Create a beautiful framed look around a door or window with 2-1/4 Pine Casing. It provides an architectural trim for the opening. While also covering gaps between a door jamb and the wall.",
+    "feature_bullets": [
+      "Used to conceal gaps between door frames and drywall",
+      "Made of finger joint pine wood to ensure durable use",
+      "Pre-primed smooth paintable surface for a customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Fingerjointed Pine resists twisting and warping",
+      "Pre-primed",
+      "Ready to paint to match your decor",
+      "Covers the gaps between a door jamb and the wall"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5fd4d51c-4e1c-42c6-8d44-62689dce5f57/svn/white-kelleher-casing-234prdpk35-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/85da701d-10ad-42e1-850a-33060025bee2/svn/white-kelleher-casing-234prdpk35-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a1f5ef1-f73c-4eb6-a1bd-49b0f108b0dd/svn/white-kelleher-casing-234prdpk35-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5fd4d51c-4e1c-42c6-8d44-62689dce5f57/svn/white-kelleher-casing-234prdpk35-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 20,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "234"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.81 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "keywords_list": [
+      "building supply",
+      "pine building supply",
+      "building supplies",
+      "pine building supplies",
+      "casing",
+      "pine casing",
+      "door building supply",
+      "door building supplies",
+      "door casing",
+      "window building supply",
+      "window building supplies",
+      "window casing"
+    ],
+    "keywords": "building supply, pine building supply, building supplies, pine building supplies, casing, pine casing, door building supply, door building supplies, door casing, window building supply, window building supplies, window casing",
+    "variants": [
+      {
+        "title": "White~~17 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Round-Edge-9-16-in-x-2-1-4-in-Primed-Pine-Casing-Molding-P234PR17L/318380858",
+        "item_id": "318380858"
+      },
+      {
+        "title": "White~~7 ft~~Wood~~5",
+        "link": "https://www.homedepot.com/p/Kelleher-Doorpack-9-16-in-x-2-1-4-in-x-84-in-Primed-Pine-Casing-Molding-5-Pack-234PRDPK35/318380857",
+        "item_id": "318380857"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

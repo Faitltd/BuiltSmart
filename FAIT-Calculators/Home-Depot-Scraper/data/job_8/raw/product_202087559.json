@@ -1,0 +1,263 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13538,
+    "overage_used": 3538,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-2-1-8-in-x-8-ft-MDF-Panel-Molding-8207/202087559"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:48:38.909Z",
+    "processed_at": "2025-05-01T16:48:43.455Z",
+    "total_time_taken": 4.55,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-2-1-8-in-x-8-ft-MDF-Panel-Molding-8207/202087559"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-2-1-8-in-x-8-ft-MDF-Panel-Molding-8207/202087559",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/HOUSE-OF-FARA/N-5yc1vZcbjjZucc",
+    "title": "HOUSE OF FARA 3/4 in. x 2-1/8 in. x 8 ft. MDF Panel Molding",
+    "upc": "043559082073",
+    "item_id": "202087559",
+    "store_sku": "580383",
+    "model_number": "8207",
+    "description": "The House of Fara 3/4 in. x 2-1/8 in. x 8 ft. MDF Panel Molding is pre-primed in white for your convenience. Ready for painting to match your home decor. It cuts and installs easily for a quality look when finished. Perfect for cabinets, mantels, flat surfaces or any project.",
+    "favorite_count": 526,
+    "feature_bullets": [
+      "Beautiful clean colonial pattern",
+      "MDF, a luxury look at an economical cost",
+      "Multi functional molding, for a variety of uses"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of primed MDF",
+      "Ready for painting to match your home decor",
+      "96 in. length",
+      "For interior use",
+      "<a href=\"https://www.homedepot.com/collection/decor/vintage-glam-living-room\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/59/Catalog/C27_VG_LivingRoom.jpg\"></a>"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a7e2c099-ded5-4c99-aa4c-a418e7cbbb3c/svn/white-house-of-fara-chair-rail-8207-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d76e09fd-a9a3-44d8-aca2-8ea152ec9eb5/svn/white-house-of-fara-chair-rail-8207-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8701cf78-9a0f-4d67-86c1-0ed4359659e6/svn/white-house-of-fara-chair-rail-8207-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d9e5470-9717-414e-9f1d-f4524be4ca80/svn/white-house-of-fara-chair-rail-8207-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0d923ad6-b60a-49c2-a03f-dbfedb08dd9a/svn/white-house-of-fara-chair-rail-8207-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/48064476-7521-442d-ad50-412ace342481/svn/white-house-of-fara-chair-rail-8207-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1ddf05a6-e51e-49d0-8c57-9d549ffbf5f5/svn/white-house-of-fara-chair-rail-8207-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7ac87747-8048-4f43-8d4c-01604ccb0fcd/svn/white-house-of-fara-chair-rail-8207-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8dc43d0c-62fa-4d24-92f0-b8698ee0cd38/svn/white-house-of-fara-chair-rail-8207-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fd68ccb3-a7c1-4676-a661-dde9e6074ad3/svn/white-house-of-fara-chair-rail-8207-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/73d5acbe-15a2-4b49-a1d4-a0e8a969e903/svn/white-house-of-fara-chair-rail-8207-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c53a81d7-a207-4468-9ce8-562931f96642/svn/white-house-of-fara-chair-rail-8207-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/097f789a-92f5-4ae7-84fa-59e91dc0b5fc/svn/white-house-of-fara-chair-rail-8207-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/47db8dec-eb06-4a3a-97ba-bbca1f7b772a/svn/white-house-of-fara-chair-rail-8207-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a7e2c099-ded5-4c99-aa4c-a418e7cbbb3c/svn/white-house-of-fara-chair-rail-8207-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 65,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Panel Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "8207"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Satisfaction Guaranteed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.297 in"
+      }
+    ],
+    "keywords_list": [
+      "House of Fara",
+      "8 ft. x 2-1/8 in. x 3/4 in. MDF Panel Moulding",
+      "8207"
+    ],
+    "keywords": "House of Fara, 8 ft. x 2-1/8 in. x 3/4 in. MDF Panel Moulding, 8207",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Chair Rail",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/N-5yc1vZcbjj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1983,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1983,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13945,
+    "overage_used": 3945,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NuWatt-2-ft-x-4-ft-Integrated-Backlit-LED-Panel-Internal-Driver-Drop-in-Ceiling-5500-Lumen-Dimmable-5000K-120-277V-4-Pack-NW-BL-2X4-50W-50K-4P/325793044"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:11:33.275Z",
+    "processed_at": "2025-05-01T17:11:38.915Z",
+    "total_time_taken": 5.64,
+    "homedepot_url": "https://www.homedepot.com/p/NuWatt-2-ft-x-4-ft-Integrated-Backlit-LED-Panel-Internal-Driver-Drop-in-Ceiling-5500-Lumen-Dimmable-5000K-120-277V-4-Pack-NW-BL-2X4-50W-50K-4P/325793044"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NuWatt-2-ft-x-4-ft-Integrated-Backlit-LED-Panel-Internal-Driver-Drop-in-Ceiling-5500-Lumen-Dimmable-5000K-120-277V-4-Pack-NW-BL-2X4-50W-50K-4P/325793044",
+    "brand": "NuWatt",
+    "brand_link": "https://www.homedepot.com/b/Lighting-Commercial-Lighting-Panel-and-Troffer-Lights/NuWatt/N-5yc1vZ2fkol6bZuv6",
+    "title": "NuWatt 2 ft. x 4 ft. Integrated Backlit LED Panel Internal Driver Drop in Ceiling 5500 Lumen Dimmable 5000K 120-277V (4-Pack)",
+    "upc": "810066270329",
+    "item_id": "325793044",
+    "store_sku": "1010109912",
+    "model_number": "NW-BL-2X4-50W-50K-4P",
+    "description": "Add lighting to your commercial or residential space with this four-pack of NuWatt Backlit LED Panels. They contain a durable aluminum frame and internal driver, four Knockout holes leading to the J-Box, which allows for extremely easy installation, and four premium-grade mounting hooks to ensure safety, quality and durability. The wattage selection controls the lumens of the fixture, which allows you to adjust the brightness and light output of the LED ceiling panel to your liking prior to installing the fixture. The three color adjustable feature allows you to adjust the color temperature between 3500K Neutral White, 4000K Cool White or 5000K Daylight. These waterproof light panels are ideal for a residential building, commercial building, restaurant, hospital, office or home.",
+    "feature_bullets": [
+      "50,000-hours of light, no maintenance needed",
+      "Can be installed on many types of ceilings for versatility",
+      "Perfect for commercial spaces"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Quality: the NuWatt LED back lit panel offers 50,000-hours life hours and up to 65% in cost savings when switching from fluorescent bulbs",
+      "Dimmable: 110-degree beam angle allows for a wide beam spread to illuminate the room to the fullest capacity, while being able to dim the fixture to your liking",
+      "Multi-application: most common use cases are in T-bar grid ceilings, drop in ceiling, surface mounted or suspended with an extra kit; suitable for offices, schools, hospitals, hotels, restaurants, retail and other commercial applications",
+      "Certification: these LED lights are DLC 4.2 premium compliant and are eligible for state and nationwide rebate, UL Listed, JA8 title 24 compliant and come with a five-year warranty",
+      "LED lights are DLC 4.2 premium compliant and are eligible for state and nationwide rebate, UL Listed, JA8 Title 24 compliant and come with a five-year warranty",
+      "Diecast aluminum and polycarbonate",
+      "Need help with a home project? Let us do it for you - 1 800 HOME DEPOT or visit Home Depot.com/services",
+      "<a href=\"https://www.homedepot.com/c/electronics_recycling_programs\" style=\"color:#F96302;\" target=\"_blank\">Click here for more information on Electronic Recycling Programs</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ea8996f9-d71a-4ac3-8897-3885da01a39c/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f6a8a025-e96b-4664-ac53-6a512a398570/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/96866ae9-deab-47bd-8efb-53522a03d80b/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/93863492-8c33-42a4-bcba-a5b453fbb672/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4c71d4c5-2aa9-48cf-85e3-73a8a7de44d2/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/901f8ae7-6346-4042-b78d-0a2476f66435/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/26526780-0d47-4d45-8897-6f72a6ce6866/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5f98142f-5c8a-4229-a8d2-a94f4bdd533a/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ea8996f9-d71a-4ac3-8897-3885da01a39c/svn/white-nuwatt-panel-and-troffer-lights-nw-bl-2x4-50w-50k-4p-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Actual Color Temperature (K)",
+        "value": "5000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Rendering Index (CRI)",
+        "value": "90"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Temperature",
+        "value": "Daylight"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Damp/Wet Rating",
+        "value": "Dry Rated (Indoor)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dimmable Capability",
+        "value": "Dimmable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver,Mounting Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Light Bulb Type Included",
+        "value": "Integrated LED"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location Use",
+        "value": "Office"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumens",
+        "value": "5500"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Power Source",
+        "value": "Hardwired"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Length (ft)",
+        "value": "2 ft"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "12 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Width (ft)",
+        "value": "0.08 ft"
+      },
+      {
+        "group_name": "Details",
+        "name": "Recommended Mounting Height (ft.)",
+        "value": "10 ft"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Voltage (V)",
+        "value": "277 V"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wattage (W)",
+        "value": "50 W"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "Energy Star,Title 24,UL Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "five year limited warranty from date of original purpose."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in)",
+        "value": "48"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in)",
+        "value": "1"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lighting",
+        "link": "https://www.homedepot.com/b/Lighting/N-5yc1vZbvn5"
+      },
+      {
+        "name": "Commercial Lighting",
+        "link": "https://www.homedepot.com/b/Lighting-Commercial-Lighting/N-5yc1vZc7bu"
+      },
+      {
+        "name": "Panel and Troffer Lights",
+        "link": "https://www.homedepot.com/b/Lighting-Commercial-Lighting-Panel-and-Troffer-Lights/N-5yc1vZ2fkol6b"
+      }
+    ],
+    "buybox_winner": {
+      "price": 269.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20000,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20000,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

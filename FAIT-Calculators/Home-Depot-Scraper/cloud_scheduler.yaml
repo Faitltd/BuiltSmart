@@ -1,0 +1,24 @@
+# Cloud Scheduler configuration for Home Depot Scraper
+# This file defines a Cloud Scheduler job to run the scraper weekly
+
+description: "Weekly Home Depot Building Materials Scraper"
+schedule: "0 2 * * 0"  # Run at 2:00 AM every Sunday
+timeZone: "America/New_York"
+retryConfig:
+  retryCount: 3
+  maxRetryDuration: "3600s"
+  minBackoffDuration: "60s"
+  maxBackoffDuration: "300s"
+  maxDoublings: 3
+attemptDeadline: "3600s"  # 1 hour timeout
+
+# For Cloud Run target
+httpTarget:
+  uri: "https://YOUR_CLOUD_RUN_SERVICE_URL/run"
+  httpMethod: "POST"
+  headers:
+    Content-Type: "application/json"
+  body: "eyJydW5fbm93IjogdHJ1ZX0="  # Base64 encoded JSON: {"run_now": true}
+  oidcToken:
+    serviceAccountEmail: "YOUR_SERVICE_ACCOUNT@YOUR_PROJECT.iam.gserviceaccount.com"
+    audience: "https://YOUR_CLOUD_RUN_SERVICE_URL"

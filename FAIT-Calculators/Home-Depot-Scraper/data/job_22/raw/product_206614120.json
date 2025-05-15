@@ -1,0 +1,149 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14310,
+    "overage_used": 4310,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Swaner-Hardwood-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-196-in-x-48-in-x-96-in-Prefinished-1-Side-Birch-Plywood-BBI2VUV1I/206614120"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:25:57.547Z",
+    "processed_at": "2025-05-01T18:26:41.151Z",
+    "total_time_taken": 43.6,
+    "homedepot_url": "https://www.homedepot.com/p/Swaner-Hardwood-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-196-in-x-48-in-x-96-in-Prefinished-1-Side-Birch-Plywood-BBI2VUV1I/206614120"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Swaner-Hardwood-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-196-in-x-48-in-x-96-in-Prefinished-1-Side-Birch-Plywood-BBI2VUV1I/206614120",
+    "brand": "Swaner Hardwood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/Swaner-Hardwood/N-5yc1vZc7r1Zots",
+    "title": "Swaner Hardwood Common: 1/4 in. x 4 ft. x 8 ft., Actual: 0.196 in. x 48 in. x 96 in. Prefinished 1 Side Birch Plywood",
+    "upc": "728927030220",
+    "item_id": "206614120",
+    "store_sku": "1001625197",
+    "model_number": "BBI2VUV1I",
+    "description": "This hardwood plywood is perfect for interior use from a practical as well as an aesthetic point of view. Nothing else has such timeless good look or provides such a sense of well-being. This fine hardwood plywood can be used for a wide range of applications including cabinet components, furniture and much more. Perfect for drawer bottoms and cabinet backs. This plywood has been pre-finished with a UV coating on 1 side and is ready to use.",
+    "favorite_count": 12,
+    "feature_bullets": [
+      "Versatile use for furniture, cabinets, and more",
+      "Calibrated core to enhance stability and durability",
+      "UV Prefinished 1 side for easy maintenance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "5.2 mm x 4 ft. x 8 ft.",
+      "CARB II certified",
+      "Ready to use UV pre-finished 1 side",
+      "For interior use",
+      "Practical way to bring warmth and beauty to any project",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/14ff5483-32bf-4405-946a-0fdcb53ba0d0/svn/swaner-hardwood-hardwood-plywood-bbi2vuv1i-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/14ff5483-32bf-4405-946a-0fdcb53ba0d0/svn/swaner-hardwood-hardwood-plywood-bbi2vuv1i-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxM2Q1Y2RfOGNiODE1YzE4ZTRmYzA3Y2U2MzQ4YjZlZDkwMTUwNzc4YzQ0MmYwNTE5MzExNmUzNTQ0ZjllMzc5MzE3OTc2Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 17,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "C2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Sanded,UV Prefinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.196 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Hardwood Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/N-5yc1vZc7r1"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

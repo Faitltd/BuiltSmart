@@ -1,0 +1,181 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14021,
+    "overage_used": 4021,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/PATRIOT-TIMBER-PRODUCTS-1-8-in-x-4-ft-x-8-ft-Sanded-Plywood-1-8-in-x-4-ft-x-8-ft-RightPly-Plywood/321238692"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:40.657Z",
+    "processed_at": "2025-05-01T17:52:34.820Z",
+    "total_time_taken": 54.16,
+    "homedepot_url": "https://www.homedepot.com/p/PATRIOT-TIMBER-PRODUCTS-1-8-in-x-4-ft-x-8-ft-Sanded-Plywood-1-8-in-x-4-ft-x-8-ft-RightPly-Plywood/321238692"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/PATRIOT-TIMBER-PRODUCTS-1-8-in-x-4-ft-x-8-ft-Sanded-Plywood-1-8-in-x-4-ft-x-8-ft-RightPly-Plywood/321238692",
+    "brand": "PATRIOT TIMBER PRODUCTS",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/PATRIOT-TIMBER-PRODUCTS/N-5yc1vZc7qkZxz5",
+    "title": "PATRIOT TIMBER PRODUCTS 1/8 in. x 4 ft. x 8 ft. Sanded Plywood",
+    "upc": "878584003751",
+    "item_id": "321238692",
+    "parent_id": "327080193",
+    "store_sku": "1008039110",
+    "model_number": "1/8 in. x 4-ft x 8-ft RightPly Plywood",
+    "description": "RightPly is multi-purpose plywood designed for a variety of interior applications including paneling, cabinetry, furniture, millwork and woodworking projects. The face of RightPly is a B grade and better Radiata Pine rotary veneer that is easy to cut, nail, paint, trim or stain. All the veneer in RightPly originates from 100% plantation and sustainable sources. RightPly is the right choice for a premium multi-purpose plywood panel.",
+    "feature_bullets": [
+      "Smooth face enables quick cutting, scoring, and finishing",
+      "Stainable surface can be painted as per choice",
+      "Widely used in paneling, cabinetry, furniture, and more"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Premium grade and appearance - every panel has a B grade or better rotary face veneer",
+      "Easy to use - smooth high quality face for ease of cutting, scoring, finishing and applying adhesives",
+      "100% plantation and sustainable sources - the right choice for a variety of applications including paneling, millwork and woodworking",
+      "NGBS green certified - for points toward ICC-700 National Green Building Standard (NGBS)",
+      "Awarded utility US patent - U.S. patent no 8,414,996"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6006fb66-5923-4c29-8024-79168203db34/svn/patriot-timber-products-sanded-plywood-1-8-in-x-4-ft-x-8-ft-rightply-plywood-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a8b61eda-60cf-4b3f-b6ab-af904b65998f/svn/patriot-timber-products-sanded-plywood-1-8-in-x-4-ft-x-8-ft-rightply-plywood-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6e98030d-d96f-44a4-bc09-5bf7e5997529/svn/patriot-timber-products-sanded-plywood-1-8-in-x-4-ft-x-8-ft-rightply-plywood-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c54f844-5ba9-49f2-b81c-23b72a2ce9a3/svn/patriot-timber-products-sanded-plywood-1-8-in-x-4-ft-x-8-ft-rightply-plywood-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/187d90ff-ff82-4607-aa2a-45db6bf0edc9/svn/patriot-timber-products-sanded-plywood-1-8-in-x-4-ft-x-8-ft-rightply-plywood-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6c3d76df-84a6-43fa-8352-beee1d0a4484/svn/patriot-timber-products-sanded-plywood-1-8-in-x-4-ft-x-8-ft-rightply-plywood-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8eecdee1-6d65-4cd5-9386-e957c22a8846/svn/patriot-timber-products-sanded-plywood-1-8-in-x-4-ft-x-8-ft-rightply-plywood-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6006fb66-5923-4c29-8024-79168203db34/svn/patriot-timber-products-sanded-plywood-1-8-in-x-4-ft-x-8-ft-rightply-plywood-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 204,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "3-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "BB"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One Year Warranty per our warranty terms"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.00 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".10 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48.00 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~1/8",
+        "link": "https://www.homedepot.com/p/PATRIOT-TIMBER-PRODUCTS-1-8-in-x-4-ft-x-8-ft-Sanded-Plywood-1-8-in-x-4-ft-x-8-ft-RightPly-Plywood/321238692",
+        "item_id": "321238692"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~1/5",
+        "link": "https://www.homedepot.com/p/PATRIOT-TIMBER-PRODUCTS-1-5-in-x-4-ft-x-8-ft-Sanded-Plywood-1-5-in-x-4-ft-x-8-ft-RightPly-Plywood/321238728",
+        "item_id": "321238728"
+      },
+      {
+        "title": "4 ft. x 4 ft.~~1/5",
+        "link": "https://www.homedepot.com/p/PATRIOT-TIMBER-PRODUCTS-1-5-in-x-4-ft-x-4-ft-Sanded-Plywood-1-5-in-x-4-ft-x-4-ft-RightPly-Plywood/321238712",
+        "item_id": "321238712"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sanded Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/N-5yc1vZc7qk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 12,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14004,
+    "overage_used": 4004,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/SPAX-8-x1-5-8-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-2000-Each-Bulk-Bit-Included-35704015401000/328348765"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:13.483Z",
+    "processed_at": "2025-05-01T17:51:19.796Z",
+    "total_time_taken": 6.31,
+    "homedepot_url": "https://www.homedepot.com/p/SPAX-8-x1-5-8-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-2000-Each-Bulk-Bit-Included-35704015401000/328348765"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/SPAX-8-x1-5-8-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-2000-Each-Bulk-Bit-Included-35704015401000/328348765",
+    "brand": "SPAX",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/SPAX/N-5yc1vZ2fkpe61Z1bj",
+    "title": "SPAX #8 x1-5/8 in. Exterior Trim Head Stainless Steel Wood Deck Screws Powerdeck TorxT-Star Plus(2000 Each)Bulk Bit Included",
+    "upc": "712216029644",
+    "item_id": "328348765",
+    "parent_id": "329021523",
+    "store_sku": "1010720387",
+    "model_number": "35704015401000",
+    "description": "The SPAX Factor - For the craftsman that concentrates on the details, We Work for You. For the Pro that puts qualify first, we help you create stronger connections, enhance performance and improve results when your reputation is on the line. Say Good Bye to your fathers traditional lag. SPAX PowerLags offer superior installation performance and durability over traditional lag screws and carriage bolts for structural wood construction. Made of carbon steel and coated for long term durability to ensure your project endures. U.S made SPAX is your trusted partner for your fastening needs. Do it Once, Do it Right with SPAX.",
+    "feature_bullets": [
+      "1-5/8 in. Premium Exterior Screw - includes 2000 pieces",
+      "No pre-drilling needed with heat treated 4CUT point technology",
+      "Great for patio, deck, pressure treated lumber & outdoor projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Check out our threads: our patented thread serration technology allows the screw to be driven faster, reduces splitting in wood, and reduces driving torque by 40%, let the SPAX factor take some of the hassle out of your next project",
+      "Stop the squeak: the PowerDeck double ThreadLok design pulls and holds boards tight, preventing screws from backing out and boards from squeaking as lumber dries out",
+      "Trim head design offers pleasing aesthetics across the deck surface as well as countersinks nicely for a flush finish",
+      "T-STAR plus drive provides superior bit engagement, better bit engagement means quicker installation with less effort, conveniently allows for 1-hand overhead driving",
+      "304 Stainless steel is recommended for cedar and redwood applications, code compliant for ground contact, pressure treated lumber, fire-retardant treated lumber, exterior and coastal applications, AWPA UC1-UC4B, UCFA and UCFB",
+      "Common applications: treated lumber decking, shed construction, cedar and redwood and fencing",
+      "Requires a T-20 plus bit-included in box"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1fd10fa1-dafe-472a-a6d3-154a38ffe7f6/svn/spax-deck-screws-35704015401000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/156c10a0-9b09-49d3-960d-8abea906cec8/svn/spax-deck-screws-35704015401000-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/61a77ee1-71ae-4e9a-be74-6b9caa0f3d99/svn/spax-deck-screws-35704015401000-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d41fbdda-426d-484c-a355-80899a804b79/svn/spax-deck-screws-35704015401000-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1141ff9e-068c-4c49-8ccc-28960eda0d5f/svn/spax-deck-screws-35704015401000-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/31fdc3dd-37a2-4ba4-8ba9-0d81c36f1b2b/svn/spax-deck-screws-35704015401000-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/df074e89-91de-4fb5-aac0-fd960306f41a/svn/spax-deck-screws-35704015401000-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/de268b40-f8af-4f48-bc36-06a2b8ed24c6/svn/spax-deck-screws-35704015401000-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1fd10fa1-dafe-472a-a6d3-154a38ffe7f6/svn/spax-deck-screws-35704015401000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/843b140e-b44f-47ff-8120-4f8dbb2deada/60f381cb-1329-4579-af18-7b3a5943384f/main.mp4?fastly_token=NjgxNDBjYTFfODBmZGRjNWY5ZjEwOTdkYzYzZGE4MWQ4YTdiYTI4NDBlZWExYmY1NGRkYjI3MTM0ODZmZTQ1NDdmMjIyNGQzYV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvODQzYjE0MGUtYjQ0Zi00N2ZmLTgxMjAtNGY4ZGJiMmRlYWRhLzYwZjM4MWNiLTEzMjktNDU3OS1hZjE4LTdiM2E1OTQzMzg0Zi9tYWluLm1wNA%3D%3D",
+        "title": "TSTAR plus Powerdeck_No_Website",
+        "id": "6363372771112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/843b140e-b44f-47ff-8120-4f8dbb2deada/a84fcd86-c3ae-49a2-8111-02ca85e41af5/160x90/match/image.jpg",
+        "description": "Stainless Steel Powerdeck Deck and Wood Screws\n"
+      }
+    ],
+    "ratings_total": 6,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Uncoated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Structural Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated,Self Tapping"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Round Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit,Screw"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "2000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "12.55 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "2.2 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Serrated Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "10 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "For warranty information on this product, please call the Customer Service Center at 1-800-435-4654."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "1-5/8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#8"
+      }
+    ],
+    "size": "#8",
+    "variants": [
+      {
+        "title": "3 in~~#10~~Silver~~23.09 lb",
+        "link": "https://www.homedepot.com/p/SPAX-10x3-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-1500-Each-Bulk-Pail-Bit-Included-35705008402000/328348787",
+        "item_id": "328348787"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Silver~~3 lb",
+        "link": "https://www.homedepot.com/p/SPAX-10-x3-1-2-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-175-Each-3-LB-Bit-Included-45705008403045/315339561",
+        "item_id": "315339561"
+      },
+      {
+        "title": "3 in~~#10~~Silver~~5 lb",
+        "link": "https://www.homedepot.com/p/SPAX-10-x-3-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-Torx-T-Star-Plus-330-Each-5-LB-Bit-Included-45705008402007/301044695",
+        "item_id": "301044695"
+      },
+      {
+        "title": "3 in~~#10~~Silver~~3 lb",
+        "link": "https://www.homedepot.com/p/SPAX-10-x-3-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-Torx-T-Star-Plus-200-Each-3-LB-Bit-Included-45705008402045/315343202",
+        "item_id": "315343202"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Silver~~26.6 lb",
+        "link": "https://www.homedepot.com/p/SPAX-10-x3-1-2-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-1500-Each-Bulk-Bit-Included-35705008403000/328348808",
+        "item_id": "328348808"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~19.3 lb",
+        "link": "https://www.homedepot.com/p/SPAX-10-x2-1-2-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-1500-Each-Bulk-Bit-Included-35705008401000/328348777",
+        "item_id": "328348777"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~3 lb",
+        "link": "https://www.homedepot.com/p/SPAX-10-x2-1-2-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-250-Each-3-LB-Bit-Included-45705008401045/315339558",
+        "item_id": "315339558"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Silver~~12.55 lb",
+        "link": "https://www.homedepot.com/p/SPAX-8-x1-5-8-in-Exterior-Trim-Head-Stainless-Steel-Wood-Deck-Screws-Powerdeck-TorxT-Star-Plus-2000-Each-Bulk-Bit-Included-35704015401000/328348765",
+        "item_id": "328348765"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 174.6,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 97,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 97,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

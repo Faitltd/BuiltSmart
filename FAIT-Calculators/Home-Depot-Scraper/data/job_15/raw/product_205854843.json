@@ -1,0 +1,222 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13954,
+    "overage_used": 3954,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Oatey-7-in-Galvanized-Steel-Toilet-Flange-Replacement-Ring-427772/205854843"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:48:15.131Z",
+    "processed_at": "2025-05-01T17:48:27.305Z",
+    "total_time_taken": 12.17,
+    "homedepot_url": "https://www.homedepot.com/p/Oatey-7-in-Galvanized-Steel-Toilet-Flange-Replacement-Ring-427772/205854843"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Oatey-7-in-Galvanized-Steel-Toilet-Flange-Replacement-Ring-427772/205854843",
+    "brand": "Oatey",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Flanges/Oatey/N-5yc1vZckh3Z12z",
+    "title": "Oatey 7 in. Galvanized Steel Toilet Flange Replacement Ring",
+    "upc": "038753427775",
+    "item_id": "205854843",
+    "store_sku": "1003308403",
+    "model_number": "427772",
+    "description": "The Oatey Metal Replacement Flange is designed to replace a rusted or corroded metal toilet flange ring. Made out of galvanized steel for long-lasting durability, this flange features a two-piece design that makes it easy to access. For best results, use on PVC or ABS toilet flanges. Oatey products have earned the trust of plumbing professionals for over 100 years.",
+    "favorite_count": 61,
+    "aisle": "10",
+    "bay": "016",
+    "collection": {
+      "id": "Family-318849688",
+      "name": "Family-318849688",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Oatey-Flanges-and-Wax-Rings/Family-318849688?omsid=205854843"
+    },
+    "feature_bullets": [
+      "Use toilet flange replacement ring when replacing bath floor",
+      "Hinged design made of durable galvanized steel construction",
+      "6 countersunk holes and 2 bolt slots ensure secure attachment"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Replaces rusted or corroded metal toilet flange rings",
+      "For use on PVC or ABS toilet flanges",
+      "Durable galvanized steel construction",
+      "Split design allows for easy access to the flange",
+      "Includes 6 screw holes to securely fasten ring to floor",
+      "Includes: (2) repair toilet flange halves; (2) 1/4 in. diameter closet bolts; (2) large washers; (2) small washers and (4) nuts",
+      "7.01 in. O.D.",
+      "For warranty product details, refer to the Oatey Limited Warranty document"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/04140037-3897-48c8-b691-1228c3a6499d/svn/oatey-toilet-flanges-427772-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2d1448f3-3283-4a1f-a976-c136a0e5db31/svn/oatey-toilet-flanges-427772-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/66abb119-8865-44d1-8c69-f1294e49a68f/svn/oatey-toilet-flanges-427772-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e61960ee-c1ac-4778-9297-61d36ac7d744/svn/oatey-toilet-flanges-427772-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/95c6f09b-e290-4966-923d-2b784c6d0eae/svn/oatey-toilet-flanges-427772-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/04140037-3897-48c8-b691-1228c3a6499d/svn/oatey-toilet-flanges-427772-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f215aebb-1f06-41ef-8336-69a8268dfc90/a82c7ee7-26bc-4614-8ea2-03d5141abe9a/main.mp4?fastly_token=NjgzODI3YjhfYWM2MWU2MzA4NGJjMjM2NGZlY2I1MzU2NDc2MTcxOTkxMzFjMzQ1YTE3N2Y1ZWI5OGQ1NGE1NGYyM2Y2N2Q1MV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mMjE1YWViYi0xZjA2LTQxZWYtODMzNi02OWE4MjY4ZGZjOTAvYTgyYzdlZTctMjZiYy00NjE0LThlYTItMDNkNTE0MWFiZTlhL21haW4ubXA0&pubid=66036796001",
+        "title": "How to install a flange",
+        "id": "6125529661001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/b5e6b0e1-4ab1-4d09-8235-12c64f643b54/27191e15-7cc8-4976-a224-637db5b571f5/160x90/match/image.jpg",
+        "description": "How to install a toilet flange."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 360,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flange Included",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flange Type",
+        "value": "Flange repair ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Galvanized Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Toilet Flange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Provides Extension",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sleeve Included",
+        "value": "No"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "7.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Toilet Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts/N-5yc1vZc69l"
+      },
+      {
+        "name": "Toilet Flanges",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Flanges/N-5yc1vZckh3"
+      }
+    ],
+    "buybox_winner": {
+      "price": 17.53,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 13,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 109,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14912,
+    "overage_used": 4912,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Gleam-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-31674-0/312838678"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:41:19.743Z",
+    "processed_at": "2025-05-02T21:41:27.463Z",
+    "total_time_taken": 7.72,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Gleam-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-31674-0/312838678"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Gleam-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-31674-0/312838678",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/KOHLER/N-5yc1vZcb8nZ1qh",
+    "title": "KOHLER Gleam 12 in. Rough In 2-Piece 1.28 GFP Single Flush Elongated Chair Height Toilet in White with Soft Close Seat",
+    "upc": "885612866851",
+    "item_id": "312838678",
+    "store_sku": "1005261406",
+    "model_number": "K-31674-0",
+    "description": "This WaterSense-labeled high-efficiency toilet delivers water conservation and easy installation in a sleek, skirted design. The Gleam two-piece skirted toilet utilizes Kohler's patented new ReadyLock installation system for easier, more intuitive installation. The skirted trapway installs to the floor flange and attaches to the toilet, eliminating the need to drill holes for a standard 12\" rough-in while still offering the same secure installation as non-skirted toilets.",
+    "is_exclusive": true,
+    "favorite_count": 651,
+    "aisle": "37",
+    "bay": "004",
+    "feature_bullets": [
+      "Made of vitreous, ADA comfort height 1.28 GPF 360 canister flush",
+      "Skirted trapway makes cleaning easy",
+      "Soft close toilet seat, wax ring, and hardware included"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Two-piece toilet",
+      "Elongated bowl offers added room and comfort",
+      "Comfort Height feature offers chair-height seating that makes sitting down and standing up easier for most adults",
+      "1.28 GPF (4.8 lpf)",
+      "Includes polished chrome left-hand trip lever",
+      "2-1/8 in. (54 mm) fully-glazed trapway",
+      "Fully skirted trapway",
+      "Quiet-Close lid and seat prevents slamming",
+      "Complete solution toilets provide everything you need in one box, including bowl, tank, slow-close seat, wax ring, and floor hardware",
+      "Single-flush gravity uses the force of gravity and a precision-engineered tank, bowl, and trapway to create a strong siphon during flushing",
+      "Class Five flushing technology offers virtually plug-free performance and rinsing power for a clean bowl",
+      "Flush valve's 3:2 ratio harnesses the natural force of gravityand optimizes flush performance",
+      "Durable canister design has 90% less exposed seal material than a 3 in. flapper for leak-free performance",
+      "Light-touch canister flush requires a lower actuation force than a flapper",
+      "Standard 12 in. (305 mm) rough-in",
+      "WaterSense",
+      "<img src=\"https://inlinecontent.thdstatic.com/29A/KOHLER COMPANY/312838678.jpg\">",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 18,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/29cf7f8d-d1b8-40ec-bf6c-69da53b99536/svn/white-kohler-two-piece-toilets-k-31674-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/470645ae-1198-481d-be82-da89a55353e1/svn/white-kohler-two-piece-toilets-k-31674-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/db17f338-a515-4556-a99a-510cad83827e/svn/white-kohler-two-piece-toilets-k-31674-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ebd5c0d7-1814-4de1-a18d-7079c2d7fe2e/svn/white-kohler-two-piece-toilets-k-31674-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/05545f52-1c45-43e5-b78a-3aa1a400ddce/svn/white-kohler-two-piece-toilets-k-31674-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0416b39c-9928-463d-ae9a-c0c581a12a3a/svn/white-kohler-two-piece-toilets-k-31674-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c740c6f-42a3-4322-89b2-1209c26546d2/svn/white-kohler-two-piece-toilets-k-31674-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a37fd13c-a484-4f7f-b84e-455a924e4e53/svn/white-kohler-two-piece-toilets-k-31674-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/96871c35-be4f-4072-86d7-02944804bdc1/svn/white-kohler-two-piece-toilets-k-31674-0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b76d02cf-1165-41eb-a46c-6fec51323bec/svn/white-kohler-two-piece-toilets-k-31674-0-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/29cf7f8d-d1b8-40ec-bf6c-69da53b99536/svn/white-kohler-two-piece-toilets-k-31674-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/aa74e33e-1f8f-4826-ac9b-ab4028efcf21/94050c03-49cc-4fe4-b60b-3bb00228d3e6/main.mp4?fastly_token=NjgxNGUzMDdfMzI0YmVmYTg5MGY2YTE1ZWRkZjQ4NDY2ODcwOGNjMGJkZDNmZTFmODBjYmU4NWZiODBlN2E5YzFjZDkyZmZkMF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYWE3NGUzM2UtMWY4Zi00ODI2LWFjOWItYWI0MDI4ZWZjZjIxLzk0MDUwYzAzLTQ5Y2MtNGZlNC1iNjBiLTNiYjAwMjI4ZDNlNi9tYWluLm1wNA%3D%3D",
+        "title": "KOHLER Gleam Ready Lock ",
+        "id": "6232613694001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/aa74e33e-1f8f-4826-ac9b-ab4028efcf21/55a5a643-c3c4-40eb-a512-4112e03939cc/160x90/match/image.jpg",
+        "description": "KOHLER Gleam Ready Lock \n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/1a2625ca-706b-4b21-9d7b-2b52cf7ae3c6/ca2aec48-42e0-418d-92d7-d16cc3bd9412/main.mp4?fastly_token=NjgxNGUzMDdfOWQ5Y2U2NWIwYzEzZGJjYWU4ZDc4YzI4M2MzMWU1MDE1YWE0MWUyNzA3MDkyYzhlNGViYThjYzZmMDIzM2I0Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMWEyNjI1Y2EtNzA2Yi00YjIxLTlkN2ItMmI1MmNmN2FlM2M2L2NhMmFlYzQ4LTQyZTAtNDE4ZC05MmQ3LWQxNmNjM2JkOTQxMi9tYWluLm1wNA%3D%3D",
+        "title": "KOHLER Gleam Skirted Toilet ",
+        "id": "6232614725001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/1a2625ca-706b-4b21-9d7b-2b52cf7ae3c6/be0463e8-e93c-49df-beec-9d10034c777a/160x90/match/image.jpg",
+        "description": "KOHLER Gleam Skirted Toilet \n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/406e6eef-f8e1-46a0-8e07-74f9ee1180d1/1c948a27-7ef3-4d2e-8426-6e95eaaa85ed/main.mp4?fastly_token=NjgxNGUzM2VfNzE5NDkxNDA3NzlhZWY1MGVmZjkyZDNiMjVjMGJlZmRiY2I2N2VjNGI5ZDY2YjM2YjBiOGU2ODcwMTgyMGRmMl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNDA2ZTZlZWYtZjhlMS00NmEwLThlMDctNzRmOWVlMTE4MGQxLzFjOTQ4YTI3LTdlZjMtNGQyZS04NDI2LTZlOTVlYWFhODVlZC9tYWluLm1wNA%3D%3D",
+        "title": "K22BN6240_Gleam_computer",
+        "id": "6307483370112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/406e6eef-f8e1-46a0-8e07-74f9ee1180d1/main/160x90/31s296ms/match/image.jpg",
+        "description": "Gleam Flushing\n"
+      }
+    ],
+    "ratings_total": 1894,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Complete Kit"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "Not Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "105 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.125 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ANSI Certified,ASME Certified,CSA Certified,EPA Approved"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Ten Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "29.1875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "31 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 279,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 12
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 178,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 339,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

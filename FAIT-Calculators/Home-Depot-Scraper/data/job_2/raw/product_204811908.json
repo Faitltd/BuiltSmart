@@ -1,0 +1,351 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12812,
+    "overage_used": 2812,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-8-1-5-8-in-Red-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-123-Piece-115712/204811908"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:32:15.769Z",
+    "processed_at": "2025-05-01T13:32:20.861Z",
+    "total_time_taken": 5.09,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-8-1-5-8-in-Red-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-123-Piece-115712/204811908"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DECKMATE-8-1-5-8-in-Red-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-123-Piece-115712/204811908",
+    "brand": "DECKMATE",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/DECKMATE/N-5yc1vZ2fkpe6aZrkz",
+    "title": "DECKMATE #8 1-5/8 in. Red Star Pan-Head Composite Deck Screws 1 lb.-Box (123-Piece)",
+    "upc": "038902036193",
+    "item_id": "204811908",
+    "parent_id": "324059177",
+    "store_sku": "283468",
+    "model_number": "115712",
+    "description": "Make the most of your of your project with DECKMATE brand composite screws. Specially designed to fasten composite decking, treated wood, and other plastic materials, these red star-drive composite deck screws will blend perfectly with your decking project. Recommended for use in ACQ, CA, and CCA treated lumber, the ceramic coating on this screw is able to withstand high temperatures while providing superb rust and corrosion protection. Engineered with pro-cut threads that reduce splitting and a self-drilling tip, installation is made simple with no need for a pilot hole. The unique star drive reduces stripping and drives with the driver bit included in each box.",
+    "is_top_rated": true,
+    "favorite_count": 13,
+    "collection": {
+      "id": "Family-317458890",
+      "name": "Family-317458890",
+      "link": "https://www.homedepot.com/collection/Hardware/DECKMATE-Deck-Screws/Family-317458890?omsid=204811908"
+    },
+    "feature_bullets": [
+      "For use with treated lumber and outdoor applications",
+      "Star drive reduces stripping during installation process",
+      "Polymer coating enhances overall durability of project"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Coating is guaranteed for the life of the project",
+      "Auger threads start fast without pre-drilling and reduce drive torque",
+      "Star drive will not strip or cam-out",
+      "Premium polymer coat is formulated for use with composite deck boards",
+      "Red"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ad125897-2f3d-4c74-a079-20615ab94ed6/svn/deckmate-composite-deck-screws-115712-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/33548926-7bba-47ff-b51b-ae094ca0e167/svn/deckmate-composite-deck-screws-115712-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/df3b34ab-a831-4db9-855c-7eb933c74822/svn/deckmate-composite-deck-screws-115712-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ee42ca41-097e-4b7e-9e99-4709704d14ef/svn/deckmate-composite-deck-screws-115712-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f83166b0-3cf1-461e-8086-9c819f58adfd/svn/deckmate-composite-deck-screws-115712-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/07e841be-6583-4961-9fe1-44b66db49f01/svn/deckmate-composite-deck-screws-115712-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e53fdd40-7ce8-47dc-ac57-6495cd6802df/svn/deckmate-composite-deck-screws-115712-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/17972776-1a3f-4713-8904-34024254054c/svn/deckmate-composite-deck-screws-115712-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d1d158a1-e860-4500-977b-d414a2dbbd40/svn/deckmate-composite-deck-screws-115712-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/14c6091d-e8eb-471e-93c7-e8058bb0c20e/svn/deckmate-composite-deck-screws-115712-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ad125897-2f3d-4c74-a079-20615ab94ed6/svn/deckmate-composite-deck-screws-115712-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/235c2eda-531e-4d16-88b5-78349ad8b4d3/1723830f-83d3-4b7b-b598-f76dab1dc9b4/main.mp4?fastly_token=NjgzODVmODVfOTdmNjEwOGY3ZGQ5ZWM2NjgzYjU4NzkyYTA3MzgwNzFhZmE0NzVjMjVkMTI0ZjhmMjczYzc1MjYzOWU3MDZhOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yMzVjMmVkYS01MzFlLTRkMTYtODhiNS03ODM0OWFkOGI0ZDMvMTcyMzgzMGYtODNkMy00YjdiLWI1OTgtZjc2ZGFiMWRjOWI0L21haW4ubXA0&pubid=66036796001",
+        "title": "Deck Mate Screws With Star Drive",
+        "id": "3479381189001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/235c2eda-531e-4d16-88b5-78349ad8b4d3/ba6299f3-5f13-425d-bdb6-ddebbd1c6fc5/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Tan Polymer-Plated Flat-Head Star Deckmate Wood Screws are ideal for outdoor wood deck projects and are ACQ rated. Star drive head reduces stripping and provides better torque transfer."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/75b85dbc-ffd3-4bcf-9ecf-ffdcbc2368ca/c0a9a601-314c-4264-92b1-b2f1000237b9/main.mp4?fastly_token=NjgxM2JkYThfY2I3YzFiMjIxM2Y3YmFlZGJmNGNiMjE1MWQ2ZTc5NGNkY2Q0NmJkOWQ1MTRlMzcxN2YyYzdkMDk1ZDUwNzU3M18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNzViODVkYmMtZmZkMy00YmNmLTllY2YtZmZkY2JjMjM2OGNhL2MwYTlhNjAxLTMxNGMtNDI2NC05MmIxLWIyZjEwMDAyMzdiOS9tYWluLm1wNA%3D%3D",
+        "title": "Deck Mate III",
+        "id": "6025427519001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/75b85dbc-ffd3-4bcf-9ecf-ffdcbc2368ca/0aab207f-7270-4b06-9002-2f324955efbc/160x90/match/image.jpg",
+        "description": "The newest screw in decking.\n"
+      }
+    ],
+    "ratings_total": 309,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Red"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Phosphate"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Pan Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "149"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Red"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "N/A - Metric Fastener"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "1-5/8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#8"
+      }
+    ],
+    "size": "#8",
+    "variants": [
+      {
+        "title": "2-1/2 in~~#10~~Red~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-2-1-2-in-Red-Star-Pan-Head-Composite-Deck-Screws-5-lbs-Box-375-Piece-115714/204811796",
+        "item_id": "204811796"
+      },
+      {
+        "title": "3 in~~#10~~Brown~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-3-in-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-59-Piece-115704/204811894",
+        "item_id": "204811894"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-2-1-2-in-Brown-Pan-Head-Composite-Deck-Screws-5-lbs-Box-371-Piece-115702/204811955",
+        "item_id": "204811955"
+      },
+      {
+        "title": "3 in~~#10~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-3-in-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-59-Piece-115710/204811805",
+        "item_id": "204811805"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Brown~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-1-5-8-in-Brown-Star-Pan-Head-Composite-Deck-Screws-1-lbs-Box-147-Piece-115700/204811964",
+        "item_id": "204811964"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-2-1-2-in-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-75-Piece-115713/204811897",
+        "item_id": "204811897"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-5-8-in-Gray-Coarse-Polymer-Plated-Steel-Star-Drive-Bugle-Head-Composite-Deck-Screws-1-lb-Box-371-Piece-115706/204811928",
+        "item_id": "204811928"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-1-5-8-in-Red-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-123-Piece-115712/204811908",
+        "item_id": "204811908"
+      },
+      {
+        "title": "3 in~~#10~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-3-in-Gray-Star-Pan-Head-Composite-Deck-Screws-5-lbs-Box-310-Piece-115711/204811780",
+        "item_id": "204811780"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-2-1-2-in-Gray-Star-Pan-Head-Composite-Deck-Screws-5-lbs-Box-371-Piece-115708/204812006",
+        "item_id": "204812006"
+      },
+      {
+        "title": "3 in~~#10~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-3-in-Red-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-54-Piece-115715/204811782",
+        "item_id": "204811782"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-2-1-2-in-Gray-Star-Pan-Head-Composite-Deck-Screws-1-lb-Box-71-Piece-115707/204811778",
+        "item_id": "204811778"
+      },
+      {
+        "title": "3 in~~#10~~Red~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-3-in-Red-Star-Pan-Head-Composite-Deck-Screws-5-lbs-Box-310-Piece-115716/204812008",
+        "item_id": "204812008"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 11.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 33,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 33,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

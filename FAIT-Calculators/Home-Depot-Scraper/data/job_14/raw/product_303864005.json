@@ -1,0 +1,224 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13953,
+    "overage_used": 3953,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Oatey-1-4-in-Stainless-Steel-Toilet-Flange-Replacement-Ring-427782/303864005"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:13:57.578Z",
+    "processed_at": "2025-05-01T17:14:01.078Z",
+    "total_time_taken": 3.5,
+    "homedepot_url": "https://www.homedepot.com/p/Oatey-1-4-in-Stainless-Steel-Toilet-Flange-Replacement-Ring-427782/303864005"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Oatey-1-4-in-Stainless-Steel-Toilet-Flange-Replacement-Ring-427782/303864005",
+    "brand": "Oatey",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Flanges/Oatey/N-5yc1vZckh3Z12z",
+    "title": "Oatey 1/4 in. Stainless Steel Toilet Flange Replacement Ring",
+    "upc": "038753427782",
+    "item_id": "303864005",
+    "store_sku": "1003316824",
+    "model_number": "427782",
+    "description": "Oatey Stainless Steel Replacement Ring quickly and easily connects a water closet outlet to a plumbing system and sits flush with the floor. It fits 3 in. or 4 in. size pipes, and includes six countersunk holes for secure attachment to the floor. Oatey products have earned the trust of plumbing professionals for over 100 years.",
+    "favorite_count": 566,
+    "aisle": "10",
+    "bay": "016",
+    "collection": {
+      "id": "Family-318849688",
+      "name": "Family-318849688",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Oatey-Flanges-and-Wax-Rings/Family-318849688?omsid=303864005"
+    },
+    "feature_bullets": [
+      "Use toilet flange replacement ring when replacing bath floor",
+      "Stainless steel closet flange ring provides corrosion resistance",
+      "6 countersunk holes and 2 bolt slots ensure secure attachment"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Replaces broken, rusted or corroded metal toilet flange rings",
+      "For use on 3 in. or 4 in. toilet flanges",
+      "Includes 6 countersunk holes for secure attachment to the floor",
+      "Durable stainless steel construction",
+      "Includes 2 sturdy closet bolt slots",
+      "7.01 in. O.D."
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/47a36ffe-8f82-43e2-8ff0-f689ecf8283b/svn/oatey-toilet-flanges-427782-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1272676f-1ffe-48c3-9b21-e2fe1b73560d/svn/oatey-toilet-flanges-427782-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c6be8434-918d-4764-ba9a-5ce92ccdfde9/svn/oatey-toilet-flanges-427782-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f585116f-e3f3-4a4b-950e-6d7329766c1b/svn/oatey-toilet-flanges-427782-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7b02b80a-2a33-4010-8285-24922ed6294e/svn/oatey-toilet-flanges-427782-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b2f87a89-deb3-4118-b974-63d553b731ac/svn/oatey-toilet-flanges-427782-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/47a36ffe-8f82-43e2-8ff0-f689ecf8283b/svn/oatey-toilet-flanges-427782-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f215aebb-1f06-41ef-8336-69a8268dfc90/a82c7ee7-26bc-4614-8ea2-03d5141abe9a/main.mp4?fastly_token=NjgzODI3YjhfYWM2MWU2MzA4NGJjMjM2NGZlY2I1MzU2NDc2MTcxOTkxMzFjMzQ1YTE3N2Y1ZWI5OGQ1NGE1NGYyM2Y2N2Q1MV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mMjE1YWViYi0xZjA2LTQxZWYtODMzNi02OWE4MjY4ZGZjOTAvYTgyYzdlZTctMjZiYy00NjE0LThlYTItMDNkNTE0MWFiZTlhL21haW4ubXA0&pubid=66036796001",
+        "title": "How to install a flange",
+        "id": "6125529661001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/b5e6b0e1-4ab1-4d09-8235-12c64f643b54/27191e15-7cc8-4976-a224-637db5b571f5/160x90/match/image.jpg",
+        "description": "How to install a toilet flange."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 413,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flange Included",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flange Type",
+        "value": "Flange repair ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Toilet Flange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Provides Extension",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sleeve Included",
+        "value": "No"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "5.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": ".25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.75 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Toilet Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts/N-5yc1vZc69l"
+      },
+      {
+        "name": "Toilet Flanges",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Flanges/N-5yc1vZckh3"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.96,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 67
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 67,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 109,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

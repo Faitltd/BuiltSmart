@@ -1,0 +1,238 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14701,
+    "overage_used": 4701,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Select-1-in-x-5-1-2-in-x-12-ft-Saddle-Grooved-Edge-Capped-Composite-Decking-Board-SD010612SG01/206802164"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:04:56.839Z",
+    "processed_at": "2025-05-01T19:05:06.688Z",
+    "total_time_taken": 9.85,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Select-1-in-x-5-1-2-in-x-12-ft-Saddle-Grooved-Edge-Capped-Composite-Decking-Board-SD010612SG01/206802164"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Select-1-in-x-5-1-2-in-x-12-ft-Saddle-Grooved-Edge-Capped-Composite-Decking-Board-SD010612SG01/206802164",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Select 1 in. x 5-1/2 in. x 12 ft. Saddle Grooved Edge Capped Composite Decking Board",
+    "upc": "652835173321",
+    "item_id": "206802164",
+    "parent_id": "310483764",
+    "store_sku": "1006541051",
+    "model_number": "SD010612SG01",
+    "description": "Trex Select makes adding our legendary luxury to your home easier than ever. Available in nature-inspired colors, Select is the perfect, go-with-anything complement to your home. Plus, Select is protected by our high-performance shell technology so you can rest assured that your deck's beauty will last for decades with only minimal maintenance required. And, as with all Trex products, Select is backed by impressive warranty coverage.",
+    "favorite_count": 3,
+    "feature_bullets": [
+      "Made of high-performance composite; won't rot, warp or splinter",
+      "Low-maintenance material; cleans easily with soap and water",
+      "Backed by a 35-year limited residential fade and stain warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Simple, natural colors feature a realistic wood grain",
+      "High-performance shell is fade, stain, scratch and mold resistant",
+      "Available in both square edge boards and grooved edge boards that install with hidden fasteners or traditional deck screws",
+      "Backed by the Trex 25-year limited residential warranty",
+      "Made from 95% recycled materials",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/TREX COMPANY INC/TRX0489_HD_Graphic_TrexVsWood_Brown.jpg\">"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4434e6f0-0493-49e9-8166-cc1f82aaa6c2/svn/brown-trex-composite-decking-boards-sd010612sg01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/117766d3-62c2-4c08-ac69-02aefe88e8f4/svn/brown-trex-composite-decking-boards-sd010612sg01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8f96301-c26b-4f86-8842-2351ec418a8b/svn/brown-trex-composite-decking-boards-sd010612sg01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eacf754c-d578-4205-8e7d-98bfa810fe9a/svn/brown-trex-composite-decking-boards-sd010612sg01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/665f7307-eb58-4080-8769-cbfb38230b6c/svn/brown-trex-composite-decking-boards-sd010612sg01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/028c864d-2c1e-44ab-aa01-d413daab4b5a/svn/brown-trex-composite-decking-boards-sd010612sg01-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d635634d-c78a-4708-be96-eec931667b51/svn/brown-trex-composite-decking-boards-sd010612sg01-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d201a90c-57ef-4048-b2c3-9d6e8f51c221/svn/brown-trex-composite-decking-boards-sd010612sg01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2ae2a705-4c81-4a28-87e7-7cc932c985a7/svn/brown-trex-composite-decking-boards-sd010612sg01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eacf754c-d578-4205-8e7d-98bfa810fe9a/svn/brown-trex-composite-decking-boards-sd010612sg01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4434e6f0-0493-49e9-8166-cc1f82aaa6c2/svn/brown-trex-composite-decking-boards-sd010612sg01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4935f6a9-518b-44d7-bc7d-d128317ea6cd/d69d14a0-18f1-44da-8173-57b527995967/main.mp4?fastly_token=NjgzODQwMzlfN2E3NDEzYzY4NWQwNDkyYjQzODkyZDM3ZGJlMzQ4OTY0N2Y1YzQyMjYwM2IwZTI0YmM1OWQ2ZDBiN2YzYmQ4Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80OTM1ZjZhOS01MThiLTQ0ZDctYmM3ZC1kMTI4MzE3ZWE2Y2QvZDY5ZDE0YTAtMThmMS00NGRhLTgxNzMtNTdiNTI3OTk1OTY3L21haW4ubXA0&pubid=66036796001",
+        "title": "Trex Decking Video",
+        "id": "5449729099001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/4935f6a9-518b-44d7-bc7d-d128317ea6cd/41c982cf-3a49-4d4a-add2-1c575bbc9d0d/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Please attach this Trex decking video to the below OMSIDs"
+      }
+    ],
+    "ratings_total": 154,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Universal Hidden Fastener Combo Box"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 25-Year Limited Residential Warranty and the Trex 25-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.82 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "24"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Brown~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-Select-1-in-x-5-1-2-in-x-20-ft-Saddle-Grooved-Edge-Capped-Composite-Decking-Board-SD010620SG01/206802182",
+        "item_id": "206802182"
+      },
+      {
+        "title": "Brown~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-Select-1-in-x-5-1-2-in-x-16-ft-Saddle-Grooved-Edge-Capped-Composite-Decking-Board-SD010616SG01/206802181",
+        "item_id": "206802181"
+      },
+      {
+        "title": "Brown~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-Select-1-in-x-5-1-2-in-x-12-ft-Saddle-Grooved-Edge-Capped-Composite-Decking-Board-SD010612SG01/206802164",
+        "item_id": "206802164"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 49.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 243,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

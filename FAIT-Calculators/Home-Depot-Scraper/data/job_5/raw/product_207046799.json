@@ -1,0 +1,199 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13175,
+    "overage_used": 3175,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-254-1-2-in-x-3-4-in-Finished-MDF-S4S-Moulding-Sold-by-Linear-Foot-10005575/207046799"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:46:33.313Z",
+    "processed_at": "2025-05-01T13:46:39.381Z",
+    "total_time_taken": 6.07,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-254-1-2-in-x-3-4-in-Finished-MDF-S4S-Moulding-Sold-by-Linear-Foot-10005575/207046799"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-254-1-2-in-x-3-4-in-Finished-MDF-S4S-Moulding-Sold-by-Linear-Foot-10005575/207046799",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/FINISHED-ELEGANCE/N-5yc1vZcbj5Zr98",
+    "title": "FINISHED ELEGANCE 254 1/2 in. x  3/4 in. Finished MDF S4S Moulding (Sold by Linear Foot)",
+    "upc": "095624521918",
+    "item_id": "207046799",
+    "store_sku": "1001836596",
+    "model_number": "10005575",
+    "description": "The Finished Elegance 254 1/2 in. x 3/4 in. FE Medium Density Fiberboard S4S molding can be used for a wide variety of projects. FE Medium Density Fiberboard 254 S4S molding is great for constructing cabinets or bookcases. Some S4S moldings can be used as balusters to support hand rails. S4S is also a great addition to many molding combinations. Finished Elegance molding and trim is completely finished with no painting required, so you can simply cut and install your new molding - saving time and money. The superior durability of Finished Elegance molding and trim also allows it to withstand years of wear and tear in your home. Use the complete solution of the color matched touch-up kit and caulk with your Finished Elegance installation to create a lasting impression for your entire room.",
+    "favorite_count": 80,
+    "aisle": "19",
+    "bay": "011",
+    "feature_bullets": [
+      "Ideally used in balusters for supporting handrails",
+      "MDF construction is resilient to warping",
+      "Polished surface effectively resists dents and scratches"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is factory finished for easy installation",
+      "Simply nail to the wall and fill the holes for a perfect installation",
+      "Durable finish is resistant to scratches and dents",
+      "Don't forget the color matched caulk and fill stick",
+      "Installs with common woodworking tools",
+      "Can also be used to accent shelving, cabinets or any other interior elements",
+      "For interior use only"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5237a9df-f3a1-48f9-9b71-92531306aa3b/svn/white-finished-elegance-general-purpose-moulding-10005575-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-finished-elegance-general-purpose-moulding-10005575-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5125d255-2058-447d-b477-c5ce7a060578/svn/white-finished-elegance-general-purpose-moulding-10005575-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5237a9df-f3a1-48f9-9b71-92531306aa3b/svn/white-finished-elegance-general-purpose-moulding-10005575-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 69,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "S4S Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "254"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "168 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1719
+        }
+      }
+    }
+  }
+}

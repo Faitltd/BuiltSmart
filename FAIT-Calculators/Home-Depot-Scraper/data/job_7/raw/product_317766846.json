@@ -1,0 +1,384 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13255,
+    "overage_used": 3255,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-Clear-2814816/317766846"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:50:35.693Z",
+    "processed_at": "2025-05-01T13:50:40.989Z",
+    "total_time_taken": 5.3,
+    "homedepot_url": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-Clear-2814816/317766846"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-Clear-2814816/317766846",
+    "brand": "GE",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/GE/N-5yc1vZcibhZlo",
+    "title": "GE Supreme Silicone Caulk 10.1 oz Window and Door Sealant Clear",
+    "upc": "028756956563",
+    "item_id": "317766846",
+    "parent_id": "330787295",
+    "store_sku": "318159",
+    "model_number": "2814816",
+    "description": "GE Supreme Silicone Window and Door sealant is a 100% waterproof caulk that can provide a reliable seal in weather-prone areas such as windows, doors, basements, roofs, sidewalks, siding, tuckpointing, and attics. This caulk also has a 30-minute rain-ready formula and resists stain-causing mold and mildew growth. Our 100% silicone sealant offers 40% more flexibility than Class 25 sealants and 7x stronger adhesion than our Silicone 1 sealant. Plus, it offers 50% joint-movement capabilities without cracking, shrinking, breaking down, or washing away. GE Supreme Silicone Window and Door sealant is a premium caulk that has a low odor ideal for interior applications, and it won't discolor most high-end metal finishes such as chrome, bronze, and nickel.",
+    "aisle": "50",
+    "bay": "014",
+    "feature_bullets": [
+      "Caulking for windows, doors, roofs, sidewalks, siding and more",
+      "Lifetime mold-free protection; waterproof and weatherproof",
+      "Excellent adhesion and flexibility with 50% joint movement"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "100% silicone caulking is 100% waterproof and weatherproof, rain-ready in 30 minutes",
+      "Lifetime mold-free product protection",
+      "Meets ASTM C-920, class 50 requirements",
+      "7x stronger adhesion than Silicone 1, 40% more flexibility than class 25 sealants",
+      "Resistant to shrinking, cracking, freezing and sun",
+      "Won't blemish most high-end metal finishes such as chrome, bronze and nickel",
+      "Neutral curing with low odor",
+      "Adheres to: most metals and woods, aluminum, composites, brick, stone, stucco, masonry, cement board, glass, drywall, ceramic and porcelain tile and more",
+      "100% silicone will not shrink, crack, break down, or wash away",
+      "Weatherproof- sun-proof, freeze-proof, flexible"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5e1b02b2-6c93-46ce-9dd3-8c5d12961606/svn/clear-ge-caulk-2814816-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d19edfd0-652c-4bc7-8527-3280bf2a2875/svn/clear-ge-caulk-2814816-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6af8e804-274f-470b-aa4f-5abc5871f9bc/svn/clear-ge-caulk-2814816-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1505dc03-0c30-408a-a59d-bb8931ecca1e/svn/clear-ge-caulk-2814816-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0f0a50ad-8349-4427-8308-df63ba5dba8e/svn/clear-ge-caulk-2814816-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/60beb6ae-787a-4500-90f7-f66af5fde067/svn/clear-ge-caulk-2814816-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a55b6642-f032-4dff-bb27-9647acf2cb4f/svn/clear-ge-caulk-2814816-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a9960836-2afa-44b2-83a4-e759c5d25767/svn/clear-ge-caulk-2814816-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a9711736-1592-4b79-9d8d-cb95491ff4ac/svn/clear-ge-caulk-2814816-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b3660756-f03a-490c-b89d-f6fede289ab6/svn/clear-ge-caulk-2814816-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92245680-01ca-4128-a210-f4529a297b61/svn/clear-ge-caulk-2814816-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/239795e1-405f-40af-834e-370e15deee51/svn/clear-ge-caulk-2814816-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cfccc425-6c7f-4af4-89e4-72488bff34dd/svn/clear-ge-caulk-2814816-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3b3c6b7e-04fd-4eef-8ce0-f9691ddec2d5/svn/clear-ge-caulk-2814816-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5e1b02b2-6c93-46ce-9dd3-8c5d12961606/svn/clear-ge-caulk-2814816-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/19cc8dbf-e126-4210-86ea-e77c3afad118/48537e9b-04b8-47e6-a2dd-364a53ef812a/main.mp4?fastly_token=NjgxMzkyMzhfNjdmZDBjNDExNGJmODJhZDMzNThhODdlODY0ZDdhOGI5NTdjMDZiYmRlNGVlZmRiZGVkMTgzMjkyMWI4NDM1ZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMTljYzhkYmYtZTEyNi00MjEwLTg2ZWEtZTc3YzNhZmFkMTE4LzQ4NTM3ZTliLTA0YjgtNDdlNi1hMmRkLTM2NGE1M2VmODEyYS9tYWluLm1wNA%3D%3D",
+        "title": "Supreme Silicone 10.1 oz. Window and Door Caulk",
+        "id": "6273858340001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/19cc8dbf-e126-4210-86ea-e77c3afad118/ffb001d1-c7b8-461c-8806-4251f7df66bc/160x90/match/image.jpg",
+        "description": "short video showing product in use & description\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/50b9e8ed-2f6a-4324-b2b4-3796c4c25471/42828cf1-5172-4885-b003-7181c73c0cf5/main.mp4?fastly_token=NjgxMzk1M2FfOTI4MjY3NmM5ZGNjODU4NzBlOWZhZTAxYmZjNDdhZTNhODVkN2Y2ZmQ1Y2UwOTViZDhmMGJjZDBiOGNmMGVmZl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNTBiOWU4ZWQtMmY2YS00MzI0LWIyYjQtMzc5NmM0YzI1NDcxLzQyODI4Y2YxLTUxNzItNDg4NS1iMDAzLTcxODFjNzNjMGNmNS9tYWluLm1wNA%3D%3D",
+        "title": "GE Caulk",
+        "id": "6320153243112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/50b9e8ed-2f6a-4324-b2b4-3796c4c25471/main/160x90/25s98ms/match/image.jpg",
+        "description": "GE How to select the right caulk\n"
+      }
+    ],
+    "ratings_total": 899,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Window & Door"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Silicone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hub Required",
+        "value": "No hub connection available"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Remote Access",
+        "value": "No Remote Access"
+      },
+      {
+        "group_name": "Details",
+        "name": "Requires Hub?",
+        "value": "No Hub Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Supreme Window and Door"
+      },
+      {
+        "group_name": "Details",
+        "name": "Voice Control Hub Required",
+        "value": "No Voice Control"
+      },
+      {
+        "group_name": "Details",
+        "name": "Works With",
+        "value": "No additional compatibility"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10.1 oz"
+      }
+    ],
+    "keywords_list": [
+      "GE",
+      "WD Supreme Silicone- White",
+      "M9001512C-CRTRG"
+    ],
+    "keywords": "GE, WD Supreme Silicone- White, M9001512C-CRTRG",
+    "variants": [
+      {
+        "title": "Brown~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-Brown-12-pack-2821635/317767009",
+        "item_id": "317767009"
+      },
+      {
+        "title": "Almond~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Supreme-10-1-oz-Almond-Silicone-Window-and-Door-Caulk-12-Case-2821636/317772979",
+        "item_id": "317772979"
+      },
+      {
+        "title": "Gray~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-2-10-1-oz-Window-and-Door-Light-Gray-Silicone-Caulk-12-Pack-2821639/317766948",
+        "item_id": "317766948"
+      },
+      {
+        "title": "Black~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Supreme-10-1-oz-Black-Silicone-Window-and-Door-Caulk-12-Case-2821634/317772887",
+        "item_id": "317772887"
+      },
+      {
+        "title": "Clear~~2.8 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-2-8-oz-Window-and-Door-Sealant-Clear-2814815/317773063",
+        "item_id": "317773063"
+      },
+      {
+        "title": "Gray~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-Gray-2821639/317766936",
+        "item_id": "317766936"
+      },
+      {
+        "title": "Black~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-Black-2821634/317772859",
+        "item_id": "317772859"
+      },
+      {
+        "title": "Clear~~2.8 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-2-8-oz-Window-and-Door-Sealant-Clear-12-pack-2814815/317773084",
+        "item_id": "317773084"
+      },
+      {
+        "title": "White~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-10-1-oz-Supreme-Silicone-White-Window-and-Door-Caulk-12-Pack-2814819/317766908",
+        "item_id": "317766908"
+      },
+      {
+        "title": "Clear~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-Clear-2814816/317766846",
+        "item_id": "317766846"
+      },
+      {
+        "title": "Almond~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-Almond-2821636/317772926",
+        "item_id": "317772926"
+      },
+      {
+        "title": "White~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Supreme-Silicone-Caulk-10-1-oz-Window-and-Door-Sealant-White-2814819/317766879",
+        "item_id": "317766879"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 12.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 54
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 288,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 191,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

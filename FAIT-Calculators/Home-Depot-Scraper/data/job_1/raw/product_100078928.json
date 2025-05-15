@@ -1,0 +1,295 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12947,
+    "overage_used": 2947,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DAP-Alex-Painter-s-10-1-oz-White-All-Purpose-Acrylic-Latex-Caulk-18609/100078928"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:35:41.085Z",
+    "processed_at": "2025-05-01T13:35:49.243Z",
+    "total_time_taken": 8.16,
+    "homedepot_url": "https://www.homedepot.com/p/DAP-Alex-Painter-s-10-1-oz-White-All-Purpose-Acrylic-Latex-Caulk-18609/100078928"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DAP-Alex-Painter-s-10-1-oz-White-All-Purpose-Acrylic-Latex-Caulk-18609/100078928",
+    "brand": "DAP",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/DAP/N-5yc1vZcibhZ1wf",
+    "title": "DAP Alex Painter's 10.1 oz. White All-Purpose Acrylic Latex Caulk",
+    "upc": "070798180659",
+    "item_id": "100078928",
+    "store_sku": "328448",
+    "model_number": "18609",
+    "description": "DAP Alex Painter's Acrylic Latex Caulk is an all purpose caulk. It adheres to a wide variety of surfaces and works for use on trim and door or window frames. Alex Painters caulk is paintable in 2 hours with latex and oil-based paints. It is low in odor and cleans up easily with water. Meets ASTM C834 for extrudability, artificial weathering, extension recovery and slump. Interior/exterior use.",
+    "favorite_count": 3851,
+    "aisle": "50",
+    "bay": "016",
+    "feature_bullets": [
+      "Seals windows and doorframes made from common building materials",
+      "Acrylic latex caulk paintable with both latex and oil-based paint",
+      "Waterproof seal than maintains excellent flexibility"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Paintable general purpose caulk for projects",
+      "White painters caulk adheres to wood, plaster, drywall",
+      "Top applications include baseboards, crown molding, interior door casings and interior wood trim",
+      "Alex painters caulk is low in odor and cleans up with water",
+      "Acrylic latex caulk works for interior and exterior paint projects",
+      "Paintable caulk is paint ready in 2 hours and covers 55 linear feet at a 3/16 in. bead size",
+      "Cured caulk is mold and mildew resistant",
+      "Fully cures in 24 hours",
+      "<a href=\"https://images.thdstatic.com/catalog/pdfImages/da/da5d8384-3d57-4d87-8941-e0b3934ac869.pdf\" target=\"_blank\" style=\"color:#F96302;\">Alex Caulk Buying Guide</a>",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">How to Caulk Like a Professional</a>",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">https://www.homedepot.com/c/ab/types-of-caulks-and-sealants-for-your-projects/9ba683603be9fa5395fab90d0b119c3</a>",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-use-a-caulk-gun/9ba683603be9fa5395fab9014749e39b\" target=\"_blank\" style=\"color:#F96302;\">How to Use a Caulk Gun</a>",
+      "<img src=\"in.\">"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/94b9ce58-3e9d-492a-a22e-0f17a775ce8b/svn/white-dap-caulk-18609-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/05e6a245-352b-41a5-8aa6-c856e0619372/svn/white-dap-caulk-18609-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/98a6e2b2-fbd7-4732-a860-64044cb22fac/svn/white-dap-caulk-18609-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7f613ba2-22d1-4399-b1cd-3b8df9263b8d/svn/white-dap-caulk-18609-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d341ce4a-365e-46aa-aaec-73cdd90d2ac7/svn/white-dap-caulk-18609-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8c75fd0e-d8dc-4b28-a12d-8418e4e971ce/svn/white-dap-caulk-18609-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5657ed97-c2ec-459b-bf23-de6a989bb119/svn/white-dap-caulk-18609-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/02ab2c9b-3c5b-4031-be94-77c455e940cf/svn/white-dap-caulk-18609-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/08b2096f-ca33-474a-a1b5-fb9d7ac27bbb/svn/white-dap-caulk-18609-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/209ab159-0bf4-4973-ada8-5633e8afeb01/svn/white-dap-caulk-18609-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a755d491-0a3a-46a6-abae-b59071b7d8db/svn/white-dap-caulk-18609-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/94b9ce58-3e9d-492a-a22e-0f17a775ce8b/svn/white-dap-caulk-18609-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/01dc413b-32dc-4a64-8291-66345737b175/a44333db-33e5-4df2-b2e9-5b852b32cee3/main.mp4?fastly_token=NjgxMzkyNWZfYzc0MmRlMzJiNWNiZTVjMGQxNzZjNDlmYmE3ZTc2OWU3NmNjMWI4NGFjZDAwODFiMDAzNGE0N2NhMzNhZDQ4N18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMDFkYzQxM2ItMzJkYy00YTY0LTgyOTEtNjYzNDU3MzdiMTc1L2E0NDMzM2RiLTMzZTUtNGRmMi1iMmU5LTViODUyYjMyY2VlMy9tYWluLm1wNA%3D%3D",
+        "title": "DAP Alex Plus vs. AMP Caulk",
+        "id": "6306845630112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/01dc413b-32dc-4a64-8291-66345737b175/main/160x90/36s309ms/match/image.jpg",
+        "description": "Select the right caulk for your project\n"
+      }
+    ],
+    "ratings_total": 1625,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Window & Door"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Latex"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "55"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Alex Painter's"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Warranty Information: If you are not satisfied with this products performance when used as directed, return used container and sales receipt to DAP Inc., Technical Customer Service, 2400 Boston Street, Suite 200, Baltimore, MD 21224 for product replacement or sales price refund. DAP will not be liable for incidental or consequential damages."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10.1 oz"
+      }
+    ],
+    "keywords_list": [
+      "window seal",
+      "window seals",
+      "window sealer",
+      "window sealers",
+      "winterize windows",
+      "colored caulks",
+      "color caulks",
+      "",
+      "caulk",
+      "painters caulk",
+      "sealant",
+      "painters sealant",
+      "sealants",
+      "painters sealants",
+      "all-purpose caulk",
+      "all-purpose sealant",
+      "all-purpose sealants"
+    ],
+    "keywords": "window seal, window seals, window sealer, window sealers, winterize windows,colored caulks, color caulks,, caulk, painters caulk, sealant, painters sealant, sealants, painters sealants, all-purpose caulk, all-purpose sealant, all-purpose sealants",
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 839
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 839,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 424,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

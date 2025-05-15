@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14048,
+    "overage_used": 4048,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Sika-29-fl-oz-Sikaflex-Self-Leveling-Horizontal-Joint-Elastic-Polyurethane-Sealant-in-Gray-7116080/300934522"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:52:40.321Z",
+    "processed_at": "2025-05-01T17:52:48.268Z",
+    "total_time_taken": 7.95,
+    "homedepot_url": "https://www.homedepot.com/p/Sika-29-fl-oz-Sikaflex-Self-Leveling-Horizontal-Joint-Elastic-Polyurethane-Sealant-in-Gray-7116080/300934522"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Sika-29-fl-oz-Sikaflex-Self-Leveling-Horizontal-Joint-Elastic-Polyurethane-Sealant-in-Gray-7116080/300934522",
+    "brand": "Sika",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Repair-Concrete-Sealant/Sika/N-5yc1vZ2fkp635Z74n",
+    "title": "Sika 29 fl. oz. Sikaflex Self-Leveling Horizontal Joint Elastic Polyurethane Sealant in Gray",
+    "upc": "033886093828",
+    "item_id": "300934522",
+    "parent_id": "308723786",
+    "store_sku": "271360",
+    "model_number": "7116080",
+    "description": "Sikaflex 29 fl. oz. Self-Leveling Sealant is a single component, self-leveling, premium-grade polyurethane sealant with an accelerated curing capacity used to seal gaps, joints and cracks. No tooling feature saves time and money. 29 fl. oz. sizes is ideal for larger projects.",
+    "is_bestseller": true,
+    "favorite_count": 1230,
+    "aisle": "27",
+    "bay": "017",
+    "feature_bullets": [
+      "Self-leveling polyurethane sealant for cracks & expansion joints",
+      "Horizontal joint sealant remains permanently elastic",
+      "Able to bridge gaps up to 1.5 in. wide"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Gray in color",
+      "Resists cracking and shrinking",
+      "Won't break down if subjected to water immersion after cure",
+      "Excellent adhesion",
+      "Can be applied to green/new concrete 24-hours after cure",
+      "Can be applied on concrete that has been wet 1-hour after water source has stopped",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/SIKA CORPORATION/inline 3019290/300934522.jpg\">"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4b21c264-c592-41f5-ab18-05e2c3a7c2da/svn/gray-sika-concrete-sealant-7116080-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a254ea28-9282-439e-8c1d-91c40568d071/svn/gray-sika-concrete-sealant-7116080-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e09f7c15-e2de-412b-bd7b-28fc0c1a0eb1/svn/gray-sika-concrete-sealant-7116080-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a85972c-0196-48ce-8a1d-d3daeaa84f9e/svn/gray-sika-concrete-sealant-7116080-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c162763-603a-47ec-88df-a6012e33af74/svn/gray-sika-concrete-sealant-7116080-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/66568d4d-c193-425a-9a82-bc1ff8a4b9ee/svn/gray-sika-concrete-sealant-7116080-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/aebaf7b4-0b9a-4269-8657-595c49b8eaf3/svn/gray-sika-concrete-sealant-7116080-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4b21c264-c592-41f5-ab18-05e2c3a7c2da/svn/gray-sika-concrete-sealant-7116080-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/64420bde-eebe-49f5-81fe-727a89545f6d/fe34b013-a050-4358-99b7-57f0b2520eb4/main.mp4?fastly_token=NjgzODEzOTlfNWI1YTlhMDQ2ZWNlM2VmZDkwNDA4ODkzNzJhMTc1MGI3ZGFkMTk5ZjI4N2JmY2U1OWM4NGQyMzBhYTcyMzQxY18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82NDQyMGJkZS1lZWJlLTQ5ZjUtODFmZS03MjdhODk1NDVmNmQvZmUzNGIwMTMtYTA1MC00MzU4LTk5YjctNTdmMGIyNTIwZWI0L21haW4ubXA0&pubid=66036796001",
+        "title": "Sikaflex Self Leveling Sealant",
+        "id": "4299497539001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/64420bde-eebe-49f5-81fe-727a89545f6d/0a1a5385-8d14-4743-847d-5e4a5303557b/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Quick reference on how to use Sikaflex Self Leveling Sealant to fill joints or gaps."
+      }
+    ],
+    "ratings_total": 1909,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drying Time (hours)",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Crack Resistant,Paintable,Pre-Mixed,Self-Leveling,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "2.6 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Recommended Application",
+        "value": "Cement,Concrete,Masonry,Mortar"
+      },
+      {
+        "group_name": "Details",
+        "name": "Repair Type",
+        "value": "Sealant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Use Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One year from date of installation."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Container Size",
+        "value": "29 oz."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "16.3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "2.5 in"
+      }
+    ],
+    "keywords_list": [
+      "self-leveling sealant",
+      "masonry repair self-leveling sealant",
+      "sealant",
+      "masonry repair sealant",
+      "Sikaflex self-leveling sealant",
+      "Sikaflex sealant"
+    ],
+    "keywords": "self-leveling sealant, masonry repair self-leveling sealant, sealant, masonry repair sealant, Sikaflex self-leveling sealant, Sikaflex sealant",
+    "variants": [
+      {
+        "title": "Gray~~29 oz.",
+        "link": "https://www.homedepot.com/p/Sika-29-fl-oz-Sikaflex-Self-Leveling-Horizontal-Joint-Elastic-Polyurethane-Sealant-in-Gray-7116080/300934522",
+        "item_id": "300934522"
+      },
+      {
+        "title": "Gray~~10.1 oz.",
+        "link": "https://www.homedepot.com/p/Sika-10-1-fl-oz-Sikaflex-Self-Leveling-Horizontal-Joint-Elastic-Polyurethane-Sealant-in-Gray-7116070/300934515",
+        "item_id": "300934515"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Concrete, Cement & Masonry",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry/N-5yc1vZarlk"
+      },
+      {
+        "name": "Concrete Repair",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Repair/N-5yc1vZ2fkp62x"
+      },
+      {
+        "name": "Concrete Sealant",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Repair-Concrete-Sealant/N-5yc1vZ2fkp635"
+      }
+    ],
+    "buybox_winner": {
+      "price": 17.31,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 38
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 40,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

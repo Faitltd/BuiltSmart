@@ -1,0 +1,338 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13231,
+    "overage_used": 3231,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-10-1-oz-Kitchen-and-Bath-Sealant-Clear-2812562/317742602"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:49:41.404Z",
+    "processed_at": "2025-05-01T13:49:45.517Z",
+    "total_time_taken": 4.11,
+    "homedepot_url": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-10-1-oz-Kitchen-and-Bath-Sealant-Clear-2812562/317742602"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-10-1-oz-Kitchen-and-Bath-Sealant-Clear-2812562/317742602",
+    "brand": "GE",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/GE/N-5yc1vZcibhZlo",
+    "title": "GE Advanced Silicone 2 Caulk 10.1 oz Kitchen and Bath Sealant Clear",
+    "upc": "028756956839",
+    "item_id": "317742602",
+    "parent_id": "331338102",
+    "store_sku": "469296",
+    "model_number": "2812562",
+    "description": "GE Advanced Silicone 2 Kitchen and Bath sealant is a high-performance, 100% waterproof and 100% silicone caulking ideal for areas prone to water exposure. GE Advanced Silicone 2 Kitchen and Bath sealant is permanently flexible with 40% more flexibility than Class 25 sealants and has 5X stronger adhesion than our Silicone 1 sealant. It will not discolor most high-end metal finishes such as chrome, bronze, and nickel. This sealant is ideal for showers, bathtubs, sinks, tile, countertops, fixtures, and more. This caulk also has a low odor while curing thanks to its neutral-cure formula. Its 30-minute water-ready formula offers 10-year mold-free product protection to protect against mold and mildew growth. Use our silicone kitchen and bathroom caulking on a variety of common surfaces, including most metals, plastics, and woods; glass, drywall, plaster, granite, and more.",
+    "aisle": "50",
+    "bay": "014",
+    "feature_bullets": [
+      "Caulking for showers, bathtubs, sinks, tile, countertops and more",
+      "10 year mold-free protection and waterproof",
+      "Excellent adhesion; won\u2019t blemish most high-end metal finishes"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "100% silicone caulking with strong adhesive properties",
+      "100% waterproof for use in moisture-rich environments; 30-minute water-ready formula",
+      "Freedom and independence: support 500 lbs. when properly installed",
+      "Meets ASTM C-920, class 35",
+      "5X stronger adhesion; 40% more flexibility than class 25 sealants",
+      "Durable sealant is both shrink and crack proof",
+      "Won't blemish most high-end metal finishes such as chrome, bronze, and nickel",
+      "Adheres to: most metals, plastics, woods, glass, drywall, plaster, granite, cultured marble, ceramic and porcelain tile and more",
+      "Neutral curing with low odor",
+      "Non-paintable",
+      "For additional performance and warranty information, see product packaging"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/391a6ac8-51b7-4e9f-b568-623557d79d53/svn/clear-ge-caulk-2812562-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/75aa931b-b735-4c73-bdb6-3e6daa9dcc88/svn/clear-ge-caulk-2812562-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8fcad418-b8ff-4abd-9914-8e901ab84e90/svn/clear-ge-caulk-2812562-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0addf12f-40ad-4dd3-af36-02e8890b3afd/svn/clear-ge-caulk-2812562-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7371c2fb-afdd-458a-9154-a02cadab73a9/svn/clear-ge-caulk-2812562-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fc53e4f9-4aaa-481b-b995-4ece3feb760a/svn/clear-ge-caulk-2812562-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46a164aa-95f5-412d-9a3d-374319b76aa7/svn/clear-ge-caulk-2812562-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cf8de2ca-7d12-4a34-90c0-f4e5accbba0a/svn/clear-ge-caulk-2812562-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/181ccf07-1391-42cd-8d41-e9084add8dd8/svn/clear-ge-caulk-2812562-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1cd466db-8e4f-4867-955f-929e4dc121eb/svn/clear-ge-caulk-2812562-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36042640-aa9a-4798-8ce4-4ced9f067a6a/svn/clear-ge-caulk-2812562-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/80e86e0d-4534-4f7c-a8d1-015dc39cfa96/svn/clear-ge-caulk-2812562-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d7e9ed09-0824-4988-a97f-c182dfe7364d/svn/clear-ge-caulk-2812562-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b1c733c1-b6bf-4e3e-b359-333c506d3c9a/svn/clear-ge-caulk-2812562-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/391a6ac8-51b7-4e9f-b568-623557d79d53/svn/clear-ge-caulk-2812562-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/50b9e8ed-2f6a-4324-b2b4-3796c4c25471/42828cf1-5172-4885-b003-7181c73c0cf5/main.mp4?fastly_token=NjgxMzdiYzZfMzMzYTlhMzExNTA4YjQ2ZDgwNTQ2MmM5NWEyN2E5ZmI1MjViNzllNTg5NjNkNjliZTczYWNmZWUyZjA2Mjg4Nl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNTBiOWU4ZWQtMmY2YS00MzI0LWIyYjQtMzc5NmM0YzI1NDcxLzQyODI4Y2YxLTUxNzItNDg4NS1iMDAzLTcxODFjNzNjMGNmNS9tYWluLm1wNA%3D%3D",
+        "title": "GE Caulk",
+        "id": "6320153243112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/50b9e8ed-2f6a-4324-b2b4-3796c4c25471/main/160x90/25s98ms/match/image.jpg",
+        "description": "GE How to select the right caulk\n"
+      }
+    ],
+    "ratings_total": 1985,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Kitchen & Bathroom"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Silicone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Advanced Kitchen and Bath"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Guarantee"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10.1 oz"
+      }
+    ],
+    "keywords_list": [
+      "GE",
+      "Silicone II 9.8 oz. Clear Kitchen and Bath Caulk (24-Pack)",
+      "GE5040 24C"
+    ],
+    "keywords": "GE, Silicone II 9.8 oz. Clear Kitchen and Bath Caulk (24-Pack), GE5040 24C",
+    "variants": [
+      {
+        "title": "Clear~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Advanced-10-1-oz-Clear-Silicone-2-Kitchen-and-Bath-Caulk-Case-of-12-2812562/317742657",
+        "item_id": "317742657"
+      },
+      {
+        "title": "White~~2.8 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-2-8-oz-White-Kitchen-and-Bath-Caulk-case-of-12-2812566/317778658",
+        "item_id": "317778658"
+      },
+      {
+        "title": "Clear~~2.8 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-2-8-oz-Kitchen-and-Bath-Sealant-Clear-12-pack-2812563/317778514",
+        "item_id": "317778514"
+      },
+      {
+        "title": "White~~2.8 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-2-8-oz-Kitchen-and-Bath-Sealant-White-2812566/317778644",
+        "item_id": "317778644"
+      },
+      {
+        "title": "Clear~~2.8 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-2-8-oz-Kitchen-and-Bath-Sealant-Clear-2812563/317778487",
+        "item_id": "317778487"
+      },
+      {
+        "title": "Almond~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-10-1-oz-Kitchen-and-Bath-Sealant-Almond-12-pack-2816707/317773287",
+        "item_id": "317773287"
+      },
+      {
+        "title": "White~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-10-1-oz-Kitchen-and-Bath-Sealant-White-2812565/317778410",
+        "item_id": "317778410"
+      },
+      {
+        "title": "Clear~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-10-1-oz-Kitchen-and-Bath-Sealant-Clear-2812562/317742602",
+        "item_id": "317742602"
+      },
+      {
+        "title": "White~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Advanced-Silicone-2-Caulk-10-1-oz-Kitchen-and-Bath-Sealant-White-12-pack-2812565/317778428",
+        "item_id": "317778428"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 10.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 540
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 540,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 816,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

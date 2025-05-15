@@ -1,0 +1,21 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12664,
+    "overage_used": 2664,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DEWALT-FLEXVOLT-60V-MAX-17-in-Cordless-Battery-Powered-Attachment-Capable-Trimmer-Kit-with-1-FLEXVOLT-3-Ah-Battery-Charger-DCST972X1/314266332"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:27:55.294Z",
+    "processed_at": "2025-05-01T13:27:58.505Z",
+    "total_time_taken": 3.21,
+    "homedepot_url": "https://www.homedepot.com/p/DEWALT-FLEXVOLT-60V-MAX-17-in-Cordless-Battery-Powered-Attachment-Capable-Trimmer-Kit-with-1-FLEXVOLT-3-Ah-Battery-Charger-DCST972X1/314266332"
+  },
+  "message": "Product not found."
+}

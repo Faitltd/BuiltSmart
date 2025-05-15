@@ -1,0 +1,319 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14934,
+    "overage_used": 4934,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Sundae-8-in-Widespread-Double-Handles-Bathroom-Faucet-in-Vibrant-Brushed-Nickel-K-R28797-4D-BN/317200602"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:44:05.349Z",
+    "processed_at": "2025-05-02T21:44:17.095Z",
+    "total_time_taken": 11.75,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Sundae-8-in-Widespread-Double-Handles-Bathroom-Faucet-in-Vibrant-Brushed-Nickel-K-R28797-4D-BN/317200602"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Sundae-8-in-Widespread-Double-Handles-Bathroom-Faucet-in-Vibrant-Brushed-Nickel-K-R28797-4D-BN/317200602",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bathroom-Faucets-Bathroom-Sink-Faucets-Widespread-Bathroom-Faucets/KOHLER/N-5yc1vZbrgkZ1qh",
+    "title": "KOHLER Sundae 8 in. Widespread Double Handles Bathroom Faucet in Vibrant Brushed Nickel",
+    "upc": "885612949738",
+    "item_id": "317200602",
+    "parent_id": "319536155",
+    "store_sku": "1006459460",
+    "model_number": "K-R28797-4D-BN",
+    "description": "Sundae widespread bathroom sink faucet has a casually chic style that combines facets, thoughtful intersections, and calm, elongated curves for a refined, classical look. The faucet handles allow for smooth operation while the ceramic valves offer a leak-free and drip-free experience. It's designed for easy installation and features premium materials for a lifetime of reliable performance.",
+    "is_exclusive": true,
+    "aisle": "38",
+    "bay": "001",
+    "feature_bullets": [
+      "Spot Repel finish resists fingerprints, smudges, and water spots",
+      "KOHLER ceramic disc valves exceed industry longevity standards",
+      "Box includes: Assembled faucet, clicker drain."
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "2-lever handles offer separate control of hot and cold water",
+      "1.2 GPM (4.5 LPM) maximum flow rate at 60 psi (4.14 bar)",
+      "Premium material construction for durability and reliability",
+      "For 8 in. - 16 in. (203 - 406 mm) centers",
+      "Widespread",
+      "Simplified faucet assembly: mounting hardware requires no special tools",
+      "WaterSense",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5515da87-c1ef-45e6-8a3d-0db0e008716b/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/31131564-9eb3-433c-a6e5-d28b12a8d1e5/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ed66f1b7-a301-48ed-a20d-5f5473a4e69e/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d7fed25-31e9-41f1-8d8a-539160aa5aec/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4a296a51-881e-45e0-b4ea-04de1b0488fe/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/152ee1fc-dffb-4c0e-a43f-51a4c2157fd5/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bb39a8ca-ab0b-4fd5-a205-58b60169935b/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ca3458ec-3b37-41b5-a195-b6d61b4d03ed/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2b44f8b2-2989-4440-a53c-efedc0591f3e/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/61da5a44-d52b-424f-b9aa-5e18d908a87f/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0f2f8777-3673-4bcb-a57d-6fcc3c7df186/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5515da87-c1ef-45e6-8a3d-0db0e008716b/svn/vibrant-brushed-nickel-kohler-widespread-bathroom-faucets-k-r28797-4d-bn-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxNGQ1NzlfMjMzY2Y1NjlhZDJiMjI3ZDEzMmY0NTdkZTkyOWNiNGZkODJiNDIwOTljZmExZjA4NDY5ZDY5N2IzMmQ3MGFmZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 345,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Cartridge Valve Type",
+        "value": "Ceramic Disc Faucets"
+      },
+      {
+        "group_name": "Details",
+        "name": "Collection Name",
+        "value": "Sundae"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Nickel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Vibrant Brushed Nickel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Faucet Height (in.)",
+        "value": "7.44 in"
+      },
+      {
+        "group_name": "Details",
+        "name": "Faucet Hole Fit",
+        "value": "3 Hole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Family",
+        "value": "Brushed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flow rate (gallons per minute)",
+        "value": "1.2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Type",
+        "value": "Lever Handle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included Components",
+        "value": "All Mounting Hardware,Drain"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "8 in. Widespread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Deck Thickness (in.)",
+        "value": "1.5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Faucet Handles",
+        "value": "2 Handle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Spout Type",
+        "value": "Mid Arc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Classic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Included",
+        "value": "Valve Included"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ANSI Certified,ASME Certified,CSA Certified,EPA Approved,NSF Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Connection size (in.)",
+        "value": "1/2 In."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Spout Height (in.)",
+        "value": "5.125"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Spout Reach (in.)",
+        "value": "5.187 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Vibrant Brushed Nickel~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Sundae-8-in-Widespread-Double-Handles-Bathroom-Faucet-in-Vibrant-Brushed-Nickel-K-R28797-4D-BN/317200602",
+        "item_id": "317200602"
+      },
+      {
+        "title": "Vibrant Brushed Moderne Brass~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Sundae-8-in-Widespread-Double-Handles-Bathroom-Faucet-in-Vibrant-Brushed-Moderne-Brass-K-R28797-4D-2MB/318241377",
+        "item_id": "318241377"
+      },
+      {
+        "title": "Vibrant Polished Nickel~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Sundae-8-in-Widespread-2-Handle-Bathroom-Faucet-in-Vibrant-Polished-Nickel-R28797-4D-SN/330340343",
+        "item_id": "330340343"
+      },
+      {
+        "title": "Matte Black~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Sundae-8-in-Widespread-Double-Handles-Bathroom-Faucet-in-Matte-Black-K-R28797-4D-BL/317200626",
+        "item_id": "317200626"
+      },
+      {
+        "title": "Polished Chrome~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Sundae-8-in-Widespread-Double-Handles-Bathroom-Faucet-in-Polished-Chrome-K-R28797-4D-CP/318241368",
+        "item_id": "318241368"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bathroom Faucets",
+        "link": "https://www.homedepot.com/b/Bath-Bathroom-Faucets/N-5yc1vZbreo"
+      },
+      {
+        "name": "Bathroom Sink Faucets",
+        "link": "https://www.homedepot.com/b/Bath-Bathroom-Faucets-Bathroom-Sink-Faucets/N-5yc1vZc8d3"
+      },
+      {
+        "name": "Widespread Bathroom Faucets",
+        "link": "https://www.homedepot.com/b/Bath-Bathroom-Faucets-Bathroom-Sink-Faucets-Widespread-Bathroom-Faucets/N-5yc1vZbrgk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 129,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 6
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 9,
+          "price": 2.99,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 94,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

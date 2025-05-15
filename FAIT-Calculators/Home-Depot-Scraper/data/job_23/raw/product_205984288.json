@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14264,
+    "overage_used": 4264,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-Unfinished-Solid-Pine-Casing-Sold-by-Linear-Foot-10000775/205984288"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:22:50.565Z",
+    "processed_at": "2025-05-01T18:23:33.547Z",
+    "total_time_taken": 42.98,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-Unfinished-Solid-Pine-Casing-Sold-by-Linear-Foot-10000775/205984288"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-Unfinished-Solid-Pine-Casing-Sold-by-Linear-Foot-10000775/205984288",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork 327 11/16 in. x  2\u22121/4 in. Unfinished Solid Pine Casing (Sold by Linear Foot)",
+    "upc": "049437940527",
+    "item_id": "205984288",
+    "parent_id": "328892478",
+    "store_sku": "927295",
+    "model_number": "10000775",
+    "description": "The Woodgrain Millwork 11/16 in. x 2-1/4 in. WM 327 Pine Casing is used around doors and windows to cover the gaps between the frames and walls. Pine WM 327 Casing is the finishing touch on any window and door. You can combine casing with a back band to create a bold one of kind look.",
+    "favorite_count": 46,
+    "feature_bullets": [
+      "Ideal for hiding gaps where doors and windows meet frames",
+      "Pre-primed in white makes it adherent to paint and faux finish",
+      "Offers easy installation with basic woodworking tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be stained or painted with any high quality latex or oil based paint/stain",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Installs with common woodworking tools",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/9b45ffeb-ecc7-4705-92d0-076685325eb1/svn/beige-woodgrain-millwork-casing-10000775-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/beige-woodgrain-millwork-casing-10000775-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a65f7a46-30e1-4a0d-b8bd-3d2935e5298d/svn/beige-woodgrain-millwork-casing-10000775-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/9b45ffeb-ecc7-4705-92d0-076685325eb1/svn/beige-woodgrain-millwork-casing-10000775-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 78,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Beige"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "327"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "keywords_list": [
+      "casing",
+      "pine casing",
+      "casings",
+      "pine casings",
+      "frame",
+      "pine frame",
+      "frames",
+      "pine frames",
+      "solid casing",
+      "solid casings",
+      "solid frame",
+      "solid frames",
+      "window casing",
+      "window casings",
+      "window frame",
+      "window frames"
+    ],
+    "keywords": "casing, pine casing, casings, pine casings, frame, pine frame, frames, pine frames, solid casing, solid casings, solid frame, solid frames, window casing, window casings, window frame, window frames",
+    "variants": [
+      {
+        "title": "Beige~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-Unfinished-Solid-Pine-Casing-Sold-by-Linear-Foot-10000775/205984288",
+        "item_id": "205984288"
+      },
+      {
+        "title": "Unfinished~~7 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-327-11-16-in-x-2-1-4-in-x-84-in-Solid-Pine-Door-and-Window-Casing-10000776/203369735",
+        "item_id": "203369735"
+      },
+      {
+        "title": "Beige~~7 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-327-11-16-in-x-2-1-4-in-x-84-in-Solid-Pine-Casing-Leg-10004101/206092567",
+        "item_id": "206092567"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

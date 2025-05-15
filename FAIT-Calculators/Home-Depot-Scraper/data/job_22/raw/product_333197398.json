@@ -1,0 +1,235 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14544,
+    "overage_used": 4544,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-x-6-x-16ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010616E2G01/333197398"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:49:13.746Z",
+    "processed_at": "2025-05-01T18:49:19.461Z",
+    "total_time_taken": 5.71,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-x-6-x-16ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010616E2G01/333197398"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-x-6-x-16ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010616E2G01/333197398",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 x 6 x 16ft Cinnamon Cove Enhance Deck Board Grooved Edge",
+    "upc": "652835394443",
+    "item_id": "333197398",
+    "parent_id": "310567281",
+    "store_sku": "1013024929",
+    "model_number": "CC010616E2G01",
+    "description": "The beauty of wood with the ease of composite. With its authentic wood-grain appearance, Trex Enhance Naturals offer all the charm and none of the trouble of pressure-treated lumber. Imagine enjoying the very same rich streaking now and 25-years from now without costly, continual upkeep.",
+    "feature_bullets": [
+      "Cinnamon Cove is a warm mid-tone brown with rich undertones",
+      "High-performance shell is fade, stain, scratch and mold resistant",
+      "Low-maintenance material; cleans easily with soap and water"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Trex's high-performance composite deck board is crafted for durability; won't rot, warp or splinter, unlike wood",
+      "Decking has a protective outer shell for durability; resists fading and staining",
+      "Quality low-maintenance composite material; cleans easy with soap and water",
+      "Backed by the Trex 25-year Limited Residential Warranty and the Trex 25-year Limited Residential Fade and Stain Warranty",
+      "Use grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Trex's sustainable composite deck boards are made of 95% recycled materials in the USA",
+      "Lightweight scalloped profile for easy handling",
+      "Trex decking installation is simple, no specialty tools required"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e3014079-7de6-4c04-9e55-9b1926f5703c/svn/cinnamon-cove-trex-composite-decking-boards-cc010616e2g01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a2ef10a-be1a-4b42-a240-e077a0dcf0f7/svn/cinnamon-cove-trex-composite-decking-boards-cc010616e2g01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/65d32b99-207f-4484-bb2b-f9bc0bee9696/svn/cinnamon-cove-trex-composite-decking-boards-cc010616e2g01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fb5b9f62-725a-482b-a27b-d9e91e2fd7f9/svn/cinnamon-cove-trex-composite-decking-boards-cc010616e2g01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/582840aa-f167-445e-9662-97f2d753e885/svn/cinnamon-cove-trex-composite-decking-boards-cc010616e2g01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e3014079-7de6-4c04-9e55-9b1926f5703c/svn/cinnamon-cove-trex-composite-decking-boards-cc010616e2g01-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 640,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Cinnamon Cove"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "The Trex 25-year Limited Residential Warranty and the Trex 25-year Limited Residential Fade and Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "31"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Rocky Harbor~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Grey-Composite-Deck-Board-RH010608E2S01/310567552",
+        "item_id": "310567552"
+      },
+      {
+        "title": "Cinnamon Cove~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-x-12ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010612E2G01/333197417",
+        "item_id": "333197417"
+      },
+      {
+        "title": "Rocky Harbor~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-20-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010620E2G01/316430409",
+        "item_id": "316430409"
+      },
+      {
+        "title": "Cinnamon Cove~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-x-8ft-Cinnamon-Cove-Enhance-Deck-Board-Square-edge-CC010608E2S01/333197429",
+        "item_id": "333197429"
+      },
+      {
+        "title": "Cinnamon Cove~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-x-16ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010616E2G01/333197398",
+        "item_id": "333197398"
+      },
+      {
+        "title": "Rocky Harbor~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010616E2G01/310569119",
+        "item_id": "310569119"
+      },
+      {
+        "title": "Rocky Harbor~~Square~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-20-ft-Enhance-Naturals-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010620E2S01/316430466",
+        "item_id": "316430466"
+      },
+      {
+        "title": "Rocky Harbor~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010612E2G01/310568861",
+        "item_id": "310568861"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 41.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 174,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

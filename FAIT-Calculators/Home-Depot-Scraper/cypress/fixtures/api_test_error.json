@@ -1,0 +1,7 @@
+{
+  "success": false,
+  "api_success": false,
+  "status_code": 401,
+  "error": "Invalid API key",
+  "message": "Authentication failed. Please check your API key."
+}

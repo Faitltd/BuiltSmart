@@ -1,0 +1,264 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13267,
+    "overage_used": 3267,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Falken-Design-3-4-in-x-4-ft-x-6-ft-A2-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-3-4-4872/319137410"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:51:08.908Z",
+    "processed_at": "2025-05-01T13:51:14.123Z",
+    "total_time_taken": 5.21,
+    "homedepot_url": "https://www.homedepot.com/p/Falken-Design-3-4-in-x-4-ft-x-6-ft-A2-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-3-4-4872/319137410"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Falken-Design-3-4-in-x-4-ft-x-6-ft-A2-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-3-4-4872/319137410",
+    "brand": "Falken Design",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Falken-Design/N-5yc1vZc7hmZogx",
+    "title": "Falken Design 3/4 in. x 4 ft. x 6 ft. A2 Birch Plywood Project Panel",
+    "upc": "810078683322",
+    "item_id": "319137410",
+    "parent_id": "326466118",
+    "store_sku": "1007964690",
+    "model_number": "FALKENDESIGN-PW-Birch-A2-3/4-4872",
+    "description": "Plywood it is an economical and readily available alternative to solid wood. Plywood is a more stable and a lot less expensive alternative to solid lumber. Most cabinet and furniture makers use plywood with solid wood trimming to create beautiful cabinetry and furniture. Plywood is manufactured with different thickness of veneers. The multi-ply structure provide a steady, stable, strong and excellent panel at an affordable price.",
+    "feature_bullets": [
+      "Made of high-quality plywood for durability",
+      "Features 11 layers to provide excellent holding power",
+      "Suitable choice for arts and crafts, school projects, DIYs"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Excellent durable, rigid and resistant",
+      "Grade A2 - quality grading the surface of the material will be consistent in appearance with no large variations in color small pin knots are allowed",
+      "11-ply for core plus face and back",
+      "Surfaces provide excellent holding power for glue and screws",
+      "Excellent for arts and crafts, school projects and DIY projects, drawing, painting, wood engraving, wood burning and laser projects",
+      "EPA CARB certified"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/8fdee48b-ef21-40f5-93c4-936b6dd82751/svn/falken-design-project-panels-falkendesign-pw-birch-a2-3-4-4872-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/8fdee48b-ef21-40f5-93c4-936b6dd82751/svn/falken-design-project-panels-falkendesign-pw-birch-a2-3-4-4872-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 7,
+    "rating": 3.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Hardwood Plywood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "71.937 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.709 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "47.9375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "variants": [
+      {
+        "title": "2 ft. x 4 ft.~~5/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-5-8-in-x-2-ft-x-4-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-5-8-2448/319137348",
+        "item_id": "319137348"
+      },
+      {
+        "title": "2 ft. x 6 ft.~~5/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-5-8-in-x-2-ft-x-6-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-5-8-2472/319137350",
+        "item_id": "319137350"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~1/2~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-1-2-in-x-2-ft-x-4-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-D4-1-2-2448/319137344",
+        "item_id": "319137344"
+      },
+      {
+        "title": "4 ft. x 6 ft.~~3/4~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-3-4-in-x-4-ft-x-6-ft-A2-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-3-4-4872/319137410",
+        "item_id": "319137410"
+      },
+      {
+        "title": "4 ft. x 4 ft.~~1/2~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-1-2-in-x-4-ft-x-4-ft-A2-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-1-2-4848/319137389",
+        "item_id": "319137389"
+      },
+      {
+        "title": "2 ft. x 2 ft.~~5/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-5-8-in-x-2-ft-x-2-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-D4-5-8-2424/319137359",
+        "item_id": "319137359"
+      },
+      {
+        "title": "2 ft. x 8 ft.~~1/2~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-1-2-in-x-2-ft-x-8-ft-B3-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-1-2-2496/319137354",
+        "item_id": "319137354"
+      },
+      {
+        "title": "4 ft. x 6 ft.~~3/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-3-8-in-x-4-ft-x-6-ft-B3-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-3-8-4872/319137397",
+        "item_id": "319137397"
+      },
+      {
+        "title": "2 ft. x 8 ft.~~5/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-5-8-in-x-2-ft-x-8-ft-B3-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-5-8-2496/319137239",
+        "item_id": "319137239"
+      },
+      {
+        "title": "2 ft. x 6 ft.~~3/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-3-8-in-x-2-ft-x-6-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-3-8-2472/319137399",
+        "item_id": "319137399"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~3/4~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-3-4-in-x-2-ft-x-4-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-D4-3-4-2448/319137367",
+        "item_id": "319137367"
+      },
+      {
+        "title": "4 ft. x 6 ft.~~5/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-5-8-in-x-4-ft-x-6-ft-B3-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-5-8-4872/319137341",
+        "item_id": "319137341"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~3/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-3-8-in-x-2-ft-x-4-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-3-8-2448/319137404",
+        "item_id": "319137404"
+      },
+      {
+        "title": "2 ft. x 6 ft.~~3/4~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-3-4-in-x-2-ft-x-6-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-3-4-2472/319137407",
+        "item_id": "319137407"
+      },
+      {
+        "title": "2 ft. x 2 ft.~~3/4~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-3-4-in-x-2-ft-x-2-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-3-4-2424/319137342",
+        "item_id": "319137342"
+      },
+      {
+        "title": "4 ft. x 4 ft.~~5/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-5-8-in-x-4-ft-x-4-ft-B3-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-5-8-4848/319137240",
+        "item_id": "319137240"
+      },
+      {
+        "title": "2 ft. x 2 ft.~~3/8~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-3-8-in-x-2-ft-x-2-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-B3-3-8-2424/319137403",
+        "item_id": "319137403"
+      },
+      {
+        "title": "2 ft. x 6 ft.~~1/2~~Birch",
+        "link": "https://www.homedepot.com/p/Falken-Design-1-2-in-x-2-ft-x-6-ft-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-1-2-2472/319137402",
+        "item_id": "319137402"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 139,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 99,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 99,
+          "price": 55,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-13",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

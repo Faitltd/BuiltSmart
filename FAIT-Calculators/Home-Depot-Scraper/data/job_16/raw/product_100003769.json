@@ -1,0 +1,215 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14061,
+    "overage_used": 4061,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Plytanium-23-32-in-x-4-ft-x-8-ft-Southern-Pine-Tongue-and-Groove-Plywood-Sheathing-605189/100003769"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:53:06.878Z",
+    "processed_at": "2025-05-01T17:53:10.899Z",
+    "total_time_taken": 4.02,
+    "homedepot_url": "https://www.homedepot.com/p/Plytanium-23-32-in-x-4-ft-x-8-ft-Southern-Pine-Tongue-and-Groove-Plywood-Sheathing-605189/100003769"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Plytanium-23-32-in-x-4-ft-x-8-ft-Southern-Pine-Tongue-and-Groove-Plywood-Sheathing-605189/100003769",
+    "brand": "Plytanium",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/Plytanium/N-5yc1vZc7q5Z4aj",
+    "title": "Plytanium 23/32 in. x 4 ft. x 8 ft. Southern Pine Tongue and Groove Plywood Sheathing",
+    "upc": "081999126346",
+    "item_id": "100003769",
+    "store_sku": "724084",
+    "model_number": "605189",
+    "description": "Plywood provides durability, stiffness and versatility beyond alternative structural panels. Every piece meets the highest grading standards for strength and appearance. Combines sub-floor and underlayment in a single panel for easier installation. Use under wall to wall carpet and pad, hardwood flooring and vinyl tile. Made to withstand high impact and concentrated loads, plywood wears well under high traffic and heavy furniture. It provide smooth sanded surface.",
+    "favorite_count": 839,
+    "feature_bullets": [
+      "Plywood sub-floor panels",
+      "Provides stiffness and durability",
+      "Tongue and groove for an easy fit"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Combines the performance requirements of sub-floor and underlayment panels in a single engineered panel",
+      "Smooth, sanded surface lets you install floor coverings directly to the sub-floor",
+      "Firm nails holding ability to help prevent loose fasteners in hardwood flooring",
+      "Holds up better than OSB under incidental wettings such as appliance overflows",
+      "Tongue and groove design so panels fit together quickly and easily",
+      "Wears well under high traffic and heavy furniture",
+      "Tongue and groove design helps you easily fit panels together",
+      "Effectively holds nails",
+      "Can be painted or stained",
+      "Note: Product may vary by store",
+      "24 in. on-center span rating",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bb733133-7a3c-4ffa-ae8d-92e0e41ec763/svn/plytanium-sheathing-plywood-605189-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bce9a42f-72b6-43c7-a59e-cbaa85e8bac7/svn/plytanium-sheathing-plywood-605189-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8870f733-8974-4c55-be85-56d5a0407875/svn/plytanium-sheathing-plywood-605189-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92b34d5a-f93f-48b8-adb4-e7b0999e694e/svn/plytanium-sheathing-plywood-605189-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1a0147ef-bc80-4754-846c-2e934842c4bf/svn/plytanium-sheathing-plywood-605189-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e4bc216a-8a1d-46e6-9a30-86f2db42f464/svn/plytanium-sheathing-plywood-605189-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8dfdafc8-4656-4517-8ff2-eca2fd38f4f8/svn/plytanium-sheathing-plywood-605189-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe8041d7-ca12-41b6-afae-dcce3b987833/svn/plytanium-sheathing-plywood-605189-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bb733133-7a3c-4ffa-ae8d-92e0e41ec763/svn/plytanium-sheathing-plywood-605189-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 290,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Rated Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "24 oc."
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "95.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.72 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "47.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "23/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "sub-floor plywood",
+      "southern pine sub-floor plywood",
+      "plywood",
+      "southern pine plywood",
+      "tongue-and-groove sub-floor plywood",
+      "tongue-and-groove plywood"
+    ],
+    "keywords": "sub-floor plywood, southern pine sub-floor plywood, plywood, southern pine plywood, tongue-and-groove sub-floor plywood, tongue-and-groove plywood",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sheathing Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/N-5yc1vZc7q5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 46,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 1057,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

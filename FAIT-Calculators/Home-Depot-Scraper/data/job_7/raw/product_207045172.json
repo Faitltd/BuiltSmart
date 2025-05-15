@@ -1,0 +1,238 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13174,
+    "overage_used": 3174,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GAF-Cobra-Rigid-Vent-3-9-in-x-48-in-in-Black-Plastic-Roof-Ridge-Vent-2035000/207045172"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:46:32.033Z",
+    "processed_at": "2025-05-01T13:47:15.444Z",
+    "total_time_taken": 43.41,
+    "homedepot_url": "https://www.homedepot.com/p/GAF-Cobra-Rigid-Vent-3-9-in-x-48-in-in-Black-Plastic-Roof-Ridge-Vent-2035000/207045172"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GAF-Cobra-Rigid-Vent-3-9-in-x-48-in-in-Black-Plastic-Roof-Ridge-Vent-2035000/207045172",
+    "brand": "GAF",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Ventilation-Roof-Vents-Ridge-Vents/GAF/N-5yc1vZc661Zll",
+    "title": "GAF Cobra Rigid Vent 3-9 in. x 48 in. in Black Plastic Roof Ridge Vent",
+    "upc": "073590411105",
+    "item_id": "207045172",
+    "store_sku": "1001991086",
+    "model_number": "2035000",
+    "description": "Cobra Rigid Vent 3 Exhaust Vent for Roof Ridge allows heat and moisture to escape at the ridge. It provides 18 sq. inches per linear foot (67,720 m2/lm) of net free ventilating area, and its unique EasyTear Sizing feature allows you to hand-tear the product in 3\" (76 mm) increments - no knives necessary and less waste!",
+    "favorite_count": 14,
+    "feature_bullets": [
+      "Interested in purchasing a pallet? Buy 120",
+      "Ventilates for energy efficiency & fights roof system degradation",
+      "9' width for use with 10' width ridge cap shingles"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://quickmeasure.gaf.com/THD\" target=\"_blank\" style=\"color:#F96302;\">Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders. A complete bill of materials, with Home Depot product SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]</a>",
+      "Effective: External baffles help deflect wind and rain.",
+      "Versatile: Extra-flexible hinge design allows installation on 3:12 to 16:12 sloped roofs.",
+      "Peace Of Mind: Eligible for up to a lifetime limited warranty when installed on Lifetime Shingle roofs1.",
+      "Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders. A complete bill of materials, with Home Depot product SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]",
+      "<a href=\"https://www.homedepot.com/catalog/pdfImages/ad/ad8f5906-18db-4b89-b232-5b1a19c2574e.pdf\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/22/GAF BUILDING MATERIALS/Roofing Project Checklist Inline Q1 2018.jpg\"></a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/415bdf60-e1d7-4ef6-9f41-b7c34d59cc71/svn/black-gaf-ridge-vents-2035000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8276d877-6446-46e9-8831-7fda807ef2b0/svn/black-gaf-ridge-vents-2035000-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8a1f2fab-3390-4517-a7ad-846563482f27/svn/black-gaf-ridge-vents-2035000-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/134bc9c2-ef64-41f2-b51f-690be5ae46da/svn/black-gaf-ridge-vents-2035000-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0ad25099-aad8-4b49-bbe1-8c6a9759f35a/svn/black-gaf-ridge-vents-2035000-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0065956a-292a-4ba9-bc60-a12a8c2579a9/svn/black-gaf-ridge-vents-2035000-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0246fe1a-a2f9-44f3-8def-c0e97863c7c1/svn/black-gaf-ridge-vents-2035000-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/38a35917-4a80-4af4-88dc-9cb58a7e387f/svn/black-gaf-ridge-vents-2035000-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/81ad8a1a-09cc-4094-9c01-d3f389d0eb48/svn/black-gaf-ridge-vents-2035000-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bb4d8d8d-dbd1-4136-88b6-37162f06994e/svn/black-gaf-ridge-vents-2035000-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4e7308f3-62bb-41c7-8268-5d1c67538771/svn/black-gaf-ridge-vents-2035000-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ae980464-aba7-4673-a1f9-c9c95d21a75a/svn/black-gaf-ridge-vents-2035000-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/415bdf60-e1d7-4ef6-9f41-b7c34d59cc71/svn/black-gaf-ridge-vents-2035000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e4406672-9309-43f0-9e5d-05bd714f11ab/a5ff1f88-fbc7-45f0-b9e2-9772c76522f2/main.mp4?fastly_token=NjgzODUwZjhfMDUyMzU3MjIyNGM4Y2VkYTRiNDU4MzY0MWVhNjZhNTczZmIzYjhjYmIzYTY4YWMzYTI1ODJhYjgyN2VmOGViMF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lNDQwNjY3Mi05MzA5LTQzZjAtOWU1ZC0wNWJkNzE0ZjExYWIvYTVmZjFmODgtZmJjNy00NWYwLWI5ZTItOTc3MmM3NjUyMmYyL21haW4ubXA0&pubid=66036796001",
+        "title": "GAF Pro Series Attic Ventilation Basic Install",
+        "id": "5787633196001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/e4406672-9309-43f0-9e5d-05bd714f11ab/2fe23471-63f6-4e31-9329-a9bea9c1a749/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Demonstrates how to install GAF Cobra attic ventilation"
+      }
+    ],
+    "ratings_total": 7,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Cap Shingle Compatible",
+        "value": "12\" Wide"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Corrosion Resistant,UV Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Intake/Exhaust",
+        "value": "Intake/Exhaust"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mounting Position",
+        "value": "Roof Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paintable/Stainable",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Power Type",
+        "value": "Non-Powered"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screen Included",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "group_name": "Details",
+        "name": "UV Resistant",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See GAF Shingle and Accessory Ltd. Warranty for details. \u201cLifetime\u201d means as long as the original owner of a single family detached residence (or second owner in certain situations) owns the property where shingles are installed; Lifetime coverage is otherwise not available. Lifetime coverage on accessories requires use of at least three qualifying GAF accessories and Lifetime Shingles."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cut-Out Width (in.)",
+        "value": "11.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Net-Free Area (Sq. In.)",
+        "value": "18"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "0.875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "11.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Ventilation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ventilation/N-5yc1vZc4mr"
+      },
+      {
+        "name": "Roof Vents",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ventilation-Roof-Vents/N-5yc1vZ1z18gjx"
+      },
+      {
+        "name": "Ridge Vents",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ventilation-Roof-Vents-Ridge-Vents/N-5yc1vZc661"
+      }
+    ],
+    "buybox_winner": {
+      "price": 11.14,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

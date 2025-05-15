@@ -1,0 +1,267 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14090,
+    "overage_used": 4090,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-ABA-ZMAX-Galvanized-Adjustable-Standoff-Post-Base-for-6x6-Actual-Rough-Lumber-ABA66RZ/204089976"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:54:41.039Z",
+    "processed_at": "2025-05-01T17:54:48.566Z",
+    "total_time_taken": 7.53,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-ABA-ZMAX-Galvanized-Adjustable-Standoff-Post-Base-for-6x6-Actual-Rough-Lumber-ABA66RZ/204089976"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-ABA-ZMAX-Galvanized-Adjustable-Standoff-Post-Base-for-6x6-Actual-Rough-Lumber-ABA66RZ/204089976",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Simpson-Strong-Tie/N-5yc1vZc8hsZ615",
+    "title": "Simpson Strong-Tie ABA ZMAX Galvanized Adjustable Standoff Post Base for 6x6 Actual Rough Lumber",
+    "upc": "707392686200",
+    "item_id": "204089976",
+    "parent_id": "309901993",
+    "store_sku": "819347",
+    "model_number": "ABA66RZ",
+    "description": "The Simpson Strong-Tie ABA is designed to attach wooden posts to existing concrete. The built-in 1-inch standoff of this adjustable post base helps to prevent rot at the end of the post. The ABA has a slotted anchor hole in the base for adjustability and attaches to the post with nails or Strong-Drive SD Connector screws. This versatile post base makes a cost-effective option for securing a post to the foundation.",
+    "favorite_count": 117,
+    "feature_bullets": [
+      "Adjustable standoff post base for various lumber sizes",
+      "ZMAX galvanized coating for enhanced corrosion resistance",
+      "Designed to provide uplift and lateral load support"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "The slot in the base enables flexibility around the anchor bolt, making precise post placement easier",
+      "The 1-inch standoff design meets code requirements for structural posts installed in basements or exposed to weather or water splash",
+      "Increased uplift loads for earthquake or wind loading",
+      "Nominal post size: Rough 6x6",
+      "Made from 14-gauge steel",
+      "ZMAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with 0.162 in. x 3-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">16DHDG</a>) or #10 x 1-1/2 in. Strong-Drive SD screws (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-1-1-2-in-1-4-Hex-Drive-Strong-Drive-SD-Connector-Screw-100-Pack-SD10112R100/202071154\" target=\"_blank\" style=\"color:#F96302;\">SD10112</a>)",
+      "Install with 16d common nails or #10 x 1-1/2 Strong-Drive SD screws",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/75124178-9d0b-4320-8926-0fdc9d68a9f3/svn/simpson-strong-tie-post-bases-aba66rz-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a068fa97-64e2-43c7-b3ea-3f613e11fe47/svn/simpson-strong-tie-post-bases-aba66rz-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/35243b4a-ddb4-4c52-84bc-34fe84fa2b35/svn/simpson-strong-tie-post-bases-aba66rz-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c6d50cfc-f056-4f49-9eb8-2848d38048e7/svn/simpson-strong-tie-post-bases-aba66rz-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7b2b5855-a4a0-405b-995b-6ae6f3a3a919/svn/simpson-strong-tie-post-bases-aba66rz-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3aa4097c-5290-4b33-bf35-db922b9864df/svn/simpson-strong-tie-post-bases-aba66rz-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-bases-aba66rz-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-bases-aba66rz-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/75124178-9d0b-4320-8926-0fdc9d68a9f3/svn/simpson-strong-tie-post-bases-aba66rz-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2c58f979-7adc-4b78-94f7-ef6b8d17ecc8/main.mp4?fastly_token=NjgxMzkxOGRfMTQwYThiNTM3NTVkODk5NjMyM2E3OTU0NGE1OTYzZTVjOTU2MzIxYzQxMzNmYmY2NzJkM2NmZmU0YTgxMWJiYl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZGI5NmMzMzktYjc5NS00ZTI2LWI2OGMtMjMxNTQ3YjliMmMxLzJjNThmOTc5LTdhZGMtNGI3OC05NGY3LWVmNmI4ZDE3ZWNjOC9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_Post Base",
+        "id": "6167359517001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2155f829-f919-4d62-bd12-1abcbcf1ff3b/160x90/match/image.jpg",
+        "description": "Promo of Post Base\n"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/0bd33c9c-d877-4a36-a4f4-dac41900ec94/7fdd89ef-12fc-440f-8f7b-483be23e6105/main.mp4?fastly_token=NjgzODI3MzdfYWRhZmQ3NGY5ZTY1NTk3OTE2MWVmMTllNGRmMzIyYjlkNmUyYmUzNWMzMzc0Y2ZmNjAyZjY3M2JlZGRiZjhlYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8wYmQzM2M5Yy1kODc3LTRhMzYtYTRmNC1kYWM0MTkwMGVjOTQvN2ZkZDg5ZWYtMTJmYy00NDBmLThmN2ItNDgzYmUyM2U2MTA1L21haW4ubXA0&pubid=66036796001",
+        "title": "ABA Post Base Applications",
+        "id": "6245306299001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/cad20ef9-e096-431a-83b4-ebc534144897/e80bb2b9-87cf-4cea-b75e-0c5022642a43/160x90/match/image.jpg",
+        "description": "ABA Post Base Applications"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/7f85da76-0200-468b-9330-7cb38bebfd47/18b0797d-9d1b-44d9-97e9-735870afa98e/main.mp4?fastly_token=NjgzODI3NDNfNjQ2NDFkOTMxNzU5MzJlM2IzOGU3ZTViMTQ2MDkwMzRhMjU4ZjEwOTNiNDVmMDRhNjVlNDFhMjUwNzhjZDZiNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83Zjg1ZGE3Ni0wMjAwLTQ2OGItOTMzMC03Y2IzOGJlYmZkNDcvMThiMDc5N2QtOWQxYi00NGQ5LTk3ZTktNzM1ODcwYWZhOThlL21haW4ubXA0&pubid=66036796001",
+        "title": "ABA/ABU Post Base Installation",
+        "id": "6245343200001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/8569eb66-5e7b-4f2e-baff-32ee1179406c/3999a131-6b0e-4f2d-84c5-c67ac02930df/160x90/match/image.jpg",
+        "description": "ABA/ABU Post Base Installation"
+      }
+    ],
+    "ratings_total": 73,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Standoff Post Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G185 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "14"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.6 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "Rough 6x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "5.19 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "keywords_list": [
+      "ABA66R"
+    ],
+    "keywords": "ABA66R",
+    "variants": [
+      {
+        "title": "G185 Galvanized",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-ABA-ZMAX-Galvanized-Adjustable-Standoff-Post-Base-for-6x6-Actual-Rough-Lumber-ABA66RZ/204089976",
+        "item_id": "204089976"
+      },
+      {
+        "title": "G185 Galvanized",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-ABA-ZMAX-Galvanized-Adjustable-Standoff-Post-Base-for-4x6-Actual-Rough-Lumber-ABA46RZ/205227039",
+        "item_id": "205227039"
+      },
+      {
+        "title": "G185 Galvanized",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-ABA-ZMAX-Galvanized-Adjustable-Standoff-Post-Base-for-4x4-Actual-Rough-Lumber-ABA44RZ/205227038",
+        "item_id": "205227038"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 25.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 141,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 141,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

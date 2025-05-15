@@ -1,0 +1,242 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13863,
+    "overage_used": 3863,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-16-ft-Emperor-Leather-Brown-Composite-Decking-Board-US129-16-NTK/332223407"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:03:54.683Z",
+    "processed_at": "2025-05-01T17:04:02.666Z",
+    "total_time_taken": 7.98,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-16-ft-Emperor-Leather-Brown-Composite-Decking-Board-US129-16-NTK/332223407"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-16-ft-Emperor-Leather-Brown-Composite-Decking-Board-US129-16-NTK/332223407",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/NewTechWood/N-5yc1vZc5mbZbzg",
+    "title": "NewTechWood Monarch Series 0.98 in. x 5.5 in. x 16 ft. Emperor Leather Brown Composite Decking Board",
+    "upc": "810146111825",
+    "item_id": "332223407",
+    "parent_id": "334162930",
+    "store_sku": "1013322020",
+    "model_number": "US129-16-NTK",
+    "description": "Elevate your outdoor space with the Monarch Series by NewTechWood Decking. Our innovative boards, adorned with a distinctive crowned surface, ensure water drains away effortlessly. Capped on all 4-sides, these boards offer unbeatable resistance to moisture, sun, and weather, while their mottled wood grain pattern and multichromatic color deliver a stunningly realistic appearance. Experience the perfect blend of durability and beauty with Monarch Series-where every detail reigns supreme.",
+    "feature_bullets": [
+      "Crowned surface design prevents water accumulation",
+      "All-sides capped: unmatched resistance to water",
+      "Talk to a live NewTechWood expert at 855-592-8088"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Crowned surface design: innovative surface prevents water accumulation for a dry, safe deck",
+      "Solid board no grooves",
+      "All-sides capped: unmatched resistance to water, UV rays, and harsh weather conditions",
+      "Mottled wood grain: rich, natural texture for a timeless and elegant look",
+      "Multichromatic color: enhances realism with a consistent, sophisticated hue",
+      "Durable construction: engineered for long-lasting performance and minimal maintenance",
+      "Elegant aesthetic: adds a touch of luxury to any outdoor space with its refined design"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/87b74614-b737-43a9-a828-cda2dc8354b4/svn/leather-brown-newtechwood-composite-decking-boards-us129-16-ntk-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe1d74ff-104d-4f5c-968b-747945ee6eed/svn/leather-brown-newtechwood-composite-decking-boards-us129-16-ntk-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e376c85d-6920-45ff-837b-59a2639e21bc/svn/leather-brown-newtechwood-composite-decking-boards-us129-16-ntk-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0c08436b-eeea-49c1-b859-d6ee91ab0650/svn/leather-brown-newtechwood-composite-decking-boards-us129-16-ntk-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bccb67dc-a32b-4135-80d2-c22643032049/svn/leather-brown-newtechwood-composite-decking-boards-us129-16-ntk-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/afaebbec-80f5-4727-9ddc-e3e8b2a54931/svn/leather-brown-newtechwood-composite-decking-boards-us129-16-ntk-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/87b74614-b737-43a9-a828-cda2dc8354b4/svn/leather-brown-newtechwood-composite-decking-boards-us129-16-ntk-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Leather Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "NewTechWood Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Years"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.98 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "34"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Leather Brown~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-8-ft-Empress-Grooved-Leather-Brown-Composite-Decking-Board-US125-8-NTK/332223325",
+        "item_id": "332223325"
+      },
+      {
+        "title": "Castle Gray~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-8-ft-Empress-Grooved-Castle-Gray-Composite-Decking-Board-US125-8-SA/332223372",
+        "item_id": "332223372"
+      },
+      {
+        "title": "Leather Brown~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-16-ft-Emperor-Leather-Brown-Composite-Decking-Board-US129-16-NTK/332223407",
+        "item_id": "332223407"
+      },
+      {
+        "title": "Leather Brown~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-16-ft-Empress-Grooved-Leather-Brown-Composite-Decking-Board-US125-16-NTK/332223083",
+        "item_id": "332223083"
+      },
+      {
+        "title": "Castle Gray~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-8-ft-Emperor-Castle-Gray-Composite-Decking-Board-US129-8-SA/332223521",
+        "item_id": "332223521"
+      },
+      {
+        "title": "Leather Brown~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-8-ft-Emperor-Leather-Brown-Composite-Decking-Board-US129-8-NTK/332223472",
+        "item_id": "332223472"
+      },
+      {
+        "title": "Castle Gray~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-16-ft-Emperor-Castle-Gray-Composite-Decking-Board-US129-16-SA/332223443",
+        "item_id": "332223443"
+      },
+      {
+        "title": "Castle Gray~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Monarch-Series-0-98-in-x-5-5-in-x-16-ft-Empress-Grooved-Castle-Gray-Composite-Decking-Board-US125-16-SA/332223283",
+        "item_id": "332223283"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 50.86,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2815,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        }
+      }
+    }
+  }
+}

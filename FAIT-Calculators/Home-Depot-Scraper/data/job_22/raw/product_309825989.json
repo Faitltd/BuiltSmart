@@ -1,0 +1,223 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14663,
+    "overage_used": 4663,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Enhance-Basics-1-in-x-6-in-x-20-ft-Beach-Dune-Grooved-Edge-Brown-Composite-Deck-Board-TXDEB0106BD20G/309825989"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:01:39.540Z",
+    "processed_at": "2025-05-01T19:02:26.409Z",
+    "total_time_taken": 46.87,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Enhance-Basics-1-in-x-6-in-x-20-ft-Beach-Dune-Grooved-Edge-Brown-Composite-Deck-Board-TXDEB0106BD20G/309825989"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Enhance-Basics-1-in-x-6-in-x-20-ft-Beach-Dune-Grooved-Edge-Brown-Composite-Deck-Board-TXDEB0106BD20G/309825989",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Enhance Basics 1 in. x 6 in. x 20 ft. Beach Dune Grooved Edge Brown Composite Deck Board",
+    "upc": "652835288605",
+    "item_id": "309825989",
+    "parent_id": "327512494",
+    "store_sku": "1006541078",
+    "model_number": "TXDEB0106BD20G",
+    "description": "The latest generation of Trex Enhance Basics Collection offers homeowners high-performance, low-maintenance composite decking at a value that makes it an attractive option for any project. Trex Enhance is a perfect choice for those who want to enjoy the look of real wood without the time-consuming maintenance. Made of recycled materials, so you can feel good about a deck that is earth-friendly and a 'green' option. Available in classic Enhance colors: Beach Dune, Clam Shell and Saddle. The second generation of Trex Enhance comes with a new, lighter, scalloped profile for easier handling and installation. The new profile means these boards won't work with deck plugs, as a cocktail or top rail and can not be curved or bent.",
+    "feature_bullets": [
+      "Made of high-performance composite for durability",
+      "Low-maintenance material; cleans easily with soap and water",
+      "Backed by a 25-year limited residential warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Easy to clean with soap and water",
+      "Won't warp, rot, split or splinter",
+      "Resists fade, stain, scratch and mold",
+      "25-year limited residential warranty"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f83f98e1-a948-481b-b817-2aaa9a05e07e/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/db438f3b-b01a-450a-b2d0-fdc42cb84987/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a1940825-7089-4ca4-bb67-c865f193a7c0/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/802d29dc-ed40-4fc1-a66c-905534d3f6ba/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/70a3625b-5adf-4bf4-b373-c096a5dab1a0/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5544e4cc-56c3-4014-8c9a-7f40e8c70320/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8b0ad37-e57c-41a4-9fb8-36dc76d1446c/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cddaae78-4d1b-4bcb-8721-b558586d6999/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dd3dc44d-0661-4fd5-a47c-adf7ae073a42/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1a889964-1d65-4d1a-bec1-cb4c2b5ee819/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8a20992b-a922-478a-9994-0286069ca8e9/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25143471-8ad7-47ad-a9a5-cb8218c38957/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f83f98e1-a948-481b-b817-2aaa9a05e07e/svn/beach-dune-trex-composite-decking-boards-txdeb0106bd20g-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Beach Dune"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Beach Dune~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Basics-1-in-x-6-in-x-20-ft-Beach-Dune-Grooved-Edge-Brown-Composite-Deck-Board-TXDEB0106BD20G/309825989",
+        "item_id": "309825989"
+      },
+      {
+        "title": "Saddle~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-ft-x-16-ft-Enhance-Basics-Saddle-Square-Edge-Composite-Deck-Board-TXDEB0106SD16/309826007",
+        "item_id": "309826007"
+      },
+      {
+        "title": "Toasted sand~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-12-ft-Enhance-Naturals-Toasted-Sand-Grooved-Edge-Composite-Deck-Board-TXDEN0106TS12G/309824662",
+        "item_id": "309824662"
+      },
+      {
+        "title": "Toasted sand~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-16-ft-Enhance-Naturals-Toasted-Sand-Square-Edge-Composite-Deck-Board-TXDEN0106TS16/309826253",
+        "item_id": "309826253"
+      },
+      {
+        "title": "Saddle~~Square~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-ft-to-12-ft-Enhance-Basics-Saddle-Grooved-Edge-Composite-Deck-Board-TXDEB0106SD12G/309825996",
+        "item_id": "309825996"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

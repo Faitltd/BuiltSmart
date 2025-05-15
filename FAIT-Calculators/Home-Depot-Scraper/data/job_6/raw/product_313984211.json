@@ -1,0 +1,159 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13330,
+    "overage_used": 3330,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-1x6-12-Sanctuary-Fire-Rated-Composite-Deck-Board-Chai-Grooved-Edge-Actual-Size-925-x-5-25-BRDSANGFR-CI-BRDSANGFR-CI-12/313984211"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:53:43.732Z",
+    "processed_at": "2025-05-01T13:54:29.432Z",
+    "total_time_taken": 45.7,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-1x6-12-Sanctuary-Fire-Rated-Composite-Deck-Board-Chai-Grooved-Edge-Actual-Size-925-x-5-25-BRDSANGFR-CI-BRDSANGFR-CI-12/313984211"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-1x6-12-Sanctuary-Fire-Rated-Composite-Deck-Board-Chai-Grooved-Edge-Actual-Size-925-x-5-25-BRDSANGFR-CI-BRDSANGFR-CI-12/313984211",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon 1x6-12' Sanctuary Fire Rated Composite Deck Board-Chai Grooved Edge (Actual Size:. 925\" x 5.25\") BRDSANGFR CI",
+    "upc": "844219026884",
+    "item_id": "313984211",
+    "store_sku": "1005580256",
+    "model_number": "BRDSANGFR CI 12",
+    "description": "Make your backyard a place to stay. Beautiful and easy to maintain, Sanctuary decking features bold, multi-tonal colors and rustic embossing. Fiberon products are nearly maintenance free and retain their beauty for years to come, meaning you can enjoy the quiet moments without spending precious time on maintenance and upkeep.",
+    "feature_bullets": [
+      "Stain and fade resistant with PermaTech cap layer"
+    ],
+    "feature_bullets_count": 1,
+    "descriptive_attributes": [
+      "A Fire-rated version of Sanctuary decking approved for use in all Wildland Urban Interface (WUI) zones.",
+      "Sanctuary decking is beautiful and easy to maintain, featuring bold, multi-tonal colors and rustic embossing.",
+      "Strong composite construction helps resist splintering, rotting, cracking, insects and decay.",
+      "Features a three-sided PermaTech cap layer for superior stain and fade resistance.",
+      "The flat-profile bottom provides a sturdy feel, reminiscent of traditional lumber.",
+      "Contains 95% recycled content."
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/43283b32-9c57-4cdc-9ad9-8dbf26f6b5b5/svn/chai-fiberon-composite-decking-boards-brdsangfr-ci-12-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/43283b32-9c57-4cdc-9ad9-8dbf26f6b5b5/svn/chai-fiberon-composite-decking-boards-brdsangfr-ci-12-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Chai"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Screws or hidden fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "40 year Stain, Fade and Performance"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".925"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "29"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

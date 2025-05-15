@@ -1,0 +1,210 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13562,
+    "overage_used": 3562,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-453-7-16-in-D-x-2-1-4-in-W-x-84-in-L-Unfinished-Pine-Wood-PFJ-Casing-Moulding-05092-90084/333500323"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:49:53.431Z",
+    "processed_at": "2025-05-01T16:50:00.153Z",
+    "total_time_taken": 6.72,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-453-7-16-in-D-x-2-1-4-in-W-x-84-in-L-Unfinished-Pine-Wood-PFJ-Casing-Moulding-05092-90084/333500323"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-453-7-16-in-D-x-2-1-4-in-W-x-84-in-L-Unfinished-Pine-Wood-PFJ-Casing-Moulding-05092-90084/333500323",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Window-Door-Kits/HOUSE-OF-FARA/N-5yc1vZclg3Zucc",
+    "title": "HOUSE OF FARA 453 7/16 in. D x 2-1/4 in. W x 84 in. L Unfinished Pine Wood PFJ Casing Moulding",
+    "upc": "043559050928",
+    "item_id": "333500323",
+    "store_sku": "1013211537",
+    "model_number": "05092-90084",
+    "description": "Primed Finger Jointed Pine Casing enhances the character of any room opening by encasing the area around doors or windows where the frame meets the drywall. It hides gaps and breathes life into your room. This casing is easy to work with and is primed ready for painting. Casings are available in many different sizes and styles to suit your decor, budget and style of home.",
+    "feature_bullets": [
+      "Perfect for trimming inside and outside window and door openings",
+      "Primed surface - ready to paint",
+      "Durable pine substrate that has workability similar to solid pine"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Molding installs in a snap using brad nails",
+      "Finger-jointing provides a seamless and consistent appearance, eliminating imperfections",
+      "Coated with a high hide water based primer allowing for superior paint adherence",
+      "Use for trimming inside and outside window and door openings",
+      "Provides an affordable option for quality casings with a finished look, reducing labor and material costs"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3224a228-a07e-408c-87bf-fb0fb0879d21/svn/primed-white-house-of-fara-window-door-kits-05092-90084-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e3b5b155-74eb-4b88-b9a5-a684081fef78/svn/primed-white-house-of-fara-window-door-kits-05092-90084-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5c1fb2e7-895d-4b96-bb8e-72bb1d1f7bb1/svn/primed-white-house-of-fara-window-door-kits-05092-90084-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3224a228-a07e-408c-87bf-fb0fb0879d21/svn/primed-white-house-of-fara-window-door-kits-05092-90084-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "453"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Guaranteed against manufacturing defects. See store for details."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": ".4375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Window & Door Kits",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Window-Door-Kits/N-5yc1vZclg3"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 8632,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 8632,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

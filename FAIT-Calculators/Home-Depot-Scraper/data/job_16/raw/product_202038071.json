@@ -1,0 +1,277 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13955,
+    "overage_used": 3955,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/POLYMERSHAPES-100-Silicone-10-1-oz-Clear-Caulk-and-Sealant-for-Plastic-Sheets-GE-55/202038071"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:48:41.032Z",
+    "processed_at": "2025-05-01T17:48:52.080Z",
+    "total_time_taken": 11.05,
+    "homedepot_url": "https://www.homedepot.com/p/POLYMERSHAPES-100-Silicone-10-1-oz-Clear-Caulk-and-Sealant-for-Plastic-Sheets-GE-55/202038071"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/POLYMERSHAPES-100-Silicone-10-1-oz-Clear-Caulk-and-Sealant-for-Plastic-Sheets-GE-55/202038071",
+    "brand": "POLYMERSHAPES",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/POLYMERSHAPES/N-5yc1vZcibhZs3x",
+    "title": "POLYMERSHAPES 100% Silicone 10.1 oz. Clear Caulk and Sealant for Plastic Sheets",
+    "upc": "077027051001",
+    "item_id": "202038071",
+    "parent_id": "309731067",
+    "store_sku": "101241",
+    "model_number": "GE-55",
+    "description": "This 10 oz. Silicone cartridge features a non-toxic, translucent, 100% silicone formula ideal for use on LEXAN sheet and most plastics. This quick-setting caulk provides a watertight seal and is permanently flexible. It offers a water-tight seal and is excellent for marine applications above the water line.",
+    "favorite_count": 472,
+    "aisle": "31",
+    "bay": "011",
+    "feature_bullets": [
+      "Moisture and fire resistant to withstand harsh weather",
+      "Compatible on LEXAN sheets, plastic, metal and glass surfaces",
+      "Silicone formula is non-toxic and safe for use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "100% silicone formula is non-toxic and translucent",
+      "Ideal for use on LEXAN sheet and most plastics; it can also be used on most glass and metal surfaces",
+      "Fire - and high heat resistant up to 400\u00b0 F (205\u00b0 C)",
+      "Moisture resistant",
+      "Permanently flexible",
+      "Cures in as few as 12 hours",
+      "Can be tooled within 15 minutes of its application",
+      "Perfect for use in marine applications above the water line",
+      "Includes threaded cap to help maintain seal keeping silicone fresh for reuse",
+      "<a href=\"https://www.homedepot.com/c/caulk_and_sealants_buying_guide_recommendations_for_selecting_and_using_caulks_and_sealants_HT_BG_PA\" target=\"_blank\">Need help choosing the right Caulk? Click Here for Home Depot's Buying Guide!</a>",
+      "<a href=\"https://www.homedepot.com/c/how_to_caulk_HT_PG_PA\" target=\"_blank\">Click Here for the How to Caulk Project Guide</a>",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/befb31d7-0201-4046-af98-4e801214f488/svn/clear-polymershapes-caulk-ge-55-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0eaa00f4-a5f0-4f63-92a7-409fed56bedb/svn/clear-polymershapes-caulk-ge-55-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/106abb30-63dd-4e02-85e2-46d5def443a8/svn/clear-polymershapes-caulk-ge-55-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e832fb05-38cc-4bb7-8918-51c26edfbba7/svn/clear-polymershapes-caulk-ge-55-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/70fff7fb-03dd-4181-9844-ad9c6cda4f06/svn/clear-polymershapes-caulk-ge-55-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/befb31d7-0201-4046-af98-4e801214f488/svn/clear-polymershapes-caulk-ge-55-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 246,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Multipurpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Silicone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Fire and High Heat Resistant,Moisture Resistant,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Manufacturer warrants the performance of this product provided it is properly stored and applied. If not satisfied, return cartridge or proof of purchase to manufacturer and at its option, manufacturer will replace or refund the purchase price."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10.1 oz"
+      }
+    ],
+    "keywords_list": [
+      "caulk",
+      "silicone caulk",
+      "caulks",
+      "silicone caulks",
+      "cartridge",
+      "silicone cartridge",
+      "cartridges",
+      "silicone cartridges",
+      "plastic caulk",
+      "plastic caulks",
+      "plastic cartridge",
+      "plastic cartridges",
+      "watertight caulk",
+      "watertight caulks",
+      "watertight cartridge"
+    ],
+    "keywords": "caulk, silicone caulk, caulks, silicone caulks, cartridge, silicone cartridge, cartridges, silicone cartridges, plastic caulk, plastic caulks, plastic cartridge, plastic cartridges, watertight caulk, watertight caulks, watertight cartridge",
+    "variants": [
+      {
+        "title": "Clear~~2.8 oz~~1",
+        "link": "https://www.homedepot.com/p/POLYMERSHAPES-100-Silicone-2-8-oz-Clear-Caulk-and-Sealant-for-Plastic-Sheets-GE-57/202038072",
+        "item_id": "202038072"
+      },
+      {
+        "title": "Clear~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/POLYMERSHAPES-100-Silicone-10-oz-Clear-Caulk-and-Sealant-for-Plastic-Sheets-12-pack-GE-55-12/202038095",
+        "item_id": "202038095"
+      },
+      {
+        "title": "Clear~~2.8 oz~~12",
+        "link": "https://www.homedepot.com/p/POLYMERSHAPES-100-Silicone-2-8-oz-Clear-Caulk-and-Sealant-for-Plastic-Sheets-12-pack-GE-57-12/202038096",
+        "item_id": "202038096"
+      },
+      {
+        "title": "Clear~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/POLYMERSHAPES-100-Silicone-10-1-oz-Clear-Caulk-and-Sealant-for-Plastic-Sheets-GE-55/202038071",
+        "item_id": "202038071"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 14
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 14,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 994,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

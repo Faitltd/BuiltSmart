@@ -1,0 +1,222 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14743,
+    "overage_used": 4743,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/UDECX-10-ft-x-10-ft-100-sq-ft-Flint-Grey-Patio-Deck-Starter-Kit-RSKW32/203895168"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:08:24.746Z",
+    "processed_at": "2025-05-01T19:08:30.505Z",
+    "total_time_taken": 5.76,
+    "homedepot_url": "https://www.homedepot.com/p/UDECX-10-ft-x-10-ft-100-sq-ft-Flint-Grey-Patio-Deck-Starter-Kit-RSKW32/203895168"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/UDECX-10-ft-x-10-ft-100-sq-ft-Flint-Grey-Patio-Deck-Starter-Kit-RSKW32/203895168",
+    "brand": "UDECX",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/UDECX/N-5yc1vZc5mbZbzr",
+    "title": "UDECX 10 ft. x 10 ft. 100 sq. ft. Flint Grey Patio Deck Starter Kit",
+    "upc": "855700004052",
+    "item_id": "203895168",
+    "store_sku": "1000336882",
+    "model_number": "RSKW32",
+    "description": "The Udecx 100 sq. ft. patio decking kit features a completely do-it-yourself set of components. The patio deck can be installed without a contractor in minimal time with just a few common tools. The system allows for an array of setup configurations so you can be creative beyond your original design or setup.",
+    "favorite_count": 146,
+    "feature_bullets": [
+      "Increases the life of your patio deck as it is decay-resistant",
+      "Prefabricated modular components enable easy installation",
+      "Provides a natural look with its flint gray colored wood texture"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Limited 15-year warranty",
+      "Made of composite material to ensure strength and durability",
+      "Flint grey colored surface with wood-grain texture for a natural look and feel",
+      "Decay-resistant materials increase the lifespan of your patio deck",
+      "Includes 16-piers, 9-pads, 36-cam locks, 16-anchor spikes, 1 cam lock tool and 1 pier placement template to create a 100 sq. ft. patio deck",
+      "Pre-fabricated modular components allow for easy do-it-yourself installation, reconfiguration, or disassembly",
+      "Entire patio deck is packaged in one simple box",
+      "Modular and lightweight components make the system portable and easy to move",
+      "System supports up to 100 lbs. per sq. ft.",
+      "Easy to clean for years of enjoyment",
+      "Made in the U.S.A.",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0c628044-4530-40aa-9b41-f6c3cde1da56/svn/woodgrain-udecx-composite-decking-boards-rskw32-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3a7b8cab-7d8e-4146-b2aa-80afa16b0340/svn/woodgrain-udecx-composite-decking-boards-rskw32-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b70b19b3-2118-4744-8693-27680608ef37/svn/woodgrain-udecx-composite-decking-boards-rskw32-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe6ac4cc-6dc0-4435-be14-e3fcc160892b/svn/woodgrain-udecx-composite-decking-boards-rskw32-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1dc9517a-6880-46f0-9ac6-7f58cf74f789/svn/woodgrain-udecx-composite-decking-boards-rskw32-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5b2a4e8b-0bb2-400a-800c-149f36d78d9a/svn/woodgrain-udecx-composite-decking-boards-rskw32-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/09cc034c-2449-4bd2-8880-61801a3c789e/svn/woodgrain-udecx-composite-decking-boards-rskw32-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/456b9573-e558-4655-89cc-0bf0fdc054c0/svn/woodgrain-udecx-composite-decking-boards-rskw32-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0c628044-4530-40aa-9b41-f6c3cde1da56/svn/woodgrain-udecx-composite-decking-boards-rskw32-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/9a1ae1d6-fae6-4cfa-abc8-9fa531428228/2b8ce57c-d488-461f-9e59-befe0b48b769/main.mp4?fastly_token=NjgxMzkyZWZfMGY2MTc3ZDA2YTI3OTVlODBiY2RkNjhkZWU5ODY5NzQwN2JkZDEwNmViZjZmYzEzMTg4ZTA3ZGViNjhlMzI2NF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvOWExYWUxZDYtZmFlNi00Y2ZhLWFiYzgtOWZhNTMxNDI4MjI4LzJiOGNlNTdjLWQ0ODgtNDYxZi05ZTU5LWJlZmUwYjQ4Yjc2OS9tYWluLm1wNA%3D%3D",
+        "title": "UDECX Simple Outdoor Living",
+        "id": "2321704260001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/9a1ae1d6-fae6-4cfa-abc8-9fa531428228/f3833ee7-3a6c-4794-a01a-1bb1c18c159a/160x90/match/image.jpg",
+        "description": "UDECX Simple Outdoor Living"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 26,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Woodgrain"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "UDECX offers a 15-year manufacturer's warranty."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "10 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "3.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "40 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "442"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "10 ft"
+      }
+    ],
+    "keywords_list": [
+      "UDECX",
+      "100 sq. ft. Flint Grey Patio Deck Starter Kit",
+      "RSKW32"
+    ],
+    "keywords": "UDECX, 100 sq. ft. Flint Grey Patio Deck Starter Kit, RSKW32",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2169,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3,
+          "price": 0,
+          "start_date": "2025-05-14",
+          "end_date": "2025-05-19"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3,
+          "price": 55,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-20",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

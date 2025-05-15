@@ -1,0 +1,180 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13661,
+    "overage_used": 3661,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Citadel-1-in-x-5-4-in-x-20-ft-Solid-Edge-Capped-Composite-Decking-10-Piece-H-Pack-3550944P/331836889"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:06.209Z",
+    "processed_at": "2025-05-01T16:53:12.486Z",
+    "total_time_taken": 6.28,
+    "homedepot_url": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Citadel-1-in-x-5-4-in-x-20-ft-Solid-Edge-Capped-Composite-Decking-10-Piece-H-Pack-3550944P/331836889"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Citadel-1-in-x-5-4-in-x-20-ft-Solid-Edge-Capped-Composite-Decking-10-Piece-H-Pack-3550944P/331836889",
+    "brand": "MoistureShield",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/MoistureShield/N-5yc1vZc5mbZfn1",
+    "title": "MoistureShield Meridian CoolDeck Citadel 1 in. x 5.4 in. x 20 ft. Solid Edge Capped Composite Decking 10-Piece H-Pack",
+    "upc": "742786925763",
+    "item_id": "331836889",
+    "store_sku": "1012539917",
+    "model_number": "3550944P",
+    "description": "Create the perfect escape. Get a natural look without all the upkeep. Our resilient, color-enriched Meridian deck boards feature TruTexture Surface. This capped composite decking with a low-profile wood grain pattern and reduced pattern repetition evokes the look and feel of realwood and is combined with all the protection and performance of the Solid Core Difference. Experience the beauty of a sanctuary that can be enjoyed for a lifetime.",
+    "descriptive_attributes": [
+      "Find additional defense against the elements with moisture shield's solid core technology which maintains its leading performance with zero structural field failures even on the ground, in the ground and in the water",
+      "Backed by a 50-year structural warranty plus a 40-year fade and stain warranty",
+      "Cool deck technology to help reduce heat transfer and surface temperature",
+      "Full 1 in solid profile for a traditional deck look and enhance design opportunities",
+      "Moisture shield meridian's tru texture coating utilizes advanced techniques to deliver lower pattern repetition, rich color variegation and a realistic wood grain texture in each composite decking board",
+      "Sustainability matters, that's why all moisture shield decking products are made with an environmentally friendly 95% recycled content",
+      "Easy to clean, just use soapy water",
+      "Actual dimension 1 in. x 5.4 in.",
+      "Pack of 10 deck boards",
+      "For custom quantities please visit your local pro desk"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/09aa4d36-b328-4935-a2b8-e86ecc1cc051/svn/gray-moistureshield-composite-decking-boards-3550944p-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a0fa71aa-2e8c-4f41-ac89-f53978c6ea09/svn/gray-moistureshield-composite-decking-boards-3550944p-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/09aa4d36-b328-4935-a2b8-e86ecc1cc051/svn/gray-moistureshield-composite-decking-boards-3550944p-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Pool,Prefinished,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "200"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "50-year Structural Warranty plus 40-year Fade & Stain"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "582"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 956.67,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "bundle",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 15,
+          "price": 0,
+          "start_date": "2025-05-14",
+          "end_date": "2025-05-19"
+        }
+      }
+    }
+  }
+}

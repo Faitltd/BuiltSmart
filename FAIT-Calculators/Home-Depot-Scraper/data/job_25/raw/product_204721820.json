@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14841,
+    "overage_used": 4841,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Builders-Choice-OP413-11-16-in-x-3-1-4-in-Craftsman-MDF-Casing-HDFB413/204721820"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:41:58.967Z",
+    "processed_at": "2025-05-01T19:42:43.840Z",
+    "total_time_taken": 44.87,
+    "homedepot_url": "https://www.homedepot.com/p/Builders-Choice-OP413-11-16-in-x-3-1-4-in-Craftsman-MDF-Casing-HDFB413/204721820"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Builders-Choice-OP413-11-16-in-x-3-1-4-in-Craftsman-MDF-Casing-HDFB413/204721820",
+    "brand": "Builders Choice",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Builders-Choice/N-5yc1vZclf5Zflz",
+    "title": "Builders Choice OP413 11/16 in. x 3-1/4 in. Craftsman MDF Casing",
+    "upc": "096037162378",
+    "item_id": "204721820",
+    "parent_id": "326960850",
+    "store_sku": "1000027197",
+    "model_number": "HDFB413",
+    "description": "Add character and lasting value to your home with Builders Choice primed MDF casing. Featuring a smooth white surface, our Craftsman-style casing is primed and ready to paint. Casing uniformly trims doors and windows for a beautifully finished look.",
+    "favorite_count": 79,
+    "feature_bullets": [
+      "Easy to install and ready to paint",
+      "Install as interior trim around doors or windows",
+      "Available in 16 ft. length"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used to trim the perimeter of doors and windows",
+      "Premium MDF for enhanced appearance and durability",
+      "Primed for superior paint adhesion",
+      "Best for indoor and low-moisture applications",
+      "Craftsman profile complements a variety of home styles",
+      "Complete family of Craftsman trim products available",
+      "Combine 2 or more profiles for unique build-up designs",
+      "Cut to desired length in store",
+      "Manufacturers and availability may vary by store"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/601becea-8db9-4981-932e-3c0152c387b7/svn/primed-white-builders-choice-casing-hdfb413-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6ec2674d-4375-4b49-b20a-233bffa32c4e/svn/primed-white-builders-choice-casing-hdfb413-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/601becea-8db9-4981-932e-3c0152c387b7/svn/primed-white-builders-choice-casing-hdfb413-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 132,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "413"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Primed White~~7 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builders-Choice-413-11-16-in-x-3-1-4-in-x-84-in-Craftsman-Primed-MDF-Casing-1-Piece-7-Total-Linear-Feet-HDFB413-7/204721813",
+        "item_id": "204721813"
+      },
+      {
+        "title": "Primed White~~7 ft~~Medium Density Fiberboard (MDF)~~3",
+        "link": "https://www.homedepot.com/p/Builders-Choice-OP413-11-16-in-x-3-1-4-in-x-84-in-Primed-MDF-Craftsman-Casing-Set-HDFB413-S/312764748",
+        "item_id": "312764748"
+      },
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builders-Choice-OP413-11-16-in-x-3-1-4-in-Craftsman-MDF-Casing-HDFB413/204721820",
+        "item_id": "204721820"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

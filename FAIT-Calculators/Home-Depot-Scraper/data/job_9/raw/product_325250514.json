@@ -1,0 +1,257 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13681,
+    "overage_used": 3681,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Henry-817-Roof-Guard-White-Urethane-Enhanced-Acrylic-Waterproof-Reflective-Roof-Coating-4-75-gal-HE817372/325250514"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:55.526Z",
+    "processed_at": "2025-05-01T16:54:06.739Z",
+    "total_time_taken": 11.21,
+    "homedepot_url": "https://www.homedepot.com/p/Henry-817-Roof-Guard-White-Urethane-Enhanced-Acrylic-Waterproof-Reflective-Roof-Coating-4-75-gal-HE817372/325250514"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Henry-817-Roof-Guard-White-Urethane-Enhanced-Acrylic-Waterproof-Reflective-Roof-Coating-4-75-gal-HE817372/325250514",
+    "brand": "Henry",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Coatings/Henry/N-5yc1vZaqu6Z2wn",
+    "title": "Henry 817 Roof Guard White Urethane Enhanced Acrylic Waterproof Reflective Roof Coating 4.75 gal.",
+    "upc": "081725134539",
+    "item_id": "325250514",
+    "parent_id": "326936728",
+    "store_sku": "1009680692",
+    "model_number": "HE817372",
+    "description": "Henry 817 Roof Guard Urethane Enhanced White Waterproof Roof Coating is a premium, acrylic polyurethane hybrid formula. Roof Guard offers better film strength, better weather protection, solar reflectivity, better durability, and longevity versus standard acrylic reflective roof coatings. It is 100% waterproof and permanent ponding water resistant.",
+    "is_exclusive": true,
+    "aisle": "25",
+    "bay": "021",
+    "feature_bullets": [
+      "100% waterproof, permanent ponding water resistant",
+      "Dirt Pick-Up Resistance (DPR) \u2013 for longest-lasting reflectivity",
+      "25-year limited warranty with 1-time application"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Permanent ponding water resistant",
+      "Lowers roof and interior temperatures",
+      "Enhanced durability - acrylic plus urethane formula",
+      "Cool Roof Rating Council (CRRC) rated",
+      "Meets the requirements of California Energy Commission (CEC) Title 24 Section 118(i)3",
+      "Meets or exceeds ASTM D7281 standard test method for determining water migration resistance through roof membranes",
+      "Meets or exceeds Henry Dirt Pick-Up Resistance (DPR) test method MOT P-14"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ccc6be6d-f7ea-44b6-ba36-6b243aa2cb83/svn/henry-roof-coatings-he817372-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e7b93d7f-34cd-482e-9fab-76238f789273/svn/henry-roof-coatings-he817372-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f78f1abf-2197-4e8a-86b6-caefd0ed345f/svn/henry-roof-coatings-he817372-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/06864e2c-0124-43cf-b282-3d1ba4406142/svn/henry-roof-coatings-he817372-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d809c802-d3b1-4d6c-9f70-50e14700f56a/svn/henry-roof-coatings-he817372-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ae347795-2e12-4f0f-a663-0abc1e93c2c9/svn/henry-roof-coatings-he817372-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1e36dc70-5e88-41a5-93e6-68fee6ebba96/svn/henry-roof-coatings-he817372-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ccc6be6d-f7ea-44b6-ba36-6b243aa2cb83/svn/henry-roof-coatings-he817372-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/b7011e34-2bb8-44f8-9f0f-1455f8ce4060/14749f0b-04ec-47b5-b359-c12d39f4ca1c/main.mp4?fastly_token=NjgzODI3NjZfYmFlN2M4NmEyNjI4MzhiZTU0MTliMjRkY2JmZGU3NDhjNzIwNjE4MTM4MGM3NDRjZGNiMTFlOTYwOTcwZTA5ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iNzAxMWUzNC0yYmI4LTQ0ZjgtOWYwZi0xNDU1ZjhjZTQwNjAvMTQ3NDlmMGItMDRlYy00N2I1LWIzNTktYzEyZDM5ZjRjYTFjL21haW4ubXA0&pubid=66036796001",
+        "title": "Why use a Henry White Roof Coating on your flat or low slope roof",
+        "id": "4679032077001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/e7229205-4819-421a-9b36-9b1bd4169ffb/8535d294-d432-441e-8003-239abb5790ee/160x90/match/image.jpg",
+        "description": "How-to Video on why use a Henry White Roof Coating on your flat or low slope roof. "
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 7,
+    "rating": 4.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Brush On,Roll On,Spray On"
+      },
+      {
+        "group_name": "Details",
+        "name": "Approximate Coverage Per Gallon (sq. ft)",
+        "value": "100"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coating Base",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cold Applied",
+        "value": "Cold Applied"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Algae Resistant,Cool Roof Certified,Extreme Heat,High Reflectivity,Mildew Resistant,Water Resistant,Waterproof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "No Rating Available"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number per Package",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package size (gallons)",
+        "value": "4.75 gal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Reflectivity Rating (%)",
+        "value": "83"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Reflective Roof Coating"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Recommended",
+        "value": "Coated Roofs,Concrete Roofs,Concrete/Masonry,Metal,Metal Roofs,PVC Membrane,TPO Membrane"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25-year limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "14 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size (oz.)",
+        "value": "608 oz"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~4.75 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-817-Roof-Guard-White-Urethane-Enhanced-Acrylic-Waterproof-Reflective-Roof-Coating-4-75-gal-HE817372/325250514",
+        "item_id": "325250514"
+      },
+      {
+        "title": "White~~0.90 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-817-Roof-Guard-White-Urethane-Enhanced-Acrylic-Waterproof-Reflective-Roof-Coating-0-90-gal-HE817146/325252396",
+        "item_id": "325252396"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Commercial Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing/N-5yc1vZapzz"
+      },
+      {
+        "name": "Roof Coatings",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Coatings/N-5yc1vZaqu6"
+      }
+    ],
+    "buybox_winner": {
+      "price": 199,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 22
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 32,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 38,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

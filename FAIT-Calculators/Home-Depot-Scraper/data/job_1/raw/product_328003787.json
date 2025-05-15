@@ -1,0 +1,330 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14883,
+    "overage_used": 4883,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Echelon-48-in-x-70-in-Frameless-Pivot-Shower-Door-in-Anodized-Brushed-Nickel-with-Clear-Glass-R30977-8L-BNK/328003787"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T06:16:55.060Z",
+    "processed_at": "2025-05-02T06:17:04.607Z",
+    "total_time_taken": 9.55,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Echelon-48-in-x-70-in-Frameless-Pivot-Shower-Door-in-Anodized-Brushed-Nickel-with-Clear-Glass-R30977-8L-BNK/328003787"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Echelon-48-in-x-70-in-Frameless-Pivot-Shower-Door-in-Anodized-Brushed-Nickel-with-Clear-Glass-R30977-8L-BNK/328003787",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Showers-Shower-Doors-Alcove-Shower-Doors/KOHLER/N-5yc1vZcbmqZ1qh",
+    "title": "KOHLER Echelon 48 in. x 70 in. Frameless Pivot Shower Door in Anodized Brushed Nickel with Clear Glass",
+    "upc": "195711148315",
+    "item_id": "328003787",
+    "parent_id": "329125183",
+    "store_sku": "1010542474",
+    "model_number": "R30977-8L-BNK",
+    "description": "The Echelon pivot shower door creates an open, airy look with its minimalist frameless design and ultra-low threshold. Designed for easy personalization, Echelon doors are available in a full range of KOHLER finishes and height and glass options, so you can choose the ideal door for your space. This adjustable-width door allows for simpler installation. The 5/16\"-thick Crystal Clear glass offers a luxurious, heavier feel.",
+    "is_exclusive": true,
+    "aisle": "36",
+    "bay": "002",
+    "feature_bullets": [
+      "Tempered glass ensures scratch resistance",
+      "High-quality stainless steel hardware for durability",
+      "Rotary shaft design adds convenience"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Vertical handle complements contemporary style",
+      "Cleancoat+ glass coating creates a hydrophobic barrier that repels water, soap scum, and residue, saving time and protecting shower doors 10 times longer than original cleancoat based on 2021 internal wear/abrasion testing using a microfiber cloth",
+      "Tempered glass ensures enhanced safety and durability",
+      "Self-closing mechanism offers superior performance and security against water leakage",
+      "Ultra-low threshold creates easy entry and exit to the showering space",
+      "Maximum width adjustability",
+      "Frameless, 5/16 in. (8 mm) thick crystal clear tempered glass",
+      "Out-of-plumb adjustability simplifies installation",
+      "Door can be installed to open to the left or right to suit your bathroom layout",
+      "Pivot shower door",
+      "Not for use in hospitality",
+      "For residential use only",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ccb16c87-e4a7-4f41-8f09-0f4999042f32/svn/kohler-alcove-shower-doors-r30977-8l-bnk-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c2b966d9-3ca9-485d-8950-0fb2e62267f7/svn/kohler-alcove-shower-doors-r30977-8l-bnk-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3625eff4-70fa-47f5-afb3-986bf7f4bfb7/svn/kohler-alcove-shower-doors-r30977-8l-bnk-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fc27b95f-19a8-406e-83eb-f279528d5465/svn/kohler-alcove-shower-doors-r30977-8l-bnk-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5cbb4931-1338-43bd-a3b3-c410e22c12f8/svn/kohler-alcove-shower-doors-r30977-8l-bnk-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5bcbb44a-e57f-4941-ac79-32470ee9a8e5/svn/kohler-alcove-shower-doors-r30977-8l-bnk-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c1dfb9f6-6a12-42ec-a27a-5c59349845b0/svn/kohler-alcove-shower-doors-r30977-8l-bnk-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/95ebcfc8-69fc-420e-974c-1ddd089c3d5c/svn/kohler-alcove-shower-doors-r30977-8l-bnk-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8bdcf408-85cb-4b5c-bd4e-74c01e96f4ca/svn/kohler-alcove-shower-doors-r30977-8l-bnk-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/28c7a9b2-f23c-4cea-8a2a-ae741c4860e4/svn/kohler-alcove-shower-doors-r30977-8l-bnk-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b3b455f5-d05d-4fb2-95a4-6da9f77217da/svn/kohler-alcove-shower-doors-r30977-8l-bnk-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ccb16c87-e4a7-4f41-8f09-0f4999042f32/svn/kohler-alcove-shower-doors-r30977-8l-bnk-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ac342edf-3545-4c33-be6f-e73b52fc2a9b/90c7385a-494c-4a9a-abb4-e96a714081c7/main.mp4?fastly_token=NjgzODE5MDNfZGY2ZTM3NjA2ZGZmN2VmMDM0NGFkZDcxNDRjMmZiMzI3YWNmZTk5NDA1YWZiYzU4NGYzOGQzOTNiOWUwMjk3Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hYzM0MmVkZi0zNTQ1LTRjMzMtYmU2Zi1lNzNiNTJmYzJhOWIvOTBjNzM4NWEtNDk0Yy00YTlhLWFiYjQtZTk2YTcxNDA4MWM3L21haW4ubXA0&pubid=66036796001",
+        "title": "Kohler Clean Coat",
+        "id": "5604448166001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/ac342edf-3545-4c33-be6f-e73b52fc2a9b/5a2fbf02-fb04-4ada-8016-01d7167a33fd/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Kohler Clean Coat Revised"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxMzkyZDRfZTY4YmM2MGYxZDQxMGYwNmUyYjM0N2U0MWRmM2EwM2ZlNjg0MDFlN2U1MGUwOTQ2MWNkM2I1NjE1Y2VmYTMwMF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "ratings_total": 26,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Door Handle Type",
+        "value": "Lever"
+      },
+      {
+        "group_name": "Details",
+        "name": "Door Type",
+        "value": "Pivot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Double Hinged"
+      },
+      {
+        "group_name": "Details",
+        "name": "Frame Finish",
+        "value": "Anodized Brushed Nickel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Frame Type",
+        "value": "Frameless"
+      },
+      {
+        "group_name": "Details",
+        "name": "Frame/Hardware Finish Family",
+        "value": "Nickel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Glass Finish",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Glass Texture",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Finish",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Mounting Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Max Installed Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "135.267 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shower Type",
+        "value": "Alcove"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Industrial,Minimalist,Modern"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ANSI Certified,ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One-Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Max Installed Width (in.)",
+        "value": "48 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Door Glass Thickness (in.)",
+        "value": "5/16\""
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Installation Width",
+        "value": "44 in. - 48 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "70 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Walk Through Opening Height (in.)",
+        "value": "70 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Walk Through Opening Width (in.)",
+        "value": "33.375 in. - 38.25 in."
+      }
+    ],
+    "variants": [
+      {
+        "title": "Matte Black~~Grid~~36 x 70.06",
+        "link": "https://www.homedepot.com/p/KOHLER-Echelon-36-in-W-x-70-in-H-Pivot-Frameless-Shower-Door-in-Matte-Black-with-Thick-Glass-30976-8G79-BL/329142973",
+        "item_id": "329142973"
+      },
+      {
+        "title": "Anodized Brushed Nickel~~Clear~~48 x 70",
+        "link": "https://www.homedepot.com/p/KOHLER-Echelon-48-in-x-70-in-Frameless-Pivot-Shower-Door-in-Anodized-Brushed-Nickel-with-Clear-Glass-R30977-8L-BNK/328003787",
+        "item_id": "328003787"
+      },
+      {
+        "title": "Bright Polished Silver~~Clear~~48 x 70",
+        "link": "https://www.homedepot.com/p/KOHLER-Echelon-48-in-x-70-in-Frameless-Pivot-Shower-Door-in-Bright-Polished-Silver-with-Clear-Glass-30977-8L-SHP/328273803",
+        "item_id": "328273803"
+      },
+      {
+        "title": "Matte Black~~Grid~~48 x 70.06",
+        "link": "https://www.homedepot.com/p/KOHLER-Echelon-48-in-W-x-70-in-H-Pivot-Frameless-Shower-Door-in-Matte-Black-with-Thick-Glass-30977-8G79-BL/329142965",
+        "item_id": "329142965"
+      },
+      {
+        "title": "Anodized Brushed Nickel~~Clear~~36 x 70",
+        "link": "https://www.homedepot.com/p/KOHLER-Echelon-36-in-W-x-70-in-H-Frameless-Pivot-Shower-Door-in-Anodized-Brushed-Nickel-with-Clear-Glass-30976-8L-BNK/328273805",
+        "item_id": "328273805"
+      },
+      {
+        "title": "Matte Black~~Clear~~48 x 70",
+        "link": "https://www.homedepot.com/p/KOHLER-Echelon-48-in-x-70-in-Pivot-Frameless-Shower-Door-in-Matte-Black-with-Clear-Glass-30977-8L-BL/328273804",
+        "item_id": "328273804"
+      },
+      {
+        "title": "Matte Black~~Clear~~36 x 70",
+        "link": "https://www.homedepot.com/p/KOHLER-Echelon-36-in-x-70-in-Frameless-Pivot-Shower-Door-in-Matte-Black-with-Clear-Glass-30976-8L-BL/328273807",
+        "item_id": "328273807"
+      },
+      {
+        "title": "Bright Polished Silver~~Clear~~36 x 70",
+        "link": "https://www.homedepot.com/p/KOHLER-Echelon-36-in-W-x-70-in-H-Frameless-Pivot-Shower-Door-in-Bright-Polished-Silver-with-Clear-Glass-30976-8L-SHP/328273806",
+        "item_id": "328273806"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Showers",
+        "link": "https://www.homedepot.com/b/Bath-Showers/N-5yc1vZbzcd"
+      },
+      {
+        "name": "Shower Doors",
+        "link": "https://www.homedepot.com/b/Bath-Showers-Shower-Doors/N-5yc1vZbzcg"
+      },
+      {
+        "name": "Alcove Shower Doors",
+        "link": "https://www.homedepot.com/b/Bath-Showers-Shower-Doors-Alcove-Shower-Doors/N-5yc1vZcbmq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 719,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 5,
+          "price": 35,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

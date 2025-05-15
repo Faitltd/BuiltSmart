@@ -1,0 +1,272 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13219,
+    "overage_used": 3219,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GE-9-5-oz-Paintable-Supreme-Silicone-Caulk-Window-and-Door-Sealant-White-2733730/317805663"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:48:59.933Z",
+    "processed_at": "2025-05-01T13:49:30.628Z",
+    "total_time_taken": 30.7,
+    "homedepot_url": "https://www.homedepot.com/p/GE-9-5-oz-Paintable-Supreme-Silicone-Caulk-Window-and-Door-Sealant-White-2733730/317805663"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GE-9-5-oz-Paintable-Supreme-Silicone-Caulk-Window-and-Door-Sealant-White-2733730/317805663",
+    "brand": "GE",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/GE/N-5yc1vZcibhZlo",
+    "title": "GE 9.5 oz. Paintable Supreme Silicone Caulk Window and Door Sealant White",
+    "upc": "028756957843",
+    "item_id": "317805663",
+    "parent_id": "329596188",
+    "store_sku": "1000014279",
+    "model_number": "2733730",
+    "description": "GE paintable supreme silicone window and door sealant is a 100% waterproof caulk that can provide a reliable seal in weather-prone areas such as windows, doors, basements, roofs, sidewalks, siding, tuckpointing and attics. This caulk also has a 30-minute rain-ready formula and resists stain-causing mold and mildew growth. Our 100% silicone sealant offers 40% more flexibility than class 25 sealants and 7x stronger adhesion than our Silicone 1-sealant. Plus, it offers 50% joint-movement capabilities without cracking, shrinking, breaking down, or washing away. GE Paintable Supreme Silicone Window and Door caulk is paintable to fit in with your home's surroundings and has a low odor that's ideal for interior applications. It will not discolor most high-end metal finishes such as chrome, bronze, and nickel.",
+    "aisle": "50",
+    "bay": "016",
+    "feature_bullets": [
+      "Caulking for windows, doors, roofs, sidewalks, siding and more",
+      "Lifetime mold-free protection waterproof and weatherproof",
+      "Hybrid performance paintable and water-ready in 30-minutes"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Paintable, 100% silicone caulking",
+      "100% waterproof and weatherproof",
+      "Lifetime mold-free product protection",
+      "Meets ASTM c-920, class 50 requirements",
+      "40% more flexibility than class 25-sealants and 7 x stronger adhesion than silicone 1",
+      "Shrink and crack-proof",
+      "Won't blemish most high-end metal finishes such as chrome, bronze, and nickel",
+      "Adheres to most metals and woods, aluminum, composites, brick, stone, stucco, masonry, cement board, glass, ceramic and porcelain tile, drywall, plaster, vinyl siding, PVC, fiberglass, and painted surfaces",
+      "Lifetime guarantee",
+      "Additional performance and warranty information, see product packaging",
+      "<a href=\"https://www.homedepot.com/c/caulk_and_sealants_buying_guide_recommendations_for_selecting_and_using_caulks_and_sealants_ht_bg_pa\" target=\"_blank\" style=\"color:#f96302;\">need help choosing the right caulk? Click here for home depot's buying guide!</a>",
+      "<a href=\"https://wwwhomedepotcom/c/how_to_caulk_ht_pg_pa\" target=\"_blank\" style=\"color:#f96302;\">click here for the how to caulk project guide</a>"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bb34ef88-107c-4c9c-a84b-ebf642ad497f/svn/white-ge-caulk-2733730-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39a4ad89-69d1-46ae-9632-1be84642650f/svn/white-ge-caulk-2733730-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ba2f6923-eed6-4740-84ac-1094c2249ffd/svn/white-ge-caulk-2733730-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/372a2943-5fef-46e1-abe3-636932597a44/svn/white-ge-caulk-2733730-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/127d287c-9483-4930-a153-0e44feea61f2/svn/white-ge-caulk-2733730-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9152f03b-84b5-472d-a914-83097b3dfc8c/svn/white-ge-caulk-2733730-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/75ef32dc-a208-4649-8004-67b2a72efae0/svn/white-ge-caulk-2733730-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e7826dce-b5f8-4060-9f3b-f222ccedcc1b/svn/white-ge-caulk-2733730-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6bdb9acf-d1d9-4738-9841-134dc691a2cd/svn/white-ge-caulk-2733730-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/023de8a3-81f7-4e33-bad9-8216418407c1/svn/white-ge-caulk-2733730-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a9d9307-7afe-4a3e-a657-2b5dd1e8a52c/svn/white-ge-caulk-2733730-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/023de8a3-81f7-4e33-bad9-8216418407c1/svn/white-ge-caulk-2733730-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/75ef32dc-a208-4649-8004-67b2a72efae0/svn/white-ge-caulk-2733730-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bb34ef88-107c-4c9c-a84b-ebf642ad497f/svn/white-ge-caulk-2733730-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/70bba6fe-749c-46f1-bdac-bbb412dc95b0/3276b633-052e-460b-9a3f-9a2473f0e05f/main.mp4?fastly_token=NjgxMzk1N2NfMWM5NTdlNGNlNDc4NGU2YWUzNmVmZGQ4ZjRlM2I3ODI2YTMyOWU1YWY1N2M4YzcyMjgzYzRkMzc2YWZjYTI1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNzBiYmE2ZmUtNzQ5Yy00NmYxLWJkYWMtYmJiNDEyZGM5NWIwLzMyNzZiNjMzLTA1MmUtNDYwYi05YTNmLTlhMjQ3M2YwZTA1Zi9tYWluLm1wNA%3D%3D",
+        "title": "Paintable Silicone Supreme 10.1 oz. White Exterior Window and Door Sealant",
+        "id": "6272621948001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/70bba6fe-749c-46f1-bdac-bbb412dc95b0/4874d836-db5e-408e-a820-0691a79dead1/160x90/match/image.jpg",
+        "description": "short video showing product in use & description\n"
+      }
+    ],
+    "ratings_total": 439,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Window & Door"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Silicone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "30"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant,Paintable,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Supreme Window and Door"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Guarantee"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "9.5 oz"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~9.5 oz~~4",
+        "link": "https://www.homedepot.com/p/GE-9-5-oz-White-Paintable-Silicone-Supreme-Exterior-Window-and-Door-Sealant-4-Pack-2733730/319661153",
+        "item_id": "319661153"
+      },
+      {
+        "title": "White~~9.5 oz~~12",
+        "link": "https://www.homedepot.com/p/GE-Paintable-Supreme-Silicone-Caulk-9-5-oz-Window-and-Door-Sealant-White-12-pack-2733730/317805708",
+        "item_id": "317805708"
+      },
+      {
+        "title": "White~~9.5 oz~~1",
+        "link": "https://www.homedepot.com/p/GE-9-5-oz-Paintable-Supreme-Silicone-Caulk-Window-and-Door-Sealant-White-2733730/317805663",
+        "item_id": "317805663"
+      },
+      {
+        "title": "White~~9.5 oz~~2",
+        "link": "https://www.homedepot.com/p/GE-9-5-oz-White-Paintable-Silicone-Supreme-Exterior-Window-and-Door-Sealant-2-Pack-2733730/319661075",
+        "item_id": "319661075"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 13.15,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14259,
+    "overage_used": 4259,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-266-1-4-in-x-1-1-2-in-Primed-Wood-Lattice-Moulding-Sold-by-Linear-Foot-10000754/206004318"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:22:29.184Z",
+    "processed_at": "2025-05-01T18:22:37.934Z",
+    "total_time_taken": 8.75,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-266-1-4-in-x-1-1-2-in-Primed-Wood-Lattice-Moulding-Sold-by-Linear-Foot-10000754/206004318"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-266-1-4-in-x-1-1-2-in-Primed-Wood-Lattice-Moulding-Sold-by-Linear-Foot-10000754/206004318",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Woodgrain-Millwork/N-5yc1vZcbj5Z7c8",
+    "title": "Woodgrain Millwork 266 1/4 in. x  1\u22121/2 in. Primed Wood Lattice Moulding (Sold by Linear Foot)",
+    "upc": "049437362374",
+    "item_id": "206004318",
+    "store_sku": "564601",
+    "model_number": "10000754",
+    "description": "The Woodgrain Millwork 1/4 in. x 1-1/2 in. WM 2661 Primed Finger-Jointed Lattice Moulding is one of the most common and versatile moulding patterns. Primed Finger-Jointed WM 2661 Lattice moulding can be used to cover seams in wall paneling. Lattice can be also be used in many craft projects.",
+    "is_bestseller": true,
+    "favorite_count": 66,
+    "aisle": "FW",
+    "bay": "025",
+    "feature_bullets": [
+      "Ideal for covering the seams in wall paneling",
+      "Wood construction ensures lasting use",
+      "Measures 144 in. L x 1.5 in. W x 0.25 in. D"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Installs with common woodworking tools",
+      "Can be combined with other mouldings to create a unique look",
+      "Can also be added to bookcases and shelving units for that finishing look",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a5082ff0-859d-4491-bbc1-743c48722efc/svn/white-woodgrain-millwork-general-purpose-moulding-10000754-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-general-purpose-moulding-10000754-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/242c71f5-37d7-4223-b47d-ee34fc66fe84/svn/white-woodgrain-millwork-general-purpose-moulding-10000754-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a5082ff0-859d-4491-bbc1-743c48722efc/svn/white-woodgrain-millwork-general-purpose-moulding-10000754-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 96,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Lattice Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "266"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.5 in"
+      }
+    ],
+    "keywords_list": [
+      "American Wood Moulding",
+      "1 ft. x 1/4 in. x 1-5/8 in. WML266 Primed Finger-Joint Lattice Moulding",
+      "L266-PFJ"
+    ],
+    "keywords": "American Wood Moulding, 1 ft. x 1/4 in. x 1-5/8 in. WML266 Primed Finger-Joint Lattice Moulding, L266-PFJ",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1522
+        }
+      }
+    }
+  }
+}

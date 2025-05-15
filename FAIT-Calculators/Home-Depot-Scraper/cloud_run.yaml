@@ -1,0 +1,42 @@
+# Cloud Run configuration for Home Depot Scraper
+# This file defines a Cloud Run service to run the scraper
+
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: homedepot-scraper
+spec:
+  template:
+    metadata:
+      annotations:
+        autoscaling.knative.dev/maxScale: "1"  # Only one instance at a time
+    spec:
+      containers:
+      - image: gcr.io/YOUR_PROJECT_ID/homedepot-scraper:latest
+        env:
+        - name: BIGBOX_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: bigbox-api-key
+              key: latest
+        - name: OUTPUT_DIR
+          value: "/app/data"
+        - name: MAX_PAGES
+          value: "10"  # Adjust as needed
+        - name: REQUEST_DELAY
+          value: "1.0"
+        resources:
+          limits:
+            cpu: "1"
+            memory: "2Gi"
+          requests:
+            cpu: "500m"
+            memory: "512Mi"
+        volumeMounts:
+        - name: data-volume
+          mountPath: /app/data
+      volumes:
+      - name: data-volume
+        persistentVolumeClaim:
+          claimName: homedepot-scraper-data
+      timeoutSeconds: 3600  # 1 hour timeout

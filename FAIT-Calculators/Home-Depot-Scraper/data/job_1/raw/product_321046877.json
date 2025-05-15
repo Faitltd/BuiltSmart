@@ -1,0 +1,324 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14944,
+    "overage_used": 4944,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOROW-1-piece-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:45:05.369Z",
+    "processed_at": "2025-05-02T21:45:10.493Z",
+    "total_time_taken": 5.12,
+    "homedepot_url": "https://www.homedepot.com/p/HOROW-1-piece-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOROW-1-piece-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+    "brand": "HOROW",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/HOROW/N-5yc1vZcb8vZv6d",
+    "title": "HOROW 1-piece 0.8/1.28 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "upc": "786552463035",
+    "item_id": "321046877",
+    "parent_id": "330392025",
+    "store_sku": "1008162709",
+    "model_number": "HR-0038W",
+    "description": "Bring it to life in your bathroom with the sleek and modern low tank extension toilet. You'll be proud to buy it, it's not only good looking, it's functional enough. It is a more powerful flush than most toilet flushes on the market, and it is an ADA-compliant toilet. HOROW is committed to \"bringing beauty home\".",
+    "collection": {
+      "id": "Family-322245621",
+      "name": "Family-322245621",
+      "link": "https://www.homedepot.com/collection/Bath/One-Piece-Dual-Flush-Round-Toilet/Family-322245621?omsid=321046877"
+    },
+    "feature_bullets": [
+      "Comfort seat height offers chair-height seating 17.3 in.",
+      "Best maximum performance flush score of 1000g",
+      "Easy install with included toilet seat, wax ring, and hardware"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Luxurious toilets for bathrooms: modern toilet with ADA height design, seamless, one-piece toilets design makes a statement with its clean lines and low profile",
+      "Chair height toilet: ADA compliant, features 17.3 in. H from floor to seat, comfortable height seating, it makes visiting the toilet to be more comfort as there is less strain sitting on or standing up",
+      "Map flush 1000 grams: great maximum performance flush score of 1000 grams, meets Water Sense criteria, fully-glazed 2 in. trapway, such a powerful and water-saving toilet bowl comes from our research and development of innovative toilet plumbing structures",
+      "Easy to install: 2 big opening holes on the side to fix the toilet much easier, installing a new modern toilet isn't as hard as it sounds, all you need are a few hours and a plumber, installation video explanations will make the installation process easier",
+      "Water saving performance: siphon flushing, dual flush 0.8/1.28 GPF, 1.28 Gal. flush provides significant water savings of up to 16,500 Gal. per year, compared to a 3.5 Gal. toilet, without sacrificing performance"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/62aeacd6-2a33-4549-ad58-bf526ce9dfa1/svn/white-horow-one-piece-toilets-hr-0038w-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/77368645-8fd0-42e9-b022-f5bd83198e54/svn/white-horow-one-piece-toilets-hr-0038w-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/26cee0d3-f585-4995-bfc3-a6f3b561ae35/svn/white-horow-one-piece-toilets-hr-0038w-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c7a26a7f-5e6d-4e05-9c4e-6300a4e216cf/svn/white-horow-one-piece-toilets-hr-0038w-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe1b0908-12eb-447f-b1d8-7050a5f42985/svn/white-horow-one-piece-toilets-hr-0038w-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e6c15b0c-6d7b-416b-b215-10b4b5f3afbc/svn/white-horow-one-piece-toilets-hr-0038w-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5080e3e9-c4f4-46fa-8cea-e814460c1084/svn/white-horow-one-piece-toilets-hr-0038w-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f4e390bd-ad23-4b7b-9c01-e6c5d38401f9/svn/white-horow-one-piece-toilets-hr-0038w-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/405dde63-28c9-49a3-a2e9-dbb0d094c7be/svn/white-horow-one-piece-toilets-hr-0038w-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4c07d470-a82d-4a9c-9a4f-4748802bff6c/svn/white-horow-one-piece-toilets-hr-0038w-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36111258-0dd9-4618-84b5-ff13cf9fc3b7/svn/white-horow-one-piece-toilets-hr-0038w-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/62aeacd6-2a33-4549-ad58-bf526ce9dfa1/svn/white-horow-one-piece-toilets-hr-0038w-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/0a71c6bd-a870-45ec-8cd4-62d0920c5c58/5f92f626-fed3-4cb6-a666-3be4289c26e3/main.mp4?fastly_token=NjgzOTc5OTVfZjFkMjcyOWYyNjM4MmM0MmVkZmQwMGYxZTYzYjlkYTZmMzA0MzkxNTgxYjI5N2I0NzJiOTkyM2QwOWYwZmU1NV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8wYTcxYzZiZC1hODcwLTQ1ZWMtOGNkNC02MmQwOTIwYzVjNTgvNWY5MmY2MjYtZmVkMy00Y2I2LWE2NjYtM2JlNDI4OWMyNmUzL21haW4ubXA0&pubid=66036796001",
+        "title": "HR-0038W Elongated One-piece Toilet",
+        "id": "6314718806112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/0a71c6bd-a870-45ec-8cd4-62d0920c5c58/main/160x90/1m4s52ms/match/image.jpg?pubId=66036796001",
+        "description": "HOROW Elongated One Piece Toilet with Comfort Chair Seat ADA Height 17.3\", Power Dual Flush 0.8/1.28 GPF and MAP 1000g, Standard White Toilet Bowl"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 510,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Concealed Trapway,Skirted Design,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Siphonic Jet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Dual Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Dual Flush: 0.8/1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Hinge,Lid,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "99 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "One-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1-Year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "26.7 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "26 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "15 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Biscuit~~Elongated~~12 inch Rough In~~Dual Flush: 0.8/1.28",
+        "link": "https://www.homedepot.com/p/HOROW-1-piece-0-8-1-28-GPF-High-Efficiency-Dual-Flush-Elongated-Toilet-in-Biscuit-Seat-Included-HR-0038-BC/328525140",
+        "item_id": "328525140"
+      },
+      {
+        "title": "White~~Elongated~~10 inch Rough In~~Dual Flush: 0.8/1.28",
+        "link": "https://www.homedepot.com/p/HOROW-One-Piece-10-in-Rough-In-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-High-Efficiency-WaterSense-Toilet-HR-0038W-10/325766840",
+        "item_id": "325766840"
+      },
+      {
+        "title": "Black~~Elongated~~10 inch Rough In~~Dual Flush: 0.8/1.28",
+        "link": "https://www.homedepot.com/p/HOROW-1-Piece-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-Matte-Black-with-Soft-Close-Seat-Included-HR-0038W-10B/328512359",
+        "item_id": "328512359"
+      },
+      {
+        "title": "Black~~Elongated~~12 inch Rough In~~Dual Flush: 0.8/1.28",
+        "link": "https://www.homedepot.com/p/HOROW-1-Piece-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-Black-Seat-Included-HR-0038B/326596240",
+        "item_id": "326596240"
+      },
+      {
+        "title": "Matte White~~Elongated~~12 inch Rough In~~Dual Flush: 0.8/1.28",
+        "link": "https://www.homedepot.com/p/HOROW-1-piece-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-Matte-White-HR-0038W-with-ADA-Chair-Height-Soft-Close-Seat-Included-T0338MW/331421257",
+        "item_id": "331421257"
+      },
+      {
+        "title": "Gold~~Elongated~~12 inch Rough In~~Dual Flush: 0.8/1.28",
+        "link": "https://www.homedepot.com/p/HOROW-One-Piece-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-and-Brushed-Gold-Button-HR-0038G/326596187",
+        "item_id": "326596187"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Dual Flush: 0.8/1.28",
+        "link": "https://www.homedepot.com/p/HOROW-1-piece-0-8-1-28-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-HR-0038W/321046877",
+        "item_id": "321046877"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "One Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/N-5yc1vZcb8v"
+      }
+    ],
+    "buybox_winner": {
+      "price": 269,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 319,
+      "unit": "carton",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2024,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2024,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

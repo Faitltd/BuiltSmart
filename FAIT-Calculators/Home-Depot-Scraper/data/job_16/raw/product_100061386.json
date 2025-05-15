@@ -1,0 +1,215 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14058,
+    "overage_used": 4058,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Plytanium-23-32-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-201428/100061386"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:53:02.503Z",
+    "processed_at": "2025-05-01T17:53:05.719Z",
+    "total_time_taken": 3.22,
+    "homedepot_url": "https://www.homedepot.com/p/Plytanium-23-32-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-201428/100061386"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Plytanium-23-32-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-201428/100061386",
+    "brand": "Plytanium",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/Plytanium/N-5yc1vZc7qkZ4aj",
+    "title": "Plytanium 23/32 in. x 4 ft. x 8 ft. BC Sanded Pine Plywood",
+    "upc": "081999104511",
+    "item_id": "100061386",
+    "parent_id": "327080195",
+    "store_sku": "166057",
+    "model_number": "201428",
+    "description": "Every piece meets the highest grading standards for strength and appearance. Sanded and smooth BC project panels are perfect for interior and exterior applications from yard art to wainscoting, do-it-yourself projects, cabinets, shelving and furniture to porch ceilings, soffits and flooring underlayment. These panels are ready to be painted. Panels are easy to handle and install, and also have excellent nail and adhesive holding ability.",
+    "is_bestseller": true,
+    "favorite_count": 3950,
+    "aisle": "21",
+    "bay": "002",
+    "feature_bullets": [
+      "Plywood panel can be used with interior and exterior applications",
+      "Panel has a smooth and sanded face",
+      "Simple to cut and fasten"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Ideal project panel due to smooth, sanded face and attractive appearance when painted",
+      "Versatility for multiple applications",
+      "Great for yard art to wainscoting, do-it-yourself projects, cabinets, shelving and furniture to porch ceilings, soffits and flooring underlayment",
+      "Made from wood sourced through a system that is third-party certified to the Sustainable Forestry Initiative (SFI) fiber sourcing standard",
+      "Easy to cut and fasten",
+      "Note: Product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/ab/how-to-choose-lumber/9ba683603be9fa5395fab90f3d653ea\" target=\"_blank\" style=\"color:#F96302;\">Click here to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/41b7d701-9f5e-4325-af4f-f268322e1db0/svn/plytanium-sanded-plywood-201428-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c1d8417-a03d-47b0-9470-c0eac3ea70c3/svn/plytanium-sanded-plywood-201428-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92152c17-5f7c-4bdd-9e44-5c5cbc0aeea6/svn/plytanium-sanded-plywood-201428-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c8022261-1bf6-47f6-b596-8d2845fd71d0/svn/plytanium-sanded-plywood-201428-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c09502e-444e-41ea-ae1b-09316a088286/svn/plytanium-sanded-plywood-201428-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/41b7d701-9f5e-4325-af4f-f268322e1db0/svn/plytanium-sanded-plywood-201428-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 2102,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "BC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "95.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.703 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "47.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "23/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "23/32 in or. 3/4 IN. X 4FT X 8 FT BC Sanded Pine Plywood",
+      "166057"
+    ],
+    "keywords": "23/32 in or. 3/4 IN. X 4FT X 8 FT BC Sanded Pine Plywood, 166057",
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~19/32",
+        "link": "https://www.homedepot.com/p/Plytanium-19-32-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-201427/100007300",
+        "item_id": "100007300"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~15/32",
+        "link": "https://www.homedepot.com/p/Plytanium-15-32-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-201429/100012720",
+        "item_id": "100012720"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~23/32",
+        "link": "https://www.homedepot.com/p/Plytanium-23-32-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-201428/100061386",
+        "item_id": "100061386"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sanded Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/N-5yc1vZc7qk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 48.38,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 56
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 1708,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

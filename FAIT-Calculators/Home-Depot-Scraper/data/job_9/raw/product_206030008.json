@@ -1,0 +1,230 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13686,
+    "overage_used": 3686,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Henry-884-Tropi-Cool-White-100-Silicone-Roof-Sealant-Caulk-10-1-oz-HE884004/206030008"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:54:07.914Z",
+    "processed_at": "2025-05-01T16:54:12.270Z",
+    "total_time_taken": 4.36,
+    "homedepot_url": "https://www.homedepot.com/p/Henry-884-Tropi-Cool-White-100-Silicone-Roof-Sealant-Caulk-10-1-oz-HE884004/206030008"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Henry-884-Tropi-Cool-White-100-Silicone-Roof-Sealant-Caulk-10-1-oz-HE884004/206030008",
+    "brand": "Henry",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Sealants/Henry/N-5yc1vZ1z18gijZ2wn",
+    "title": "Henry 884 Tropi-Cool White 100% Silicone Roof Sealant Caulk 10.1 oz.",
+    "upc": "081725034235",
+    "item_id": "206030008",
+    "parent_id": "332535578",
+    "store_sku": "1001374957",
+    "model_number": "HE884004",
+    "description": "Henry 884 Tropi-Cool 100% Silicone Roof Sealant is a high solids dispersion of 100% silicone. It stops leaks instantly on dry surfaces. It offers excellent UV resistance and weathering performance with no hardening, chalking, crazing, or cracking, and is mold and mildew resistant. It also offers excellent adhesion to a wide variety of building materials. For easy application, use a caulking gun.",
+    "is_exclusive": true,
+    "favorite_count": 506,
+    "aisle": "25",
+    "bay": "021",
+    "feature_bullets": [
+      "STOPS LEAKS INSTANTLY - On wet or dry surfaces",
+      "VERSATILE - Works underwater and in driving rain",
+      "APPLICATION \u2013 Temperature 35\u00b0F to 120\u00b0F"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "100% waterproof and ponding water-resistant",
+      "Stops leaks instantly on a variety of surfaces and substrates",
+      "Superior UV resistance and weathering performance",
+      "Exceptionally versatile - tough yet flexible",
+      "No hardening, chalking, crazing, or cracking",
+      "Excellent adhesion - vertical and horizontal applications",
+      "Wide application temperature range from 35\u00b0F to 120\u00b0F (2\u00b0C to 49\u00b0C)",
+      "Ready to use and easy to apply by caulking gun",
+      "Lifetime limited warranty"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0911aa15-65f4-4bd6-a430-321114f67440/svn/white-henry-roof-sealants-he884004-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/be961185-e342-43ed-90f5-351b4f05c1e3/svn/white-henry-roof-sealants-he884004-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/40fffae6-2e54-4db7-bc46-ce28e2506a1a/svn/white-henry-roof-sealants-he884004-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0911aa15-65f4-4bd6-a430-321114f67440/svn/white-henry-roof-sealants-he884004-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e2c1c527-2ed0-494f-9080-b67084325b0d/e20d8fa1-c3ce-4a6f-b4db-e8fcaf9e9dee/main.mp4?fastly_token=NjgzODM2MmVfZTdiNGI5NTFhY2VmY2M3NjA5NjUwZDE3NjE0YzExZjVkYjFiMjgzMzAyMjI5M2Y5ZTc2ODQ1NDA2ZDc3ZjAzM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lMmMxYzUyNy0yZWQwLTQ5NGYtOTA4MC1iNjcwODQzMjViMGQvZTIwZDhmYTEtYzNjZS00YTZmLWI0ZGItZThmY2FmOWU5ZGVlL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Apply Henry\u00ae Elastomeric White Roof Coatings for Energy Savings",
+        "id": "6164024739001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ff1f8910-6cdc-4626-a1fb-215a3a63488e/d97777ee-9c60-42e0-bb8f-4d50ee23fcd9/160x90/match/image.jpg",
+        "description": "How to Apply Henry\u00ae Elastomeric White Roof Coatings for Energy Savings"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/f42e1a62-6b25-40e1-9e1a-251e0ee54503/72ce0429-a6f9-45b4-b0bb-274988beba13/main.mp4?fastly_token=NjgxM2EwNjBfMjFiZjBhMjExY2M3NTIyZWMzZTc4NjQ4Y2YxZTEzMWE4MTQ3Y2MzYzYxMzI5ZTE0NjVkNTViNWIwZTZjYTc5MF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZjQyZTFhNjItNmIyNS00MGUxLTllMWEtMjUxZTBlZTU0NTAzLzcyY2UwNDI5LWE2ZjktNDViNC1iMGJiLTI3NDk4OGJlYmExMy9tYWluLm1wNA%3D%3D",
+        "title": "Tropi-Cool Roof Coating - Preparation",
+        "id": "6350703225112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/f42e1a62-6b25-40e1-9e1a-251e0ee54503/e0d4cc8e-ba36-49bb-abdd-6eec118111b5/160x90/match/image.jpg",
+        "description": "Demonstrates steps to completing roof coating project\n"
+      }
+    ],
+    "ratings_total": 551,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Caulk Gun/Dispenser,Trowel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coating Base",
+        "value": "Silicone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cold Applied",
+        "value": "Cold Applied"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Algae Resistant,Corrosion Resistant,Extreme Heat,High Impact/Hail Resistant,High Reflectivity,High Wind Resistant,Ice and Water Shield,Impact Resistant,Mildew Resistant,Quick Dry,Rust Resistant,Water Resistant,Waterproof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roof Repair Type",
+        "value": "Roof Sealant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Sealant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "11.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "11.62 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size (oz.)",
+        "value": "10.1 oz"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "8 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~115 oz",
+        "link": "https://www.homedepot.com/p/Henry-885-Tropi-Cool-Wet-Patch-White-100-Silicone-Roof-Leak-Repair-Sealant-0-90-gal-HE885142/206030020",
+        "item_id": "206030020"
+      },
+      {
+        "title": "White~~10.1 oz",
+        "link": "https://www.homedepot.com/p/Henry-884-Tropi-Cool-White-100-Silicone-Roof-Sealant-Caulk-10-1-oz-HE884004/206030008",
+        "item_id": "206030008"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Commercial Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing/N-5yc1vZapzz"
+      },
+      {
+        "name": "Roof Sealants",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Sealants/N-5yc1vZ1z18gij"
+      }
+    ],
+    "buybox_winner": {
+      "price": 19.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 385
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 426,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 734,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

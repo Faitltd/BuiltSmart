@@ -1,0 +1,212 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13949,
+    "overage_used": 3949,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/OSB-7-16-Application-as-4ft-X-8-ft-Sheathing-Panel-386081/202106230"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:12:10.723Z",
+    "processed_at": "2025-05-01T17:12:16.044Z",
+    "total_time_taken": 5.32,
+    "homedepot_url": "https://www.homedepot.com/p/OSB-7-16-Application-as-4ft-X-8-ft-Sheathing-Panel-386081/202106230"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/OSB-7-16-Application-as-4ft-X-8-ft-Sheathing-Panel-386081/202106230",
+    "brand": "Unbranded",
+    "title": "Unbranded OSB 7/16 Application as 4ft. X 8 ft. Sheathing Panel",
+    "upc": "088991551107",
+    "item_id": "202106230",
+    "parent_id": "318366952",
+    "store_sku": "386081",
+    "model_number": "386081",
+    "description": "As a stand-out alternative to plywood, OSB Sheathing is engineered to prevent any cupping, warping or splitting. Oriented Strand Board (OSB) is a material with high mechanical properties, built for load-bearing strength, making it a durable product for use on walls, roofing, flooring and roof decking. See what one of the world's most popular sheathing products can offer you",
+    "is_bestseller": true,
+    "favorite_count": 9183,
+    "aisle": "20",
+    "bay": "EC2",
+    "collection": {
+      "id": "Family-315205611",
+      "name": "Family-315205611",
+      "link": "https://www.homedepot.com/collection/Lumber-Composites/OSB-Commodity/Family-315205611?omsid=202106230"
+    },
+    "feature_bullets": [
+      "OSB built for load-bearing strength in construction",
+      "OSB used for sheathing in walls, flooring, and roof decking",
+      "20-Year transferable limited warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "A trustworthy alternative to plywood",
+      "No core voids, preventing cupping, warping or splitting",
+      "Structurally rated panel built with material with high mechanical properties",
+      "Ideal for wall, roof and flooring applications",
+      "Backed by a 20-year transferable limited warranty",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/13514699-84a5-4d4f-9ecb-fb2ac620e37d/svn/oriented-strand-board-osb-386081-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a7ba0f23-1c83-46ef-8f73-428fa5959d47/svn/oriented-strand-board-osb-386081-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/74ac12b7-37b5-4d0e-aa70-26b99a87f22a/svn/oriented-strand-board-osb-386081-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/230a0dc9-4414-4c5f-ad25-582cf8cc1da1/svn/oriented-strand-board-osb-386081-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3c1d2769-774f-4b91-8ab1-67bfcb782c7b/svn/oriented-strand-board-osb-386081-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1825d74f-ed60-4075-bcc1-27b24b20b08e/svn/oriented-strand-board-osb-386081-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/13514699-84a5-4d4f-9ecb-fb2ac620e37d/svn/oriented-strand-board-osb-386081-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 2833,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Rated Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "OSB"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "16/0"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.44 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "7/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "waferboard",
+      "chip boards",
+      "chipboards",
+      "7/16 In. 4 Ft x 8 Ft. OSB",
+      "22485",
+      "Plywood"
+    ],
+    "keywords": "waferboard, chip boards, chipboards,  7/16 In. 4 Ft x 8 Ft. OSB, 22485, Plywood",
+    "variants": [
+      {
+        "title": "4 ft. x 9 ft.~~7/16",
+        "link": "https://www.homedepot.com/p/LongLength-7-16-in-OSB-Sheathing-Panel-Application-as-4-ft-x-9-ft-41691/202704951",
+        "item_id": "202704951"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~7/16",
+        "link": "https://www.homedepot.com/p/OSB-7-16-Application-as-4ft-X-8-ft-Sheathing-Panel-386081/202106230",
+        "item_id": "202106230"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Oriented Strand Board - OSB",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Oriented-Strand-Board-OSB/N-5yc1vZbqpq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 664
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 27075,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

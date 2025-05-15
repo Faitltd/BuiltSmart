@@ -1,0 +1,252 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14936,
+    "overage_used": 4936,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/ZEP-1-Gallon-Heavy-Duty-Citrus-Degreaser-ZUCIT128/100676344"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:44:23.484Z",
+    "processed_at": "2025-05-02T21:44:27.298Z",
+    "total_time_taken": 3.81,
+    "homedepot_url": "https://www.homedepot.com/p/ZEP-1-Gallon-Heavy-Duty-Citrus-Degreaser-ZUCIT128/100676344"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/ZEP-1-Gallon-Heavy-Duty-Citrus-Degreaser-ZUCIT128/100676344",
+    "brand": "ZEP",
+    "brand_link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Kitchen-Cleaners-Degreasers/ZEP/N-5yc1vZcb36Z1n9",
+    "title": "ZEP 1 Gallon Heavy-Duty Citrus Degreaser",
+    "upc": "021709009149",
+    "item_id": "100676344",
+    "parent_id": "308172939",
+    "store_sku": "256215",
+    "model_number": "ZUCIT128",
+    "description": "This powerful multi-purpose cleaner and degreaser are made with a natural citrus solvent that powers through the toughest grease, dirt and grime. Dissolving away the most stubborn stains, ZEP Heavy-Duty Citrus Degreaser is great for cleaning in the home, garage, shop and office. This degreaser can be used on appliances, grills, stove tops, concrete, tools, engines, fiberglass, aluminum, stainless steel and kitchen surfaces.",
+    "favorite_count": 654,
+    "aisle": "53",
+    "bay": "022",
+    "feature_bullets": [
+      "Deodorizes as it Cleans and Lifts, Grease, Germs, Dirt and Oil",
+      "Multi-Purpose Cleaner and Degreaser with Natural Citrus Solvent",
+      "Professional Strength Formula Can Be Used on Most Surfaces"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Quickly and easily lifts grease, germs, dirt and oil",
+      "Great for cleaning tough jobs on nearly every surface",
+      "Deodorizes as it cleans with real citrus solvents",
+      "Professional strength formula cleans better than orange oil"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/05e6dc51-2996-4646-81c4-522d905ce087/svn/zep-degreasers-zucit128-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dbf5dc2a-4c8a-418b-a349-85038358567e/svn/zep-degreasers-zucit128-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8e68e627-08e2-447e-acca-8e0b4e36186a/svn/zep-degreasers-zucit128-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cff594da-c971-49d8-8ded-db6118fc2d67/svn/zep-degreasers-zucit128-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d27cd03b-bde5-4ceb-b89d-225033d3605d/svn/zep-degreasers-zucit128-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f2fcec5f-31a3-473a-b525-adb669a7d8cc/svn/zep-degreasers-zucit128-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dde9457f-1772-4660-b0d4-8a677397fac0/svn/zep-degreasers-zucit128-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/05e6dc51-2996-4646-81c4-522d905ce087/svn/zep-degreasers-zucit128-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/48c7add3-b00b-438f-8793-b7aeb9ef44a9/f15e4ed2-d862-449c-aad3-6ad95ae324be/main.mp4?fastly_token=NjgxNGUyZmFfYjRkMmM5YjMyYmI5YWQzZjNhNTdjNjFiNTU4OWMyNmQ2ZDg1N2NmODE4NDUxOTg3NGRkMWVhMDQ5ZGZiOTFhY18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNDhjN2FkZDMtYjAwYi00MzhmLTg3OTMtYjdhZWI5ZWY0NGE5L2YxNWU0ZWQyLWQ4NjItNDQ5Yy1hYWQzLTZhZDk1YWUzMjRiZS9tYWluLm1wNA%3D%3D",
+        "title": "Heavy Duty Citrus Degreaser & Cleaner.mp4",
+        "id": "6029298954001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/48c7add3-b00b-438f-8793-b7aeb9ef44a9/bf4c9d5e-c5a0-4dc7-a774-cadba6c563e7/160x90/match/image.jpg",
+        "description": "This video showcases the uses and power of the Zep cleaner featured\n"
+      }
+    ],
+    "ratings_total": 1222,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Concentrated or Ready to Use",
+        "value": "Concentrated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Eliminates Odor,Solvent Based"
+      },
+      {
+        "group_name": "Details",
+        "name": "Formulation",
+        "value": "Professional Strength"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Form",
+        "value": "Liquid"
+      },
+      {
+        "group_name": "Details",
+        "name": "Recommended Surfaces",
+        "value": "Concrete,Fiberglass,Metal,Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size",
+        "value": "1 GA-Gallon"
+      }
+    ],
+    "keywords_list": [
+      "ZEP",
+      "Heavy Duty",
+      "Citrus",
+      "Degreaser",
+      "256215",
+      "Degreasers"
+    ],
+    "keywords": "ZEP, Heavy Duty, Citrus, Degreaser, 256215, Degreasers",
+    "variants": [
+      {
+        "title": "2~~1 GA-Gallon",
+        "link": "https://www.homedepot.com/p/ZEP-1-Gal-Heavy-Duty-Citrus-Degreaser-2-Pack-ZUCIT128CA2C/315509391",
+        "item_id": "315509391"
+      },
+      {
+        "title": "4~~1 GA-Gallon",
+        "link": "https://www.homedepot.com/p/ZEP-1-Gal-Heavy-Duty-Citrus-Degreaser-4-Pack-ZUCIT128/202751184",
+        "item_id": "202751184"
+      },
+      {
+        "title": "1~~24 OZ-Ounce",
+        "link": "https://www.homedepot.com/p/ZEP-24-oz-Heavy-Duty-Citrus-Degreaser-ZUCIT24/203249483",
+        "item_id": "203249483"
+      },
+      {
+        "title": "12~~24 OZ-Ounce",
+        "link": "https://www.homedepot.com/p/ZEP-24-oz-Heavy-Duty-Citrus-Degreaser-12-Pack-ZUCIT24/204100812",
+        "item_id": "204100812"
+      },
+      {
+        "title": "1~~3.5 GA-Gallon",
+        "link": "https://www.homedepot.com/p/ZEP-3-5-Gal-Heavy-Duty-Citrus-Degreaser-ZUCIT3G/300003974",
+        "item_id": "300003974"
+      },
+      {
+        "title": "1~~1 GA-Gallon",
+        "link": "https://www.homedepot.com/p/ZEP-1-Gallon-Heavy-Duty-Citrus-Degreaser-ZUCIT128/100676344",
+        "item_id": "100676344"
+      },
+      {
+        "title": "6~~24 OZ-Ounce",
+        "link": "https://www.homedepot.com/p/ZEP-24-oz-Heavy-Duty-Citrus-Degreaser-6-Pack-ZUCIT24/319273210",
+        "item_id": "319273210"
+      },
+      {
+        "title": "3~~24 OZ-Ounce",
+        "link": "https://www.homedepot.com/p/ZEP-24-oz-Heavy-Duty-Citrus-Degreaser-3-Pack-ZUCIT24/319273209",
+        "item_id": "319273209"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Cleaning",
+        "link": "https://www.homedepot.com/b/Cleaning/N-5yc1vZbqsi"
+      },
+      {
+        "name": "Cleaning Products",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products/N-5yc1vZcb33"
+      },
+      {
+        "name": "Kitchen Cleaners",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Kitchen-Cleaners/N-5yc1vZch5o"
+      },
+      {
+        "name": "Degreasers",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Kitchen-Cleaners-Degreasers/N-5yc1vZcb36"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 13,
+          "price": 2.99,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 68,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

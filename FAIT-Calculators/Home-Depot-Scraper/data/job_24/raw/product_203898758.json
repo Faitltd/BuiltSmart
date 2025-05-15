@@ -1,0 +1,223 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14318,
+    "overage_used": 4318,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-45-9-16-in-x-5-1-4-in-x-96-in-Primed-Finger-Jointed-Crown-Moulding-10001937/203898758"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:26:22.531Z",
+    "processed_at": "2025-05-01T18:26:28.045Z",
+    "total_time_taken": 5.51,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-45-9-16-in-x-5-1-4-in-x-96-in-Primed-Finger-Jointed-Crown-Moulding-10001937/203898758"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-45-9-16-in-x-5-1-4-in-x-96-in-Primed-Finger-Jointed-Crown-Moulding-10001937/203898758",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/Woodgrain-Millwork/N-5yc1vZcbjiZ7c8",
+    "title": "Woodgrain Millwork WM 45 9/16 in. x 5-1/4 in. x 96 in. Primed Finger-Jointed Crown Moulding",
+    "upc": "095624517546",
+    "item_id": "203898758",
+    "store_sku": "1000373080",
+    "model_number": "10001937",
+    "description": "The Woodgrain Millwork 9/16 in. x 5-1/4 in. x 96 in. WM45 Primed Finger-Jointed Crown Moulding is used where walls meet ceilings. Primed Finger-Jointed WM45 Crown Moulding is the best way to add interest to any room or space. Crown mouldings come in a variety of sizes and patterns and can be combined to create one of kind moulding buildups.",
+    "favorite_count": 185,
+    "feature_bullets": [
+      "Termite-resistant to provide lasting durability",
+      "Extremely easy to install with nails and other adhesives",
+      "Ideal for the interior of your bedroom"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Installs with common woodworking tools",
+      "Can be used to create mantels or cornices"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2fb77eb4-8c13-4cb9-90b9-e6d18aeca59b/svn/white-woodgrain-millwork-crown-moulding-10001937-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/11bd7f16-b72b-4a18-b76c-cb6e48540d01/svn/white-woodgrain-millwork-crown-moulding-10001937-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2691ec56-6df2-45fe-bdb4-89b4f32c603c/svn/white-woodgrain-millwork-crown-moulding-10001937-40_1000.jpg",
+        "type": "image_right_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2fb77eb4-8c13-4cb9-90b9-e6d18aeca59b/svn/white-woodgrain-millwork-crown-moulding-10001937-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e80dad54-7e68-4fb6-9307-78a3f3ca6515/57eb7bd3-5401-40f5-936f-49a5a11cfcee/main.mp4?fastly_token=NjgxMzlkNjlfNWVhNTg0OWRlNjE5YWY5ZDNkOTk0MjJjYWVlZGVmMTdjODEzYjY1NjJmY2E2YjE3MzU1NDE3ZGQ4Y2NiODA1OV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTgwZGFkNTQtN2U2OC00ZmI2LTkzMDctNzhhM2YzY2E2NTE1LzU3ZWI3YmQzLTU0MDEtNDBmNS05MzZmLTQ5YTVhMTFjZmNlZS9tYWluLm1wNA%3D%3D",
+        "title": "Lighted Crown Moulding - The Home Depot",
+        "id": "2381457432001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/e80dad54-7e68-4fb6-9307-78a3f3ca6515/33f07019-143d-4d95-a52b-1bae39e71f6e/160x90/match/image.jpg",
+        "description": "Enhance your d\u00e9cor with Lighted Crown Moulding."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 13,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Crown Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "45"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "keywords_list": [
+      "Woodgrain Millwork",
+      "WM 45 9/16 in. x 5-1/4 in. x 96 in. Wood Prime Finger-Jointed Crown Moulding",
+      "109598"
+    ],
+    "keywords": "Woodgrain Millwork, WM 45 9/16 in. x 5-1/4 in. x 96 in. Wood Prime Finger-Jointed Crown Moulding, 109598",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Crown Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/N-5yc1vZcbji"
+      }
+    ],
+    "buybox_winner": {
+      "price": 18.05,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 460,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 460,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

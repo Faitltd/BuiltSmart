@@ -1,0 +1,179 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13510,
+    "overage_used": 3510,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-Horizon-Symmetry-1-in-x-6-in-x-20-ft-Graphite-Capped-Composite-Deck-Board-BRDSYM-GRP-20/304906566"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:43:24.209Z",
+    "processed_at": "2025-05-01T14:44:13.827Z",
+    "total_time_taken": 49.62,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-Horizon-Symmetry-1-in-x-6-in-x-20-ft-Graphite-Capped-Composite-Deck-Board-BRDSYM-GRP-20/304906566"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-Horizon-Symmetry-1-in-x-6-in-x-20-ft-Graphite-Capped-Composite-Deck-Board-BRDSYM-GRP-20/304906566",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon Horizon Symmetry 1 in. x 6 in. x 20 ft. Graphite Capped Composite Deck Board",
+    "upc": "844219020561",
+    "item_id": "304906566",
+    "store_sku": "1003105548",
+    "model_number": "BRDSYM GRP 20",
+    "description": "The Fiberon Horizon Symmetry Capped Composite Deck Board features micro-texturing and low-gloss formula to create a unique matte finish. The PermaTech cap layer of this board resists stains and allows for hassle-free cleaning. Its durable composite core prevents decay, cracking, splintering, and rotting of the board.",
+    "feature_bullets": [
+      "Exceptional looks, uncompromising performance",
+      "Earthy colors, and unique grain patterns for a more natural look",
+      "Backed by a 25-year stain and fade warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Symmetry collection features a low-gloss formula and micro-texturing, creating a wire-brushed finish",
+      "Durable composite core helps resist splintering, rotting, cracking, insects and decay",
+      "Four-sided perma tech cap layer provides superior protection and fade resistance",
+      "Premium PE composite deck boards include 94% recycled material",
+      "Flat-profile bottom provides a sturdy feel, reminiscent of traditional lumber",
+      "Finished surface on top and bottom is ideal for second-story decks",
+      "Reversible boards help reduce waste, saving you time and money",
+      "Matching fascia and risers available in all colors",
+      "Fiberon concordia decking is backed by a lifetime performance warranty and a 5-year stain and fade warranty"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ce85a7b2-57ae-4d28-9716-2f8a88fb088c/svn/graphite-fiberon-composite-decking-boards-brdsym-grp-20-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f7d3b770-72b3-4ba6-899f-c3f10e689b11/svn/graphite-fiberon-composite-decking-boards-brdsym-grp-20-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1e88158c-0ae2-4b70-ad10-8ccff418206b/svn/graphite-fiberon-composite-decking-boards-brdsym-grp-20-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f9607afe-b785-4219-b962-a0e3d3322edf/svn/graphite-fiberon-composite-decking-boards-brdsym-grp-20-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/07c8e775-e153-4616-9433-408a6137fdb7/svn/graphite-fiberon-composite-decking-boards-brdsym-grp-20-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ce85a7b2-57ae-4d28-9716-2f8a88fb088c/svn/graphite-fiberon-composite-decking-boards-brdsym-grp-20-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxM2I5YjNfMWI3YmY4MTQxNzNiZDg4ZDQzMmY0OGFlMGU0MWZkMDI1NDBmNDQwMjFmMDdmYmI3ZjQxOWM3ZWQ5MjI4MmI2Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Graphite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Fiberon Cortex Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Performance Warranty - 50 Year Stain & Fade Performance"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".93 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "47"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.375 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ]
+  }
+}

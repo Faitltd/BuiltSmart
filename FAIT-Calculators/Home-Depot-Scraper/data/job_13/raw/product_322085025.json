@@ -1,0 +1,198 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13587,
+    "overage_used": 3587,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/MetalTech-Jobsite-Series-18-in-to-30-in-All-Aluminum-Heavy-Duty-Drywall-Stilts-225-lbs-Load-Capacity-I-IDS1830/322085025"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:50:38.538Z",
+    "processed_at": "2025-05-01T16:50:45.634Z",
+    "total_time_taken": 7.1,
+    "homedepot_url": "https://www.homedepot.com/p/MetalTech-Jobsite-Series-18-in-to-30-in-All-Aluminum-Heavy-Duty-Drywall-Stilts-225-lbs-Load-Capacity-I-IDS1830/322085025"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/MetalTech-Jobsite-Series-18-in-to-30-in-All-Aluminum-Heavy-Duty-Drywall-Stilts-225-lbs-Load-Capacity-I-IDS1830/322085025",
+    "brand": "MetalTech",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Hanging-Tools-Drywall-Stilts/MetalTech/N-5yc1vZc7qoZbds",
+    "title": "MetalTech Jobsite Series 18 in. to 30 in. All Aluminum Heavy-Duty Drywall Stilts, 225 lbs. Load Capacity",
+    "upc": "778300006854",
+    "item_id": "322085025",
+    "parent_id": "326235664",
+    "store_sku": "1008409858",
+    "model_number": "I-IDS1830",
+    "description": "Make any construction project much quicker and easier with the Jobsite Series 18 in. to 30 in. All Aluminum Drywall Stilts, that is able to handle up to 225 lbs. and made from lightweight, durable material. Its height can be fully adjusted from 18 in. to 30 in, which makes it perfect for use when plastering sheetrock or painting drywall in hard-to-reach ceiling parts. Rest assured that each leg will feel light, safe and secure when moving with the stilts on, as this helpful tool is ergonomically designed to make you feel like you're walking naturally. Metaltech strives to develop, manufacture and sell safe, reliable and innovative products that make working easier and faster to execute with built in safety and sturdiness. Our products are specifically suited for residential, commercial and industrial construction.",
+    "collection": {
+      "id": "Family-318183371",
+      "name": "Family-318183371",
+      "link": "https://www.homedepot.com/collection/Hardware/Buildman-Grade-Scaffolding-And-Drywall-Equipment/Family-318183371?omsid=322085025"
+    },
+    "feature_bullets": [
+      "Lightweight and durable all aluminum construction",
+      "Ergonomic design for easy and natural walking during work",
+      "Padded, anti-fatigue, adjustable leg for comfortable walking feel"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Fully adjustable from 18 in. to 30 in., making it ideal for cleaning or painting hard-to-reach ceiling areas",
+      "No tools is required to adjust the height of the stilts",
+      "All aluminum lightweight and durable construction, capable of holding up to 225 lbs.",
+      "Safety and security are ensured with self-locking metal buckle straps",
+      "Each stilt contains a contact grip rubber outsole and dual spring action for a more natural walking feel",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/METALTECH OMEGA INC/305922706.1.jpg\">"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d6778437-2d35-49b1-8ac1-8b5feed473ad/svn/metaltech-drywall-stilts-i-ids1830-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/195d8767-eab7-4500-aa46-b22316f89dd8/svn/metaltech-drywall-stilts-i-ids1830-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f66ddde8-2d60-4cc3-a2ed-23352b1b26b0/svn/metaltech-drywall-stilts-i-ids1830-40_1000.jpg",
+        "type": "image_right_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d6778437-2d35-49b1-8ac1-8b5feed473ad/svn/metaltech-drywall-stilts-i-ids1830-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 4,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Adjustable Strap"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Handling Type",
+        "value": "Stilts"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Load (lb.)",
+        "value": "225 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "14.25 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tool Type",
+        "value": "Stilts"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Height (in.)",
+        "value": "30 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Minimum Height (in.)",
+        "value": "18 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "12.62 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6.09 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "40 in",
+        "link": "https://www.homedepot.com/p/MetalTech-Jobsite-Series-24-in-to-40-in-All-Aluminum-Heavy-Duty-Drywall-Stilts-225-lbs-Load-Capacity-I-IDS2440/325833098",
+        "item_id": "325833098"
+      },
+      {
+        "title": "30 in",
+        "link": "https://www.homedepot.com/p/MetalTech-Jobsite-Series-18-in-to-30-in-All-Aluminum-Heavy-Duty-Drywall-Stilts-225-lbs-Load-Capacity-I-IDS1830/322085025",
+        "item_id": "322085025"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Drywall",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall/N-5yc1vZar3d"
+      },
+      {
+        "name": "Drywall Hanging Tools",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Hanging-Tools/N-5yc1vZckyh"
+      },
+      {
+        "name": "Drywall Stilts",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Hanging-Tools-Drywall-Stilts/N-5yc1vZc7qo"
+      }
+    ],
+    "buybox_winner": {
+      "price": 164.32,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 182.58,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0159",
+          "in_stock": true,
+          "stock_level": 1,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 132,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

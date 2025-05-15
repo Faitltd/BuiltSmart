@@ -1,0 +1,220 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13704,
+    "overage_used": 3704,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kerdi-Band-5-in-x-32-ft-10-in-x-4-mil-Underlayment-Waterproofing-Strip-KEBA100-125-10M/202608379"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:54:53.030Z",
+    "processed_at": "2025-05-01T16:54:59.080Z",
+    "total_time_taken": 6.05,
+    "homedepot_url": "https://www.homedepot.com/p/Kerdi-Band-5-in-x-32-ft-10-in-x-4-mil-Underlayment-Waterproofing-Strip-KEBA100-125-10M/202608379"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kerdi-Band-5-in-x-32-ft-10-in-x-4-mil-Underlayment-Waterproofing-Strip-KEBA100-125-10M/202608379",
+    "brand": "Schluter",
+    "title": "Schluter Kerdi-Band 5 in. x 32 ft. 10 in. x 4 mil Underlayment Waterproofing Strip",
+    "upc": "4011832093029",
+    "item_id": "202608379",
+    "store_sku": "1005749209",
+    "model_number": "KEBA100/125/10M",
+    "description": "Kerdi-Band is a waterproofing strip for sealing butt joints and floor/wall connections with Kerdi and Ditra membranes. It is installed with unmodified thinset to ensure a fully water-tight seal to prevent leaks. The 4 mil thickness of the Kerdi-Band helps prevent build up under the tile.",
+    "favorite_count": 325,
+    "feature_bullets": [
+      "Waterproofing strip for use with Kerdi, Ditra, and Kerdi-Board",
+      "Seals joints and floor/wall connections to prevent leaking",
+      "4 mil thickness minimizes build-up under the tile"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Roll is 5 in. wide and 32 ft. 10 in. long",
+      "Thickness is 4 mil",
+      "Prevents build-up beneath the tile",
+      "Ensures a fully water-tight seal preventing leaks and mold growth",
+      "Adheres tightly to inside and outside corners without rounding at surface transitions"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e6254412-940f-4fbe-a0d1-85d4abf1788f/svn/underlayment-keba100-125-10m-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e13c6409-2a7c-4332-b5d5-6c1ea2309132/svn/underlayment-keba100-125-10m-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/66c6b86c-23e6-4ad1-b695-a8b720848661/svn/underlayment-keba100-125-10m-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cf9cf826-ef17-4663-bbab-d0efd71e68f4/svn/underlayment-keba100-125-10m-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e6254412-940f-4fbe-a0d1-85d4abf1788f/svn/underlayment-keba100-125-10m-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 29,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Mold/mildew resistant,Waterproofing membrane"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Floor,Shower,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Rolls Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package coverage (sq. ft.)",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Subflooring type",
+        "value": "Concrete"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Area Coverage Per Roll (sq. ft. for each roll)",
+        "value": "13.75"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product thickness (mil)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Recommended overlap (in.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Roll Length (ft.)",
+        "value": "33 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Roll width (in.)",
+        "value": "5"
+      }
+    ],
+    "keywords_list": [
+      "KERDI-BAND 5 in. x 32 ft. 10 in. Waterproofing Strip",
+      "KEBA100/125/10M"
+    ],
+    "keywords": "KERDI-BAND 5 in. x 32 ft. 10 in. Waterproofing Strip, KEBA100/125/10M",
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Underlayment",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/N-5yc1vZcdtw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 43.57,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 65,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-05"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5860",
+          "in_stock": true,
+          "stock_level": 65,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 65,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

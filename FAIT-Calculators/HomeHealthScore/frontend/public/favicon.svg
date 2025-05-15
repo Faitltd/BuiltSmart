@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Home Health Score Favicon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#0284C7" x="0" y="0" width="32" height="32" rx="4"></rect>
+        <path d="M16,4 L28,14 L28,28 L20,28 L20,20 L12,20 L12,28 L4,28 L4,14 L16,4 Z" fill="#FFFFFF"></path>
+        <path d="M18,12 C20.7614,12 23,14.2386 23,17 C23,19.7614 20.7614,22 18,22 C15.2386,22 13,19.7614 13,17 C13,14.2386 15.2386,12 18,12 Z" fill="#10B981"></path>
+        <path d="M18,14 C19.6569,14 21,15.3431 21,17 C21,18.6569 19.6569,20 18,20 C16.3431,20 15,18.6569 15,17 C15,15.3431 16.3431,14 18,14 Z" fill="#FFFFFF"></path>
+    </g>
+</svg>

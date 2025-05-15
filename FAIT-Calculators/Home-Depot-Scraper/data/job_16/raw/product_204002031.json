@@ -1,0 +1,244 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14002,
+    "overage_used": 4002,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Phillips-II-Plus-10-2-1-2-in-Internal-Square-Button-Head-Composite-Deck-Screws-5-lb-Pack-34255/204002031"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:08.218Z",
+    "processed_at": "2025-05-01T17:51:12.646Z",
+    "total_time_taken": 4.43,
+    "homedepot_url": "https://www.homedepot.com/p/Phillips-II-Plus-10-2-1-2-in-Internal-Square-Button-Head-Composite-Deck-Screws-5-lb-Pack-34255/204002031"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Phillips-II-Plus-10-2-1-2-in-Internal-Square-Button-Head-Composite-Deck-Screws-5-lb-Pack-34255/204002031",
+    "brand": "Phillips II Plus",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/Phillips-II-Plus/N-5yc1vZ2fkpe6aZbh9",
+    "title": "Phillips II Plus #10 2-1/2 in. Internal Square Button-Head Composite Deck Screws (5 lb.-Pack)",
+    "upc": "615520342556",
+    "item_id": "204002031",
+    "parent_id": "329170173",
+    "store_sku": "1000744518",
+    "model_number": "34255",
+    "description": "Complete your composite project with these great composite screws, color matched, for indoor and outdoor projects. Approved by Trex and other manufacturers use these on decks, fences, porches, stairs and other projects for a professional appearance and the highest build quality. Complete your project with these great general purpose indoor and outdoor screws. No more loose nails or raised heads. Use on decks, fences, porches, stairs and other projects for a professional appearance and the highest build quality.",
+    "favorite_count": 27,
+    "feature_bullets": [
+      "Designed with deep square drive that prevents stripping",
+      "Durable steel construction ensures longevity",
+      "Suitable for indoor and outdoor projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Patented threads reduce \"mushrooming\"",
+      "Extra deep #2 square drive resists stripping",
+      "Bit included in each box",
+      "Small head presents a great finished look",
+      "Coating is guaranteed against rust"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7ef81983-036f-46b9-bc02-ac5190f77411/svn/phillips-ii-plus-composite-deck-screws-34255-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7ef81983-036f-46b9-bc02-ac5190f77411/svn/phillips-ii-plus-composite-deck-screws-34255-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 12,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Painted"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated,Self Tapping"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Button Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "425"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "grey"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "1 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Dual Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "8 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "keywords_list": [
+      "Phillips II Plus",
+      "#10 x 2-1/2 in. Composite Deck Screws Gray Square Drive (5 lb-Pack)",
+      "34255"
+    ],
+    "keywords": "Phillips II Plus, #10 x 2-1/2 in. Composite Deck Screws Gray Square Drive (5 lb-Pack), 34255",
+    "variants": [
+      {
+        "title": "2-1/2 in~~#10~~grey~~5 lb",
+        "link": "https://www.homedepot.com/p/Phillips-II-Plus-10-2-1-2-in-Internal-Square-Button-Head-Composite-Deck-Screws-5-lb-Pack-34255/204002031",
+        "item_id": "204002031"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/Phillips-II-Plus-10-2-1-2-in-Internal-Square-Button-Head-Composite-Deck-Screws-5-lb-Pack-33255/204002032",
+        "item_id": "204002032"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 25.43,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 47,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-08"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 47,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

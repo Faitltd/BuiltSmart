@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13955,
+    "overage_used": 3955,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Oatey-Brass-Replacement-Flange-Ring-435512/205854851"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:48:28.473Z",
+    "processed_at": "2025-05-01T17:48:42.495Z",
+    "total_time_taken": 14.02,
+    "homedepot_url": "https://www.homedepot.com/p/Oatey-Brass-Replacement-Flange-Ring-435512/205854851"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Oatey-Brass-Replacement-Flange-Ring-435512/205854851",
+    "brand": "Oatey",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Flanges/Oatey/N-5yc1vZckh3Z12z",
+    "title": "Oatey Brass Replacement Flange Ring",
+    "upc": "038753007281",
+    "item_id": "205854851",
+    "store_sku": "1003308405",
+    "model_number": "435512",
+    "description": "Oatey Brass Closet Flange Replacement Ring is used for replacing rusted or corroded metal closet flange rings. The Replacement Ring features three countersunk holes and three closet bolt slots for secure attachment to the floor. Oatey products have earned the trust of plumbing professionals for over 100 years.",
+    "favorite_count": 1,
+    "aisle": "10",
+    "bay": "016",
+    "collection": {
+      "id": "Family-318849688",
+      "name": "Family-318849688",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Oatey-Flanges-and-Wax-Rings/Family-318849688?omsid=205854851"
+    },
+    "feature_bullets": [
+      "Used for replacing rusted or corroded metal closet flange ring",
+      "For use on 4 in. PVC or ABS closet flanges",
+      "Constructed of durable brass material, includes closet bolts"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used for replacing rusted or corroded metal toilet flange rings",
+      "For use on 4 in. PVC or ABS closet flanges",
+      "Made of durable brass material",
+      "Includes 3 countersunk holes and 3 closet bolt slots for secure attachment to the floor",
+      "Easily install by inserting ring into the vertical cast iron drainpipe after the old flange is removed",
+      "Limited Warranty"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/41141744-877e-4255-a5a0-c9d5a70a741c/svn/oatey-toilet-flanges-435512-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3c1578c2-4974-4f35-9302-7991bb083951/svn/oatey-toilet-flanges-435512-e1_1000.jpg",
+        "type": "image_left_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/41141744-877e-4255-a5a0-c9d5a70a741c/svn/oatey-toilet-flanges-435512-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f215aebb-1f06-41ef-8336-69a8268dfc90/a82c7ee7-26bc-4614-8ea2-03d5141abe9a/main.mp4?fastly_token=NjgzODJkZTdfNTIyMjVmMTgyZTc1MzZmZTg4NDUyMzIwNzI5M2QxYjI0Njg5MDE3MTMxYWZlMzVjZWJmMDFjNWRmYTg2N2QwOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mMjE1YWViYi0xZjA2LTQxZWYtODMzNi02OWE4MjY4ZGZjOTAvYTgyYzdlZTctMjZiYy00NjE0LThlYTItMDNkNTE0MWFiZTlhL21haW4ubXA0&pubid=66036796001",
+        "title": "How to install a flange",
+        "id": "6125529661001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/b5e6b0e1-4ab1-4d09-8235-12c64f643b54/27191e15-7cc8-4976-a224-637db5b571f5/160x90/match/image.jpg",
+        "description": "How to install a toilet flange."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 53,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flange Included",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flange Type",
+        "value": "Flange repair ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Toilet Flange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Provides Extension",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sleeve Included",
+        "value": "No"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "7 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "0.02 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Toilet Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts/N-5yc1vZc69l"
+      },
+      {
+        "name": "Toilet Flanges",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Flanges/N-5yc1vZckh3"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.28,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 18
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 23,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 104,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13673,
+    "overage_used": 3673,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Henry-208R-Rubberized-Wet-Patch-Black-Roof-Leak-Repair-Sealant-Caulk-10-1-oz-HE208R004/100038227"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:31.977Z",
+    "processed_at": "2025-05-01T16:53:40.494Z",
+    "total_time_taken": 8.52,
+    "homedepot_url": "https://www.homedepot.com/p/Henry-208R-Rubberized-Wet-Patch-Black-Roof-Leak-Repair-Sealant-Caulk-10-1-oz-HE208R004/100038227"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Henry-208R-Rubberized-Wet-Patch-Black-Roof-Leak-Repair-Sealant-Caulk-10-1-oz-HE208R004/100038227",
+    "brand": "Henry",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Cement/Henry/N-5yc1vZ1z18gjyZ2wn",
+    "title": "Henry 208R Rubberized Wet Patch Black Roof Leak Repair Sealant Caulk 10.1 oz.",
+    "upc": "081725208919",
+    "item_id": "100038227",
+    "parent_id": "314316465",
+    "store_sku": "397045",
+    "model_number": "HE208R004",
+    "description": "Henry 208R Rubberized Wet Patch Roof Leak Repair Sealant is a premium SBS rubber modified sealant for sealing roof leaks on wet or dry surfaces. It patches holes and cracks even in a driving rain or under water, and is so versatile it can be used in wet or dry, hot or cold conditions. It is especially easy to spread in cold temperatures.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "favorite_count": 1738,
+    "aisle": "25",
+    "bay": "014",
+    "feature_bullets": [
+      "STOPS LEAKS INSTANTLY \u2013 Even in standing water",
+      "RUBBER MODIFIED FORMULA - Longer lasting waterproof patch",
+      "APPLICATION \u2013 Temperature 0 to 120 \u00b0F"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Stops leaks instantly, even in standing water",
+      "100% wet surface adhesion per ASTM D3409, Standard Test Method for Adhesion of Asphalt-Roof Cement to Damp, Wet, or Underwater Surfaces",
+      "No blistering, sagging or sliding per ASTM D4586, Standard Specification for Asphalt Roof Cement",
+      "Longer lasting waterproof patch",
+      "Rubberized for improved flexibility and durability",
+      "Seals leaks around chimneys, skylights, turbines, vents and gutters",
+      "Repairs shingles, roll roofing, valleys, splits, cracks and raised edges",
+      "Apply with roofing trowel, putty knife or caulk gun",
+      "10.1 oz. covers approximately 17 lin. ft.",
+      "Apply from 0\u00b0F to 120\u00b0F (-18\u00b0C to 49\u00b0C)",
+      "10-year limited warranty",
+      "Miami-Dade County Approved",
+      "California residents see Prop 65 WARNINGS",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/energy-efficiency/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Energy Efficiency</a>"
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a0f31673-c0e6-4dad-8b4f-cc746002087b/svn/black-henry-roof-cement-he208r004-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7424baac-22d6-434b-805a-379ba3c17384/svn/black-henry-roof-cement-he208r004-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cb89f273-c0de-4db0-b2b0-1efd5154a75a/svn/black-henry-roof-cement-he208r004-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7093a40c-cdcb-4cde-a280-fe5fc306591b/svn/black-henry-roof-cement-he208r004-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25c464e1-797f-49f7-a8c6-bd17bdb514f6/svn/black-henry-roof-cement-he208r004-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9f8f1a85-3f87-45b5-aa97-709908b2c845/svn/black-henry-roof-cement-he208r004-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a0f31673-c0e6-4dad-8b4f-cc746002087b/svn/black-henry-roof-cement-he208r004-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/6d5d4072-7c2f-47d4-8c68-0c1e57690bd8/3adfe38c-7ef4-4808-a6b0-07229c083dee/main.mp4?fastly_token=NjgzODM2ZDZfYjE4MzIxMmFhNTIyZWZhMzk2ZGQ3OTljNzAyZGQ0ZTMyYjQ0ZjJhYTdhODkwYWM1ZDg1OTFkYjM0MDBlMDUzZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82ZDVkNDA3Mi03YzJmLTQ3ZDQtOGM2OC0wYzFlNTc2OTBiZDgvM2FkZmUzOGMtN2VmNC00ODA4LWE2YjAtMDcyMjljMDgzZGVlL21haW4ubXA0&pubid=66036796001",
+        "title": "Henry 208R Rubberized Wet Patch Roof Cement Leak Repair",
+        "id": "6160430476001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/6d5d4072-7c2f-47d4-8c68-0c1e57690bd8/cd4e6252-2998-4144-b6af-4b493c18b453/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Henry 208R Rubberized Wet Patch Roof Cement Leak Repair Product Information Video"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/53a25ad5-3290-4cae-973f-9e433fd7b4d2/a32e3fb1-5806-49d3-82d3-abef7f7fb909/main.mp4?fastly_token=NjgzODI3ZTVfOTM4NWU5NDQ1YzUzYTUxYzE5OGU1YjljYjBmMTdhNzhlMDliNzljODZmZDY3YmFlYTE3YWQ1YWViNDdlODRhM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81M2EyNWFkNS0zMjkwLTRjYWUtOTczZi05ZTQzM2ZkN2I0ZDIvYTMyZTNmYjEtNTgwNi00OWQzLTgyZDMtYWJlZjdmN2ZiOTA5L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Fix Roof Leaks with Henry\u00ae Wet Patch\u00ae Roof Leak Repair Sealants",
+        "id": "6163743792001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ab353f3f-c1c5-424b-bf7d-5b68d98e8c55/87581149-c0d6-4d88-aaa4-b8b2941cbffc/160x90/match/image.jpg",
+        "description": "How to Fix Roof Leaks with Henry\u00ae Wet Patch\u00ae Roof Leak Repair Sealants"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4078932c-21e1-4660-80b1-aa076a1e2be6/81fe1935-cf30-47f4-890c-b22701bc56ea/main.mp4?fastly_token=NjgzODM3MjhfNzM4NTA5NjE5ZDA3MDA4ZmZiZTliM2RhNmY1NGI0YzNhMDA2YTk0ZjE5ODhmOTc2NjA1NGQyZDI1YmEwODNhM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80MDc4OTMyYy0yMWUxLTQ2NjAtODBiMS1hYTA3NmExZTJiZTYvODFmZTE5MzUtY2YzMC00N2Y0LTg5MGMtYjIyNzAxYmM1NmVhL21haW4ubXA0&pubid=66036796001",
+        "title": "Henry 209XR Extreme Rubberized Wet Patch Roof Cement Leak Repair",
+        "id": "6177336034001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/e758ca8f-60fa-479b-86fd-808c558fec76/e74ba12a-a54f-4ad0-ad81-ca0ce3a93de8/160x90/match/image.jpg",
+        "description": "Henry 209XR Extreme Rubberized Wet Patch Roof Cement Leak Repair"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 2117,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Caulk Gun/Dispenser,Trowel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coating Base",
+        "value": "Asphalt"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cold Applied",
+        "value": "Cold Applied"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Algae Resistant,Corrosion Resistant,Extreme Heat,High Impact/Hail Resistant,High Wind Resistant,Ice and Water Shield,Impact Resistant,Mildew Resistant,Paintable,Rust Resistant,Water Resistant,Waterproof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roof Repair Type",
+        "value": "Roof Sealant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Sealant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10-year limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Container Size",
+        "value": "10.1 Ounce"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size (oz.)",
+        "value": "10.1 oz"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2 in"
+      }
+    ],
+    "keywords_list": [
+      "roof cement",
+      "rubber roof cement",
+      "roof sealant",
+      "rubber roof sealant",
+      "wet patch roof cement",
+      "wet patch roof sealant",
+      "flexible roof cement"
+    ],
+    "keywords": "roof cement, rubber roof cement, roof sealant, rubber roof sealant, wet patch roof cement, wet patch roof sealant, flexible roof cement",
+    "variants": [
+      {
+        "title": "Black~~10.1 Ounce",
+        "link": "https://www.homedepot.com/p/Henry-208R-Rubberized-Wet-Patch-Black-Roof-Leak-Repair-Sealant-Caulk-10-1-oz-HE208R004/100038227",
+        "item_id": "100038227"
+      },
+      {
+        "title": "Black~~3.3 Gallon",
+        "link": "https://www.homedepot.com/p/Henry-208R-Rubberized-Wet-Patch-Black-Roof-Leak-Repair-Sealant-3-3-gal-HE208R361/100042495",
+        "item_id": "100042495"
+      },
+      {
+        "title": "Black~~0.9 Gallon",
+        "link": "https://www.homedepot.com/p/Henry-208R-Rubberized-Wet-Patch-Black-Roof-Leak-Repair-Sealant-0-90-gal-HE208R142/100041225",
+        "item_id": "100041225"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Commercial Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing/N-5yc1vZapzz"
+      },
+      {
+        "name": "Roof Cement",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Cement/N-5yc1vZ1z18gjy"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.23,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 296
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 296,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 276,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

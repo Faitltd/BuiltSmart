@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14206,
+    "overage_used": 4206,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-0-438-in-x-0-688-in-Oak-Base-Wood-Shoe-Moulding-10000292/100321579"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:17.473Z",
+    "processed_at": "2025-05-01T18:20:22.704Z",
+    "total_time_taken": 5.23,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-0-438-in-x-0-688-in-Oak-Base-Wood-Shoe-Moulding-10000292/100321579"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-0-438-in-x-0-688-in-Oak-Base-Wood-Shoe-Moulding-10000292/100321579",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/Woodgrain-Millwork/N-5yc1vZ2fkp9hdZ7c8",
+    "title": "Woodgrain Millwork 0.438 in. x 0.688 in. Oak Base Wood Shoe Moulding",
+    "upc": "095624184601",
+    "item_id": "100321579",
+    "parent_id": "327768414",
+    "store_sku": "927643",
+    "model_number": "10000292",
+    "description": "The Woodgrain Millwork 3/4 in. x 7/16 in. WM127 Oak Base Shoe makes a great transition between base molding and flooring. Oak WM127 Base Shoe can also be used to cover gaps where flooring surfaces meet base molding. Base Shoe is also used to cover small alignment challenges where hard surface flooring meets the wall.",
+    "favorite_count": 280,
+    "aisle": "FW",
+    "bay": "023",
+    "feature_bullets": [
+      "Oak molding for lasting performance",
+      "Paintable and stainable for a customized look",
+      "Intended for indoor use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be stained or painted with any high quality latex or oil based paint/stain",
+      "Classic small profile molding useful in covering small gaps",
+      "Can be used to accent traditional base moldings",
+      "Installs with common woodworking tools",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c0f6643a-2fa7-4a88-b65f-d4f8f8f50d14/svn/unfinished-woodgrain-millwork-shoe-moulding-10000292-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/unfinished-woodgrain-millwork-shoe-moulding-10000292-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/unfinished-woodgrain-millwork-shoe-moulding-10000292-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c0f6643a-2fa7-4a88-b65f-d4f8f8f50d14/svn/unfinished-woodgrain-millwork-shoe-moulding-10000292-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 118,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Shoe Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "127"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.438 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "132 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.688 in"
+      }
+    ],
+    "keywords_list": [
+      "base shoe moulding",
+      "white oak base shoe moulding",
+      "building supply",
+      "white oak building supply",
+      "building supplies",
+      "white oak building supplies",
+      "paintable base shoe moulding",
+      "paintable building supply",
+      "paintable building supplies"
+    ],
+    "keywords": "base shoe moulding, white oak base shoe moulding, building supply, white oak building supply, building supplies, white oak building supplies, paintable base shoe moulding, paintable building supply, paintable building supplies",
+    "variants": [
+      {
+        "title": "Unfinished~~132 in~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-0-438-in-x-0-688-in-Oak-Base-Wood-Shoe-Moulding-10000292/100321579",
+        "item_id": "100321579"
+      },
+      {
+        "title": "Oak~~168 in~~0.75 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-127-7-16-in-x-3-4-in-Oak-Shoe-Base-Moulding-10000292/205981685",
+        "item_id": "205981685"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Shoe Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/N-5yc1vZ2fkp9hd"
+      }
+    ],
+    "buybox_winner": {
+      "price": 0.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 862
+        }
+      }
+    }
+  }
+}

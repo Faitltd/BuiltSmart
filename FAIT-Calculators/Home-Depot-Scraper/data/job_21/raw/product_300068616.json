@@ -1,0 +1,278 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14619,
+    "overage_used": 4619,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-ZMAX-Black-Powder-Coated-90-Angle-for-2x-Lumber-APA21/300068616"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:56:49.854Z",
+    "processed_at": "2025-05-01T18:56:55.397Z",
+    "total_time_taken": 5.54,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-ZMAX-Black-Powder-Coated-90-Angle-for-2x-Lumber-APA21/300068616"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-ZMAX-Black-Powder-Coated-90-Angle-for-2x-Lumber-APA21/300068616",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Corner-Braces/Simpson-Strong-Tie/N-5yc1vZc8hrZ615",
+    "title": "Simpson Strong-Tie Outdoor Accents Mission Collection ZMAX, Black Powder-Coated 90\u00b0 Angle for 2x Lumber",
+    "upc": "707392192329",
+    "item_id": "300068616",
+    "parent_id": "312092344",
+    "store_sku": "1002099223",
+    "model_number": "APA21",
+    "description": "Outdoor Accents angles tie together beams, rafters and more. The APA angle makes structural connections between beams and posts much more visually appealing. These 90-degree angles make connections stronger and provide consistent, straight corners for a variety of outdoor projects. Part of the Mission Collection.",
+    "favorite_count": 324,
+    "aisle": "FW",
+    "bay": "007",
+    "collection": {
+      "id": "Family-320411490",
+      "name": "Family-320411490",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Mission/Family-320411490?omsid=300068616"
+    },
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "The Mission Collection adds a hint of Southwestern flair",
+      "Stronger than angled nailing or screw fastening alone for outdoor living or home repair projects",
+      "Install with Outdoor Accents connector screws for decorative look and maximum strength (sold separately)",
+      "Nominal member size: 2x",
+      "Made from 14-gauge steel",
+      "ZMAX galvanization with a black powder coat offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with Outdoor Accents <a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-10-x-1-1-2-in-Black-Double-Barrier-Coating-Connector-Screw-50-Pack-SD10112DBBR50/300068876\" target=\"_blank\" style=\"color:#F96302;\">SD10112DBB</a> connector screws",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c79b1b1c-a03d-4f2c-a238-70ea43ea009c/svn/simpson-strong-tie-corner-braces-apa21-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1896ad64-5342-4efe-ba4c-1d9a51c4bf19/svn/simpson-strong-tie-corner-braces-apa21-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/202a23a2-bec3-4de1-9c58-e3f56da9400f/svn/simpson-strong-tie-corner-braces-apa21-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5df67e47-c7e3-4a11-9636-186cee93bdb9/svn/simpson-strong-tie-corner-braces-apa21-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e91583c1-a3e8-4576-9b30-bfc4b4af9ce4/svn/simpson-strong-tie-corner-braces-apa21-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5550d0ee-cfef-4339-a86d-25951b5e19aa/svn/simpson-strong-tie-corner-braces-apa21-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f0720896-039e-49db-9027-355b73a4caf2/svn/simpson-strong-tie-corner-braces-apa21-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3b7b7aff-ea51-48c6-a45c-6ec723e5d48a/svn/simpson-strong-tie-corner-braces-apa21-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/890e2130-2666-41f6-a7be-78e28e5166d8/svn/simpson-strong-tie-corner-braces-apa21-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-corner-braces-apa21-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a1513db5-d14c-470e-bfbd-92341efc63d7/svn/simpson-strong-tie-corner-braces-apa21-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-corner-braces-apa21-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c79b1b1c-a03d-4f2c-a238-70ea43ea009c/svn/simpson-strong-tie-corner-braces-apa21-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e3b56f84-5ed2-411e-beb4-644ca22272c3/b25b4a9f-e065-49e5-bfeb-47c0600180e2/main.mp4?fastly_token=NjgzODI5NmNfMjViNDc4Y2QzOTZlOTA2NmZlYjM0NDczNjk5ZGU3NjllOTRjNWVjNDBmNDEzODhiYTZhMjQ2ZTI0ZjI2NjdhMV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lM2I1NmY4NC01ZWQyLTQxMWUtYmViNC02NDRjYTIyMjcyYzMvYjI1YjRhOWYtZTA2NS00OWU1LWJmZWItNDdjMDYwMDE4MGUyL21haW4ubXA0&pubid=66036796001",
+        "title": "Simpson Strong-Tie_Outdoor Accents_Ties & Angles",
+        "id": "5049366827001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/e3b56f84-5ed2-411e-beb4-644ca22272c3/5c946bda-87ba-4497-8565-be1cc4a1dc90/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Simpson Strong-Tie Outdoor Accents Ties & Angles"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f0f3c6f4-7c5b-48f2-a79a-13a840b631aa/755011ed-a29b-48e0-9ff2-2f875c28b546/main.mp4?fastly_token=NjgzODJmOTBfZGY4YWQ3Yzc0MThkY2ZhYjY0Mjc4YjJhZWFlOTExOTg5MTY5ZTQwMjIwZWQ1OTk2MGI1MzQ1YTE0YzU3YWNiMF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mMGYzYzZmNC03YzViLTQ4ZjItYTc5YS0xM2E4NDBiNjMxYWEvNzU1MDExZWQtYTI5Yi00OGUwLTlmZjItMmY4NzVjMjhiNTQ2L21haW4ubXA0&pubid=66036796001",
+        "title": "Simpson Strong-Tie_Outdoor Accents_Overview",
+        "id": "5049404755001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/f0f3c6f4-7c5b-48f2-a79a-13a840b631aa/49794031-dd72-4ec1-b945-d663ee8acaaf/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Simpson Strong-Tie Outdoor Accents Overview"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 138,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Brace type",
+        "value": "Angle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Builders Hardware Product Type",
+        "value": "Braces"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Powder coated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Decorative"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.375 in"
+      }
+    ],
+    "color": "Black",
+    "variants": [
+      {
+        "title": "Black~~3.25 in~~1",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-ZMAX-Black-Powder-Coated-90-degree-Angle-for-4x-Lumber-APA4/300068611",
+        "item_id": "300068611"
+      },
+      {
+        "title": "Black~~3.75 in~~1",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-ZMAX-Black-Powder-Coated-90-degree-Angle-for-6x-Lumber-APA6/302700713",
+        "item_id": "302700713"
+      },
+      {
+        "title": "Black~~2 in~~1",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-ZMAX-Black-Powder-Coated-90-Angle-for-2x-Lumber-APA21/300068616",
+        "item_id": "300068616"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Corner Braces",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Corner-Braces/N-5yc1vZc8hr"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 151
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 269,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 385,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

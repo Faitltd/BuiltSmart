@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13620,
+    "overage_used": 3620,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-8841-3-4-in-x-5-1-4-in-x-96-in-MDF-Crown-Moulding-8841/205427001"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:51:53.306Z",
+    "processed_at": "2025-05-01T16:51:57.970Z",
+    "total_time_taken": 4.66,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-8841-3-4-in-x-5-1-4-in-x-96-in-MDF-Crown-Moulding-8841/205427001"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-8841-3-4-in-x-5-1-4-in-x-96-in-MDF-Crown-Moulding-8841/205427001",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/HOUSE-OF-FARA/N-5yc1vZcbjiZucc",
+    "title": "HOUSE OF FARA 8841 3/4 in. x 5-1/4 in. x 96 in. MDF Crown Moulding",
+    "upc": "043559088419",
+    "item_id": "205427001",
+    "store_sku": "1000318690",
+    "model_number": "8841",
+    "description": "The use of this large House of Fara 3/4 in. x 5-1/4 in. x 8 ft. Wide MDF Crown Moulding will not only add depth and character, but beauty and charm to your home. Normally used where the walls meet the ceiling; House of Fara crowns create a decorative cornice that adds dimension and character to any room or project. With its wide profile and elegant look this Crown moulding may also be used with other applications such as decorative mantels or cabinet crowns. Manufactured from primed MDF it ft. s economical and ready for painting to match your existing decor.",
+    "favorite_count": 237,
+    "feature_bullets": [
+      "Medium-density fiberboard is resistant to scratches and dents",
+      "Factory-primed surface enables you to color it as per the decor",
+      "Unique design beautifies uneven edges in flooring"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Wide MDF crown moulding",
+      "Crowns create a decorative cornice",
+      "Primed and ready for painting",
+      "Economical"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c0336ffc-76c4-43e0-bef1-2076d65b471d/svn/white-house-of-fara-crown-moulding-8841-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/218a98c6-e275-445a-bcaf-a618469db721/svn/white-house-of-fara-crown-moulding-8841-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c0336ffc-76c4-43e0-bef1-2076d65b471d/svn/white-house-of-fara-crown-moulding-8841-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 31,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Crown Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "8841"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Satisfaction Guaranteed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": ".75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Crown Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/N-5yc1vZcbji"
+      }
+    ],
+    "buybox_winner": {
+      "price": 34.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 180,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 180,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

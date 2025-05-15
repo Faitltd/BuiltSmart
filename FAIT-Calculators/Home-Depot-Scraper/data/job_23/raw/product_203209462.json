@@ -1,0 +1,262 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14249,
+    "overage_used": 4249,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-1866-9-16-in-x-5-1-4-in-x-96-in-Primed-MDF-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001790/203209462"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:22:03.157Z",
+    "processed_at": "2025-05-01T18:22:07.354Z",
+    "total_time_taken": 4.2,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-1866-9-16-in-x-5-1-4-in-x-96-in-Primed-MDF-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001790/203209462"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-1866-9-16-in-x-5-1-4-in-x-96-in-Primed-MDF-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001790/203209462",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Woodgrain-Millwork/N-5yc1vZcbjpZ7c8",
+    "title": "Woodgrain Millwork 1866 9/16 in. x  5 1/4 in. x  96 in. Primed MDF Baseboard Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "095624516143",
+    "item_id": "203209462",
+    "parent_id": "325326292",
+    "store_sku": "1000375063",
+    "model_number": "10001790",
+    "description": "The Woodgrain Millwork 9/16 in. x 5-1/4 in. WG1866 Primed MDF base is the perfect addition to dress up any room. The Woodgrain Millwork Primed MDF WG1866 base is used cover any imperfections where floor and wall meet. Base Moulding can also be used as starter point for a more elaborate built up base boards. Combing other mouldings with this base can create looks that range from classic to elegant.",
+    "favorite_count": 1215,
+    "feature_bullets": [
+      "Easy to install with basic tools and accepts paint well",
+      "Rated highly for quality and value (see reviews)",
+      "Light weight material for easier handling"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent pre primed surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex or oil based paint",
+      "A great foundation for any room, can be paired with any style of casing",
+      "A classic pattern that works with any style",
+      "Installs with common woodworking tools",
+      "For interior use only",
+      "<a href=\"https://www.homedepot.com/services/c/door-window-specialist/893e44520\" target=\"_blank\" style=\"color:#F96302;\">Speak to an Associate about Doors and Windows. Call 1-833-HDAPRON (432-7766) for free design, purchase and installation help daily from 9AM - 9PM EST.</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c5bb79ff-712f-4f48-9c78-fcddfce2ee98/svn/white-woodgrain-millwork-baseboard-10001790-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ceb02150-0dd3-4ac1-aab3-1167147c5613/svn/white-woodgrain-millwork-baseboard-10001790-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a2e8e6cf-2034-4305-b1cb-13db62c406d3/svn/white-woodgrain-millwork-baseboard-10001790-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cf1e35dc-733c-44e9-af71-e0515f70a124/svn/white-woodgrain-millwork-baseboard-10001790-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c5bb79ff-712f-4f48-9c78-fcddfce2ee98/svn/white-woodgrain-millwork-baseboard-10001790-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/7fda2271-7634-4e74-bb7e-d83c307ad33c/3d96bf3f-ba58-4306-99fb-1b550d322f57/main.mp4?fastly_token=NjgzODJjZDlfNGJjYmVhM2I1ZGU5NDg2M2U0MjgxOTFlN2YxOWU0YmRlNTRjNDY3NjlhMDQxNzdhYjNiOGZhMjk0NjMxNmIwN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83ZmRhMjI3MS03NjM0LTRlNzQtYmI3ZS1kODNjMzA3YWQzM2MvM2Q5NmJmM2YtYmE1OC00MzA2LTk5ZmItMWI1NTBkMzIyZjU3L21haW4ubXA0&pubid=66036796001",
+        "title": "Creating a formal Crown Moulding Build Up ",
+        "id": "3331334913001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/7fda2271-7634-4e74-bb7e-d83c307ad33c/7d806068-638b-4a62-82dc-964c74289377/160x90/match/image.jpg?pubId=66036796001",
+        "description": "By combining base moulding and crown moulding, you create a great looking crown moulding that matches most decors."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 318,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "1866"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "keywords_list": [
+      "Woodgrain Distribution",
+      "WG1866 9/16 in. x 5-1/4 in. x 8 ft. Fiberboard Base",
+      "UMD1866-08"
+    ],
+    "keywords": "Woodgrain Distribution, WG1866 9/16 in. x 5-1/4 in. x 8 ft. Fiberboard Base, UMD1866-08",
+    "variants": [
+      {
+        "title": "White~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-1866-9-16-in-x-5-1-4-in-Primed-Medium-Density-Fiberboard-Base-Pro-Pack-Moulding-5-Piece-16-ft-10004357/206646884",
+        "item_id": "206646884"
+      },
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-1866-9-16-in-x-5-1-4-in-x-96-in-Primed-MDF-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001790/203209462",
+        "item_id": "203209462"
+      },
+      {
+        "title": "White~~12 ft~~Medium Density Fiberboard (MDF)~~5",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Pro-Pack-1866-9-16-in-x-5-1-4-in-x-144-in-Primed-MDF-Baseboard-Moulding-5-Pack-60-Total-Linear-Feet-10028224/303852834",
+        "item_id": "303852834"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 19.68,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1048,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0130",
+          "in_stock": true,
+          "stock_level": 42,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1048,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

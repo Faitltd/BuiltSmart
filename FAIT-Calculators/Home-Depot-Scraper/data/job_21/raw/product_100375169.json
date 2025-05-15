@@ -1,0 +1,218 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14663,
+    "overage_used": 4663,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-PSCL-1-2-in-20-Gauge-Galvanized-Panel-Sheathing-Clip-50-Qty-PSCL-1-2-R50/100375169"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:01:40.456Z",
+    "processed_at": "2025-05-01T19:01:46.183Z",
+    "total_time_taken": 5.73,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-PSCL-1-2-in-20-Gauge-Galvanized-Panel-Sheathing-Clip-50-Qty-PSCL-1-2-R50/100375169"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-PSCL-1-2-in-20-Gauge-Galvanized-Panel-Sheathing-Clip-50-Qty-PSCL-1-2-R50/100375169",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/Simpson-Strong-Tie/N-5yc1vZaq9xZ615",
+    "title": "Simpson Strong-Tie PSCL 1/2 in. 20-Gauge Galvanized Panel Sheathing Clip (50-Qty)",
+    "upc": "044315654312",
+    "item_id": "100375169",
+    "store_sku": "668932",
+    "model_number": "PSCL 1/2-R50",
+    "description": "The PSCL is designed to brace unsupported sheathing edges when sheathing meets edge to edge without a rafter for support. This light sheathing clip provides a 1/8 in. gap to address shrinkage and expansion of roof sheathing. Inserted over the edges of adjacent plywood panels, the PSCL reduces deflection and keeps panels even to maintain a level plane on the structure.",
+    "favorite_count": 379,
+    "aisle": "FW",
+    "bay": "008",
+    "feature_bullets": [
+      "Durable 20-Gauge steel clips for panel sheathing support",
+      "Galvanized for corrosion resistance in various conditions",
+      "Easy installation for spacing and alignment of sheathing"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Quick installation, no nails required",
+      "Keeps panels even for a level structural plane",
+      "Provides the 1/8-in space between plywood panels as recommended by the American Plywood Association",
+      "Use the same size sheathing clip as the panel thickness",
+      "Made from 20-gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Quantity: 50",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e17e9691-4a5e-4d83-8167-cb0e38f1829b/svn/simpson-strong-tie-wood-connectors-pscl-1-2-r50-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/57670f75-80d8-4de8-a145-22e65c73452e/svn/simpson-strong-tie-wood-connectors-pscl-1-2-r50-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6f900a40-9a97-46e2-a666-c0c538e08816/svn/simpson-strong-tie-wood-connectors-pscl-1-2-r50-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46050e15-8b4f-4ed4-812d-5e7fc20b57fb/svn/simpson-strong-tie-wood-connectors-pscl-1-2-r50-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-wood-connectors-pscl-1-2-r50-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e17e9691-4a5e-4d83-8167-cb0e38f1829b/svn/simpson-strong-tie-wood-connectors-pscl-1-2-r50-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhmMDJfN2YxMzE1N2Q4NGFiNWE1NzdiMTgwYzQ3ZGQxOGRlMTY5Mzg0MTcwNjZhNDQ4MWRlMjM4ODk3ZThmMTUxYWMyZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 86,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "20"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Type",
+        "value": "Other"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "10.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "9.75 in"
+      }
+    ],
+    "keywords_list": [
+      "SIMPSON STRONG-TIE",
+      "PSCL 1/2-R50 Plywood Clip 50 Ct.",
+      "PSCL 1/2-R50"
+    ],
+    "keywords": "SIMPSON STRONG-TIE, PSCL 1/2-R50 Plywood Clip 50 Ct., PSCL 1/2-R50",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Wood Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/N-5yc1vZaq9x"
+      }
+    ],
+    "buybox_winner": {
+      "price": 9.27,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 39
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 47,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 229,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

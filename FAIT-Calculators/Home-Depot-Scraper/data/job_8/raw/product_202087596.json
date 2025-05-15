@@ -1,0 +1,231 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13536,
+    "overage_used": 3536,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-2-1-4-in-x-8-ft-MDF-Fluted-Casing-Molding-8581/202087596"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:48:32.732Z",
+    "processed_at": "2025-05-01T16:48:37.736Z",
+    "total_time_taken": 5,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-2-1-4-in-x-8-ft-MDF-Fluted-Casing-Molding-8581/202087596"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-2-1-4-in-x-8-ft-MDF-Fluted-Casing-Molding-8581/202087596",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/HOUSE-OF-FARA/N-5yc1vZclf5Zucc",
+    "title": "HOUSE OF FARA 3/4 in. x 2-1/4 in. x 8 ft. MDF Fluted Casing Molding",
+    "upc": "043559085814",
+    "item_id": "202087596",
+    "store_sku": "975030",
+    "model_number": "8581",
+    "description": "The House of Fara 3/4 in. x 2-1/4 in. x 8 ft. MDF Fluted Casing adds an elegant look to your homes interior. It is pre-primed and ready for painting to match your decor. It cuts and installs easily for a quality look when finished. Its unique detail will add an architectural touch to any room or project. Excellent for use as a chair rail, building mantels or any project needing fluted detail.",
+    "favorite_count": 400,
+    "feature_bullets": [
+      "MDF construction for strength and durability",
+      "Paintable for a customized look",
+      "Intended for indoor use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of primed MDF",
+      "Ready for painting to match your decor",
+      "96 in. length",
+      "For interior use"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0860cbca-96cc-4f67-a584-cd09eb5b495a/svn/white-house-of-fara-casing-8581-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e87dff4c-ebde-44de-9a6b-6b4409eeebbf/svn/white-house-of-fara-casing-8581-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8dc43d0c-62fa-4d24-92f0-b8698ee0cd38/svn/white-house-of-fara-casing-8581-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/47db8dec-eb06-4a3a-97ba-bbca1f7b772a/svn/white-house-of-fara-casing-8581-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0860cbca-96cc-4f67-a584-cd09eb5b495a/svn/white-house-of-fara-casing-8581-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 81,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Fluted"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "8581"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Satisfaction Guaranteed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "keywords_list": [
+      "House of Fara",
+      "8 ft. x 2-1/4 in. x 3/4 in. MDF Fluted Casing",
+      "8581"
+    ],
+    "keywords": "House of Fara, 8 ft. x 2-1/4 in. x 3/4 in. MDF Fluted Casing, 8581",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 485,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 485,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

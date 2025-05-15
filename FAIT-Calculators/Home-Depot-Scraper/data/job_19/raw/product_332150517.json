@@ -1,0 +1,179 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14159,
+    "overage_used": 4159,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Schluter-Kerdi-Board-SN-Shower-Niche-with-Frame-12-in-W-x-12-in-L-x-0-5-in-T-Underlayment-for-Tile-KB12SN305305AF/332150517"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:59:15.887Z",
+    "processed_at": "2025-05-01T17:59:21.091Z",
+    "total_time_taken": 5.2,
+    "homedepot_url": "https://www.homedepot.com/p/Schluter-Kerdi-Board-SN-Shower-Niche-with-Frame-12-in-W-x-12-in-L-x-0-5-in-T-Underlayment-for-Tile-KB12SN305305AF/332150517"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Schluter-Kerdi-Board-SN-Shower-Niche-with-Frame-12-in-W-x-12-in-L-x-0-5-in-T-Underlayment-for-Tile-KB12SN305305AF/332150517",
+    "brand": "Schluter",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/Schluter/N-5yc1vZcdtwZ7fo",
+    "title": "Schluter Kerdi-Board-SN Shower Niche with Frame 12 in. W x 12 in. L x 0.5 in. T Underlayment for Tile",
+    "upc": "4011832226212",
+    "item_id": "332150517",
+    "store_sku": "1012550633",
+    "model_number": "KB12SN305305AF",
+    "description": "Kerdi-Board-SN is a prefabricated shower niche made of Kerdi-Board. Designed for installation in Kerdi and Kerdi-Board shower assemblies. The waterproof niche has a 1/2-in thick by 2-in wide bonding flange and includes a Kerdi-Band frame, screws and washers for easy installation. This ready to tile niche is available in 4 sizes.",
+    "descriptive_attributes": [
+      "Ready to tile, waterproof shower niche made of Kerdi-Board",
+      "Package includes prefabricated niche, screws, washers and a Kerdi-Band frame to seal the seams",
+      "Niche is 12 in. wide by 12 in. high and is 3-1/2 in. deep",
+      "Bonding flange is 1/2 in. thick by 2 in. wide",
+      "For use with Kerdi and Kerdi-Board shower assemblies",
+      "Pair with Schluter-Shelf-N (sold separate) for additional design options"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d4bc772e-9d75-4bf2-8398-c281703c1c29/svn/schluter-underlayment-kb12sn305305af-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d4bc772e-9d75-4bf2-8398-c281703c1c29/svn/schluter-underlayment-kb12sn305305af-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 2,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Waterproof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Shower,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polystyrene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package coverage (sq. ft.)",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Subflooring type",
+        "value": "Any"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10-year limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product thickness (mil)",
+        "value": "0.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Recommended overlap (in.)",
+        "value": "0"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Underlayment",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/N-5yc1vZcdtw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 78.16,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

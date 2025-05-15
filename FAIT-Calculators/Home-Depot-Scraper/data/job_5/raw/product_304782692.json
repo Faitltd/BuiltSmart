@@ -1,0 +1,164 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13185,
+    "overage_used": 3185,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-FE348-1-2-in-x-4-1-2-in-x-144-in-Craftsman-MDF-Baseboard-Molding-5-Pack-10028332/304782692"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:46:59.918Z",
+    "processed_at": "2025-05-01T13:47:49.721Z",
+    "total_time_taken": 49.8,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-FE348-1-2-in-x-4-1-2-in-x-144-in-Craftsman-MDF-Baseboard-Molding-5-Pack-10028332/304782692"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-FE348-1-2-in-x-4-1-2-in-x-144-in-Craftsman-MDF-Baseboard-Molding-5-Pack-10028332/304782692",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/FINISHED-ELEGANCE/N-5yc1vZcbjpZr98",
+    "title": "FINISHED ELEGANCE FE348 1/2 in. x 4-1/2 in. x 144 in. Craftsman MDF Baseboard Molding (5-Pack)",
+    "upc": "095624523066",
+    "item_id": "304782692",
+    "store_sku": "1002956355",
+    "model_number": "10028332",
+    "description": "Add character and lasting value to your home with Finished Elegance 1/2 in. x 4-1/2 in. Pre-finished base molding ProPack. Featuring a smooth factory-finished white surface, our Craftsman-style base molding is take home and install. No sanding, priming, and waiting for paint to dry required. Baseboard is an essential basic molding that offers protection from scuffs, bumps, and wayward furniture, but it can easily be combined with other Finished Elegance profiles to create a custom build-up to turn up the elegance of any room.",
+    "favorite_count": 95,
+    "feature_bullets": [
+      "Ideal choice for indoor and low-moisture applications",
+      "Made of premium MDF to ensure durability",
+      "Primed for superior paint adhesion"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Creates a visual foundation where floor and wall meet",
+      "Premium MDF for enhanced appearance and durability",
+      "Primed for superior paint adhesion",
+      "Best for indoor and low-moisture applications",
+      "Craftsman profile complements a variety of home styles",
+      "Great for other interior home projects like furniture, accent shelves, cabinets and more",
+      "Combine 2 or more profiles for unique build-up designs",
+      "Pre-cut length for easy handling and installation"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2f089bbd-3fc4-4ab8-89e7-26a8fdc61982/svn/primed-white-finished-elegance-baseboard-10028332-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46c2035a-792d-4ee5-af09-be9a2090650d/svn/primed-white-finished-elegance-baseboard-10028332-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19c454b9-3fdc-4a81-907c-ab45a6107f5d/svn/primed-white-finished-elegance-baseboard-10028332-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2f089bbd-3fc4-4ab8-89e7-26a8fdc61982/svn/primed-white-finished-elegance-baseboard-10028332-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 20,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

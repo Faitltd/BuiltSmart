@@ -1,0 +1,258 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13273,
+    "overage_used": 3273,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GENESIS-23-75in-x-23-75in-Smooth-Pro-Lay-In-Vinyl-White-Ceiling-Tile-Case-of-12-74000CA/202805379"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:51:22.938Z",
+    "processed_at": "2025-05-01T13:51:27.204Z",
+    "total_time_taken": 4.27,
+    "homedepot_url": "https://www.homedepot.com/p/GENESIS-23-75in-x-23-75in-Smooth-Pro-Lay-In-Vinyl-White-Ceiling-Tile-Case-of-12-74000CA/202805379"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GENESIS-23-75in-x-23-75in-Smooth-Pro-Lay-In-Vinyl-White-Ceiling-Tile-Case-of-12-74000CA/202805379",
+    "brand": "GENESIS",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Ceilings-Ceiling-Tiles-Drop-Ceiling-Tiles/GENESIS/N-5yc1vZc58cZs65",
+    "title": "GENESIS 23.75in. x 23.75in. Smooth Pro Lay In Vinyl White Ceiling Tile (Case of 12)",
+    "upc": "764890740803",
+    "item_id": "202805379",
+    "parent_id": "312596925",
+    "store_sku": "1004851303",
+    "model_number": "74000CA",
+    "description": "Genesis Ceiling Tiles offer a waterproof alternative to standard acoustical tiles. Manufactured from white cellular PVC, these tiles are not only waterproof, but washable and durable, as well. Genesis tiles are made from material that is not susceptible to health hazards resulting from water and moisture. These suspended ceiling tiles have a Class A Fire Rating and are perfect for homes, basement ceilings, laundry rooms, commercial kitchens, food processing plants, healthcare and education facilities, marine applications, and high-humidity climates. Easy to cut and easy to install, our drop ceiling tiles are a great alternative to fragile and water damage-prone acoustic ceiling tiles or styrofoam ceiling tiles.",
+    "favorite_count": 106,
+    "feature_bullets": [
+      "Made of virgin-grade PVC vinyl for fire and heat resistance",
+      "Light, flexible, and easy to cut for hassle-free installation",
+      "Effectively resists moisture to inhibit mold and mildew growth"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "The no-fuss texture and color allow for seamless integration into any room or design scheme",
+      "Genesis ceiling tiles are made from virgin-grade PVC vinyl for superior fire and heat resistance",
+      "Genesis ceiling tiles are compatible with 15/16 in. in. grids - simply drop in",
+      "Tiles are lightweight, flexible, and manageable for anyone",
+      "Perfect for office buildings, restaurants, and home improvement",
+      "Our waterproof PVC vinyl is easy to clean and won't collect moisture from humidity eliminating the potiential for mold and mildew growth",
+      "Genesis comes with a 25 year warranty, guaranteed not to flake, break, stain, or rot"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fafa7ada-05d5-4657-be38-04527a49687a/svn/white-genesis-drop-ceiling-tiles-74000ca-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b8f129c4-e90e-489d-9a77-46e3279d3bcf/svn/white-genesis-drop-ceiling-tiles-74000ca-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c20f2b18-c2ff-4b08-bb01-dc022d23740a/svn/white-genesis-drop-ceiling-tiles-74000ca-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/117e1c27-5b33-46de-a128-6e4689c99382/svn/white-genesis-drop-ceiling-tiles-74000ca-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/681a3080-c4bf-42ea-a6ad-6d0b21241a99/svn/white-genesis-drop-ceiling-tiles-74000ca-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9e47d424-8493-4f5a-acb2-482176080e13/svn/white-genesis-drop-ceiling-tiles-74000ca-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/278e6fbf-cef8-491e-8907-d738f9499dc9/svn/white-genesis-drop-ceiling-tiles-74000ca-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c21cc16d-ee37-4a4f-90a6-20c69672ffe3/svn/white-genesis-drop-ceiling-tiles-74000ca-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fafa7ada-05d5-4657-be38-04527a49687a/svn/white-genesis-drop-ceiling-tiles-74000ca-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f2c019c6-da90-4f87-a59f-c0e1f4b303ee/cbcfafab-588d-49c7-ae5d-b1887a1a3b29/main.mp4?fastly_token=NjgzODI5MDRfODNmZTk2MDZmNGE0MjdkYzRlMTA5YzNhMGJlYTM5NjE2MjJlODM1ZWIzODQ3NmMxMjE3MDA0ZTQyZjA5N2JlOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mMmMwMTljNi1kYTkwLTRmODctYTU5Zi1jMGUxZjRiMzAzZWUvY2JjZmFmYWItNTg4ZC00OWM3LWFlNWQtYjE4ODdhMWEzYjI5L21haW4ubXA0&pubid=66036796001",
+        "title": "Genesis Ceiling Tiles",
+        "id": "6129799738001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/f2c019c6-da90-4f87-a59f-c0e1f4b303ee/452ae8f4-13eb-47d3-b045-fda028154151/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Informational video about Genesis ceiling tiles. Product features and the various tiles offered are revealed in this video. Ease of installation is also demonstrated."
+      }
+    ],
+    "ratings_total": 471,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Ceiling Tile Style",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial/Residential",
+        "value": "Commercial,Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Detail",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Noise Reduction Coefficient",
+        "value": "0.0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "Case"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Weight (lb.)",
+        "value": "1.75"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 year limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Size (ft.)",
+        "value": "2 x 2 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "0.15625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "23.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "23.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Thickness (in.)",
+        "value": "0.15625"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~2 x 4 ft~~10",
+        "link": "https://www.homedepot.com/p/GENESIS-23-75-in-x-47-75-in-Smooth-Pro-Lay-In-Vinyl-White-Ceiling-Tile-Case-of-10-74500CA/202805509",
+        "item_id": "202805509"
+      },
+      {
+        "title": "White~~2 x 2 ft~~12",
+        "link": "https://www.homedepot.com/p/GENESIS-23-75in-x-23-75in-Smooth-Pro-Lay-In-Vinyl-White-Ceiling-Tile-Case-of-12-74000CA/202805379",
+        "item_id": "202805379"
+      },
+      {
+        "title": "Black~~2 x 2 ft~~12",
+        "link": "https://www.homedepot.com/p/GENESIS-23-75in-x-23-75in-Smooth-Pro-Lay-In-Vinyl-Black-Ceiling-Tile-Case-of-12-74007CA/309102007",
+        "item_id": "309102007"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Ceilings",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ceilings/N-5yc1vZc58i"
+      },
+      {
+        "name": "Ceiling Tiles",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ceilings-Ceiling-Tiles/N-5yc1vZc58l"
+      },
+      {
+        "name": "Drop Ceiling Tiles",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ceilings-Ceiling-Tiles-Drop-Ceiling-Tiles/N-5yc1vZc58c"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 83.82,
+      "unit": "case",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2900,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2900,
+          "price": 5,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

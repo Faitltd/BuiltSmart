@@ -1,0 +1,197 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14395,
+    "overage_used": 4395,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-FBFZ-ZMAX-Galvanized-Flat-Rail-Fence-Bracket-for-2x4-Nominal-Lumber-FBFZ/302860659"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:32:15.384Z",
+    "processed_at": "2025-05-01T18:32:59.640Z",
+    "total_time_taken": 44.26,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-FBFZ-ZMAX-Galvanized-Flat-Rail-Fence-Bracket-for-2x4-Nominal-Lumber-FBFZ/302860659"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-FBFZ-ZMAX-Galvanized-Flat-Rail-Fence-Bracket-for-2x4-Nominal-Lumber-FBFZ/302860659",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/Simpson-Strong-Tie/N-5yc1vZaq9xZ615",
+    "title": "Simpson Strong-Tie FBFZ ZMAX Galvanized Flat Rail Fence Bracket for 2x4 Nominal Lumber",
+    "upc": "707392967545",
+    "item_id": "302860659",
+    "store_sku": "1002693045",
+    "model_number": "FBFZ",
+    "description": "The FBFZ is designed to provide a sturdy, concealed connection between rails and posts. The design of this flat fence rail bracket provides strong, simple connections without the need for toe nails or screws. The flat-plate design of the FBFZ both eases installation and provides a clean appearance.",
+    "favorite_count": 124,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Clean, versatile connections make planning and building fences, deck/porch railings and louvers fast and easy",
+      "Can be used for handrail attachments for porch and deck railings that are 30-in or closer to ground level",
+      "Bendable tabs on each end of the bracket allow for slight adjustments when wood rails are cut too short and provide a secure connection when wood expands and contracts",
+      "Flexible hole design can accommodate multiple fastener types, including nails and Strong-Drive SD Connector screws",
+      "Nominal member size: 2x4",
+      "Width: 1-9/16 in.",
+      "Height: 4-3/4 in.",
+      "Made from 18-Gauge steel",
+      "ZMAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with (5) 0.131 in. x 1-1/2 in. nails, 0.131 in. x 2-1/2 in. nails or #9 x 1-1/2 in. Strong-Drive SD Connector screws",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/110cfa3c-ffb0-4c47-8725-cc8c59f14bae/svn/simpson-strong-tie-wood-connectors-fbfz-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/262f69c0-957f-4761-ac02-52347fb9c606/svn/simpson-strong-tie-wood-connectors-fbfz-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a3ac0dc8-67b7-4936-bb4c-36ec654c4190/svn/simpson-strong-tie-wood-connectors-fbfz-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab03ec32-3f72-4a81-82d9-597fd940d166/svn/simpson-strong-tie-wood-connectors-fbfz-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d818656-d9cb-4796-ab4f-cbf3e3c95ddc/svn/simpson-strong-tie-wood-connectors-fbfz-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3b595500-ae8c-45a6-b6a4-fb09cdde6b4a/svn/simpson-strong-tie-wood-connectors-fbfz-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f0871d88-2c85-4c83-894a-8a7b19686a01/svn/simpson-strong-tie-wood-connectors-fbfz-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-wood-connectors-fbfz-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-wood-connectors-fbfz-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/110cfa3c-ffb0-4c47-8725-cc8c59f14bae/svn/simpson-strong-tie-wood-connectors-fbfz-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 28,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "18"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.11 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Type",
+        "value": "Other"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.22 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "4.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.56 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Wood Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/N-5yc1vZaq9x"
+      }
+    ],
+    "buybox_winner": {
+      "price": 0.72,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

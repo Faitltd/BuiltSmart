@@ -1,0 +1,21 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14085,
+    "overage_used": 4085,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-6-Beam-6-Post-Column-Cap-with-Strong-Drive-SDS-Screws-CCQ66SDS2-5-R/306387806"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:54:22.545Z",
+    "processed_at": "2025-05-01T17:54:28.378Z",
+    "total_time_taken": 5.83,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-6-Beam-6-Post-Column-Cap-with-Strong-Drive-SDS-Screws-CCQ66SDS2-5-R/306387806"
+  },
+  "message": "Product not found."
+}

@@ -1,0 +1,230 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14965,
+    "overage_used": 4965,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TOTO-S7A-Washlet-Elongated-Electric-Heated-Bidet-Seat-with-Contemporary-Lid-in-Cotton-White-SW4736AT40-01/327216025"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:47:30.038Z",
+    "processed_at": "2025-05-02T21:47:34.013Z",
+    "total_time_taken": 3.98,
+    "homedepot_url": "https://www.homedepot.com/p/TOTO-S7A-Washlet-Elongated-Electric-Heated-Bidet-Seat-with-Contemporary-Lid-in-Cotton-White-SW4736AT40-01/327216025"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TOTO-S7A-Washlet-Elongated-Electric-Heated-Bidet-Seat-with-Contemporary-Lid-in-Cotton-White-SW4736AT40-01/327216025",
+    "brand": "TOTO",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilet-Seats/TOTO/N-5yc1vZbza8Zgy2",
+    "title": "TOTO S7A Washlet Elongated Electric Heated Bidet Seat with Contemporary Lid in Cotton White",
+    "upc": "739268436671",
+    "item_id": "327216025",
+    "store_sku": "1010438319",
+    "model_number": "SW4736AT40#01",
+    "description": "TOTO S7A elongated bidet toilet seat with ewater+ and auto open and close contemporary lid is an electronic luxury seat that cleanses you with endless warm water, providing an exceptionally clean feeling. Instead of traditional toilet paper that can sometimes be rough and often ineffective, the washlet quickly provides comfortable warm water cleansing at the touch of a button. The washlet features TOTO's technologically advanced ewater+ system that mists the wand and toilet bowl, reducing the need for harsh cleaning chemicals. Premist wets the surface of the toilet bowl, aiding in the removal of waste and resulting in a better clean. No need to touch buttons or handles, and never worry about someone forgetting to flush. Washlet S7A is operated by a luxury style illuminated touch button remote with 4-user memory to save preferred settings. The washlet features 5-spray settings, auto open and close lid, heated seat, a nightlight, and instantaneous water heating. The newly redesigned lid style resides flush with the toilet bowl, providing a streamline look and giving the impression of an integrated system. The washlet reduces the need for toilet paper, saving trees and water used to manufacture each roll. Medical conditions, age, and debilitating illnesses can make using the bathroom without assistance almost impossible; but with a washlet, just the touch of a button can leave you feeling clean. Includes mounting and connection hardware.",
+    "feature_bullets": [
+      "120V GFCI electrical outlet required, 4 ft. cord",
+      "Elongated, SoftClose auto lid, nightlight, EWATER+ and deodorizer",
+      "Bidet model is compatible with all elongated toilets"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "High-tech electronic bidet seat",
+      "Ewater+ auto-cleans wand and bowl after every use",
+      "Premist automatically mists the bowl before each use",
+      "Gentle aerated, warm water, dual-action spray with oscillating and pulsating features",
+      "Adjustable spray position, water temperature, and water pressure",
+      "Instantaneous water heater for continuous warm water and energy savings",
+      "Warm air dryer with 5-variable temperature settings",
+      "Automatic air deodorizer",
+      "4-users personalized memory settings",
+      "Docking station for easy cleaning and installation",
+      "Heated seat with temperature control",
+      "Multifunction pearl white block-style remote control",
+      "Night light",
+      "Seamless seat design eliminates the gap where dirt collects"
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/84446a55-03c0-45cc-8cd3-3bf2943954eb/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/17c19248-262d-4ee1-97cc-e0d46050a334/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/edbde51e-760f-4a7a-80e5-3bfc8ef03d24/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6d276d4f-4d5a-4f4f-8ee3-e15ea3006c28/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d6085a78-d169-475d-906b-13f9489033b4/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c1550ced-d8b1-478e-acef-ad23ccdcd9bf/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/32ffc698-b51c-410c-a776-75a48232597b/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8c2405f6-9dc1-4caf-8e7f-8d5cc69a681a/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ccc023a0-8962-43d6-ba92-e7713c5f8ef2/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/84446a55-03c0-45cc-8cd3-3bf2943954eb/svn/cotton-white-toto-bidet-toilet-seats-sw4736at40-01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/0fefef96-7554-40ae-b1f3-3e15be79ccbe/215e7d57-14f5-427e-9377-4f2de3d52df7/main.mp4?fastly_token=NjgxNGU0ZDFfNWNlM2EzZWFmNDY2YWU3OTU0MWFmNzAxOTkxZGFkMzFiNzA2OTg2YmNlOWEzMmE0ZjlkMGZlMGY0YjFkNGJmN18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMGZlZmVmOTYtNzU1NC00MGFlLWIxZjMtM2UxNWJlNzljY2JlLzIxNWU3ZDU3LTE0ZjUtNDI3ZS05Mzc3LTRmMmRlM2Q1MmRmNy9tYWluLm1wNA%3D%3D",
+        "title": "S7A Draft.mp4",
+        "id": "6352200552112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/0fefef96-7554-40ae-b1f3-3e15be79ccbe/main/160x90/7s541ms/match/image.jpg",
+        "description": "Product view of toilet seat\n"
+      }
+    ],
+    "ratings_total": 102,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bidet Power Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bidet Spray Type",
+        "value": "Horizontal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Cotton White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Adjustable Aerated Wash Spray,Adjustable Sprayer Settings,Adjustable Water Pressure,Deodorizing,Heated,Lighted,Nozzle Sterilization,Warm Air Dryer,Warm Water Wash"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Remote Control"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "15 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Manufacturer One Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "20.875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "4.0625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "15.0625 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bidets",
+        "link": "https://www.homedepot.com/b/Bath-Bidets/N-5yc1vZceq2"
+      },
+      {
+        "name": "Bidet Toilet Seats",
+        "link": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilet-Seats/N-5yc1vZbza8"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1145,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 94,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 94,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-12",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

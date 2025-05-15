@@ -1,0 +1,191 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13554,
+    "overage_used": 3554,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-5-8-in-x-3-5-8-in-Primed-Fingerjoint-Pine-Crown-Moulding-P286PR/309745814"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:49:26.372Z",
+    "processed_at": "2025-05-01T16:49:30.647Z",
+    "total_time_taken": 4.28,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-5-8-in-x-3-5-8-in-Primed-Fingerjoint-Pine-Crown-Moulding-P286PR/309745814"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-5-8-in-x-3-5-8-in-Primed-Fingerjoint-Pine-Crown-Moulding-P286PR/309745814",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/Kelleher/N-5yc1vZcbjiZ4z5",
+    "title": "Kelleher 5/8 in. x 3-5/8 in. Primed Fingerjoint Pine Crown Moulding",
+    "upc": "099443002092",
+    "item_id": "309745814",
+    "store_sku": "592033",
+    "model_number": "P286PR",
+    "description": "Highlight the special care that has gone into your property by installing mouldings. Crown moulding is used between the top of the wall and the ceiling to give the illusion of a higher ceiling and refined look. Mouldings are a relatively simple way to add the beauty and value you want to your home.",
+    "is_bestseller": true,
+    "aisle": "FW",
+    "bay": "022",
+    "feature_bullets": [
+      "Enhances room aesthetics with a refined look",
+      "Finger joint pine construction ensures longevity",
+      "Pre-primed for convenient painting"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from finger joint pine construction",
+      "Pre-primed",
+      "Ready to paint to match your decor",
+      "Sold by the lineal foot"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d86e255d-8c2e-4e99-9a84-770ea00b3acf/svn/white-kelleher-crown-moulding-p286pr-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dad7f955-41f7-4104-83e4-e414c619c816/svn/white-kelleher-crown-moulding-p286pr-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d86e255d-8c2e-4e99-9a84-770ea00b3acf/svn/white-kelleher-crown-moulding-p286pr-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Crown Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "286"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.625 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Crown Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/N-5yc1vZcbji"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.68,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 4169
+        }
+      }
+    }
+  }
+}

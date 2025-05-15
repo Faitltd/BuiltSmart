@@ -1,0 +1,247 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13156,
+    "overage_used": 3156,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Everbilt-Galvanized-Steel-1-2-in-Mesh-2-ft-x-25-ft-19-Gauge-Hardware-Cloth-308224EB/205960837"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:45:46.902Z",
+    "processed_at": "2025-05-01T13:45:51.002Z",
+    "total_time_taken": 4.1,
+    "homedepot_url": "https://www.homedepot.com/p/Everbilt-Galvanized-Steel-1-2-in-Mesh-2-ft-x-25-ft-19-Gauge-Hardware-Cloth-308224EB/205960837"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Everbilt-Galvanized-Steel-1-2-in-Mesh-2-ft-x-25-ft-19-Gauge-Hardware-Cloth-308224EB/205960837",
+    "brand": "Everbilt",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Hardware-Cloth-Fencing/Everbilt/N-5yc1vZcd55Z402",
+    "title": "Everbilt Galvanized Steel 1/2 in. Mesh 2 ft. x 25 ft. 19-Gauge Hardware Cloth",
+    "upc": "099713048607",
+    "item_id": "205960837",
+    "parent_id": "305409540",
+    "store_sku": "266795",
+    "model_number": "308224EB",
+    "description": "EVERBILT 1/2 in. x 2 ft. x 25 ft. 19-Gauge Steel Galvanized Hardware Cloth is the ideal fencing for temporary enclosures. Everbilt hardware cloth mesh fence rolls are versatile, with a wide variety of applications. Use these welded wire mesh products as gutter guards, chicken coops, screen doors, garden fencing, compost containment, erosion control, fencing reinforcement, and more. Constructed from galvanized steel, Everbilt hardware cloth is corrosion resistant and is dependable for extended use. This galvanized wire fence is easy to install and hassle-free, requiring no maintenance over time.",
+    "favorite_count": 1122,
+    "aisle": "27",
+    "bay": "004",
+    "collection": {
+      "id": "Family-306644670",
+      "name": "Family-306644670",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Everbilt-Wire-Fences/Family-306644670?omsid=205960837"
+    },
+    "feature_bullets": [
+      "Installation recommends using 4 - 3 FT U Posts",
+      "Galvanized steel hardware cloth is rust and weather-resistant",
+      "ideal for animal containment, gutter guards, gardening, and more"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "19-Gauge steel construction",
+      "Mesh Size: 1/2 in.",
+      "Roll Size: 2 ft. H x 25 ft. L",
+      "EVERBILT metal fencing is constructed of galvanized steel wire and for corrosion resistance and extended use.",
+      "Perfect for screen doors, animal control, gutter guards, plant protection raised garden bed fencing, tree guards, and craft projects.",
+      "Recommend use of U-posts (not included) every 5 ft. for fencing applications.",
+      "Recommended with use of U-posts (not included) with a suggested space of every 5 to 10 ft. apart and 1 ft. in the ground",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/MIDWEST AIR TECHNOLOGIES/Everbilt Hardware Cloth_In Line.jpg 2498900.jpg\">",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/MIDWEST AIR TECHNOLOGIES/4_UP_THD_Buyers_Guide_LL_MG_100818_ID_10260.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a37859d8-f3e0-4c49-955d-cf03b2e96883/svn/everbilt-hardware-cloth-fencing-308224eb-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eb762cb1-0632-4752-ac11-73b9a58c67f8/svn/everbilt-hardware-cloth-fencing-308224eb-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/775de31e-206d-4ee3-9276-071660570f4c/svn/everbilt-hardware-cloth-fencing-308224eb-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/476661eb-1853-4d6f-a6c2-e317d251299c/svn/everbilt-hardware-cloth-fencing-308224eb-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/00a3ca26-7222-461d-97b0-898bb1c66ad2/svn/everbilt-hardware-cloth-fencing-308224eb-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1a3daa51-6ffb-44c4-8424-00f937de5e1d/svn/everbilt-hardware-cloth-fencing-308224eb-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34c0567c-cf88-4e47-881a-9d9ddab1b125/svn/everbilt-hardware-cloth-fencing-308224eb-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2196d65e-d609-4fc6-bae4-a431c4559791/svn/everbilt-hardware-cloth-fencing-308224eb-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/54b8a6fc-a39f-459a-bf93-cb5692cb3653/svn/everbilt-hardware-cloth-fencing-308224eb-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a37859d8-f3e0-4c49-955d-cf03b2e96883/svn/everbilt-hardware-cloth-fencing-308224eb-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/63d08a47-02da-4af4-bd74-e8016774e919/fac62c58-46b6-4877-9d34-7f2a0b549d7a/main.mp4?fastly_token=NjgzODI4MDlfYmZjMDA1YTNmNzMxN2ExZGZjZWI1MDI2NTI0ODNkZTkyNDgwN2JiNTMzODMxNTk4YmVkM2M0ZDlhOTc3YzRjN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82M2QwOGE0Ny0wMmRhLTRhZjQtYmQ3NC1lODAxNjc3NGU5MTkvZmFjNjJjNTgtNDZiNi00ODc3LTlkMzQtN2YyYTBiNTQ5ZDdhL21haW4ubXA0&pubid=66036796001",
+        "title": "Everbilt Hardware Cloth",
+        "id": "5850894221001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/63d08a47-02da-4af4-bd74-e8016774e919/e4ed2aee-b4b9-4cc3-ab22-33cd79558827/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Ideal for screen doors, gutter guards, animal control, cages, tree guards, gardening applications or craft projects"
+      }
+    ],
+    "ratings_total": 1214,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chain Link Type",
+        "value": "Hardware Cloth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fence Application",
+        "value": "Garden,Security"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fencing Material Compatibility",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "19"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "9.86 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Mesh Size (in.)",
+        "value": "1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "25 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "1 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Silver~~25 ft~~24 in",
+        "link": "https://www.homedepot.com/p/Everbilt-Galvanized-Steel-1-2-in-Mesh-2-ft-x-25-ft-19-Gauge-Hardware-Cloth-308224EB/205960837",
+        "item_id": "205960837"
+      },
+      {
+        "title": "Silver~~25 ft~~36 in",
+        "link": "https://www.homedepot.com/p/Everbilt-1-2-in-Mesh-x-3-ft-x-25-ft-19-Gauge-Galvanized-Steel-Hardware-Cloth-308225EB/205960848",
+        "item_id": "205960848"
+      },
+      {
+        "title": "Silver~~25 ft~~48 in",
+        "link": "https://www.homedepot.com/p/Everbilt-1-2-in-x-4-ft-x-25-ft-19-Gauge-Steel-Hardware-Cloth-308226EB/205960849",
+        "item_id": "205960849"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Fencing & Gates",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates/N-5yc1vZbrk7"
+      },
+      {
+        "name": "Hardware Cloth Fencing",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Hardware-Cloth-Fencing/N-5yc1vZcd55"
+      }
+    ],
+    "buybox_winner": {
+      "price": 41.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "roll",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 19
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 59,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 57,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

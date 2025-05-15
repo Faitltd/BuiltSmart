@@ -1,0 +1,254 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12609,
+    "overage_used": 2609,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-1-ft-x-1-ft-7-in-PureBond-Walnut-Plywood-Project-Panel-10-Pack-5107/312981163"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:26:11.706Z",
+    "processed_at": "2025-05-01T13:26:16.642Z",
+    "total_time_taken": 4.94,
+    "homedepot_url": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-1-ft-x-1-ft-7-in-PureBond-Walnut-Plywood-Project-Panel-10-Pack-5107/312981163"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-1-ft-x-1-ft-7-in-PureBond-Walnut-Plywood-Project-Panel-10-Pack-5107/312981163",
+    "brand": "Columbia Forest Products",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Columbia-Forest-Products/N-5yc1vZc7hmZ5uf",
+    "title": "Columbia Forest Products 5/32 in. x 1 ft. x 1 ft. 7 in. PureBond Walnut Plywood Project Panel (10-Pack)",
+    "upc": "730232005107",
+    "item_id": "312981163",
+    "parent_id": "312366975",
+    "store_sku": "1005285194",
+    "model_number": "5107",
+    "description": "This PureBond Walnut Plywood Project Panel features a plain-sliced veneer face, cut from American hardwood forests, ensuring premium quality, lasting durability and enduring beauty with each sheet. This plywood is ideal for laser etching, CNC cutting and craft work. This pack includes 10-pieces of beautiful walnut plywood.",
+    "favorite_count": 163,
+    "feature_bullets": [
+      "Walnut plywood ideal for laser cutting",
+      "High quality wood core ensures consistent laser cutting",
+      "Walnut face veneer with Maple back"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Contains 100% natural wood bonded with a food-grade soy-based adhesive that does not emit toxic air contaminants",
+      "Decorative top veneer, measuring approximately 1/42 in. thick, exhibits the beauty and timeless quality of natural hardwood and is suitable for painting or staining",
+      "Grade: B-3",
+      "Actual product thickness is approximately .141\"",
+      "For best results, store flat and allow panels to acclimate to interior climate before use in order to minimize warping",
+      "Note: This panel is 100% wood and movement/warp can occur in response to changes in environmental conditions, even after shipment. We cannot guarantee flatness."
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6941dc98-2e2d-4919-95d8-2d36501d56c5/svn/columbia-forest-products-project-panels-5107-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9895a09b-6612-4ada-b4a8-29478edd9b46/svn/columbia-forest-products-project-panels-5107-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9895a09b-6612-4ada-b4a8-29478edd9b46/svn/columbia-forest-products-project-panels-5107-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/de121537-1bf8-42cf-bacd-0910670fc51d/svn/columbia-forest-products-project-panels-5107-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/99694976-a6c5-4ced-a511-0a9328d6bf1c/svn/columbia-forest-products-project-panels-5107-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b8c595f7-b82a-4865-9673-71f4d1114bdf/svn/columbia-forest-products-project-panels-5107-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1414b4e4-5ffd-4760-8acb-c2c352ecf4d3/svn/columbia-forest-products-project-panels-5107-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6941dc98-2e2d-4919-95d8-2d36501d56c5/svn/columbia-forest-products-project-panels-5107-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1670,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "10"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Hardwood Plywood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "19.100 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.141 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "1-5/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "5/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "1"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1 ft. x 1-5/8 ft.~~1/4~~Mixed Maple",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-1-ft-x-1-ft-7-in-Maple-MDF-Plywood-Project-Panel-10-Pack-6098/328040956",
+        "item_id": "328040956"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~1/4~~Maple",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-1-ft-x-1-ft-7-in-PureBond-Maple-Plywood-Project-Panel-10-Pack-4735/312106043",
+        "item_id": "312106043"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~1/4~~Mahogany",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-1-ft-x-1-ft-7-in-Mahogany-PureBond-Plywood-Project-Panel-2-Sided-10-Pack-5145/313818032",
+        "item_id": "313818032"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~1/4~~Red Oak",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-1-ft-x-1-ft-7-in-Red-Oak-PureBond-Plywood-Project-Panel-10-Pack-5060/312331257",
+        "item_id": "312331257"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~5/32~~Maple",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-1-ft-x-1-ft-7-in-PureBond-Maple-Plywood-Project-Panel-10-Pack-4940/312284408",
+        "item_id": "312284408"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~5/32~~Birch",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-1-ft-x-1-ft-7-in-PureBond-Birch-Plywood-Project-Panel-10-Pack-5534/315126783",
+        "item_id": "315126783"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~1/4~~Birch",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-1-ft-x-1-ft-7-in-PureBond-Birch-Plywood-Project-Panel-2-Sided-10-Pack-5527/314958255",
+        "item_id": "314958255"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~5/32~~Walnut",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-1-ft-x-1-ft-7-in-PureBond-Walnut-Plywood-Project-Panel-10-Pack-5107/312981163",
+        "item_id": "312981163"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~1/4~~Walnut",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-1-ft-x-1-ft-7-in-Walnut-PureBond-Plywood-Project-Panel-2-Sided-10-Pack-5159/313817256",
+        "item_id": "313817256"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~1/4~~Cherry",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-1-ft-x-1-ft-7-in-Cherry-PureBond-Plywood-Project-Panel-2-Sided-10-Pack-5166/313818042",
+        "item_id": "313818042"
+      },
+      {
+        "title": "1 ft. x 1-5/8 ft.~~1/4~~Hickory",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-1-ft-x-1-ft-7-in-Hickory-PureBond-Plywood-Project-Panel-2-Sided-10-Pack-5138/313817818",
+        "item_id": "313817818"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 62.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 70,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 70,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

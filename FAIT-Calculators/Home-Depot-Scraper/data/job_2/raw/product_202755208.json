@@ -1,0 +1,244 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13088,
+    "overage_used": 3088,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Self-Starting-Star-Drive-Bugle-Head-Composite-Gray-Deck-Screws-1-lbs-box-65-pcs-N3CSG1/202755208"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:41:47.882Z",
+    "processed_at": "2025-05-01T13:42:02.057Z",
+    "total_time_taken": 14.18,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Self-Starting-Star-Drive-Bugle-Head-Composite-Gray-Deck-Screws-1-lbs-box-65-pcs-N3CSG1/202755208"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Grey-Self-Starting-Torx-Bugle-Head-Composite-Deck-Screws-1-lb-65-Piece-N3CSG1/202755208",
+    "brand": "DECKMATE",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/DECKMATE/N-5yc1vZ2fkpe6aZrkz",
+    "title": "DECKMATE #9 x 3 in. Grey Self-Starting Torx Bugle-Head Composite Deck Screws (1 lb./65-Piece)",
+    "upc": "764666619999",
+    "item_id": "202755208",
+    "parent_id": "322113906",
+    "store_sku": "282868",
+    "model_number": "N3CSG1",
+    "description": "These Composite Deck Screws are used to fasten pieces of composite lumber. These screws resists over-driving and mushrooming with a pancake head. They feature a dual thread to provide a superior hold when installed.",
+    "favorite_count": 29,
+    "collection": {
+      "id": "Family-317458890",
+      "name": "Family-317458890",
+      "link": "https://www.homedepot.com/collection/Hardware/DECKMATE-Deck-Screws/Family-317458890?omsid=202755208"
+    },
+    "feature_bullets": [
+      "For use with polymer or composite lumber",
+      "Steel construction, Polymer-plated gray finish",
+      "Dual-thread design"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Use with polymer or composite lumber",
+      "Steel construction",
+      "3 in. L",
+      "Polymer-plated gray finish",
+      "Dual-thread design",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bad2285d-6896-47a5-ac20-82c3e58e90bd/svn/deckmate-composite-deck-screws-n3csg1-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bd975479-0abb-41ff-bbe0-ac4323d45744/svn/deckmate-composite-deck-screws-n3csg1-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3086a650-331a-48a6-8cf4-fbad8f7dd6cb/svn/deckmate-composite-deck-screws-n3csg1-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8f71ab84-5bad-410c-844f-577dd821feaa/svn/deckmate-composite-deck-screws-n3csg1-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2cd2e1f3-2eb8-47e6-9dc8-bca5c81605eb/svn/deckmate-composite-deck-screws-n3csg1-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/84b370a6-bd34-4287-8a7b-3667cde17042/svn/deckmate-composite-deck-screws-n3csg1-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8fff1d5-c3e2-4891-9a0d-c34b67d2482b/svn/deckmate-composite-deck-screws-n3csg1-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bad2285d-6896-47a5-ac20-82c3e58e90bd/svn/deckmate-composite-deck-screws-n3csg1-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 136,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Bugle Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "65"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Dual Thread"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#9"
+      }
+    ],
+    "size": "#9",
+    "keywords_list": [
+      "#9 x 3 in. Coarse Gray Polymer-Plated Steel Square-Drive Composite Deck Screws (1 lb. Pack)",
+      "N3CSG1"
+    ],
+    "keywords": "#9 x 3 in. Coarse Gray Polymer-Plated Steel Square-Drive Composite Deck Screws (1 lb. Pack), N3CSG1",
+    "variants": [
+      {
+        "title": "1-5/8 in~~#8~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-5-8-in-Gray-Exterior-Self-Starting-Star-Drive-Bugle-Head-Composite-Deck-Screws-1-lb-157-pcs-N158CSG1/202755190",
+        "item_id": "202755190"
+      },
+      {
+        "title": "3 in~~#9~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Grey-Self-Starting-Torx-Bugle-Head-Composite-Deck-Screws-1-lb-65-Piece-N3CSG1/202755208",
+        "item_id": "202755208"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 11.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0154",
+          "in_stock": true,
+          "stock_level": 5,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

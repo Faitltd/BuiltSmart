@@ -1,0 +1,276 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12710,
+    "overage_used": 2710,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Delta-Modern-Gold1-Handle-Wall-Mount-Shower-Trim-Kit-in-Champagne-Bronze-Valve-Not-Included-T14269-CZ-PP/329239347"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:29:08.419Z",
+    "processed_at": "2025-05-01T13:29:14.184Z",
+    "total_time_taken": 5.76,
+    "homedepot_url": "https://www.homedepot.com/p/Delta-Modern-Gold1-Handle-Wall-Mount-Shower-Trim-Kit-in-Champagne-Bronze-Valve-Not-Included-T14269-CZ-PP/329239347"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Delta-Modern-Gold1-Handle-Wall-Mount-Shower-Trim-Kit-in-Champagne-Bronze-Valve-Not-Included-T14269-CZ-PP/329239347",
+    "brand": "Delta",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Trim-Kits-Shower-Bathtub-Trim-Kits/Delta/N-5yc1vZcgf1Zg2",
+    "title": "Delta Modern Gold1-Handle Wall Mount Shower Trim Kit in Champagne Bronze (Valve Not Included)",
+    "upc": "195205102526",
+    "item_id": "329239347",
+    "parent_id": "329238895",
+    "store_sku": "1011057400",
+    "model_number": "T14269-CZ-PP",
+    "description": "The Modern Collection offers a streamlined, contemporary design. Delta showers with Monitor pressure balance valves are engineered to make sure you don't experience a sudden and possibly unsafe change in water temperature as a result of running water elsewhere, such as using a dishwasher, flushing a toilet or running a washing machine. While other products may gather unsightly mineral buildup over time, soft rubber Touch-Clean spray holes allow any mineral residue to simply be wiped away for an instantly refreshed look - with no need for soaking or the aid of chemical cleaners. WaterSense labeled faucets, showers and toilets use at least 20% less water than the industry standard - helping you save water without compromising performance. You can install with confidence, knowing Delta products are backed by our Limited Lifetime Warranty.",
+    "collection": {
+      "id": "Family-331632609",
+      "name": "Family-331632609",
+      "link": "https://www.homedepot.com/collection/Bath/Modern-Bath-Collection/Family-331632609?omsid=329239347"
+    },
+    "feature_bullets": [
+      "Shower faucet trim kit only, purchase shower valve separately",
+      "Monitor Valve protects from rapid changes in water temperature",
+      "Delta shower system backed by Delta's Lifetime Limited Warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "10 in. round raincan shower head with single spray setting",
+      "Monitor pressure balance valve keeps water temperature within a safe \u00b13.6\u00b0 F (\u00b11.7\u00b0 C), helping to protect you from sudden changes in hot or cold water pressure",
+      "Soft, rubber touch-clean spray holes allow you to easily wipe away calcium and lime buildup from the spray face of your shower head and hand shower with the touch of a finger",
+      "Trim kit only, must order multichoice universal valve rough (R10000 series) separately to complete the unit",
+      "Temperature only controlled with handle",
+      "Back-to-back installation capability",
+      "ADA Compliant",
+      "Watersense labeled shower heads use at least 20% less water than the industry standard without compromising performance",
+      "Backed by Delta faucet's lifetime limited warranty",
+      "<a href=\"https://www.homedepot.com/b/Delta/N-5yc1vZg2\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop more Delta products</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/24cf4eb2-1a4f-4b49-937e-7086a99a050a/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/986ee014-4482-4cf8-aa42-d5486785f596/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/194b81ad-40b9-4151-95ec-e7363353435f/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/82b6ef46-a973-4f60-a4e6-a29e3be509d1/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0d4e7378-5eab-4aef-9789-51673b63c265/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6109461a-ded5-4ccf-a828-3d08872ab074/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/44cb917e-af9b-47e5-a0f1-f8396970a1a1/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5939439a-0d8f-4049-9311-eac704e91055/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b0c5b11b-2108-47fc-ba9a-60253917e50d/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/966162ca-e35c-429d-b456-f33ca11f9c3d/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e31eb9f8-0f84-424a-a3bc-c86cfe5afd6e/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8223d0a9-c32c-40c0-b759-abcdb23c7827/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/24cf4eb2-1a4f-4b49-937e-7086a99a050a/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t14269-cz-pp-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4e677941-7d46-4bd9-aab3-dfa12450360f/7d95cba8-d0e9-453d-be26-c8270a6ea82e/main.mp4?fastly_token=NjgzODMyNWJfYmNmYzI3OWU4YzQzZTc1ZjM0MWY5MzAxODg1MGZhYjg4OGQ4ZjIzMTUyMTExYjZkYmJiMmY4ODI3MWU3Yzk2Zl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80ZTY3Nzk0MS03ZDQ2LTRiZDktYWFiMy1kZmExMjQ1MDM2MGYvN2Q5NWNiYTgtZDBlOS00NTNkLWJlMjYtYzgyNzBhNmVhODJlL21haW4ubXA0&pubid=66036796001",
+        "title": "Delta T14269 MODERN Monitor 14 Series Shower Trim",
+        "id": "6346401387112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/4e677941-7d46-4bd9-aab3-dfa12450360f/main/160x90/27s381ms/match/image.jpg?pubId=66036796001",
+        "description": "Video of Delta T14269 MODERN Monitor 14 Series Shower Trim"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 10,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Collection Name",
+        "value": "Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gold"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Champagne Bronze"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Valve Models",
+        "value": "R10000-UNBX"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "One Finished Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fits Faucet Brand",
+        "value": "Delta"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Faucet Handles",
+        "value": "1 Handle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Trim Kit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trim Type",
+        "value": "Shower Faucet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Included",
+        "value": "Valve Not Included"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "19.9375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "10 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Spotshield Brushed Nickel~~1",
+        "link": "https://www.homedepot.com/p/Delta-Modern1-Handle-Wall-Mount-Shower-Trim-Kit-in-Spotshield-Brushed-Nickel-Valve-Not-Included-T14269-SP-PP/329239348",
+        "item_id": "329239348"
+      },
+      {
+        "title": "Champagne Bronze~~1",
+        "link": "https://www.homedepot.com/p/Delta-Modern-Gold1-Handle-Wall-Mount-Shower-Trim-Kit-in-Champagne-Bronze-Valve-Not-Included-T14269-CZ-PP/329239347",
+        "item_id": "329239347"
+      },
+      {
+        "title": "Matte Black~~1",
+        "link": "https://www.homedepot.com/p/Delta-Modern1-Handle-Wall-Mount-Shower-Trim-Kit-in-Matte-Black-Valve-Not-Included-T14269-BL-PP/329239346",
+        "item_id": "329239346"
+      },
+      {
+        "title": "Chrome~~1",
+        "link": "https://www.homedepot.com/p/Delta-Modern1-Handle-Wall-Mount-Shower-Trim-Kit-in-Chrome-Valve-Not-Included-T14269-PP/329239345",
+        "item_id": "329239345"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Trim Kits",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Trim-Kits/N-5yc1vZbri6"
+      },
+      {
+        "name": "Shower & Bathtub Trim Kits",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Trim-Kits-Shower-Bathtub-Trim-Kits/N-5yc1vZcgf1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 274.31,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 94,
+          "price": 0,
+          "start_date": "2025-05-13",
+          "end_date": "2025-05-14"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 94,
+          "price": 0,
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-14",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

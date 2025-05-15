@@ -1,0 +1,242 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14617,
+    "overage_used": 4617,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-Decorative-Post-Base-Cover-for-6x6-Nominal-Post-APBDW66/317821176"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:56:33.899Z",
+    "processed_at": "2025-05-01T18:56:40.254Z",
+    "total_time_taken": 6.36,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-Decorative-Post-Base-Cover-for-6x6-Nominal-Post-APBDW66/317821176"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-Decorative-Post-Base-Cover-for-6x6-Nominal-Post-APBDW66/317821176",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/Simpson-Strong-Tie/N-5yc1vZaq9xZ615",
+    "title": "Simpson Strong-Tie Outdoor Accents Mission Collection Decorative Post Base Cover for 6x6 Nominal Post",
+    "upc": "707392004233",
+    "item_id": "317821176",
+    "parent_id": "326914545",
+    "store_sku": "1006638948",
+    "model_number": "APBDW66",
+    "description": "The Outdoor Accents decorative hardware product line features connectors and fasteners that bring beauty and strength to custom outdoor living structures. The APBDW composite wrap features the arched profile of the Mission Collection and provides a decorative finish. Available in 2 sizes, the APBDW series provides stylish options to wrap around most nominal 4x4 and 6x6 post bases.",
+    "collection": {
+      "id": "Family-320411490",
+      "name": "Family-320411490",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Mission/Family-320411490?omsid=317821176"
+    },
+    "feature_bullets": [
+      "Decorative cover enhances outdoor post bases with a sleek design",
+      "Mission-style design adds elegance to structural wood connections",
+      "Durable steel construction with a black powder-coated finish"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Wraps around the MPBZ moment post base as well as the CBSQ, ABUZ, ABWZ and ABAZ post bases (only with screw and nail application; will not work over bolts)",
+      "4-piece cover easily screws together outside the post base (screws included)",
+      "Covers the post base with no need to drill into the post",
+      "Made from black composite plastic",
+      "Fits a nominal 6x6 post base"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f2340622-3ba7-467d-a3b7-5352c5246d41/svn/simpson-strong-tie-wood-connectors-apbdw66-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/007e6f9f-a993-458d-948e-66575abeb173/svn/simpson-strong-tie-wood-connectors-apbdw66-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/47c98864-b63d-466b-841e-25d1a99669b8/svn/simpson-strong-tie-wood-connectors-apbdw66-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a3dd168f-e329-40e8-9695-5f7b8ea06561/svn/simpson-strong-tie-wood-connectors-apbdw66-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4f75a05a-1489-4cb5-a3be-1ea46aa90a0b/svn/simpson-strong-tie-wood-connectors-apbdw66-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c85e8efd-0a3e-4b2c-beb0-6cd009a43013/svn/simpson-strong-tie-wood-connectors-apbdw66-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/57395a95-5d55-4e6d-b66b-0080cadd1c6b/svn/simpson-strong-tie-wood-connectors-apbdw66-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5dba2042-e7bd-4ccc-acc5-cc23e9f942b9/svn/simpson-strong-tie-wood-connectors-apbdw66-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-wood-connectors-apbdw66-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c54dc785-a380-4936-b0a0-7fa8542fe037/svn/simpson-strong-tie-wood-connectors-apbdw66-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-wood-connectors-apbdw66-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f2340622-3ba7-467d-a3b7-5352c5246d41/svn/simpson-strong-tie-wood-connectors-apbdw66-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 3,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Decorative"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.3 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Type",
+        "value": "Cap/Base"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "6.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "11.44 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6.88 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "4.75 in",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-Decorative-Post-Base-Cover-for-4x4-Nominal-Post-APBDW44/317821111",
+        "item_id": "317821111"
+      },
+      {
+        "title": "6.88 in",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-Decorative-Post-Base-Cover-for-6x6-Nominal-Post-APBDW66/317821176",
+        "item_id": "317821176"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Wood Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/N-5yc1vZaq9x"
+      }
+    ],
+    "buybox_winner": {
+      "price": 77.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

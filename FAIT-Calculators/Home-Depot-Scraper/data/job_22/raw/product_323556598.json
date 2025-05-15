@@ -1,0 +1,151 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14775,
+    "overage_used": 4775,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/VEVOR-Hardware-Cloth-1-in-Mesh-24-in-x-100-ft-Galvanized-Steel-Vinyl-Coated-16-gal-Wire-for-Garden-Fencing-YXHJWHSBDDWC2JLKLV0/323556598"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:21:24.877Z",
+    "processed_at": "2025-05-01T19:22:10.847Z",
+    "total_time_taken": 45.97,
+    "homedepot_url": "https://www.homedepot.com/p/VEVOR-Hardware-Cloth-1-in-Mesh-24-in-x-100-ft-Galvanized-Steel-Vinyl-Coated-16-gal-Wire-for-Garden-Fencing-YXHJWHSBDDWC2JLKLV0/323556598"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/VEVOR-Hardware-Cloth-1-in-Mesh-24-in-x-100-ft-Galvanized-Steel-Vinyl-Coated-16-gal-Wire-for-Garden-Fencing-YXHJWHSBDDWC2JLKLV0/323556598",
+    "brand": "VEVOR",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Hardware-Cloth-Fencing/VEVOR/N-5yc1vZcd55Zuc5",
+    "title": "VEVOR Hardware Cloth 1 in. Mesh 24 in. x 100 ft. Galvanized Steel Vinyl Coated 16 gal. Wire for Garden Fencing",
+    "upc": "810087874810",
+    "item_id": "323556598",
+    "store_sku": "1009031181",
+    "model_number": "YXHJWHSBDDWC2JLKLV0",
+    "description": "If you are looking for hardware cloth, don't hesitate anymore. Our VEVOR hardware cloth is steel, both galvanized and black vinyl coated. It features rust-proof, corrosion-proof and high ductility. The welding process makes the structure sturdy. You can expect long-term use. The simple installation is more secure with additional accessories. The flexible design makes it suitable for several applications.",
+    "feature_bullets": [
+      "Galvanized steel and vinyl coated to resist rust and corrosion",
+      "Feel free to bend, reusable",
+      "Can be cut according to the needs of their own"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Vinyl-coated galvanized steel: our hardware cloth is made of durable steel, galvanization and a black vinyl coating provide maximum rust and corrosion resistance and high ductility, the premium material also ensures ultimate longevity",
+      "1 in. sq. mesh: with 1 in. mesh, this welded wire can effectively keep small critters out to protect your garden or farmed animals, moreover, the 24 in. x 100 ft. size 16-Gauge wire is big enough to fit most sizes of animal cages and garden fences",
+      "Firm welding structure: different from other products, our mesh hardware cloth is welded at every point, so it will not break off, what's more, the welding structure is extremely sturdy and damage from repeated use is not a problem",
+      "Easy use: although the black vinyl coated mesh has a sturdy structure, it is still flexible enough to conform to any desired shape, such as a tree guard and can be cut with included wire cutters, note: you should wear gloves included to use the mesh",
+      "Flexible usage: the vinyl-coated welded wire roll can be unfolded quickly, suitable for animal cage net mesh, fence, wall decorations, vegetable garden and other household appliances",
+      "Package content: 1 x hardware cloth, 1 x wire-cutter, 1 x fabric glove",
+      "<img src=\"https://inlinecontent.thdstatic.com/28I/STARINN INC/320606990.jpg\">"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6246f7d5-1906-4b40-b71f-facb083738d9/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b8f751db-89ec-4ecf-b5b2-55a9b55af37c/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/55220a90-f2b1-4e17-aa00-c231e0a7574e/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/829f15f8-4edb-4570-bdde-9f580939008a/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/663776ad-b98a-4b97-910b-a7ba6937b4b2/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0d8ad977-1a58-44f0-a195-afe88a8f4df1/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cfa18d62-2a82-47e6-8589-e2ebe42a1513/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1b358af0-cc3f-4260-b8fd-96baf87b6adf/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6246f7d5-1906-4b40-b71f-facb083738d9/svn/vevor-hardware-cloth-fencing-yxhjwhsbddwc2jlklv0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/3e5ce90b-9f99-43ab-a710-ea86ade51112/94094cd3-68f8-4657-b424-492011d7c6a9/main.mp4?fastly_token=NjgzODNkNmFfNjAxNTAyZDQ1NDA2YmQxZTM4Njc1ZTNlZDIxOWVkYjQ4OGIyYjI0ZDFkMGVlYzY0ZmI4ZTNmNDhiOWFlODNiZF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zZTVjZTkwYi05Zjk5LTQzYWItYTcxMC1lYTg2YWRlNTExMTIvOTQwOTRjZDMtNjhmOC00NjU3LWI0MjQtNDkyMDExZDdjNmE5L21haW4ubXA0&pubid=66036796001",
+        "title": "The Display of VEVOR Garden Fencing Hardware Cloth",
+        "id": "6336753771112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/3e5ce90b-9f99-43ab-a710-ea86ade51112/main/160x90/2s159ms/match/image.jpg?pubId=66036796001",
+        "description": "The Detail Display of VEVOR Garden Fencing Hardware Cloth"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/af88bff0-27d4-4920-8916-08fefbfd91d0/ca6ba013-01e0-4659-a4d2-5add16c744a4/main.mp4?fastly_token=NjgzODQ5YjlfZThjMzc0NDY3YWRiMTYzNmM1NTA4ZDk4MzJkNTE0Y2FkZjAzYmYwNDkyZDdmMjQ3OGIxZmM4NTQ2MWQ5Zjc0MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hZjg4YmZmMC0yN2Q0LTQ5MjAtODkxNi0wOGZlZmJmZDkxZDAvY2E2YmEwMTMtMDFlMC00NjU5LWE0ZDItNWFkZDE2Yzc0NGE0L21haW4ubXA0&pubid=66036796001",
+        "title": "The Display of VEVOR Garden Fencing Hardware Cloth",
+        "id": "6336753864112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/af88bff0-27d4-4920-8916-08fefbfd91d0/main/160x90/46s672ms/match/image.jpg?pubId=66036796001",
+        "description": "The Detail Display of VEVOR Garden Fencing Hardware Cloth"
+      }
+    ],
+    "ratings_total": 15,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fence Application",
+        "value": "Garden"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "24 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Fencing & Gates",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates/N-5yc1vZbrk7"
+      },
+      {
+        "name": "Hardware Cloth Fencing",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Hardware-Cloth-Fencing/N-5yc1vZcd55"
+      }
+    ],
+    "buybox_winner": {
+      "price": 83.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 108.99,
+      "unit": "box"
+    }
+  }
+}

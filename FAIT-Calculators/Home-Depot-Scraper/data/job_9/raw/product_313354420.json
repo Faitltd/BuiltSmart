@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13640,
+    "overage_used": 3640,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Handprint-3-4-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-719-in-x-23-75-in-x-47-75-in-Project-Panel-414716/313354420"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:52:30.950Z",
+    "processed_at": "2025-05-01T16:52:35.891Z",
+    "total_time_taken": 4.94,
+    "homedepot_url": "https://www.homedepot.com/p/Handprint-3-4-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-719-in-x-23-75-in-x-47-75-in-Project-Panel-414716/313354420"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Handprint-3-4-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-719-in-x-23-75-in-x-47-75-in-Project-Panel-414716/313354420",
+    "brand": "Handprint",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Handprint/N-5yc1vZc7hmZubm",
+    "title": "Handprint 3/4 in. x 2 ft. x 4 ft. Radiata Pine Plywood (Actual: 0.719 in. x 23.75 in. x 47.75 in.) Project Panel",
+    "upc": "090489678753",
+    "item_id": "313354420",
+    "parent_id": "326358251",
+    "store_sku": "1005447639",
+    "model_number": "414716",
+    "description": "If you love the simple, clean, modern look of light hardwood - but not the price - Radiata Pine plywood is the perfect, affordable, great-looking solution. Use Radiata Pine for DIY projects such as shelving, hobbies, small repairs and home decor. Use for larger projects such as stairs, paneling, furniture and much more. Experience the exceptional versatility of Radiata Pine project panels and enjoy outstanding project results every time. California residents: See Proposition 65.",
+    "favorite_count": 26,
+    "aisle": "FW",
+    "bay": "010",
+    "feature_bullets": [
+      "Affordable, sanded, strong, stable and good-looking",
+      "Ideal for DIY projects of all kinds from hobbies to built-ins",
+      "Grade AC: Fully sanded face and touch-sanded back"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Ideal for a wide variety of DIY projects from home decor to utility repairs",
+      "Sanded surface makes it perfect for all kinds of custom craft, hobby and DIY finishes",
+      "Sized for easy handling, transportation and storage",
+      "Economically priced for an extensive range of DIY endeavors",
+      "Panels are right-sized for convince, with less material leftover and/or wasted",
+      "Veneer core built with cross-layering technology",
+      "Can be cut, drilled, routed, glued, fastened and finished with ordinary woodworking tools",
+      "For best results, only use in weather-protected outside areas",
+      "Hot-dipped galvanized or stainless-steel fasteners recommended",
+      "Counter-sinking screws is recommended to maintain a smooth appearance",
+      "For the cleanest cut, use an 80-tooth or higher table saw blade intended for cutting wood products"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7932b4cb-f67f-4774-aeb6-690f59712b8b/svn/handprint-project-panels-414716-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cee946ca-639a-49aa-883f-2f5d3719ec10/svn/handprint-project-panels-414716-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6fec5178-2bd6-4dac-b0c4-2c401d4e1c3e/svn/handprint-project-panels-414716-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/346e78a4-f280-44a6-b56b-0b9ac08e5816/svn/handprint-project-panels-414716-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e5ff5112-ae8b-4553-9423-d1ca8902a3d6/svn/handprint-project-panels-414716-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7932b4cb-f67f-4774-aeb6-690f59712b8b/svn/handprint-project-panels-414716-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/60c6f0d8-6d6c-4313-bc15-c51a30a14ca0/main.mp4?fastly_token=NjgzODI2ZTdfNDk4ZDU0NTUzODA5Y2M5MTExNjZkZTI4NzgwOWNhMWE2MTQzZmMxMWM5YzIwOTMxYWFlNjRjNDQ1NzdiNTIyNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNTA4NDE5ZS1hNzlmLTQwMmEtOGRiZC02ODQyNDdjMGU3OWIvNjBjNmYwZDgtNmQ2Yy00MzEzLWJjMTUtYzUxYTMwYTE0Y2EwL21haW4ubXA0&pubid=66036796001",
+        "title": "Handprint Overview",
+        "id": "6298378923001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/main/160x90/15s40ms/match/image.jpg?pubId=66036796001",
+        "description": "Brand Overview"
+      }
+    ],
+    "ratings_total": 319,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Sanded Plywood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See Store for Details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "48.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.719 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "variants": [
+      {
+        "title": "2 ft. x 4 ft.~~3/4~~Radiata Pine",
+        "link": "https://www.homedepot.com/p/Handprint-3-4-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-719-in-x-23-75-in-x-47-75-in-Project-Panel-414716/313354420",
+        "item_id": "313354420"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~1/2~~Radiata Pine",
+        "link": "https://www.homedepot.com/p/Handprint-1-2-in-x-2-ft-x-4-ft-Radiata-Pine-Plywood-Actual-0-469in-x-23-75-in-x-47-75-in-Project-Panel-414715/313354418",
+        "item_id": "313354418"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 24.94,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 23
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 23,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

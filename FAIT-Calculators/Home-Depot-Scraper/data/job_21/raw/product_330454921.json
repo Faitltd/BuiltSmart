@@ -1,0 +1,221 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14319,
+    "overage_used": 4319,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-DTT-3-25-in-x-7-in-14-Gauge-Stainless-Steel-Deck-Tension-Tie-for-2x-Lumber-with-2-1-2-in-SDS-Screws-DTT2SS-SDS2-5/330454921"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:26:26.872Z",
+    "processed_at": "2025-05-01T18:26:37.030Z",
+    "total_time_taken": 10.16,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-DTT-3-25-in-x-7-in-14-Gauge-Stainless-Steel-Deck-Tension-Tie-for-2x-Lumber-with-2-1-2-in-SDS-Screws-DTT2SS-SDS2-5/330454921"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-DTT-3-25-in-x-7-in-14-Gauge-Stainless-Steel-Deck-Tension-Tie-for-2x-Lumber-with-2-1-2-in-SDS-Screws-DTT2SS-SDS2-5/330454921",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/Simpson-Strong-Tie/N-5yc1vZaq9xZ615",
+    "title": "Simpson Strong-Tie DTT 3.25 in. x 7 in. 14-Gauge Stainless-Steel Deck Tension Tie for 2x Lumber with 2-1/2 in. SDS Screws",
+    "upc": "707392541905",
+    "item_id": "330454921",
+    "store_sku": "1011703517",
+    "model_number": "DTT2SS-SDS2.5",
+    "description": "The DTT2SS is made from stainless steel for applications in higher exposure environments. Whether it's a deck guardrail post application or the lateral-load connection from the deck to the adjacent structure, the stainless-steel DTT2SS is the best choice for seaside applications or those calling for more corrosive preservative-treated lumber formulations. It fastens to the framing members with stainless-steel Simpson Strong-Tie Strong-Drive SDS wood screws (included).",
+    "feature_bullets": [
+      "Global leader in structural construction products since 1978",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Eliminates the need to access the floor joists inside the house",
+      "Ties the guardrail post into deck framing",
+      "Stronger and safer than nails, lag screws or bolts",
+      "Ties the deck into the house for a stronger, safer ledger connection",
+      "Helps prevent a common type of deck failure",
+      "Made from 14-Gauge steel",
+      "Stainless steel for high/severe corrosion resistance",
+      "Includes 1/4 in. x 2-1/2 in. strong-drive SDS heavy-duty connector screws"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4e4b7a04-5d88-507c-aa2a-b4efb07c195e/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b9772371-25f8-4e39-ab84-225b62d247fa/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dd324a91-eecf-405f-b03d-3fc9775d071d/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5472b19b-671e-4cf2-bbdd-01921aca0e44/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0db3c11f-db11-4aad-94e9-29599caaaf54/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f6738509-e3ab-460d-9ad8-c4e3e329aa64/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8e175e21-ef52-48b1-be66-a9c1c6347dc0/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d270a67-8ddb-45fb-b6fe-e7f3199d9f55/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4e4b7a04-5d88-507c-aa2a-b4efb07c195e/svn/simpson-strong-tie-wood-connectors-dtt2ss-sds2-5-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/3eda8b59-87d7-4d72-9b0b-a31e999ba3ba/a273d4bc-e734-47e8-a029-4fa7fc84590a/main.mp4?fastly_token=NjgxM2JjMGNfM2FiZDFhNzNkMDU0OGQ4ZGVkMDExNGY4MDg0MDJkNDM5NWJiMGNlMTRiMWJmZjI4ODcwNDY3Nzk3MzU5MTFiZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvM2VkYThiNTktODdkNy00ZDcyLTliMGItYTMxZTk5OWJhM2JhL2EyNzNkNGJjLWU3MzQtNDdlOC1hMDI5LTRmYTdmYzg0NTkwYS9tYWluLm1wNA%3D%3D",
+        "title": "A_RetailBrandSizzle_Promo_RetailBrandSizzle",
+        "id": "6347031274112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/3eda8b59-87d7-4d72-9b0b-a31e999ba3ba/6ca28a65-4e74-4fed-b18c-46100d8e08c3/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Stainless steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "14"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.75 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Type",
+        "value": "Other"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.7 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "7.05 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Wood Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/N-5yc1vZaq9x"
+      }
+    ],
+    "buybox_winner": {
+      "price": 36.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

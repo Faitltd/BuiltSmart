@@ -1,0 +1,236 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14675,
+    "overage_used": 4675,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Coastal-Bluff-Grooved-Edge-Brown-Composite-Deck-Board-CB010612E2G01/308552964"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:02:44.053Z",
+    "processed_at": "2025-05-01T19:02:52.976Z",
+    "total_time_taken": 8.92,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Coastal-Bluff-Grooved-Edge-Brown-Composite-Deck-Board-CB010612E2G01/308552964"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Coastal-Bluff-Grooved-Edge-Brown-Composite-Deck-Board-CB010612E2G01/308552964",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Enhance Naturals 1 in. x 6 in. x 12 ft. Coastal Bluff Grooved Edge Brown Composite Deck Board",
+    "upc": "652835289176",
+    "item_id": "308552964",
+    "parent_id": "328925344",
+    "store_sku": "1004078980",
+    "model_number": "CB010612E2G01",
+    "description": "The beauty of wood with the ease of composite. With its authentic wood-grain appearance, A true brown, Coastal Bluff is a medley of earthy taupe hues, featuring a low-maintenance, wood-like grain pattern. Imagine enjoying the very same rich streaking now and 25-years from now without costly, continual upkeep.",
+    "favorite_count": 13,
+    "feature_bullets": [
+      "Made of high-performance composite for durability",
+      "Low-maintenance material; cleans easily with soap and water",
+      "Backed by a 25-year limited residential warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Medley of true, earthy browns",
+      "Beauty of wood with the ease of composite",
+      "Made of high-performance composite for durability, won't rot, warp or splinter, unlike wood",
+      "Protective outer shell resists fading and staining, no sanding or painting required",
+      "Quality low-maintenance material, cleans easily with soap and water",
+      "Easy-to-build decking, no specialty tools required",
+      "Made from 95% recycled materials, with a low carbon footprint",
+      "Backed by the 25-year limited residential and fade and stain warranties",
+      "Available in grooved-edge boards for our hidden deck fasteners or square-edge for traditional installation"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b3c07ee3-943d-4905-9a0d-fe142c79eebe/svn/brown-trex-composite-decking-boards-cb010612e2g01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4651a9f9-036f-4e13-8c87-0b9e7da060b7/svn/brown-trex-composite-decking-boards-cb010612e2g01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c210f801-ee84-4259-b8a8-2fd369c37da1/svn/brown-trex-composite-decking-boards-cb010612e2g01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/57b377ae-ad95-47dc-9938-9ab09b75a376/svn/brown-trex-composite-decking-boards-cb010612e2g01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/673cb174-5d16-4023-af7f-a8cfa335ffa4/svn/brown-trex-composite-decking-boards-cb010612e2g01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/52a6f99a-dcca-4c5f-8643-8aa37910b478/svn/brown-trex-composite-decking-boards-cb010612e2g01-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/61b3a34a-b69c-432a-9e85-b45ee953a5f5/svn/brown-trex-composite-decking-boards-cb010612e2g01-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e65e0758-bae7-42b5-9db1-2a1d33cd7060/svn/brown-trex-composite-decking-boards-cb010612e2g01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/91f4b26c-6bea-463b-aed0-05dd52a43d40/svn/brown-trex-composite-decking-boards-cb010612e2g01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c210f801-ee84-4259-b8a8-2fd369c37da1/svn/brown-trex-composite-decking-boards-cb010612e2g01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/57b377ae-ad95-47dc-9938-9ab09b75a376/svn/brown-trex-composite-decking-boards-cb010612e2g01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b3c07ee3-943d-4905-9a0d-fe142c79eebe/svn/brown-trex-composite-decking-boards-cb010612e2g01-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Backed by the Trex 25-Year Limited Residential Warranty and the Trex 25-Year Limited Residential Fade and Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "24"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Brown~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Coastal-Bluff-Grooved-Edge-Brown-Composite-Deck-Board-CB010612E2G01/308552964",
+        "item_id": "308552964"
+      },
+      {
+        "title": "Brown~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-5-5-in-x-16-ft-Coastal-Bluff-Grooved-Edge-Capped-Composite-Decking-Board-CB010616E2G01/308552976",
+        "item_id": "308552976"
+      },
+      {
+        "title": "Brown~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-5-5-in-x-8-ft-Coastal-Bluff-Square-Edge-Capped-Composite-Decking-Board-CB010608E2S01/308552943",
+        "item_id": "308552943"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 30.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 161,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

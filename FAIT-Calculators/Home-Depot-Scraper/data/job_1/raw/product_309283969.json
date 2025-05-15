@@ -1,0 +1,318 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14973,
+    "overage_used": 4973,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/BrassCraft-1-2-in-Comp-Inlet-x-3-8-in-Comp-Outlet-1-4-Turn-Angle-Valve-5-pack-G2CR19X-CM5/309283969"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:48:16.557Z",
+    "processed_at": "2025-05-02T21:48:20.938Z",
+    "total_time_taken": 4.38,
+    "homedepot_url": "https://www.homedepot.com/p/BrassCraft-1-2-in-Comp-Inlet-x-3-8-in-Comp-Outlet-1-4-Turn-Angle-Valve-5-pack-G2CR19X-CM5/309283969"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Comp-Inlet-x-3-8-in-Comp-Outlet-1-4-Turn-Angle-Valve-5-pack-G2CR19X-CM5/309283969",
+    "brand": "BrassCraft",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Valves-Shut-off-Valves/BrassCraft/N-5yc1vZbqlwZa4",
+    "title": "BrassCraft 1/2 in. Comp Inlet x 3/8 in. Comp Outlet 1/4-Turn Angle Valve (5-pack)",
+    "upc": "026613180779",
+    "item_id": "309283969",
+    "parent_id": "326344898",
+    "store_sku": "1004368206",
+    "model_number": "G2CR19X CM5",
+    "description": "BrassCraft 1/2 in. Nom Compression Inlet x 3/8 in. OD Compression Outlet 1/4-Turn Angle Valve controls water flow to household plumbing fixtures - faucets, toilets, dishwashers, icemakers, washing machines, etc. The angle valve is most often used where the water pipe enters the room from the wall. With a 90\u00b0 turn of the valve handle, you are able to stop the flow of water leading to the plumbing fixture, allowing for maintenance and repair without shutting off the water to the entire home.",
+    "favorite_count": 179,
+    "aisle": "09",
+    "bay": "013",
+    "feature_bullets": [
+      "Compatible with copper or PEX (requires tube insert)",
+      "1/4-turn water flow control",
+      "Designed to operate even after long periods without use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Machined one-piece brass body provides strength, durability and long-lasting performance",
+      "1/2 in. nom comp Inlet x 3/8 in. OD comp outlet 1/4-turn angle stop",
+      "Use with Copper",
+      "For use in potable water distribution systems; not intended for recirculating water systems that produce continuous use temperatures above 115\u00b0 F; for those applications, use our KT series ball stops",
+      "1-piece shut-off mechanism provides smooth on-off operation without freezes even after long periods of non-use",
+      "Positive 1/4 turn shut-off",
+      "Easy-to-remove handle protects against accidental operation during rough-ins",
+      "Chrome finish",
+      "100% leak tested to ensure reliable, leak-free performance",
+      "Pro-pack jars",
+      "Temperature rating: 40\u00b0 to 160\u00b0F",
+      "Pressure rating: 125 psi maximum",
+      "Certified to IAPMO ASME A112.18.1/CSA B125.1"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/9ec6d68e-aa51-4f01-b566-1ae0852aaaae/svn/chrome-plated-brass-brasscraft-shut-off-valves-g2cr19x-cm5-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/13dd9611-ef01-4638-88d7-1b4856596835/svn/chrome-plated-brass-brasscraft-shut-off-valves-g2cr19x-cm5-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/915896c2-7849-4bd7-ba42-9bca186bd332/svn/chrome-plated-brass-brasscraft-shut-off-valves-g2cr19x-cm5-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8f70ab9-d790-44cd-b8c2-c10535d0cb73/svn/chrome-plated-brass-brasscraft-shut-off-valves-g2cr19x-cm5-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4c282317-fe3c-412b-9fc2-b535eec4f33f/svn/chrome-plated-brass-brasscraft-shut-off-valves-g2cr19x-cm5-1d_1000.jpg",
+        "type": "image_bottom_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/9ec6d68e-aa51-4f01-b566-1ae0852aaaae/svn/chrome-plated-brass-brasscraft-shut-off-valves-g2cr19x-cm5-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/cbf5963f-3f9b-4ec3-a3f0-3594923d5091/0cb0a1bc-9e47-439b-8035-0481871e0b8c/main.mp4?fastly_token=NjgzOTc0ZGFfYjQ4MDM1YTQ3MjU3NGE0ZjZkNzI0NTljZDdkNTgyYWJhMGQ1OGI0NTZmZmI5N2NhZTAyNzU2MGUwZjIyOTczNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jYmY1OTYzZi0zZjliLTRlYzMtYTNmMC0zNTk0OTIzZDUwOTEvMGNiMGExYmMtOWU0Ny00MzliLTgwMzUtMDQ4MTg3MWUwYjhjL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install a Compression Valve",
+        "id": "3958462210001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/cbf5963f-3f9b-4ec3-a3f0-3594923d5091/56dfb681-f429-48f0-9411-dddfb0f74fdf/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn how to install or replace a water supply Compression valve. \r\n"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/2416b8bf-6b10-4d46-aa60-7b82b13d581a/87ab5a25-0e60-4d3d-a358-d5849b964eb6/main.mp4?fastly_token=NjgzOTZlMjRfZjZkOTk1OWYxNDgzODQ0ODdjMWViYTRlYTFlNTQ4ODc1Y2ExNjI2NGFkZWRlYzIxOTNlNWViOTNiYjFhZDE5MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yNDE2YjhiZi02YjEwLTRkNDYtYWE2MC03YjgyYjEzZDU4MWEvODdhYjVhMjUtMGU2MC00ZDNkLWEzNTgtZDU4NDliOTY0ZWI2L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Select a Water Connection for your Faucet or Toilet",
+        "id": "4598225126001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/2416b8bf-6b10-4d46-aa60-7b82b13d581a/995e74dd-1631-49d8-890b-ff190d848e68/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn How to Select a Water Connection for your Faucet or Toilet"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 2816,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application",
+        "value": "Potable Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Chrome-plated Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "Chrome"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Pipe Material",
+        "value": "Copper"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Product",
+        "value": "Faucet,Ice Maker,Other"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connection",
+        "value": "Comp x Comp"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Special Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Inlet Fitting End Type",
+        "value": "Compression"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Pressure (PSI)",
+        "value": "125 PSI"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Working Temperature (F)",
+        "value": "160"
+      },
+      {
+        "group_name": "Details",
+        "name": "Outlet Fitting End Type",
+        "value": "Compression"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": ".00703 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Remote Access",
+        "value": "No Remote Access"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Stop Valve Type",
+        "value": "Angle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Configuration",
+        "value": "Angle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Connection",
+        "value": "Compression"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Type",
+        "value": "Supply Stop"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Manufacturer Warranty.  See BrassCraft.com"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Inlet Diameter (In.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Inlet Size",
+        "value": "1/2 In."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Outlet Diameter (In.)",
+        "value": "3/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.07 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "1.50 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "1.5000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.18 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Valve Inlet Diameter (in.)",
+        "value": "1/2"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1/2~~1",
+        "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-Inlet-x-3-8-in-Compression-Outlet-1-4-Turn-Angle-Valve-G2CR19X-C1/202047059",
+        "item_id": "202047059"
+      },
+      {
+        "title": "1/2~~5",
+        "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Comp-Inlet-x-3-8-in-Comp-Outlet-1-4-Turn-Angle-Valve-5-pack-G2CR19X-CM5/309283969",
+        "item_id": "309283969"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Valves",
+        "link": "https://www.homedepot.com/b/Plumbing-Valves/N-5yc1vZbbl6"
+      },
+      {
+        "name": "Shut-off Valves",
+        "link": "https://www.homedepot.com/b/Plumbing-Valves-Shut-off-Valves/N-5yc1vZbqlw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 34.87,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 24,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 103,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

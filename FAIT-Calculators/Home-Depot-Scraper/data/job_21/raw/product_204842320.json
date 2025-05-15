@@ -1,0 +1,215 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14449,
+    "overage_used": 4449,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HSS-Galvanized-Stud-Shoe-for-Triple-2x-Nominal-Lumber-with-Strong-Drive-SDS-Screws-HSS2-3-SDS3/204842320"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:39:43.991Z",
+    "processed_at": "2025-05-01T18:39:49.436Z",
+    "total_time_taken": 5.45,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HSS-Galvanized-Stud-Shoe-for-Triple-2x-Nominal-Lumber-with-Strong-Drive-SDS-Screws-HSS2-3-SDS3/204842320"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HSS-Galvanized-Stud-Shoe-for-Triple-2x-Nominal-Lumber-with-Strong-Drive-SDS-Screws-HSS2-3-SDS3/204842320",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/Simpson-Strong-Tie/N-5yc1vZaq9xZ615",
+    "title": "Simpson Strong-Tie HSS Galvanized Stud Shoe for Triple 2x Nominal Lumber, with Strong-Drive SDS Screws",
+    "upc": "707392345305",
+    "item_id": "204842320",
+    "parent_id": "326914563",
+    "store_sku": "1000061548",
+    "model_number": "HSS2-3-SDS3",
+    "description": "Simpson Strong-Tie connectors make projects easier to build while making them stronger and safer. They are engineered and tested to perform and are manufactured to the highest quality standards. Whether working on a home project or building a structure to comply with building codes, go with the choice of engineers and contractors, go with genuine Simpson Strong-Tie connectors. HSS stud shoes provide tension load capacity as well as increased compression loads.",
+    "favorite_count": 26,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Stud shoes reinforce studs notched in construction",
+      "Installs over pipe up to 2-3/8-in outside diameter",
+      "Provide tension load capacity as well as increased compression loads",
+      "Flared flange provides greater strength",
+      "Not a total replacement of removed material",
+      "Nominal stud size: triple 2x",
+      "Made from 16-Gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with (12) 1/4 in. x 3 in. Strong-Drive SDS Heavy-Duty Connector screws",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e11055ae-5b22-48d2-8392-df6c1fe01730/svn/simpson-strong-tie-wood-connectors-hss2-3-sds3-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7d0e9071-7666-4a64-bf4b-257d4e15854c/svn/simpson-strong-tie-wood-connectors-hss2-3-sds3-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/94935f87-6bc2-4889-8284-1ff2991bbf4f/svn/simpson-strong-tie-wood-connectors-hss2-3-sds3-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-wood-connectors-hss2-3-sds3-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e11055ae-5b22-48d2-8392-df6c1fe01730/svn/simpson-strong-tie-wood-connectors-hss2-3-sds3-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxM2M2ZDhfYTMwZGYwYWU0NjIzNzgxZjVjZTA1MGNmNTEzZmFjYTgxNTA3ZGZiYjkyYTEyNzE2NDhhZDQ1ZmQ5MTA5OTExZl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 21,
+    "rating": 4.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "16"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.73 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Type",
+        "value": "Other"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "3.03 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "3.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7.13 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "2.56 in",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HSS-Galvanized-Stud-Shoe-for-2x-Nominal-Lumber-with-Strong-Drive-SDS-Screws-4-Pack-HSS2KT/205227151",
+        "item_id": "205227151"
+      },
+      {
+        "title": "7.13 in",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HSS-Galvanized-Stud-Shoe-for-Triple-2x-Nominal-Lumber-with-Strong-Drive-SDS-Screws-HSS2-3-SDS3/204842320",
+        "item_id": "204842320"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Wood Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/N-5yc1vZaq9x"
+      }
+    ],
+    "buybox_winner": {
+      "price": 16.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 72,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 72,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14464,
+    "overage_used": 4464,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-x-6-12-Cu-Ft-Trex-Signature-Composite-Deck-Board-Whidbey-Grooved-Actual-Size-94-in-W-x-5-1-2-in-WY010612NG01-WY010612NG01/331157344"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:41:28.345Z",
+    "processed_at": "2025-05-01T18:42:16.151Z",
+    "total_time_taken": 47.81,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-x-6-12-Cu-Ft-Trex-Signature-Composite-Deck-Board-Whidbey-Grooved-Actual-Size-94-in-W-x-5-1-2-in-WY010612NG01-WY010612NG01/331157344"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-x-6-12-Cu-Ft-Trex-Signature-Composite-Deck-Board-Whidbey-Grooved-Actual-Size-94-in-W-x-5-1-2-in-WY010612NG01-WY010612NG01/331157344",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 x 6-12 Cu. Ft. Trex Signature Composite Deck Board Whidbey Grooved (Actual Size: .94 in. W. x 5-1/2 in.) WY010612NG01",
+    "upc": "652835231595",
+    "item_id": "331157344",
+    "parent_id": "331943119",
+    "store_sku": "1009730316",
+    "model_number": "WY010612NG01",
+    "description": "Whatever your vision, signature decking invites you to put your personal stamp on the great outdoors, transforming your backyard into a haven of natural beauty and relaxation. With distinct durability, signature decking is crafted with the beauty of nature in mind. Immerse yourself in the mist of Whidbey, where salt-kissed cliffs meet the rolling fog in a seamless embrace. Or, find solace in the serene seclusion of Ocracoke, where sandy dunes and marshy shores create an oasis of tranquility. Trex signature decking is setting a new standard in outdoor living. Explore signature railing; the finishing touch to complement and complete your look.",
+    "descriptive_attributes": [
+      "Distinctively durable and luxuriously crafted with eco-friendly composite made from recycled and reclaimed materials",
+      "Retreat to an island of misty cliffs, where salt-washed fog rolls in like a grey morning blanket",
+      "High-performance, low-maintenance boards clean easily with soap and water and never need sanding, staining, or painting",
+      "Unmatched high-performance shell: fade, stain, scratch, and mold-resistance",
+      "Backed by 50-year limited residential and fade and stain warranties",
+      "Grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Altogether new design material for those who find joy at home and inspiration in nature",
+      "Made of 95% recycled materials in the USA"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a402abd7-b57f-43de-9927-2c5fcc7dd222/svn/whidbey-trex-composite-decking-boards-wy010612ng01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3dbf4c78-166d-49b1-a817-392a3f0bdaa5/svn/whidbey-trex-composite-decking-boards-wy010612ng01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a402abd7-b57f-43de-9927-2c5fcc7dd222/svn/whidbey-trex-composite-decking-boards-wy010612ng01-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Whidbey"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 50-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "34"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Whidbey~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Signature-Composite-Deck-Board-Whidbey-Grooved-Actual-Size-94-in-W-x5-1-2-in-WY010620NG01-WY010620NG01/331157261",
+        "item_id": "331157261"
+      },
+      {
+        "title": "Whidbey~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-12-Cu-Ft-Trex-Signature-Composite-Deck-Board-Whidbey-Grooved-Actual-Size-94-in-W-x-5-1-2-in-WY010612NG01-WY010612NG01/331157344",
+        "item_id": "331157344"
+      },
+      {
+        "title": "Whidbey~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-16-Cu-Ft-Trex-Signature-Composite-Deck-Board-Whidbey-Grooved-Actual-Size-94-in-W-x5-1-2-in-WY010616NG01-WY010616NG01/331157312",
+        "item_id": "331157312"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14105,
+    "overage_used": 4105,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Extra-Strength-2-3-8-in-x-250-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8666-U/202723942"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:55:42.535Z",
+    "processed_at": "2025-05-01T17:55:47.983Z",
+    "total_time_taken": 5.45,
+    "homedepot_url": "https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Extra-Strength-2-3-8-in-x-250-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8666-U/202723942"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Extra-Strength-2-3-8-in-x-250-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8666-U/202723942",
+    "brand": "Saint-Gobain ADFORS",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tape/Saint-Gobain-ADFORS/N-5yc1vZc7qeZfey",
+    "title": "Saint-Gobain ADFORS FibaTape Extra-Strength 2-3/8 in. x 250 ft. Self-Adhesive Mesh Drywall Joint Tape",
+    "upc": "038662931158",
+    "item_id": "202723942",
+    "store_sku": "501510",
+    "model_number": "FDW8666-U",
+    "description": "FibaTape Extra Strength, self-adhesive drywall tape is perfect for areas prone to cracks like vaulted ceilings and archways. It features a patented multidirectional pattern that provides 60% greater crack resistance compared to standard mesh tape. The high strength adhesive makes it ideal for applications with fluctuating temperatures.",
+    "favorite_count": 770,
+    "aisle": "24",
+    "bay": "018",
+    "collection": {
+      "id": "Family-319120896",
+      "name": "Family-319120896",
+      "link": "https://www.homedepot.com/collection/Building-Materials/FibaTape-Self-Adhesive-Mesh-Drywall-Tape-Collection/Family-319120896?omsid=202723942"
+    },
+    "feature_bullets": [
+      "Wider width for better gap coverage and stress distribution",
+      "Stronger adhesive for easy application in high humidity places",
+      "Patented tri-directional pattern for superior crack resistance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Ideal for areas prone to cracking",
+      "Open-mesh construction eliminates bubbles &amp; blisters common with paper drywall tape",
+      "Self-adhesive for easy applications",
+      "Embedding coat is not required",
+      "Ideal for applications that require additional strength including vaulted ceilings, arches, halls and veneer plaster jobs",
+      "<img src=\"https://inlinecontent.thdstatic.com/24/SAINT GOBAIN TECHNICAL F/Extra Strength (1) 1827385.jpg\">"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4ffdde3a-15c2-458d-934e-db5c7f71fd7e/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4453bf73-6ba0-45f9-acfc-823e1992dd32/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9bac2f7e-e6ea-459c-a1b5-0810bc5e6d2b/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e108e169-a3a3-4893-86c1-043b2ddf28d2/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d9890541-f1fc-4331-ba92-1f07d260b6bf/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bedc63c1-344c-4089-8cea-ee2025b71bb4/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9516e456-8102-4bda-81c1-4802c15d0d1e/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/54d9a99d-0b03-49bf-a08e-ce84ba0bcfba/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6ac230ec-7864-44ce-8b88-bf89a8e84b77/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1bf925ab-5b6f-4401-af69-71e746424479/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4ffdde3a-15c2-458d-934e-db5c7f71fd7e/svn/saint-gobain-adfors-drywall-tape-fdw8666-u-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/b67e4097-48da-4a00-be17-1ce151cf8a82/8fa7c262-16c9-40ff-bc65-825f54457514/main.mp4?fastly_token=NjgzODJkOWFfNjBjZjc5MDg2ODY1MjhmMjkzYWU0NTFmNjk0YjhjNGJlZGU2YTc0N2M3ZjUzYmI1YjgwZDQ0MTFlODc5OTkxOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iNjdlNDA5Ny00OGRhLTRhMDAtYmUxNy0xY2UxNTFjZjhhODIvOGZhN2MyNjItMTZjOS00MGZmLWJjNjUtODI1ZjU0NDU3NTE0L21haW4ubXA0&pubid=66036796001",
+        "title": "FibaTape Extra Strength Drywall Joint Tape",
+        "id": "6271891173001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/b67e4097-48da-4a00-be17-1ce151cf8a82/main/160x90/1m5s898ms/match/image.jpg?pubId=66036796001",
+        "description": "FibaTape Extra-Strength Self-Adhesive Mesh Drywall Joint Tape how-to Video"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 293,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Fiberglass Mesh,Mold Resistant,Perforated,Self Adhesive"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Fiberglass Mesh"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Rolls Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.10 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "0.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Tape Length (ft.)",
+        "value": "250"
+      }
+    ],
+    "keywords_list": [
+      "250 ft. Self-Adhesive Drywall Joint Tape",
+      "FDW8550-U"
+    ],
+    "keywords": "250 ft. Self-Adhesive Drywall Joint Tape, FDW8550-U",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Drywall",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall/N-5yc1vZar3d"
+      },
+      {
+        "name": "Drywall Tape",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tape/N-5yc1vZc7qe"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.65,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 40
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 216,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 216,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

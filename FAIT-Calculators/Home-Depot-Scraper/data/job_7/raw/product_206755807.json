@@ -1,0 +1,537 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13337,
+    "overage_used": 3337,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Semi-Gloss-Interior-Paint-GLN6411N-01/206755807"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:54:08.819Z",
+    "processed_at": "2025-05-01T13:54:13.377Z",
+    "total_time_taken": 4.56,
+    "homedepot_url": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Semi-Gloss-Interior-Paint-GLN6411N-01/206755807"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Semi-Gloss-Interior-Paint-GLN6411N-01/206755807",
+    "brand": "Glidden Premium",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Colors/Glidden-Premium/N-5yc1vZcaw8Z55a",
+    "title": "Glidden Premium 1 gal. Pure White Base 1 Semi-Gloss Interior Paint",
+    "upc": "056198677494",
+    "item_id": "206755807",
+    "parent_id": "331999122",
+    "store_sku": "644368",
+    "model_number": "GLN6411N-01",
+    "description": "Glidden Premium semi-gloss interior paint with primer offers exceptional value and a quality finish that helps beautify your high-traffic areas including trim, kitchens and bathrooms. Glidden Premium is a Zero VOC, Low Odor paint with primer that features good hide and coverage, a scrubbable and washable coating and a thick, easy to apply formula-all backed by a Lifetime Guarantee. Glidden Premium provides a mildew resistant coating that can be tinted into more than 1,100 Glidden colors and is formulated for lasting results, often for less than other leading brands. For more than 140 years, painters have trusted Glidden and Glidden paints to help them achieve smart, beautiful results and Glidden Premium delivers on this tradition with a durable finish at an exceptional value. Colorants added to this base paint may increase VOC level significantly depending on color choice.",
+    "favorite_count": 1119,
+    "aisle": "51",
+    "bay": "004",
+    "feature_bullets": [
+      "Scrubbable, washable finish to handle life\u2019s little mistakes",
+      "Good hide and coverage with easy soap and water clean-up",
+      "Pure white color, ready to use and tintable for colors"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Thick, easy to apply interior paint",
+      "Provides a scrubbable and washable painted surface on interior walls",
+      "Good paint color hide and wall coverage",
+      "Provides a mildew resistant interior paint coating",
+      "Low odor interior paint allows spaces to be occupied during paint projects",
+      "Easy cleanup with soap and water",
+      "1 gal. provides 300 sq. ft. - 400 sq. ft. of coverage",
+      "Zero VOC* Interior Paint",
+      "*Colorants added to this base paint may increase VOC level significantly depending on paint color choices",
+      "Actual paint colors may vary from on-screen and printer representations",
+      "Recommended for use on interior drywall, plaster, wood, brick, masonry, and concrete walls",
+      "Online price includes PaintCare fee in the following states: CA, CO, CT, DC, ME, MN, OR, RI, VT, WA",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/clean-air/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Clean Air</a>"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/78421ad6-25b8-44f5-a037-3afdd12668ba/svn/white-glidden-premium-paint-colors-gln6411n-01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/02e7514f-08fb-4ac3-90bb-7c44c300046b/svn/white-glidden-premium-paint-colors-gln6411n-01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/387f95cc-fe6a-4efe-b6a1-2c2558fab60c/svn/white-glidden-premium-paint-colors-gln6411n-01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cc14546d-c6d0-4cfa-b407-f0f1ca632d84/svn/white-glidden-premium-paint-colors-gln6411n-01-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/98e3ab97-cc8d-426b-9310-038d2888f96e/svn/white-glidden-premium-paint-colors-gln6411n-01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/03ed6d4b-a9d2-40d8-a977-4228eaf35d1f/svn/white-glidden-premium-paint-colors-gln6411n-01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9272bc66-e1dc-4921-8bc8-5b0b81ba5bbd/svn/white-glidden-premium-paint-colors-gln6411n-01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ae7ae9df-c721-4c0e-8f10-bb8e3e3008ef/svn/white-glidden-premium-paint-colors-gln6411n-01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e52039de-1aa8-4cb4-b396-fa0a72779ad4/svn/white-glidden-premium-paint-colors-gln6411n-01-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/78421ad6-25b8-44f5-a037-3afdd12668ba/svn/white-glidden-premium-paint-colors-gln6411n-01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "title": "Glidden_Interior_Paint_Application-Roller_Eng",
+        "id": "6371557269112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/800fbca9-21cb-4203-be45-79d63935be27/main/160x90/13s152ms/match/image.jpg?pubId=66036796001",
+        "description": "Application interior paint"
+      },
+      {
+        "title": "Glidden_Interior_Paint_How-To-Paint-A-Room-Project-Checklist_Eng",
+        "id": "6371568027112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/7dd2b163-d730-4013-a5cb-6b00ad05a5cb/main/160x90/21s312ms/match/image.jpg?pubId=66036796001",
+        "description": "How to paint a room\n"
+      }
+    ],
+    "ratings_total": 2784,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Approximate Coverage (sq. ft.)",
+        "value": "400"
+      },
+      {
+        "group_name": "Details",
+        "name": "Base Material",
+        "value": "Latex"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "60 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "HSL Value",
+        "value": "60.0:4.8:91.8"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hexadecimal Value",
+        "value": "EBEBE9"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Temperature for Use (F)",
+        "value": "50"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of coats recommended",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint & Primer in One",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Key Features",
+        "value": "Low Odor,Low VOC,Paint & Primer in One,Tintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Type",
+        "value": "Interior Paint"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint/Stain Clean Up",
+        "value": "Soap & Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Protection Type",
+        "value": "UV/Fade Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "RGB Value",
+        "value": "235:235:233"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sheen",
+        "value": "Semi-Gloss"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Material Use",
+        "value": "Brick,Drywall,Masonry,Plaster,Stone,Stucco,Vinyl,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Time before recoating (hours)",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tint Base",
+        "value": "Base 1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Transparency",
+        "value": "Solid"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Guarantee"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Container Size",
+        "value": "1 Gallon"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Flat/Matte~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-Gal-Pure-White-Base-1-Flat-Interior-Paint-with-Primer-PPG53-110-01/304343522",
+        "item_id": "304343522"
+      },
+      {
+        "title": "Interior Paint~~Glidden Essentials~~Eggshell~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-5-gal-Pure-White-Base-1-Eggshell-Interior-Paint-GLE-2011-05/206751504",
+        "item_id": "206751504"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Satin~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Satin-Interior-Paint-GLN6211N-01/206755798",
+        "item_id": "206755798"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Satin~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-qt-Pure-White-Base-1-Satin-Interior-Paint-GLN6211N-04/206755799",
+        "item_id": "206755799"
+      },
+      {
+        "title": "Interior Paint~~Glidden Essentials~~Semi-Gloss~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-1-gal-Pure-White-Base-1-Semi-Gloss-Interior-Paint-GLE-3011-01/206751508",
+        "item_id": "206751508"
+      },
+      {
+        "title": "Interior Paint~~Glidden Essentials~~Semi-Gloss~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-5-gal-Pure-White-Base-1-Semi-Gloss-Interior-Paint-GLE-3011-05/206751509",
+        "item_id": "206751509"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Flat/Matte~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-5-Gal-Pure-White-Base-1-Flat-Interior-Paint-with-Primer-PPG53-110-05/304343524",
+        "item_id": "304343524"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Essentials~~Satin~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-5-gal-White-Base-1-Satin-Exterior-Paint-GLE-9011N-05/310800908",
+        "item_id": "310800908"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Satin~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-5-gal-Pure-White-Base-1-Satin-Interior-Paint-GLN6211N-05/206755800",
+        "item_id": "206755800"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Ultra Flat~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-qt-Pure-White-Base-1-Flat-Interior-Paint-with-Primer-PPG53-110-04/304343528",
+        "item_id": "304343528"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Satin~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-5-gal-Pure-White-Base-1-Satin-Latex-Exterior-Paint-GL6911-05/100675019",
+        "item_id": "100675019"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Eggshell~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-Gal-Pure-White-Eggshell-Interior-Paint-and-Primer-PPG53-310-01/206751518",
+        "item_id": "206751518"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Semi-Gloss~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Semi-Gloss-Interior-Paint-GLN6411N-01/206755807",
+        "item_id": "206755807"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Semi-Gloss~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-5-gal-Pure-White-Base-1-Semi-Gloss-Latex-Exterior-Paint-GL6811-05/100675021",
+        "item_id": "100675021"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Eggshell~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-qt-Pure-White-Eggshell-Interior-Paint-and-Primer-PPG53-310-04/206751519",
+        "item_id": "206751519"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Satin~~8 Ounce",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-8-oz-Pure-White-Base-1-Satin-Interior-Paint-Sample-GLU6211N-16/302428040",
+        "item_id": "302428040"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Flat/Matte~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Flat-Latex-Exterior-Paint-GL6111-01/100675022",
+        "item_id": "100675022"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Essentials~~Satin~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-1-gal-White-Base-1-Satin-Exterior-Paint-GLE-9011N-01/313538850",
+        "item_id": "313538850"
+      },
+      {
+        "title": "Interior Paint~~Glidden Essentials~~Flat/Matte~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-1-gal-Pure-White-Base-1-Flat-Interior-Paint-GLE-1011-01/206751498",
+        "item_id": "206751498"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Eggshell~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Eggshell-Interior-Paint-GLN6011N-01/206755786",
+        "item_id": "206755786"
+      },
+      {
+        "title": "Interior Paint~~Glidden Essentials~~Flat/Matte~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-5-gal-Pure-White-Base-1-Flat-Interior-Paint-GLE-1011-05/206751499",
+        "item_id": "206751499"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Eggshell~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-qt-Pure-White-Base-1-Eggshell-Interior-Paint-GLN6011N-04/206755787",
+        "item_id": "206755787"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Flat/Matte~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-5-gal-Pure-White-Base-1-Flat-Latex-Exterior-Paint-GL6111-05/100675034",
+        "item_id": "100675034"
+      },
+      {
+        "title": "Interior Paint~~Glidden Essentials~~Eggshell~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-1-gal-Pure-White-Base-1-Eggshell-Interior-Paint-GLE-2011-01/206751503",
+        "item_id": "206751503"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Eggshell~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-5-gal-Pure-White-Base-1-Eggshell-Interior-Paint-GLN6011N-05/206755788",
+        "item_id": "206755788"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Ultra Flat~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-5-Gal-Pure-White-Base-1-Ultra-Flat-Interior-Paint-with-Primer-PPG53-010-05/322848289",
+        "item_id": "322848289"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Satin~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-Gal-Pure-White-Satin-Interior-Paint-and-Primer-PPG53-410-01/206751538",
+        "item_id": "206751538"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Satin~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-qt-Pure-White-Satin-Interior-Paint-and-Primer-PPG53-410-04/206751539",
+        "item_id": "206751539"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Satin~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Satin-Latex-Exterior-Paint-GL6911-01/100675042",
+        "item_id": "100675042"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Essentials~~Flat/Matte~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-1-gal-Pure-White-Base-1-Flat-Exterior-Paint-GLE-5011N-01/304187907",
+        "item_id": "304187907"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Semi-Gloss~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Semi-Gloss-Latex-Exterior-Paint-GL6811-01/100675043",
+        "item_id": "100675043"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Flat/Matte~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-qt-Pure-White-Base-1-Flat-Latex-Exterior-Paint-GL6111-04/100674980",
+        "item_id": "100674980"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Essentials~~Flat/Matte~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-5-gal-Pure-White-Base-1-Flat-Exterior-Paint-GLE-5011N-05/304187908",
+        "item_id": "304187908"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Satin~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-qt-Pure-White-Base-1-Satin-Latex-Exterior-Paint-GL6911-04/100674981",
+        "item_id": "100674981"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Essentials~~Semi-Gloss~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-1-gal-Pure-White-Base-1-Semi-Gloss-Exterior-Paint-GLE-7011N-01/304187911",
+        "item_id": "304187911"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Satin~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-5-Gal-Pure-White-Satin-Interior-Paint-and-Primer-PPG53-410-05/206751540",
+        "item_id": "206751540"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Semi-Gloss~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-qt-Pure-White-Semi-Gloss-Interior-Paint-and-Primer-PPG53-510-04/206751546",
+        "item_id": "206751546"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Essentials~~Semi-Gloss~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Essentials-5-gal-Pure-White-Base-1-Semi-Gloss-Exterior-Paint-GLE-7011N-05/304187912",
+        "item_id": "304187912"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Semi-Gloss~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-5-Gal-Pure-White-Semi-Gloss-Interior-Paint-and-Primer-PPG53-510-05/206751547",
+        "item_id": "206751547"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Semi-Gloss~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-Gal-Pure-White-Semi-Gloss-Interior-Paint-and-Primer-PPG53-510-01/206751545",
+        "item_id": "206751545"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Ultra Flat~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-1-Gal-Pure-White-Base-1-Ultra-Flat-Interior-Paint-with-Primer-PPG53-010-01/322848085",
+        "item_id": "322848085"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Semi-Gloss~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-5-gal-Pure-White-Base-1-Semi-Gloss-Interior-Paint-GLN6411N-05/206755810",
+        "item_id": "206755810"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Semi-Gloss~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-qt-Pure-White-Base-1-Semi-Gloss-Interior-Paint-GLN6411N-04/206755808",
+        "item_id": "206755808"
+      },
+      {
+        "title": "Interior Paint~~Glidden Diamond~~Eggshell~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Diamond-5-Gal-Pure-White-Eggshell-Interior-Paint-and-Primer-PPG53-310-05/206751520",
+        "item_id": "206751520"
+      },
+      {
+        "title": "Exterior Paint~~Glidden Premium~~Semi-Gloss~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-qt-Pure-White-Base-1-Semi-Gloss-Latex-Exterior-Paint-GL6811-04/100674996",
+        "item_id": "100674996"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Flat/Matte~~1 Quart",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-qt-Pure-White-Base-1-Flat-Interior-Paint-GLN9011N-04/206755818",
+        "item_id": "206755818"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Flat/Matte~~5 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-5-gal-Pure-White-Base-1-Flat-Interior-Paint-GLN9011N-05/206755819",
+        "item_id": "206755819"
+      },
+      {
+        "title": "Interior Paint~~Glidden Premium~~Flat/Matte~~1 Gallon",
+        "link": "https://www.homedepot.com/p/Glidden-Premium-1-gal-Pure-White-Base-1-Flat-Interior-Paint-GLN9011N-01/206755817",
+        "item_id": "206755817"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Colors",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Colors/N-5yc1vZcaw8"
+      }
+    ],
+    "buybox_winner": {
+      "price": 28.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "gallon",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 38
+        },
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 35120,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 194,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 35120,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

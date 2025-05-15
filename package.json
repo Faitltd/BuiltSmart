@@ -1,0 +1,26 @@
+{
+  "name": "buildsmart",
+  "version": "1.0.0",
+  "description": "Interactive Estimate Builder System",
+  "main": "index.js",
+  "scripts": {
+    "start:backend": "cd backend && npm run dev",
+    "start:frontend": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd backend && npm run build && cd ../frontend && npm run build",
+    "init-db": "cd backend && npm run init-db"
+  },
+  "keywords": [
+    "estimate",
+    "builder",
+    "home",
+    "improvement",
+    "remodeling"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

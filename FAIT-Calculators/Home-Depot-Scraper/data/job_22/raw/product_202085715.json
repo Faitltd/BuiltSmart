@@ -1,0 +1,178 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14293,
+    "overage_used": 4293,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Swaner-Hardwood-5-2-mm-1-4-in-Category-4-ft-x-8-ft-Birch-Plywood-165891/202085715"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:24:58.280Z",
+    "processed_at": "2025-05-01T18:25:56.308Z",
+    "total_time_taken": 58.03,
+    "homedepot_url": "https://www.homedepot.com/p/Swaner-Hardwood-5-2-mm-1-4-in-Category-4-ft-x-8-ft-Birch-Plywood-165891/202085715"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Swaner-Hardwood-5-2-mm-1-4-in-Category-4-ft-x-8-ft-Birch-Plywood-165891/202085715",
+    "brand": "Swaner Hardwood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/Swaner-Hardwood/N-5yc1vZc7r1Zots",
+    "title": "Swaner Hardwood 5.2 mm (1/4 in. Category) 4 ft. x 8 ft. Birch Plywood",
+    "upc": "728927005013",
+    "item_id": "202085715",
+    "parent_id": "330629085",
+    "store_sku": "1003912450",
+    "model_number": "165891",
+    "description": "This hardwood plywood is perfect for interior use from a practical as well as an aesthetic point of view, nothing else has such timeless good looks or provides such a sense of well-being. This fine hardwood plywood can be used for a wide range of applications including cabinet components, furniture, wall paneling, drawer bottoms, and much more. The MDF core construction ensures extra stability and flatness.",
+    "favorite_count": 213,
+    "feature_bullets": [
+      "Versatile use for furniture, cabinets, shelves, and more",
+      "Calibrated core to enhance stability and durability",
+      "Paintable or stainable for customized use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "5.2 mm x 4 ft. x 8 ft.",
+      "CARB Phase II Certified",
+      "Hardwood face and back veneer",
+      "Can be primed and painted or stained to a beautiful finish",
+      "Easy to work with, great for machining and finishing",
+      "Practical way to bring warmth and beauty to any project",
+      "For interior use",
+      "Note: Product may vary by store.",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/276be74d-4ff5-4a4e-bc6a-d24caa3b5f03/svn/swaner-hardwood-hardwood-plywood-165891-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/276be74d-4ff5-4a4e-bc6a-d24caa3b5f03/svn/swaner-hardwood-hardwood-plywood-165891-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 137,
+    "rating": 3.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "C2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Sanded,UV Prefinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.216 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "plywood",
+      "hardwood plywood",
+      "lumber",
+      "hardwood lumber",
+      "birch plywood",
+      "birch lumber",
+      "7/32 in. plywood",
+      "7/32 in. lumber",
+      "Swaner plywood",
+      "Swaner lumber"
+    ],
+    "keywords": "plywood, hardwood plywood, lumber, hardwood lumber, birch plywood, birch lumber, 7/32 in. plywood, 7/32 in. lumber, Swaner plywood, Swaner lumber",
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~7/32",
+        "link": "https://www.homedepot.com/p/Swaner-Hardwood-Underlayment-Common-7-32-in-x-4-ft-x-8-ft-Actual-0-196-in-x-48-in-x-96-in-492930/202085721",
+        "item_id": "202085721"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~1/4",
+        "link": "https://www.homedepot.com/p/Swaner-Hardwood-5-2-mm-1-4-in-Category-4-ft-x-8-ft-Birch-Plywood-165891/202085715",
+        "item_id": "202085715"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Hardwood Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/N-5yc1vZc7r1"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13662,
+    "overage_used": 3662,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Loctite-Fireblock-12-oz-Spray-Foam-Sealant-2866858/323830711"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:08.903Z",
+    "processed_at": "2025-05-01T16:53:13.523Z",
+    "total_time_taken": 4.62,
+    "homedepot_url": "https://www.homedepot.com/p/Loctite-Fireblock-12-oz-Spray-Foam-Sealant-2866858/323830711"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Loctite-Fireblock-12-oz-Spray-Foam-Sealant-2866858/323830711",
+    "brand": "Loctite",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/Loctite/N-5yc1vZbaxjZ4ck",
+    "title": "Loctite Fireblock 12 oz. Spray Foam Sealant",
+    "upc": "079340654846",
+    "item_id": "323830711",
+    "parent_id": "327654224",
+    "store_sku": "1009232510",
+    "model_number": "2866858",
+    "description": "Loctite Fire Block Foam is a specially designed insulating foam to fill gaps and resist the migration of fire and hot gasses in Type V residential (wood frame) construction. This foam is orange in color and is easily identifiable on the jobsite. Best for use where any fire rated foam is needed such as electrical, plumbing and HVAC penetrations. UL Certified and ASTM tested.",
+    "aisle": "13",
+    "bay": "EC3",
+    "feature_bullets": [
+      "Specialty foam resists the spread of fire & smoke",
+      "Bright orange color",
+      "ASTM tested & UL certified"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Specially formulated for fire blocking applications",
+      "Orange in color",
+      "Flame spread - 5",
+      "Smoke development - 0",
+      "Fire rated and tested",
+      "UL 723/ASTM E-84",
+      "ASTM E814 (modified)",
+      "NFPA 286 (modified)",
+      "IRC and IBC conformance"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/31483af5-96e3-4089-8832-de6012fe20a6/svn/loctite-spray-foam-insulation-2866858-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5d2b13d5-2b1a-4b54-ae02-cc994b96a444/svn/loctite-spray-foam-insulation-2866858-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8db16a9e-c3f4-434d-80e9-475fdcbb6348/svn/loctite-spray-foam-insulation-2866858-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/243472c5-b6d0-40ce-81b3-0a5a0a381437/svn/loctite-spray-foam-insulation-2866858-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/50a7d7db-d956-4e18-8b6a-961dc9c01155/svn/loctite-spray-foam-insulation-2866858-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/18bb729c-8ff8-4dd5-a3e3-cab7a22f6bb3/svn/loctite-spray-foam-insulation-2866858-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/537e8573-b279-41a9-8ca8-a4034c333242/svn/loctite-spray-foam-insulation-2866858-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a530580-5e39-40a5-8ee4-4760dc605a8c/svn/loctite-spray-foam-insulation-2866858-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9c5127cd-53c2-417b-a722-68270ef2c576/svn/loctite-spray-foam-insulation-2866858-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7429d99d-e1c7-4cd9-ad42-449fc8329831/svn/loctite-spray-foam-insulation-2866858-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/31483af5-96e3-4089-8832-de6012fe20a6/svn/loctite-spray-foam-insulation-2866858-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/f947d299-5bda-40bb-82bd-58aedf73674f/68822c2a-0231-4c19-b923-01f63024fdb9/main.mp4?fastly_token=NjgxMzkyODNfMjQ2NDgzNzI0NDhhYTZlZDc0YWNlNGFhODg5YTdkZTIyZmY4OTVmYWJmM2FjYWNhN2NhMjVhYjBkODgzMWExYl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZjk0N2QyOTktNWJkYS00MGJiLTgyYmQtNThhZWRmNzM2NzRmLzY4ODIyYzJhLTAyMzEtNGMxOS1iOTIzLTAxZjYzMDI0ZmRiOS9tYWluLm1wNA%3D%3D",
+        "title": "2866858_01",
+        "id": "6332436758112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/f947d299-5bda-40bb-82bd-58aedf73674f/main/160x90/23s722ms/match/image.jpg",
+        "description": "Fireblock 12 oz. Spray Foam Sealant\n"
+      }
+    ],
+    "ratings_total": 155,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Compatible Install Surface",
+        "value": "Cement,Concrete,Copper Pipes,Existing Drywall,Existing Insulation,Fiberglass,Metal,PVC/CPVC Pipes,Pex Pipes,Plywood,Tile Flooring,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "10 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Install Temperature (F)",
+        "value": "14-95"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Features",
+        "value": "Fire Block Rated,Fire Resistant,Moisture Retardant,Mold Resistant,Paintable,Water Resistant,Wind Breaker"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value",
+        "value": "R4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value per Inch",
+        "value": "R4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Type",
+        "value": "Spray Foam Insulation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (oz.)",
+        "value": "12 oz"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Warranty Information",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cover Area Per Bag (sq. ft.)",
+        "value": "0 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "6 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "7.87 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.55 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1",
+        "link": "https://www.homedepot.com/p/Loctite-Fireblock-12-oz-Spray-Foam-Sealant-2866858/323830711",
+        "item_id": "323830711"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation/N-5yc1vZasbs"
+      },
+      {
+        "name": "Spray Foam Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/N-5yc1vZbaxj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 224
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 224,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

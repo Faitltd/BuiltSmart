@@ -1,0 +1,654 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13706,
+    "overage_used": 3706,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Home-Decorators-Collection-Lathem-Pine-12-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-77-sqft-case-VTRHDLATPIN7X48/327432147"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:54:58.866Z",
+    "processed_at": "2025-05-01T16:55:03.723Z",
+    "total_time_taken": 4.86,
+    "homedepot_url": "https://www.homedepot.com/p/Home-Decorators-Collection-Lathem-Pine-12-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-77-sqft-case-VTRHDLATPIN7X48/327432147"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lathem-Pine-12-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-77-sqft-case-VTRHDLATPIN7X48/327432147",
+    "brand": "Home Decorators Collection",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/Home-Decorators-Collection/N-5yc1vZbzjzZ4vr",
+    "title": "Home Decorators Collection Lathem Pine 12 MIL x 7 in. W x 48 in. L Waterproof Click Lock Luxury Vinyl Plank Flooring (23.77 sqft/case)",
+    "upc": "747583215451",
+    "item_id": "327432147",
+    "parent_id": "334680123",
+    "store_sku": "1010347299",
+    "model_number": "VTRHDLATPIN7X48",
+    "description": "Enhance your home with the Lathem Pine Luxury Vinyl Plank Flooring from Home Decorators Collection. Featuring warm natural wood tones with realistic grain patterns, this flooring delivers timeless beauty with modern durability. Each plank measures 7 in. W x 48 in. L with a 5 mm total thickness and a 12 MIL wear layer for superior protection against daily wear. The 100% waterproof design makes it perfect for moisture-prone areas like kitchens, bathrooms, and basements, while the pre-attached underlayment ensures added comfort and noise reduction. With an easy click-lock installation, this flooring is ideal for both DIYers and professionals. Whether upgrading your living space or tackling a full home renovation, Lathem Pine's rustic charm and high-performance features make it a versatile, stylish, and low-maintenance flooring solution.",
+    "is_exclusive": true,
+    "aisle": "45",
+    "bay": "013",
+    "feature_bullets": [
+      "Warm pine wood tones with realistic knots and grains",
+      "Durable 12 MIL wear layer resists daily wear and tear",
+      "DIY click-lock system provides quick, secure installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Color/finish: Lathem Pine showcases warm natural wood tones with authentic grain patterns, adding a rustic yet refined hardwood aesthetic to any space",
+      "Measurement: 5 mm thickness x 7 in. width x 48 in. length, featuring a durable 12 MIL wear layer for long-term performance",
+      "Coverage: 23.8 sq. ft. per case, 10-pieces per case, with a case weight of 41.23 lbs.",
+      "Aesthetic: The textured embossing and authentic wood grain enhance the visual depth and character, making it a statement flooring choice",
+      "Comfort: Comes with a pre-attached underlayment, ensuring added comfort underfoot and noise reduction for a quieter home",
+      "Installation versatility: Compatible with tile, wood, concrete, or vinyl subfloors, allowing for a seamless flooring upgrade",
+      "Ideal usage: Perfect for indoor residential and light commercial spaces, including living rooms, bedrooms, kitchens, and bathrooms",
+      "Durability: 100% waterproof, scratch-resistant, and pet-friendly, built to handle daily wear and maintain its beauty over time",
+      "Essential accessories: Pair with coordinating trims and moldings available at homedepot.com for a flawless finishing touch",
+      "Installation grade: Suitable for above grade, on grade, and below grade installations with a user-friendly click-lock system",
+      "Environment: Designed for temperature-controlled indoor environments, ensuring long-lasting stability and performance",
+      "Installation method: Features an angle-drop locking system, making installation fast, secure, and DIY-friendly",
+      "Warranty: Backed by a lifetime residential and 10 year light commercial warranty, offering a piece of mind and lasting value",
+      "Certifications: GREENGUARD Gold and floorscore certified, ensuring low VOC emissions and an eco-friendly choice",
+      "Coverage recommendation: For consistent installation and minimal waste, purchase an additional 10% to accommodate cuts and layout adjustments",
+      "Product variations: Slight color and size variations may occur due to natural production processes, adding unique character to every plank",
+      "Return policy: Backed by Home Depot's hassle-free return policy, ensuring a risk-free shopping experience"
+    ],
+    "descriptive_attributes_count": 17,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/93f97da0-d36e-4d51-b149-fd185b230d8a/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/54f78e4b-873b-403d-b605-7feced0f2884/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e16ebdc2-54b2-439c-8d00-5824ff03fb11/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/02ff7c7b-6b06-4bad-9302-1f367e270e87/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4a38d826-02e4-4043-8399-38b8771b69ef/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7571f62b-9505-4dbb-82fe-445bc832da67/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/80725894-06bd-4432-891b-0524167c9753/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6be766fe-4135-434a-a252-873413ae24c9/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/56c9f496-7d1b-4c3e-ad88-56f3cae9133a/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/abc3445a-e44d-46c3-a74f-f5d1e0cfe947/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/333e881a-74a2-4bfc-9298-be6059690f6d/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/619125e7-84b3-4b9a-8c28-3a04074f734b/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/93f97da0-d36e-4d51-b149-fd185b230d8a/svn/lathem-pine-home-decorators-collection-vinyl-plank-flooring-vtrhdlatpin7x48-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d1299c04-2cbd-4084-a878-32a05ec97b67/09a6dc45-0c11-4d8f-aaa6-c620d1a79ccc/main.mp4?fastly_token=NjgzODI1YmRfOTZiY2M3OThhOTY1MjIwODlhM2RjMzFlY2QyNzVjODQ5MzdkYjg3Y2U1MDc1MThkZDQxZjY5NzQ3OWVjMTEzZl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kMTI5OWMwNC0yY2JkLTQwODQtYTg3OC0zMmEwNWVjOTdiNjcvMDlhNmRjNDUtMGMxMS00ZDhmLWFhYTYtYzYyMGQxYTc5Y2NjL21haW4ubXA0&pubid=66036796001",
+        "title": "Lathem Pine 12 MIL x 7 in. W x 48 in. L Low Gloss Luxury Vinyl Plank Flooring",
+        "id": "6346067020112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/d1299c04-2cbd-4084-a878-32a05ec97b67/main/160x90/9s898ms/match/image.jpg?pubId=66036796001",
+        "description": "Lathem Pine 12 MIL x 7 in. W x 48 in. L Low Gloss Luxury Vinyl Plank Flooring"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/9e903507-5569-4760-b451-6beb5ac5b831/70f9075e-b573-48fe-83c9-788277fc8f1e/main.mp4?fastly_token=NjgxMzkwMmNfNWIyMzZiMjg1ODMwOTExZDczMTQ1ZjgxNmNmMGYyZTA4ODQ2MjA4YWNlMTY2MjIwMjIyZTAyNWExMGZmZDE1N18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvOWU5MDM1MDctNTU2OS00NzYwLWI0NTEtNmJlYjVhYzViODMxLzcwZjkwNzVlLWI1NzMtNDhmZS04M2M5LTc4ODI3N2ZjOGYxZS9tYWluLm1wNA%3D%3D",
+        "title": "FY25_HDC_Vinyl_Plank_Flooring.mp4",
+        "id": "6370148738112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/9e903507-5569-4760-b451-6beb5ac5b831/main/160x90/22s208ms/match/image.jpg"
+      }
+    ],
+    "ratings_total": 769,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Antimicrobial",
+        "value": "Non-antimicrobial"
+      },
+      {
+        "group_name": "Details",
+        "name": "Application Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cases Per Pallet",
+        "value": "44"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gold"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Lathem Pine"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Micro Beveled"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Phthalate Free,Scratch Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Vinyl Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Wood Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gloss",
+        "value": "Low Gloss"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Click Lock"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installs Over Subfloor",
+        "value": "Concrete,Cork Underlayment,Plywood,Tile,Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Kitchen"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "No Acclimation Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Look",
+        "value": "Straight Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pieces Per Case",
+        "value": "10"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Length",
+        "value": "Long"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Width",
+        "value": "Wide plank (7+ in)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "41.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Species Look",
+        "value": "Oak Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Underlayment Options",
+        "value": "Underlayment Required - Pre-Attached"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Waterproof"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime residential, 10 year light commercial"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Plank Size (in.)",
+        "value": "48 x 7"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "48.03 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "5 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7.13 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wear Layer Thickness (mil)",
+        "value": "12 MIL"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Palenque Park~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Palenque-Park-20-MIL-x-7-in-W-x-60-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-75-sq-ft-Case-OAKHUR20MIL7X60/333380319",
+        "item_id": "333380319"
+      },
+      {
+        "title": "Palenque Park~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Palenque-Park-12-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-8-sq-ft-Case-VTRPALPAR7X48/316323551",
+        "item_id": "316323551"
+      },
+      {
+        "title": "Bardwell~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Bardwell-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-75-sq-ft-Case-BARWEL20MIL7X60/332870365",
+        "item_id": "332870365"
+      },
+      {
+        "title": "Harbor View~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Harbor-View-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-73-sq-ft-Case-VTRHDHARVIE7X60/332870364",
+        "item_id": "332870364"
+      },
+      {
+        "title": "Palenque Park~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Palenque-Park-12-MIL-x-7-in-W-x-60-in-L-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-26-72-sq-ft-Case-VTRHDOAKHUR7X60/333379400",
+        "item_id": "333379400"
+      },
+      {
+        "title": "Lathem Pine~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lathem-Pine-20-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-21-39-sq-ft-Case-VTRHDWILBRO7X48/333380805",
+        "item_id": "333380805"
+      },
+      {
+        "title": "Druid Hills~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Druid-Hills-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-73-sq-ft-Case-VTRHDDRUHIL7X60/332870391",
+        "item_id": "332870391"
+      },
+      {
+        "title": "Cassique~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Cassique-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-72-sq-ft-Case-VTRHDCASQUE7X60/332870389",
+        "item_id": "332870389"
+      },
+      {
+        "title": "Lone Mountain~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lone-Mountain-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-73-sq-ft-Case-VTRHDLONMOU7X60/332870388",
+        "item_id": "332870388"
+      },
+      {
+        "title": "Telford Terrace~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Telford-Terace-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-76-sq-ft-Case-TELTER20MIL7X60/332870387",
+        "item_id": "332870387"
+      },
+      {
+        "title": "Silverbow~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Silverbow-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-42-sq-ft-Case-SILBOW20MIL7X48/332870385",
+        "item_id": "332870385"
+      },
+      {
+        "title": "Willow Lane~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Willow-Lane-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDWILLAN7X48/332870399",
+        "item_id": "332870399"
+      },
+      {
+        "title": "Highmarket~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Highmarket-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-73-sq-ft-Case-VTRHDHIGMAR7X60/332870398",
+        "item_id": "332870398"
+      },
+      {
+        "title": "Harbor View~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Harbor-View-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDHARVIE7X48/332870397",
+        "item_id": "332870397"
+      },
+      {
+        "title": "Windover~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Windover-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDWINDOV7X48/332870525",
+        "item_id": "332870525"
+      },
+      {
+        "title": "Bardwell~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Bardwell-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-72-sq-ft-Case-VTRHDBARWEL7X60/332870524",
+        "item_id": "332870524"
+      },
+      {
+        "title": "Silverbow~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Silverbow-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-76-sq-ft-Case-SILBOW20MIL7X60/332870395",
+        "item_id": "332870395"
+      },
+      {
+        "title": "Silverbow~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Silverbow-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-73-sq-ft-Case-VTRHDSILBOW7X60/332870393",
+        "item_id": "332870393"
+      },
+      {
+        "title": "Lathem Pine~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lathem-Pine-12-MIL-x-7-in-W-x-60-in-L-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-26-72-sq-ft-Case-VTRHDWILBRO7X60/333380593",
+        "item_id": "333380593"
+      },
+      {
+        "title": "Cassique~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Cassique-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-39-sq-ft-Case-CASQUE20MIL7X48/332870374",
+        "item_id": "332870374"
+      },
+      {
+        "title": "Highmarket~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Highmarket-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDHIGMAR7X48/332870373",
+        "item_id": "332870373"
+      },
+      {
+        "title": "Druid Hills~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Druid-Hills-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-42-sq-ft-Case-DRUHIL20MIL7X48/332870372",
+        "item_id": "332870372"
+      },
+      {
+        "title": "Silverbow~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Silverbow-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDSILBOW7X48/332870371",
+        "item_id": "332870371"
+      },
+      {
+        "title": "Beaver Creek~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Beaver-Creek-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-72-sq-ft-Case-VTRHDBEACRE7X60/332870381",
+        "item_id": "332870381"
+      },
+      {
+        "title": "Pelican~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Pelican-20-MIL-x-7-in-W-x-60-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-75-sq-ft-Case-BROSTO20MIL7X60/333381986",
+        "item_id": "333381986"
+      },
+      {
+        "title": "Captiva~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Captiva-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-39-sq-ft-Case-CAPTIV20MIL7X48/332870378",
+        "item_id": "332870378"
+      },
+      {
+        "title": "Windover~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Windover-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-73-sq-ft-Case-VTRHDWINDOV7X60/332870418",
+        "item_id": "332870418"
+      },
+      {
+        "title": "Highmarket~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Highmarket-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-42-sq-ft-Case-HIGMAR20MIL7X48/332870545",
+        "item_id": "332870545"
+      },
+      {
+        "title": "Beaver Creek~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Beaver-Creek-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-39-sq-ft-Case-BEACRE20MIL7X48/332870417",
+        "item_id": "332870417"
+      },
+      {
+        "title": "Harbor View~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Harbor-View-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-39-sq-ft-Case-HARVIE20MIL7X48/332870544",
+        "item_id": "332870544"
+      },
+      {
+        "title": "Lone Mountain~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lone-Mountain-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDLONMOU7X48/332870416",
+        "item_id": "332870416"
+      },
+      {
+        "title": "Willow Lane~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Willow-Lane-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-73-sq-ft-Case-VTRHDWILLAN7X60/332869915",
+        "item_id": "332869915"
+      },
+      {
+        "title": "Captiva~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Captiva-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-72-sq-ft-Case-VTRHDCAPTIV7X60/332869914",
+        "item_id": "332869914"
+      },
+      {
+        "title": "Beaver Creek~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Beaver-Creek-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-75-sq-ft-Case-BEACRE20MIL7X60/332870535",
+        "item_id": "332870535"
+      },
+      {
+        "title": "Telford Terrace~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Telford-Terrace-12-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-26-73-sq-ft-Case-VTRHDTELTER7X60/332870407",
+        "item_id": "332870407"
+      },
+      {
+        "title": "Telford Terrace~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Telford-Terrace-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-42-sq-ft-Case-TELTER20MIL7X48/332870534",
+        "item_id": "332870534"
+      },
+      {
+        "title": "Willow Lane~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Willow-Lane-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-42-Sq-ft-Case-WILLAN20MIL7X48/332870532",
+        "item_id": "332870532"
+      },
+      {
+        "title": "Captiva~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Captiva-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-75-sq-ft-Case-CAPTIV20MIL7X60/332870530",
+        "item_id": "332870530"
+      },
+      {
+        "title": "Lathem Pine~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lathem-Pine-12-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-77-sqft-case-VTRHDLATPIN7X48/327432147",
+        "item_id": "327432147"
+      },
+      {
+        "title": "Bardwell~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Bardwell-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-39-sq-ft-Case-BARWEL20MIL7X48/332870400",
+        "item_id": "332870400"
+      },
+      {
+        "title": "Captiva~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Captiva-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDCAPTIV7X48/332870543",
+        "item_id": "332870543"
+      },
+      {
+        "title": "Windover~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Windover-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-76-sq-ft-Case-WINDOV20MIL7X60/332870415",
+        "item_id": "332870415"
+      },
+      {
+        "title": "Cassique~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Cassique-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-75-sq-ft-Case-CASQUE20MIL7X60/332870541",
+        "item_id": "332870541"
+      },
+      {
+        "title": "Highmarket~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Highmarket-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-76-sq-ft-Case-HIGMAR20MIL7X60/332870540",
+        "item_id": "332870540"
+      },
+      {
+        "title": "Beaver Creek~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Beaver-Creek-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDBEACRE7X48/332870411",
+        "item_id": "332870411"
+      },
+      {
+        "title": "Windover~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Windover-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-42-Sq-ft-Case-WINDOV20MIL7X48/332870539",
+        "item_id": "332870539"
+      },
+      {
+        "title": "Druid Hills~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Druid-Hills-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-76-sq-ft-Case-DRUHIL20MIL7X60/332870538",
+        "item_id": "332870538"
+      },
+      {
+        "title": "Lone Mountain~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lone-Mountain-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-76-sq-ft-Case-LONMOU20MIL7X60/332870537",
+        "item_id": "332870537"
+      },
+      {
+        "title": "Harbor View~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Harbor-View-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-76-sq-ft-Case-HARVIE20MIL7X60/332870409",
+        "item_id": "332870409"
+      },
+      {
+        "title": "Lathem Pine~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lathem-Pine-20-MIL-x-7-in-W-x-60-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-75-sq-ft-Case-WILBRO20MIL7X60/333380993",
+        "item_id": "333380993"
+      },
+      {
+        "title": "Willow Lane~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Willow-Lane-20-MIL-x-7-in-x-60-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-76-sq-ft-Case-WILLAN20MIL7X60/332869942",
+        "item_id": "332869942"
+      },
+      {
+        "title": "Telford Terrace~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Telford-Terrace-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDTELTER7X48/332869941",
+        "item_id": "332869941"
+      },
+      {
+        "title": "Pelican~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Pelican-20-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-21-39-sq-ft-Case-VTRHDBROSTO7X48/333381693",
+        "item_id": "333381693"
+      },
+      {
+        "title": "Druid Hills~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Druid-Hills-12-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDDRUHIL7X48/332869937",
+        "item_id": "332869937"
+      },
+      {
+        "title": "Lone Mountain~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Lone-Mountain-20-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-21-42-sq-ft-Case-LONMOU20MIL7X48/332869936",
+        "item_id": "332869936"
+      },
+      {
+        "title": "Pelican~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Pelican-12-MIL-x-7-in-W-x-48-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-23-8-sq-ft-Case-PELICA7X48-5MM/309502877",
+        "item_id": "309502877"
+      },
+      {
+        "title": "Palenque Park~~48 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Palenque-Park-20-MIL-x-7-in-W-x-48-in-L-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-21-39-sq-ft-Case-VTRHDOAKHUR7X48/333379878",
+        "item_id": "333379878"
+      },
+      {
+        "title": "Pelican~~60 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Pelican-12-MIL-x-7-in-W-x-60-in-L-Angle-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-26-72-sq-ft-case-VTRHDBROSTO7X60/333381413",
+        "item_id": "333381413"
+      },
+      {
+        "title": "Cassique~~48 x 7~~12 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Home-Decorators-Collection-Cassique-12-MIL-x-7-in-x-48-in-Waterproof-Click-Lock-Rigid-Core-Luxury-Vinyl-Plank-Flooring-23-77-sq-ft-Case-VTRHDCASQUE7X48/332869931",
+        "item_id": "332869931"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Vinyl Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring/N-5yc1vZapwr"
+      },
+      {
+        "name": "Vinyl Plank Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/N-5yc1vZbzjz"
+      }
+    ],
+    "buybox_winner": {
+      "price": 47.3,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 59.18,
+      "unit": "case",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 42
+        },
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1520,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-05"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 1179,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1520,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

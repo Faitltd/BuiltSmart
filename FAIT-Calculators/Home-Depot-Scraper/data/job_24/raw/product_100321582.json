@@ -1,0 +1,198 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14328,
+    "overage_used": 4328,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-6330-in-x-3-in-Soild-Pine-Base-Moulding-10000909/100321582"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:26:52.722Z",
+    "processed_at": "2025-05-01T18:27:31.478Z",
+    "total_time_taken": 38.76,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-6330-in-x-3-in-Soild-Pine-Base-Moulding-10000909/100321582"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-6330-in-x-3-in-Soild-Pine-Base-Moulding-10000909/100321582",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Woodgrain-Millwork/N-5yc1vZcbjpZ7c8",
+    "title": "Woodgrain Millwork WM 6330 \u00bd in. x 3 \u00bc in . Soild Pine Base Moulding",
+    "upc": "095624931724",
+    "item_id": "100321582",
+    "store_sku": "954551",
+    "model_number": "10000909",
+    "description": "The Woodgrain Millwork 1/2 in. x 3-1/4 in. WM6330 Pine base is the perfect addition to dress up any room. The Woodgrain Millwork Pine WM623 base is used cover any imperfections where floor and wall meet. Base Moulding can also be used as starter point for a more elaborate built up base boards. Combing other mouldings with this base can create looks that range from classic to elegant.",
+    "favorite_count": 45,
+    "feature_bullets": [
+      "Unique design beautifies uneven edges in flooring",
+      "Unfinished surface allows painting/staining to match your decor",
+      "Pine molding offers ease of installation with common tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be stained or painted with any high quality latex or oil based paint/stain",
+      "A great foundation for any room, can be paired with any style of casing",
+      "A classic pattern that works with any style",
+      "Installs with common woodworking tools",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/46c1d599-8fe4-4834-9ef5-71c66b62368f/svn/unfinished-woodgrain-millwork-baseboard-10000909-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/unfinished-woodgrain-millwork-baseboard-10000909-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc97d9d1-8097-4d05-a377-8adca3729be9/svn/unfinished-woodgrain-millwork-baseboard-10000909-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/46c1d599-8fe4-4834-9ef5-71c66b62368f/svn/unfinished-woodgrain-millwork-baseboard-10000909-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 27,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "6330"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "168 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "keywords_list": [
+      "casing",
+      "pine casing",
+      "casings",
+      "pine casings",
+      "building supply",
+      "pine building supply",
+      "building supplies",
+      "pine building supplies",
+      "decorative casing",
+      "decorative casings",
+      "decorative building supply",
+      "decorative building supplies",
+      "paintable casing"
+    ],
+    "keywords": "casing, pine casing, casings, pine casings, building supply, pine building supply, building supplies, pine building supplies, decorative casing, decorative casings, decorative building supply, decorative building supplies, paintable casing",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

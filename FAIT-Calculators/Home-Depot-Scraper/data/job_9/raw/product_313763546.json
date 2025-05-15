@@ -1,0 +1,223 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13565,
+    "overage_used": 3565,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Handprint-1-4-in-x-12-in-x-12-in-Birch-Plywood-420506/313763546"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:50:01.584Z",
+    "processed_at": "2025-05-01T16:50:05.435Z",
+    "total_time_taken": 3.85,
+    "homedepot_url": "https://www.homedepot.com/p/Handprint-1-4-in-x-12-in-x-12-in-Birch-Plywood-420506/313763546"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Handprint-1-4-in-x-12-in-x-12-in-Birch-Plywood-420506/313763546",
+    "brand": "Handprint",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Handprint/N-5yc1vZc7hmZubm",
+    "title": "Handprint 1/4 in. x 12 in. x 12 in. Birch Plywood",
+    "upc": "090489682583",
+    "item_id": "313763546",
+    "parent_id": "315633311",
+    "store_sku": "1005584460",
+    "model_number": "420506",
+    "description": "Cut for convenience and creativity, Handprint's hardwood veneer plywood is as versatile as it is great-looking. Featuring clean, smooth, natural birch woodgrain on both the front and back faces, this handy panel is perfect for a wide variety of home decor and craft projects - anywhere a beautiful, real-wood look is a top priority. Or if a natural finish isn't part of your plan, its smooth surface is ideal for custom finishes. Loved by makers and DIYers alike, we take the hard work out of home projects - but leave all the satisfaction in.",
+    "aisle": "24",
+    "bay": "EC1",
+    "feature_bullets": [
+      "One (1), 1/4\"-thick, 12-in. square (nominal), plywood panel",
+      "Convenient ready-to-use\u00a0component for home DIY and decor projects",
+      "Features smooth, double-sided birch veneers  perfect for makers"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Actual dimensions: 0.22 in. x 11.81 in. x 11.81 in. / 6 mm x 300 mm x 300 mm",
+      "Weight: Approx. 0.8 lbs",
+      "Species: White or Yellow Birch Grade B2 (or equivalent) with a veneer core; CARB Phase 2 compliant",
+      "Smooth, sanded, birch veneers on face and back; veneers between 0.35 - 0.45mm; square-cut corners, perpendicular to edges",
+      "Free of natural and manufacturing defects, including large chips, veneer patches on face, splits on face, knots larger than 1\" on face, core voids over 1/2\", splinters, and fiber tear-outs",
+      "Intended for indoor use; if using outside, seal with a weather-protectant finish and place in a covered or protected area",
+      "Ready to customize with the finishes of your choice, including paint, stain, vinyl decals, and sealant",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/UNIVERSAL FOREST PRODUCT/2813290.jpg\">"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/64c8834c-5a8b-4169-b1ea-0937a50b3f8e/svn/handprint-project-panels-420506-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/91f82f1a-b058-4749-8c03-5d8a12e945a8/svn/handprint-project-panels-420506-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b6fcec75-5967-4d6c-bef0-81aa44dfa0c4/svn/handprint-project-panels-420506-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1b300caa-4b57-4eaa-9499-0e95133d7fd2/svn/handprint-project-panels-420506-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ed5978ff-900c-4594-9575-c8b35cd26ec8/svn/handprint-project-panels-420506-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e16c41a8-4a8d-4984-bdf8-5c138778b482/svn/handprint-project-panels-420506-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3766cae9-52dd-4039-8305-04b258f5398c/svn/handprint-project-panels-420506-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36b92c84-f253-491e-a390-768fa6d9f208/svn/handprint-project-panels-420506-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/15a287fa-d5cf-458d-ac5f-ce7cd2b4e98e/svn/handprint-project-panels-420506-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d87e78f1-df9c-4bb2-adcd-c02e30a9583f/svn/handprint-project-panels-420506-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4e8b79db-7782-428f-956c-4277e4988b01/svn/handprint-project-panels-420506-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/64c8834c-5a8b-4169-b1ea-0937a50b3f8e/svn/handprint-project-panels-420506-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/60c6f0d8-6d6c-4313-bc15-c51a30a14ca0/main.mp4?fastly_token=NjgzODI2ZTdfNDk4ZDU0NTUzODA5Y2M5MTExNjZkZTI4NzgwOWNhMWE2MTQzZmMxMWM5YzIwOTMxYWFlNjRjNDQ1NzdiNTIyNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNTA4NDE5ZS1hNzlmLTQwMmEtOGRiZC02ODQyNDdjMGU3OWIvNjBjNmYwZDgtNmQ2Yy00MzEzLWJjMTUtYzUxYTMwYTE0Y2EwL21haW4ubXA0&pubid=66036796001",
+        "title": "Handprint Overview",
+        "id": "6298378923001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/main/160x90/15s40ms/match/image.jpg?pubId=66036796001",
+        "description": "Brand Overview"
+      }
+    ],
+    "ratings_total": 81,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Hardwood Plywood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "11.81 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.22 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.81 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "1"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1 ft. x 1 ft.~~1/4~~Birch",
+        "link": "https://www.homedepot.com/p/Handprint-1-4-in-x-12-in-x-12-in-Birch-Plywood-420506/313763546",
+        "item_id": "313763546"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 95
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 95,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

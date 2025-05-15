@@ -1,0 +1,228 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14267,
+    "overage_used": 4267,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-x-96-in-Primed-Pine-Finger-Jointed-Shoe-Base-Moulding-10000495/203209436"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:18.466Z",
+    "processed_at": "2025-05-01T18:23:23.022Z",
+    "total_time_taken": 4.56,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-x-96-in-Primed-Pine-Finger-Jointed-Shoe-Base-Moulding-10000495/203209436"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-x-96-in-Primed-Pine-Finger-Jointed-Shoe-Base-Moulding-10000495/203209436",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/Woodgrain-Millwork/N-5yc1vZ2fkp9hdZ7c8",
+    "title": "Woodgrain Millwork WM 129 7/16 in. x 11/16 in. x 96 in. Primed Pine Finger-Jointed Shoe Base Moulding",
+    "upc": "095624984676",
+    "item_id": "203209436",
+    "parent_id": "327768409",
+    "store_sku": "1000372944",
+    "model_number": "10000495",
+    "description": "The Woodgrain Millwork 7/16 in. x 11/16 in. x 96 in. WM129 Prime Finger-Jointed Base Shoe makes a great transition between base moulding and flooring. Prime Finger-Jointed WM129 Base Shoe can also be used to cover gaps where flooring surfaces meet base moulding. Base Shoe is also used to cover small alignment challenges where hard surface flooring meets the wall.",
+    "is_top_rated": true,
+    "favorite_count": 233,
+    "feature_bullets": [
+      "Smooth and primed surface makes it repairs- and knot-free",
+      "Supports the application of premium acrylic latex paint",
+      "Easy installation with woodworking tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Classic small profile moulding useful in covering small gaps",
+      "Can be used to accent traditional base mouldings",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/53ad1206-2e86-4f61-9dc7-fc7ae8f07a40/svn/white-woodgrain-millwork-shoe-moulding-10000495-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/73ae267f-3a89-4f9c-af57-399de75669f9/svn/white-woodgrain-millwork-shoe-moulding-10000495-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ceb02150-0dd3-4ac1-aab3-1167147c5613/svn/white-woodgrain-millwork-shoe-moulding-10000495-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/53ad1206-2e86-4f61-9dc7-fc7ae8f07a40/svn/white-woodgrain-millwork-shoe-moulding-10000495-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 244,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Shoe Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "129"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.438 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.688 in"
+      }
+    ],
+    "keywords_list": [
+      "Woodgrain Distribution",
+      "WM129 7/16 in. x 11/16 in. x 8 ft. Primed Fingerjoint Shoe",
+      "PFP0129-08"
+    ],
+    "keywords": "Woodgrain Distribution, WM129 7/16 in. x 11/16 in. x 8 ft. Primed Fingerjoint Shoe, PFP0129-08",
+    "variants": [
+      {
+        "title": "White~~96 in~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-x-96-in-Primed-Pine-Finger-Jointed-Shoe-Base-Moulding-10000495/203209436",
+        "item_id": "203209436"
+      },
+      {
+        "title": "White~~12 in~~0.687 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-7-16-in-x-11-16-in-Primed-Finger-Jointed-Base-Shoe-Moulding-10000493/206001702",
+        "item_id": "206001702"
+      },
+      {
+        "title": "White~~12 in~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-129-11-6-in-x-7-16-in-Primed-Finger-Jointed-Base-Shoe-Molding-10000493/100321472",
+        "item_id": "100321472"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Shoe Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/N-5yc1vZ2fkp9hd"
+      }
+    ],
+    "buybox_winner": {
+      "price": 0.79,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 7290
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 29489,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

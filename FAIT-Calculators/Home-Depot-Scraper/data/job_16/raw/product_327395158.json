@@ -1,0 +1,262 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14171,
+    "overage_used": 4171,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Battery-String-Trimmer-Edger-and-Jet-Fan-Blower-Combo-Kit-2-Tools-with-4-0-Ah-Battery-and-Charger-PCLCK202K/327395158"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:59:58.152Z",
+    "processed_at": "2025-05-01T18:00:04.621Z",
+    "total_time_taken": 6.47,
+    "homedepot_url": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Battery-String-Trimmer-Edger-and-Jet-Fan-Blower-Combo-Kit-2-Tools-with-4-0-Ah-Battery-and-Charger-PCLCK202K/327395158"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Battery-String-Trimmer-Edger-and-Jet-Fan-Blower-Combo-Kit-2-Tools-with-4-0-Ah-Battery-and-Charger-PCLCK202K/327395158",
+    "brand": "RYOBI",
+    "brand_link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Outdoor-Power-Combo-Kits/RYOBI/N-5yc1vZcd2hZm5d",
+    "title": "RYOBI ONE+ 18V Cordless Battery String Trimmer/Edger and Jet Fan Blower Combo Kit (2-Tools) with 4.0 Ah Battery and Charger",
+    "upc": "046396052681",
+    "item_id": "327395158",
+    "parent_id": "335662149",
+    "store_sku": "1010345469",
+    "model_number": "PCLCK202K",
+    "description": "The RYOBI 18V ONE+ 2-Tool Combo Kit includes the 18V ONE+ 13\" String Trimmer, 18V ONE+ 350 CFM Blower, 18V ONE+ 4Ah Lithium Battery, and 18V ONE+ Charger. Experience exceptional performance with just the pull of a trigger. The 13\" String Trimmer provides the power to tackle grass around medium sized yards. Achieve over 55 minutes of runtime using an 18V ONE+ 4Ah battery. Trim weeds & grass with the adjustable 11\" to 13\" cut swath. A larger cut swath will give you maximum performance while a smaller cut swath gives you maximum runtime. The auto-feed head reloads .080\" string and advances line with each pull of the trigger. For ultimate convenience, turn your string trimmer into an edger for clean, precise cuts around your sidewalks and driveways with the pivoting head edger function. The Blower delivers 350 CFM and 100 MPH, making it ideal for light applications, hard surfaces, & dry leaves. Achieve 70 minutes of runtime using a 18V ONE+ 4Ah battery. It's easy to handle with the lightweight design, and a variable speed trigger gives you maximum control in delicate applications like blowing leaves from mulch beds. Best of all, it is part of the RYOBI ONE+ system where any 18V ONE+ battery works with any 18V ONE+ product. This 18V ONE+ 2-Tool Combo Kit is backed by the RYOBI 3-Year Manufacturer's Warranty and includes P20018 18V 13\" String Trimmer/Edger, PCLLB01 18V 350 CFM Blower, PBP005 18V 4Ah Battery, PCG002 18V Charger, Grass Deflector, Front Handle, and Operator's Manuals.",
+    "is_bestseller": true,
+    "is_exclusive": true,
+    "aisle": "11",
+    "bay": "009",
+    "collection": {
+      "id": "Family-320324149",
+      "name": "Family-320324149",
+      "link": "https://www.homedepot.com/collection/Outdoors/RYOBI-ONE-18V-Outdoor-Power/Family-320324149?omsid=327395158"
+    },
+    "feature_bullets": [
+      "Includes: 18V 13\" String Trimmer & 18V 350 CFM Blower",
+      "String Trimmer: Ideal for Trimming Around Medium Sized Yards",
+      "Blower: 350 CFM/100 MPH Ideal for Light Applications"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Experience exceptional performance with just the pull of a trigger, without the hassle of gas or cords",
+      "String Trimmer: Power to tackle grass &amp; weeds around medium sized yards",
+      "String Trimmer: Over 55 minutes of runtime using an 18V ONE+ 4Ah battery (18V ONE+ 4Ah battery included)",
+      "String Trimmer: Achieve a longer runtime or more aggressive cut with the adjustable 11 in. to 13 in. cut swath",
+      "String Trimmer: Easy line advancement and reloads with auto-feed head",
+      "String Trimmer: .080\" line advances with each pull of the trigger",
+      "String Trimmer: Conveniently turn your string trimmer into an edger with the pivoting head edger function",
+      "String Trimmer: Maximum control with variable speed trigger for trimming along fences, mailboxes, and flower beds",
+      "Blower: 350 CFM &amp; 100 MPH ideal for light applications, hard surfaces and dry leaves",
+      "Blower: 70 minutes of runtime using included 18V ONE+ 4Ah battery (on low setting using variable speed trigger)",
+      "Blower: Maximum control with variable speed trigger",
+      "Blower: Lightweight design reduces fatigue, making this blower easy to handle",
+      "Blower: Integrated key-hold for hanging",
+      "Part of the RYOBI ONE+ System - Any 18V ONE+ battery works with any 18V ONE+ product\u202f",
+      "3-year manufacturer's warranty",
+      "Includes: P20018 18V 13\" String Trimmer/Edger, PCLLB01 18V 350 CFM Blower, PBP005 18V 4Ah Lithium Battery, PCG002 18V Charger, Grass Deflector, Front Handle, and Operator's Manuals"
+    ],
+    "descriptive_attributes_count": 16,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b5848263-20fb-4340-9dd4-99edb7ea56c4/svn/ryobi-outdoor-power-combo-kits-pclck202k-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3571cd96-36f9-4812-af88-6cf3b1223fcb/svn/ryobi-outdoor-power-combo-kits-pclck202k-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fcd7ed7b-d790-4a15-b3b0-813bd1a399df/svn/ryobi-outdoor-power-combo-kits-pclck202k-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1dd4fe3b-adb0-45c1-b03b-047d150eccf7/svn/ryobi-outdoor-power-combo-kits-pclck202k-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/960e7b48-ce9b-436d-8030-0c59b56df3df/svn/ryobi-outdoor-power-combo-kits-pclck202k-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d7ebd12-f821-4550-9a5a-e0aa02d29da7/svn/ryobi-outdoor-power-combo-kits-pclck202k-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9e86787a-cf48-41c1-a4bc-6166e33e2be1/svn/ryobi-outdoor-power-combo-kits-pclck202k-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f3d283fe-00e2-4244-ba30-17a94f5dea50/svn/ryobi-outdoor-power-combo-kits-pclck202k-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4813eb26-2fc7-46ce-bf85-a8e913a30b20/svn/ryobi-outdoor-power-combo-kits-pclck202k-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f7420066-83eb-43b9-b577-25f00354b585/svn/ryobi-outdoor-power-combo-kits-pclck202k-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b35b728b-2918-4a9e-9daf-e93f66f684a1/svn/ryobi-outdoor-power-combo-kits-pclck202k-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/40a23cd2-0a90-4a21-80ef-329753b7dcf0/svn/ryobi-outdoor-power-combo-kits-pclck202k-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a24c6715-f2b5-4663-acd0-fea897e7270d/svn/ryobi-outdoor-power-combo-kits-pclck202k-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45219394-6f69-49c9-8d8f-f5b38199b7c9/svn/ryobi-outdoor-power-combo-kits-pclck202k-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b5848263-20fb-4340-9dd4-99edb7ea56c4/svn/ryobi-outdoor-power-combo-kits-pclck202k-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/22ceb0ef-7382-42d7-8688-be9a4bd8698e/2999c752-60ac-4044-8318-d60a0e23e01f/main.mp4?fastly_token=NjgzODI4MTdfOTVmM2UxYTY3YWNhZmMyYTE1OGZlNjNmMjA0ZTk4NDMzNTlhNGI1MDY1OTY0MjFlNGRjOWRhNTlmZjAxZTFiNV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yMmNlYjBlZi03MzgyLTQyZDctODY4OC1iZTlhNGJkODY5OGUvMjk5OWM3NTItNjBhYy00MDQ0LTgzMTgtZDYwYTBlMjNlMDFmL21haW4ubXA0&pubid=66036796001",
+        "title": "ONE+ 18V 13 in. Cordless Battery String Trimmer/Edger Feature Video",
+        "id": "6307291298112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/22ceb0ef-7382-42d7-8688-be9a4bd8698e/main/160x90/18s16ms/match/image.jpg?pubId=66036796001",
+        "description": "Feature and benefit video for the new ONE 18V 13 in. Cordless Battery String Trimmer/Edge Video."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 499,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Attachments Included",
+        "value": "Blower,String Trimmer/Edger"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Voltage (V)",
+        "value": "18V"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Green"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tools Included",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Total Batteries Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Outdoor Power Combo",
+        "value": "Combo"
+      },
+      {
+        "group_name": "Details",
+        "name": "Power Type",
+        "value": "Battery"
+      },
+      {
+        "group_name": "Details",
+        "name": "Reconditioned",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tools Included",
+        "value": "Battery,Blower,Charger,String Trimmer"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "3 Year Limited"
+      }
+    ],
+    "variants": [
+      {
+        "title": "w/",
+        "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Battery-String-Trimmer-Edger-Jet-Fan-Blower-Combo-Kit-5-Pack-080-Line-w-4-0-Ah-Battery-and-Charger-PCLCK202K-AC80RL5/333465795",
+        "item_id": "333465795"
+      },
+      {
+        "title": "Combo Kit Only",
+        "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-Battery-String-Trimmer-Edger-and-Jet-Fan-Blower-Combo-Kit-2-Tools-with-4-0-Ah-Battery-and-Charger-PCLCK202K/327395158",
+        "item_id": "327395158"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Outdoors",
+        "link": "https://www.homedepot.com/b/Outdoors/N-5yc1vZbx82"
+      },
+      {
+        "name": "Outdoor Power Equipment",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment/N-5yc1vZbx5c"
+      },
+      {
+        "name": "Outdoor Power Combo Kits",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Outdoor-Power-Combo-Kits/N-5yc1vZcd2h"
+      }
+    ],
+    "buybox_winner": {
+      "price": 149,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 199,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 21
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 27,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 99,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

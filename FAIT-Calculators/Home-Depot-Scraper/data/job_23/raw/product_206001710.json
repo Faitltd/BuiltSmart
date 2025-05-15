@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14263,
+    "overage_used": 4263,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-Primed-Finger-Jointed-Wood-Casing-Sold-by-Linear-Foot-10000522/206001710"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:22:44.777Z",
+    "processed_at": "2025-05-01T18:22:49.392Z",
+    "total_time_taken": 4.62,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-Primed-Finger-Jointed-Wood-Casing-Sold-by-Linear-Foot-10000522/206001710"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-Primed-Finger-Jointed-Wood-Casing-Sold-by-Linear-Foot-10000522/206001710",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork 327 11/16 in. x  2\u22121/4 in. Primed Finger Jointed Wood Casing (Sold by Linear Foot)",
+    "upc": "049437211665",
+    "item_id": "206001710",
+    "parent_id": "328892473",
+    "store_sku": "565411",
+    "model_number": "10000522",
+    "description": "The Woodgrain Millwork 11/16 in. x 2-1/4 in. WM 327 Prime Finger-Jointed Casing is used around doors and windows to cover the gaps between the frames and walls. Prime Finger-Jointed WM327 Casing is the finishing touch on any window and door. You can combine casing with a back band to create a bold one of kind look.",
+    "aisle": "FW",
+    "bay": "019",
+    "feature_bullets": [
+      "Smooth, consistent surface ready for easy finishing",
+      "Can be painted with any high-quality, latex-based paint",
+      "Traditional pattern renders a classic style on doors and windows"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e4204a11-6ca2-4d66-980e-c01155c75a85/svn/white-woodgrain-millwork-casing-10000522-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-casing-10000522-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bd9abf1f-6b2e-4e7f-b534-6e631a7ddb41/svn/white-woodgrain-millwork-casing-10000522-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e4204a11-6ca2-4d66-980e-c01155c75a85/svn/white-woodgrain-millwork-casing-10000522-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 147,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "327"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/a"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.687 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~7 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-x-84-in-Primed-Finger-Jointed-Door-Casing-1-Piece-7-Total-Linear-Feet-10000523/100321432",
+        "item_id": "100321432"
+      },
+      {
+        "title": "White~~12 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-327-11-16-in-x-2-1-4-in-Primed-Finger-Jointed-Wood-Casing-Sold-by-Linear-Foot-10000522/206001710",
+        "item_id": "206001710"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.34,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "foot",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1600
+        }
+      }
+    }
+  }
+}

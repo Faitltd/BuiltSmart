@@ -1,0 +1,197 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14839,
+    "overage_used": 4839,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Builders-Choice-711-5-8-in-x-2-1-2-in-Primed-MDF-Casing-Sold-by-Linear-Foot-HDFB711C/206005504"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:40:42.808Z",
+    "processed_at": "2025-05-01T19:41:20.069Z",
+    "total_time_taken": 37.26,
+    "homedepot_url": "https://www.homedepot.com/p/Builders-Choice-711-5-8-in-x-2-1-2-in-Primed-MDF-Casing-Sold-by-Linear-Foot-HDFB711C/206005504"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Builders-Choice-711-5-8-in-x-2-1-2-in-Primed-MDF-Casing-Sold-by-Linear-Foot-HDFB711C/206005504",
+    "brand": "Builders Choice",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Builders-Choice/N-5yc1vZclf5Zflz",
+    "title": "Builders Choice 711 5/8 in. x  2\u22121/2 in. Primed MDF Casing (Sold by Linear Foot)",
+    "upc": "096037174517",
+    "item_id": "206005504",
+    "parent_id": "327768478",
+    "store_sku": "819924",
+    "model_number": "HDFB711C",
+    "description": "Featuring a sleek white surface, primed MDF is a great way to update your rooms and highlight the special care that has gone into your property. MDF casing can increase the value of your home or business estate and are an inexpensive way to add character and flair to any home. Casings work great to cover the gap between the drywall and the door or window frame.",
+    "favorite_count": 14,
+    "feature_bullets": [
+      "Made of high-quality, premium MDF with a smooth paintable surface",
+      "Can be used to conceal gaps between frames and drywall",
+      "Paintable for customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finest premium MDF for enhanced quality and appearance",
+      "Smooth surface and grain for a superior finish",
+      "Primed for superior paint adhesion and reduced labor costs",
+      "Paint to match your decor",
+      "Can be used in buildups for unique designs",
+      "Perfect to upgrade entrances/exits in your home",
+      "Available in random lengths",
+      "Manufacturers and availability may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/42297a42-1d9a-4beb-bb5f-75f5097c248a/svn/primed-white-builders-choice-casing-hdfb711c-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6ec2674d-4375-4b49-b20a-233bffa32c4e/svn/primed-white-builders-choice-casing-hdfb711c-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/42297a42-1d9a-4beb-bb5f-75f5097c248a/svn/primed-white-builders-choice-casing-hdfb711c-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 23,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "711"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builders-Choice-711-5-8-in-x-2-1-2-in-Primed-MDF-Casing-Sold-by-Linear-Foot-HDFB711C/206005504",
+        "item_id": "206005504"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12661,
+    "overage_used": 2661,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DEWALT-3-in-9-in-1-Carbon-Steel-Painter-s-Knife-with-Soft-Grip-Handle-DXTT-2-200/307958074"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:27:48.260Z",
+    "processed_at": "2025-05-01T13:27:54.099Z",
+    "total_time_taken": 5.84,
+    "homedepot_url": "https://www.homedepot.com/p/DEWALT-3-in-9-in-1-Carbon-Steel-Painter-s-Knife-with-Soft-Grip-Handle-DXTT-2-200/307958074"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DEWALT-3-in-9-in-1-Carbon-Steel-Painter-s-Knife-with-Soft-Grip-Handle-DXTT-2-200/307958074",
+    "brand": "DEWALT",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tools-Drywall-Knives/DEWALT/N-5yc1vZapsyZ4j2",
+    "title": "DEWALT 3 in. 9-in-1 Carbon Steel Painter's Knife with Soft Grip Handle",
+    "upc": "815966022320",
+    "item_id": "307958074",
+    "parent_id": "310239235",
+    "store_sku": "1003952209",
+    "model_number": "DXTT-2-200",
+    "description": "The DEWALT 9-in-1 Multi-Tool is your ultimate go-to hand tool, serving multiple purposes including compound scraping, screwdriving, roller cleaning, bottle opening, and more. Its polished carbon steel blade ensures superior durability, making it a reliable companion for various tasks.DESIGN FEATURESHeavy duty, rigid high-carbon steel blade with full tang through the handle.Hardened and tempered to stay sharp for a long service life.Blade is lacquered for corrosion resistance.Large hang hole for effortless organization.Lightweight, impact resistant nylon handle designed for daily use with minimal fatigue.",
+    "favorite_count": 38,
+    "feature_bullets": [
+      "9-IN-1 FUNCTIONALITY \u2013 Scraper, gouger, opener, puller & more.",
+      "DURABLE CARBON STEEL BLADE \u2013 Stays sharp and resists corrosion.",
+      "ERGONOMIC HANDLE \u2013 Lightweight, impact-resistant, and sturdy"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "DEWALT 9-IN-1 Multi-Tool offers versatility with its array of functions, serving as a straight scraper, curved scraper (concave and convex), gouger, paint roller cleaner, can opener, bottle opener, nail puller, screwdriver, and hammer.",
+      "PREMIUM CARBON STEEL BLADE: Crafted from heavy-duty, hardened/tempered carbon steel, this blade stays sharper longer than stainless steel. It's mirror polished for easy cleanup. Refer to care instructions for maintenance details.",
+      "FULL-LENGTH INTERNAL TANG: The tang extends all the way up the blade handle, ensuring maximum strength and rigidity.",
+      "BUILT TO LAST : DEWALT Tools are built for daily use by industry professionals.",
+      "GUARANTEED PERFORMANCE : Our tools are developed by professionals for professionals and guaranteed to exceed your expectations."
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c622ac5e-de5a-45f2-baf8-f3d941d5f8ed/svn/dewalt-drywall-knives-dxtt-2-200-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c622ac5e-de5a-45f2-baf8-f3d941d5f8ed/svn/dewalt-drywall-knives-dxtt-2-200-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 40,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Blade Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Hammer End"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Material",
+        "value": "Nylon"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": ".2 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tool Type",
+        "value": "Joint Knife"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Blade Width (in.)",
+        "value": "3"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "9.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "3",
+        "link": "https://www.homedepot.com/p/DEWALT-3-in-9-in-1-Carbon-Steel-Painter-s-Knife-with-Soft-Grip-Handle-DXTT-2-200/307958074",
+        "item_id": "307958074"
+      },
+      {
+        "title": "3.5",
+        "link": "https://www.homedepot.com/p/DEWALT-3-5-in-Stainless-Steel-Pointing-Joint-with-Soft-Grip-Handle-DXTT-2-202/307957329",
+        "item_id": "307957329"
+      },
+      {
+        "title": "6",
+        "link": "https://www.homedepot.com/p/DEWALT-6-in-Stainless-Steel-Clipped-Knife-with-Soft-Grip-Handle-DXTT-2-201/307957318",
+        "item_id": "307957318"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Drywall",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall/N-5yc1vZar3d"
+      },
+      {
+        "name": "Drywall Tools",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tools/N-5yc1vZaro4"
+      },
+      {
+        "name": "Drywall Knives",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tools-Drywall-Knives/N-5yc1vZapsy"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.49,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0159",
+          "in_stock": true,
+          "stock_level": 10,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 93,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

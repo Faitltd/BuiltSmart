@@ -1,0 +1,231 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14037,
+    "overage_used": 4037,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-2149-7-16-in-x-2-in-x-84-in-PVC-Composite-Ideal-Brown-Garage-Door-Stop-Molding-MLDP01X02GSBR/204218570"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:52:21.678Z",
+    "processed_at": "2025-05-01T17:52:25.982Z",
+    "total_time_taken": 4.3,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-2149-7-16-in-x-2-in-x-84-in-PVC-Composite-Ideal-Brown-Garage-Door-Stop-Molding-MLDP01X02GSBR/204218570"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-2149-7-16-in-x-2-in-x-84-in-PVC-Composite-Ideal-Brown-Garage-Door-Stop-Molding-MLDP01X02GSBR/204218570",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Royal-Mouldings/N-5yc1vZclf5Z8ui",
+    "title": "Royal Mouldings 2149 7/16 in. x 2 in. x 84 in. PVC Composite Ideal Brown Garage Door Stop Molding",
+    "upc": "070673881954",
+    "item_id": "204218570",
+    "store_sku": "1001851217",
+    "model_number": "MLDP01X02GSBR",
+    "description": "The Garage Door Stop Molding is designed to seal the gap between the garage door and the door jamb. The molding works as a flexible Whether trip to seal out dirt, wind and bugs. Adding garage door stop to your home helps seals out Whether conditions and save on energy cost.",
+    "favorite_count": 60,
+    "aisle": "30",
+    "bay": "SC3",
+    "feature_bullets": [
+      "Built using vinyl for durability and easy maintenance",
+      "Anti-insect and moisture-resistant material is easy to maintain",
+      "Minimalist decor pairs well with any decor"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Vinyl is durable and easy to clean",
+      "Moisture, rot and termite resistant",
+      "Cuts like wood with no special tools required",
+      "Will not split or crack"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a824cf85-42f6-4324-a866-a9ca07c115c0/svn/brown-royal-mouldings-casing-mldp01x02gsbr-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d2c52d9-5b13-4c7b-87eb-d652bb31db50/svn/brown-royal-mouldings-casing-mldp01x02gsbr-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a824cf85-42f6-4324-a866-a9ca07c115c0/svn/brown-royal-mouldings-casing-mldp01x02gsbr-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 93,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Stop Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2149"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.438 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2 in"
+      }
+    ],
+    "keywords_list": [
+      "",
+      "2149 7/16 in. x 2 in. x 84 in. PVC Composite Ideal Brown Garage Door Stop Moulding",
+      "0214907032"
+    ],
+    "keywords": ", 2149 7/16 in. x 2 in. x 84 in. PVC Composite Ideal Brown Garage Door Stop Moulding, 0214907032",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 10.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 21
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 21,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 277,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

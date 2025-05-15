@@ -1,0 +1,203 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14834,
+    "overage_used": 4834,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Builder-s-Choice-LWM683-9-16-in-x-2-1-4-in-Primed-MDF-Base-Moulding-HDFB683/203364659"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:36:25.220Z",
+    "processed_at": "2025-05-01T19:37:20.175Z",
+    "total_time_taken": 54.95,
+    "homedepot_url": "https://www.homedepot.com/p/Builder-s-Choice-LWM683-9-16-in-x-2-1-4-in-Primed-MDF-Base-Moulding-HDFB683/203364659"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Builder-s-Choice-LWM683-9-16-in-x-2-1-4-in-Primed-MDF-Base-Moulding-HDFB683/203364659",
+    "brand": "Builder's Choice",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Builders-Choice/N-5yc1vZcbjpZ89b",
+    "title": "Builder's Choice LWM683 9/16 in. x 2-1/4 in. Primed MDF Base Moulding",
+    "upc": "096037159248",
+    "item_id": "203364659",
+    "parent_id": "325326248",
+    "store_sku": "326333",
+    "model_number": "HDFB683",
+    "description": "Featuring a pre-primed surface, MDF base is a great way to update your rooms and highlight the special care that has gone into your property. Mouldings can increase the value of your home or business estate and are an inexpensive way to add character and flair to any home. Base moulding works great to protect the wall at the floor.",
+    "favorite_count": 19,
+    "feature_bullets": [
+      "Made of high-quality, premium MDF with a smooth paintable surface",
+      "Designed to cover gaps between wall and floor for a finished look",
+      "Paintable for customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finest premium MDF for enhanced quality and appearance",
+      "Primed for superior paint adhesion",
+      "Paint to match your decor",
+      "Available in standard builder lengths and a variety of profiles",
+      "Can be used in buildups for unique designs",
+      "Cut to desired length in store",
+      "Designed to be used where the wall and the floor meet",
+      "Manufacturers and availability may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f1de4d82-95f1-4fe0-8768-ed23a1b88223/svn/primed-white-builder-s-choice-baseboard-hdfb683-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/addaeca8-498b-4e72-ab0c-b941f63ba8e5/svn/primed-white-builder-s-choice-baseboard-hdfb683-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19c454b9-3fdc-4a81-907c-ab45a6107f5d/svn/primed-white-builder-s-choice-baseboard-hdfb683-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f1de4d82-95f1-4fe0-8768-ed23a1b88223/svn/primed-white-builder-s-choice-baseboard-hdfb683-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 23,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "683"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "keywords_list": [
+      "",
+      "COL683 1/2 in. x 3-1/4 in. MDF Base Moulding",
+      "HDFB683"
+    ],
+    "keywords": ", COL683 1/2 in. x 3-1/4 in. MDF Base Moulding, HDFB683",
+    "variants": [
+      {
+        "title": "Primed White~~12 ft~~Medium Density Fiberboard (MDF)~~10",
+        "link": "https://www.homedepot.com/p/Builder-s-Choice-OP683-1-2-in-x-3-1-4-in-x-144-in-MDF-ProPack-Base-Molding-Pack-of-10-HDFB683-PP/203364660",
+        "item_id": "203364660"
+      },
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builder-s-Choice-LWM683-9-16-in-x-2-1-4-in-Primed-MDF-Base-Moulding-HDFB683/203364659",
+        "item_id": "203364659"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

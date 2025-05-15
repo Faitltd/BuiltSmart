@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14678,
+    "overage_used": 4678,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Foggy-Wharf-Grooved-Edge-Grey-Composite-Deck-Board-TXDEN0106FW12G/309826016"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:02:54.195Z",
+    "processed_at": "2025-05-01T19:03:00.989Z",
+    "total_time_taken": 6.79,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Foggy-Wharf-Grooved-Edge-Grey-Composite-Deck-Board-TXDEN0106FW12G/309826016"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Foggy-Wharf-Grooved-Edge-Grey-Composite-Deck-Board-TXDEN0106FW12G/309826016",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Enhance Naturals 1 in. x 6 in. x 12 ft. Foggy Wharf Grooved Edge Grey Composite Deck Board",
+    "upc": "652835289534",
+    "item_id": "309826016",
+    "parent_id": "327512498",
+    "store_sku": "1006541079",
+    "model_number": "TXDEN0106FW12G",
+    "description": "Trex Enhance Basics and Trex Enhance Naturals both offer fade and stain protections, as well as enhanced mold and mildew resistance, to make maintenance simple. and because the boards are scalloped, they're as lightweight as lumber-without the extra work. Enhance decks mix and match with all of our Trex railing lines, allowing you to create a completely custom look.",
+    "feature_bullets": [
+      "Designed to resist mold and mildew",
+      "Made of recycled materials for durability",
+      "Measures 12 in. L"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Decking requires little upkeep",
+      "Made of recycled materials",
+      "Cleans easily&nbsp;with just soap and water",
+      "Soft, splinter-free finish is comfortable underfoot"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c9365791-8b18-433a-b6d8-5ea04e4d0575/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bfb9fa11-b31e-4c35-9a78-1377631f78ee/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/48114afd-1d6b-48be-bc61-97f361ec54a4/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9d136362-e606-4620-8486-137e41ad4bf6/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dbd5524c-1553-4096-8d80-970e9e388e67/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9105157c-714b-4461-96a3-25ae01a2ffdc/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a500784-a093-4e36-af4b-f7b802642d4e/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39647155-635a-42eb-a6fe-b65d8ae15f85/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39483d00-8767-4ae6-a98e-a887b403467e/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a3531561-f9e6-4fb6-9944-811740350a77/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dbd5524c-1553-4096-8d80-970e9e388e67/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c9365791-8b18-433a-b6d8-5ea04e4d0575/svn/foggy-wharf-trex-composite-decking-boards-txden0106fw12g-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 39,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Foggy Wharf"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Standard fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Foggy Wharf~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Foggy-Wharf-Grooved-Edge-Grey-Composite-Deck-Board-TXDEN0106FW12G/309826016",
+        "item_id": "309826016"
+      },
+      {
+        "title": "Foggy Wharf~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-16-ft-Enhance-Naturals-Foggy-Wharf-Grooved-Edge-Composite-Deck-Board-TXDEN0106FW16G/309826015",
+        "item_id": "309826015"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 30.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 244,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

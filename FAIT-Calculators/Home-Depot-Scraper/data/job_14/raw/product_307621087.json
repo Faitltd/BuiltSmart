@@ -1,0 +1,206 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13713,
+    "overage_used": 3713,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Columbus-1-in-x-6-in-x-1-ft-Hawaiian-Charcoal-Composite-Hybrid-Deck-Board-Sample-US33-16-N-CH-S/307621087"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:55:23.051Z",
+    "processed_at": "2025-05-01T16:56:02.718Z",
+    "total_time_taken": 39.67,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Columbus-1-in-x-6-in-x-1-ft-Hawaiian-Charcoal-Composite-Hybrid-Deck-Board-Sample-US33-16-N-CH-S/307621087"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Columbus-1-in-x-6-in-x-1-ft-Hawaiian-Charcoal-Composite-Hybrid-Deck-Board-Sample-US33-16-N-CH-S/307621087",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/NewTechWood/N-5yc1vZc5mbZbzg",
+    "title": "NewTechWood UltraShield Naturale Columbus 1 in. x 6 in. x 1 ft. Hawaiian Charcoal Composite Hybrid Deck Board Sample",
+    "upc": "854837007936",
+    "item_id": "307621087",
+    "store_sku": "1002964110",
+    "model_number": "US33-16-N-CH-S",
+    "description": "We are proud to introduce our new Naturale Decking Line. It is the most realistic composite to date. We have spent many hours studying how to get the look of wood just right. The outcome is this new Naturale Line. This is the most realistic grain pattern out on the market with just the right amount of texture even your guests will be fooled into thinking it is real wood. The board still has the great stain, fade and scratch resistance of our original line. This is our Hybrid Columbus Board with a groove on the bottom made specifically for finishing steps or your deck. This is a sample.",
+    "favorite_count": 4,
+    "feature_bullets": [
+      "Boards are capped on all sides for ultimate protection",
+      "Talk to a live NewTechWood expert at 855-592-8088",
+      "Reminder that this is just a 1 foot sample"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://www.newtechwood.com/free-take-offs?from=homedepot\" target=\"_blank\" style=\"color:#F96302;\">Need help doing a take-off? Click here and let us do the work for you!</a>",
+      "New naturale line gives the board the most realistic wood look in the industry",
+      "UltraShield coating gives the decking board ultra-stain, scratch and fades resistance",
+      "Grooved for hidden fasteners",
+      "25-year warranty",
+      "Tough outer shell will keep the color and beauty of your deck for years to come",
+      "Easy to clean",
+      "Sample item",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/NEWTECHWOOD LTD/1077078.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d343adfd-d801-5052-99bd-4b5501eea19e/svn/hawaiian-charcoal-newtechwood-composite-decking-boards-us33-16-n-ch-s-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7cfa3a93-a564-4db5-80db-4b176b8ebb93/svn/hawaiian-charcoal-newtechwood-composite-decking-boards-us33-16-n-ch-s-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b8aaabf0-0523-4f12-9755-6749a67d9a27/svn/hawaiian-charcoal-newtechwood-composite-decking-boards-us33-16-n-ch-s-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d25baba6-5f38-420c-9d9d-7ac1a36dbfec/svn/hawaiian-charcoal-newtechwood-composite-decking-boards-us33-16-n-ch-s-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36575c8b-c5b6-4c3b-bed4-af238abdde90/svn/hawaiian-charcoal-newtechwood-composite-decking-boards-us33-16-n-ch-s-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d343adfd-d801-5052-99bd-4b5501eea19e/svn/hawaiian-charcoal-newtechwood-composite-decking-boards-us33-16-n-ch-s-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/2c3444dd-38f5-4b74-99d3-17ff705c405f/main.mp4?fastly_token=NjgzODgyMTVfNWE1MmZkZjdhMDAxOTIwNzZhMWY2YWI0Y2MyZjIxY2E0NDI5YzZhODY0ZDcxNjRhZjRhZTg4NjZjZjI4MzEyYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lODUyMWU2ZC0wODUwLTQwMWItODdkOC1lMWY5Mzg1MzE1MmIvMmMzNDQ0ZGQtMzhmNS00Yjc0LTk5ZDMtMTdmZjcwNWM0MDVmL21haW4ubXA0&pubid=66036796001",
+        "title": " NewtTechWood - Introducing Ultrashield Naturale",
+        "id": "5483624160001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/05aa5e3d-faab-4d93-8c3e-ff6d5d3abb3c/160x90/match/image.jpg?pubId=66036796001",
+        "description": "An introduction into our NewTechWood Ultrashield Naturale Product line. It shows the technology, the inspiration and the beauty of our products. Sit back and enjoy!"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/ee093faf-51ae-4064-bc2f-23c9210b5d9d/main.mp4?fastly_token=NjgzODk0ZjZfZjQwMWJkMjMwMjBiZmQ2OGE3OGVjNDYxNWIxYTc5NGYyYmFlMjJlM2JjYjhlNWJlYmMwM2M3ZTcyNjM1OTBkOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xYWIzOGZkOC1lZjUwLTQ1ZjQtYWEyYS0zMjk5OWI0ZGMwYjIvZWUwOTNmYWYtNTFhZS00MDY0LWJjMmYtMjNjOTIxMGI1ZDlkL21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Decking Installation Guide",
+        "id": "5748602797001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/2d459e9f-3b60-4318-b23d-ca181c2048c0/160x90/match/image.jpg?pubId=66036796001",
+        "description": "All the info you need to install your NewTechWood Decking and enjoy it for years to come."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/0580fa2b-8c6b-42b4-9fe3-559fb2d8b9f7/main.mp4?fastly_token=NjgzODkyMmFfNGRmMDM5MWRjYmY3MjVmYjIwNjY3M2U1NWVkM2EwOTlmMzBjOTBjNjQwMTAzNTFjZmIwMTNiOTc3OWU1Y2M1MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hY2U2MjRkOS05NTBlLTRmODktYTgzZi1kNzUzMTkyYjExMmUvMDU4MGZhMmItOGM2Yi00MmI0LTlmZTMtNTU5ZmIyZDhiOWY3L21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Composite Decking Deep Dive",
+        "id": "6299851835001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/main/160x90/5m43s104ms/match/image.jpg?pubId=66036796001",
+        "description": "In this video we take a deep dive into NewTechWood Composite Decking to show you the different profiles and their use cases as well as the clips."
+      }
+    ],
+    "ratings_total": 1,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Hawaiian Charcoal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "1"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "0.5 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.9 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "3"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "1 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

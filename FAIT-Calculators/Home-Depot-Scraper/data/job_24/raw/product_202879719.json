@@ -1,0 +1,211 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14285,
+    "overage_used": 4285,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-324-19-32-in-X-2-1-4-in-x-84-in-Primed-MDF-Door-and-Window-Casing-10000984/202879719"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:24:31.819Z",
+    "processed_at": "2025-05-01T18:25:09.072Z",
+    "total_time_taken": 37.25,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-324-19-32-in-X-2-1-4-in-x-84-in-Primed-MDF-Door-and-Window-Casing-10000984/202879719"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-324-19-32-in-X-2-1-4-in-x-84-in-Primed-MDF-Door-and-Window-Casing-10000984/202879719",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork WM 324 19/32 in. X 2-1/4 in. x 84 in. Primed MDF Door and Window Casing",
+    "upc": "095624930284",
+    "item_id": "202879719",
+    "parent_id": "328892477",
+    "store_sku": "1000345650",
+    "model_number": "10000984",
+    "description": "The Woodgrain Millwork 19/32 in. x 2-1/4 in. x 84 in. WM324 Primed MDF Casing is used around doors and windows to cover the gaps between the frames and walls. Primed MDF WM324 Casing is the finishing touch on any window and door. You can combine casing with a backband to create a bold one of kind look.",
+    "favorite_count": 84,
+    "feature_bullets": [
+      "Primed white finish brings a classy vibe to your decor",
+      "MDF construction for strength and durability",
+      "Paintable for a customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Installs with common woodworking tools",
+      "For interior use only"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6b9fcf8b-123b-4c30-92e7-2d8958b1974a/svn/white-woodgrain-millwork-casing-10000984-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/37708d94-e96d-4204-9c54-2b40b9af6670/svn/white-woodgrain-millwork-casing-10000984-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6b9fcf8b-123b-4c30-92e7-2d8958b1974a/svn/white-woodgrain-millwork-casing-10000984-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 43,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "324"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "keywords_list": [
+      "Woodgrain Distributioin",
+      "15MM X 2-1/4 in. x 7 ft. 324 Casing Coated Medium Density Fiberboard",
+      "103097"
+    ],
+    "keywords": "Woodgrain Distributioin, 15MM X 2-1/4 in. x 7 ft. 324 Casing Coated Medium Density Fiberboard, 103097",
+    "variants": [
+      {
+        "title": "White~~7 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-324-19-32-in-X-2-1-4-in-x-84-in-Primed-MDF-Door-and-Window-Casing-10000984/202879719",
+        "item_id": "202879719"
+      },
+      {
+        "title": "White~~14 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WG-324-19-32-in-x-2-1-4-in-Primed-MDF-Door-and-Window-Casing-Molding-10000983/100321543",
+        "item_id": "100321543"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

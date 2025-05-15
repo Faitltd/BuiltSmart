@@ -1,0 +1,2678 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 34,
+    "credits_used_this_request": 1,
+    "credits_remaining": 466,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "search",
+    "search_term": "nails",
+    "page": "1",
+    "_t": "20250506001107",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-06T06:11:07.609Z",
+    "processed_at": "2025-05-06T06:11:11.639Z",
+    "total_time_taken": 4.03,
+    "lowes_url": "https://www.lowes.com/search?view=List&searchTerm=nails"
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "product": {
+        "title": "Grip-Rite 1-1/2-in x Hot-dipped galvanized Smooth Shank Joist hanger nails ( 121 -Per Box )Metabo HPT 3-in x 0.12-in 21 -Degree Bright Smooth Shank Collated Framing nails ( 1000 -Per Box )Paslode 3-in x 0.12-in 30 -Degree Hot-dipped galvanized Ring Shank Collated Framing nails ( 750 -Per Box )Metabo HPT 2-in x 0.113-in 21 -Degree Hot-dipped galvanized Ring Shank Collated Framing nails ( 1000 -Per Box )",
+        "link": "https://www.lowes.com/pd/Grip-Rite-9-Gauge-Hot-Dipped-Galvanized-Steel-Exterior-Joist-Hanger-Nails-1-lb/3043063",
+        "ratings_total": 8714977801500,
+        "rating": 4.5
+      },
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false
+      }
+    },
+    {
+      "position": 2,
+      "product": {
+        "title": "Metabo HPT 2-in 18 -Gauge Straight Electro-galvanized Collated Brad nails 1000 -Per BoxPaslode 2-in x 0.113-in 30 -Degree Hot-dipped galvanized Ring Shank Collated Framing nails ( 2000 -Per Box )Grip-Rite 1-1/4-in Smooth Shank Electro-galvanized Roofing Nails 196 -Per BoxCRAFTSMAN 3/4-in 1-1/4-in 2-in 18 -Gauge Straight Galvanized Collated Brad nails",
+        "link": "https://www.lowes.com/pd/Paslode-2-in-30-Degree-Galvanized-Steel-Interior-Exterior-Pneumatic-Framing-Nails-2000-Count/1242369",
+        "ratings_total": 1254780419316,
+        "rating": 5
+      },
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false
+      }
+    }
+  ],
+  "facets": [
+    {
+      "name": "Special Offers",
+      "display_name": "Special Offers",
+      "values": [
+        {
+          "display_name": "On Sale",
+          "value": "2",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "Bulk Savings",
+          "value": "982555939",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=982555939",
+          "count": 45,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Length Measurement",
+      "display_name": "Length Measurement",
+      "values": [
+        {
+          "display_name": "3/8-in",
+          "value": "3244386707",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3244386707",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1/2-in",
+          "value": "272843688",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=272843688",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "1/2-in; 3/4-in; 1-in",
+          "value": "2421845753066",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2421845753066",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "5/8-in",
+          "value": "2111632297",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2111632297",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "3/4-in",
+          "value": "3508730702",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3508730702",
+          "count": 14,
+          "active": false
+        },
+        {
+          "display_name": "3/4-in; 1-1/4-in; 2-in",
+          "value": "2420240224945",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2420240224945",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "7/8-in",
+          "value": "1123978715",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1123978715",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "1-in",
+          "value": "4290744214",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4290744214",
+          "count": 49,
+          "active": false
+        },
+        {
+          "display_name": "1-1/4-in",
+          "value": "2262636397",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2262636397",
+          "count": 60,
+          "active": false
+        },
+        {
+          "display_name": "1-1/4-in; 2-in; 2-1/2-in",
+          "value": "2521852099570",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2521852099570",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1-3/10-in",
+          "value": "1820888534488",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1820888534488",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1-3/8-in",
+          "value": "3166660839",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3166660839",
+          "count": 11,
+          "active": false
+        },
+        {
+          "display_name": "1-1/2-in",
+          "value": "1839331045",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1839331045",
+          "count": 77,
+          "active": false
+        },
+        {
+          "display_name": "1-5/8-in",
+          "value": "2135529233",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2135529233",
+          "count": 15,
+          "active": false
+        },
+        {
+          "display_name": "1-3/4-in",
+          "value": "2236744875",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2236744875",
+          "count": 33,
+          "active": false
+        },
+        {
+          "display_name": "1-7/8-in",
+          "value": "2354391243",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2354391243",
+          "count": 11,
+          "active": false
+        },
+        {
+          "display_name": "2-in",
+          "value": "2131212852",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2131212852",
+          "count": 74,
+          "active": false
+        },
+        {
+          "display_name": "2-1/4-in",
+          "value": "1601736091",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1601736091",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "2-3/8-in",
+          "value": "132515063",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=132515063",
+          "count": 60,
+          "active": false
+        },
+        {
+          "display_name": "2-1/2-in",
+          "value": "2095861764",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2095861764",
+          "count": 53,
+          "active": false
+        },
+        {
+          "display_name": "2-7/8-in",
+          "value": "3398895501",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3398895501",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "3-in",
+          "value": "2148380343",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2148380343",
+          "count": 87,
+          "active": false
+        },
+        {
+          "display_name": "3-1/8-in",
+          "value": "486232589",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=486232589",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "3-1/4-in",
+          "value": "1641507331",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1641507331",
+          "count": 41,
+          "active": false
+        },
+        {
+          "display_name": "3-1/2-in",
+          "value": "1343126366",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1343126366",
+          "count": 34,
+          "active": false
+        },
+        {
+          "display_name": "3-3/4-in",
+          "value": "157538517",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=157538517",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "4-in",
+          "value": "2581723687",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2581723687",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "5-in",
+          "value": "787183010",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=787183010",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "6-in",
+          "value": "3688945399",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3688945399",
+          "count": 2,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Type",
+      "display_name": "Type",
+      "values": [
+        {
+          "display_name": "Framing nails",
+          "value": "3741872482",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3741872482",
+          "count": 177,
+          "active": false
+        },
+        {
+          "display_name": "Finish nails",
+          "value": "2881689462",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2881689462",
+          "count": 86,
+          "active": false
+        },
+        {
+          "display_name": "Common",
+          "value": "510181581680",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=510181581680",
+          "count": 52,
+          "active": false
+        },
+        {
+          "display_name": "Brad nails",
+          "value": "362662009",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=362662009",
+          "count": 46,
+          "active": false
+        },
+        {
+          "display_name": "Siding",
+          "value": "4294815966",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294815966",
+          "count": 37,
+          "active": false
+        },
+        {
+          "display_name": "Flooring",
+          "value": "4294446988",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294446988",
+          "count": 31,
+          "active": false
+        },
+        {
+          "display_name": "Panel board nails",
+          "value": "2462588192",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2462588192",
+          "count": 29,
+          "active": false
+        },
+        {
+          "display_name": "Sinker nails",
+          "value": "2218533131",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2218533131",
+          "count": 29,
+          "active": false
+        },
+        {
+          "display_name": "Masonry",
+          "value": "3589219372",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3589219372",
+          "count": 23,
+          "active": false
+        },
+        {
+          "display_name": "Deck nails",
+          "value": "2593662826",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2593662826",
+          "count": 19,
+          "active": false
+        },
+        {
+          "display_name": "Joist hanger nails",
+          "value": "220585319",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=220585319",
+          "count": 19,
+          "active": false
+        },
+        {
+          "display_name": "Pin nails",
+          "value": "4186690845",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4186690845",
+          "count": 17,
+          "active": false
+        },
+        {
+          "display_name": "Box nails",
+          "value": "2717333129",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2717333129",
+          "count": 14,
+          "active": false
+        },
+        {
+          "display_name": "Trim nails",
+          "value": "3940705507",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3940705507",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "Drywall",
+          "value": "4294827932",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294827932",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "Duplex nails",
+          "value": "3169122775",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3169122775",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "Clavos",
+          "value": "510178462279",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=510178462279",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Linoleum",
+          "value": "610207053588",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=610207053588",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Pole barn nails",
+          "value": "963499137",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=963499137",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Collated",
+      "display_name": "Collated",
+      "values": [
+        {
+          "display_name": "Yes",
+          "value": "1080225443",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1080225443",
+          "count": 355,
+          "active": false
+        },
+        {
+          "display_name": "No",
+          "value": "645107658",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=645107658",
+          "count": 309,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Brand",
+      "display_name": "Brand",
+      "values": [
+        {
+          "display_name": "Metabo HPT",
+          "value": "2284209417",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2284209417",
+          "count": 123,
+          "active": false
+        },
+        {
+          "display_name": "Paslode",
+          "value": "4294965586",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294965586",
+          "count": 83,
+          "active": false
+        },
+        {
+          "display_name": "Bostitch",
+          "value": "4294964351",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294964351",
+          "count": 35,
+          "active": false
+        },
+        {
+          "display_name": "FASCO",
+          "value": "19775470",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=19775470",
+          "count": 17,
+          "active": false
+        },
+        {
+          "display_name": "Arrow",
+          "value": "4294963563",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294963563",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Bosch",
+          "value": "4294965864",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294965864",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "CRAFTSMAN",
+          "value": "3252463372",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3252463372",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Duo-Fast",
+          "value": "4294926373",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294926373",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Fas-n-Tite",
+          "value": "1917936660",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1917936660",
+          "count": 112,
+          "active": false
+        },
+        {
+          "display_name": "FREEMAN",
+          "value": "4294796926",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294796926",
+          "count": 17,
+          "active": false
+        },
+        {
+          "display_name": "Georgia-Pacific",
+          "value": "4294961684",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294961684",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Grip Rite PrimeGuard Max",
+          "value": "4294712313",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294712313",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Grip-Rite",
+          "value": "4294859894",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294859894",
+          "count": 133,
+          "active": false
+        },
+        {
+          "display_name": "Hillman",
+          "value": "4294961530",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294961530",
+          "count": 49,
+          "active": false
+        },
+        {
+          "display_name": "Huttig-Grip",
+          "value": "921280577776",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=921280577776",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "M-D",
+          "value": "4055950544",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4055950544",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "Powernail",
+          "value": "811851161815",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=811851161815",
+          "count": 15,
+          "active": false
+        },
+        {
+          "display_name": "PRO-FIT",
+          "value": "710353138701",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=710353138701",
+          "count": 42,
+          "active": false
+        },
+        {
+          "display_name": "ROOFING NATION",
+          "value": "1111557374557",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1111557374557",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Simpson Strong-Tie",
+          "value": "4294965588",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294965588",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "STINGER",
+          "value": "4294745805",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294745805",
+          "count": 9,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Material",
+      "display_name": "Material",
+      "values": [
+        {
+          "display_name": "Steel",
+          "value": "4294965831",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294965831",
+          "count": 650,
+          "active": false
+        },
+        {
+          "display_name": "Stainless steel",
+          "value": "4294883139",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294883139",
+          "count": 27,
+          "active": false
+        },
+        {
+          "display_name": "Aluminum",
+          "value": "4294965691",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294965691",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "304 grade stainless steel",
+          "value": "1511784428869",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1511784428869",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Hardened steel",
+          "value": "4294926303",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294926303",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Penny (d)",
+      "display_name": "Penny (d)",
+      "values": [
+        {
+          "display_name": "2d",
+          "value": "611417043544",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611417043544",
+          "count": 31,
+          "active": false
+        },
+        {
+          "display_name": "3d",
+          "value": "611417043575",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611417043575",
+          "count": 22,
+          "active": false
+        },
+        {
+          "display_name": "4d",
+          "value": "611417043606",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611417043606",
+          "count": 39,
+          "active": false
+        },
+        {
+          "display_name": "5d",
+          "value": "611417043637",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611417043637",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "6d",
+          "value": "611417043668",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611417043668",
+          "count": 42,
+          "active": false
+        },
+        {
+          "display_name": "7d",
+          "value": "611417043699",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611417043699",
+          "count": 21,
+          "active": false
+        },
+        {
+          "display_name": "8d",
+          "value": "611417043730",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611417043730",
+          "count": 66,
+          "active": false
+        },
+        {
+          "display_name": "9d",
+          "value": "611417043761",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611417043761",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "10d",
+          "value": "710978674431",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=710978674431",
+          "count": 77,
+          "active": false
+        },
+        {
+          "display_name": "12d",
+          "value": "710978674493",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=710978674493",
+          "count": 34,
+          "active": false
+        },
+        {
+          "display_name": "16d",
+          "value": "710978674617",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=710978674617",
+          "count": 31,
+          "active": false
+        },
+        {
+          "display_name": "20d",
+          "value": "710978675392",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=710978675392",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "60d",
+          "value": "710978679236",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=710978679236",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Gauge",
+      "display_name": "Gauge",
+      "values": [
+        {
+          "display_name": "0",
+          "value": "4294562138",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562138",
+          "count": 204,
+          "active": false
+        },
+        {
+          "display_name": "0.09",
+          "value": "4294645311",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294645311",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "0.11",
+          "value": "611555922612",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=611555922612",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "0.12",
+          "value": "4294639194",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294639194",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "1.25",
+          "value": "4294709610",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294709610",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "2",
+          "value": "4294561535",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294561535",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "6",
+          "value": "4294562112",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562112",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "7",
+          "value": "4294562113",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562113",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "8",
+          "value": "4294562181",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562181",
+          "count": 16,
+          "active": false
+        },
+        {
+          "display_name": "9",
+          "value": "4294562200",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562200",
+          "count": 47,
+          "active": false
+        },
+        {
+          "display_name": "10",
+          "value": "4294563740",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294563740",
+          "count": 31,
+          "active": false
+        },
+        {
+          "display_name": "10.25",
+          "value": "4294709861",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294709861",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "11",
+          "value": "4294562247",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562247",
+          "count": 69,
+          "active": false
+        },
+        {
+          "display_name": "11.5",
+          "value": "4294709932",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294709932",
+          "count": 19,
+          "active": false
+        },
+        {
+          "display_name": "12",
+          "value": "4294562182",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562182",
+          "count": 24,
+          "active": false
+        },
+        {
+          "display_name": "12.5",
+          "value": "4294710306",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294710306",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "13",
+          "value": "4294562114",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562114",
+          "count": 29,
+          "active": false
+        },
+        {
+          "display_name": "14",
+          "value": "4294562115",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562115",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "15",
+          "value": "4294562135",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562135",
+          "count": 36,
+          "active": false
+        },
+        {
+          "display_name": "16",
+          "value": "4294562227",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562227",
+          "count": 50,
+          "active": false
+        },
+        {
+          "display_name": "16.5",
+          "value": "4294709662",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294709662",
+          "count": 18,
+          "active": false
+        },
+        {
+          "display_name": "17",
+          "value": "4294562226",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294562226",
+          "count": 14,
+          "active": false
+        },
+        {
+          "display_name": "18",
+          "value": "4294614361",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294614361",
+          "count": 44,
+          "active": false
+        },
+        {
+          "display_name": "19",
+          "value": "4294570492",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294570492",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "20",
+          "value": "4294571190",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294571190",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "21",
+          "value": "4294560998",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294560998",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "23",
+          "value": "4294559028",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294559028",
+          "count": 18,
+          "active": false
+        },
+        {
+          "display_name": "28",
+          "value": "4294557080",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294557080",
+          "count": 10,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Price",
+      "display_name": "Price",
+      "active_range": false,
+      "values": [
+        {
+          "display_name": "Less than $1",
+          "value": "2084530213",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2084530213",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "$1 - $5",
+          "value": "1534633778",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1534633778",
+          "count": 89,
+          "active": false
+        },
+        {
+          "display_name": "$5 - $10",
+          "value": "842502918",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=842502918",
+          "count": 124,
+          "active": false
+        },
+        {
+          "display_name": "$10 - $15",
+          "value": "3876648580",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3876648580",
+          "count": 25,
+          "active": false
+        },
+        {
+          "display_name": "$15 - $25",
+          "value": "3050296020",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3050296020",
+          "count": 120,
+          "active": false
+        },
+        {
+          "display_name": "$25 - $50",
+          "value": "1210125883",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1210125883",
+          "count": 82,
+          "active": false
+        },
+        {
+          "display_name": "$50 - $100",
+          "value": "2104441257",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2104441257",
+          "count": 125,
+          "active": false
+        },
+        {
+          "display_name": "$100 - $200",
+          "value": "4053879751",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4053879751",
+          "count": 51,
+          "active": false
+        },
+        {
+          "display_name": "$200 - $400",
+          "value": "1224133687",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1224133687",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "$400 - $600",
+          "value": "1287754666",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1287754666",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "$600 - $800",
+          "value": "2823642578",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2823642578",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "$800 - $1000",
+          "value": "2738894007",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2738894007",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "$1000 - $2000",
+          "value": "3043313500",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3043313500",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "$2000 - $3000",
+          "value": "2665191283",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2665191283",
+          "count": 12,
+          "active": false
+        },
+        {
+          "display_name": "$3000 - $4000",
+          "value": "342505339",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=342505339",
+          "count": 18,
+          "active": false
+        },
+        {
+          "display_name": "$4000 - $5000",
+          "value": "700400218",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=700400218",
+          "count": 14,
+          "active": false
+        },
+        {
+          "display_name": "$5000 - $6000",
+          "value": "87589463",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=87589463",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "$6000 - $7000",
+          "value": "1670217824",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1670217824",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "$7000 - $8000",
+          "value": "2458425921",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=2458425921",
+          "count": 2,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Rating",
+      "display_name": "Rating",
+      "values": [
+        {
+          "display_name": "5",
+          "value": "5007197",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=5007197",
+          "count": 374,
+          "active": false
+        },
+        {
+          "display_name": "4",
+          "value": "5005561",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=5005561",
+          "count": 528,
+          "active": false
+        },
+        {
+          "display_name": "3",
+          "value": "5005562",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=5005562",
+          "count": 536,
+          "active": false
+        },
+        {
+          "display_name": "1",
+          "value": "5005558",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=5005558",
+          "count": 539,
+          "active": false
+        },
+        {
+          "display_name": "2",
+          "value": "5005559",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=5005559",
+          "count": 537,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Diameter (Inches)",
+      "display_name": "Diameter (Inches)",
+      "values": [
+        {
+          "display_name": "0",
+          "value": "4294563463",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294563463",
+          "count": 50,
+          "active": false
+        },
+        {
+          "display_name": "0.09",
+          "value": "4294829709",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294829709",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "0.1",
+          "value": "4294826054",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294826054",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "0.11",
+          "value": "4294815426",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294815426",
+          "count": 64,
+          "active": false
+        },
+        {
+          "display_name": "0.12",
+          "value": "4294684270",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294684270",
+          "count": 88,
+          "active": false
+        },
+        {
+          "display_name": "0.13",
+          "value": "4294828783",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294828783",
+          "count": 66,
+          "active": false
+        },
+        {
+          "display_name": "0.15",
+          "value": "4294828710",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294828710",
+          "count": 22,
+          "active": false
+        },
+        {
+          "display_name": "0.16",
+          "value": "1120016547766",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1120016547766",
+          "count": 12,
+          "active": false
+        },
+        {
+          "display_name": "0.17",
+          "value": "1120016547765",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1120016547765",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "0.19",
+          "value": "4294829731",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294829731",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "0.2",
+          "value": "4294721923",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294721923",
+          "count": 16,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Head Type",
+      "display_name": "Head Type",
+      "values": [
+        {
+          "display_name": "Round",
+          "value": "4294737091",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294737091",
+          "count": 292,
+          "active": false
+        },
+        {
+          "display_name": "Flat",
+          "value": "4294746200",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294746200",
+          "count": 131,
+          "active": false
+        },
+        {
+          "display_name": "Clipped",
+          "value": "106002331",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=106002331",
+          "count": 26,
+          "active": false
+        },
+        {
+          "display_name": "L-shaped",
+          "value": "3777388683",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3777388683",
+          "count": 19,
+          "active": false
+        },
+        {
+          "display_name": "Offset round",
+          "value": "4089240705",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4089240705",
+          "count": 12,
+          "active": false
+        },
+        {
+          "display_name": "Cupped",
+          "value": "4294721775",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294721775",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "T-shaped",
+          "value": "1021186995423",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1021186995423",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Number of Pieces",
+      "display_name": "Number of Pieces",
+      "values": [
+        {
+          "display_name": "0",
+          "value": "1314605420",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1314605420",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1",
+          "value": "4294798059",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294798059",
+          "count": 24,
+          "active": false
+        },
+        {
+          "display_name": "1.5",
+          "value": "1010506735368",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735368",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "4",
+          "value": "4294798060",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294798060",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "16",
+          "value": "4294549240",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294549240",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "20",
+          "value": "4294550401",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294550401",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "28",
+          "value": "4294552694",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552694",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "30",
+          "value": "4294551809",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294551809",
+          "count": 11,
+          "active": false
+        },
+        {
+          "display_name": "32",
+          "value": "4294553314",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294553314",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "37",
+          "value": "4294548297",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294548297",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "40",
+          "value": "4294552773",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552773",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "44",
+          "value": "4294436662",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294436662",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "48",
+          "value": "117327176",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=117327176",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "50",
+          "value": "4294547506",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294547506",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "54",
+          "value": "910570535759",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=910570535759",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "57",
+          "value": "1946947330",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1946947330",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "58",
+          "value": "910570535763",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=910570535763",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "60",
+          "value": "4294552720",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552720",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "61",
+          "value": "910570535787",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=910570535787",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "62",
+          "value": "910570535788",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=910570535788",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "63",
+          "value": "1143990020",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1143990020",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "66",
+          "value": "1469123177",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1469123177",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "71",
+          "value": "910570535818",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=910570535818",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "73",
+          "value": "333899899",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=333899899",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "75",
+          "value": "4006727513",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4006727513",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "79",
+          "value": "910570535826",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=910570535826",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "83",
+          "value": "910570535851",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=910570535851",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "84",
+          "value": "4294552251",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552251",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "85",
+          "value": "4294547324",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294547324",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "86",
+          "value": "4294552780",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552780",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "87",
+          "value": "4294552027",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552027",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "88",
+          "value": "4294403215",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294403215",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "90",
+          "value": "4294548536",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294548536",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "100",
+          "value": "4294552018",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552018",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "103",
+          "value": "1010506735428",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735428",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "113",
+          "value": "1010506735459",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735459",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "116",
+          "value": "3588524493",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3588524493",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "119",
+          "value": "1298580664",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1298580664",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "120",
+          "value": "1010506735487",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735487",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "121",
+          "value": "1010506735488",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735488",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "127",
+          "value": "1010506735494",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735494",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "128",
+          "value": "1010506735495",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735495",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "130",
+          "value": "1010506735518",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735518",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "135",
+          "value": "1010506735523",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735523",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "136",
+          "value": "1010506735524",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735524",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "144",
+          "value": "1010506735553",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735553",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "145",
+          "value": "1010506735554",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735554",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "149",
+          "value": "1010506735558",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735558",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "150",
+          "value": "4294552640",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552640",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "154",
+          "value": "1010506735584",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735584",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "159",
+          "value": "1010506735589",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735589",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "160",
+          "value": "1010506735611",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735611",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "166",
+          "value": "1010506735617",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735617",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "168",
+          "value": "1010506735619",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735619",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "172",
+          "value": "1010506735644",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735644",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "173",
+          "value": "1010506735645",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735645",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "174",
+          "value": "1010506735646",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735646",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "176",
+          "value": "1010506735648",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735648",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "177",
+          "value": "1010506735649",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735649",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "180",
+          "value": "1010506735673",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735673",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "182",
+          "value": "1010506735675",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735675",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "188",
+          "value": "1010506735681",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735681",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "190",
+          "value": "1010506735704",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735704",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "196",
+          "value": "1010506735710",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506735710",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "200",
+          "value": "3752690118",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3752690118",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "206",
+          "value": "1010506736392",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736392",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "207",
+          "value": "4294552031",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294552031",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "213",
+          "value": "1010506736420",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736420",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "214",
+          "value": "1010506736421",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736421",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "220",
+          "value": "3286668000",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=3286668000",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "222",
+          "value": "1010506736450",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736450",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "223",
+          "value": "1010506736451",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736451",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "224",
+          "value": "1010506736452",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736452",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "232",
+          "value": "1010506736481",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736481",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "239",
+          "value": "1010506736488",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736488",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "244",
+          "value": "1010506736514",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736514",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "245",
+          "value": "1010506736515",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736515",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "247",
+          "value": "1010506736517",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736517",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "250",
+          "value": "1328277512",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1328277512",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "255",
+          "value": "1010506736546",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736546",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "258",
+          "value": "1010506736549",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736549",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "267",
+          "value": "1010506736579",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736579",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "269",
+          "value": "1010506736581",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736581",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "278",
+          "value": "1010506736611",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736611",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "279",
+          "value": "1010506736612",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736612",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "280",
+          "value": "1010506736634",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736634",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "281",
+          "value": "1010506736635",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736635",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "286",
+          "value": "1010506736640",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736640",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "287",
+          "value": "1010506736641",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736641",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "290",
+          "value": "1010506736665",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736665",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "291",
+          "value": "1010506736666",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736666",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "298",
+          "value": "1010506736673",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506736673",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "304",
+          "value": "1010506737351",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737351",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "308",
+          "value": "1010506737355",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737355",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "314",
+          "value": "1010506737382",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737382",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "322",
+          "value": "1010506737411",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737411",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "328",
+          "value": "1010506737417",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737417",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "331",
+          "value": "1010506737441",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737441",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "337",
+          "value": "1010506737447",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737447",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "357",
+          "value": "1010506737509",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737509",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "358",
+          "value": "1010506737510",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737510",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "385",
+          "value": "1010506737600",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506737600",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "405",
+          "value": "1010506738313",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738313",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "414",
+          "value": "1010506738343",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738343",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "426",
+          "value": "1010506738376",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738376",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "428",
+          "value": "1010506738378",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738378",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "437",
+          "value": "1010506738408",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738408",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "447",
+          "value": "1010506738439",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738439",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "449",
+          "value": "1010506738441",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738441",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "450",
+          "value": "1942197683",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1942197683",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "475",
+          "value": "1010506738530",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738530",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "480",
+          "value": "1010506738556",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738556",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "489",
+          "value": "1010506738565",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506738565",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "500",
+          "value": "4160464199",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4160464199",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "504",
+          "value": "1010506739273",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506739273",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "508",
+          "value": "1010506739277",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506739277",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "527",
+          "value": "1010506739338",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506739338",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "539",
+          "value": "1010506739371",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506739371",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "560",
+          "value": "1010506739455",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506739455",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "567",
+          "value": "1010506739462",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506739462",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "594",
+          "value": "1010506739552",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506739552",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "599",
+          "value": "1010506739557",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506739557",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "600",
+          "value": "1010506740230",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740230",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "605",
+          "value": "1010506740235",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740235",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "625",
+          "value": "1010506740297",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740297",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "636",
+          "value": "1010506740329",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740329",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "648",
+          "value": "1010506740362",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740362",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "649",
+          "value": "1010506740363",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740363",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "653",
+          "value": "1010506740388",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740388",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "656",
+          "value": "1010506740391",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740391",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "665",
+          "value": "1010506740421",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740421",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "681",
+          "value": "1010506740479",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740479",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "684",
+          "value": "1010506740482",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740482",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "689",
+          "value": "1010506740487",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506740487",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "710",
+          "value": "1010506741222",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506741222",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "713",
+          "value": "1010506741225",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506741225",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "727",
+          "value": "1010506741260",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506741260",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "743",
+          "value": "1010506741318",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506741318",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "750",
+          "value": "1010506741346",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506741346",
+          "count": 11,
+          "active": false
+        },
+        {
+          "display_name": "770",
+          "value": "1010506741408",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506741408",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "798",
+          "value": "1010506741478",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506741478",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "800",
+          "value": "1010506742152",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506742152",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "855",
+          "value": "1010506742312",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506742312",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "867",
+          "value": "1010506742345",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506742345",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "884",
+          "value": "1010506742404",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506742404",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "900",
+          "value": "1010506743113",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1010506743113",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "1000",
+          "value": "1121471070961",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471070961",
+          "count": 61,
+          "active": false
+        },
+        {
+          "display_name": "1020",
+          "value": "1121471070899",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471070899",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1036",
+          "value": "1121471070862",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471070862",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1070",
+          "value": "1121471070744",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471070744",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1200",
+          "value": "1121471069039",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471069039",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "1220",
+          "value": "1121471068977",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471068977",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1265",
+          "value": "1121471068848",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471068848",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1345",
+          "value": "1121471067949",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471067949",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1400",
+          "value": "1121471067117",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471067117",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1454",
+          "value": "1121471066958",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471066958",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1520",
+          "value": "1121471066094",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471066094",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1600",
+          "value": "1121471065195",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471065195",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "1610",
+          "value": "1121471065164",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471065164",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1657",
+          "value": "1121471065033",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471065033",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1715",
+          "value": "1121471064198",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471064198",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1728",
+          "value": "1121471064164",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471064164",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "1887",
+          "value": "1121471063018",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471063018",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "2000",
+          "value": "1622875508",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1622875508",
+          "count": 57,
+          "active": false
+        },
+        {
+          "display_name": "2025",
+          "value": "1121471041103",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471041103",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "2160",
+          "value": "1121471040023",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471040023",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "2400",
+          "value": "1121471037326",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471037326",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "2500",
+          "value": "1121471036365",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471036365",
+          "count": 23,
+          "active": false
+        },
+        {
+          "display_name": "2700",
+          "value": "1121471034443",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471034443",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "2859",
+          "value": "1121471033318",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471033318",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "3000",
+          "value": "1121471011379",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471011379",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "3310",
+          "value": "1121471008465",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471008465",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "3568",
+          "value": "1121471006380",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471006380",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "3600",
+          "value": "1121471005613",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471005613",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "3655",
+          "value": "1121471005453",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471005453",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "3817",
+          "value": "1121471003653",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471003653",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "3886",
+          "value": "1121471003437",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121471003437",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "4000",
+          "value": "4294548763",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=4294548763",
+          "count": 11,
+          "active": false
+        },
+        {
+          "display_name": "4104",
+          "value": "1121470980623",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470980623",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "4131",
+          "value": "1121470980533",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470980533",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "4361",
+          "value": "1121470978518",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470978518",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "4800",
+          "value": "1121470973900",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470973900",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "5000",
+          "value": "1121470951797",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470951797",
+          "count": 22,
+          "active": false
+        },
+        {
+          "display_name": "5022",
+          "value": "1121470951733",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470951733",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "5210",
+          "value": "1121470949844",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470949844",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "5869",
+          "value": "1121470943914",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470943914",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "5886",
+          "value": "1121470943855",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470943855",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "7200",
+          "value": "1121470890293",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470890293",
+          "count": 15,
+          "active": false
+        },
+        {
+          "display_name": "7323",
+          "value": "1121470889267",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470889267",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "7344",
+          "value": "1121470889204",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1121470889204",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "24000",
+          "value": "1111642483198",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1111642483198",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "81600",
+          "value": "1111647940717",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1111647940717",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "120000",
+          "value": "1220653104559",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1220653104559",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "144000",
+          "value": "1220651138353",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1220651138353",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "192000",
+          "value": "1220646580330",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1220646580330",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "210000",
+          "value": "1220625398929",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1220625398929",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "216000",
+          "value": "1220625220183",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1220625220183",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "240000",
+          "value": "1220622628366",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1220622628366",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "345600",
+          "value": "1220593844494",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1220593844494",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "346000",
+          "value": "1220593820469",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1220593820469",
+          "count": 2,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Availability",
+      "display_name": "Availability",
+      "values": [
+        {
+          "display_name": "Show Out of Stock",
+          "value": "1",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=nails&refinement=1",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": {
+      "page": 1,
+      "link": "https://www.lowes.com/search?view=List&searchTerm=nails"
+    }
+  }
+}

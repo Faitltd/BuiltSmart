@@ -1,0 +1,253 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13189,
+    "overage_used": 3189,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GAF-Royal-Sovereign-Charcoal-Algae-Resistant-3-Tab-Roofing-Shingles-33-33-sq-ft-per-Bundle-26-Pieces-0201180/100040028"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:47:23.672Z",
+    "processed_at": "2025-05-01T13:47:28.702Z",
+    "total_time_taken": 5.03,
+    "homedepot_url": "https://www.homedepot.com/p/GAF-Royal-Sovereign-Charcoal-Algae-Resistant-3-Tab-Roofing-Shingles-33-33-sq-ft-per-Bundle-26-Pieces-0201180/100040028"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GAF-Royal-Sovereign-Charcoal-Algae-Resistant-3-Tab-Roofing-Shingles-33-33-sq-ft-per-Bundle-26-Pieces-0201180/100040028",
+    "brand": "GAF",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Shingles/GAF/N-5yc1vZc5rbZll",
+    "title": "GAF Royal Sovereign Charcoal Algae Resistant 3-Tab Roofing Shingles (33.33 sq. ft. per. Bundle) (26-Pieces)",
+    "upc": "073590157003",
+    "item_id": "100040028",
+    "parent_id": "206420232",
+    "store_sku": "929291",
+    "model_number": "0201180",
+    "description": "Royal Sovereign Shingles have a simple yet timeless beauty. Some people think all 3-tab shingles look pretty much alike. Not so. GAF has g1 to great pains to make Royal Sovereign the most beautiful strip shingle you can install.",
+    "favorite_count": 2281,
+    "aisle": "25",
+    "bay": "012",
+    "feature_bullets": [
+      "Durable 3-tab asphalt shingle covered by 25-year limited warranty",
+      "Reliable, affordable roofing shingle with a rich and vivid design",
+      "Algae protection helps ensure the curb appeal of your home's roof"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "25-years ltd transferable warranty with smart choice protection (non prorated material and installation labor coverage) for the first 5-years (see GAF shingle and accessory ltd warranty for complete coverage and restrictions)",
+      "Proven quality with over 10-billion royal sovereign shingles having been installed in North America - enough to circle the earth more than 200-times if they were laid end to end",
+      "Advanced protection shingle technology reduces the use of precious natural resources while providing excellent protection for your home",
+      "Looks great with color lock ceramic firing (granules) that helps maintain the true shingle color",
+      "Stain guard protection helps ensure the beauty of your roof against unsightly blue green algae (stain guard protection applies only to shingles with stain guard labeled packaging see GAF shingle and accessory ltd warranty for details)",
+      "Passes the industry's 2-toughest wind tests ASTM's 110 MPH and 150 MPH wind tests (under controlled laboratory conditions)",
+      "Micro weave core offers a strong foundation that helps resist cracking and splitting",
+      "Meets the highest roofing fire rating, UL class A, listed to ANSI/UL 790",
+      "Long lasting beauty may increase your home's resale value",
+      "<a href=\"in.http//www.homedepot.com/p/GAF-Installed-GAF-Royal-Sovereign-3-Tab-Asphalt-Shingles-HSINSTGAFRSTAS/300175874\" target=\"in._blank\">Request a quote for installation.</a>",
+      "For design inspiration, <a href=\"in.https//www.homedepot.com/c/Front_of_Home_Trends\" target=\"in._blank\" style=\"in.color#F96302\">Click here for exterior front of home trend ideas</a>",
+      "<a href=\"in.https//www.homedepot.com/catalog/pdfImages/ad/ad8f5906-18db-4b89-b232-5b1a19c2574e.pdf\" target=\"in._blank\"><img src=\"in.https//inlinecontent.thdstatic.com/22/GAF/Roofing\"></a>",
+      "Shop all <a href=\"in.https//www.homedepot.com/b/Building-Materials-Roofing-Gutters-Roofing-Roof-Shingles/GAF/N-5yc1vZc5rbZll\" target=\"in._blank\" style=\"in.color#F96302\">GAF Shingles</a> here",
+      "<a href=\"https://quickmeasure.gaf.com/THD\" target=\"_blank\" style=\"color:#F96302;\">Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders. A complete bill of materials, with Home Depot product SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]</a>"
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3c2925f0-8d7f-4f95-a096-25a663340d93/svn/charcoal-gaf-roof-shingles-0201180-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8276d877-6446-46e9-8831-7fda807ef2b0/svn/charcoal-gaf-roof-shingles-0201180-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4ae75d29-a79e-4629-98c2-5fa2534c21ae/svn/charcoal-gaf-roof-shingles-0201180-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4c284e9d-5436-4bd0-8f66-6b6ae0149ab5/svn/charcoal-gaf-roof-shingles-0201180-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/74346a3a-a09f-46a3-9fe9-53e14480a955/svn/charcoal-gaf-roof-shingles-0201180-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/28914e94-e5b2-4505-91c1-ffdda13eb185/svn/charcoal-gaf-roof-shingles-0201180-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cbce182a-b492-4626-b75b-e1dfb6dbc089/svn/charcoal-gaf-roof-shingles-0201180-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3c2925f0-8d7f-4f95-a096-25a663340d93/svn/charcoal-gaf-roof-shingles-0201180-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/b266da99-e38a-4f58-b0c1-7710796c75ff/6f223ebf-75e6-4b91-9204-5994da506edc/main.mp4?fastly_token=NjgzODIzMDJfNTk1YTU4YmZkMzllZWJhMmRjYWJlYjgwNzQ4MmMxYTA5MGU4ZWFmZWUwZWRhMTE5M2I1MTU3MzhhOWU2YTM3MV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iMjY2ZGE5OS1lMzhhLTRmNTgtYjBjMS03NzEwNzk2Yzc1ZmYvNmYyMjNlYmYtNzVlNi00YjkxLTkyMDQtNTk5NGRhNTA2ZWRjL21haW4ubXA0&pubid=66036796001",
+        "title": "Pro Series Timberline Closed Cut Valley",
+        "id": "5787619566001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/b266da99-e38a-4f58-b0c1-7710796c75ff/4cdeecf7-8551-4bcd-bd04-55a58aad93ab/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Demonstrates how to install shingles in closed cut valleys"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/5e828cc2-4b19-4810-b90f-cc2c77b60de3/db323029-8a22-4172-af3f-b61e1acf6054/main.mp4?fastly_token=NjgzODI4MTJfNWVlOTU2MjNhZGQ1MTYzNDUzMDA0MWJhM2FkNGNjZmQ5OTMzYjU0ZmVmYjhiZjc1NzI0YjA0ZjE2ZTg2N2RkN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81ZTgyOGNjMi00YjE5LTQ4MTAtYjkwZi1jYzJjNzdiNjBkZTMvZGIzMjMwMjktOGEyMi00MTcyLWFmM2YtYjYxZTFhY2Y2MDU0L21haW4ubXA0&pubid=66036796001",
+        "title": "Royal Sovereign Basic Install",
+        "id": "5787709570001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/5e828cc2-4b19-4810-b90f-cc2c77b60de3/bca4c778-9fca-4bb0-8b2b-500d46b2e0c5/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Demonstrates how to install GAF Royal Sovereign 3-tab shingles"
+      }
+    ],
+    "ratings_total": 668,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Charcoal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Energy Star Rated,High Wind Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "Class A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Asphalt"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of bundles per 100 sq. ft. (Square)",
+        "value": "3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of pieces per bundle",
+        "value": "26"
+      },
+      {
+        "group_name": "Details",
+        "name": "Requirements",
+        "value": "Attic Ventilation,Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "3-Tab Shingle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shingle Exposure (in.)",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shingle Type",
+        "value": "3-Tab Shingle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Warranty",
+        "value": "25 Year Limited Warranty"
+      },
+      {
+        "group_name": "Details",
+        "name": "Weight Per Bundle (lb.)",
+        "value": "62"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "33.33 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "2.4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "keywords_list": [
+      "shingles",
+      "asphalt shingles",
+      "durable shingles",
+      "GAF shingles"
+    ],
+    "keywords": "shingles, asphalt shingles, durable shingles, GAF shingles",
+    "variants": [
+      {
+        "title": "Charcoal",
+        "link": "https://www.homedepot.com/p/GAF-Royal-Sovereign-Charcoal-Algae-Resistant-3-Tab-Roofing-Shingles-33-33-sq-ft-per-Bundle-26-Pieces-0201180/100040028",
+        "item_id": "100040028"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Roof Shingles",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Shingles/N-5yc1vZc5rb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 39.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "bundle",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 124
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 8493,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

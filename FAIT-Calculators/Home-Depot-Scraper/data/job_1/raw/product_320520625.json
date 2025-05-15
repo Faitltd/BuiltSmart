@@ -1,0 +1,281 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14909,
+    "overage_used": 4909,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Panasonic-Whisper-Choice-DC-Pick-A-Flow-80-110-CFM-Ceiling-Bathroom-Exhaust-Fan-with-Flex-Z-Fast-Bracket-RG-C811A/320520625"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:41:02.146Z",
+    "processed_at": "2025-05-02T21:41:06.456Z",
+    "total_time_taken": 4.31,
+    "homedepot_url": "https://www.homedepot.com/p/Panasonic-Whisper-Choice-DC-Pick-A-Flow-80-110-CFM-Ceiling-Bathroom-Exhaust-Fan-with-Flex-Z-Fast-Bracket-RG-C811A/320520625"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Panasonic-Whisper-Choice-DC-Pick-A-Flow-80-110-CFM-Ceiling-Bathroom-Exhaust-Fan-with-Flex-Z-Fast-Bracket-RG-C811A/320520625",
+    "brand": "Panasonic",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bathroom-Exhaust-Fans-Bath-Fans/Panasonic/N-5yc1vZc4kqZ14i",
+    "title": "Panasonic Whisper Choice DC Pick-A-Flow 80/110 CFM Ceiling Bathroom Exhaust Fan with Flex-Z Fast Bracket",
+    "upc": "885170392717",
+    "item_id": "320520625",
+    "store_sku": "1007773039",
+    "model_number": "RG-C811A",
+    "description": "The Whisper Choice DC exhaust fan with Pick-A-Flow CFM allows you to choose your airflow, 80 or 110 CFM. Simplify the selection process and ensure optimum CFM performance while eliminating humidity, mold, mildew, and other air pollutants from the bathroom and increasing your air quality. The DC-ECM Motor technology offers reduced energy costs, long life and is environmentally friendly. In addition to bathrooms, this fan is your ventilation solution for medium-to-large sized rooms - laundry room, sunroom, basement, or garage.",
+    "is_bestseller": true,
+    "is_exclusive": true,
+    "aisle": "37",
+    "bay": "017",
+    "feature_bullets": [
+      "Two airflow options: 80 CFM at 0.3 sones and 110 CFM at 0.5 sones",
+      "Increases air quality by eliminating humidity and air polluntants",
+      "Flex-Z bracket and mounting hardware included for installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Bathroom Vent Fan: Equipped with a revolutionary DC/ECM motor, this whisper quiet, Energy Star-certified exhaust fan offers efficient ventilation for medium to large sized rooms; UL listed for tub/shower enclosure when used with a GFCI-protected circuit",
+      "Customizable Airflow: Features Pick-A-Flow technology that allows you to select your desired airflow from 80 or 100 CFM at the flip of a switch for your room size and usage needs",
+      "Easy Installation: Flex-Z Fast Bracket simplifies installation with a single-hinge bracket for easy positioning so you don't need to access your attic to install the fan and includes options for 4\" or 6\" ducting",
+      "Explore Our Selection: We offer a wide range of vent fans including fans with LED lights, timers, heaters, and condensation sensors for humidity control, plus installation kits, soffit vents, replacement motors and fan cover grilles",
+      "Healthy Living Begins with Clean Indoor Air: Ensure a healthy home for your family with our high-performance Panasonic ventilation systems, air purification devices and HVAC solutions",
+      "<a href=\"https://www.homedepot.com/c/electronics_recycling_programs\" style=\"color:#F96302;\" target=\"_blank\">Click here for more information on Electronic Recycling Programs</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c833b45a-96e6-49f0-a295-3abeaaadf1f8/svn/white-panasonic-bath-fans-rg-c811a-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/064bf376-4608-4e12-9484-259e44d891a6/svn/white-panasonic-bath-fans-rg-c811a-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c4ca297e-7b06-4020-adc0-3d3b2a0fb31a/svn/white-panasonic-bath-fans-rg-c811a-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8b755e23-78f3-4b64-a493-dd2a9a233fea/svn/white-panasonic-bath-fans-rg-c811a-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/48001e86-0fef-4585-9bdc-97422a328d1d/svn/white-panasonic-bath-fans-rg-c811a-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f9fce160-935d-4a56-800a-1c15721a0ea4/svn/white-panasonic-bath-fans-rg-c811a-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5e9db17c-ea86-4435-bae4-00f9c965884d/svn/white-panasonic-bath-fans-rg-c811a-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f17c5ca0-2504-4c29-8295-f13cceb25900/svn/white-panasonic-bath-fans-rg-c811a-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8e13fcdf-4e7e-4255-afdb-dc217bf4ccf7/svn/white-panasonic-bath-fans-rg-c811a-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1d7c1e86-60e1-49f2-aa06-6c3f819f150c/svn/white-panasonic-bath-fans-rg-c811a-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c833b45a-96e6-49f0-a295-3abeaaadf1f8/svn/white-panasonic-bath-fans-rg-c811a-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "title": "Whisper Choice DC RG-C811A - Install Video",
+        "id": "6369563155112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/63ad37f5-34aa-4f39-9eca-c434b6bc04de/main/160x90/47s498ms/match/image.jpg?pubId=66036796001",
+        "description": "This video shows the full install process from start to finish."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 254,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Air Volume (CFM)",
+        "value": "110,80"
+      },
+      {
+        "group_name": "Details",
+        "name": "Amperage (amps)",
+        "value": "0.11,0.18"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Duct Compatible Sizes",
+        "value": "4 or 6 in"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Adjustable Fan Speed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grill Shape",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Housing Material",
+        "value": "Galvanized Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Room Size (sq. ft.)",
+        "value": "110"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Type",
+        "value": "Flush Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "10.36 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Room Size",
+        "value": "Large Room Fan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Voltage (V)",
+        "value": "120 V"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wattage (watts)",
+        "value": "11,6.4"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "Energy Star,HVI Certified,UL Listed"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "6 years on DC Motor and 3 years on all Parts - from the date of original purchase"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Housing Length (in.)",
+        "value": "10.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Housing Width (in.)",
+        "value": "10.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "8.69 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "13.00 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "13.00 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bathroom Exhaust Fans",
+        "link": "https://www.homedepot.com/b/Bath-Bathroom-Exhaust-Fans/N-5yc1vZc4ly"
+      },
+      {
+        "name": "Bath Fans",
+        "link": "https://www.homedepot.com/b/Bath-Bathroom-Exhaust-Fans-Bath-Fans/N-5yc1vZc4kq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 134,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 17,
+          "price": 2.99,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 170,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

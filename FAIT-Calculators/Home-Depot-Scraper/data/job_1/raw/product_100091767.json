@@ -1,0 +1,259 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12912,
+    "overage_used": 2912,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Custom-Building-Products-VersaBond-50-lb-White-Fast-Setting-Professional-Thinset-Mortar-MTSW50/100091767"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:34:50.866Z",
+    "processed_at": "2025-05-01T13:35:01.233Z",
+    "total_time_taken": 10.37,
+    "homedepot_url": "https://www.homedepot.com/p/Custom-Building-Products-VersaBond-50-lb-White-Fast-Setting-Professional-Thinset-Mortar-MTSW50/100091767"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Custom-Building-Products-VersaBond-50-lb-White-Professional-Polymer-Modified-Thinset-Mortar-MTSW50/100091767",
+    "brand": "Custom Building Products",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting-Tile-Mortar/Custom-Building-Products/N-5yc1vZcduxZef",
+    "title": "Custom Building Products VersaBond 50 lb. White Professional Polymer-Modified Thinset Mortar",
+    "upc": "010186421841",
+    "item_id": "100091767",
+    "parent_id": "327748076",
+    "store_sku": "399775",
+    "model_number": "MTSW50",
+    "description": "Custom Building Products VersaBond 50 lbs. Fortified Thin-Set Mortar is a professional formula, all-purpose mortar, polymer-modified to provide good bond strength for floor and tile projects. VersaBond cures quickly even in cold climates and adheres to most surfaces. This is a cost-efficient, all-purpose mortar.",
+    "is_bestseller": true,
+    "is_top_rated": true,
+    "favorite_count": 7306,
+    "aisle": "47",
+    "bay": "013",
+    "feature_bullets": [
+      "For most standard installations",
+      "Fast setting even in cold weather",
+      "Adheres to most surfaces"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "For use over concrete, cement backerboards, drywall, exterior grade plywood, existing ceramic tile, vinyl flooring and plastic laminates",
+      "For indoor or outdoor applications",
+      "Can be used in wet areas, including showers",
+      "Cost-efficient mortar",
+      "Excellent for ceramic, porcelain, glass, natural stone tile as well as other tile types",
+      "Polymer modified, high-grade mortar offers good bond strength",
+      "Reliable and easy to use",
+      "Sets quickly even in cold weather",
+      "Allow 24 hours before grouting and light traffic. Allow 7-10 days before heavy or vehicular traffic.",
+      "Covers up to 95 sq. ft. depending on installation practices and jobsite conditions",
+      "Meets ANSI A118.4 and A118.11 specifications without the need for additives",
+      "Add water and mix to apply",
+      "Interested in purchasing a pallet? Buy 35"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/87f67ecf-49cf-4f02-afa1-382bce9e26ed/svn/custom-building-products-tile-mortar-mtsw50-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4389a236-5e1f-4630-a981-5e8de8ad0369/svn/custom-building-products-tile-mortar-mtsw50-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c5ae2539-2482-425a-8dba-c5370420f328/svn/custom-building-products-tile-mortar-mtsw50-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b16cdbae-f49f-4b34-a087-3ae562e5cef2/svn/custom-building-products-tile-mortar-mtsw50-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c317ca9-9af1-4dba-bc53-36fc037389a6/svn/custom-building-products-tile-mortar-mtsw50-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d676b894-9a85-497d-97cf-79e0e57d6838/svn/custom-building-products-tile-mortar-mtsw50-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9e2287bc-41eb-47b9-9e02-557d23463437/svn/custom-building-products-tile-mortar-mtsw50-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9fb634be-f5f9-47e3-9462-208c607fc515/svn/custom-building-products-tile-mortar-mtsw50-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/87f67ecf-49cf-4f02-afa1-382bce9e26ed/svn/custom-building-products-tile-mortar-mtsw50-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/610e755d-8f68-41f7-ada4-80de2f078c3e/739b47b2-b2cd-4641-8ea4-6116b35594c8/main.mp4?fastly_token=NjgzODNkOTRfYjk2NWI4OTkxOTk5MTM4YmMyMTZkNmZkYTg5MTliNDU0MzM1NjZlMTAzZmNhODA4NzkzYmJmOGQ1NmYwNjNlOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82MTBlNzU1ZC04ZjY4LTQxZjctYWRhNC04MGRlMmYwNzhjM2UvNzM5YjQ3YjItYjJjZC00NjQxLThlYTQtNjExNmIzNTU5NGM4L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install CUSTOM Mortars",
+        "id": "4865712066001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/610e755d-8f68-41f7-ada4-80de2f078c3e/1d8234da-334e-4c94-ac27-f7fa070a7d2e/160x90/match/image.jpg?pubId=66036796001",
+        "description": "How to choose the right mortar for your application and instructions/tips on installing."
+      }
+    ],
+    "ratings_total": 4806,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Additive required",
+        "value": "Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Flooring Powder Mortar"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Cement,Ceramic,Concrete,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Basement,Bathroom,Countertop,Exterior wall,Floor,Interior wall,Kitchen Backsplash"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "50 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product type",
+        "value": "Thin-set mortar"
+      },
+      {
+        "group_name": "Details",
+        "name": "Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Product"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Coverage Area (sq. ft.)",
+        "value": "95 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "15 in"
+      }
+    ],
+    "keywords_list": [
+      "mortar",
+      "thin set mortar",
+      "flooring",
+      "thin set flooring",
+      "50 lb mortar",
+      "50 lb flooring",
+      "Custom Building Products mortar",
+      "Custom Building Products flooring"
+    ],
+    "keywords": "mortar, thin set mortar, flooring, thin set flooring, 50 lb mortar, 50 lb flooring, Custom Building Products mortar, Custom Building Products flooring",
+    "variants": [
+      {
+        "title": "White~~1",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-VersaBond-50-lb-White-Professional-Polymer-Modified-Thinset-Mortar-MTSW50/100091767",
+        "item_id": "100091767"
+      },
+      {
+        "title": "Gray~~1",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-VersaBond-50-lb-Gray-Professional-Polymer-Modified-Thinset-Mortar-MTSG50/100162542",
+        "item_id": "100162542"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Tile Setting",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting/N-5yc1vZcdut"
+      },
+      {
+        "name": "Tile Mortar",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting-Tile-Mortar/N-5yc1vZcdux"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 484
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 1647,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

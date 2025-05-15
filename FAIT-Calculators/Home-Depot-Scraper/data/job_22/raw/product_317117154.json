@@ -1,0 +1,246 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14647,
+    "overage_used": 4647,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-200-sq-ft-Universal-Hidden-Deck-Fasteners-Combo-Bucket-UNIVCOMBOCLIP200/317117154"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:00:00.429Z",
+    "processed_at": "2025-05-01T19:00:17.379Z",
+    "total_time_taken": 16.95,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-200-sq-ft-Universal-Hidden-Deck-Fasteners-Combo-Bucket-UNIVCOMBOCLIP200/317117154"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-200-sq-ft-Universal-Hidden-Deck-Fasteners-Combo-Bucket-UNIVCOMBOCLIP200/317117154",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Hardware-Hidden-Deck-Fasteners/Trex/N-5yc1vZc80lZ2vy",
+    "title": "Trex 200 sq. ft. Universal Hidden Deck Fasteners - Combo Bucket",
+    "upc": "652835302899",
+    "item_id": "317117154",
+    "parent_id": "324196873",
+    "store_sku": "1006422035",
+    "model_number": "UNIVCOMBOCLIP200",
+    "description": "Create a smooth, screw-free finish and perfectly space Trex deck boards with this hidden fasteners combo kit. Use between each grooved-edge board for perfectly consistent spacing and no visible surface screws on up to 200 sq. ft. of decking. Kit includes 360 self-gapping, glass-filled nylon, universal deck fasteners with preset stainless steel screws, 16 universal start clips with screws, drive bit and installation instructions.",
+    "is_bestseller": true,
+    "is_top_rated": true,
+    "aisle": "17",
+    "bay": "009",
+    "feature_bullets": [
+      "Hidden fasteners for a fastener-free look and clean board spacing",
+      "Kit includes 360 deck fasteners, 16 start clips and drive bit",
+      "Fasteners designed with preset deck screws for easy installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Kit includes 360\u00b0 self-gapping, glass-filled nylon, universal deck fasteners with preset stainless steel screws, 16 universal start clips with screws, drive bit and installation instructions",
+      "Covers 200 sq. ft. of composite decking",
+      "Contains specialty Trex T-15 Torx bit with long turned down nose and built in shoulder to prevent overdriving.",
+      "Quick and easy installation",
+      "Stainless steel for durability",
+      "Clean, fastener-free appearance across entire surface",
+      "Must be used with grooved-edge Trex composite decking",
+      "<a href=\"https://www.homedepot.com/p/Trex-Hideaway-Universal-Fastener-Installation-Tool-ONESTEPTL/321755593\" target=\"_blank\" style=\"color:#F96302;\">Shop Compatible Trex Universal Fastener Installation Tool and reduce installation time up to 50%</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a3c85366-06b7-4ff2-ab29-eb686284ab10/svn/trex-hidden-deck-fasteners-univcomboclip200-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f71ec550-758d-41eb-802e-43d04dfec73f/svn/trex-hidden-deck-fasteners-univcomboclip200-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/997f6d7a-bf1a-40ee-af7b-ce9187b918d3/svn/trex-hidden-deck-fasteners-univcomboclip200-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f3b5f792-4bfc-499d-868d-ae28ceae8f5d/svn/trex-hidden-deck-fasteners-univcomboclip200-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a3c85366-06b7-4ff2-ab29-eb686284ab10/svn/trex-hidden-deck-fasteners-univcomboclip200-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/137f3451-5b9a-4476-8d41-f8586b257046/eeb49be5-b89c-4e67-8dd9-b5e43c2ecd91/main.mp4?fastly_token=NjgzODI2ZTZfZDZiMzVhNzRmZTNlMjRkNWJlYjZjZGM2ZTNkNjJiYWJlNjAwMDRiMmMyODc1ZjkyZTZhZjI3ZDdmYjY4NjIxYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xMzdmMzQ1MS01YjlhLTQ0NzYtOGQ0MS1mODU4NmIyNTcwNDYvZWViNDliZTUtYjg5Yy00ZTY3LThkZDktYjVlNDNjMmVjZDkxL21haW4ubXA0&pubid=66036796001",
+        "title": "UNIVCOMBOCLIP01 Video",
+        "id": "6257999904001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/137f3451-5b9a-4476-8d41-f8586b257046/main/160x90/10s848ms/match/image.jpg?pubId=66036796001",
+        "description": "3 Perks of the Trex Hidden Fastener Video"
+      }
+    ],
+    "ratings_total": 706,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decking Hardware Type",
+        "value": "Hidden Deck Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Nylon"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number in Package",
+        "value": "360"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Tri-Lobe Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Product Weight (lb.)",
+        "value": "5.30"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual Product Height (in.)",
+        "value": "5.14"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual Product Width (in.)",
+        "value": "7.81 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual product length (in.)",
+        "value": "9.77 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "9.77 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "5.14 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7.81 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Square Footage Coverage per Package (sq. ft.)",
+        "value": "200"
+      }
+    ],
+    "variants": [
+      {
+        "title": "90",
+        "link": "https://www.homedepot.com/p/Trex-50-sq-ft-Universal-Hidden-Deck-Fasteners-Combo-Pack-UNIVCOMBOCLIP01/203764337",
+        "item_id": "203764337"
+      },
+      {
+        "title": "360",
+        "link": "https://www.homedepot.com/p/Trex-200-sq-ft-Universal-Hidden-Deck-Fasteners-Combo-Bucket-UNIVCOMBOCLIP200/317117154",
+        "item_id": "317117154"
+      },
+      {
+        "title": "880",
+        "link": "https://www.homedepot.com/p/Trex-Trex-Hideaway-Hidden-Deck-Fasteners-500-sq-ft-Combo-Pack-DA00002/328393309",
+        "item_id": "328393309"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Hardware",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Hardware/N-5yc1vZbqpr"
+      },
+      {
+        "name": "Hidden Deck Fasteners",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Hardware-Hidden-Deck-Fasteners/N-5yc1vZc80l"
+      }
+    ],
+    "buybox_winner": {
+      "price": 154,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 28
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 264,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 131,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

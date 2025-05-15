@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13573,
+    "overage_used": 3573,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Handprint-1-4-in-x-2-ft-x-4-ft-Sande-Plywood-Project-Panel-103064/202093790"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:50:14.366Z",
+    "processed_at": "2025-05-01T16:50:20.120Z",
+    "total_time_taken": 5.75,
+    "homedepot_url": "https://www.homedepot.com/p/Handprint-1-4-in-x-2-ft-x-4-ft-Sande-Plywood-Project-Panel-103064/202093790"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Handprint-1-4-in-x-2-ft-x-4-ft-Sande-Plywood-Project-Panel-103064/202093790",
+    "brand": "Handprint",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Handprint/N-5yc1vZc7hmZubm",
+    "title": "Handprint 1/4 in. x 2 ft. x 4 ft. Sande Plywood Project Panel",
+    "upc": "090489149703",
+    "item_id": "202093790",
+    "parent_id": "326357388",
+    "store_sku": "103064",
+    "model_number": "103064",
+    "description": "Cut for convenience and creativity, Handprint's Sande veneer plywood is as versatile as it is great-looking. Featuring clean, smooth, natural hardwood woodgrain on both the front and back faces, this handy panel is perfect for a wide variety of home DIY and decor projects - anywhere a beautiful, real-wood look is a top priority. Or if a natural finish isn't part of your plan, its smooth surface is ideal for custom finishes. Loved by makers and DIYers alike, we take the hard work out of home projects - but leave all the satisfaction in.",
+    "favorite_count": 597,
+    "aisle": "FW",
+    "bay": "011",
+    "feature_bullets": [
+      "One, 1/4\"-thick (nom.), rectangular, Sande plywood project panel",
+      "Versatile, project-ready component sized for DIY and home decor",
+      "Easy handling/transport; ready to customize with finish of choice"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Actual dimensions: 0.22\" x 23.75\" x 47.75\" Tolerance: +/- 1/4\"",
+      "Weight: Approx. 6 lbs",
+      "Species: Sande; Grade: B2 (or C3 equivalent) with a veneer core; CARB Phase 2 compliant",
+      "Hardwood Sande veneer on front face only; generic hardwood back veneer; smooth, sanded face and back veneers; square-cut corners, perpendicular to edges",
+      "Free of natural and manufacturing defects, including large chips, veneer patches on face, splits on face, knots larger than 1\" on face, core voids over 1/2\", splinters, and fiber tear-outs",
+      "Intended for indoor use; if using outside, seal with a weather-protectant finish and place in a covered or protected area",
+      "Ready to customize with the finishes of your choice, including paint, stain, vinyl decals, and sealant",
+      "Note: Product may vary by store",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/UNIVERSAL FOREST PRODUCT/2813293.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/66408530-e225-4bd9-a0ed-3e02f2c3ab39/svn/handprint-project-panels-103064-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/63ef1df3-f30e-4110-8c88-0d65e94970ff/svn/handprint-project-panels-103064-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/90729092-017e-4fdd-b9c0-5184bafdd999/svn/handprint-project-panels-103064-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c8bf6a4e-2f86-45bf-b674-cf6411594f38/svn/handprint-project-panels-103064-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e9fa0312-33c5-4bc4-9f1c-e5ab6206694f/svn/handprint-project-panels-103064-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/66408530-e225-4bd9-a0ed-3e02f2c3ab39/svn/handprint-project-panels-103064-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/60c6f0d8-6d6c-4313-bc15-c51a30a14ca0/main.mp4?fastly_token=NjgzODI2ZTdfNDk4ZDU0NTUzODA5Y2M5MTExNjZkZTI4NzgwOWNhMWE2MTQzZmMxMWM5YzIwOTMxYWFlNjRjNDQ1NzdiNTIyNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNTA4NDE5ZS1hNzlmLTQwMmEtOGRiZC02ODQyNDdjMGU3OWIvNjBjNmYwZDgtNmQ2Yy00MzEzLWJjMTUtYzUxYTMwYTE0Y2EwL21haW4ubXA0&pubid=66036796001",
+        "title": "Handprint Overview",
+        "id": "6298378923001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/main/160x90/15s40ms/match/image.jpg?pubId=66036796001",
+        "description": "Brand Overview"
+      }
+    ],
+    "ratings_total": 1525,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Hardwood Plywood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "48.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.18 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "keywords_list": [
+      "",
+      "5.2MM 2x4 Sande Cut to Size Plywood",
+      "103064"
+    ],
+    "keywords": ", 5.2MM 2x4 Sande Cut to Size Plywood, 103064",
+    "variants": [
+      {
+        "title": "2 ft. x 4 ft.~~1/2~~Sande (Brosimum utile)",
+        "link": "https://www.homedepot.com/p/Handprint-1-2-in-x-2-ft-x-4-ft-Sande-Plywood-Project-Panel-103078/202093791",
+        "item_id": "202093791"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~1/4~~Sande (Brosimum utile)",
+        "link": "https://www.homedepot.com/p/Handprint-1-4-in-x-2-ft-x-4-ft-Sande-Plywood-Project-Panel-103064/202093790",
+        "item_id": "202093790"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~3/4~~Sande (Brosimum utile)",
+        "link": "https://www.homedepot.com/p/Handprint-3-4-in-x-2-ft-x-4-ft-Sande-Plywood-Actual-0-709-in-x-23-75-in-x-47-75-in-Project-Panel-103095/202093792",
+        "item_id": "202093792"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.94,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 36
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 606,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

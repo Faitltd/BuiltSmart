@@ -1,0 +1,196 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14384,
+    "overage_used": 4384,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-EPB-Hot-Dip-Galvanized-Elevated-Post-Base-for-4x4-Nominal-Lumber-EPB44HDG/100375173"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:30:56.905Z",
+    "processed_at": "2025-05-01T18:31:41.835Z",
+    "total_time_taken": 44.93,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-EPB-Hot-Dip-Galvanized-Elevated-Post-Base-for-4x4-Nominal-Lumber-EPB44HDG/100375173"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-EPB-Hot-Dip-Galvanized-Elevated-Post-Base-for-4x4-Nominal-Lumber-EPB44HDG/100375173",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Simpson-Strong-Tie/N-5yc1vZc8hsZ615",
+    "title": "Simpson Strong-Tie EPB Hot-Dip Galvanized Elevated Post Base for 4x4 Nominal Lumber",
+    "upc": "044315123801",
+    "item_id": "100375173",
+    "store_sku": "669273",
+    "model_number": "EPB44HDG",
+    "description": "Post and column bases secure the bottom of posts or columns to concrete and are perfect for decks or patio covers. Models are available for attaching to existing hardened concrete, wet concrete, as well as wood. The cast-in-place EPB series provides a secure connection to the concrete and the code-required 1-in standoff to help prevent rot at the post end.",
+    "favorite_count": 45,
+    "feature_bullets": [
+      "Elevated post base designed for 4x4 nominal lumber",
+      "Hot-dip galvanized for enhanced corrosion resistance",
+      "Ideal for outdoor structures like decks and fences"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Added standoff adjustability to suit a variety of applications",
+      "Install in wet concrete",
+      "Provides the code-required 1-in standoff when properly installed, allows up to 2-1/2-in of standoff above concrete (if desired)",
+      "Not recommended for non top-supported installations (such as fences or unbraced carports)",
+      "Nominal post size: 4x4",
+      "Made with 12-Gauge base plate, 1-1/16 in. OD x 8 in. pipe",
+      "Hot-dip galvanization (HDG) offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with 0.162 in. x 3-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">16DHDG</a>) or #10 x 1-1/2 in. Strong-Drive SD screws (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-1-1-2-in-1-4-Hex-Drive-Strong-Drive-SD-Connector-Screw-100-Pack-SD10112R100/202071154\" target=\"_blank\" style=\"color:#F96302;\">SD10112</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3dc93346-59ea-4ad8-a397-b75fdb0c38e2/svn/simpson-strong-tie-post-bases-epb44hdg-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3472c838-693b-47af-93dc-e0f492dfe46e/svn/simpson-strong-tie-post-bases-epb44hdg-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-bases-epb44hdg-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-bases-epb44hdg-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3dc93346-59ea-4ad8-a397-b75fdb0c38e2/svn/simpson-strong-tie-post-bases-epb44hdg-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/79cedca9-49a2-40a0-ab82-f287ae37c82e/865ba7d1-46b4-4806-a6d5-a50c35ab9839/main.mp4?fastly_token=NjgxMzkyZWFfNjE2NzA2NjM5OWNhYTdlNzQ1OGMwMDRhMzc1ZTY4NDQzOWIwNmUxZTIxYTY5ZDRkZDE3ZGE0MmI3MDI2YWViZl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNzljZWRjYTktNDlhMi00MGEwLWFiODItZjI4N2FlMzdjODJlLzg2NWJhN2QxLTQ2YjQtNDgwNi1hNmQ1LWE1MGMzNWFiOTgzOS9tYWluLm1wNA%3D%3D",
+        "title": "A_RetailBrandSizzle_Promo_RetailBrandSizzle",
+        "id": "6344336678112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/79cedca9-49a2-40a0-ab82-f287ae37c82e/44d4fdd6-bea0-4331-a480-ac66715d5a93/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 10,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Regular Post Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Hot dip galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.7 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "4x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "3.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "10.31 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.56 in"
+      }
+    ],
+    "keywords_list": [
+      "post base",
+      "elevated post base",
+      "steel post base",
+      "SIMPSON STRONG-TIE post base"
+    ],
+    "keywords": "post base, elevated post base, steel post base, SIMPSON STRONG-TIE post base",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 27.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

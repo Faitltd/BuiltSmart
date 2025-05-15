@@ -1,0 +1,202 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14833,
+    "overage_used": 4833,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Builder-s-Choice-330-5-8-in-x-5-in-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB330/206005438"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:35:23.798Z",
+    "processed_at": "2025-05-01T19:36:24.029Z",
+    "total_time_taken": 60.23,
+    "homedepot_url": "https://www.homedepot.com/p/Builder-s-Choice-330-5-8-in-x-5-in-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB330/206005438"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Builder-s-Choice-330-5-8-in-x-5-in-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB330/206005438",
+    "brand": "Builder's Choice",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Builders-Choice/N-5yc1vZcbjpZ89b",
+    "title": "Builder's Choice 330 5/8 in. x  5 in. Primed MDF Baseboard Moulding (Sold by Linear Foot)",
+    "upc": "096037181065",
+    "item_id": "206005438",
+    "parent_id": "325326219",
+    "store_sku": "272913",
+    "model_number": "HDFB330",
+    "description": "Featuring a pre-primed surface, MDF base is a great way to update your rooms and highlight the special care that has gone into your property. Moldings can increase the value of your home or business estate and are an inexpensive way to add character and flair to any home. Base molding works great to protect the wall at the floor.",
+    "favorite_count": 49,
+    "feature_bullets": [
+      "Comes primed to offer superior paint adhesion",
+      "Made of high quality MDF to ensure durability",
+      "Ideal for an elegant transition from floor to wall"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finest premium MDF for enhanced quality and appearance",
+      "Primed for superior paint adhesion",
+      "Paint to match your decor",
+      "Available in standard builder lengths and a variety of profiles",
+      "Can be used in buildups for unique designs",
+      "Cut to desired length in store",
+      "Designed to be used where the wall and the floor meet",
+      "Manufacturers and availability may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/df9de239-e379-40f8-b095-7ad01d0a3541/svn/primed-white-builder-s-choice-baseboard-hdfb330-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6ec2674d-4375-4b49-b20a-233bffa32c4e/svn/primed-white-builder-s-choice-baseboard-hdfb330-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19c454b9-3fdc-4a81-907c-ab45a6107f5d/svn/primed-white-builder-s-choice-baseboard-hdfb330-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/df9de239-e379-40f8-b095-7ad01d0a3541/svn/primed-white-builder-s-choice-baseboard-hdfb330-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 71,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "330"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builder-s-Choice-237-9-16-in-x-4-1-2-in-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB237/206005281",
+        "item_id": "206005281"
+      },
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builder-s-Choice-330-5-8-in-x-5-in-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB330/206005438",
+        "item_id": "206005438"
+      },
+      {
+        "title": "Primed White~~12 ft~~Medium Density Fiberboard (MDF)~~5",
+        "link": "https://www.homedepot.com/p/Builders-Choice-Pro-Pack-330-9-16-in-x-5-in-x-144-in-MDF-Base-Molding-Pack-of-5-HDFB330-PP/207114866",
+        "item_id": "207114866"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

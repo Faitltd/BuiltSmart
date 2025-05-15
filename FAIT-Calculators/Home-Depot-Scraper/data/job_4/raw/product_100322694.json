@@ -1,0 +1,181 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12721,
+    "overage_used": 2721,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DensShield-Gypsum-Backer-Board-1-2-in-x-2-7-ft-x-5-ft-Tile-Backer-008590/100322694"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:29:25.983Z",
+    "processed_at": "2025-05-01T13:29:30.451Z",
+    "total_time_taken": 4.47,
+    "homedepot_url": "https://www.homedepot.com/p/DensShield-Gypsum-Backer-Board-1-2-in-x-2-7-ft-x-5-ft-Tile-Backer-008590/100322694"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DensShield-Gypsum-Backer-Board-1-2-in-x-2-7-ft-x-5-ft-Tile-Backer-008590/100322694",
+    "brand": "DensShield",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Backer-Boards/DensShield/N-5yc1vZcduqZ6ud",
+    "title": "DensShield Gypsum Backer Board 1/2 in. x 2.7 ft. x 5 ft. Tile Backer",
+    "upc": "081999372958",
+    "item_id": "100322694",
+    "store_sku": "358348",
+    "model_number": "008590",
+    "description": "The DensShield 5 ft. x 32 in. x 1/2 in. Glass Mat Tile Backer features glass mat facings and an acrylic coating that helps block moisture from entering the wall cavity. This lightweight backer is easy to install and can finish smoothly and cleanly. This strong backer is mold resistant. It meets IRC standards for tub and shower areas.",
+    "favorite_count": 162,
+    "aisle": "47",
+    "bay": "018",
+    "feature_bullets": [
+      "Interested in purchasing a bunk? Buy 50",
+      "Acrylic coating makes it moisture-resistant",
+      "Can be used for slate, marble, and stone tiles to name a few"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Acrylic coating on face for protection against moisture",
+      "Built-in water barrier for protection",
+      "Lightweight and easy to install",
+      "Finishes smoothly and cleanly",
+      "Mold and moisture resistant",
+      "Meets IRC standards for tub and shower areas",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-hang-drywall/9ba683603be9fa5395fab90cbb4826d\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right drywall for your project</a>",
+      "How much do you need? Let our calculator help:<a href=\"https://secure2.homedepot.com/account/view/calculator/drywall\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/pre/011014/21/drywall_calc_button.png\" alt=\"Drywall calculator button\"></a>",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/GEORGIA-PACIFIC/1044506.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/51f658a8-eff8-40f9-961e-77e3f4516d91/svn/densshield-backer-boards-008590-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e962907c-4d7f-4414-9f18-ef83d75df385/svn/densshield-backer-boards-008590-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f84d9dd5-7a47-46ca-a9de-7cadeb93206b/svn/densshield-backer-boards-008590-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/daf430ef-afd7-4057-8187-95c8ba27e664/svn/densshield-backer-boards-008590-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c169db93-a4c1-4993-a902-5be23d357cf5/svn/densshield-backer-boards-008590-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/51f658a8-eff8-40f9-961e-77e3f4516d91/svn/densshield-backer-boards-008590-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/29e5effc-df37-45a3-af8c-2e4c4614b54d/58e30366-230e-4048-8161-ca8b3ac2c880/main.mp4?fastly_token=NjgzODI5MGZfM2QwMDRmZGM5OWVmMjZjNjU1OGFiZmY4NTI3Yzk5ZTA4NTAwMDBlZGQ4MjY2MjI3YWQ5MTdlMDRiZmVhMjEyYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yOWU1ZWZmYy1kZjM3LTQ1YTMtYWY4Yy0yZTRjNDYxNGI1NGQvNThlMzAzNjYtMjMwZS00MDQ4LTgxNjEtY2E4YjNhYzJjODgwL21haW4ubXA0&pubid=66036796001",
+        "title": "DensShield\u00ae Tile Backer Installation Video",
+        "id": "6372125531112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/29e5effc-df37-45a3-af8c-2e4c4614b54d/main/160x90/47s61ms/match/image.jpg?pubId=66036796001",
+        "description": "DensShield\u00ae Tile Backer is designed for use as a substrate for tile walls, ceilings, countertops, and commercial and residential floor applications in high-moisture areas. Learn how to install DensShield\u00ae panels in our installation video series."
+      }
+    ],
+    "ratings_total": 176,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Alt. Pricing_Multiply Total SqFt by Quantity (Total Eaches)",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Moisture Resistant,Mold Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "26.67 lb"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "5 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": ".5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "2.7 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Width (ft) x Length (ft)",
+        "value": "2.7ftx5ft"
+      }
+    ],
+    "keywords_list": [
+      "drywall",
+      "bath and shower drywall",
+      "tile backer",
+      "bath and shower tile backer",
+      "moisture resistant drywall",
+      "moisture resistant tile backer"
+    ],
+    "keywords": "drywall, bath and shower drywall, tile backer, bath and shower tile backer, moisture resistant drywall, moisture resistant tile backer",
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Backer Boards",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Backer-Boards/N-5yc1vZcduq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 16.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 151
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 1148,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

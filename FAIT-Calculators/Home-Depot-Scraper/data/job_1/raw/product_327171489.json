@@ -1,0 +1,289 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14937,
+    "overage_used": 4937,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DEERVALLEY-Elongated-Smart-Toilet-Bidet-in-White-with-Remote-Blackout-Flush-Off-Seat-Auto-Flush-Heated-Seat-and-Warm-Air-Dryer-DV-1S0029/327171489"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:44:28.469Z",
+    "processed_at": "2025-05-02T21:44:32.802Z",
+    "total_time_taken": 4.33,
+    "homedepot_url": "https://www.homedepot.com/p/DEERVALLEY-Elongated-Smart-Toilet-Bidet-in-White-with-Remote-Blackout-Flush-Off-Seat-Auto-Flush-Heated-Seat-and-Warm-Air-Dryer-DV-1S0029/327171489"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DEERVALLEY-Elongated-Smart-Toilet-Bidet-in-White-with-Remote-Blackout-Flush-Off-Seat-Auto-Flush-Heated-Seat-and-Warm-Air-Dryer-DV-1S0029/327171489",
+    "brand": "DEERVALLEY",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/DEERVALLEY/N-5yc1vZbzacZuog",
+    "title": "DEERVALLEY Elongated Smart Toilet Bidet in White with Remote, Blackout Flush, Off-Seat Auto Flush, Heated Seat and Warm Air Dryer",
+    "upc": "751313647375",
+    "item_id": "327171489",
+    "store_sku": "1010282406",
+    "model_number": "DV-1S0029",
+    "description": "The DV-1S0029 smart toilet features a bidet system, heated seat, warm water wash, air dryer, massage wash, antibacterial nozzles&seat ring, providing you with a comfortable and clean experience. It also comes with a wireless remote control, night light, and six levels of protection, enhancing usability and making your life simpler, more convenient, and safer. Users can enjoy a spa-like massage via its pulse-flushing mode. Health Benefit - Smart toilets also provide great health benefits and different washes features that can be used to improve the circulation of blood.",
+    "is_bestseller": true,
+    "collection": {
+      "id": "Family-326096860",
+      "name": "Family-326096860",
+      "link": "https://www.homedepot.com/collection/Bath/Apex/Family-326096860?omsid=327171489"
+    },
+    "feature_bullets": [
+      "Instant heated seat with anti-scald tech for added warmth",
+      "Easy to install with instructions and all components included",
+      "Features a soft night light for easy visibility at night"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Built-in Bidet Seat: The smart toilet features multiple wash modes with instant heating. The water temperature, water pressure, nozzle position can all be adjusted, in addition to the use of hygienic nozzle self-cleaning.",
+      "Heated Seat Toilet: The instant heated seat is featured with unique low-temp anti scalding tech to add warm care in winter.",
+      "Intelligent Air Dryer: The closed-loop heating and temperature control system provides a 4-gear adjustable temperature range of 93.2 \u00b0F to 102.2 \u00b0F for fast drying.",
+      "4 Auto-Flush Methods: Automatic flush upon standing, foot kick flush for lumbar protection, manual knob for blackout situations, and remote flush.",
+      "Blackout Flush: The side knob provides great convenience for flushing during power outages. But it requires a 9V backup battery, which not included in the product list.",
+      "Convenient Remote Control: A 2.4G wireless remote control with simple buttons is convenient for seniors and children to use. The remote control requires two AAA batteries (Not included).",
+      "Difference between Our DV-1S0029 and DV-1S0029-V3 toilets is that the DV-1S0029 lacks the sensor-activated lid, foot control for opening and closing the seat cover, and ultraviolet sterilization. All other features are the same.",
+      "Difference between Our DV-1S0029 and DV-1S0029-V1 toilets is that the DV-1S0029-V1 lacks the bidet, warm wind drying, and remote control features. All other features are the same.",
+      "Pre-wetting Rim: The pre-moistened ceramic bowl prevents dirt adhesion and makes flushing easier.",
+      "Humanized Family Care: Soft sensing light guides you in the dark and helps free you from turning on bathroom lights and worrying about difficulty falling asleep. Quiet-closing lid without any disturbance to your family.",
+      "Security: High quality with leakage protection, overheating prevention, freeze protection, flame retardant protection, over current protection, short-circuit protection, low-temperature anti-scald protection, over 100,000 times foot kick tests, and IPX4 Waterproof protection.",
+      "Installation and Usage Environment: Floor mounted, rough-in 12-inch, 110V power supply with 2.95ft power cord. Working temperature suggests 39.2 \u2109 ~ 104 \u2109.",
+      "Warranty: 100% factory testing and 1-year limited warranty on all mechanical parts and bidet seats.",
+      "<a href=\"https://www.homedepot.com/p/329098652\" target=\"_blank\" style=\"color:#F96302;\">Click here to browse our DV-1S0029 Series Toilet Premium Version: bidet, auto flush, heated seat, air dryer, UV sterilization, auto deodorization</a>"
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/94c312ba-459a-46d7-b463-8c2e883d2b46/svn/white-deervalley-bidet-toilets-dv-1s0029-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2e0aae1b-4993-4210-8d96-80d32bec2c61/svn/white-deervalley-bidet-toilets-dv-1s0029-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e167bbb2-1266-4463-b72c-a1ba0132b8fc/svn/white-deervalley-bidet-toilets-dv-1s0029-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5914489b-5b22-41e7-bb7a-8c6b8e0188a8/svn/white-deervalley-bidet-toilets-dv-1s0029-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5d176ef5-b73e-4685-a290-4e358010203a/svn/white-deervalley-bidet-toilets-dv-1s0029-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/16a9ac90-675c-4b7b-b29a-dcfdd5ef064a/svn/white-deervalley-bidet-toilets-dv-1s0029-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ac6ea416-8a38-410f-8179-2b57cc7037ab/svn/white-deervalley-bidet-toilets-dv-1s0029-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6195e934-5a92-4752-adb3-05df79ee9ee0/svn/white-deervalley-bidet-toilets-dv-1s0029-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cd5631ae-209d-43af-8940-72579302e8ce/svn/white-deervalley-bidet-toilets-dv-1s0029-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e724de35-583f-48a5-82bf-da08cd0dbe10/svn/white-deervalley-bidet-toilets-dv-1s0029-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d150d2e2-c933-4d76-9334-feccf0b9a6c5/svn/white-deervalley-bidet-toilets-dv-1s0029-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9b38391a-4630-4943-9dec-45ebd32bb49c/svn/white-deervalley-bidet-toilets-dv-1s0029-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7d27253b-84c3-4af9-b700-fc77f7553177/svn/white-deervalley-bidet-toilets-dv-1s0029-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/94c312ba-459a-46d7-b463-8c2e883d2b46/svn/white-deervalley-bidet-toilets-dv-1s0029-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/5da98b45-9214-44a2-9f8e-c7c31cc3a1a5/bd65b51c-68c8-4c6a-9237-7ec42c6d3d70/main.mp4?fastly_token=NjgzOTdhN2RfNDRlMzUyZjMwZGU5ZDQ2ODliNGYzNTc3NWYyM2U3NzA1ZGFmOGQxZGVkZDNlYmQ2ZmNjZjBkMDQzZGRlYzQ4NF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81ZGE5OGI0NS05MjE0LTQ0YTItOWY4ZS1jN2MzMWNjM2ExYTUvYmQ2NWI1MWMtNjhjOC00YzZhLTkyMzctN2VjNDJjNmQzZDcwL21haW4ubXA0&pubid=66036796001",
+        "title": "DV-1S0029 Elongated Smart Toilet",
+        "id": "6345350648112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/5da98b45-9214-44a2-9f8e-c7c31cc3a1a5/main/160x90/43s40ms/match/image.jpg?pubId=66036796001",
+        "description": "This video mainly introduce some features of DEERVALLEY elongated electric smart toilet."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 80,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bidet Power Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bidet Spray Type",
+        "value": "Vertical"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Adjustable Aerated Wash Spray,Adjustable Nozzle,Adjustable Sprayer Settings,Adjustable Water Pressure,Antimicrobial,Battery Operated Flushing System,Chip Resistant,Fade Resistant,Feminine Wash,Flushing Rim,Heated,Nozzle Sterilization,Posterior Wash,Remote Control Operation,Self-Cleaning,Side Control Operated,Skirted Design,Soft Close,Stainless Steel Nozzle,Warm Air Dryer,Warm Water Wash"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Remote Control,Supply Lines,T Valve Connector,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Through-the-floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Faucet Holes",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "96.36 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "EPA Approved,ETL Certified,cUPC"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "26.89 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "18.54 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "15.79 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Bidet Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/N-5yc1vZbzac"
+      }
+    ],
+    "buybox_winner": {
+      "price": 538,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 799,
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1051,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1051,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-12",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

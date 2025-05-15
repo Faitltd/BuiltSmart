@@ -1,0 +1,267 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13277,
+    "overage_used": 3277,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-227112/202893728"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:51:28.375Z",
+    "processed_at": "2025-05-01T13:51:32.873Z",
+    "total_time_taken": 4.5,
+    "homedepot_url": "https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-227112/202893728"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-227112/202893728",
+    "brand": "GREAT STUFF",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/GREAT-STUFF/N-5yc1vZbaxjZ4nh",
+    "title": "GREAT STUFF 12 oz. Gaps and Cracks Insulating Spray Foam Sealant",
+    "upc": "074985001543",
+    "item_id": "202893728",
+    "parent_id": "334887476",
+    "store_sku": "138142",
+    "model_number": "227112",
+    "description": "GREAT STUFF Gaps and Cracks is a polyurethane-based insulating foam sealant that fills, air-seals and insulates small gaps (up to 1 in.) inside or out. But you probably guessed as much from the name. What you might not have guessed is how easy it is to use (thanks to the straw applicator) or how it expands to take the shape of cracks and voids form a durable, airtight and water-resistant bond that eliminates unwanted airflow and helps reduce condensation.",
+    "is_bestseller": true,
+    "favorite_count": 39,
+    "aisle": "08",
+    "bay": "SC1",
+    "collection": {
+      "id": "Family-334633395",
+      "name": "Family-334633395",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Great-Stuff-Collection/Family-334633395?omsid=202893728"
+    },
+    "feature_bullets": [
+      "Spray foam can be used in plumbing, electrical, basements, attics",
+      "Forms a long-lasting, airtight, weather-resistant seal",
+      "Insulating foam sealant expands up to 1 in to take shape of gaps"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Forms a permanent weather-tight seal to minimize drafts and insect infestation and has exceptional adhesion to building materials",
+      "GREAT STUFF gaps and cracks can be used in interior or exterior application and is tack free in 15-minutes, trims in 30-minute to 60-minutes, it's paintable, sandable and stainable",
+      "Cures as a cream colored, rigid foam, ease of application results from all direction dispensing",
+      "One 12 oz. can equals to up to 22 tubes of caulk (equals to 7 Qt. of caulk)",
+      "Foam elasticity properties allows for movement and shifting within a structure",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/energy-efficiency/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Energy Efficiency</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7a6af972-244e-4fc6-b547-49bc172933af/svn/great-stuff-spray-foam-insulation-227112-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a2d7e443-8f32-469f-940f-7f89a8baa801/svn/great-stuff-spray-foam-insulation-227112-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/66bdd63d-840c-4121-b3e8-4f2bbe80eec1/svn/great-stuff-spray-foam-insulation-227112-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a65e0d0e-7fbe-400e-9224-a09bb94ac1fb/svn/great-stuff-spray-foam-insulation-227112-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d9289c3d-315c-45cf-8550-ab9d9ad7aed9/svn/great-stuff-spray-foam-insulation-227112-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79e694e2-df20-4339-823c-7877d1718fc6/svn/great-stuff-spray-foam-insulation-227112-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6c2b8265-3078-4e1f-ac1b-4f816db2775e/svn/great-stuff-spray-foam-insulation-227112-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a6742c2-4986-42df-ab2d-31c8b82c2450/svn/great-stuff-spray-foam-insulation-227112-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dee85e03-4d92-4377-a33e-34bff67657fe/svn/great-stuff-spray-foam-insulation-227112-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7a6af972-244e-4fc6-b547-49bc172933af/svn/great-stuff-spray-foam-insulation-227112-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/8623f873-49f9-46a9-bc55-0764e9358df2/340e370e-8a0d-4a53-88cf-927f302fde9f/main.mp4?fastly_token=NjgxMzkwZjlfMTc1NTI1NTFkMjRhMzlhMjVlMDhkZGMyM2E1NmE5OGUyNzVkZTkyZWU3OGY2ZDg2NTg3ZDYxOTU4NmQwMTY5Y18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvODYyM2Y4NzMtNDlmOS00NmE5LWJjNTUtMDc2NGU5MzU4ZGYyLzM0MGUzNzBlLThhMGQtNGE1My04OGNmLTkyN2YzMDJmZGU5Zi9tYWluLm1wNA%3D%3D",
+        "title": "DuPont_Great_Stuff_15sec_ORIGINAL_DISP_TECH_FOR_RETAILERS_101923",
+        "id": "6343203836112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/8623f873-49f9-46a9-bc55-0764e9358df2/main/160x90/10s421ms/match/image.jpg",
+        "description": "Product Overview\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e72e5663-1709-4f91-bcee-eca6f9321391/bf1e3c62-8b3f-4843-a308-43f283b98f1c/main.mp4?fastly_token=NjgxMzkxYjhfNmY5ZTY0MDY2NGM2YmY3NmRmMWQ2MTc0NWE1MjBjZThjYzBkZmJiOWY4MTM0NGY0MDMyZTJhZTMwOGZlYWExZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTcyZTU2NjMtMTcwOS00ZjkxLWJjZWUtZWNhNmY5MzIxMzkxL2JmMWUzYzYyLThiM2YtNDg0My1hMzA4LTQzZjI4M2I5OGYxYy9tYWluLm1wNA%3D%3D",
+        "title": "Dupont_Great_Stuff_15sec_GAPS_AND_CRACKS_ORIGINAL_FOR_RETAILERS_101923",
+        "id": "6343204008112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e72e5663-1709-4f91-bcee-eca6f9321391/main/160x90/8s917ms/match/image.jpg",
+        "description": "Product Overview\n"
+      }
+    ],
+    "ratings_total": 2135,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Compatible Install Surface",
+        "value": "Cement,Concrete,Existing Insulation,PVC/CPVC Pipes,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Details",
+        "name": "Install Temperature (F)",
+        "value": "40-100"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value",
+        "value": "R2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value per Inch",
+        "value": "R3.7"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Type",
+        "value": "Spray Can"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (oz.)",
+        "value": "12 oz"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Warranty Information",
+        "value": "NA"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cover Area Per Bag (sq. ft.)",
+        "value": "5 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "5 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.63 in"
+      }
+    ],
+    "keywords_list": [
+      "Gaps & Cracks 12 oz. Insulating Foam Sealant",
+      "157901"
+    ],
+    "keywords": "Gaps & Cracks 12 oz. Insulating Foam Sealant, 157901",
+    "variants": [
+      {
+        "title": "20",
+        "link": "https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-20-Pack-227112/334454762",
+        "item_id": "334454762"
+      },
+      {
+        "title": "8",
+        "link": "https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-8-Pack-227112/334454761",
+        "item_id": "334454761"
+      },
+      {
+        "title": "4",
+        "link": "https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-4-Pack-227112/334454760",
+        "item_id": "334454760"
+      },
+      {
+        "title": "1",
+        "link": "https://www.homedepot.com/p/GREAT-STUFF-12-oz-Gaps-and-Cracks-Insulating-Spray-Foam-Sealant-227112/202893728",
+        "item_id": "202893728"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation/N-5yc1vZasbs"
+      },
+      {
+        "name": "Spray Foam Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/N-5yc1vZbaxj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4.38,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 964
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 5482,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

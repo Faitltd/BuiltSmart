@@ -1,0 +1,301 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13204,
+    "overage_used": 3204,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GAF-Z-Ridge-Charcoal-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860180/202352377"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:48:06.591Z",
+    "processed_at": "2025-05-01T13:48:58.690Z",
+    "total_time_taken": 52.1,
+    "homedepot_url": "https://www.homedepot.com/p/GAF-Z-Ridge-Charcoal-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860180/202352377"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Charcoal-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860180/202352377",
+    "brand": "GAF",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Shingles/GAF/N-5yc1vZc5rbZll",
+    "title": "GAF Z Ridge Charcoal Distinctive Hip and Ridge Cap Roofing Shingles (33.3 lin. ft. per Bundle) (72-Pieces)",
+    "upc": "073590402356",
+    "item_id": "202352377",
+    "parent_id": "300022725",
+    "store_sku": "249490",
+    "model_number": "0860180",
+    "description": "Add the perfect finishing touch for your new roof: a distinctive ridge cap shingle. ZRidge Distinctive Ridge Cap Shingles offer reliable protection at the high-stress areas of your roof (the hips and ridges) and their unique Z-Fold design provides the look of thick wood shakes. ZRidge Distinctive Ridge Cap Shingles are a key part of the GAF Lifetime Roofing System1 and have earned the Good Housekeeping Seal.2",
+    "favorite_count": 35,
+    "collection": {
+      "id": "Family-314722436",
+      "name": "Family-314722436",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Timberline-HDZ-Shingle-Collection/Family-314722436?omsid=202352377"
+    },
+    "feature_bullets": [
+      "Unique Z-fold design delivers the look of thick, wood shakes",
+      "Complements color of GAF shingles & protects high-stress areas",
+      "Lifetime Ltd. Warranty when used with GAF Lifetime Roofing System"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://quickmeasure.gaf.com/THD\" target=\"_blank\" style=\"color:#F96302;\">Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders.&nbsp;A complete bill of materials, with Home Depot product&nbsp;SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]</a>",
+      "The Right Colors: Designed to complement the color of your GAF shingles.",
+      "Peace of Mind: Eligible for a Lifetime limited warranty when installed on Lifetime Shingle roofs.1",
+      "25-year StainGuard Plus Algae Protection Limited Warranty against blue-green algae discoloration. Proprietary GAF Time Release Algae-Fighting",
+      "5-5/8 in. Exposure",
+      "Approximately: 10 in. wide",
+      "Each bundle covers approximately 33.3 lin. ft., 72-piece per bundle; 3 bundles cover approximately 100 lin. ft.",
+      "Meets ASTM D3018, type 1, ASTM 3161 class A, and ASTM D3462",
+      "<a href=\"https://www.homedepot.com/services/roof-replacement/ \" target=\"_blank\">Schedule an in-home consultation.</a>",
+      "Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders.&nbsp;A complete bill of materials, with Home Depot product&nbsp;SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]",
+      "<a href=\"https://www.homedepot.com/catalog/pdfImages/ad/ad8f5906-18db-4b89-b232-5b1a19c2574e.pdf\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/22/GAF BUILDING MATERIALS/Roofing Project Checklist Inline Q1 2018.jpg\"></a>",
+      "Shop all <a href=\"https://www.homedepot.com/b/Building-Materials-Roofing-Gutters-Roofing-Roof-Shingles/GAF/N-5yc1vZc5rbZll\" target=\"_blank\" style=\"color:#F96302;\">GAF Shingles</a> here"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/54c18ca0-c39f-4c52-a36d-083c62fcb4c2/svn/charcoal-gaf-roof-shingles-0860180-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8276d877-6446-46e9-8831-7fda807ef2b0/svn/charcoal-gaf-roof-shingles-0860180-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e2115837-2dde-4b27-9909-f919cdac5990/svn/charcoal-gaf-roof-shingles-0860180-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92f6f001-9367-42a6-8a58-7d26ce35c04c/svn/charcoal-gaf-roof-shingles-0860180-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/761cc04e-ff2e-4939-ad4f-d9235890ee6d/svn/charcoal-gaf-roof-shingles-0860180-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0c0008bd-879a-49bc-9888-add49f418491/svn/charcoal-gaf-roof-shingles-0860180-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0bb38648-c959-4cd3-a22e-81c8647f8e06/svn/charcoal-gaf-roof-shingles-0860180-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5e90e9ec-4bd8-41ae-b411-1f91d2ac76f4/svn/charcoal-gaf-roof-shingles-0860180-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cc67baf4-043e-4d4a-a17d-8cb2864a5228/svn/charcoal-gaf-roof-shingles-0860180-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/94b1e950-7a16-400f-8e73-19c5c2a1c53b/svn/charcoal-gaf-roof-shingles-0860180-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a861b777-fbda-4219-b49a-2250d4bf480f/svn/charcoal-gaf-roof-shingles-0860180-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/54c18ca0-c39f-4c52-a36d-083c62fcb4c2/svn/charcoal-gaf-roof-shingles-0860180-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/afe73aec-6990-4a9b-8758-e9c49a31fda4/608293f4-275f-4765-bcb0-b9547d4acc6c/main.mp4?fastly_token=NjgzODJhZDNfOWMzNDEyMjI5MzMyMmQyY2I3Y2NkZmJkZWI2Y2Q5ZWY0MDQxOGRhNThkNzczNTVkMzZhZWRjNDQwNjVhOWZlNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hZmU3M2FlYy02OTkwLTRhOWItODc1OC1lOWM0OWEzMWZkYTQvNjA4MjkzZjQtMjc1Zi00NzY1LWJjYjAtYjk1NDdkNGFjYzZjL21haW4ubXA0&pubid=66036796001",
+        "title": "GAF Pro Series Ridge Cap Z Ridge Basic Install",
+        "id": "5787624367001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/afe73aec-6990-4a9b-8758-e9c49a31fda4/2327ecbc-cc6a-453d-b628-70a1e347ccb1/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Demonstrates how to install Z Ridge hip and ridge shingles"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/dc414f58-2050-4636-83fe-f8554d2b1cd8/b307ceff-e3e9-4f0f-a319-db80df2a1fe7/main.mp4?fastly_token=NjgzODEzMjlfZjRhMmMzNzY2ZWYwN2RkNjFjNWFiMThlM2Q2ZTA3ZDZhOTg1NjQ4YzFmZWNiOGU3Njk0MmFhNWJmMGE2MGY4Ml8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kYzQxNGY1OC0yMDUwLTQ2MzYtODNmZS1mODU1NGQyYjFjZDgvYjMwN2NlZmYtZTNlOS00ZjBmLWEzMTktZGI4MGRmMmExZmU3L21haW4ubXA0&pubid=66036796001",
+        "title": "GAF Pro Series Ridge Cap Intersections",
+        "id": "5787630638001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/dc414f58-2050-4636-83fe-f8554d2b1cd8/71306dc5-77b2-415b-bebf-78727b121933/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Demonstrates how to install hip and ridge shingles at roof intersections"
+      }
+    ],
+    "ratings_total": 65,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Charcoal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "Class A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Asphalt"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of bundles per 100 sq. ft. (Square)",
+        "value": "3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of pieces per bundle",
+        "value": "72"
+      },
+      {
+        "group_name": "Details",
+        "name": "Requirements",
+        "value": "Attic Ventilation,Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Hip and Ridge Shingle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shingle Exposure (in.)",
+        "value": "5.625"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shingle Type",
+        "value": "Hip & Ridge Shingle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Warranty",
+        "value": "Lifetime Limited Warranty"
+      },
+      {
+        "group_name": "Details",
+        "name": "Weight Per Bundle (lb.)",
+        "value": "82"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "33.3 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "39.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "2.6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "10 in"
+      }
+    ],
+    "keywords_list": [
+      "shingle",
+      "asphalt shingle",
+      "shingles",
+      "asphalt shingles",
+      "roofing shingle",
+      "asphalt roofing shingle",
+      "roofing shingles",
+      "asphalt roofing shingles",
+      "GAF-ELK shingle",
+      "GAF-ELK shingles",
+      "GAF-ELK roofing shingle",
+      "GAF-ELK roofing shingles"
+    ],
+    "keywords": "shingle, asphalt shingle, shingles, asphalt shingles, roofing shingle, asphalt roofing shingle, roofing shingles, asphalt roofing shingles, GAF-ELK shingle, GAF-ELK shingles, GAF-ELK roofing shingle, GAF-ELK roofing shingles",
+    "variants": [
+      {
+        "title": "Slate",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Slate-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860750/203146136",
+        "item_id": "203146136"
+      },
+      {
+        "title": "Hickory",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Hickory-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860395/203146168",
+        "item_id": "203146168"
+      },
+      {
+        "title": "Birchwood",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Birchwood-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-Per-Bundle-72-Pieces-0860097/325395968",
+        "item_id": "325395968"
+      },
+      {
+        "title": "Pewter Gray",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Pewter-Gray-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-pieces-0860552/300484044",
+        "item_id": "300484044"
+      },
+      {
+        "title": "Barkwood",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Barkwood-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-pieces-0860070/203146238",
+        "item_id": "203146238"
+      },
+      {
+        "title": "Charcoal",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Charcoal-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860180/202352377",
+        "item_id": "202352377"
+      },
+      {
+        "title": "Shakewood",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Shakewood-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860737/203146140",
+        "item_id": "203146140"
+      },
+      {
+        "title": "Hunter Green",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Hunter-Green-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860723/206689448",
+        "item_id": "206689448"
+      },
+      {
+        "title": "weathered wood",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Weathered-Wood-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-pieces-0862900/205928841",
+        "item_id": "205928841"
+      },
+      {
+        "title": "Mission Brown",
+        "link": "https://www.homedepot.com/p/GAF-Z-Ridge-Mission-Brown-Distinctive-Hip-and-Ridge-Cap-Roofing-Shingles-33-3-lin-ft-per-Bundle-72-Pieces-0860477/206689246",
+        "item_id": "206689246"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Roof Shingles",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Shingles/N-5yc1vZc5rb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 71.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "bundle"
+    }
+  }
+}

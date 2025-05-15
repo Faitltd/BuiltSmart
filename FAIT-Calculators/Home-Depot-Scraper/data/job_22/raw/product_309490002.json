@@ -1,0 +1,242 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14690,
+    "overage_used": 4690,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Toasted-Sand-Grooved-Edge-Brown-Composite-Deck-Board-TS010616E2G01/309490002"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:04:11.592Z",
+    "processed_at": "2025-05-01T19:04:16.713Z",
+    "total_time_taken": 5.12,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Toasted-Sand-Grooved-Edge-Brown-Composite-Deck-Board-TS010616E2G01/309490002"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Toasted-Sand-Grooved-Edge-Brown-Composite-Deck-Board-TS010616E2G01/309490002",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Enhance Naturals 1 in. x 6 in. x 16 ft. Toasted Sand Grooved Edge Brown Composite Deck Board",
+    "upc": "652835289336",
+    "item_id": "309490002",
+    "parent_id": "328856022",
+    "store_sku": "1006541087",
+    "model_number": "TS010616E2G01",
+    "description": "Choose Trex Enhance Naturals as a worry-free alternative to traditional lumber. Designed with contemporary, multi-tonal streaking, Trex Enhance Naturals offers an authentic wood-grain pattern engineered to last. Available in 5 colors for design- and budget-minded homes.",
+    "feature_bullets": [
+      "Authentic wood grain appearance a composite deck board",
+      "Stain- and fade-resistant feature allows easy upkeep",
+      "Made from recycled materials for better sustainability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Easy to clean with soap and water",
+      "Won't warp, rot, split or splinter",
+      "Resists fade, stain, scratch and mold",
+      "25-year limited residential warranty",
+      "Simple installation, no special tools necessary",
+      "Made from 95% recycled materials"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fbf35e03-7228-45d3-a255-d97dcdec5cb3/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ca92cee8-2633-4d2f-a2c9-3399bf2d4f59/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6e05a016-5e88-478b-bdb3-5560485c5929/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7bf3c979-c677-461e-b5f8-ffb184250a94/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e254df50-aa02-426f-9cdb-c6c89f682826/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d6f0429-17e7-4c8e-b276-e9f78f4440c9/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e5d0c999-7811-4423-a846-e34ecfc45154/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4e8edd61-0e06-462d-9fa8-5e20db17bd82/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0196c0b2-2ceb-4bc0-b713-5cd5cf430741/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/85e6f52f-9754-4f21-bda5-d9c9d89f4a57/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5129109c-c114-4bc4-9515-327227d63e63/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/254449d7-76ce-4b2e-93e4-ca99cff14a4e/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/94322d9f-0412-47cd-834d-b71752a02b29/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fbf35e03-7228-45d3-a255-d97dcdec5cb3/svn/toasted-sand-trex-composite-decking-boards-ts010616e2g01-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 43,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Toasted Sand"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Universal Hidden Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Limited Residential"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Toasted Sand~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Toasted-Sand-Grooved-Edge-Brown-Composite-Deck-Board-TS010616E2G01/309490002",
+        "item_id": "309490002"
+      },
+      {
+        "title": "Toasted Sand~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-20-ft-Enhance-Naturals-Toasted-Sand-Grooved-Edge-Composite-Deck-Board-TS010620E2G01/309490003",
+        "item_id": "309490003"
+      },
+      {
+        "title": "Toasted Sand~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-12-ft-Enhance-Naturals-Toasted-Sand-Grooved-Edge-Composite-Deck-Board-TS010612E2G01/309489981",
+        "item_id": "309489981"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 41.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 47,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

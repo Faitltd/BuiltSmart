@@ -1,0 +1,163 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14189,
+    "overage_used": 4189,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Sierra-Pacific-Industries-2-in-x-4-in-x-104-5-8-in-Premium-Kiln-Dried-Fir-Framing-Lumber-769887148525/335052866"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:02:15.399Z",
+    "processed_at": "2025-05-01T18:02:18.494Z",
+    "total_time_taken": 3.1,
+    "homedepot_url": "https://www.homedepot.com/p/Sierra-Pacific-Industries-2-in-x-4-in-x-104-5-8-in-Premium-Kiln-Dried-Fir-Framing-Lumber-769887148525/335052866"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Sierra-Pacific-Industries-2-in-x-4-in-x-104-5-8-in-Premium-Kiln-Dried-Fir-Framing-Lumber-769887148525/335052866",
+    "brand": "Sierra Pacific Industries",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/Sierra-Pacific-Industries/N-5yc1vZc55wZ904",
+    "title": "Sierra Pacific Industries 2 in. x 4 in. x 104-5/8 in. Premium Kiln-Dried Fir Framing Lumber",
+    "upc": "769887148525",
+    "item_id": "335052866",
+    "store_sku": "832150",
+    "model_number": "769887148525",
+    "description": "These Untreated Studs meet the highest grading standards for appearance and strength. They can be used for all your structural needs both interior and exterior. They can also be stained, primed or painted.",
+    "aisle": "23",
+    "bay": "001",
+    "feature_bullets": [
+      "Premium quality, kiln-dried Fir framing lumber",
+      "Ideal for all your structural needs both interior and exterior",
+      "Can be stained, primed or painted"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Kiln dried",
+      "Smooth texture",
+      "Premium lumber quality",
+      "Suitable for the heaviest of structural work",
+      "Available in other sizes",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/51ed5856-a070-4689-96ad-d457ca0556d7/svn/sierra-pacific-industries-framing-lumber-769887148525-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/51ed5856-a070-4689-96ad-d457ca0556d7/svn/sierra-pacific-industries-framing-lumber-769887148525-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Screws,Standard Nails"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Premium"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8.72 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "9 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4.96,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 87
+        }
+      }
+    }
+  }
+}

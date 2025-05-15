@@ -1,0 +1,234 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14211,
+    "overage_used": 4211,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CBSQ-Galvanized-Standoff-Column-Base-for-8x8-Nominal-Lumber-with-SDS-Screws-CBSQ88-SDS2/205227075"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:29.407Z",
+    "processed_at": "2025-05-01T18:20:34.553Z",
+    "total_time_taken": 5.15,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CBSQ-Galvanized-Standoff-Column-Base-for-8x8-Nominal-Lumber-with-SDS-Screws-CBSQ88-SDS2/205227075"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-CBSQ-Galvanized-Standoff-Column-Base-for-8x8-Nominal-Lumber-with-SDS-Screws-CBSQ88-SDS2/205227075",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Simpson-Strong-Tie/N-5yc1vZc8hsZ615",
+    "title": "Simpson Strong-Tie CBSQ Galvanized Standoff Column Base for 8x8 Nominal Lumber with SDS Screws",
+    "upc": "707392753308",
+    "item_id": "205227075",
+    "store_sku": "1000074081",
+    "model_number": "CBSQ88-SDS2",
+    "description": "Post and column bases secure the bottom of posts or columns to concrete and are perfect for decks or patio covers. Models are available for attaching to existing hardened concrete, wet concrete, as well as wood. The CBSQ series provides a connection between a post (or column) for decks, patio covers and other top-supported structures.",
+    "favorite_count": 3,
+    "feature_bullets": [
+      "Galvanized standoff base prevents wood decay from moisture",
+      "Designed for 4x4, 4x6, 6x6, or 8x8 nominal lumber sizes",
+      "Includes Strong-Drive SDS screws for secure and easy installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Uses Strong-Drive screws, which allow for fast installation, reduced reveal and high capacity",
+      "Provides a 1-in standoff between post and concrete that meets code requirements",
+      "Embeds in wet concrete at time of pour",
+      "The standoff base reduces the potential for decay at post and column ends",
+      "Shipped with base plate assembled",
+      "Nominal column size: 8x8",
+      "Steel gauge: Base 12; strap 7",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with 1/4 in. x 2 in. Strong-Drive SDS Heavy-Duty Connector screws (included)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c058d5a9-89a3-4ac9-8b82-7f70704e1abd/svn/simpson-strong-tie-post-bases-cbsq88-sds2-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7771a1b5-6ca4-4116-b4e5-c6db9b483f30/svn/simpson-strong-tie-post-bases-cbsq88-sds2-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9275db9d-b950-4781-bd21-2f8ea16dabbf/svn/simpson-strong-tie-post-bases-cbsq88-sds2-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-bases-cbsq88-sds2-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-bases-cbsq88-sds2-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c058d5a9-89a3-4ac9-8b82-7f70704e1abd/svn/simpson-strong-tie-post-bases-cbsq88-sds2-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2c58f979-7adc-4b78-94f7-ef6b8d17ecc8/main.mp4?fastly_token=NjgxMzkxOGRfMTQwYThiNTM3NTVkODk5NjMyM2E3OTU0NGE1OTYzZTVjOTU2MzIxYzQxMzNmYmY2NzJkM2NmZmU0YTgxMWJiYl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZGI5NmMzMzktYjc5NS00ZTI2LWI2OGMtMjMxNTQ3YjliMmMxLzJjNThmOTc5LTdhZGMtNGI3OC05NGY3LWVmNmI4ZDE3ZWNjOC9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_Post Base",
+        "id": "6167359517001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2155f829-f919-4d62-bd12-1abcbcf1ff3b/160x90/match/image.jpg",
+        "description": "Promo of Post Base\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/1adf0153-2df3-44f6-a355-35c757fd411a/main.mp4?fastly_token=NjgxM2ExMTNfMDNhYjhjZDY3YzgwMDk5ZjliZTc3OGMxNzU3MWZjYzU3MGRjYTA4ODRlZjRkMWFiNjZlY2EyYWFiNjc4NDQ4OV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMmY4NzNjNDktOTI4OS00ZmViLWIzMjAtOWJkYjM3NTMyYTcwLzFhZGYwMTUzLTJkZjMtNDRmNi1hMzU1LTM1Yzc1N2ZkNDExYS9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_DeckLedger",
+        "id": "6167359672001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/8da517f9-0535-4182-9759-04f15b64b115/600x338/match/image.jpg",
+        "description": "Promo of Deck Ledger\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 3,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Standoff Column Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "8.22 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "8x8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "7.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "15.81 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 93.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 24,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 24,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

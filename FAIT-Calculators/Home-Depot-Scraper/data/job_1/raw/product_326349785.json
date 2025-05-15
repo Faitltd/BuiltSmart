@@ -1,0 +1,323 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14964,
+    "overage_used": 4964,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Hanikes-One-Piece-1-1-1-6-GPF-Dual-Flush-Round-Toilet-in-White-Soft-Close-Seat-Included-AR03N/326349785"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:47:23.732Z",
+    "processed_at": "2025-05-02T21:47:28.851Z",
+    "total_time_taken": 5.12,
+    "homedepot_url": "https://www.homedepot.com/p/Hanikes-One-Piece-1-1-1-6-GPF-Dual-Flush-Round-Toilet-in-White-Soft-Close-Seat-Included-AR03N/326349785"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Hanikes-One-Piece-1-1-1-6-GPF-Dual-Flush-Round-Toilet-in-White-Soft-Close-Seat-Included-AR03N/326349785",
+    "brand": "Hanikes",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/Hanikes/N-5yc1vZcb8vZyhd",
+    "title": "Hanikes One-Piece 1.1/1.6 GPF Dual Flush Round Toilet in White Soft Close Seat Included",
+    "upc": "732829112571",
+    "item_id": "326349785",
+    "parent_id": "333218719",
+    "store_sku": "1010057398",
+    "model_number": "AR03N",
+    "description": "Give your bathroom an upgrade with this Hanikes One-Piece Toilet. The seat lid can be closed silently while conserving space with a compact round bowl. Featuring a concealed and smooth skirt design, it is not only visually appealing but also easy to clean. The powerful dual flush is extremely reliable and provides performance that never fails. The front bowl sits at a convenient height for ease of use and is the perfect design for any modern home.",
+    "feature_bullets": [
+      "Designed for smaller bathrooms or compact spaces",
+      "High-performance siphonic dual-flush for optimal use",
+      "Soft seat closes quietly without slamming shut"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "One-piece toilets integrate the tank and bowl into a seamless, easy-to-clean design",
+      "Compact round bowl offers added comfort",
+      "Dual-flush system: 1.1 GPF or higher (1.6 GPF) with a powerful flush system",
+      "Overall size: 25 in. D x 13.39 in. W x 28.35 in. H, suitable for a small bathroom",
+      "Big side holes provide easy access for installing floor bolts",
+      "Self-cleaning glazed surface is both attractive and easily maintained",
+      "Easy release and a soft-close toilet seat included",
+      "All-in-one package: package includes toilet, pre-installed soft closing toilet seat, pre-installed flush valve, high-quality wax ring, floor bolts and installation instruction",
+      "One-year warranty",
+      "Standard 12 in. rough-in",
+      "Need help with a home project? Let us do it for you - 1 800 HOME DEPOT or visit Home Depot.com/services"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b5577681-c5ba-4cb0-9626-49c4af0d907d/svn/white-hanikes-one-piece-toilets-ar03n-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2305e465-ec5b-498f-829a-1dc18219efaf/svn/white-hanikes-one-piece-toilets-ar03n-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bb8015b8-c714-4c33-b9fc-3dcc9b6aa537/svn/white-hanikes-one-piece-toilets-ar03n-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9b4d48cc-0077-42cf-b101-0fd559d2f668/svn/white-hanikes-one-piece-toilets-ar03n-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c1b8fa8b-b9f3-4631-a47f-5643beaddd9e/svn/white-hanikes-one-piece-toilets-ar03n-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f052c5b9-1f71-4bf1-b248-2dd144a05b82/svn/white-hanikes-one-piece-toilets-ar03n-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/50ddfbe4-4a03-4de6-9b59-6f3920efa775/svn/white-hanikes-one-piece-toilets-ar03n-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5a58de07-83b7-4c08-99a9-e2ce7c9e43f9/svn/white-hanikes-one-piece-toilets-ar03n-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8a0a2371-b913-4b6a-aca6-0271a2ffba14/svn/white-hanikes-one-piece-toilets-ar03n-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/55a69824-d7da-48b5-b1f4-0fc01b956439/svn/white-hanikes-one-piece-toilets-ar03n-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/65d2a7a1-e95e-4f6a-aa39-d803f0fb86de/svn/white-hanikes-one-piece-toilets-ar03n-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/09a5aa87-dfd7-4aa6-9cc0-f29c9ce6922b/svn/white-hanikes-one-piece-toilets-ar03n-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/21a51e9c-3df3-4b08-870a-4ea7149a4815/svn/white-hanikes-one-piece-toilets-ar03n-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e05e001a-7361-429b-9e0b-0c7c2d6cda86/svn/white-hanikes-one-piece-toilets-ar03n-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c50981c-75b6-492b-843a-579ede9b2b60/svn/white-hanikes-one-piece-toilets-ar03n-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b5577681-c5ba-4cb0-9626-49c4af0d907d/svn/white-hanikes-one-piece-toilets-ar03n-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/604185bc-3961-4061-ae78-8904a76aced5/91f3f91a-5246-4656-b5d1-97d8cce560dc/main.mp4?fastly_token=NjgzOTdjZDRfMGEyNjgyY2Q0ZmUyZTNkYzJmNWRlOWY3YjY1MWU2Zjc1ZjJjNTA2ZGVmNmU0NzY4ZDM3YTYwNzMyYTk1MzFmY18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82MDQxODViYy0zOTYxLTQwNjEtYWU3OC04OTA0YTc2YWNlZDUvOTFmM2Y5MWEtNTI0Ni00NjU2LWI1ZDEtOTdkOGNjZTU2MGRjL21haW4ubXA0&pubid=66036796001",
+        "title": "AR03N",
+        "id": "6344614693112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/604185bc-3961-4061-ae78-8904a76aced5/main/160x90/12s144ms/match/image.jpg?pubId=66036796001",
+        "description": "AR03N"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/53e6ac64-07e1-427e-a489-bfc025619c94/638bc1c9-f8ce-4e13-8754-9202ee177d39/main.mp4?fastly_token=NjgzOTdhZWFfY2Q4MzViYTYwYTliYmFlYmFiY2Q4NmVhMTBiMDhmNGFkZTNiY2Y4N2U2ZTRlZDk0NzUyOWE5ODkwMmY2NzE3ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81M2U2YWM2NC0wN2UxLTQyN2UtYTQ4OS1iZmMwMjU2MTljOTQvNjM4YmMxYzktZjhjZS00ZTEzLTg3NTQtOTIwMmVlMTc3ZDM5L21haW4ubXA0&pubid=66036796001",
+        "title": "AR03N",
+        "id": "6361039958112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/53e6ac64-07e1-427e-a489-bfc025619c94/main/160x90/2m37s461ms/match/image.jpg?pubId=66036796001",
+        "description": "AR03N"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 124,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Compact,Concealed Trapway,Skirted Design,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Siphonic Jet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Dual Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Dual Flush: 1.1/1.6"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Lid,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "500"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "85.96 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "One-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "28.3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "13.7 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6",
+        "link": "https://www.homedepot.com/p/Hanikes-One-Piece-1-1-1-6-GPF-Dual-Flush-Round-Toilet-in-White-Soft-Close-Seat-Included-AR03N/326349785",
+        "item_id": "326349785"
+      },
+      {
+        "title": "Biscuit~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6",
+        "link": "https://www.homedepot.com/p/Hanikes-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-Biscuit-Soft-Close-Seat-Included-AR03BC/330051155",
+        "item_id": "330051155"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "One Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/N-5yc1vZcb8v"
+      }
+    ],
+    "buybox_winner": {
+      "price": 216,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 289,
+      "unit": "carton",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 285,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-09"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 285,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-12",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13123,
+    "overage_used": 3123,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiber-Composites-LLC-dba-Fiberon-1x6-12-Fiberon-Promenade-PVC-Deck-Board-Sandy-Pier-Grooved-Edge-Actual-Size-1-x5-5-CPBRD2G-SP-12-CPBRD2G-SP-12/313027492"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:44:32.565Z",
+    "processed_at": "2025-05-01T13:45:19.817Z",
+    "total_time_taken": 47.25,
+    "homedepot_url": "https://www.homedepot.com/p/Fiber-Composites-LLC-dba-Fiberon-1x6-12-Fiberon-Promenade-PVC-Deck-Board-Sandy-Pier-Grooved-Edge-Actual-Size-1-x5-5-CPBRD2G-SP-12-CPBRD2G-SP-12/313027492"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiber-Composites-LLC-dba-Fiberon-1x6-12-Fiberon-Promenade-PVC-Deck-Board-Sandy-Pier-Grooved-Edge-Actual-Size-1-x5-5-CPBRD2G-SP-12-CPBRD2G-SP-12/313027492",
+    "brand": "Fiber Composites, LLC dba Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiber-Composites-LLC-dba-Fiberon/N-5yc1vZc5mbZrbz",
+    "title": "Fiber Composites, LLC dba Fiberon 1x6-12' Fiberon Promenade PVC Deck Board-Sandy Pier Grooved Edge (Actual Size: 1\"x5. 5\") CPBRD2G SP 12",
+    "upc": "844219025733",
+    "item_id": "313027492",
+    "store_sku": "1005357301",
+    "model_number": "CPBRD2G SP 12",
+    "description": "Wood decks are susceptible to mold, decay and insects, and have a shorter lifespan. Fiberon composite decking retains its good looks year after year because it's formulated to last. The composite core combines recycled wood with the resilience of recycled plastic, while our proprietary PermaTech cap layer provides superior stain and fade resistance. The result is durable decking that resists splintering, rotting, cracking, insects and decay, with warranties up to 50 years.",
+    "feature_bullets": [
+      "Made of durable PVC with a synthetic solid core for strength",
+      "Lifetime performance warranty"
+    ],
+    "feature_bullets_count": 2,
+    "descriptive_attributes": [
+      "Promenade offers the aesthetic of high-end, handcrafted wood decking, with the benefits of premium PVC.",
+      "Synthetic solid core construction provides protection from cracks, splinters and mold.",
+      "Boards feature four-sided capping, streaking on the unembossed underside and a next-generation surface coating for superior weather resistance and durability.",
+      "When tested, Fiberon PVC deck boards displayed high performance in resisting mold, water absorption and discoloration.",
+      "Tested for use around fresh water, salt water and chlorinated water environments, and suitable for use in installations that may be temporarily submerged in water, like dock and pool stairs.",
+      "Approved for use in all Wildland Urban Interface (WUI) zones.",
+      "Promenade PVC decking is backed by a lifetime performance limited warranty and a 5-year stain and fade limited warranty."
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/248fee76-ff27-4059-9222-e97368f23c34/svn/sandy-pier-fiber-composites-llc-dba-fiberon-composite-decking-boards-cpbrd2g-sp-12-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/248fee76-ff27-4059-9222-e97368f23c34/svn/sandy-pier-fiber-composites-llc-dba-fiberon-composite-decking-boards-cpbrd2g-sp-12-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Sandy Pier"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Fiberon Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Performance Warranty - 50 Year Stain and Fade"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "22"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

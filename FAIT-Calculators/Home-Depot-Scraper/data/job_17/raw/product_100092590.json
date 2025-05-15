@@ -1,0 +1,247 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13967,
+    "overage_used": 3967,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Building-Products-5523-7-16-in-x-3-1-4-in-x-96-in-Colonial-Finished-PVC-White-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-MLDP00X03COWH/100092590"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:49:24.966Z",
+    "processed_at": "2025-05-01T17:49:31.465Z",
+    "total_time_taken": 6.5,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Building-Products-5523-7-16-in-x-3-1-4-in-x-96-in-Colonial-Finished-PVC-White-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-MLDP00X03COWH/100092590"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Building-Products-5523-7-16-in-x-3-1-4-in-x-96-in-Colonial-Finished-PVC-White-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-MLDP00X03COWH/100092590",
+    "brand": "Royal Building Products",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Royal-Building-Products/N-5yc1vZcbjpZgkn",
+    "title": "Royal Building Products 5523 7/16 in. x 3 1/4 in. x 96 in. Colonial Finished PVC White Baseboard Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "070673528309",
+    "item_id": "100092590",
+    "store_sku": "890808",
+    "model_number": "MLDP00X03COWH",
+    "description": "Enhance the areas where floor and wall meet with the Colonial 8 ft. x 3-1/4 in. x 29/64 in. PVC Base Molding . Base molding can hide gaps and protect walls from traffic and floor maintenance. Adding molding to your home or office adds value and a nice finishing touch.",
+    "favorite_count": 4489,
+    "aisle": "19",
+    "bay": "009",
+    "feature_bullets": [
+      "Ready to cut and install",
+      "Durable white finish resists dents and scratches",
+      "Will not crack, split or warp"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Polymer extrusion for a like-wood feel and cut",
+      "Pre-finished in a bone white hue",
+      "Moisture, termite and rot-resistant for a long lasting accent",
+      "For use in areas where wall and floor meet",
+      "Easily installs with nails or construction adhesive",
+      "96 in. Length",
+      "<a href=\"https://www.homedepot.com/services/c/door-window-specialist/893e44520\" target=\"_blank\" style=\"color:#F96302;\">Speak to an Associate about Doors and Windows. Call 1-833-HDAPRON (432-7766) for free design, purchase and installation help daily from 9AM - 9PM EST.</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/efe28f58-c03d-40c6-9209-1798319ad202/svn/white-royal-building-products-baseboard-mldp00x03cowh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c99890af-ec1b-4333-b8d1-f36a59025247/svn/white-royal-building-products-baseboard-mldp00x03cowh-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a1def85-5717-49f8-a52c-c2cd8760cfba/svn/white-royal-building-products-baseboard-mldp00x03cowh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a62c209-eee5-490f-9eea-8bc36656918a/svn/white-royal-building-products-baseboard-mldp00x03cowh-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d55a9125-1926-4a11-ac97-e1b2d5624d8a/svn/white-royal-building-products-baseboard-mldp00x03cowh-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/efe28f58-c03d-40c6-9209-1798319ad202/svn/white-royal-building-products-baseboard-mldp00x03cowh-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/4f1f219b-2213-4015-b872-c261ea61c114/eb90701c-de4c-4ba2-adf0-27dc7349719c/main.mp4?fastly_token=NjgxMzkyZDJfMDYwZWNkNWQ3YmYxM2NhMzAwZGMxOWJhODU2Mzk3YmRkMTExNWVkNzgyNjg2OGZjOWFkYjBmZjQ2NWViNmM2NF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNGYxZjIxOWItMjIxMy00MDE1LWI4NzItYzI2MWVhNjFjMTE0L2ViOTA3MDFjLWRlNGMtNGJhMi1hZGYwLTI3ZGM3MzQ5NzE5Yy9tYWluLm1wNA%3D%3D",
+        "title": "How To Mitre and Install Baseboard - The Home Depot",
+        "id": "111686436001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/4f1f219b-2213-4015-b872-c261ea61c114/f4fde3bb-f7e8-420b-b916-e86954f270ef/160x90/match/image.jpg",
+        "description": "Learn from the experts at The Home Depot how simple it is to dress up your walls by installing base molding."
+      }
+    ],
+    "ratings_total": 694,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "5523"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Interior water proof material"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.438 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "keywords_list": [
+      "base moulding",
+      "polymer base moulding",
+      "white base moulding",
+      "colonial base moulding"
+    ],
+    "keywords": "base moulding, polymer base moulding, white base moulding, colonial base moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 46
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 51,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 4714,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

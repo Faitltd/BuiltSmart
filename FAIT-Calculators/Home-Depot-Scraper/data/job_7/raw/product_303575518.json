@@ -1,0 +1,209 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13340,
+    "overage_used": 3340,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Goo-Gone-24-oz-Pro-Power-Adhesive-Remover-Spray-Gel-2180A/303575518"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:54:14.555Z",
+    "processed_at": "2025-05-01T13:54:19.491Z",
+    "total_time_taken": 4.94,
+    "homedepot_url": "https://www.homedepot.com/p/Goo-Gone-24-oz-Pro-Power-Adhesive-Remover-Spray-Gel-2180A/303575518"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Goo-Gone-24-oz-Pro-Power-Adhesive-Remover-Spray-Gel-2180A/303575518",
+    "brand": "Goo Gone",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Strippers-Removers/Goo-Gone/N-5yc1vZc5bqZ4ga",
+    "title": "Goo Gone 24 oz. Pro-Power Adhesive Remover Spray Gel",
+    "upc": "070048027413",
+    "item_id": "303575518",
+    "store_sku": "407096",
+    "model_number": "2180A",
+    "description": "Goo Gone's line of products is a trusted brand, we stand by our products for all of your dirty, sticky, messes. Safe for you, your surfaces and your home. Please explore our line of Goo Gone original, pro-power, all purpose, sticker lifter, spray gel, patio, grill, oven, automotive, tile and grout, clean up wipes, kitchen degreasers, paint and more. There are so many ways to remove tough messes with Goo Gone products. Specifically formulated with Citrus Power, Goo Gone's portfolio of products effortlessly cleans up stains and sticky messes around your entire home. From gum to grease, fabric to fiberglass, you can count on Goo Gone to safely remove almost any problem and restore your surfaces to their original condition. It's the formula you love on a whole new level. Goo Gone Pro-Power dissolves even the toughest stains and sticky messes. Goo Gone Pro Power is safe on finished wood, painted surfaces, glass, fabric, metals, plastics, ceramic/ porcelain, brass, chrome, fiberglass, grout, and perfect for cleaning tools. The pro power formula works on all type of messes such as silicone caulk, adhesives, sealants, tree sap, wet paint, glue, asphalt, ink, marker, soot, wax, grease and oil. Keep a bottle or 2-handy for anything life may throw at you or your walls, floors, cars, etc. You get it, Goo Gone is surface safe so it is a safe alternative to abrasive cleaners that may damage your surfaces. Sit back and let Goo Gone take care of your toughest messes.",
+    "favorite_count": 490,
+    "aisle": "52",
+    "bay": "004",
+    "feature_bullets": [
+      "Clings to the surface for a mess-free cleanup",
+      "Suitable for removing and gummy and sticky messes",
+      "Formulated with low VOC for enhanced safety"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Works on silicone caulk, adhesive, sealants, tree sap, wet paint, glue, asphalt, ink, marker, soot, tar, wax, grease/oil",
+      "Professional grade cleaner removes sticky, gooey, gummy messes",
+      "Superior, extra-heavy duty industrial and institutional degreaser and cleaner",
+      "Spray gel clings to surface for no-drip, no-mess cleanup",
+      "Low VOC",
+      "Rinse surfaces after use",
+      "Subject to or will include a recycling fee in the following states: CA, OR"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/47fbb855-3cc3-460a-aa54-72c70981d74b/svn/goo-gone-paint-strippers-removers-2180a-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9fb72e14-14c2-4e8f-82da-ef27d329377b/svn/goo-gone-paint-strippers-removers-2180a-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fddd9e37-8b19-4be9-aa24-e5a480706eee/svn/goo-gone-paint-strippers-removers-2180a-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/422c0b18-4ed0-45bc-a0f5-0a0a290bc589/svn/goo-gone-paint-strippers-removers-2180a-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c34620e-7689-4103-b447-492b2b01c6de/svn/goo-gone-paint-strippers-removers-2180a-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d19d9157-8beb-457d-a964-735fcc02866b/svn/goo-gone-paint-strippers-removers-2180a-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5fb3233c-5498-4a1a-bb06-7329e5dc3019/svn/goo-gone-paint-strippers-removers-2180a-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8376a578-8309-4e83-b947-5dd9620c4816/svn/goo-gone-paint-strippers-removers-2180a-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/00701e61-43a9-4eb7-b167-c16f5b08cc83/svn/goo-gone-paint-strippers-removers-2180a-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/47fbb855-3cc3-460a-aa54-72c70981d74b/svn/goo-gone-paint-strippers-removers-2180a-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 358,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Biodegradable",
+        "value": "Non-Biodegradable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cleanup",
+        "value": "Solvent"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Materials Removed",
+        "value": "Adhesive"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number per Package",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Prep & Cleanup Product Type",
+        "value": "Glue Remover,Household Adhesive Remover"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Cleaner/Remover"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Dispenser Type",
+        "value": "Trigger Sprayer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Form",
+        "value": "Gel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Recommended Surfaces",
+        "value": "Glass,Grout,Metal,Painted Surfaces,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Product satisfaction guaranteed for a period of one year from date of purchase when used as directed."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Container Size",
+        "value": "24 Ounce"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Strippers & Removers",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Strippers-Removers/N-5yc1vZc5bq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 9.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 52
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 70,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 296,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

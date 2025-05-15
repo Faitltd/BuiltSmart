@@ -1,0 +1,146 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14197,
+    "overage_used": 4197,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/White-Oak-0-66-in-x-1-96-ft-x-1-96-ft-Natural-Wood-Veneer-MDF-Acoustic-Wall-Panels-4-pcs-FX-090912/333205873"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:19:29.848Z",
+    "processed_at": "2025-05-01T18:20:10.077Z",
+    "total_time_taken": 40.23,
+    "homedepot_url": "https://www.homedepot.com/p/White-Oak-0-66-in-x-1-96-ft-x-1-96-ft-Natural-Wood-Veneer-MDF-Acoustic-Wall-Panels-4-pcs-FX-090912/333205873"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/White-Oak-0-66-in-x-1-96-ft-x-1-96-ft-Natural-Wood-Veneer-MDF-Acoustic-Wall-Panels-4-pcs-FX-090912/333205873",
+    "brand": "Unbranded",
+    "title": "Unbranded White Oak 0.66 in. x 1.96 ft. x 1.96 ft. Natural Wood Veneer MDF Acoustic Wall Panels (4 pcs)",
+    "upc": "794879964869",
+    "item_id": "333205873",
+    "store_sku": "1013031221",
+    "model_number": "FX-090912",
+    "description": "Our acoustic wall panels excel in noise reduction, making them ideal for enhancing acoustics in homes, offices, studios, and other noise-sensitive spaces. The surface is natural wood veneer, flat. Perfect for music studios, home offices, conference rooms, home theaters, or from instrument practice rooms.",
+    "descriptive_attributes": [
+      "Polyester fiber wood strips grille sound-absorbing board",
+      "Wall decoration living room recording studio piano room grille background wall",
+      "DIY splicing/cutting",
+      "Screw installation",
+      "Natural wood veneer"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d6ea66e8-cfbb-4707-8791-b089b33f718a/svn/mdf-fx-090912-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bc132d36-b94c-4544-a7a5-84b89f1034d7/svn/mdf-fx-090912-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/16d2e5d9-9c87-44d7-8ab8-8475175cb2a9/svn/mdf-fx-090912-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/08b6aed0-6add-4bf4-b809-cf3af62308cb/svn/mdf-fx-090912-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab769b9b-c715-4f5b-a28a-b9ef3efe35a6/svn/mdf-fx-090912-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7262277d-7c1d-4248-9efc-4bb7ecdc554e/svn/mdf-fx-090912-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d6ea66e8-cfbb-4707-8791-b089b33f718a/svn/mdf-fx-090912-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "MDF"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "90 days limitted"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "23.6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.7 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "23.6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 113.7,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case"
+    }
+  }
+}

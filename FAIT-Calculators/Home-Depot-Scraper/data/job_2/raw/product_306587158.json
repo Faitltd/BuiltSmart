@@ -1,0 +1,21 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13080,
+    "overage_used": 3080,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Red-Exterior-Self-Starting-Star-Flat-Head-Wood-Deck-Screw-10-lbs-Box-730-Piece-115971/306587158"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:41:13.679Z",
+    "processed_at": "2025-05-01T13:41:16.358Z",
+    "total_time_taken": 2.68,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Red-Exterior-Self-Starting-Star-Flat-Head-Wood-Deck-Screw-10-lbs-Box-730-Piece-115971/306587158"
+  },
+  "message": "Product not found."
+}

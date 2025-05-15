@@ -1,0 +1,250 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14575,
+    "overage_used": 4575,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-MPBZ-ZMAX-Galvanized-Moment-Post-Base-for-6x6-Nominal-Lumber-with-SDS-Screws-MPB66Z/313335390"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:52:06.446Z",
+    "processed_at": "2025-05-01T18:52:11.842Z",
+    "total_time_taken": 5.4,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-MPBZ-ZMAX-Galvanized-Moment-Post-Base-for-6x6-Nominal-Lumber-with-SDS-Screws-MPB66Z/313335390"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-MPBZ-ZMAX-Galvanized-Moment-Post-Base-for-6x6-Nominal-Lumber-with-SDS-Screws-MPB66Z/313335390",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Simpson-Strong-Tie/N-5yc1vZc8hsZ615",
+    "title": "Simpson Strong-Tie MPBZ ZMAX Galvanized Moment Post Base for 6x6 Nominal Lumber with SDS Screws",
+    "upc": "707392343783",
+    "item_id": "313335390",
+    "store_sku": "1005426090",
+    "model_number": "MPB66Z",
+    "description": "The MPBZ is specifically designed to provide moment resistance for wood columns and posts. With its innovative sleeve design, the MPBZ encapsulates the post and keeps it from rotating at its base when lateral loads are applied at the top. This provides both the specifier and the contractor with greater design options and the opportunity to reduce the need for bracing, creating more unobstructed views. This innovative off-the-shelf solution has been engineered and tested to save specifiers and contractors the time and expense involved in designing, calculating and ordering custom-fabricated parts. Also available for 4x4 and 8x8 posts.",
+    "favorite_count": 23,
+    "feature_bullets": [
+      "ZMAX-galvanized finish for enhanced corrosion resistance",
+      "Engineered for high lateral and uplift loads in wood posts",
+      "Includes Strong-Drive SDS screws for easy and secure installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Tabs inside the MPBZ provide the code-required 1-in post standoff to help prevent rot from standing water and ground moisture",
+      "Stamped indicators and internal tabs identify the required concrete embedment depth",
+      "Strategically placed holes simplify installation to allow template attachment",
+      "Optional obround holes have been added for attaching trim material",
+      "Additional holes at the embedment line allow standing water to exit and a point of visual inspection",
+      "1-piece design simplifies installation",
+      "Post size: 6x6",
+      "Made from 12-Gauge steel",
+      "ZMAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with 1/4 in. x 2-1/2 in. Strong-Drive SDS Heavy-Duty Connector screws (included)"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1f3502f7-f60e-4682-831f-cfd97104e9b1/svn/simpson-strong-tie-post-bases-mpb66z-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e0871daf-982c-4bfc-b767-aa11a50ff9a4/svn/simpson-strong-tie-post-bases-mpb66z-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5e31312e-e158-4ee8-bf4b-83abe0f64308/svn/simpson-strong-tie-post-bases-mpb66z-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a737c30a-453c-4b1c-8855-944c67153014/svn/simpson-strong-tie-post-bases-mpb66z-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fcbcb836-a5df-4530-a2e0-9bf13dccf2c5/svn/simpson-strong-tie-post-bases-mpb66z-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e084f46f-6a8d-4ec4-8d23-0156004233a3/svn/simpson-strong-tie-post-bases-mpb66z-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-bases-mpb66z-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8305262a-e591-4d7e-8378-7418d9dc0529/svn/simpson-strong-tie-post-bases-mpb66z-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-bases-mpb66z-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1f3502f7-f60e-4682-831f-cfd97104e9b1/svn/simpson-strong-tie-post-bases-mpb66z-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2c58f979-7adc-4b78-94f7-ef6b8d17ecc8/main.mp4?fastly_token=NjgxMzkxOGRfMTQwYThiNTM3NTVkODk5NjMyM2E3OTU0NGE1OTYzZTVjOTU2MzIxYzQxMzNmYmY2NzJkM2NmZmU0YTgxMWJiYl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZGI5NmMzMzktYjc5NS00ZTI2LWI2OGMtMjMxNTQ3YjliMmMxLzJjNThmOTc5LTdhZGMtNGI3OC05NGY3LWVmNmI4ZDE3ZWNjOC9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_Post Base",
+        "id": "6167359517001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2155f829-f919-4d62-bd12-1abcbcf1ff3b/160x90/match/image.jpg",
+        "description": "Promo of Post Base\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/1adf0153-2df3-44f6-a355-35c757fd411a/main.mp4?fastly_token=NjgxMzhiNjZfMDQxN2EwOTgzYTRhMjg3MmZkYzc2MWRhOGE2NWI4MDJkYjY2YzEyYWJmZDk2NmIxZjY4ODVmNDVhN2QzNzBjM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMmY4NzNjNDktOTI4OS00ZmViLWIzMjAtOWJkYjM3NTMyYTcwLzFhZGYwMTUzLTJkZjMtNDRmNi1hMzU1LTM1Yzc1N2ZkNDExYS9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_DeckLedger",
+        "id": "6167359672001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/8da517f9-0535-4182-9759-04f15b64b115/600x338/match/image.jpg",
+        "description": "Promo of Deck Ledger\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 22,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Regular Post Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G185 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "10.7 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "6x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "7.03 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "15.49 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6.75 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 179,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 151,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 151,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

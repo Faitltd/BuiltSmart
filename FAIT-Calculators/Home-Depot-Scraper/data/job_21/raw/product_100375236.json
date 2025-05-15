@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14661,
+    "overage_used": 4661,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-PF-18-Gauge-ZMAX-Galvanized-Post-Frame-Hanger-for-2x6-Nominal-Lumber-PF26Z/100375236"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:01:33.397Z",
+    "processed_at": "2025-05-01T19:01:39.279Z",
+    "total_time_taken": 5.88,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-PF-18-Gauge-ZMAX-Galvanized-Post-Frame-Hanger-for-2x6-Nominal-Lumber-PF26Z/100375236"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-PF-18-Gauge-ZMAX-Galvanized-Post-Frame-Hanger-for-2x6-Nominal-Lumber-PF26Z/100375236",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/Simpson-Strong-Tie/N-5yc1vZaqxbZ615",
+    "title": "Simpson Strong-Tie PF 18-Gauge ZMAX Galvanized Post Frame Hanger for 2x6 Nominal Lumber",
+    "upc": "707392813101",
+    "item_id": "100375236",
+    "parent_id": "324059145",
+    "store_sku": "295593",
+    "model_number": "PF26Z",
+    "description": "The PF series of top-flange hangers are designed for common light-frame applications. These economical hangers are for use with 2x4 and 2x6 members. The patented double-shear nailing design distributes the load through two points on each joist, providing greater strength with fewer nails.",
+    "favorite_count": 149,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Self-jigging design for automatic vertical alignment provides quick installation",
+      "Diamond holes to temporarily fasten the connector for easy alignment and attachment",
+      "Cannot be modified",
+      "Seat width: 1-9/16-in",
+      "Nominal joist size: 2x6",
+      "Made from 18-Gauge steel",
+      "ZMAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with 0.148 in. x 3 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-in-x-0-148-in-SCN-Smooth-Shank-HDG-Connector-Nail-50-Pack-10DHDG-R/206101773\" target=\"_blank\" style=\"color:#F96302;\">10DHDG</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/35ed1a9b-f7c7-4fc4-b37e-a68adae299de/svn/simpson-strong-tie-joist-hangers-pf26z-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/03fcf006-fbed-4ec8-8896-1542bcf55c49/svn/simpson-strong-tie-joist-hangers-pf26z-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/22b2b03a-249c-4ea6-a526-d45ba55800f9/svn/simpson-strong-tie-joist-hangers-pf26z-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/32e7e10b-61f3-49e4-83da-ce47f91bab66/svn/simpson-strong-tie-joist-hangers-pf26z-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-joist-hangers-pf26z-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-joist-hangers-pf26z-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/35ed1a9b-f7c7-4fc4-b37e-a68adae299de/svn/simpson-strong-tie-joist-hangers-pf26z-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 93,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G185 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "18"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Flange Type",
+        "value": "Other"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Modifications",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.29 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Joist Hanger Size",
+        "value": "2x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "5.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "1.81 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.19 in"
+      }
+    ],
+    "keywords_list": [
+      "floor joists",
+      "roof joists",
+      "SIMPSON STRONG-TIE",
+      "PF26Z 2 In. x 6 In. Post Frame Hanger Z-MAX",
+      "PF26Z"
+    ],
+    "keywords": "floor joists, roof joists, SIMPSON STRONG-TIE, PF26Z 2 In. x 6 In. Post Frame Hanger Z-MAX, PF26Z",
+    "variants": [
+      {
+        "title": "2x4",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-PF-18-Gauge-Galvanized-Post-Frame-Hanger-for-2x4-Nominal-Lumber-PF24/100374975",
+        "item_id": "100374975"
+      },
+      {
+        "title": "2x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-PF-18-Gauge-ZMAX-Galvanized-Post-Frame-Hanger-for-2x6-Nominal-Lumber-PF26Z/100375236",
+        "item_id": "100375236"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Joist Hangers",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/N-5yc1vZaqxb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.87,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 162,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 162,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

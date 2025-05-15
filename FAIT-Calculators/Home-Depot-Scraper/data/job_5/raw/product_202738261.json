@@ -1,0 +1,234 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13205,
+    "overage_used": 3205,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM163-11-16-x-1-3-8-in-MDF-Base-Cap-Moulding-10001625/202738261"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:48:08.699Z",
+    "processed_at": "2025-05-01T13:48:12.844Z",
+    "total_time_taken": 4.14,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM163-11-16-x-1-3-8-in-MDF-Base-Cap-Moulding-10001625/202738261"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM163-11-16-x-1-3-8-in-MDF-Base-Cap-Moulding-10001625/202738261",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Base-Cap/FINISHED-ELEGANCE/N-5yc1vZ2fkpbgmZr98",
+    "title": "FINISHED ELEGANCE WM163 11/16 x 1-3/8 in. MDF Base Cap Moulding",
+    "upc": "095624512398",
+    "item_id": "202738261",
+    "parent_id": "327768393",
+    "store_sku": "627158",
+    "model_number": "10001625",
+    "description": "The Finished Elegance 11/16 in. x 1-3/8 in. WM163 Base Cap moulding is to used to accent square base boards around floors and stairs. This verse able moulding can also be used to create panels sometimes referred to as \"judges panels\" on vertical walls to add visual interest. Base cap can also be used as a panel cap to give wainscot a more finished look. Finished Elegance moulding and trim is completely finished with no painting required, so you can simply cut and install your new moulding - saving time and money. The superior durability of Finished Elegance moulding and trim also allows it to withstand years of wear and tear in your home. Use the complete solution of the color matched touch-up kit and caulk with your Finished Elegance installation to create a lasting impression for your entire room.",
+    "favorite_count": 255,
+    "aisle": "19",
+    "bay": "011",
+    "feature_bullets": [
+      "Made using MDF that is extremely durable and easy to maintain",
+      "Scratch-resistant finish protects walls against wear and tear",
+      "Smooth surface can be painted or stained as desired"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is factory finished for easy installation",
+      "Simply nail to the wall and fill the holes for a perfect installation",
+      "Durable finish is resistant to scratches and dents",
+      "Don't forget the color matched caulk and fill stick",
+      "Classic small profile moulding useful in covering small gaps",
+      "Can be used to accent traditional base mouldings",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c975c690-b5cd-4af8-8d98-1223974af4d3/svn/white-finished-elegance-base-cap-10001625-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1607ce71-626f-4cb5-9316-a3d01e502745/svn/white-finished-elegance-base-cap-10001625-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/04cd1f64-ec9f-4062-92f4-2790e068fccf/svn/white-finished-elegance-base-cap-10001625-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e1097413-d42f-4563-b845-1bec34ad7a95/svn/white-finished-elegance-base-cap-10001625-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c5b741b6-8739-440a-a366-82a03e872109/svn/white-finished-elegance-base-cap-10001625-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c975c690-b5cd-4af8-8d98-1223974af4d3/svn/white-finished-elegance-base-cap-10001625-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/51b2be65-80be-4520-805f-7358320d16e3/ff40cde9-78bc-422b-8dca-ebc4a6bca3f6/main.mp4?fastly_token=NjgzODQ1MGVfODE0MGNjZmUzNDQ1NDgyM2I4MWJiMzY5NTU1ZDdkY2Q5ZWZmNTQwNDQ0NzkwN2IyZTQ5ZGRmMmZlY2ZhZmY5OV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81MWIyYmU2NS04MGJlLTQ1MjAtODA1Zi03MzU4MzIwZDE2ZTMvZmY0MGNkZTktNzhiYy00MjJiLThkY2EtZWJjNGE2YmNhM2Y2L21haW4ubXA0&pubid=66036796001",
+        "title": "Finished Elegance - The No Painting Trim and Moulding Solution",
+        "id": "3724859786001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/51b2be65-80be-4520-805f-7358320d16e3/b97fd7ed-56f4-4f2e-b75a-2182a126584a/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This video highlights the Finished Elegance No Painting Trim and Moulding Solution.  Discover the ease of installation and outstanding benefits of using Finished Elegance moulding and trim."
+      }
+    ],
+    "ratings_total": 70,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Base Cap Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "163"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.375 in"
+      }
+    ],
+    "keywords_list": [
+      "16 ft. x 1-3/8 in. x 11/16 in. White MDF Base Cap Moulding",
+      "FMD0163"
+    ],
+    "keywords": "16 ft. x 1-3/8 in. x 11/16 in. White MDF Base Cap Moulding, FMD0163",
+    "variants": [
+      {
+        "title": "White~~192 in~~1.375 in",
+        "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM163-11-16-x-1-3-8-in-MDF-Base-Cap-Moulding-10001625/202738261",
+        "item_id": "202738261"
+      },
+      {
+        "title": "White~~96 in~~1.375 in",
+        "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WM163-11-16-in-x-1-3-8-in-x-96-in-Base-Cap-Moulding-10001774/203209472",
+        "item_id": "203209472"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Base Cap",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Base-Cap/N-5yc1vZ2fkpbgm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.87,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 508
+        }
+      }
+    }
+  }
+}

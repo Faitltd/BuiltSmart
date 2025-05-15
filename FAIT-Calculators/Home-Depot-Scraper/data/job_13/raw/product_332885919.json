@@ -1,0 +1,354 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13862,
+    "overage_used": 3862,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-Magellan-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Argentinian-Silver-Gray-Grooved-Composite-Decking-Board-US01-16-G9-SI/332885919"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:03:48.974Z",
+    "processed_at": "2025-05-01T17:03:53.468Z",
+    "total_time_taken": 4.49,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-Magellan-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Argentinian-Silver-Gray-Grooved-Composite-Decking-Board-US01-16-G9-SI/332885919"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-Magellan-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Argentinian-Silver-Gray-Grooved-Composite-Decking-Board-US01-16-G9-SI/332885919",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/NewTechWood/N-5yc1vZc5mbZbzg",
+    "title": "NewTechWood Magellan Plus 0.88 in. x 5.43 in. x 16 ft. Rustic and Wood Grain Argentinian Silver Gray Grooved Composite Decking Board",
+    "upc": "810146112280",
+    "item_id": "332885919",
+    "parent_id": "334162928",
+    "store_sku": "1013111141",
+    "model_number": "US01-16-G9-SI",
+    "description": "Introducing the Magellan Plus Deck board, showcasing a striking rustic wood grain on 1-side and our timeless cathedral wood grain on the other, perfect for any outdoor aesthetic. Available in 6-trusted colors, this board combines style with unparalleled durability. Capped on all 4-sides, it offers superior protection against the elements, ensuring your deck looks beautiful for years to come.",
+    "feature_bullets": [
+      "Rustic and cathedral wood grain for a unique style",
+      "Capped on all 4-sides to protect against the elements",
+      "Talk to a live NewTechWood expert at 855-592-8088"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Grooved for hidden fastener use",
+      "Features a rustic wood grain on 1-side and classic cathedral wood grain on the other for versatile styling",
+      "Available in 6-trusted colors to complement any outdoor space",
+      "Capped on all 4-sides for superior protection against the elements",
+      "Engineered to maintain its stunning appearance season after season",
+      "UV protection for years to come"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/124a3f66-8539-464d-8f75-0f597bad5fd5/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ea141697-a6be-4ec6-914c-3cd157c30af2/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/241cfcfb-9b4f-4dce-a955-49baf34083e0/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3b798ff1-3164-4b67-910d-fc78cda2847a/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b0cc8fec-c3f5-4afd-82de-e896700b7133/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/700f93e1-861c-4fc1-939c-509f6082f242/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/767ca162-2d5f-4d36-9b23-8e025cd1d62a/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9307ddfc-a2b3-4616-9807-1aef6b202f83/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/124a3f66-8539-464d-8f75-0f597bad5fd5/svn/argentinian-silver-gray-newtechwood-composite-decking-boards-us01-16-g9-si-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/2c3444dd-38f5-4b74-99d3-17ff705c405f/main.mp4?fastly_token=NjgzODU4YWZfZmY4MTk4ZDBjN2RiMzcxNmY5ZGFjYzM1MzczMmNkMmI1Nzk4ODhlYTgxZTk2NDlkN2ZkZTUzYmZjZTZiNWEwZl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lODUyMWU2ZC0wODUwLTQwMWItODdkOC1lMWY5Mzg1MzE1MmIvMmMzNDQ0ZGQtMzhmNS00Yjc0LTk5ZDMtMTdmZjcwNWM0MDVmL21haW4ubXA0&pubid=66036796001",
+        "title": " NewtTechWood - Introducing Ultrashield Naturale",
+        "id": "5483624160001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/05aa5e3d-faab-4d93-8c3e-ff6d5d3abb3c/160x90/match/image.jpg?pubId=66036796001",
+        "description": "An introduction into our NewTechWood Ultrashield Naturale Product line. It shows the technology, the inspiration and the beauty of our products. Sit back and enjoy!"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/ee093faf-51ae-4064-bc2f-23c9210b5d9d/main.mp4?fastly_token=NjgzODViZDZfNzRkYTg5NjMzMTBhYWQ1MzhkMDZmYWEyNmVkYjc5NjZiOGU2OTc3NTNkMTdmMjBiMzkyZTJmZTczZjg5NDJiNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xYWIzOGZkOC1lZjUwLTQ1ZjQtYWEyYS0zMjk5OWI0ZGMwYjIvZWUwOTNmYWYtNTFhZS00MDY0LWJjMmYtMjNjOTIxMGI1ZDlkL21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Decking Installation Guide",
+        "id": "5748602797001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/2d459e9f-3b60-4318-b23d-ca181c2048c0/160x90/match/image.jpg?pubId=66036796001",
+        "description": "All the info you need to install your NewTechWood Decking and enjoy it for years to come."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/0580fa2b-8c6b-42b4-9fe3-559fb2d8b9f7/main.mp4?fastly_token=NjgzODY3ODBfMGE3YzFjMmVhZjY2ODc2OGY0NmYxYWQ3Y2U0Njg4NzY0MTcyNTFjZGM1YWI3MDRhNDY3NmY2ODY4M2NjMTg5ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hY2U2MjRkOS05NTBlLTRmODktYTgzZi1kNzUzMTkyYjExMmUvMDU4MGZhMmItOGM2Yi00MmI0LTlmZTMtNTU5ZmIyZDhiOWY3L21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Composite Decking Deep Dive",
+        "id": "6299851835001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/main/160x90/5m43s104ms/match/image.jpg?pubId=66036796001",
+        "description": "In this video we take a deep dive into NewTechWood Composite Decking to show you the different profiles and their use cases as well as the clips."
+      }
+    ],
+    "ratings_total": 1,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Argentinian Silver Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 years"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.43 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "41"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.43 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Roman Antique~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Roman-Antique-Grooved-Composite-Decking-Board-US01-8-G9-AT/332886103",
+        "item_id": "332886103"
+      },
+      {
+        "title": "Argentinian Silver Gray~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Argentinian-Silver-Gray-Composite-Decking-Board-US07-16-G9-SI/332886295",
+        "item_id": "332886295"
+      },
+      {
+        "title": "Spanish Walnut~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Spanish-Walnut-Composite-Decking-Board-US07-8-G9-WN/332886356",
+        "item_id": "332886356"
+      },
+      {
+        "title": "Roman Antique~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Roman-Antique-Composite-Decking-Board-US07-16-G9-AT/332886258",
+        "item_id": "332886258"
+      },
+      {
+        "title": "Indian Ebony~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Indian-Ebony-Grooved-Composite-Decking-Board-US01-8-G9-EB/332886128",
+        "item_id": "332886128"
+      },
+      {
+        "title": "Peruvian Teak~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Peruvian-Teak-Composite-Decking-Board-US07-8-G9-TK/332886320",
+        "item_id": "332886320"
+      },
+      {
+        "title": "Argentinian Silver Gray~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Argentinian-Silver-Gray-Grooved-Composite-Decking-Board-US01-16-G9-SI/332885919",
+        "item_id": "332885919"
+      },
+      {
+        "title": "Spanish Walnut~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Spanish-Walnut-Composite-Decking-Board-US07-16-G9-WN/332886271",
+        "item_id": "332886271"
+      },
+      {
+        "title": "Argentinian Silver Gray~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Argentinian-Silver-Gray-Grooved-Composite-Decking-Board-US01-8-G9-SI/332886139",
+        "item_id": "332886139"
+      },
+      {
+        "title": "Spanish Walnut~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Spanish-Walnut-Grooved-Composite-Decking-Board-US01-16-G9-WN/332885851",
+        "item_id": "332885851"
+      },
+      {
+        "title": "Brazilian Ipe~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Brazilian-Ipe-Grooved-Composite-Decking-Board-US01-16-G9-IP/332885819",
+        "item_id": "332885819"
+      },
+      {
+        "title": "Peruvian Teak~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Peruvian-Teak-Grooved-Composite-Decking-Board-US01-8-G9-TK/332886075",
+        "item_id": "332886075"
+      },
+      {
+        "title": "Brazilian Ipe~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-PLUS-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Brazilian-Ipe-Composite-Decking-Board-US07-8-G9-IP/332886329",
+        "item_id": "332886329"
+      },
+      {
+        "title": "Roman Antique~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Roman-Antique-Composite-Decking-Board-US07-8-G9-AT/332886341",
+        "item_id": "332886341"
+      },
+      {
+        "title": "Brazilian Ipe~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Brazilian-Ipe-Composite-Decking-Board-US07-16-G9-IP/332886243",
+        "item_id": "332886243"
+      },
+      {
+        "title": "Indian Ebony~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Indian-Ebony-Grooved-Composite-Decking-Board-US01-16-G9-EB/332885858",
+        "item_id": "332885858"
+      },
+      {
+        "title": "Brazilian Ipe~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Brazilian-Ipe-Grooved-Composite-Decking-Board-US01-8-G9-IP/332886081",
+        "item_id": "332886081"
+      },
+      {
+        "title": "Peruvian Teak~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Peruvian-Teak-Grooved-Composite-Decking-Board-US01-16-G9-TK/332885793",
+        "item_id": "332885793"
+      },
+      {
+        "title": "Peruvian Teak~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Peruvian-Teak-Composite-Decking-Board-US07-16-G9-TK/332886208",
+        "item_id": "332886208"
+      },
+      {
+        "title": "Argentinian Silver Gray~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Argentinian-Silver-Gray-Composite-Decking-Board-US07-8-G9-SI/332886383",
+        "item_id": "332886383"
+      },
+      {
+        "title": "Roman Antique~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Roman-Antique-Grooved-Composite-Decking-Board-US01-16-G9-AT/332885838",
+        "item_id": "332885838"
+      },
+      {
+        "title": "Spanish Walnut~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Magellan-PLUS-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Spanish-Walnut-Grooved-Composite-Decking-Board-US01-8-G9-WN/332886123",
+        "item_id": "332886123"
+      },
+      {
+        "title": "Indian Ebony~~Square~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-16-ft-Rustic-and-Wood-Grain-Indian-Ebony-Composite-Decking-Board-US07-16-G9-EB/332886282",
+        "item_id": "332886282"
+      },
+      {
+        "title": "Indian Ebony~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-Cortes-Plus-0-88-in-x-5-43-in-x-8-ft-Rustic-and-Wood-Grain-Indian-Ebony-Composite-Decking-Board-US07-8-G9-EB/332886377",
+        "item_id": "332886377"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 94.51,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2742,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        }
+      }
+    }
+  }
+}

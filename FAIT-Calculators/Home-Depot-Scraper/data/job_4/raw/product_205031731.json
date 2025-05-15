@@ -1,0 +1,255 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12933,
+    "overage_used": 2933,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Everbilt-2-ft-Bury-Depth-Frost-Proof-Yard-Hydrant-EBYH02NL/205031731"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:35:18.630Z",
+    "processed_at": "2025-05-01T13:35:22.626Z",
+    "total_time_taken": 4,
+    "homedepot_url": "https://www.homedepot.com/p/Everbilt-2-ft-Bury-Depth-Frost-Proof-Yard-Hydrant-EBYH02NL/205031731"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Everbilt-2-ft-Bury-Depth-Frost-Proof-Yard-Hydrant-EBYH02NL/205031731",
+    "brand": "Everbilt",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Valves-Yard-Hydrants/Everbilt/N-5yc1vZca23Z402",
+    "title": "Everbilt 2 ft. Bury Depth Frost-Proof Yard Hydrant",
+    "upc": "659647050116",
+    "item_id": "205031731",
+    "store_sku": "1000044759",
+    "model_number": "EBYH02NL",
+    "description": "The frost proof Everbilt yard hydrant has a shut-off valve which operates below the frost line to supply running water, for reliable irrigation even in the coldest weather. The water hydrant can easily be repaired without digging. This yard hydrant has a strong 1 in. galvanized steel stand-pipe and a 3/4 in. female NPT brass valve to connect to the water supply pipe.",
+    "is_bestseller": true,
+    "favorite_count": 390,
+    "aisle": "09",
+    "bay": "008",
+    "feature_bullets": [
+      "Self-draining valve to prevent freezing",
+      "Heavy duty ductile iron head and handle to prevent cracking",
+      "Total length 51 inches, two-foot bury depth"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Self-draining when handle is in closed position to prevent freezing",
+      "Heavy duty cast iron head with bucket hook",
+      "Extra-large cast iron handle for easy operation",
+      "Brass clevis rod and hose connector",
+      "Double o-ring sealing system provides a positive seal",
+      "1-piece plunger design provides a positive seal and easy adjustment",
+      "Plunger is easily adjustable with square head set screw",
+      "Bury depth of 24 in., meaning 27 in. will be above ground",
+      "Yard hydrant complies with federal lead laws"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/af89f6b4-6ada-4d59-a9b3-8f0aaa7f42ed/svn/everbilt-yard-hydrants-ebyh02nl-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/035d26ff-99b8-4e76-b519-0b0235f0593f/svn/everbilt-yard-hydrants-ebyh02nl-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/989cbbdd-684d-4e2f-b628-e17c50a4a948/svn/everbilt-yard-hydrants-ebyh02nl-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8e74cc35-20f7-4b73-a625-9cfb483ec6a4/svn/everbilt-yard-hydrants-ebyh02nl-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0f866bd3-a433-4088-a144-9d0cbff367f8/svn/everbilt-yard-hydrants-ebyh02nl-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d4fab4e-e864-46b8-89b3-3fad3c18210a/svn/everbilt-yard-hydrants-ebyh02nl-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/815dea28-249c-4a6a-93e6-d78d60145cae/svn/everbilt-yard-hydrants-ebyh02nl-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/af89f6b4-6ada-4d59-a9b3-8f0aaa7f42ed/svn/everbilt-yard-hydrants-ebyh02nl-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/612318d5-b61e-4bb2-bc08-24a06c27f6e5/50a984c0-6b69-4982-9ba7-7fe2d0b8c799/main.mp4?fastly_token=NjgzODJhZWRfMzU4ZWQ5M2IxNmYzNTFiMjc1OTUyZGNhNGMwYzc4YTRkNjVhZGViYWJkMDQxMTVkNjliNGQyNGE5OGU4NGU3Nl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82MTIzMThkNS1iNjFlLTRiYjItYmMwOC0yNGEwNmMyN2Y2ZTUvNTBhOTg0YzAtNmI2OS00OTgyLTliYTctN2ZlMmQwYjhjNzk5L21haW4ubXA0&pubid=66036796001",
+        "title": "Fixing a Leaking Packing Nut",
+        "id": "5596621134001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/612318d5-b61e-4bb2-bc08-24a06c27f6e5/2c3576d3-6b42-453b-8a6c-885adefc07f7/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This video will show you how to fix a leaking packing nut on an Everbilt yard hydrant"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/cda9e9d6-5326-4068-bf61-ae78663068f1/7a8b3159-54a0-45a2-886a-f6f85ca816e6/main.mp4?fastly_token=NjgzODJhODRfMjVhNmYwNDQ2MzQyNjUxYTlkYjJkNWIxNzNmYzk2YzgzYzYyZWE3MGQyZmEzNDgzMWZhMGJmYjEyN2UxYjQzNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jZGE5ZTlkNi01MzI2LTQwNjgtYmY2MS1hZTc4NjYzMDY4ZjEvN2E4YjMxNTktNTRhMC00NWEyLTg4NmEtZjZmODVjYTgxNmU2L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Adjust a Leaking Yard Hydrant",
+        "id": "5596622980001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/cda9e9d6-5326-4068-bf61-ae78663068f1/5c26841a-ca1c-4bbe-8432-87696cb576db/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This video will show you how to adjust a leaking yard hydrant at the spigot."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 320,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application",
+        "value": "Non-Potable Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Pipe Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connection",
+        "value": "FIP x MHT"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Frost Free,Lead Free,Threaded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Cast Iron"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Pressure (PSI)",
+        "value": "120"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Working Temperature (F)",
+        "value": "100"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "12.25 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Valve Type",
+        "value": "Yard Hydrant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Inlet Diameter (In.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Outlet Diameter (In.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (ft.)",
+        "value": "4.3 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "51 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "2.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "9 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Valves",
+        "link": "https://www.homedepot.com/b/Plumbing-Valves/N-5yc1vZbbl6"
+      },
+      {
+        "name": "Yard Hydrants",
+        "link": "https://www.homedepot.com/b/Plumbing-Valves-Yard-Hydrants/N-5yc1vZca23"
+      }
+    ],
+    "buybox_winner": {
+      "price": 64.45,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 22,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 287,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

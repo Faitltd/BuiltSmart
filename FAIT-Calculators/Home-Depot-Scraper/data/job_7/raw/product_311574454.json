@@ -1,0 +1,244 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13353,
+    "overage_used": 3353,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Greenfiber-25-lbs-Cellulose-Blown-In-Insulation-or-Spray-Applied-Insulation-INSSANC/311574454"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:54:55.862Z",
+    "processed_at": "2025-05-01T13:55:00.965Z",
+    "total_time_taken": 5.1,
+    "homedepot_url": "https://www.homedepot.com/p/Greenfiber-25-lbs-Cellulose-Blown-In-Insulation-or-Spray-Applied-Insulation-INSSANC/311574454"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Greenfiber-25-lbs-Cellulose-Blown-In-Insulation-or-Spray-Applied-Insulation-INSSANC/311574454",
+    "brand": "Greenfiber",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Insulation-Blown-in-Insulation/Greenfiber/N-5yc1vZbaypZp9c",
+    "title": "Greenfiber 25 lbs. Cellulose Blown-In Insulation or Spray Applied Insulation",
+    "upc": "729477007755",
+    "item_id": "311574454",
+    "store_sku": "1006108875",
+    "model_number": "INSSANC",
+    "description": "SANCTUARY by Greenfiber can be installed in attics, walls, floors and ceilings to significantly improve the comfort, safety and well-being provided by any home. This is the first All-In-One cellulose insulation that can be blown-in or spray-applied, and it's suitable for all climates and conditions. Capable of reducing sound power by 60% and heating and cooling costs by up to 20%, it's made from recycled plant fibers which keep carbon locked in for the life of your home.",
+    "aisle": "26",
+    "bay": "001",
+    "feature_bullets": [
+      "Reduces sound by 60% and heating and cooling costs by up to 20%",
+      "Locks in carbon for the life of your home",
+      "Free 24-hour machine rental with purchase of 20 bags"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "First all-in-one cellulose insulation is ideal for attics, sidewalls and ceilings, and can be blown-in, dense-packed or spray-applied",
+      "Covers 48.8 sq. ft. per 25 lbs. bag at R-19 to reduce job site time",
+      "Fits any wall type: 2 x 4, 2 x 6 or 2 x 8",
+      "New formulation is suitable for all climates",
+      "Can be installed over existing insulation",
+      "No-itch formula doesn't require cutting tools, allowing for installation in just 3 steps: 1) assemble machine 2) place machine on flat, dry surface 3) point and blow in",
+      "Reduces outside noise when applied in walls",
+      "Made with 85% post-consumer paper and uses low-energy manufacturing and short-haul transportation, resulting in insulation with lower embodied carbon",
+      "Locks in carbon for the life of your home to reduce global warming",
+      "Advanced fire resistance provides more time to escape and meets class 1 fire rating",
+      "Limited lifetime warranty",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/GREENFIBER/3067085.jpg\">"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c2841e26-33f9-4ae5-b2b6-73aba0db71ae/svn/greenfiber-blown-in-insulation-inssanc-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ddc4ce4d-911d-4898-8ca4-32a66e794854/svn/greenfiber-blown-in-insulation-inssanc-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/100cd4ad-9b0c-462f-a88b-37468639def0/svn/greenfiber-blown-in-insulation-inssanc-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7bd87600-128f-4c3a-89f7-f08f42412567/svn/greenfiber-blown-in-insulation-inssanc-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/09601ffc-e579-446f-9059-a1d92099dcf7/svn/greenfiber-blown-in-insulation-inssanc-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a30b442a-37a5-4332-b7b0-d3201f161fbe/svn/greenfiber-blown-in-insulation-inssanc-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/436e6d4b-868d-40cd-88fb-831a3034913d/svn/greenfiber-blown-in-insulation-inssanc-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4132a0ee-a7db-4362-ad67-12ec970f4c1a/svn/greenfiber-blown-in-insulation-inssanc-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c2841e26-33f9-4ae5-b2b6-73aba0db71ae/svn/greenfiber-blown-in-insulation-inssanc-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/7d18a47e-3486-4eed-a29d-c87a0e95b9b2/382bed5f-cf13-4c8b-9182-93a18f9b670e/main.mp4?fastly_token=NjgzODI3NmNfZDg3NDMwMmU4NjAxYmZiYWFkNjM3NzY3YjNkMWJkMGEyM2FmODNjMWY0NmM1MzhhOTI0YzMyODBhMmFhN2E0ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83ZDE4YTQ3ZS0zNDg2LTRlZWQtYTI5ZC1jODdhMGU5NWI5YjIvMzgyYmVkNWYtY2YxMy00YzhiLTkxODItOTNhMThmOWI2NzBlL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Determine How Much Insulation You Will Need",
+        "id": "6248273478001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/450ca684-187b-47d8-8b46-969966aae342/0db437ee-0d4a-49d6-b01b-0e9dfd899fbe/160x90/match/image.jpg",
+        "description": "This video will help you determine how many bags of SANCTUARY by Greenfiber insulation will be needed based on the R-value that you are trying to achieve."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/793b809c-89a2-461e-9c55-9eb2b572e77e/7482dde0-fb27-4882-b2ac-09693b69a587/main.mp4?fastly_token=NjgzODI3NzZfMzk0MDEwZjY5NjJiZWMzMWNmNjY0Y2EwYTNlZjk5NjZmNmIxODQ2N2Q3MTRlYWMwZGUzMWQzMGQ3MjBkYzIyMl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83OTNiODA5Yy04OWEyLTQ2MWUtOWM1NS05ZWIyYjU3MmU3N2UvNzQ4MmRkZTAtZmIyNy00ODgyLWIyYWMtMDk2OTNiNjlhNTg3L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install Greenfiber SANCTUARY In Your Attic",
+        "id": "6248275963001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/0480ce11-61d1-4998-8aea-e00936f0152c/5962b177-888d-47b8-b1a3-260858874acd/160x90/match/image.jpg",
+        "description": "Insulating your attic probably falls somewhere below cleaning gutters or washing windows on the list of things you\u2019d like to do. The good news is, it\u2019s a lot easier than you think when you use SANCTUARY by Greenfiber blow-in cellulose insulation."
+      }
+    ],
+    "ratings_total": 437,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bag Weight (lb.)",
+        "value": "25 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Install Surface",
+        "value": "Existing Insulation,Fiberglass,Plywood,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Features",
+        "value": "Fire Block Rated,Fire Resistant,Formaldehyde Free,Soundproofing Insulation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Location",
+        "value": "2x4 Wall,2x6 Wall,2x8 Wall,Basement,Between Walls,Ceiling Insulation,Floor,Garage,Interior Ceiling,Interior Wall,Joists,Roof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value Range",
+        "value": "R11-R19"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value per Inch",
+        "value": "R3.7"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Type",
+        "value": "Loose Fill"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Cellulose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Warranty Information",
+        "value": "Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cover Area Per Bag (sq. ft.)",
+        "value": "48.8 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "48.8 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Coverage Area (sq. ft.)",
+        "value": "86.7"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Minimum Coverage Area (sq. ft.)",
+        "value": "10.8 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "2.08 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "3.3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "16 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation/N-5yc1vZasbs"
+      },
+      {
+        "name": "Blown-in Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation-Blown-in-Insulation/N-5yc1vZbayp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 107
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 553,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 26,
+    "credits_used_this_request": 1,
+    "credits_remaining": 474,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.lowes.com/pd/hisense-17.2-cu-ft-counter-depth-bottom-freezer-refrigerator-fingerprint-resistant-stainless-steel-)-energy-star-certified/5001252387",
+    "_t": "20250502030711",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T09:07:11.701Z",
+    "processed_at": "2025-05-02T09:07:13.364Z",
+    "total_time_taken": 1.66,
+    "lowes_url": "https://www.lowes.com/pd/Hisense-17-2-cu-ft-Counter-depth-Bottom-Freezer-Refrigerator-Black-Metallic-Steel-ENERGY-STAR/5001252387"
+  },
+  "product": {
+    "link": "https://www.lowes.com/pd/Hisense-17-2-cu-ft-Counter-depth-Bottom-Freezer-Refrigerator-Black-Metallic-Steel-ENERGY-STAR/5001252387",
+    "brand": "Hisense",
+    "title": "Hisense 17.2-cu ft Counter-Depth Bottom-Freezer Refrigerator Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+    "upc": "819130028958",
+    "item_id": "5001252387",
+    "item_number": "3159040",
+    "model_number": "HRB171N6ASE",
+    "description": "With its modern clean design, the Hisense HRB171N6ASE is slim enough to fit 33 In. - width spaces and give any kitchen a more premium look. The counter - depth design gives the refrigerator a more built - in look. Gallon door storage keeps frequently used items within easy reach. LED lighting brightens the interior, helping you find what you\u2019re looking for. Two full - width freezer drawers make it easy to organize the frozen foods.",
+    "collection": {
+      "link": "https://www.lowes.com/collections/Hisense-17-2-cu-ft-Bottom-Freezer-Refrigerator-Gas-Freestanding-Range-in-Stainless-Steel-Third-Rack-Dishwasher/GR_9100",
+      "id": "GR_9100",
+      "type": "COLLECTION"
+    },
+    "feature_bullets": [
+      "Sold exclusively at Lowe\u2019s with 2 year warranty, twice as long as others",
+      "Fingerprint-resistant stainless-steel exterior for easy cleaning",
+      "Full-width pantry drawer for spacious storage of deli items and more"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Sold exclusively at Lowe\u2019s with 2 year warranty, twice as long as others",
+      "Fingerprint-resistant stainless-steel exterior for easy cleaning",
+      "Full-width pantry drawer for spacious storage of deli items and more",
+      "Gallon-size door bin for easy access",
+      "Bright LED lighting makes it easy to find what you're looking for",
+      "Smooth, easy-to-read controls and display",
+      "Meets ENERGY STAR\u00ae standards, saving on energy costs"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/62248338-07fb-40e2-8992-a3c9a23e2dcb/67681731.png"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/65e76926-991d-4439-b696-03f5c8ccd3d5/68681071.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/01b04db9-cca6-4564-9dae-541edad13429/68681074.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/5e70c310-cd77-45ec-9b32-4cc75caecd3b/68681072.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/1b1d0d83-6de3-4290-9e89-d68bd4fb0c1b/68681065.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/0eea7f6f-e618-49de-8187-db77866ed36b/68681063.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/390505db-792a-411f-b258-3d3d75dee9ee/68681066.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/1adf3d25-c72d-4e99-a5e0-ceff996f5189/68681073.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/5930a7a5-3668-41b6-8f39-74cba69383c9/68681069.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/692df585-d994-48fd-aade-addb61e7aabf/68681070.jpeg"
+      }
+    ],
+    "main_image": {
+      "src": "Vendor Provided",
+      "link": "https://mobileimages.lowes.com/productimages/62248338-07fb-40e2-8992-a3c9a23e2dcb/67681731.png"
+    },
+    "videos": [
+      {
+        "link": "https://cdnapisec.kaltura.com/p/4215793/sp/421579300/playManifest/entryId/1_gvqju1nx/format/applehttp/protocol/https",
+        "title": "Product Marketing Video"
+      },
+      {
+        "link": "https://cdnapisec.kaltura.com/p/4215793/sp/421579300/playManifest/entryId/1_ej16wnb7/format/applehttp/protocol/https",
+        "title": "Non Product Specific Video"
+      },
+      {
+        "link": "https://cdnapisec.kaltura.com/p/4215793/sp/421579300/playManifest/entryId/1_wlqkf0ho/format/applehttp/protocol/https",
+        "title": "Online Content Produced Video"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 0,
+    "rating": 0,
+    "specifications": [
+      {
+        "name": "Appliance Color/Finish",
+        "value": "Stainless steel"
+      },
+      {
+        "name": "Cabinet Color",
+        "value": "Gray"
+      },
+      {
+        "name": "Handle Color",
+        "value": "Stainless look"
+      },
+      {
+        "name": "Manufacturer Color/Finish",
+        "value": "Fingerprint Resistant Stainless Steel"
+      },
+      {
+        "name": "Toe Grille Color",
+        "value": "Black"
+      },
+      {
+        "name": "Actual Width (Inches)",
+        "value": "31.1"
+      },
+      {
+        "name": "Common Width (Inches)",
+        "value": "32"
+      },
+      {
+        "name": "Popular Widths",
+        "value": "33-in"
+      },
+      {
+        "name": "Depth (Excluding Handles) (Inches)",
+        "value": "26.6"
+      },
+      {
+        "name": "Depth (Including Handles) (Inches)",
+        "value": "29.1"
+      },
+      {
+        "name": "Depth (Less Door) (Inches)",
+        "value": "23.6"
+      },
+      {
+        "name": "Depth Type",
+        "value": "Counter-Depth"
+      },
+      {
+        "name": "Depth with Door Open (Inches)",
+        "value": "56.3"
+      },
+      {
+        "name": "Height to Top of Case (Inches)",
+        "value": "68.5"
+      },
+      {
+        "name": "Height to Top of Door (Inches)",
+        "value": "69.1"
+      },
+      {
+        "name": "Height to Top of Door Hinge (Inches)",
+        "value": "69.1"
+      },
+      {
+        "name": "Overall Capacity (Cu. Feet)",
+        "value": "17.2"
+      },
+      {
+        "name": "Refrigerator Capacity (Cu. Feet)",
+        "value": "12.1"
+      },
+      {
+        "name": "Freezer Capacity (Cu. Feet)",
+        "value": "5.1"
+      },
+      {
+        "name": "Refrigerator Size",
+        "value": "Small (<33-in)"
+      },
+      {
+        "name": "Weight (lbs.)",
+        "value": "196"
+      },
+      {
+        "name": "ADA Compliant",
+        "value": "No"
+      },
+      {
+        "name": "Air Filtration",
+        "value": "No"
+      },
+      {
+        "name": "Appliance Type",
+        "value": "Bottom-freezer refrigerator"
+      },
+      {
+        "name": "Built-In",
+        "value": "No"
+      },
+      {
+        "name": "Child Safety Locks",
+        "value": "No"
+      },
+      {
+        "name": "Customizable",
+        "value": "No"
+      },
+      {
+        "name": "Dispenser Light",
+        "value": "No"
+      },
+      {
+        "name": "Door Alarm",
+        "value": "No"
+      },
+      {
+        "name": "Door Shelves",
+        "value": "5"
+      },
+      {
+        "name": "Door Style",
+        "value": "Flat"
+      },
+      {
+        "name": "Door Texture",
+        "value": "Smooth"
+      },
+      {
+        "name": "Dual Evaporator Cooling System",
+        "value": "No"
+      },
+      {
+        "name": "Electronic Temperature Control",
+        "value": "Yes"
+      },
+      {
+        "name": "Fingerprint-Resistant",
+        "value": "Yes"
+      },
+      {
+        "name": "Gallon Door Storage",
+        "value": "Yes"
+      },
+      {
+        "name": "Garage Ready",
+        "value": "No"
+      },
+      {
+        "name": "Handle Type",
+        "value": "Standard"
+      },
+      {
+        "name": "Hidden Hinge",
+        "value": "Yes"
+      },
+      {
+        "name": "Hub Required",
+        "value": "No"
+      },
+      {
+        "name": "Humidity-Controlled Crispers",
+        "value": "0"
+      },
+      {
+        "name": "LED Light",
+        "value": "Yes"
+      },
+      {
+        "name": "Lowe's Exclusive",
+        "value": "Yes"
+      },
+      {
+        "name": "Panel Ready",
+        "value": "No"
+      },
+      {
+        "name": "Pantry Drawer",
+        "value": "Standard"
+      },
+      {
+        "name": "Professional",
+        "value": "Yes"
+      },
+      {
+        "name": "Refrigerator Interior Lighting",
+        "value": "LED"
+      },
+      {
+        "name": "Reversible Door",
+        "value": "Yes"
+      },
+      {
+        "name": "See-Thru Door",
+        "value": "No"
+      },
+      {
+        "name": "Shelf Options",
+        "value": "Glass shelves"
+      },
+      {
+        "name": "Snack/Deli Drawer",
+        "value": "No"
+      },
+      {
+        "name": "Temperature Controlled Drawer",
+        "value": "No"
+      },
+      {
+        "name": "Voice Controlled",
+        "value": "No"
+      },
+      {
+        "name": "Frost-Free",
+        "value": "Yes"
+      },
+      {
+        "name": "Space-Saving In-Door Ice",
+        "value": "No"
+      },
+      {
+        "name": "Water Filtration",
+        "value": "No"
+      },
+      {
+        "name": "Water Filter Indicator",
+        "value": "No"
+      },
+      {
+        "name": "Reversible Freezer Door",
+        "value": "Yes"
+      },
+      {
+        "name": "Ice Maker",
+        "value": "None"
+      },
+      {
+        "name": "Matching Replacement Water Filter Model",
+        "value": "No"
+      },
+      {
+        "name": "Ice and Water Dispensers",
+        "value": "None"
+      },
+      {
+        "name": "Freezer Baskets",
+        "value": "0"
+      },
+      {
+        "name": "Freezer Door Style",
+        "value": "Pull-out drawer"
+      },
+      {
+        "name": "Freezer Door Shelves",
+        "value": "0"
+      },
+      {
+        "name": "Freezer Door Bins",
+        "value": "0"
+      },
+      {
+        "name": "Freezer Shelves",
+        "value": "0"
+      },
+      {
+        "name": "Freezer Light",
+        "value": "No"
+      },
+      {
+        "name": "Freezer Drawers",
+        "value": "2"
+      },
+      {
+        "name": "App Compatibility",
+        "value": "No"
+      },
+      {
+        "name": "Bluetooth Compatibility",
+        "value": "No"
+      },
+      {
+        "name": "Custom Door Kit Compatible",
+        "value": "No"
+      },
+      {
+        "name": "Smart Compatible",
+        "value": "No"
+      },
+      {
+        "name": "Wi-Fi Compatibility",
+        "value": "No"
+      },
+      {
+        "name": "Works with Amazon Alexa",
+        "value": "No"
+      },
+      {
+        "name": "Works with Android",
+        "value": "No"
+      },
+      {
+        "name": "Works with Apple HomeKit",
+        "value": "No"
+      },
+      {
+        "name": "Works with iOS",
+        "value": "No"
+      },
+      {
+        "name": "Works with SmartThings",
+        "value": "No"
+      },
+      {
+        "name": "Works with Sonos",
+        "value": "No"
+      },
+      {
+        "name": "Works with the Google Assistant",
+        "value": "No"
+      },
+      {
+        "name": "Warranty",
+        "value": "2-year limited"
+      },
+      {
+        "name": "Approved for Outdoor Use",
+        "value": "No"
+      },
+      {
+        "name": "CA Residents: Prop 65 Warning(s)",
+        "value": "Yes"
+      },
+      {
+        "name": "ENERGY STAR Certified",
+        "value": "Yes"
+      },
+      {
+        "name": "Safety Listing",
+        "value": "cCSAus safety listing"
+      },
+      {
+        "name": "UNSPSC",
+        "value": "52141500"
+      }
+    ],
+    "breadcrumbs": [],
+    "buybox_winner": {
+      "price": 999,
+      "symbol": "$",
+      "currency": "USD",
+      "was_price": 1099,
+      "discount": 100,
+      "unit": "EACH",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "1875",
+          "store_name": "Atlanta-Edgewood Lowe's",
+          "store_state": "GA",
+          "in_stock": true,
+          "stock_level": 145
+        },
+        "scheduled_delivery_info": {
+          "in_stock": true,
+          "stock_level": 145,
+          "lead_time": "05-02-2025-04:00 UTC",
+          "consolidation_date": "05-03-2025-04:00 UTC"
+        },
+        "ship_to_home_info": {
+          "store_id": "1875",
+          "store_name": "Atlanta-Edgewood Lowe's",
+          "store_state": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        }
+      }
+    }
+  }
+}

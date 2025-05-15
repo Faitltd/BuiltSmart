@@ -1,0 +1,170 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14157,
+    "overage_used": 4157,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Schluter-Kerdi-Board-Kit-Wall-Surround-Waterproofing-Kit-KBKIT/309830426"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:59:10.046Z",
+    "processed_at": "2025-05-01T17:59:14.711Z",
+    "total_time_taken": 4.67,
+    "homedepot_url": "https://www.homedepot.com/p/Schluter-Kerdi-Board-Kit-Wall-Surround-Waterproofing-Kit-KBKIT/309830426"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Schluter-Kerdi-Board-Kit-Wall-Surround-Waterproofing-Kit-KBKIT/309830426",
+    "brand": "Schluter",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools-Floor-Installation-Kits/Schluter/N-5yc1vZcduaZ7fo",
+    "title": "Schluter Kerdi-Board-Kit Wall Surround Waterproofing Kit",
+    "upc": "4011832165979",
+    "item_id": "309830426",
+    "store_sku": "1004404771",
+    "model_number": "KBKIT",
+    "description": "The Kerdi-Board-Kit contains the components needed to waterproof the walls for tile applications around a bathtub or acrylic shower base. The 1/2 in. thick Kerdi-Board panels are applied directly to the stud framing eliminating the need for gypsum or cement board. The kit includes Kerdi-Board panels, Kerdi waterproofing band, pipe seal, mixing valve seal, screws and washers, and Kerdi-Fix sealant.",
+    "favorite_count": 451,
+    "feature_bullets": [
+      "Waterproof the walls around bathtubs and acrylic shower bases",
+      "Installs direct to studs eliminating drywall and cement board",
+      "Kerdi-Board panels cover 101 sq. ft."
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Create a fully waterproof and vapor-tight enclosure for tiled bathtub and acrylic shower base surrounds",
+      "Covers up to 101 sq. ft. of wall area",
+      "Kerdi-Board panels are applied directly to stud framing",
+      "Eliminates need for cement board or gypsum wall backer",
+      "Quick and easy to install",
+      "Kit includes: 8-1/2 in. x 48 in. x 38 in. Kerdi-Board panels, 2 pipe seals, 1 mixing valve seal, 1 - 5 in. x 98 ft. 5 in. Kerdi-Band, 140 screws and washers, and 2 tubes of bright white Kerdi-Fix"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d03a4684-856b-4636-bdad-feb702891797/svn/schluter-floor-installation-kits-kbkit-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3770b938-6cbb-430b-b0a5-e5fb5c0d50d2/svn/schluter-floor-installation-kits-kbkit-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0156c27d-28cf-4221-9b45-314b1e41edee/svn/schluter-floor-installation-kits-kbkit-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/984808ff-387a-4a31-8df4-08f1e1fc4a6c/svn/schluter-floor-installation-kits-kbkit-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d03a4684-856b-4636-bdad-feb702891797/svn/schluter-floor-installation-kits-kbkit-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 24,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Accessory"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polystyrene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "40 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Diameter (in.)",
+        "value": "0 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "38 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Flooring Tools",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools/N-5yc1vZcdtv"
+      },
+      {
+        "name": "Floor Installation Kits",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools-Floor-Installation-Kits/N-5yc1vZcdua"
+      }
+    ],
+    "buybox_winner": {
+      "price": 724.96,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1,
+          "price": 55,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

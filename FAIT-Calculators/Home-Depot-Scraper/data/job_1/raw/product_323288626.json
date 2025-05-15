@@ -1,0 +1,266 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14982,
+    "overage_used": 4982,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Santa-Rosa-12-in-Rough-In-1-Piece-1-28-GPF-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-30810-0/323288626"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:49:32.279Z",
+    "processed_at": "2025-05-02T21:50:19.878Z",
+    "total_time_taken": 47.6,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Santa-Rosa-12-in-Rough-In-1-Piece-1-28-GPF-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-30810-0/323288626"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Santa-Rosa-12-in-Rough-In-1-Piece-1-28-GPF-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-30810-0/323288626",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/KOHLER/N-5yc1vZcb8vZ1qh",
+    "title": "KOHLER Santa Rosa 12 in. Rough In 1-Piece 1.28 GPF Single Flush Elongated Chair Height Toilet in White with Soft Close Seat",
+    "upc": "885612975423",
+    "item_id": "323288626",
+    "parent_id": "330557412",
+    "store_sku": "1008978595",
+    "model_number": "30810-0",
+    "description": "The one-piece design of this Santa Rosa toilet adds a contemporary look to your powder room. Perfect for smaller bathrooms and powder rooms where space is at a premium, the compact elongated shape takes up the same space as a round-bowl toilet, yet its elongated shape adds added comfort. Its 1.28-gallon high-efficiency flush provides water savings of up to 16,500 gallons per year versus an old 3.5-gallon toilet, without sacrificing performance. Revolution 360 swirl flushing technology keeps the bowl clean longer, and the chair-height compact elongated bowl makes it comfortable to use. A Quiet-Close seat is included.",
+    "feature_bullets": [
+      "Made of vitreous, ADA comfort height 1.28 GPF 360 swirl flush",
+      "One-piece with integrated tank and bowl makes it easy to clean",
+      "Soft close toilet seat included"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "One-piece toilets integrate the tank and bowl into a seamless, easy-to-clean design",
+      "Compact elongated bowl offers added comfort while occupying the same space as a round-front bowl",
+      "Comfort height feature offers chair-height seating that makes sitting down and standing up easier for most adults",
+      "1.28 GPF (4.8 LPF)",
+      "Left-hand polished chrome trip lever",
+      "Quiet-close elongated seat closes quietly"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f54976e3-0c49-5de3-a090-90630c08d515/svn/white-kohler-one-piece-toilets-30810-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0be7f1ed-58c8-596f-bbd2-f139ce0a5c60/svn/white-kohler-one-piece-toilets-30810-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a4cb119-dd0e-525b-8fc4-05abcf500694/svn/white-kohler-one-piece-toilets-30810-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b27272c0-1ae9-59ca-98eb-ee0ab1ef6e73/svn/white-kohler-one-piece-toilets-30810-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0578394c-7ebf-5a1c-85b3-5fb4e6e792cb/svn/white-kohler-one-piece-toilets-30810-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/60707ee9-42f8-5005-a62c-f420c249c268/svn/white-kohler-one-piece-toilets-30810-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/21530a7d-655b-5311-8839-7d93e4407f2e/svn/white-kohler-one-piece-toilets-30810-0-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/55c4d476-c871-5597-a483-1a531fccb233/svn/white-kohler-one-piece-toilets-30810-0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f54976e3-0c49-5de3-a090-90630c08d515/svn/white-kohler-one-piece-toilets-30810-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxNGQ1NzlfMjMzY2Y1NjlhZDJiMjI3ZDEzMmY0NTdkZTkyOWNiNGZkODJiNDIwOTljZmExZjA4NDY5ZDY5N2IzMmQ3MGFmZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "ratings_total": 2238,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Handle"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "Not Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "94.28 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "One-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.125 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "CSA Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "27.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "28.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "17.6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.6",
+        "link": "https://www.homedepot.com/p/KOHLER-Santa-Rosa-12-in-Rough-In-1-Piece-1-6-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-30811-0/325445220",
+        "item_id": "325445220"
+      },
+      {
+        "title": "Biscuit~~Elongated~~12 inch Rough In~~Single Flush: 1.28",
+        "link": "https://www.homedepot.com/p/KOHLER-Santa-Rosa-12-in-Rough-In-1-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-Biscuit-with-Soft-Close-Seat-30810-96/323288624",
+        "item_id": "323288624"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28",
+        "link": "https://www.homedepot.com/p/KOHLER-Santa-Rosa-12-in-Rough-In-1-Piece-1-28-GPF-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-30810-0/323288626",
+        "item_id": "323288626"
+      },
+      {
+        "title": "Black Black~~Elongated~~12 inch Rough In~~Single Flush: 1.28",
+        "link": "https://www.homedepot.com/p/KOHLER-Santa-Rosa-12-in-Rough-In-1-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-Black-with-Soft-Close-Seat-30810-7/323288619",
+        "item_id": "323288619"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "One Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/N-5yc1vZcb8v"
+      }
+    ],
+    "buybox_winner": {
+      "price": 337,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 466.61,
+      "unit": "each"
+    }
+  }
+}

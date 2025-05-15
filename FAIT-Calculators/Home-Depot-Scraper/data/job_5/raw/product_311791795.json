@@ -1,0 +1,312 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13368,
+    "overage_used": 3368,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Pebble-Gray-350-Pack-FMTR3-212-350SLPB/311791795"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:55:43.964Z",
+    "processed_at": "2025-05-01T13:55:48.738Z",
+    "total_time_taken": 4.77,
+    "homedepot_url": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Pebble-Gray-350-Pack-FMTR3-212-350SLPB/311791795"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Pebble-Gray-350-Pack-FMTR3-212-350SLPB/311791795",
+    "brand": "FastenMaster",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/FastenMaster/N-5yc1vZ2fkpe6aZ64d",
+    "title": "FastenMaster TrapEase 3 - 2-1/2 in. Color Match Deck Fastener - Pebble/Gray (350 Pack)",
+    "upc": "608309426820",
+    "item_id": "311791795",
+    "parent_id": "321066564",
+    "store_sku": "1005496059",
+    "model_number": "FMTR3-212-350SLPB",
+    "description": "TrapEase 3 is the only deck screw guaranteed to create a clean finished look without predrilling in all 3 types of synthetic decking composite, PVC, and capstock. Anti-fade head paint, the new anti-strip Torx TTAP drive system, and a lifetime corrosion warranty make TrapEase 3 the ultimate composite deck screw. TORX ttap Drive System features a stability button which delivers unmatched stick-fit and wobble-free installation that eliminates fastener strip out.",
+    "feature_bullets": [
+      "Engineered for use in PVC, capstock, and composite decking",
+      "Color matched heads designed to blend in with deck boards",
+      "TORX\u00ae ttap\u00ae provides superior bit engagement"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "FastenMaster spotter installation guide is much more than a lid, the spotter is an installation guide that reduces installation time by consistently placing the fasteners and gapping the deck boards",
+      "TORX ttap virtually eliminates fastener strip-out",
+      "Sharp cut feature delivers clean finished look",
+      "Dual slash point for fast installation"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/734df12c-0e35-4fee-b384-37aab287f405/svn/fastenmaster-composite-deck-screws-fmtr3-212-350slpb-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/af1bebff-df97-4a9b-a296-d81911acc050/svn/fastenmaster-composite-deck-screws-fmtr3-212-350slpb-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4530661d-74b0-492e-a7f7-6bbd3862c488/svn/fastenmaster-composite-deck-screws-fmtr3-212-350slpb-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/734df12c-0e35-4fee-b384-37aab287f405/svn/fastenmaster-composite-deck-screws-fmtr3-212-350slpb-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a4db5539-feae-49a0-8c32-17970ba9324a/81da6b5e-3e5b-460d-9559-c13edaf5dde0/main.mp4?fastly_token=NjgzODUwM2NfMzY0M2M4NjRlNTkzZTM3MzUxYTZjZTNhZDVhNzM3NTQ4YTkyNDRlNWE5MzYxNzdmYTg3MWU1NDcwMGI1NTdmY18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNGRiNTUzOS1mZWFlLTQ5YTAtOGMzMi0xNzk3MGJhOTMyNGEvODFkYTZiNWUtM2U1Yi00NjBkLTk1NTktYzEzZWRhZjVkZGUwL21haW4ubXA0&pubid=66036796001",
+        "title": "TE3_VID",
+        "id": "6321206012112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a4db5539-feae-49a0-8c32-17970ba9324a/main/160x90/27s520ms/match/image.jpg?pubId=66036796001",
+        "description": "TrapEase Deck Fastener video"
+      }
+    ],
+    "ratings_total": 25,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Electro Galvanized Zinc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Trim Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "350"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "4.9 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "12 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime of the Project"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "1-3/4 in~~#10~~Silver~~1.83 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Island-Mist-200-Pack-FMTRF-1LFLM/315852483",
+        "item_id": "315852483"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~1.2 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Spiced-Rum-75-Pack-FMTR3-212-75TSSR/316075990",
+        "item_id": "316075990"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~1.10 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Saddle-Brown-75-Pack-FMTR3-212-75SLSD/316076119",
+        "item_id": "316076119"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~4.8 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Island-Mist-350-Pack-FMTR3-212-350TSLM/315852183",
+        "item_id": "315852183"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Silver~~4.9 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Pebble-Gray-350-Pack-FMTR3-212-350SLPB/311791795",
+        "item_id": "311791795"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Tan~~1.1 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-Deck-Screws-for-Trex-Select-Decking-2-1-2-inch-color-matched-deck-screws-Pebble-75-Pack-FMTR3-212-75SLPB/311788050",
+        "item_id": "311788050"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~1.0 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Island-Mist-75-Pack-FMTR3-212-75TSLM/316076065",
+        "item_id": "316076065"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~4.6 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Saddle-Brown-350-Pack-FMTR3-212-350SLSD/315852203",
+        "item_id": "315852203"
+      },
+      {
+        "title": "1-3/4 in~~#10~~Brown~~1.86 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Spiced-Rum-200-Pack-FMTRF-1LFSR/313177968",
+        "item_id": "313177968"
+      },
+      {
+        "title": "1-3/4 in~~#10~~Brown~~1.84 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-Fascia-Color-Matched-Fascia-Fastener-100-lin-ft-Saddle-Brown-200-Pack-FMTRF-1LFSD/315852527",
+        "item_id": "315852527"
+      },
+      {
+        "title": "1-3/4 in~~#10~~Brown~~1.85 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-200-Piece-100-LF-1-3-4-in-Fascia-Screws-with-Countersink-Tooland-Bit-in-Pebble-FMTRF-1LFPB/315852476",
+        "item_id": "315852476"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brown~~4.5 lb",
+        "link": "https://www.homedepot.com/p/FastenMaster-TrapEase-3-2-1-2-in-Color-Match-Deck-Fastener-Spiced-Rum-350-Pack-FMTR3-212-350TSSR/315852172",
+        "item_id": "315852172"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 50.21,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 15,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 22,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 15,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

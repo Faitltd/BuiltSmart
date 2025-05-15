@@ -1,0 +1,561 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 35,
+    "credits_used_this_request": 1,
+    "credits_remaining": 465,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "search",
+    "search_term": "copper",
+    "page": "1",
+    "_t": "20250506001344",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-06T06:13:44.756Z",
+    "processed_at": "2025-05-06T06:13:48.106Z",
+    "total_time_taken": 3.35,
+    "lowes_url": "https://www.lowes.com/search?view=List&searchTerm=copper"
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "product": {
+        "title": "Streamline 1/2-in x 5-ft Copper Type M Pipe",
+        "link": "https://www.lowes.com/pd/Mueller-Streamline-1-2-in-Dia-x-5-ft-L-Copper-Pipe/3605812",
+        "ratings_total": 240,
+        "rating": 4.5,
+        "item_id": "3605812",
+        "feature_bullets": [
+          "Copper M construction offers a durable water system",
+          "For use in residential and commercial water applications",
+          "For use in above ground potable water supply systems"
+        ],
+        "feature_bullets_count": 3
+      },
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false
+      },
+      "offers": {
+        "primary": {
+          "price": 14.75,
+          "symbol": "$",
+          "currency": "USD"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "product": {
+        "title": "Streamline 1/2-in x 10-ft Copper Type M Pipe",
+        "ratings_total": 228,
+        "rating": 4.5,
+        "item_id": "1000227967",
+        "feature_bullets": [
+          "Copper M construction offers a durable water system",
+          "For use in residential and commercial water applications",
+          "For use in above ground potable water supply systems"
+        ],
+        "feature_bullets_count": 3
+      },
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false
+      },
+      "offers": {
+        "primary": {
+          "price": 24.59,
+          "symbol": "$",
+          "currency": "USD"
+        }
+      }
+    }
+  ],
+  "facets": [
+    {
+      "name": "Special Offers",
+      "display_name": "Special Offers",
+      "values": [
+        {
+          "display_name": "On Sale",
+          "value": "2",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=2",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "Bulk Savings",
+          "value": "982555939",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=982555939",
+          "count": 16,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Pipe Diameter",
+      "display_name": "Pipe Diameter",
+      "values": [
+        {
+          "display_name": "1/4-in",
+          "value": "4294606686",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606686",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "3/8-in",
+          "value": "4294606678",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606678",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "1/2-in",
+          "value": "4294606680",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606680",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "5/8-in",
+          "value": "4294606670",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606670",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "3/4-in",
+          "value": "4294606673",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606673",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "1-in",
+          "value": "4294606659",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606659",
+          "count": 4,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Price",
+      "display_name": "Price",
+      "active_range": false,
+      "values": [
+        {
+          "display_name": "Less than $1",
+          "value": "2084530213",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=2084530213",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "$1 - $5",
+          "value": "1534633778",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=1534633778",
+          "count": 57,
+          "active": false
+        },
+        {
+          "display_name": "$5 - $10",
+          "value": "842502918",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=842502918",
+          "count": 64,
+          "active": false
+        },
+        {
+          "display_name": "$10 - $15",
+          "value": "3876648580",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=3876648580",
+          "count": 56,
+          "active": false
+        },
+        {
+          "display_name": "$15 - $25",
+          "value": "3050296020",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=3050296020",
+          "count": 46,
+          "active": false
+        },
+        {
+          "display_name": "$25 - $50",
+          "value": "1210125883",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=1210125883",
+          "count": 33,
+          "active": false
+        },
+        {
+          "display_name": "$50 - $100",
+          "value": "2104441257",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=2104441257",
+          "count": 11,
+          "active": false
+        },
+        {
+          "display_name": "$100 - $200",
+          "value": "4053879751",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4053879751",
+          "count": 105,
+          "active": false
+        },
+        {
+          "display_name": "$200 - $400",
+          "value": "1224133687",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=1224133687",
+          "count": 35,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Brand",
+      "display_name": "Brand",
+      "values": [
+        {
+          "display_name": "Streamline",
+          "value": "4292022029",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4292022029",
+          "count": 236,
+          "active": false
+        },
+        {
+          "display_name": "From Plain to Beautiful in Hours",
+          "value": "2021780947296",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=2021780947296",
+          "count": 70,
+          "active": false
+        },
+        {
+          "display_name": "Fasade",
+          "value": "4294955099",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294955099",
+          "count": 56,
+          "active": false
+        },
+        {
+          "display_name": "NIBCO",
+          "value": "4294962567",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294962567",
+          "count": 25,
+          "active": false
+        },
+        {
+          "display_name": "American Tin Ceilings",
+          "value": "1137249786",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=1137249786",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "Ceilume",
+          "value": "822024586012",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=822024586012",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Mueller Streamline",
+          "value": "4294788512",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294788512",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Dimensions",
+          "value": "4294416500",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294416500",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Hillman",
+          "value": "4294961530",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294961530",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Pipe Length",
+      "display_name": "Pipe Length",
+      "values": [
+        {
+          "display_name": "1-ft",
+          "value": "4294606674",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606674",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "2-ft",
+          "value": "4294606675",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606675",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "5-ft",
+          "value": "4294606676",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606676",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "6-in",
+          "value": "4294606679",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606679",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "10-ft",
+          "value": "4294606685",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606685",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "20-ft",
+          "value": "4294606684",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606684",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "50-ft",
+          "value": "4294606671",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606671",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "60-ft",
+          "value": "4294606669",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294606669",
+          "count": 5,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Sub Type",
+      "display_name": "Sub Type",
+      "values": [
+        {
+          "display_name": "Elbow",
+          "value": "4294763561",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763561",
+          "count": 59,
+          "active": false
+        },
+        {
+          "display_name": "Coupling",
+          "value": "4294763585",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763585",
+          "count": 49,
+          "active": false
+        },
+        {
+          "display_name": "Adapter",
+          "value": "4294763627",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763627",
+          "count": 46,
+          "active": false
+        },
+        {
+          "display_name": "Tee",
+          "value": "4294763611",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763611",
+          "count": 39,
+          "active": false
+        },
+        {
+          "display_name": "Cap",
+          "value": "4294763579",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763579",
+          "count": 15,
+          "active": false
+        },
+        {
+          "display_name": "Coil",
+          "value": "621481647514",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=621481647514",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "Reducer",
+          "value": "4294763295",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763295",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "Bushing",
+          "value": "4294763543",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763543",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "Union",
+          "value": "4294763422",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763422",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "L",
+          "value": "4294694411",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294694411",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "M",
+          "value": "4294688877",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294688877",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Type M pipe",
+          "value": "1010273146256",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=1010273146256",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Valve",
+          "value": "4294763557",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763557",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Air chamber",
+          "value": "4294763384",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763384",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Stub out",
+          "value": "4294763318",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294763318",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Type",
+      "display_name": "Type",
+      "values": [
+        {
+          "display_name": "Fitting",
+          "value": "4294821113",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294821113",
+          "count": 231,
+          "active": false
+        },
+        {
+          "display_name": "Tile",
+          "value": "4294965418",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294965418",
+          "count": 137,
+          "active": false
+        },
+        {
+          "display_name": "Pipe",
+          "value": "4294702368",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294702368",
+          "count": 32,
+          "active": false
+        },
+        {
+          "display_name": "Coil",
+          "value": "4294821161",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294821161",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "Refrigeration tube",
+          "value": "1120455451810",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=1120455451810",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Solid",
+          "value": "4294866967",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=4294866967",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Rating",
+      "display_name": "Rating",
+      "values": [
+        {
+          "display_name": "5",
+          "value": "5007197",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=5007197",
+          "count": 214,
+          "active": false
+        },
+        {
+          "display_name": "4",
+          "value": "5005561",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=5005561",
+          "count": 296,
+          "active": false
+        },
+        {
+          "display_name": "3",
+          "value": "5005562",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=5005562",
+          "count": 303,
+          "active": false
+        },
+        {
+          "display_name": "2",
+          "value": "5005559",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=5005559",
+          "count": 306,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Availability",
+      "display_name": "Availability",
+      "values": [
+        {
+          "display_name": "Show Out of Stock",
+          "value": "1",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=copper&refinement=1",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": {
+      "page": 1,
+      "link": "https://www.lowes.com/search?view=List&searchTerm=copper"
+    }
+  }
+}

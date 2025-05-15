@@ -1,0 +1,218 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13984,
+    "overage_used": 3984,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-5262-9-16-in-x-1-1-8-in-x-8-ft-PVC-Composite-White-Ply-Cap-Molding-MLDP01X01WM291WH/100044958"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:31.841Z",
+    "processed_at": "2025-05-01T17:50:37.166Z",
+    "total_time_taken": 5.33,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-5262-9-16-in-x-1-1-8-in-x-8-ft-PVC-Composite-White-Ply-Cap-Molding-MLDP01X01WM291WH/100044958"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-5262-9-16-in-x-1-1-8-in-x-8-ft-PVC-Composite-White-Ply-Cap-Molding-MLDP01X01WM291WH/100044958",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Base-Cap/Royal-Mouldings/N-5yc1vZ2fkpbgmZ8ui",
+    "title": "Royal Mouldings 5262 9/16 in. x 1-1/8 in. x 8 ft. PVC Composite White Ply Cap Molding",
+    "upc": "070673534164",
+    "item_id": "100044958",
+    "store_sku": "901483",
+    "model_number": "MLDP01X01WM291WH",
+    "description": "The Royal Moldings 8 ft. x 1-1/8 in. x 9/16 in. PVC Ply Cap Molding installs over paneling edges to create a simple chair rail or transition point. Its PVC construction ensures durability. Adding molding to your home or office adds value and a nice finishing touch.",
+    "favorite_count": 353,
+    "feature_bullets": [
+      "PVC house construction offers resistance to moisture and termites",
+      "Paintable design allows for a customizable fit",
+      "Ideal for use on paneling edges for creating a chair rail"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth polymer extrusion",
+      "Paintable white finish for easy color matching",
+      "Termite and moisture-resistant construction resists rotting",
+      "Easy to clean for low maintenance",
+      "Use over paneling edges to create a chair rail",
+      "96 in. Length",
+      "Installs with nails or construction adhesives",
+      "Manufactured by Royal Molding"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a1cf998e-36d8-41c9-8a35-02ad9bf7fbb2/svn/white-royal-mouldings-base-cap-mldp01x01wm291wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/02630639-7854-4fbc-b7a7-428db7863f7f/svn/white-royal-mouldings-base-cap-mldp01x01wm291wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a1cf998e-36d8-41c9-8a35-02ad9bf7fbb2/svn/white-royal-mouldings-base-cap-mldp01x01wm291wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 218,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Base Cap Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "5262"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Interior Water Proof Material"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.562 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.125 in"
+      }
+    ],
+    "keywords_list": [
+      "ply cap moulding",
+      "polymer ply cap moulding",
+      "molding",
+      "polymer moulding",
+      "white ply cap moulding",
+      "white molding",
+      "paintable ply cap moulding"
+    ],
+    "keywords": "ply cap moulding, polymer ply cap moulding, molding, polymer moulding, white ply cap moulding, white molding, paintable ply cap moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Base Cap",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Base-Cap/N-5yc1vZ2fkpbgm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 26,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

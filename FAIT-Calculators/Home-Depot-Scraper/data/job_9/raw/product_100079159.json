@@ -1,0 +1,259 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13671,
+    "overage_used": 3671,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Henry-107-Asphalt-Emulsion-Sealer-and-Dampproofer-Black-Roof-Coating-4-75-gal-HE107571/100079159"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:26.407Z",
+    "processed_at": "2025-05-01T16:53:30.806Z",
+    "total_time_taken": 4.4,
+    "homedepot_url": "https://www.homedepot.com/p/Henry-107-Asphalt-Emulsion-Sealer-and-Dampproofer-Black-Roof-Coating-4-75-gal-HE107571/100079159"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Henry-107-Asphalt-Emulsion-Sealer-and-Dampproofer-Black-Roof-Coating-4-75-gal-HE107571/100079159",
+    "brand": "Henry",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Coatings/Henry/N-5yc1vZaqu6Z2wn",
+    "title": "Henry 107 Asphalt Emulsion Sealer and Dampproofer Black Roof Coating 4.75 gal.",
+    "upc": "081725107700",
+    "item_id": "100079159",
+    "parent_id": "322447586",
+    "store_sku": "567108",
+    "model_number": "HE107571",
+    "description": "Henry 107 Asphalt Emulsion is a premium, versatile coating for the protection of roofing materials, metal, and masonry surfaces. Solvent-free, it is made from asphalt emulsified with bentonite clay and water. Henry 107 Asphalt Emulsion is cold-applied, non-flammable while wet, corrosion-resistant, and waterproof when dry. Henry 107 Asphalt Emulsion will not crack, \"alligator,\" run, or sag under extreme weather conditions. It resists most corrosive fumes and spray.",
+    "is_exclusive": true,
+    "favorite_count": 610,
+    "aisle": "25",
+    "bay": "019",
+    "feature_bullets": [
+      "Acts as effective base coat for reflective coatings",
+      "Provides waterproof barrier once dry",
+      "Protects roofs, foundations and fence posts"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Base coat for energy saving reflective coatings",
+      "Used to dampproof below and above grade exterior concrete and masonry walls and foundations",
+      "Creates protective lining for new or existing roofs, planting pots and septic tanks",
+      "Compatible with conventional roofs, APP torch roofs, metal roofs or masonry and can be used with reinforcing fabric to seal leaks",
+      "Will not crack, run or sag in extreme weather conditions and is resistant to most corrosive sprays",
+      "Apply with 3-knot roof brush to cover 30 sq. ft. to 50 sq. ft. per gal.",
+      "Product meets or exceeds standards for ASTM D1227 Type III, Class I",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/energy-efficiency/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Energy Efficiency</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fa4e53ca-b2c4-4d13-85a7-5a1361ac9162/svn/henry-roof-coatings-he107571-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/74c5a922-877a-4db1-be1f-c759f8af3e7a/svn/henry-roof-coatings-he107571-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2acefd34-a100-45a2-942b-80a056066d88/svn/henry-roof-coatings-he107571-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5b304d59-63bf-4d1d-9e86-8ee7f3a8669f/svn/henry-roof-coatings-he107571-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c10863d8-a73d-49a7-8d1c-8898a8cff534/svn/henry-roof-coatings-he107571-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/49bafa3c-2b2f-4c30-bca2-03f611acb0b6/svn/henry-roof-coatings-he107571-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bb6607f8-17b4-490c-ad0d-07d4a5a3a068/svn/henry-roof-coatings-he107571-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fa4e53ca-b2c4-4d13-85a7-5a1361ac9162/svn/henry-roof-coatings-he107571-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 477,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Brush On,Roll On,Spray On"
+      },
+      {
+        "group_name": "Details",
+        "name": "Approximate Coverage Per Gallon (sq. ft)",
+        "value": "30"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coating Base",
+        "value": "Asphalt"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cold Applied",
+        "value": "Cold Applied"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Container type",
+        "value": "Bucket"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Time (hr.)",
+        "value": "24/72 hr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Algae Resistant,Corrosion Resistant,Extreme Heat,Ice and Water Shield,Mildew Resistant,Rust Resistant,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "Class A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package size (gallons)",
+        "value": "4.75 gal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Asphalt Roof Coating"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Recommended",
+        "value": "Coated Roofs,Concrete/Masonry,Metal,Metal Roofs,Mobile Home Roof,PVC Membrane,Rubberrized-Asphalt,Rv Roof"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "12-month limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "14 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size (oz.)",
+        "value": "608"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "keywords_list": [
+      "asphalt emulsion",
+      "energy-saver asphalt emulsion",
+      "roof coating",
+      "energy-saver roof coating",
+      "waterproof asphalt emulsion",
+      "waterproof roof coating"
+    ],
+    "keywords": "asphalt emulsion, energy-saver asphalt emulsion, roof coating, energy-saver roof coating, waterproof asphalt emulsion, waterproof roof coating",
+    "variants": [
+      {
+        "title": "608",
+        "link": "https://www.homedepot.com/p/Henry-107-Asphalt-Emulsion-Sealer-and-Dampproofer-Black-Roof-Coating-4-75-gal-HE107571/100079159",
+        "item_id": "100079159"
+      },
+      {
+        "title": "134",
+        "link": "https://www.homedepot.com/p/Henry-107-Asphalt-Emulsion-Sealer-and-Dampproofer-Black-Roof-Coating-0-90-gal-HE107146/100083851",
+        "item_id": "100083851"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Commercial Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing/N-5yc1vZapzz"
+      },
+      {
+        "name": "Roof Coatings",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Coatings/N-5yc1vZaqu6"
+      }
+    ],
+    "buybox_winner": {
+      "price": 48.44,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 39
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 54,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 179,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

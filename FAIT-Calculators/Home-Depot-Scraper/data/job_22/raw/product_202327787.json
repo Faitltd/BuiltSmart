@@ -1,0 +1,193 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14739,
+    "overage_used": 4739,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Tri-PLY-Underlayment-Common-5-0-mm-x-4-ft-x-4-ft-Actual-0-196-in-x-47-75-in-x-48-in-448887/202327787"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:07:50.287Z",
+    "processed_at": "2025-05-01T19:07:56.076Z",
+    "total_time_taken": 5.79,
+    "homedepot_url": "https://www.homedepot.com/p/Tri-PLY-Underlayment-Common-5-0-mm-x-4-ft-x-4-ft-Actual-0-196-in-x-47-75-in-x-48-in-448887/202327787"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Tri-PLY-Underlayment-Common-5-0-mm-x-4-ft-x-4-ft-Actual-0-196-in-x-47-75-in-x-48-in-448887/202327787",
+    "brand": "Tri-PLY",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Tri-PLY/N-5yc1vZc7hmZbmf",
+    "title": "Tri-PLY Underlayment (Common: 5.0 mm x 4 ft. x 4 ft.; Actual: 0.196 in. x 47.75 in. x 48 in.)",
+    "upc": "757295000115",
+    "item_id": "202327787",
+    "store_sku": "448887",
+    "model_number": "448887",
+    "description": "Tri-PLY Underlayment is for use under vinyl and tile floors to smooth out your subfloor. Handy panels are perfect for small projects and repair work. They are easy to transport, lightweight and priced right. Everything you need to get a job done quickly.",
+    "favorite_count": 2314,
+    "aisle": "FW",
+    "bay": "010",
+    "feature_bullets": [
+      "Smooth surface",
+      "Great for small repairs and craft projects",
+      "Easily transported"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Handy panels have a smooth surface and are perfect for small repairs, and craft projects",
+      "Panels can be finished with paint, stain or polyurethane",
+      "Handy size means less waste and an economical price; easy to transport, manageable size will fit in most vehicles",
+      "5.0 mm x 4 ft. x 4 ft.",
+      "5 ply construction",
+      "Note: Product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/ab/how-to-choose-lumber/9ba683603be9fa5395fab90f3d653ea\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6cd870b3-acf1-471b-87aa-58599f8c2ab0/svn/tri-ply-project-panels-448887-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b84a46bd-159d-4587-afa9-29530da8b326/svn/tri-ply-project-panels-448887-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/496bdcc9-1da3-4475-b00c-92ef17ae26f6/svn/tri-ply-project-panels-448887-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cf9dbb1b-723c-49c0-adab-aba412e3577e/svn/tri-ply-project-panels-448887-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6cd870b3-acf1-471b-87aa-58599f8c2ab0/svn/tri-ply-project-panels-448887-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxM2I5YjNfMWI3YmY4MTQxNzNiZDg4ZDQzMmY0OGFlMGU0MWZkMDI1NDBmNDQwMjFmMDdmYmI3ZjQxOWM3ZWQ5MjI4MmI2Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 507,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "65"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Hardwood Plywood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "47.750 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "Taraca",
+      "5 mm (1/4 in.) 4 ft. x 4 ft. Underlayment Plywood",
+      "448-887"
+    ],
+    "keywords": "Taraca, 5 mm (1/4 in.) 4 ft. x 4 ft. Underlayment Plywood , 448-887",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.74,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 66
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 68,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

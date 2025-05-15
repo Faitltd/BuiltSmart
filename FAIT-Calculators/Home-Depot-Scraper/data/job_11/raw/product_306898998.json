@@ -1,0 +1,181 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13747,
+    "overage_used": 3747,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/LP-FlameBlock-Fire-Rated-OSB-Sheathing-29915/306898998"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:57:16.083Z",
+    "processed_at": "2025-05-01T16:57:22.783Z",
+    "total_time_taken": 6.7,
+    "homedepot_url": "https://www.homedepot.com/p/LP-FlameBlock-Fire-Rated-OSB-Sheathing-29915/306898998"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/LP-FlameBlock-Fire-Rated-OSB-Sheathing-29915/306898998",
+    "brand": "LP",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Oriented-Strand-Board-OSB/LP/N-5yc1vZbqpqZn90",
+    "title": "LP FlameBlock Fire-Rated OSB Sheathing",
+    "upc": "088991299153",
+    "item_id": "306898998",
+    "store_sku": "1011122533",
+    "model_number": "29915",
+    "description": "LP FlameBlock Fire-Rated OSB Sheathing is ICC-certified to meet code and provides additional value strength, savings and greater design flexibility. It helps you build fire-rated wall assemblies and roof deck faster at a lower cost than most common alternatives. LP FlameBlock interior wall assemblies can streamline installation and lower material/labor costs by reducing the need for additional construction materials. With its Exposure 1 classification, LP FlameBlock sheathing in roof deck applications is able to withstand exposure to moisture during normal construction delays. LP FlameBlock Fire-Rated OSB Sheathing helps you meet fire codes while reducing dead load and wall thickness versus common alternatives. Meeting fire codes just got easier - structural strength and code compliance in a single panel. Choose LP FlameBlock Fire-Rated OSB Sheathing for your next project.",
+    "collection": {
+      "id": "Family-313974903",
+      "name": "Family-313974903",
+      "link": "https://www.homedepot.com/collection/Building-Materials/LP-Structural-Solutions/Family-313974903?omsid=306898998"
+    },
+    "feature_bullets": [
+      "LP FlameBlock sheathing is ICC-certified to meet code",
+      "Combines flame-spread resistance and burn-through resistance",
+      "Backed by a 20-year transferable limited warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "ICC-certified (ESR-1365)",
+      "Combines flame-spread resistance and burn-through resistance",
+      "Component of fire-rated interior and exterior wall assemblies and roof decks",
+      "Exposure 1 classification; withstands normal exposure to moisture during construction",
+      "20-year limited warranty/2-year open soffit limited warranty",
+      "Class A and 30-minute flame spread rating (ASTM E84, UL 723)",
+      "15-minute thermal barrier protection (UBC 26-2)"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/feac1044-5da0-4643-bfe8-b595e0b3350c/svn/lp-oriented-strand-board-osb-29915-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b0f07e6b-fb3c-470a-87a8-adbd172f5405/svn/lp-oriented-strand-board-osb-29915-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e310d145-7f41-4173-9f3e-20e516520c6a/svn/lp-oriented-strand-board-osb-29915-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8ea1d637-a766-4733-a0b6-cbf3c39360ac/svn/lp-oriented-strand-board-osb-29915-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/83f6e26a-1814-4053-94bc-876598f2f5d7/svn/lp-oriented-strand-board-osb-29915-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b0f07e6b-fb3c-470a-87a8-adbd172f5405/svn/lp-oriented-strand-board-osb-29915-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/feac1044-5da0-4643-bfe8-b595e0b3350c/svn/lp-oriented-strand-board-osb-29915-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 17,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exposure 1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Structural l Rated Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "OSB"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "12/0"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "20 Years Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "95.880 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.44 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "47.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "7/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Oriented Strand Board - OSB",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Oriented-Strand-Board-OSB/N-5yc1vZbqpq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 48.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 584,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

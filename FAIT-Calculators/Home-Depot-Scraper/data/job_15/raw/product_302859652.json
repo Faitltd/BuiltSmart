@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13985,
+    "overage_used": 3985,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Outdoor-Essentials-1-in-x-6-in-x-16-ft-2-Rough-Pressure-Treated-Board-Southern-Yellow-Pine-Lumber-291439/302859652"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:34.709Z",
+    "processed_at": "2025-05-01T17:50:39.089Z",
+    "total_time_taken": 4.38,
+    "homedepot_url": "https://www.homedepot.com/p/Outdoor-Essentials-1-in-x-6-in-x-16-ft-2-Rough-Pressure-Treated-Board-Southern-Yellow-Pine-Lumber-291439/302859652"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Outdoor-Essentials-1-in-x-6-in-x-16-ft-2-Rough-Pressure-Treated-Board-Southern-Yellow-Pine-Lumber-291439/302859652",
+    "brand": "Outdoor Essentials",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/Outdoor-Essentials/N-5yc1vZc3srZd4u",
+    "title": "Outdoor Essentials 1 in. x 6 in. x 16 ft. 2 Rough Pressure-Treated Board Southern Yellow Pine Lumber",
+    "upc": "090489545659",
+    "item_id": "302859652",
+    "store_sku": "393518",
+    "model_number": "291439",
+    "description": "Pressure treated boards are treated for protection against termites and rot. Ideal for a variety of applications including decks, play sets, landscaping, and other outdoor projects where lumber is exposed to the elements. This board can also be painted or stained. When used properly it is both safe and environmentally safe.",
+    "favorite_count": 149,
+    "feature_bullets": [
+      "Pressure treated to protect against termites and decay",
+      "Backed by a lifetime limited warranty",
+      "Can be painted or stained"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of southern yellow pine",
+      "Fresh looking, natural appearance",
+      "Limited lifetime warranty",
+      "1 in. x 6 in. x 16 ft.",
+      "For use in above ground applications",
+      "Rough in texture",
+      "Note: product may vary by store",
+      "<a href=\"https://www.homedepot.com/b/Featured-Products-Complete-The-Project-How-to-Build-a-Fence/N-5yc1vZ2fkosv2\" target=\"_blank\" style=\"color:#F96302;\">Find everything you need to complete your fencing project here</a>",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-build-a-fence/9ba683603be9fa5395fab90a485b4ce?NCNI-5&amp;searchRedirect=how+to+build+a+fence&amp;semanticToken=300r10r001220000_202010191749529517561156157_us-east4-nbxs+300r10r001220000+%3E++cnn%3A%7B0%3A0%7D+cnp%3A%7B10%3A0%7D+cnd%3A%7B4%3A0%7D+cne%3A%7B8%3A0%7D+cns%3A%7B5%3A0%7D+cnx%3A%7B3%3A0%7D+cnq%3A%7B0%3A0%7D+cnw%3A%7B0%3A0%7D+cnv%3A%7B1%3A4%7D+st%3A%7Bhow+to+build+a+fence%7D%3Ast+tgr%3A%7BNo+stage+info%7D+qu%3A%7Bhow+to+build+a+fence%7D%3Aqu\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/21/UNIVERSAL FOREST PRODUCT/1469352.jpg\"></a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/60f00ffe-cee9-4665-b122-4e4d7ad540cb/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c2e7e21f-3292-409f-bddc-c1028c075f1c/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a1ef8c4-4a24-4be8-abda-7f3f82594b8e/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8582bc6-4f71-4fd4-acb0-5e0c9b0b523b/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/59fdaa05-451b-42dc-850d-82ecf4de79e0/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9298380f-89f5-477a-9212-496fc03ca15a/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6b931f21-338e-454e-86cf-da1fafe45009/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/51bf65cf-14d5-4fd4-913b-787e34f2e0a5/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/60f00ffe-cee9-4665-b122-4e4d7ad540cb/svn/brown-outdoor-essentials-pressure-treated-lumber-291439-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/aec102dd-bb2e-4d3f-b144-90dfb7a433f0/ae3642de-90f4-4ef7-937d-51316a7d94d8/main.mp4?fastly_token=NjgzODFlN2FfYTRkYzc0YjIxYzJhMzEyOGUzNGExMWIwN2FmNDAzMTAzOTE3NTYxZWQ2NDIyOGU5MDk3ZDRmNWY4MTcyNWRkZl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hZWMxMDJkZC1iYjJlLTRkM2YtYjE0NC05MGRmYjdhNDMzZjAvYWUzNjQyZGUtOTBmNC00ZWY3LTkzN2QtNTEzMTZhN2Q5NGQ4L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install a Wood Fence",
+        "id": "6279905571001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/aec102dd-bb2e-4d3f-b144-90dfb7a433f0/main/160x90/1m36s258ms/match/image.jpg?pubId=66036796001",
+        "description": "Overview of what tools and the steps to take in installing a wood fence."
+      }
+    ],
+    "ratings_total": 81,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chemical retention (lb./cu. ft.)",
+        "value": "0.06 lb/ft3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Galvanized Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Pressure Treated,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Southern Yellow Pine"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pressure Treatment Chemical",
+        "value": "MCA - Micronized Copper Azole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Granulated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Southern Pine"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Pressure Treated Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/N-5yc1vZc3sr"
+      }
+    ],
+    "buybox_winner": {
+      "price": 17.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 18.97,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 90
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 1098,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

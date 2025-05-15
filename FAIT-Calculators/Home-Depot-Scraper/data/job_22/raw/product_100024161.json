@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14802,
+    "overage_used": 4802,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/WeatherShield-1-in-x-2-in-x-8-ft-Pressure-Treated-Southern-Pine-Lumber-315412/100024161"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:30:41.246Z",
+    "processed_at": "2025-05-01T19:30:47.523Z",
+    "total_time_taken": 6.28,
+    "homedepot_url": "https://www.homedepot.com/p/WeatherShield-1-in-x-2-in-x-8-ft-Pressure-Treated-Southern-Pine-Lumber-315412/100024161"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/WeatherShield-1-in-x-2-in-x-8-ft-Pressure-Treated-Southern-Pine-Lumber-315412/100024161",
+    "brand": "WeatherShield",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Wood-Decking-Boards/WeatherShield/N-5yc1vZc80mZ4l6",
+    "title": "WeatherShield 1 in. x 2 in. x 8 ft. Pressure-Treated Southern Pine Lumber",
+    "upc": "098168111324",
+    "item_id": "100024161",
+    "store_sku": "315412",
+    "model_number": "315412",
+    "description": "Every piece meets the highest grading standards for strength and appearance. This lumber is pressure treated with micronized copper azole in order to protect it from termites, fungal decay, and rot. Ideal for a variety of applications, including decks, play sets, landscaping, stair support, walkways and other outdoor projects where lumber is exposed to the elements. This lumber can be painted or stained. When used properly, it is both safe and environmentally friendly.",
+    "favorite_count": 2294,
+    "aisle": "22",
+    "bay": "004",
+    "feature_bullets": [
+      "Pressure-treatment helps protect against rot, termites and decay",
+      "Easily painted or stained",
+      "Use for decks, landscaping, walkways and outdoor projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Southern pine",
+      "Ideal for decks, play sets, landscaping, porches, walkways and other outdoor projects where lumber is exposed to the elements",
+      "Pressure-treated with micronized copper azole to help protect against termites, rot and fungal decay",
+      "3/4 in. x 1-1/2 in. x 8 ft.",
+      "Can be painted or stained",
+      "Hot-dipped galvanized fasteners recommended",
+      "Board, southern pine board, lumber, southern pine lumber, pressure-treated board, pressure-treated lumber, aboveground board, aboveground lumber",
+      "Find the WeatherShield 1 in. x 2 in. x 8 ft. pressure-treated southern pine lumber 1010153, for aboveground use can be painted or stained from The Home Depot",
+      "Note: product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/20e660f1-58a1-4c91-8148-82518264ac2c/svn/weathershield-pressure-treated-lumber-315412-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bc82b80c-ae15-46c8-adde-07ef9241e9bd/svn/weathershield-pressure-treated-lumber-315412-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/20e660f1-58a1-4c91-8148-82518264ac2c/svn/weathershield-pressure-treated-lumber-315412-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 513,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chemical retention (lb./cu. ft.)",
+        "value": ".06 lb/ft3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Contact Type Allowed",
+        "value": "Above Ground"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Pressure Treated,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "No. 1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pressure Treatment Chemical",
+        "value": "MCA - Micronized Copper Azole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.75"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "1.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Width (in.)",
+        "value": "2 in"
+      }
+    ],
+    "keywords_list": [
+      "board",
+      "southern pine board",
+      "lumber",
+      "southern pine lumber",
+      "pressure-treated board",
+      "pressure-treated lumber",
+      "aboveground board",
+      "aboveground lumber"
+    ],
+    "keywords": "board, southern pine board, lumber, southern pine lumber, pressure-treated board, pressure-treated lumber, aboveground board, aboveground lumber",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Wood Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Wood-Decking-Boards/N-5yc1vZc80m"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.68,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 245
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 555,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

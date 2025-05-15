@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14816,
+    "overage_used": 4816,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/CertainTeed-R38-Unfaced-Fiberglass-Insulation-Batt-24-in-x-48-in-8-Pieces-645737/330975719"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:32:21.113Z",
+    "processed_at": "2025-05-01T19:33:02.133Z",
+    "total_time_taken": 41.02,
+    "homedepot_url": "https://www.homedepot.com/p/CertainTeed-R38-Unfaced-Fiberglass-Insulation-Batt-24-in-x-48-in-8-Pieces-645737/330975719"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/CertainTeed-R38-Unfaced-Fiberglass-Insulation-Batt-24-in-x-48-in-8-Pieces-645737/330975719",
+    "brand": "CertainTeed",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Insulation-Fiberglass-Insulation/CertainTeed/N-5yc1vZbay7Zds3",
+    "title": "CertainTeed R38 Unfaced Fiberglass Insulation Batt 24 in. x 48 in. (8-Pieces)",
+    "upc": "042919904253",
+    "item_id": "330975719",
+    "parent_id": "332221811",
+    "store_sku": "1004669572",
+    "model_number": "645737",
+    "description": "CertainTeed's Sustainable Insulation is a high-performance insulation solution designed to provide superior energy efficiency, comfort, and sustainability. Itis easy to install and can be cut to fit any application. Its lightweight design makes it easy to handle, while its exceptional durability ensures that it maintains its shape and performance over time.",
+    "feature_bullets": [
+      "R-38 unfaced insulation for easy attic installation",
+      "Excellent solution for thermal and acoustic applications",
+      "Plant based binder, made from up to 50% recycled material"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Long-lasting comfort through thermal performance, reduced noise levels and exceeds California's strict indoor air quality requirements",
+      "Easy to handle with a new softer touch without compromising its rigidity or recovery",
+      "Made of fiberglass that consists of rapidly renewable content, a high percentage of recycled glass, and a new plant-based binder",
+      "Insulation solution is designed to reduce noise transmission, creating a comfortable and peaceful indoor environment",
+      "Made from up to 50% recycled materials, including post-consumer recycled glass and sand",
+      "GREENGUARD Gold certified for indoor air quality, making it a safe and healthy option for building occupants",
+      "Can be cut to fit any application its lightweight design makes it easy to handle, while its exceptional durability ensures that it maintains its shape and performance over time",
+      "Lifetime limited warranty",
+      "Insulates 64 sq. ft. coverage area"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0da44f97-3e1c-48de-a9e3-04b4fb1e7388/svn/certainteed-fiberglass-insulation-645737-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/978810d8-fc13-458d-9215-c74eff3fec30/svn/certainteed-fiberglass-insulation-645737-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e7bb1ae7-9dc1-4d70-af65-9e22a306e938/svn/certainteed-fiberglass-insulation-645737-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8a5315ce-9f64-4ad9-8cc1-73787ca49929/svn/certainteed-fiberglass-insulation-645737-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8c18c692-2891-4205-921c-5c04ae91fa00/svn/certainteed-fiberglass-insulation-645737-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cad222de-925a-4f20-bb51-0abdbbfb02f5/svn/certainteed-fiberglass-insulation-645737-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/162ef870-aec1-4ad5-bcc0-1cedc749afd1/svn/certainteed-fiberglass-insulation-645737-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0da44f97-3e1c-48de-a9e3-04b4fb1e7388/svn/certainteed-fiberglass-insulation-645737-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bag Size",
+        "value": "4.33 ft. x 13 in. x 24 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Batt/Roll Size",
+        "value": "4 ft. x 12 in. x 24 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Install Surface",
+        "value": "Existing Drywall,Existing Insulation,Fiberglass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Faced or Unfaced",
+        "value": "Unfaced"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fits Size",
+        "value": "Other"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Features",
+        "value": "Soundproofing Insulation,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Location",
+        "value": "Attic,Ceiling Insulation,Interior Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value",
+        "value": "R38"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Type",
+        "value": "Fiberglass Insulation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "8"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "35.19 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roll or Batt",
+        "value": "Batt"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Warranty Information",
+        "value": "20 year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cover Area Per Bag (sq. ft.)",
+        "value": "64 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "64 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "4 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "24 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "38~~Faced~~4 ft. x 12 in. x 24 in.~~1",
+        "link": "https://www.homedepot.com/p/CertainTeed-R38-Kraft-Faced-Fiberglass-Insulation-Batt-4-3-ft-x-24-in-x-48-in-8-Pieces-645692/330975718",
+        "item_id": "330975718"
+      },
+      {
+        "title": "38~~Unfaced~~4 ft. x 12 in. x 24 in.~~1",
+        "link": "https://www.homedepot.com/p/CertainTeed-R38-Unfaced-Fiberglass-Insulation-Batt-24-in-x-48-in-8-Pieces-645737/330975719",
+        "item_id": "330975719"
+      },
+      {
+        "title": "38~~Unfaced~~4 ft. x 12 in. x 16 in.~~1",
+        "link": "https://www.homedepot.com/p/CertainTeed-R38-Unfaced-Fiberglass-Insulation-Batt-16-in-x-48-in-8-Pieces-645736/330975717",
+        "item_id": "330975717"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation/N-5yc1vZasbs"
+      },
+      {
+        "name": "Fiberglass Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation-Fiberglass-Insulation/N-5yc1vZbay7"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

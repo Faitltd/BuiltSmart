@@ -1,0 +1,300 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14974,
+    "overage_used": 4974,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TOTO-Nexus-12-in-Rough-In-One-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-CEFIONTECT-in-Cotton-White-Seat-Included-MS642124CEFG-01/311444875"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:48:22.113Z",
+    "processed_at": "2025-05-02T21:48:26.099Z",
+    "total_time_taken": 3.99,
+    "homedepot_url": "https://www.homedepot.com/p/TOTO-Nexus-12-in-Rough-In-One-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-CEFIONTECT-in-Cotton-White-Seat-Included-MS642124CEFG-01/311444875"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TOTO-Nexus-12-in-Rough-In-One-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-CEFIONTECT-in-Cotton-White-Seat-Included-MS642124CEFG-01/311444875",
+    "brand": "TOTO",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/TOTO/N-5yc1vZcb8vZgy2",
+    "title": "TOTO Nexus 12 in. Rough In One-Piece 1.28 GPF Single Flush Elongated Toilet with CEFIONTECT in Cotton White, Seat Included",
+    "upc": "739268339279",
+    "item_id": "311444875",
+    "store_sku": "1004763545",
+    "model_number": "MS642124CEFG#01",
+    "description": "The TOTO Nexus 1-Piece Elongated 1.28 GPF Universal Height Skirted Toilet with CEFIONTECT has a sleek and clean high-profile design, upholding TOTOs vision to create a culture of comfortable, healthy living. The TOTO Nexus features a modern, 1-Piece design that will instantly elevate any bathroom decor. The 1-Piece design is not only aesthetically pleasing, but also offers the benefit of being easier to clean versus a 2-Piece toilet. By removing the gap between the tank and bowl, dirt and debris have no place to hide. An additional benefit of the 1-Piece toilet is that there is no threat of leaks from bolts or gaskets that can occur in 2-Piece toilets. Skirted Design toilets eliminate the need to reach behind the bowl to clean the nooks and crannies of the exterior trapway. The TOTO Nexus features TOTOs TORNADO FLUSH, a hole-free rim design with dual-nozzles that creates a centrifugal washing action that assists in rinsing the bowl more efficiently. This version of the TOTO Nexus includes CEFIONTECT, a layer of exceptionally smooth glaze that prevents particles from adhering to the ceramic. This feature, coupled with TORNADO FLUSH, assists to reduce the frequency of toilet cleanings, minimizing the usage of water, harsh chemicals and time required for cleaning. This 1-Piece toilet is designed in TOTOs Universal Height, which allows for a more comfortable seat position across a wide range of users.",
+    "favorite_count": 57,
+    "feature_bullets": [
+      "Vitreous China ADA comfort height in 1.28 GPF tornado flush",
+      "Powerful but quiet with water-saving flushing system",
+      "Elongated toilet is compatible with all TOTO bidet models"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Elongated 1-piece skirted design toilet, easier to maintain versus a 2-piece toilet",
+      "1.28 GPF TORNADO FLUSH system with a powerful centrifugal rinse",
+      "CEFIONTECT glaze gives the bowl a lubricious quality that prevents particles from adhering",
+      "SoftClose seat included, no more slammed lids",
+      "TOTO WASHLET+ upgrade compatibility: designed to work with a T40 WASHLET+ bidet seat for seamless integration",
+      "Auto flush compatible",
+      "Left-hand chrome trip lever",
+      "ADA, WaterSense, CALGreen and CEC compliant",
+      "12 in. rough-in",
+      "May be adapted for 14 in. rough-in with optional TOTO part TSU10W.14 (sold separately)",
+      "Includes 1-piece toilet, SoftClose seat and lid and installation hardware",
+      "Purchase separately: wax ring, toilet mounting bolts and water supply lines"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d544e9c7-8e89-4213-a1ec-3a55df6648e5/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/867c0f5c-bf4a-49cd-8f76-08d3d2646a89/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fd432051-cb9a-4e13-bde2-11fb95887a9b/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a8231868-e2e4-448a-8128-32fb3e53de8b/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3f5a19f2-53ca-4197-866c-0c6d7aba1e5d/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8fa2986a-1d57-46d3-bffd-43e8f02ccd6a/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b4fe5fb0-45e3-458d-b7e0-0554ecc67853/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a847f35a-405a-42f3-98c9-2febf746e969/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/80885e68-45ed-4e19-b9ec-2a98d1e2e61b/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a62a1931-94bc-4efb-959f-21a9b255ef70/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/be9513c0-69a8-4fc4-8aaa-ab41fe9e942e/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e9aed684-893c-400f-8779-0225385d85d3/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8dc45d0b-1755-4d80-8142-a06e38f067c8/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d544e9c7-8e89-4213-a1ec-3a55df6648e5/svn/cotton-white-toto-one-piece-toilets-ms642124cefg-01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/6036f131-76a2-49ea-9f70-aa1b7db6ad30/221ff855-7ca9-4589-b46a-0fb03961bac0/main.mp4?fastly_token=NjgxNGU1M2VfY2Q2ZDMxMTkwZGVkMTg5MjFkMThjM2FkNTFmZjhmYzUxOTYyODlkY2IxMDEzMDliMTkyMGEwNzI0NWM3YjYyOV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjAzNmYxMzEtNzZhMi00OWVhLTlmNzAtYWExYjdkYjZhZDMwLzIyMWZmODU1LTdjYTktNDU4OS1iNDZhLTBmYjAzOTYxYmFjMC9tYWluLm1wNA%3D%3D",
+        "title": "MS642 Draft.mp4",
+        "id": "6352199846112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/6036f131-76a2-49ea-9f70-aa1b7db6ad30/main/160x90/7s541ms/match/image.jpg",
+        "description": "Product view from various angles\n"
+      }
+    ],
+    "ratings_total": 44,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Cotton White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Toilet Seat"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "Not Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "117 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "One-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.125 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Side"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Manufacturer One Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "28.56 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "27 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "17.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "One Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/N-5yc1vZcb8v"
+      }
+    ],
+    "buybox_winner": {
+      "price": 866.54,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 34,
+          "price": 0,
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-15"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 34,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

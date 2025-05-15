@@ -1,0 +1,182 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14173,
+    "overage_used": 4173,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Schluter-Kerdi-Kereck-F-Pre-Formed-90-Waterproofing-Outside-Corners-2-Pack-KERECK-FA2/202608394"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:00:13.322Z",
+    "processed_at": "2025-05-01T18:00:20.051Z",
+    "total_time_taken": 6.73,
+    "homedepot_url": "https://www.homedepot.com/p/Schluter-Kerdi-Kereck-F-Pre-Formed-90-Waterproofing-Outside-Corners-2-Pack-KERECK-FA2/202608394"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Schluter-Kerdi-Kereck-F-Pre-Formed-90-Waterproofing-Outside-Corners-2-Pack-KERECK-FA2/202608394",
+    "brand": "Schluter",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools-Shower-Systems-Installation-Kits/Schluter/N-5yc1vZ2fkpcfuZ7fo",
+    "title": "Schluter Kerdi-Kereck-F Pre-Formed 90\u00b0 Waterproofing Outside Corners (2-Pack)",
+    "upc": "4011832078347",
+    "item_id": "202608394",
+    "store_sku": "572452",
+    "model_number": "KERECK/FA2",
+    "description": "Kerdi-Kereck-F are preformed, seamless corners for waterproofing the corners of Kerdi and Ditra assemblies to prevent leaks. The 4 mil thickness helps minimize build-up in the corners. The KERECK/FA2 is a package of 2 outside corners.",
+    "favorite_count": 214,
+    "feature_bullets": [
+      "Seamless waterproofing for 90\u00b0 outside corners",
+      "Designed for Kerdi, Kerdi-Board, and Ditra applications",
+      "Preformed to simplify installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Package contains 2 outside corners",
+      "Preformed, seamless corners made of Kerdi",
+      "Thickness is 4 mil",
+      "Ensures a fully water-tight seal at outside corners",
+      "For use with Kerdi and Ditra installations",
+      "Convenient and easy to install"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fd20c309-efe8-4f8f-a3ee-f63f1259ba64/svn/schluter-shower-systems-installation-kits-kereck-fa2-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fd20c309-efe8-4f8f-a3ee-f63f1259ba64/svn/schluter-shower-systems-installation-kits-kereck-fa2-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 24,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": ".08 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Diameter (in.)",
+        "value": "0 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "6.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length x Width",
+        "value": "6.63 in. x 6.63 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6.625 in"
+      }
+    ],
+    "keywords_list": [
+      "KERDI-KERECK-F Pre-Formed Waterproofing Tile Edge Outside Corners (2-Pack)",
+      "KERECK/FA2"
+    ],
+    "keywords": "KERDI-KERECK-F Pre-Formed Waterproofing Tile Edge Outside Corners (2-Pack), KERECK/FA2",
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Flooring Tools",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools/N-5yc1vZcdtv"
+      },
+      {
+        "name": "Shower Systems Installation Kits",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools-Shower-Systems-Installation-Kits/N-5yc1vZ2fkpcfu"
+      }
+    ],
+    "buybox_winner": {
+      "price": 18.2,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "1749",
+          "in_stock": true,
+          "stock_level": 24,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 16,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

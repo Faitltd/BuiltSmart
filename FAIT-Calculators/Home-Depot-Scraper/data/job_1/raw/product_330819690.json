@@ -1,0 +1,271 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14958,
+    "overage_used": 4958,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-Slow-Close-Seat-in-White-726AA101-020/330819690"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:46:38.888Z",
+    "processed_at": "2025-05-02T21:46:44.898Z",
+    "total_time_taken": 6.01,
+    "homedepot_url": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-Slow-Close-Seat-in-White-726AA101-020/330819690"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-Slow-Close-Seat-in-White-726AA101-020/330819690",
+    "brand": "American Standard",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/American-Standard/N-5yc1vZcb8nZ5a",
+    "title": "American Standard Reliant 12 in. Rough In 2-Piece 1.28 GPF Single Flush Elongated Toilet with Slow Close Seat in White",
+    "upc": "193406306064",
+    "item_id": "330819690",
+    "parent_id": "331943002",
+    "store_sku": "1011860996",
+    "model_number": "726AA101.020",
+    "description": "The Reliant Two-Piece Chair-Height Elongated Toilet from American Standard offers the worry-free reliability you expect from one of the industry's most trusted names for more than 140 years. This low-consumption toilet uses 20% less water than a regular toilet and is WaterSense certified for high efficiency. The Reliant toilet is easy to install and features the easy-access comfort of a 16 \u00bd-in. chair height and elongated front. Backed by an industry-leading warranty that includes lifetime on chinaware plus 2 years on mechanical parts, twice the industry standard of one year, you can be confident Reliant will stand the test of time.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "aisle": "37",
+    "bay": "008",
+    "feature_bullets": [
+      "Elongated seat and bowl for comfort",
+      "Slow-close lid prevents sudden slamming of the toilet door",
+      "WaterSense certified to save 20% on water usage"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "High-efficiency toilet (HET): powerful and efficient toilet uses 1.28 gpf and achieves highest map (maximum performance) score of 1,000 grams",
+      "Chair-height bowl: 17-in. high with seat makes accessibility, sitting and standing easier and more comfortable",
+      "Powerful flush: equipped with a 3-in. flush valve to deliver the force needed to clear the bowl",
+      "WaterSense certified: uses less water while maintaining great performance",
+      "Toilet seat included: slow-close seat and lid eliminates sudden slamming",
+      "Complete toilet: includes chrome trip lever, wax ring, t-bolts and caps",
+      "<a href=\"https://www.homedepot.com/b/American-Standard/N-5yc1vZ5a\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop more American Standard products</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/696c012d-0937-4ed8-ab90-8c5ff0bc7b37/svn/white-american-standard-two-piece-toilets-726aa101-020-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0939d9e7-d641-4054-9a46-51d349c94c13/svn/white-american-standard-two-piece-toilets-726aa101-020-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/77e0b60b-3af4-4162-af66-964dbea27ab5/svn/white-american-standard-two-piece-toilets-726aa101-020-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f4b6d479-b14a-4f9e-a02d-6726c400516b/svn/white-american-standard-two-piece-toilets-726aa101-020-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c31e253-9f15-4da6-a731-634a91e92fc9/svn/white-american-standard-two-piece-toilets-726aa101-020-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5bfe55c7-c83f-44c7-99cb-2ee65dafa015/svn/white-american-standard-two-piece-toilets-726aa101-020-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/696c012d-0937-4ed8-ab90-8c5ff0bc7b37/svn/white-american-standard-two-piece-toilets-726aa101-020-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 271,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Flushing Rim,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Siphonic Jet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Handle,Hardware,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "88 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASME Certified,CSA Certified,IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited lifetime warranty on chinaware, 2 year warranty on all mechanical parts, 1 year warranty on seat"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "28.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "27.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "16.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Round~~12 inch Rough In~~Single Flush: 1.28~~Standard",
+        "link": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-with-Slow-Close-Seat-in-White-726DA101-020/330819708",
+        "item_id": "330819708"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-Slow-Close-Seat-in-White-726AA101-020/330819690",
+        "item_id": "330819690"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 169,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 10
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

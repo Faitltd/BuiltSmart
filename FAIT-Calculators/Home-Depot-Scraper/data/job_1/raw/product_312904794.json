@@ -1,0 +1,229 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12647,
+    "overage_used": 2647,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Craftsman-9-16-in-x-2-1-2-in-x-84-in-Primed-Pine-Finger-Jointed-Casing-3-Pieces-10049995/312904794"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:27:27.726Z",
+    "processed_at": "2025-05-01T13:27:32.291Z",
+    "total_time_taken": 4.57,
+    "homedepot_url": "https://www.homedepot.com/p/Craftsman-9-16-in-x-2-1-2-in-x-84-in-Primed-Pine-Finger-Jointed-Casing-3-Pieces-10049995/312904794"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Craftsman-9-16-in-x-2-1-2-in-x-84-in-Primed-Pine-Finger-Jointed-Casing-3-Pieces-10049995/312904794",
+    "brand": "Unbranded",
+    "title": "Unbranded Craftsman 9/16 in. x 2-1/2 in. x 84 in. Primed Pine Finger-Jointed Casing (3-Pieces)",
+    "upc": "095624523998",
+    "item_id": "312904794",
+    "parent_id": "328954367",
+    "store_sku": "1005350941",
+    "model_number": "10049995",
+    "description": "The Woodgrain Millwork 9/16 in. x 2-1/2 in. Craftsman Prime Finger-Jointed Casing Set includes two 84 in. sides and 36 in. header to finish 1-side of a door. Casing is used around doors and windows to cover the gaps between the frames and walls. Prime Finger-Jointed Craftsman Casing Set is the finishing touch on any window and door.",
+    "favorite_count": 3,
+    "aisle": "FW",
+    "bay": "026",
+    "feature_bullets": [
+      "Designed to resist moisture, termite, rot and mildew",
+      "Vinyl construction ensures lasting use",
+      "Measures 96 in. L x 0.625 in. W x 0.625 in. D"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "No miters necessary",
+      "Craftsman style casing for your doors and window that will complete the look of your room",
+      "Designed for use on doors no taller than 80 in.",
+      "Installs with common woodworking tools",
+      "Contains 1-header (36 in.) and sides"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1b13f7a1-d04d-4387-b40e-c7b2a74e0544/svn/primed-casing-10049995-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a2e8e6cf-2034-4305-b1cb-13db62c406d3/svn/primed-casing-10049995-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/73ae267f-3a89-4f9c-af57-399de75669f9/svn/primed-casing-10049995-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1b13f7a1-d04d-4387-b40e-c7b2a74e0544/svn/primed-casing-10049995-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 125,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint,Miter Cut Not Necessary,Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "0"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Primed~~7.5 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Craftsman-9-16-in-D-x-3-1-2-in-W-x-90-in-L-Primed-Pine-Wood-Finger-Jointed-Casing-3-Pieces-10049996/312904804",
+        "item_id": "312904804"
+      },
+      {
+        "title": "Primed~~7 ft~~Wood~~3",
+        "link": "https://www.homedepot.com/p/Craftsman-9-16-in-x-2-1-2-in-x-84-in-Primed-Pine-Finger-Jointed-Casing-3-Pieces-10049995/312904794",
+        "item_id": "312904794"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 27.46,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 56
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 56,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

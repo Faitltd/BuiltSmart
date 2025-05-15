@@ -1,0 +1,285 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13335,
+    "overage_used": 3335,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Glasliner-0-090-in-x-4-ft-x-8-ft-White-FRP-Decorative-Wall-Paneling-1-Pack-MFTF12IXA480009600/100389836"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:54:00.938Z",
+    "processed_at": "2025-05-01T13:54:05.787Z",
+    "total_time_taken": 4.85,
+    "homedepot_url": "https://www.homedepot.com/p/Glasliner-0-090-in-x-4-ft-x-8-ft-White-FRP-Decorative-Wall-Paneling-1-Pack-MFTF12IXA480009600/100389836"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Glasliner-0-090-in-x-4-ft-x-8-ft-White-FRP-Decorative-Wall-Paneling-1-Pack-MFTF12IXA480009600/100389836",
+    "brand": "Glasliner",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Wall-Paneling-Decorative-Wall-Paneling/Glasliner/N-5yc1vZbqpjZ5e6",
+    "title": "Glasliner 0.090 in. x 4 ft. x 8 ft. White FRP Decorative Wall Paneling (1-Pack)",
+    "upc": "788594490185",
+    "item_id": "100389836",
+    "parent_id": "332082399",
+    "store_sku": "121586",
+    "model_number": "MFTF12IXA480009600",
+    "description": "Fiberglass Reinforced Panels are an ideal wall liner for interior use in restaurants, kitchens, regrooms, break rooms, and any locations requiring low-maintenance, washable walls. Made of a durable polyester resin and reinforced with fiberglass, these panels provide a nonporous wall surface that resists moisture, mildew, stains and protects wall from dents and scratches. The durable Stabilit 32 sq. ft. Plastic Composite Siding Panel is made of polyester resin.",
+    "is_bestseller": true,
+    "favorite_count": 3111,
+    "aisle": "19",
+    "bay": "013",
+    "feature_bullets": [
+      "Moisture-resistance allows for application in nearly any room",
+      "Designed for minimum care and maintenance",
+      "Highly rated for quality and value (see reviews)"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Polyester resin construction",
+      "White color",
+      "Cracked ice surface texture for easy cleaning",
+      "Non-porous wall surface resists moisture, rot, mildew, stains, scratches and dents",
+      "For interior use only",
+      "Easy-to-install with standard trowel and water based adhesives",
+      "<a href=\"https://www.homedepot.com/services/c/door-window-specialist/893e44520\" target=\"_blank\" style=\"color:#F96302;\">Speak to an Associate about Doors and Windows. Call 1-833-HDAPRON (432-7766) for free design, purchase and installation help daily from 9AM - 9PM EST.</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b413768a-f629-4efa-8199-46a0258c7236/svn/white-glasliner-decorative-wall-paneling-mftf12ixa480009600-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5ff6770a-cca8-433a-8003-7af9398a74a2/svn/white-glasliner-decorative-wall-paneling-mftf12ixa480009600-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6bcf4de1-5725-4185-b8df-b8374ac2c752/svn/white-glasliner-decorative-wall-paneling-mftf12ixa480009600-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4e9e8855-b9d9-4359-abac-ff6c228a97a3/svn/white-glasliner-decorative-wall-paneling-mftf12ixa480009600-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/15625a34-1edc-4518-88de-0c8f7298c2dc/svn/white-glasliner-decorative-wall-paneling-mftf12ixa480009600-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d24898ae-a5bf-4097-b7d2-39c82791f493/svn/white-glasliner-decorative-wall-paneling-mftf12ixa480009600-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4c4556dd-f2ca-418e-83ee-b0c1c2507077/svn/white-glasliner-decorative-wall-paneling-mftf12ixa480009600-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b413768a-f629-4efa-8199-46a0258c7236/svn/white-glasliner-decorative-wall-paneling-mftf12ixa480009600-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 732,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Board Joint Type",
+        "value": "Square Edge"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Fully Bonded Adhesive"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Fiber Reinforced Polymer (FRP)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number per Package",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paneling Appearance",
+        "value": "Undecorated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paneling Features",
+        "value": "Moisture Resistant,Rot Resistant,Scratch Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paneling Profile",
+        "value": "Flat"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paneling Type",
+        "value": "Decorative Panel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "19.72 lb"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Years Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Height (in.)",
+        "value": "96.00 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.090 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48.00"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Total Coverage Area (sq. ft.)",
+        "value": "32 sq ft"
+      }
+    ],
+    "keywords_list": [
+      "frp board",
+      "siding panel",
+      "composite siding panel",
+      "panel",
+      "composite panel",
+      "white siding panel",
+      "white panel",
+      "Stabilit siding panel",
+      "Stabilit panel"
+    ],
+    "keywords": "frp board, siding panel, composite siding panel, panel, composite panel, white siding panel, white panel, Stabilit siding panel, Stabilit panel",
+    "variants": [
+      {
+        "title": "White~~4 ft. x 8 ft.~~800 sq ft~~1",
+        "link": "https://www.homedepot.com/p/Glasliner-0-090-in-x-4-ft-x-8-ft-White-FRP-Decorative-Wall-Paneling-25-Pack-MFTF12IXA480009600/331631255",
+        "item_id": "331631255"
+      },
+      {
+        "title": "White~~4 ft. x 8 ft.~~32 sq ft~~1",
+        "link": "https://www.homedepot.com/p/Glasliner-0-090-in-x-4-ft-x-8-ft-White-FRP-Decorative-Wall-Paneling-1-Pack-MFTF12IXA480009600/100389836",
+        "item_id": "100389836"
+      },
+      {
+        "title": "Almond~~4 ft. x 8 ft.~~32 sq ft~~1",
+        "link": "https://www.homedepot.com/p/Glasliner-4-ft-x-8-ft-Almond-090-in-Fiberglass-Reinforced-Wall-Panel-MFTF12IWA480009600/202085619",
+        "item_id": "202085619"
+      },
+      {
+        "title": "White~~4 ft. x 8 ft.~~1600 sq ft~~1",
+        "link": "https://www.homedepot.com/p/Glasliner-0-090-in-x-4-ft-x-8-ft-White-FRP-Decorative-Wall-Paneling-50-Pack-MFTF12IXA480009600/331632588",
+        "item_id": "331632588"
+      },
+      {
+        "title": "Light Gray~~4 ft. x 8 ft.~~32 sq ft~~1",
+        "link": "https://www.homedepot.com/p/Glasliner-4-ft-x-8-ft-Light-Gray-090-in-Fiberglass-Reinforced-Wall-Panel-1-Pack-665041/202085623",
+        "item_id": "202085623"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Wall Paneling",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Wall-Paneling/N-5yc1vZbqp3"
+      },
+      {
+        "name": "Decorative Wall Paneling",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Wall-Paneling-Decorative-Wall-Paneling/N-5yc1vZbqpj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 42.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 85
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5860",
+          "in_stock": true,
+          "stock_level": 1771,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

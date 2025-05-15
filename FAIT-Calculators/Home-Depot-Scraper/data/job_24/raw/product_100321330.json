@@ -1,0 +1,235 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14205,
+    "overage_used": 4205,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM620-15-32-in-D-x-4-1-4-in-W-Primed-Medium-Density-Fiberboard-MDF-Baseboard-Molding-10001003/100321330"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:13.172Z",
+    "processed_at": "2025-05-01T18:20:20.101Z",
+    "total_time_taken": 6.93,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM620-15-32-in-D-x-4-1-4-in-W-Primed-Medium-Density-Fiberboard-MDF-Baseboard-Molding-10001003/100321330"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM620-15-32-in-D-x-4-1-4-in-W-Primed-Medium-Density-Fiberboard-MDF-Baseboard-Molding-10001003/100321330",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Woodgrain-Millwork/N-5yc1vZcbjpZ7c8",
+    "title": "Woodgrain Millwork LWM620 - 15/32 in. D x 4-1/4 in. W Primed Medium Density Fiberboard (MDF) Baseboard Molding",
+    "upc": "095624102230",
+    "item_id": "100321330",
+    "parent_id": "325326207",
+    "store_sku": "338872",
+    "model_number": "10001003",
+    "description": "The Woodgrain Millwork 15/32 in. x 4-1/4 in. LWM620 Primed MDF base is the perfect addition to dress up any room. The Woodgrain Millwork Primed MDF LWM620 base is used cover any imperfections where floor and wall meet. Base Molding can also be used as starter point for a more elaborate built up base boards. Combing other moldings with this base can create looks that range from classic to elegant.",
+    "is_top_rated": true,
+    "favorite_count": 141,
+    "aisle": "FW",
+    "bay": "017",
+    "feature_bullets": [
+      "Features a pre-primed surface that is easy to paint",
+      "Superior design that adds beauty to your home interiors",
+      "Accurately install using woodworking tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent pre-primed surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex or oil based paint",
+      "A great foundation for any room, can be paired with any style of casing",
+      "A classic pattern that works with any style",
+      "Installs with common woodworking tools",
+      "For interior use only",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ee98ec39-df74-4cf0-956b-886849587069/svn/white-woodgrain-millwork-baseboard-10001003-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-baseboard-10001003-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ee98ec39-df74-4cf0-956b-886849587069/svn/white-woodgrain-millwork-baseboard-10001003-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 166,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "620"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.472 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.25 in"
+      }
+    ],
+    "keywords_list": [
+      "base moulding",
+      "fiberboard base moulding",
+      "base mouldings",
+      "fiberboard base mouldings",
+      "building supply",
+      "fiberboard building supply",
+      "building supplies",
+      "fiberboard building supplies"
+    ],
+    "keywords": "base moulding, fiberboard base moulding, base mouldings, fiberboard base mouldings, building supply, fiberboard building supply, building supplies, fiberboard building supplies",
+    "variants": [
+      {
+        "title": "White~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-618-9-16-in-x-5-1-4-in-Primed-Finger-Jointed-Base-Molding-10000553/100321417",
+        "item_id": "100321417"
+      },
+      {
+        "title": "White~~16 ft~~Wood~~5",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-618-9-16-in-x-5-1-4-in-x-192-in-Prime-Finger-Jointed-Propack-Base-Molding-5-Piece-10033481/305912541",
+        "item_id": "305912541"
+      },
+      {
+        "title": "White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM-620-1-2-in-x-4-1-4-in-Primed-Medium-Density-Fiberboard-Base-Moulding-10001003/205982240",
+        "item_id": "205982240"
+      },
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM620-15-32-in-x-4-1-4-in-x-96-in-Primed-Medium-Density-Fiberboard-Base-Moulding-10004443/206178797",
+        "item_id": "206178797"
+      },
+      {
+        "title": "White~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM620-15-32-in-D-x-4-1-4-in-W-Primed-Medium-Density-Fiberboard-MDF-Baseboard-Molding-10001003/100321330",
+        "item_id": "100321330"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.06,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1279
+        }
+      }
+    }
+  }
+}

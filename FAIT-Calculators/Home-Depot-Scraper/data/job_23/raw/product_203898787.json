@@ -1,0 +1,246 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14287,
+    "overage_used": 4287,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-620-9-16-in-x-4-1-4-in-x-96-in-Primed-Finger-Jointed-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001955/203898787"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:24:39.436Z",
+    "processed_at": "2025-05-01T18:24:45.648Z",
+    "total_time_taken": 6.21,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-620-9-16-in-x-4-1-4-in-x-96-in-Primed-Finger-Jointed-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001955/203898787"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-620-9-16-in-x-4-1-4-in-x-96-in-Primed-Finger-Jointed-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001955/203898787",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Woodgrain-Millwork/N-5yc1vZcbjpZ7c8",
+    "title": "Woodgrain Millwork 620 9/16 in. x  4 1/4 in. x  96 in. Primed Finger Jointed Baseboard Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "095624517720",
+    "item_id": "203898787",
+    "parent_id": "324384193",
+    "store_sku": "1000376006",
+    "model_number": "10001955",
+    "description": "The Woodgrain Millwork 9/16 in. x 4-1/4 in. x 96 in. Primed Finger-Jointed WM620 Base is used cover any imperfections where floor and wall meet. Primed Finger-Jointed WM620 base moulding can also be used as starter point for a more elaborate built up base boards. Combing other mouldings with this base can create looks that range from classic to elegant.",
+    "favorite_count": 608,
+    "feature_bullets": [
+      "Covers imperfections where floors meet walls",
+      "Smooth, knot-free surface",
+      "Paintable"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots",
+      "Can be painted with any high quality latex or oil based paint",
+      "Can be paired with a matching casing and crown for a more unified look",
+      "A classic pattern that works with any style"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bbb2122d-39d5-42e1-ab14-58aed9646e90/svn/white-woodgrain-millwork-baseboard-10001955-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-baseboard-10001955-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cbb6b51a-6ceb-4957-bac1-a07aa95a7e0e/svn/white-woodgrain-millwork-baseboard-10001955-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bbb2122d-39d5-42e1-ab14-58aed9646e90/svn/white-woodgrain-millwork-baseboard-10001955-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/2dabc00a-1090-4366-a433-4d8d5cfe02bc/153469aa-f2ec-445d-853c-b2f67ff134b7/main.mp4?fastly_token=NjgzODI3NTlfMDFjM2MwZGYwYzFiZWY5ZWU1OTNjYjk3OWJjNjdkYmUzMDdlOTIzNzMwZDMzOWQyNjJiNDRhNGQwYTAxYWQ4YV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yZGFiYzAwYS0xMDkwLTQzNjYtYTQzMy00ZDhkNWNmZTAyYmMvMTUzNDY5YWEtZjJlYy00NDVkLTg1M2MtYjJmNjdmZjEzNGI3L21haW4ubXA0&pubid=66036796001",
+        "title": "Creating a sophisticated Crown Moulding Build Up ",
+        "id": "3331326959001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/2dabc00a-1090-4366-a433-4d8d5cfe02bc/a0f06437-619d-4fb6-a347-72f5103d69dc/160x90/match/image.jpg?pubId=66036796001",
+        "description": "By combining base moulding and crown moulding, you create a great looking crown moulding that matches most decors."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 428,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "620"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.25 in"
+      }
+    ],
+    "keywords_list": [
+      "Woodgrain Millwork",
+      "WM 620 9/16 in. x 4-1/4 in. x 96 in. Prime Finger-Jointed Wood Base Moulding",
+      "109616"
+    ],
+    "keywords": "Woodgrain Millwork, WM 620 9/16 in. x 4-1/4 in. x 96 in. Prime Finger-Jointed Wood Base Moulding, 109616",
+    "variants": [
+      {
+        "title": "White~~1 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM620-9-16-in-x-4-1-4-in-x-192-in-Primed-Finger-Jointed-Pine-Base-Moulding-10000555/100321371",
+        "item_id": "100321371"
+      },
+      {
+        "title": "White~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-620-9-16-in-x-4-1-4-in-x-96-in-Primed-Finger-Jointed-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001955/203898787",
+        "item_id": "203898787"
+      },
+      {
+        "title": "White~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM-620-9-16-in-x-4-1-4-in-x-192-in-Primed-Pine-Finger-Jointed-Base-Moulding-10000555F/313759572",
+        "item_id": "313759572"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 17.92,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 940,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 940,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

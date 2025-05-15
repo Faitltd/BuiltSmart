@@ -1,0 +1,278 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12682,
+    "overage_used": 2682,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Delta-Classic-500-60-in-W-x-61-25-in-H-x-32-in-D-3-Piece-Direct-to-Stud-Alcove-Bathtub-Shower-Surrounds-in-High-Gloss-White-B23205-6032-WH/321014279"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:28:21.552Z",
+    "processed_at": "2025-05-01T13:28:33.511Z",
+    "total_time_taken": 11.96,
+    "homedepot_url": "https://www.homedepot.com/p/Delta-Classic-500-60-in-W-x-61-25-in-H-x-32-in-D-3-Piece-Direct-to-Stud-Alcove-Bathtub-Shower-Surrounds-in-High-Gloss-White-B23205-6032-WH/321014279"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Delta-Classic-500-60-in-W-x-61-25-in-H-x-32-in-D-3-Piece-Direct-to-Stud-Alcove-Bathtub-Shower-Surrounds-in-High-Gloss-White-B23205-6032-WH/321014279",
+    "brand": "Delta",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bathtubs-Tub-Surrounds/Delta/N-5yc1vZbzakZg2",
+    "title": "Delta Classic 500 60 in. W x 61.25 in. H x 32 in. D 3-Piece Direct-to-Stud Alcove Bathtub/Shower Surrounds in High Gloss White",
+    "upc": "195205025436",
+    "item_id": "321014279",
+    "parent_id": "320090142",
+    "store_sku": "1008011265",
+    "model_number": "B23205-6032-WH",
+    "description": "Delta Classic 500 alcove bathing systems are designed for easy installation with unique details for a better experience every day, from an invigorating shower in the morning to a relaxing soak at night. Choose bathtubs and coordinating shower walls in timeless designs to customize your bath. Add a Delta shower available in a variety of styles and finishes for a curated look from top to bottom. You can install with confidence, knowing that our bathing products come with a comprehensive warranty.",
+    "is_bestseller": true,
+    "is_top_rated": true,
+    "aisle": "36",
+    "bay": "009",
+    "collection": {
+      "id": "Family-321496282",
+      "name": "Family-321496282",
+      "link": "https://www.homedepot.com/collection/Bath/Delta-Classic-500-Bathing-Collection/Family-321496282?omsid=321014279"
+    },
+    "feature_bullets": [
+      "3-piece alcove bath tub wall surround installs direct to stud",
+      "Caulkless design simplifies installation; reduces risk of leaks",
+      "Bathtub wall includes 7 built-in shelves for maximum storage"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Built-in shelves provide generous storage space, making it easy to keep bathing essentials organized",
+      "Accessory ledge at the top of the wall provides secure storage for rings, razors and other items, helping to keep them beyond children's reach and out of the general splash zone",
+      "3-piece wall set design (back wall and two side walls) is easy to transport and install",
+      "<a href=\"https://www.homedepot.com/p/Delta-Classic-500-60-in-Left-Drain-Rectangular-Alcove-Bathtub-in-High-Gloss-White-B23605-6032L-WH/321016477\" target=\"_blank\" style=\"color:#F96302;\">Pairs exclusively with Delta Classic 500 60 in. x 32 in. bathtub (sold separately)</a>",
+      "Bright white, acrylic surface is durable and easy to clean",
+      "Caulkless design simplifies installation and reduces the risk of leaks",
+      "Direct-to-stud installation with built-in nailing flanges creates a secure, long-lasting connection to the wall",
+      "With no rough fiberglass backing, material is easy to handle",
+      "Add the finishing touch with a Delta tub faucet and shower available in a variety of styles and finishes to personalize your bath",
+      "10-year limited warranty for residential use (1-year for commercial applications)",
+      "<a href=\"https://www.homedepot.com/b/Delta/N-5yc1vZg2\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop more Delta products</a>"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bd278ba5-7ab3-4fb5-9771-2fb4569a156f/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/efa02967-2025-4405-af2e-badc69d531a2/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/66cd4bad-3a9d-422e-8930-ab95d177e8b3/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0d4e7378-5eab-4aef-9789-51673b63c265/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/37a5cde9-cc8f-4e4d-96ec-5c9d42109753/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a6413ff2-2e8b-4ee8-a3f2-2cd650715fc0/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/28b93c25-63d9-480d-b097-8577979de2af/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5935c369-28fc-4a37-b08b-d4aaaff89a1d/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c86835c1-3277-4345-b204-897b7b228f64/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/23a67046-50d2-441e-b1ad-5bf683ca5f4d/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9a6c5b05-4150-4751-b4c5-fdbbdd2dc169/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8c1ecfed-5773-442e-8917-6d6093f49493/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/62ba501d-be26-449b-844d-ea867872d436/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/17a2358a-6a99-49de-bbb1-7eed7c2cc1a2/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bd278ba5-7ab3-4fb5-9771-2fb4569a156f/svn/high-gloss-white-delta-tub-surrounds-b23205-6032-wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/97391672-2cc7-435f-8077-c832d611a256/72747ead-acbc-46de-b801-0a7dc8b88339/main.mp4?fastly_token=NjgzODJlYjhfMzg1ZThhN2VhZjI5ZjgzMmYwYzcxYjgzNTZkNWUzMzNmMGM2ZTBhYTJhNGE3OGZjYjI0ZjY5YjM3OGYxY2NiYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS85NzM5MTY3Mi0yY2M3LTQzNWYtODA3Ny1jODMyZDYxMWEyNTYvNzI3NDdlYWQtYWNiYy00NmRlLWI4MDEtMGE3ZGM4Yjg4MzM5L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install the Delta\u00ae Classic 500 Tub Wall Set (60x32)_eCom",
+        "id": "6309933071112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/97391672-2cc7-435f-8077-c832d611a256/main/160x90/13m43s29ms/match/image.jpg?pubId=66036796001",
+        "description": "How to Install the Delta\u00ae Classic 500 Tub Wall Set (60x32)_eCom"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/745bdc1c-8bb6-4412-a195-4ff3ec16f0e2/b87a6a18-a1a5-40ab-a274-6e9443ad0623/main.mp4?fastly_token=NjgzODI3ZTdfZWNhOGRlM2RiNWM5OWZmZmY0YjAzMWVjNzk0MjcxYTI3MTcxODIzNzNhZDRlMzNmYjBiY2M1ZTQ5MDJhYmQxZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83NDViZGMxYy04YmI2LTQ0MTItYTE5NS00ZmYzZWMxNmYwZTIvYjg3YTZhMTgtYTFhNS00MGFiLWEyNzQtNmU5NDQzYWQwNjIzL21haW4ubXA0&pubid=66036796001",
+        "title": "PRODUCT_B23205_6032_WH",
+        "id": "6310034917112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/745bdc1c-8bb6-4412-a195-4ff3ec16f0e2/main/160x90/39s18ms/match/image.jpg?pubId=66036796001",
+        "description": "Features of the Delta Classic 500 Bathtub Wall Set"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 222,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "High Gloss White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Construction",
+        "value": "Three piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polystyrene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "50 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shower Type",
+        "value": "Tub"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Type",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wall Installation Type",
+        "value": "Direct-to-stud"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Bathtub/Shower and Shower Unit 10-year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "32 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Height (in.)",
+        "value": "61.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Width (in.)",
+        "value": "60"
+      }
+    ],
+    "variants": [
+      {
+        "title": "High Gloss White~~60 x 30",
+        "link": "https://www.homedepot.com/p/Delta-Classic-500-60-in-W-x-61-25-in-H-x-30-in-D-3-Piece-Direct-to-Stud-Alcove-Bathtub-Shower-Surrounds-in-High-Gloss-White-B23205-6030-WH/321014464",
+        "item_id": "321014464"
+      },
+      {
+        "title": "High Gloss White~~60 x 32",
+        "link": "https://www.homedepot.com/p/Delta-Classic-500-60-in-W-x-61-25-in-H-x-32-in-D-3-Piece-Direct-to-Stud-Alcove-Bathtub-Shower-Surrounds-in-High-Gloss-White-B23205-6032-WH/321014279",
+        "item_id": "321014279"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bathtubs",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs/N-5yc1vZbzb7"
+      },
+      {
+        "name": "Tub Surrounds",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs-Tub-Surrounds/N-5yc1vZbzak"
+      }
+    ],
+    "buybox_winner": {
+      "price": 379,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 33,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 271,
+          "price": 55,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

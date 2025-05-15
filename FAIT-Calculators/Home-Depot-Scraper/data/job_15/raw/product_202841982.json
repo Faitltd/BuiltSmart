@@ -1,0 +1,231 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13966,
+    "overage_used": 3966,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-1-1-4-in-x-96-in-White-Hardwood-Embossed-Floral-Moulding-419-8WHW/202841982"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:49:23.302Z",
+    "processed_at": "2025-05-01T17:49:28.147Z",
+    "total_time_taken": 4.84,
+    "homedepot_url": "https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-1-1-4-in-x-96-in-White-Hardwood-Embossed-Floral-Moulding-419-8WHW/202841982"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-1-1-4-in-x-96-in-White-Hardwood-Embossed-Floral-Moulding-419-8WHW/202841982",
+    "brand": "Ornamental Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/Ornamental-Mouldings/N-5yc1vZcbjjZ2js",
+    "title": "Ornamental Mouldings 5/16 in. x 1-1/4 in. x 96 in. White Hardwood Embossed Floral Moulding",
+    "upc": "009215008238",
+    "item_id": "202841982",
+    "parent_id": "327515255",
+    "store_sku": "745856",
+    "model_number": "419-8WHW",
+    "description": "The 8 ft. x 1-1/4 in. x 5/16 in. natural embossed hardwood floral moulding can be used to add a decorative accent to your home. The durable hardwood moulding features an elegant floral design and accepts paint or stain to match your existing decor. It is also a great moulding for craft projects.",
+    "favorite_count": 293,
+    "feature_bullets": [
+      "Hardwood construction is durable and offers long-lasting use",
+      "Embossed and floral design adds a stylish accent to your decor",
+      "Perfect finishing solution for cabinets, walls, and furniture"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Use as a finishing trim for cabinets, walls or furniture",
+      "Add a cheery embellishment to wooden picture and mirror frames or toy boxes",
+      "Use it in combination with other mouldings to create the effect of a larger moulding",
+      "96 in. length",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/34b0346e-ed65-4cd4-8a4b-c7646fb2f981/svn/unfinished-ornamental-mouldings-chair-rail-419-8whw-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9bf31fc8-88a0-43cc-a022-9d8c59baea36/svn/unfinished-ornamental-mouldings-chair-rail-419-8whw-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9ca27cf8-25a3-4e85-94e4-ac5becd57dd9/svn/unfinished-ornamental-mouldings-chair-rail-419-8whw-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/34b0346e-ed65-4cd4-8a4b-c7646fb2f981/svn/unfinished-ornamental-mouldings-chair-rail-419-8whw-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 53,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Floral"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Chair Rail Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "419"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.313 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.25 in"
+      }
+    ],
+    "keywords_list": [
+      "8 ft. x 1-1/4 in. x 5/16 in. Natural Embossed Hardwood Floral Moulding",
+      "419-8WHW"
+    ],
+    "keywords": "8 ft. x 1-1/4 in. x 5/16 in. Natural Embossed Hardwood Floral Moulding, 419-8WHW",
+    "variants": [
+      {
+        "title": "Unfinished~~8 ft",
+        "link": "https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-1-1-4-in-x-96-in-White-Hardwood-Embossed-Floral-Moulding-419-8WHW/202841982",
+        "item_id": "202841982"
+      },
+      {
+        "title": "Unfinished~~3.96 ft",
+        "link": "https://www.homedepot.com/p/Ornamental-Mouldings-419-4WHW-312-in-D-X-1-25-in-W-X-47-5-in-L-Unfinished-White-Hardwood-Flower-Blossom-Embossed-Chair-Rail-Moulding-419-4WHW/325612930",
+        "item_id": "325612930"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Chair Rail",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/N-5yc1vZcbjj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 9.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 948,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 948,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

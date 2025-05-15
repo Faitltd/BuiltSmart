@@ -1,0 +1,201 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14366,
+    "overage_used": 4366,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TimberTech-Classic-1-in-x-6-in-x-16-ft-Classic-Gray-Grooved-Edge-Composite-Decking-Board-TTGV5416GY/324108936"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:28:48.694Z",
+    "processed_at": "2025-05-01T18:29:31.665Z",
+    "total_time_taken": 42.97,
+    "homedepot_url": "https://www.homedepot.com/p/TimberTech-Classic-1-in-x-6-in-x-16-ft-Classic-Gray-Grooved-Edge-Composite-Decking-Board-TTGV5416GY/324108936"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TimberTech-Classic-1-in-x-6-in-x-16-ft-Classic-Gray-Grooved-Edge-Composite-Decking-Board-TTGV5416GY/324108936",
+    "brand": "TimberTech",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/TimberTech/N-5yc1vZc5mbZ7u7",
+    "title": "TimberTech Classic 1 in. x 6 in. x 16 ft. Classic Gray Grooved Edge Composite Decking Board",
+    "upc": "683531048804",
+    "item_id": "324108936",
+    "parent_id": "324809071",
+    "store_sku": "1009095554",
+    "model_number": "TTGV5416GY",
+    "description": "Stop spending your weekends sanding, staining, and sealing your wood deck. Upgrade to attainable, attractive capped composite decking and enjoy low-maintenance outdoor living. Plus, with a rich hue and cathedral wood grain, you'll enjoy the real wood look you love, without the drawbacks like fading, cracking, or splintering.",
+    "feature_bullets": [
+      "Real wood look with a rich brown hue and cathedral wood grain.",
+      "Superior moisture resistance with 3-sided polymer capping.",
+      "Protected by 25-Year Product and Fade & Stain Warranties."
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Covered by a 25-year product warranty and 25-year fade and stain warranty",
+      "Superior durability compared with traditional wood thanks to engineering with advanced materials science",
+      "No fake, plastic look, but features a rich gray hue and a cathedral grain pattern for an authentic stained wood visual",
+      "Enhanced moisture resistance thanks to a 100% polymer, 3-sided cap that extends inside the grooves of grooved-shoulder boards",
+      "Composite decking made of 85% recycled material, including 100% recycled wood fibers, plus discarded plastics like bags and milk jugs for a sustainable, eco-friendly choice",
+      "Stays beautiful for decades to come with fade- and stain-resistant technology that locks in rich color and prevents discoloration",
+      "Extremely low maintenance, needing only an occasional scrub and rinse with the appropriate brush and cleaner (see care and cleaning guide for details)",
+      "Hidden clip fasteners for grooved-shoulder composite deck boards provide a clean, fastener-free surface (fasteners sold separately)",
+      "Requires no special tools for installation, regardless of fastener choice (see decking installation guide for more details)",
+      "<a href=\"https://www.homedepot.com/p/TimberTech-EDGELoc-for-Composite-55-sq-ft-96-EdgeLoc-Glass-Filled-Nylon-Fasteners-with-96-Preset-305SS-Screws-and-T15-Drive-Bit-ELOC55/324324096\" target=\"_blank\" style=\"color:#F96302;\">Get Your Fastener Here!</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Deck-Board-Samples/TimberTech/N-5yc1vZc6ljZ7u7\" target=\"_blank\" style=\"color:#F96302;\">Shop All TimberTech Deck Board Color Samples</a>"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e14d3e9d-06c0-4c00-8766-64a617c84641/svn/classic-gray-timbertech-composite-decking-boards-ttgv5416gy-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e45b415e-1f07-4e8b-8b25-57797774f347/svn/classic-gray-timbertech-composite-decking-boards-ttgv5416gy-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/260479f6-87c7-455d-82c1-2c218772fca6/svn/classic-gray-timbertech-composite-decking-boards-ttgv5416gy-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e53599b8-6ac7-481c-b232-4f4cc0a62389/svn/classic-gray-timbertech-composite-decking-boards-ttgv5416gy-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2178d453-8fa4-4860-8ae6-0189eda3081c/svn/classic-gray-timbertech-composite-decking-boards-ttgv5416gy-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19c74a4c-e340-4abb-8d15-5d42e829cd83/svn/classic-gray-timbertech-composite-decking-boards-ttgv5416gy-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d749631-9de8-4960-8297-11bb546aa523/svn/classic-gray-timbertech-composite-decking-boards-ttgv5416gy-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e14d3e9d-06c0-4c00-8766-64a617c84641/svn/classic-gray-timbertech-composite-decking-boards-ttgv5416gy-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 26,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Classic Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "CONCEALoc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25-Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "34"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Classic Gray~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/TimberTech-Classic-1-in-x-6-in-x-16-ft-Classic-Gray-Grooved-Edge-Composite-Decking-Board-TTGV5416GY/324108936",
+        "item_id": "324108936"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 27.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "square foot"
+    }
+  }
+}

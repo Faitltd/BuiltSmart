@@ -1,0 +1,535 @@
+/* Custom styles for Lowe's Scraper - 8-bit Blue & White Theme */
+
+/* Import 8-bit font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+/* Lowe's 8-bit Logo - Blue Bucket */
+.lowes-logo {
+    width: 50px;
+    height: 50px;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF8WlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjMtMDQtMjlUMTI6MzQ6MTAtMDQ6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIzLTA0LTI5VDEyOjM1OjI3LTA0OjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIzLTA0LTI5VDEyOjM1OjI3LTA0OjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFmNWY5ZDM5LTk5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');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    image-rendering: pixelated;
+}
+
+/* Global 8-bit styling */
+body {
+    font-family: 'Press Start 2P', cursive;
+    color: #fff;
+    background-color: #000;
+    image-rendering: pixelated;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAEklEQVQImWNgYGD4z0AswK4SAFXuAf8EPy+xAAAAAElFTkSuQmCC');
+    background-repeat: repeat;
+}
+
+/* Custom brand colors - Lowe's Blue & White */
+.bg-primary {
+    background-color: #0052cc !important; /* Lowe's Blue */
+}
+
+.btn-primary {
+    background-color: #0052cc; /* Lowe's Blue */
+    border-color: #000;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    border-width: 4px;
+    box-shadow: 4px 4px 0 #000;
+    transition: all 0.1s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0066ff;
+    border-color: #000;
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 #000;
+    color: #fff;
+}
+
+/* Hide search options by default */
+.search-options {
+    display: none;
+}
+
+/* Log messages styling */
+.log-message {
+    margin-bottom: 5px;
+    line-height: 1.4;
+}
+
+/* Status line styling */
+.status-line {
+    font-family: 'Press Start 2P', cursive;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.5;
+    font-size: 0.8rem;
+    color: #0052cc;
+}
+
+#live-status {
+    border-left: 4px solid #000;
+    padding-left: 10px;
+}
+
+/* Detailed live log styling */
+#detailed-live-log {
+    border-left: 4px solid #0052cc;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.7rem;
+}
+
+.detailed-log-line {
+    font-family: 'Courier New', monospace;
+    line-height: 1.5;
+    margin-bottom: 3px;
+    white-space: pre-wrap;
+    word-break: break-all;
+    padding: 2px 0;
+    border-bottom: 1px dotted rgba(0, 82, 204, 0.2);
+}
+
+/* Log message type styling */
+.log-page {
+    color: #00ffff !important;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.log-url {
+    color: #ff9d7d !important;
+    font-weight: bold;
+}
+
+.log-fetch {
+    color: #fd67a3 !important;
+    font-weight: bold;
+}
+
+.log-success {
+    color: #00ff00 !important;
+    font-weight: bold;
+}
+
+.log-error {
+    color: #ff0000 !important;
+    font-weight: bold;
+}
+
+.log-warning {
+    color: #ffff00 !important;
+    font-weight: bold;
+}
+
+.log-data {
+    color: #00ffff !important;
+}
+
+/* Blinking animation for LIVE badge */
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}
+
+.blink {
+    animation: blink 1.5s linear infinite;
+}
+
+/* Footer styling */
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Card styling - 8-bit style */
+.card {
+    border: 4px solid #0052cc; /* Lowe's Blue */
+    margin-bottom: 20px;
+    box-shadow: 8px 8px 0 rgba(0, 82, 204, 0.3);
+    background-color: #000;
+    image-rendering: pixelated;
+}
+
+.card-header {
+    font-weight: bold;
+    border-bottom: 4px solid #0052cc; /* Lowe's Blue */
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+.card-header.bg-primary {
+    color: #fff;
+    text-shadow: 2px 2px 0 #000;
+    background-color: #0052cc !important; /* Lowe's Blue */
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+/* Progress bar styling - 8-bit style */
+.progress {
+    height: 30px;
+    border: 4px solid #0052cc; /* Lowe's Blue */
+    background-color: #000;
+    padding: 0;
+    overflow: hidden;
+}
+
+.progress-bar {
+    line-height: 22px;
+    font-weight: bold;
+    background-color: #0052cc; /* Lowe's Blue */
+    color: #fff;
+    text-shadow: 1px 1px 0 #000;
+}
+
+/* Table styling */
+.table-responsive {
+    overflow-x: auto;
+}
+
+.table {
+    color: #fff;
+    border: 4px solid #0052cc; /* Lowe's Blue */
+}
+
+.table thead th {
+    background-color: #0052cc; /* Lowe's Blue */
+    color: #fff;
+    border-bottom: 4px solid #000;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+.table tbody tr {
+    border-bottom: 2px solid #0052cc; /* Lowe's Blue */
+}
+
+.table tbody tr:hover {
+    background-color: rgba(0, 82, 204, 0.2);
+}
+
+/* Form styling - 8-bit style */
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    color: #0052cc; /* Lowe's Blue */
+}
+
+.form-control {
+    border: 3px solid #0052cc; /* Lowe's Blue */
+    border-radius: 0;
+    padding: 0.5rem;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.7rem;
+}
+
+.form-control:focus {
+    border-color: #0066ff; /* Lighter blue */
+    box-shadow: 4px 4px 0 rgba(0, 82, 204, 0.25);
+    outline: none;
+}
+
+select.form-control {
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%230052cc' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.5rem center;
+    padding-right: 2rem;
+}
+
+/* Navbar styling - 8-bit style */
+.navbar-dark.bg-dark {
+    background-color: #000 !important;
+    border-bottom: 4px solid #0052cc;
+}
+
+.navbar-brand {
+    color: #0052cc !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    text-shadow: 2px 2px 0 #000;
+}
+
+.nav-link {
+    color: #fff !important;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    padding: 0.5rem 1rem !important;
+    margin: 0 0.5rem;
+    border: 3px solid #0052cc; /* Lowe's Blue */
+    background-color: #000;
+    box-shadow: 3px 3px 0 #000;
+    transition: all 0.1s ease;
+}
+
+.nav-link:hover {
+    background-color: #0052cc; /* Lowe's Blue */
+    color: #fff !important;
+    transform: translate(2px, 2px);
+    box-shadow: 1px 1px 0 #000;
+}
+
+/* Button styling - 8-bit style */
+.btn {
+    font-family: 'Press Start 2P', cursive;
+    text-transform: uppercase;
+    border-width: 3px;
+    border-radius: 0;
+    box-shadow: 4px 4px 0 #000;
+    transition: all 0.1s ease;
+    font-size: 0.7rem;
+    padding: 0.5rem 1rem;
+}
+
+.btn:hover {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 #000;
+}
+
+.btn-secondary {
+    background-color: #0052cc;
+    border-color: #000;
+    color: #fff;
+}
+
+.btn-secondary:hover {
+    background-color: #0066ff;
+    border-color: #000;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #000;
+    color: #fff;
+}
+
+.btn-danger:hover {
+    background-color: #e04553;
+    border-color: #000;
+    color: #fff;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #000;
+    color: #fff;
+}
+
+.btn-success:hover {
+    background-color: #34b350;
+    border-color: #000;
+    color: #fff;
+}
+
+/* Directory validation feedback */
+.valid-feedback {
+    display: block;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 0.875em;
+    color: #198754;
+}
+
+.invalid-feedback {
+    display: block;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 0.875em;
+    color: #dc3545;
+}
+
+.is-valid {
+    border-color: #198754;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23198754' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem);
+}
+
+.is-invalid {
+    border-color: #dc3545;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12' fill='none' stroke='%23dc3545'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem);
+}
+
+/* Custom CSV Headers styling - 8-bit Lowe's Theme */
+#csvHeadersCollapse .table {
+    border: 4px solid #0052cc; /* Lowe's Blue */
+    overflow: hidden;
+    box-shadow: 8px 8px 0 rgba(0, 82, 204, 0.3);
+    background-color: #000;
+}
+
+#csvHeadersCollapse .table-dark th {
+    background-color: #0052cc !important; /* Lowe's Blue */
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+    font-size: 0.7rem;
+    padding: 12px;
+    text-align: left;
+    text-transform: uppercase;
+    border-bottom: 4px solid #000;
+}
+
+#csvHeadersCollapse .table td {
+    vertical-align: middle;
+    padding: 10px 12px;
+    border-bottom: 2px solid #0052cc; /* Lowe's Blue */
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.7rem;
+    color: #fff;
+}
+
+#csvHeadersCollapse .form-control {
+    border: 3px solid #0052cc; /* Lowe's Blue */
+    border-radius: 0;
+    padding: 8px 12px;
+    background-color: #000;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.7rem;
+}
+
+#csvHeadersCollapse .form-control:focus {
+    border-color: #0066ff; /* Lighter blue */
+    box-shadow: 4px 4px 0 rgba(0, 82, 204, 0.25);
+    outline: none;
+}
+
+#csvHeadersCollapse .btn-secondary {
+    background-color: #0052cc; /* Lowe's Blue */
+    border: 4px solid #000;
+    border-radius: 0;
+    padding: 10px 20px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    box-shadow: 4px 4px 0 #000;
+    transition: all 0.1s ease;
+    color: #fff;
+}
+
+#csvHeadersCollapse .btn-secondary:hover {
+    background-color: #0066ff; /* Lighter blue */
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 #000;
+}
+
+#csvHeadersCollapse .alert-info {
+    background-color: #000;
+    border: 4px solid #0052cc; /* Lowe's Blue */
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.7rem;
+    padding: 12px;
+    box-shadow: 4px 4px 0 rgba(0, 82, 204, 0.3);
+}
+
+/* Download button styling */
+.download-btn {
+    font-size: 1.2rem !important;
+    padding: 0.75rem 1.5rem !important;
+    width: auto !important;
+    display: inline-block !important;
+    margin: 1rem auto !important;
+    text-align: center !important;
+    background-color: #0052cc !important; /* Lowe's Blue */
+    border-color: #000 !important; /* Black border */
+    color: #fff !important;
+    box-shadow: 6px 6px 0 #000 !important;
+    border-radius: 0 !important; /* Square corners for 8-bit look */
+    font-weight: bold !important;
+    letter-spacing: 1px !important;
+    transition: all 0.2s ease !important;
+    text-transform: uppercase !important;
+    font-family: 'Press Start 2P', cursive !important;
+    border-width: 4px !important;
+}
+
+.download-btn:hover {
+    background-color: #0066ff !important; /* Slightly lighter on hover */
+    transform: translate(2px, 2px) !important;
+    box-shadow: 4px 4px 0 #000 !important;
+}
+
+/* Smaller download button for jobs table */
+.table-download-btn {
+    font-size: 0.7rem !important;
+    padding: 0.5rem 0.75rem !important;
+    width: auto !important;
+    display: inline-block !important;
+    margin: 0 !important;
+    text-align: center !important;
+    background-color: #0052cc !important; /* Lowe's Blue */
+    border-color: #000 !important; /* Black border */
+    color: #fff !important;
+    box-shadow: 3px 3px 0 #000 !important;
+    border-radius: 0 !important; /* Square corners for 8-bit look */
+    font-weight: bold !important;
+    letter-spacing: 1px !important;
+    transition: all 0.2s ease !important;
+    text-transform: uppercase !important;
+    font-family: 'Press Start 2P', cursive !important;
+    border-width: 3px !important;
+}
+
+.table-download-btn:hover {
+    background-color: #0066ff !important; /* Slightly lighter on hover */
+    transform: translate(1px, 1px) !important;
+    box-shadow: 2px 2px 0 #000 !important;
+}
+
+/* Jobs title styling */
+.jobs-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1rem;
+    color: #fff;
+    text-shadow: 2px 2px 0 #000;
+}
+
+/* Action buttons container */
+.action-buttons {
+    margin: 20px 0;
+}
+
+/* Switch to Home Depot button */
+.switch-scraper-btn {
+    background-color: #f96302 !important; /* Home Depot Orange */
+    color: #fff !important;
+    border: 4px solid #000 !important;
+    font-family: 'Press Start 2P', cursive !important;
+    font-size: 0.8rem !important;
+    padding: 10px 20px !important;
+    margin: 10px !important;
+    box-shadow: 4px 4px 0 #000 !important;
+    transition: all 0.1s ease !important;
+    text-transform: uppercase !important;
+}
+
+.switch-scraper-btn:hover {
+    background-color: #ff8533 !important;
+    transform: translate(2px, 2px) !important;
+    box-shadow: 2px 2px 0 #000 !important;
+}

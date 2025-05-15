@@ -1,0 +1,213 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14156,
+    "overage_used": 4156,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/RESO-RMB-518-9-16-in-D-x-5-1-4-in-W-x-96-in-L-Primed-Finger-Joined-Pine-Baseboard-Molding-1-Piece-8-ft-Total-RMB-5180-96-1/331257911"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:59:06.747Z",
+    "processed_at": "2025-05-01T17:59:12.400Z",
+    "total_time_taken": 5.65,
+    "homedepot_url": "https://www.homedepot.com/p/RESO-RMB-518-9-16-in-D-x-5-1-4-in-W-x-96-in-L-Primed-Finger-Joined-Pine-Baseboard-Molding-1-Piece-8-ft-Total-RMB-5180-96-1/331257911"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/RESO-RMB-518-9-16-in-D-x-5-1-4-in-W-x-96-in-L-Primed-Finger-Joined-Pine-Baseboard-Molding-1-Piece-8-ft-Total-RMB-5180-96-1/331257911",
+    "brand": "RESO",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/RESO/N-5yc1vZcbjpZv5s",
+    "title": "RESO RMB 518 9/16 in. D x 5-1/4 in. W x 96 in. L Primed Finger-Joined Pine Baseboard Molding 1-Piece 8 ft. Total",
+    "upc": "810123135844",
+    "item_id": "331257911",
+    "store_sku": "1012085727",
+    "model_number": "RMB-5180-96-1",
+    "description": "Enhance any room with the elegant touch of a RESCO casing. Expertly crafted finger-jointed molding, it not only offers reliable performance but also creating a tranquil atmosphere within your space. Its smooth surface comes fully prepared, primed and ready for your artistic touch. Transform it with the stroke of a brush into the color of your preference, breathing life and personality into your living space, reflecting your unique style and taste. Welcome guests with the striking presence of the RESCO casing, making a statement that resonates with elegance and grace, leaving them in awe of your carefully curated space. Experience the artistry and charm it adds to your home, elevating your surroundings to new heights of beauty and sophistication.",
+    "feature_bullets": [
+      "Made of finger-jointed pine for durability",
+      "Primed surface allows easy painting and customization",
+      "Easy installation with basic woodworking tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Crafted from durable finger joint pine, this molding guaranteed longevity and endurance over time",
+      "Premium quality ensures sustained performance, making it an ideal choice for lasting applications",
+      "Molding mounts with basic woodworking tools simple and secure, ready to adorn your space effortlessly",
+      "Primed surface awaits your strokes - paint your masterpiece",
+      "Surface is even and uniform, without any knots and is fully prepared for finishing"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b9499205-6092-4c0e-ac49-93b0f86cae62/svn/white-reso-baseboard-rmb-5180-96-1-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2ccf524f-5acf-4c4d-81a5-1b771a106081/svn/white-reso-baseboard-rmb-5180-96-1-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dd0dac0b-e38e-40fd-bd9f-b4a8092bf16a/svn/white-reso-baseboard-rmb-5180-96-1-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b9499205-6092-4c0e-ac49-93b0f86cae62/svn/white-reso-baseboard-rmb-5180-96-1-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 3,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Rust Resistant,Split Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Adhesive,Glue,Nail,Screw,Staple"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint,Paintable,Split Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "518"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.56 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 10.19,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 12.28,
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 160,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-09"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 160,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

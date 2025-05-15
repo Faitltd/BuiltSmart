@@ -1,0 +1,219 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13167,
+    "overage_used": 3167,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-100-11-16-in-x-11-16-in-x-96-in-FEMDF-Cove-Moulding-10005554/207043264"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:46:05.185Z",
+    "processed_at": "2025-05-01T13:46:08.976Z",
+    "total_time_taken": 3.79,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-100-11-16-in-x-11-16-in-x-96-in-FEMDF-Cove-Moulding-10005554/207043264"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-100-11-16-in-x-11-16-in-x-96-in-FEMDF-Cove-Moulding-10005554/207043264",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/FINISHED-ELEGANCE/N-5yc1vZcbjiZr98",
+    "title": "FINISHED ELEGANCE 100 11/16 in. x 11/16 in. x 96 in. FEMDF Cove Moulding",
+    "upc": "095624522021",
+    "item_id": "207043264",
+    "parent_id": "327768315",
+    "store_sku": "1001799291",
+    "model_number": "10005554",
+    "description": "The Finished Elegance 11/16 in. x 11/16 in. x 96 in. 100 FE Medium Density Fiberboard Cove Moulding is a concave profile used where walls meet ceilings. FE Medium Density Fiberboard 100 Cove Moulding is sometimes used in craftsman style mouldings due to it's simple lines. Smaller cove mouldings can also be used as an inside corner. Finished Elegance moulding and trim is completely finished with no painting required, so you can simply cut and install your new moulding - saving time and money. The superior durability of Finished Elegance moulding and trim also allows it to withstand years of wear and tear in your home. Use the complete solution of the color matched touch-up kit and caulk with your Finished Elegance installation to create a lasting impression for your entire room.",
+    "favorite_count": 129,
+    "feature_bullets": [
+      "Adds a touch of artistic richness to your decor",
+      "Useful at the junction of wall to ceiling",
+      "Easy to install and modify"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Simply nail to the wall and fill the holes for a perfect installation",
+      "Durable finish is resistant to scratches and dents",
+      "Don't forget the color matched caulk and fill stick",
+      "Classic small profile moulding useful in covering small gaps",
+      "Can also be used to accent shelving, cabinets or any other interior elements",
+      "For interior use only"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/555e05c9-f513-4d40-a5b0-3401e4bde23a/svn/white-finished-elegance-bed-cove-moulding-10005554-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-finished-elegance-bed-cove-moulding-10005554-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/555e05c9-f513-4d40-a5b0-3401e4bde23a/svn/white-finished-elegance-bed-cove-moulding-10005554-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 118,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Scratch Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Cove Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "100"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.688 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-100-11-16-in-x-11-16-in-x-96-in-FEMDF-Cove-Moulding-10005554/207043264",
+        "item_id": "207043264"
+      },
+      {
+        "title": "White~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-100-11-16-in-x-11-16-in-Finished-MDF-Cove-Moulding-Sold-by-Linear-Foot-10005574/207046798",
+        "item_id": "207046798"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Crown Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/N-5yc1vZcbji"
+      }
+    ],
+    "buybox_winner": {
+      "price": 11.73,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1939,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1939,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

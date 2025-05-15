@@ -1,0 +1,238 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13321,
+    "overage_used": 3321,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-3-8-in-Star-Drive-Exterior-Coated-Trim-Head-Deck-Elite-Hidden-Fastener-Deck-Screw-350-Pack-19238/330155292"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:53:24.321Z",
+    "processed_at": "2025-05-01T13:53:29.510Z",
+    "total_time_taken": 5.19,
+    "homedepot_url": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-3-8-in-Star-Drive-Exterior-Coated-Trim-Head-Deck-Elite-Hidden-Fastener-Deck-Screw-350-Pack-19238/330155292"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-3-8-in-Star-Drive-Exterior-Coated-Trim-Head-Deck-Elite-Hidden-Fastener-Deck-Screw-350-Pack-19238/330155292",
+    "brand": "GRK Fasteners",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Hardware-Hidden-Deck-Fasteners/GRK-Fasteners/N-5yc1vZc80lZ8ta",
+    "title": "GRK Fasteners #9 x 2-3/8 in. Star Drive Exterior Coated Trim Head Deck Elite Hidden Fastener Deck Screw (350-Pack)",
+    "upc": "092097192386",
+    "item_id": "330155292",
+    "parent_id": "331647949",
+    "store_sku": "1012076237",
+    "model_number": "19238",
+    "description": "GRK Deck Elite Hidden Deck Screws provide a premium aesthetic by eliminating the visibility on decking top boards. GRK's Drill Point Tip design allows for a smooth, fast drive while reducing splitting. The Dual Thread design delivers superior clamping for long-lasting, tight connections. GRK Deck Elite screws have a corrosion resistant coating to resist rust and keep decks looking like new.",
+    "feature_bullets": [
+      "GRK Deck Elite Hidden Fasteners for Unseen Deck Wood Fastening",
+      "GRK Deck Elite Hidden Fastening Wood Screws Pressure Treated Deck",
+      "GRK Hidden Fastening Screws with Corrosion Resistant Coating"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Trim head for low visibility",
+      "Dual thread form for superior hold",
+      "Drill point tip for fast start",
+      "Star drive head for zero stripping",
+      "6 points of contact, eliminates stripping",
+      "Treated lumber approved"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ef0dab38-28f0-4623-8b00-9c8bf85adb78/svn/grk-fasteners-hidden-deck-fasteners-19238-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6b05f7db-f4da-4ddf-b7e5-c47ce1abfe97/svn/grk-fasteners-hidden-deck-fasteners-19238-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f540378b-e56d-4ce9-89c6-341eb52b1c8b/svn/grk-fasteners-hidden-deck-fasteners-19238-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c30b734a-2e62-4cf2-a581-958e6d914483/svn/grk-fasteners-hidden-deck-fasteners-19238-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/343dc065-7d48-4d9e-9bff-a19a00afa2b8/svn/grk-fasteners-hidden-deck-fasteners-19238-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ef0dab38-28f0-4623-8b00-9c8bf85adb78/svn/grk-fasteners-hidden-deck-fasteners-19238-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/5f77b779-5f4f-4cc3-9744-30bd2381ef10/f7709b11-085e-4e51-8af1-f46baec8084b/main.mp4?fastly_token=NjgzODI2NWNfNjM5YzJlYmEzNTlkMTJmOGMxYmVlYTg5ZjZlY2JmZmYzOWFhOTQ5MjQ5OWU0MDY4NTUyZDEzN2Q4MDI1YjYwZF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81Zjc3Yjc3OS01ZjRmLTRjYzMtOTc0NC0zMGJkMjM4MWVmMTAvZjc3MDliMTEtMDg1ZS00ZTUxLThhZjEtZjQ2YmFlYzgwODRiL21haW4ubXA0&pubid=66036796001",
+        "title": "GRK Deck Elite AnglePro\u2122 Hidden Fastening System",
+        "id": "6359935512112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/5f77b779-5f4f-4cc3-9744-30bd2381ef10/main/160x90/23s232ms/match/image.jpg?pubId=66036796001",
+        "description": "The Deck Elite AnglePro guides Hidden Deck Elite Fasteners precisely between the gaps of each board leaving a perfect finish. The AnglePro Hidden Fastening System provides a premium aesthetic by eliminating the visibility of screws."
+      }
+    ],
+    "ratings_total": 6,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Chrome"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decking Hardware Type",
+        "value": "Hidden Deck Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number in Package",
+        "value": "350"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Product Weight (lb.)",
+        "value": "3.5"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual Product Height (in.)",
+        "value": "2.375"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual Product Width (in.)",
+        "value": "0.175 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual product length (in.)",
+        "value": "0.175 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Square Footage Coverage per Package (sq. ft.)",
+        "value": "0"
+      }
+    ],
+    "variants": [
+      {
+        "title": "350",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-3-8-in-Star-Drive-Exterior-Coated-Trim-Head-Deck-Elite-Hidden-Fastener-Deck-Screw-350-Pack-19238/330155292",
+        "item_id": "330155292"
+      },
+      {
+        "title": "200",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-3-8-in-Star-Drive-Stainless-Steel-Trim-Head-Deck-Elite-Hidden-Fastener-Deck-Screw-200-Pack-39238/330155393",
+        "item_id": "330155393"
+      },
+      {
+        "title": "100",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-9-x-2-3-8-in-Star-Drive-Exterior-Coated-Trim-Head-Deck-Elite-Hidden-Fastener-Deck-Screw-100-Pack-10923/330155219",
+        "item_id": "330155219"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Hardware",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Hardware/N-5yc1vZbqpr"
+      },
+      {
+        "name": "Hidden Deck Fasteners",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Hardware-Hidden-Deck-Fasteners/N-5yc1vZc80l"
+      }
+    ],
+    "buybox_winner": {
+      "price": 40.14,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 81,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 81,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

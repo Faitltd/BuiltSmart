@@ -1,0 +1,186 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14384,
+    "overage_used": 4384,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Tomahawk-Power-Tomahawk-30-in-Honda-Portable-Concrete-Power-Finishing-Trowel-with-18-ft-Bull-Float-Handle-1-6HP-GX35-Engine-JXPT30H/333392868"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:30:56.566Z",
+    "processed_at": "2025-05-01T18:31:32.467Z",
+    "total_time_taken": 35.9,
+    "homedepot_url": "https://www.homedepot.com/p/Tomahawk-Power-Tomahawk-30-in-Honda-Portable-Concrete-Power-Finishing-Trowel-with-18-ft-Bull-Float-Handle-1-6HP-GX35-Engine-JXPT30H/333392868"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Tomahawk-Power-Tomahawk-30-in-Honda-Portable-Concrete-Power-Finishing-Trowel-with-18-ft-Bull-Float-Handle-1-6HP-GX35-Engine-JXPT30H/333392868",
+    "brand": "Tomahawk Power",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Tools-Concrete-Trowels-Power-Trowels/Tomahawk-Power/N-5yc1vZ2fkp63iZg9h",
+    "title": "Tomahawk Power Tomahawk 30 in. Honda Portable Concrete Power Finishing Trowel with 18 ft. Bull Float Handle 1. 6HP GX35 Engine",
+    "upc": "850051459483",
+    "item_id": "333392868",
+    "store_sku": "1013174603",
+    "model_number": "JXPT30H",
+    "description": "Make Flat Work Less Work with Tomahawk Porta Trowels - leaving laborious hand-finishing tasks in the past, Easy to store, transport, and use, Tomahawk Porta Trowels are a game-changer in concrete finishing. Weighing less than 60 lbs., assembly is a breeze - simply connect up to 3 handles matching your slab size. No need to wait, The trowel's portable, lightweight design allows concrete finishing up to 45-minutes earlier, while you work up to 20 ft. outside the formwork. Plus with its easy directional steering, you can achieve precise movement by twisting the handle side to side. Using the blade pitch control, adjust from 0-28\u00b0 with the trowel's 4 multi-use combination blades - suitable for initial floating to the final finishing.",
+    "feature_bullets": [
+      "Powerful 1.6 HP Honda GX35 engine for reliable performance",
+      "Lightweight design allows easy portability and storage",
+      "Adjustable blade pitch from 0-28"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Start troweling concrete up to 45-minutes earlier",
+      "Powered by reliable 1.6HP Honda GX35 engine",
+      "Includes 18 ft. pole and 4 multi-use combination blades",
+      "30 in. 4-blade spider assembly",
+      "Adjustable blade pitch from 0-28\u00b0",
+      "Super lightweight and easy to lift with 1-person",
+      "Easy directional steering with precise movement"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/dfe3c619-aee6-4b3d-8576-c8c7d42c4f2a/svn/tomahawk-power-power-trowels-jxpt30h-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1b07d1f7-6d3a-4e05-bd7b-1fe3d38b4268/svn/tomahawk-power-power-trowels-jxpt30h-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a3b1802-2a15-47be-87c0-30858a3ec39a/svn/tomahawk-power-power-trowels-jxpt30h-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a1346735-82c4-4c4d-983f-839f89ddd533/svn/tomahawk-power-power-trowels-jxpt30h-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c864f456-2b45-43bf-98b3-cc1e0a0d00d4/svn/tomahawk-power-power-trowels-jxpt30h-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0ff2a501-af7a-406a-a624-8265ea072ec6/svn/tomahawk-power-power-trowels-jxpt30h-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d6551be-f42d-4f8d-954e-a479d524a5e9/svn/tomahawk-power-power-trowels-jxpt30h-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/dfe3c619-aee6-4b3d-8576-c8c7d42c4f2a/svn/tomahawk-power-power-trowels-jxpt30h-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Blade Material",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Concrete Tool Type",
+        "value": "Trowel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Engine Type",
+        "value": "4 Cycle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Material",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Horsepower (hp)",
+        "value": "1.6 hp"
+      },
+      {
+        "group_name": "Details",
+        "name": "Power Type",
+        "value": "Gasoline"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Revolutions per minute (RPM)",
+        "value": "70"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trowel Type",
+        "value": "Finishing Trowel"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1-Year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Blade Length (in.)",
+        "value": "10.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Blade Width (in.)",
+        "value": "5.75"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "26 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "30 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "30 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Concrete, Cement & Masonry",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry/N-5yc1vZarlk"
+      },
+      {
+        "name": "Concrete Tools",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Tools/N-5yc1vZarh8"
+      },
+      {
+        "name": "Concrete Trowels",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Tools-Concrete-Trowels/N-5yc1vZaq1d"
+      },
+      {
+        "name": "Power Trowels",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Tools-Concrete-Trowels-Power-Trowels/N-5yc1vZ2fkp63i"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1561.25,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

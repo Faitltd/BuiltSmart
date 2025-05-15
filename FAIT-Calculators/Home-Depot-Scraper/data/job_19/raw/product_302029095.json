@@ -1,0 +1,292 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14009,
+    "overage_used": 4009,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/STERLING-STORE-60-in-W-x-75-75-in-H-1-Piece-Direct-to-stud-Back-Shower-Wall-in-White-72332700-0/302029095"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:20.962Z",
+    "processed_at": "2025-05-01T17:51:27.203Z",
+    "total_time_taken": 6.24,
+    "homedepot_url": "https://www.homedepot.com/p/STERLING-STORE-60-in-W-x-75-75-in-H-1-Piece-Direct-to-stud-Back-Shower-Wall-in-White-72332700-0/302029095"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/STERLING-STORE-60-in-W-x-75-75-in-H-1-Piece-Direct-to-stud-Back-Shower-Wall-in-White-72332700-0/302029095",
+    "brand": "STERLING",
+    "brand_link": "https://www.homedepot.com/b/Bath-Showers-Shower-Walls-Surrounds-Alcove-Shower-Walls-Surrounds/STERLING/N-5yc1vZcbhkZalm",
+    "title": "STERLING STORE+ 60 in. W x 75.75 in. H 1 -Piece Direct-to-stud Back Shower Wall in White",
+    "upc": "885612619013",
+    "item_id": "302029095",
+    "store_sku": "1002637701",
+    "model_number": "72332700-0",
+    "description": "STORE+ is a fully customizable storage shower system with interchangeable accessories to eliminate clutter and organize your shower to fit your needs. Interchangeable corner accessories maximize your showering space. Need following products for complete shower: 72475700-0, 72171720-0 OR 72171710-0, 88038700-0 OR 88028700-0.",
+    "is_exclusive": true,
+    "favorite_count": 290,
+    "collection": {
+      "id": "Family-316858590",
+      "name": "Family-316858590",
+      "link": "https://www.homedepot.com/collection/Bath/STORE-Showering-Collection/Family-316858590?omsid=302029095"
+    },
+    "feature_bullets": [
+      "Durable, easy-to-clean vikrell shower material",
+      "Back shower wall with direct-to-stud installation",
+      "Modular shower enclosure design offers caulk-free installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Backwall is part of the STORE+ shower, the only interchangeable storage modular on the market",
+      "(1) backwall measures 60 in. x 75-3/4 in.",
+      "Includes backwall only, requires endwall set &amp; accessory kit to complete installation",
+      "Interchangeable corner accessories, maximize storage space- the way you want",
+      "Dishwasher safe shelves and bins snap into place; no tools required",
+      "Shaving ledge/foot rest added for comfort",
+      "Durable high-gloss finish provides a smooth, shiny surface that is easy to clean",
+      "Caulk-free 5-piece modular design made of solid Vikrell material",
+      "Made with solid Vikrell material - no layers to chip, crack or peel - color molded throughout",
+      "Modular design allows it to be moved around corners and through doorways with ease",
+      "Conforms to ANSI Z124.1.2 and CSA B45.1 National Consensus Standards",
+      "<img src=\"https://inlinecontent.thdstatic.com/29A/KOHLER COMPANY/zac32633_rgb.jpg\">",
+      "<img src=\"https://inlinecontent.thdstatic.com/29A/KOHLER COMPANY/zac32631_rgb.jpg\">",
+      "<img src=\"https://inlinecontent.thdstatic.com/29A/KOHLER COMPANY/zac32636_rgb.jpg\">",
+      "<img src=\"https://inlinecontent.thdstatic.com/29A/KOHLER COMPANY/zac32637_rgb.jpg\">",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a>&nbsp;to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 16,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ebcba273-3b16-4570-af7c-134ba24ce119/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5fb54dc3-9003-4b23-8903-726191d5f92f/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6d2bbdd9-b793-4598-8490-a16017aee7a9/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6f92153b-8f5a-4e7f-a03f-936755957ee6/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8ae160ce-ee7b-40ec-86cd-e4ac9143bac8/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0cd7af85-0aa7-433e-a5c3-78cd6e0e48f7/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/84cf0c71-60f7-4f17-b071-bc465ead7345/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3abc39c8-1156-4236-8166-dbaead8ae2cd/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1e0719f9-abc0-418c-8394-ea69dad9566d/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5d194a4e-12cf-4562-8619-382931174ee1/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8bc65573-41f7-4a5b-887b-f62c1401d799/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b40c6c2a-7cc9-490f-a71d-3f4258ec9d5f/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/db096982-f04f-40b4-b388-9f5f31d498f7/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bfe364a7-167d-4d33-96e0-57d75597ba8d/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c58122f-6df5-45c6-be34-8f964f23c78d/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ebcba273-3b16-4570-af7c-134ba24ce119/svn/white-sterling-alcove-shower-walls-surrounds-72332700-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/512a6c71-f957-4508-b086-d16624509bb4/b74833a9-09a1-497f-ad83-5be8590408dc/main.mp4?fastly_token=NjgzODI3MDRfYmU0NTlkNDIzMTA5MzRmMTY0YWM4ZDBjNThkZWUxOTIzOTQyMTViNjU3ZmVmYmM0MGRkNzM2M2MxNDA2NzZjMF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81MTJhNmM3MS1mOTU3LTQ1MDgtYjA4Ni1kMTY2MjQ1MDliYjQvYjc0ODMzYTktMDlhMS00OTdmLWFkODMtNWJlODU5MDQwOGRjL21haW4ubXA0&pubid=66036796001",
+        "title": "Kohler - Store+ TC",
+        "id": "5535312703001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/512a6c71-f957-4508-b086-d16624509bb4/0a2f006c-5bf2-4440-bc33-373fad77a14e/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Kohler - Store+ TC"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/215b28c0-d02b-441e-b94a-fcc39c0297ca/5a96f0b3-afca-45bd-a1ac-5ec00abfae3b/main.mp4?fastly_token=NjgzODI3MjlfMTg1N2I0ZTJiMTU4YWYyN2QwMDhjMjcwNDg2NGEzN2I1YzFjMjI2NTQ5YjU4Y2EyYzg2OWMyYWRjMjYxN2RiNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yMTViMjhjMC1kMDJiLTQ0MWUtYjk0YS1mY2MzOWMwMjk3Y2EvNWE5NmYwYjMtYWZjYS00NWJkLWExYWMtNWVjMDBhYmZhZTNiL21haW4ubXA0&pubid=66036796001",
+        "title": "Kohler  - Store+ Features/Benefits",
+        "id": "5535317726001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/215b28c0-d02b-441e-b94a-fcc39c0297ca/18d530d5-c314-415f-a2cd-efda6b9c1848/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Kohler  - Store+ Features/Benefits"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/448878d7-b081-431e-b571-432394a73a2e/2a5ea407-449b-4d49-b6a4-d43ec1183f3f/main.mp4?fastly_token=NjgzODJhNTZfNDY5MGExYjM0ZGNhM2M0OWY5YmRhYWU4OTdjZTRiNDU5NWMwMzBmZmNjNGViNzVkNWFmZjRkOTcwNGQ3Y2E2ZF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80NDg4NzhkNy1iMDgxLTQzMWUtYjU3MS00MzIzOTRhNzNhMmUvMmE1ZWE0MDctNDQ5Yi00ZDQ5LWI2YTQtZDQzZWMxMTgzZjNmL21haW4ubXA0&pubid=66036796001",
+        "title": "D22CN6306 Sterling F&B MagicShow Master",
+        "id": "6348916878112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/448878d7-b081-431e-b571-432394a73a2e/main/160x90/31s530ms/match/image.jpg?pubId=66036796001",
+        "description": "Sterling Vikrell Showers and Baths Material Feature and Benefits"
+      }
+    ],
+    "ratings_total": 128,
+    "rating": 3.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Construction",
+        "value": "One piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Shelves",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "75 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Minimalist,Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Type",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wall Installation Type",
+        "value": "Direct-to-stud"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10-Year Residential/3-Year Commercial Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "75.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Height (in.)",
+        "value": "75.75"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Width (in.)",
+        "value": "60"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Showers",
+        "link": "https://www.homedepot.com/b/Bath-Showers/N-5yc1vZbzcd"
+      },
+      {
+        "name": "Shower Walls & Surrounds",
+        "link": "https://www.homedepot.com/b/Bath-Showers-Shower-Walls-Surrounds/N-5yc1vZbzbs"
+      },
+      {
+        "name": "Alcove Shower Walls & Surrounds",
+        "link": "https://www.homedepot.com/b/Bath-Showers-Shower-Walls-Surrounds-Alcove-Shower-Walls-Surrounds/N-5yc1vZcbhk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 299,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 54,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 89,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

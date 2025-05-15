@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14731,
+    "overage_used": 4731,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Transcend-1-in-x-6-in-x-16-ft-Spiced-Rum-Grooved-Edge-Brown-Composite-Deck-Board-SR010616TG01/203336615"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:07:12.866Z",
+    "processed_at": "2025-05-01T19:07:18.577Z",
+    "total_time_taken": 5.71,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Transcend-1-in-x-6-in-x-16-ft-Spiced-Rum-Grooved-Edge-Brown-Composite-Deck-Board-SR010616TG01/203336615"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Transcend-1-in-x-6-in-x-16-ft-Spiced-Rum-Grooved-Edge-Brown-Composite-Deck-Board-SR010616TG01/203336615",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Transcend 1 in. x 6 in. x 16 ft. Spiced Rum Grooved Edge Brown Composite Deck Board",
+    "upc": "652835062465",
+    "item_id": "203336615",
+    "parent_id": "309573344",
+    "store_sku": "1002544285",
+    "model_number": "SR010616TG01",
+    "description": "Transcend boards bring superior durability, luxurious looks and decades of splinter-free fun to your deck. Thanks to our high-performance shell technology, it's fade, stain, scratch and mold resistant. You can rest assured that your deck or dock will maintain its beauty for decades with only minimal upkeep.",
+    "favorite_count": 2,
+    "feature_bullets": [
+      "Made of composite material that resists fading and staining",
+      "Can last for decades with minimum maintenance",
+      "Shell technology makes it ideal for outdoor projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "25-year fade and stain warranty",
+      "Low sheen, high traffic technology",
+      "Ultra low maintenance",
+      "No special tools needed to cut boards",
+      "Deep wood-grain pattern",
+      "Spiced rum color is described as a burnt umber with onyx black lowlights",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/BOISE CASCADE/home-depot-trex-decking-transcend-2x.jpg\">"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/15ed45cf-7172-414f-9ca4-6d31bd339b74/svn/brown-trex-composite-decking-boards-sr010616tg01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6556320f-dc84-4acd-83a1-48e16e351d1b/svn/brown-trex-composite-decking-boards-sr010616tg01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/22ef1897-1c7f-41b8-8d1f-96eadca7f7ab/svn/brown-trex-composite-decking-boards-sr010616tg01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d453e371-56e9-4de7-9706-deb70bfe9f61/svn/brown-trex-composite-decking-boards-sr010616tg01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7a84bf40-7fd2-448d-bf24-782b4bebb106/svn/brown-trex-composite-decking-boards-sr010616tg01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/57a139b9-0cd3-4533-8c49-5bc834e0e09a/svn/brown-trex-composite-decking-boards-sr010616tg01-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/069595cf-7a12-4e70-9448-72122c1969b9/svn/brown-trex-composite-decking-boards-sr010616tg01-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bcd84293-9258-4026-a0b9-5c53591212fd/svn/brown-trex-composite-decking-boards-sr010616tg01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c61fd49e-8b8b-4f35-97d6-b7008cc10e08/svn/brown-trex-composite-decking-boards-sr010616tg01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d453e371-56e9-4de7-9706-deb70bfe9f61/svn/brown-trex-composite-decking-boards-sr010616tg01-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/15ed45cf-7172-414f-9ca4-6d31bd339b74/svn/brown-trex-composite-decking-boards-sr010616tg01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 63,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex approved fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 year warranty, see store for details."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".94"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "44"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Brown~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-Transcend-1-in-x-6-in-x-12-ft-Spiced-Rum-Grooved-Edge-Brown-Composite-Deck-Board-SR010612TG01/203336614",
+        "item_id": "203336614"
+      },
+      {
+        "title": "Brown~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-Transcend-1-in-x-6-in-x-16-ft-Spiced-Rum-Grooved-Edge-Brown-Composite-Deck-Board-SR010616TG01/203336615",
+        "item_id": "203336615"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 89.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "square foot",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0130",
+          "in_stock": true,
+          "stock_level": 48,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14849,
+    "overage_used": 4849,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Standard-Grade-Fir-Lumber-2395/316719180"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:48:30.855Z",
+    "processed_at": "2025-05-01T19:49:18.809Z",
+    "total_time_taken": 47.95,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Standard-Grade-Fir-Lumber-2395/316719180"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Standard-Grade-Fir-Lumber-2395/316719180",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 12 in. x 16 ft. #2 Standard Grade Fir Lumber",
+    "upc": "761542007796",
+    "item_id": "316719180",
+    "parent_id": "320454965",
+    "store_sku": "187393",
+    "model_number": "2395",
+    "description": "Every piece meets the highest grading standards for strength and appearance. Dimensional lumber is ideal for a wide range of structural and nonstructural applications including framing of houses, barns, sheds and commercial construction. It can also be used for projects such as furniture and hobbies and comes in a variety of widths and lengths.",
+    "descriptive_attributes": [
+      "Manufactured from hemlock",
+      "Kiln-dried #2 grade lumber",
+      "Smooth surface can be primed, painted, sealed or stained",
+      "Great for hobby or professional use",
+      "Interior or exterior use"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7760f56a-805d-4931-8b7c-08ef8e4515d2/svn/framing-lumber-2395-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6bbc03d6-c463-4897-8d19-626c01fdfad2/svn/framing-lumber-2395-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ea532a50-214e-46be-be16-1696df43d531/svn/framing-lumber-2395-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7adcff37-652d-4c57-bae8-b7457be306f8/svn/framing-lumber-2395-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7760f56a-805d-4931-8b7c-08ef8e4515d2/svn/framing-lumber-2395-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 3,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Hemlock"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See Store For Details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "8 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-8-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-2393/316718593",
+        "item_id": "316718593"
+      },
+      {
+        "title": "8 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-8-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-2394/316719108",
+        "item_id": "316719108"
+      },
+      {
+        "title": "8 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-8-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-2395/316719156",
+        "item_id": "316719156"
+      },
+      {
+        "title": "12 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-12-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-2393/316718822",
+        "item_id": "316718822"
+      },
+      {
+        "title": "12 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-12-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-2395/316719176",
+        "item_id": "316719176"
+      },
+      {
+        "title": "16 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-16-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-2393/316719000",
+        "item_id": "316719000"
+      },
+      {
+        "title": "16 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Standard-Grade-Fir-Lumber-2395/316719180",
+        "item_id": "316719180"
+      },
+      {
+        "title": "16 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-16-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-2394/316719149",
+        "item_id": "316719149"
+      },
+      {
+        "title": "12 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-12-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-2394/316719119",
+        "item_id": "316719119"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

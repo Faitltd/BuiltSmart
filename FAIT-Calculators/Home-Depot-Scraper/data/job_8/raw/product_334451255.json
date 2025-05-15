@@ -1,0 +1,206 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13578,
+    "overage_used": 3578,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-634-7-16-in-D-x-3-in-W-x-96-in-L-Primed-Pine-Wood-PFJ-4-Sides-Colonial-Baseboard-Moulding-0L634-90096/334451255"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:50:22.396Z",
+    "processed_at": "2025-05-01T16:50:27.550Z",
+    "total_time_taken": 5.15,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-634-7-16-in-D-x-3-in-W-x-96-in-L-Primed-Pine-Wood-PFJ-4-Sides-Colonial-Baseboard-Moulding-0L634-90096/334451255"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-634-7-16-in-D-x-3-in-W-x-96-in-L-Primed-Pine-Wood-PFJ-4-Sides-Colonial-Baseboard-Moulding-0L634-90096/334451255",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/HOUSE-OF-FARA/N-5yc1vZcbjpZucc",
+    "title": "HOUSE OF FARA 634 7/16 in. D x 3 in. W x 96 in. L Primed Pine Wood PFJ 4-Sides Colonial Baseboard Moulding",
+    "upc": "043559416342",
+    "item_id": "334451255",
+    "store_sku": "1013666721",
+    "model_number": "0L634-90096",
+    "description": "Base mouldings are applied where walls meet floors. Base mouldings are a beautiful way to hide uneven walls and floors where they meet. Creating a foundation for walls, base mouldings give any room that well-grounded look, visually making walls look well set and stable. Used with a base cap and a base shoe, base mouldings can have that built up, larger than life feel. Base mouldings are also great at covering up uneven flooring edges.",
+    "feature_bullets": [
+      "Perfect for hiding uneven walls and floors where they meet",
+      "Primed surface is ready to paint",
+      "Made of durable pine substrate"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Durable pine substrate that has workability similar to solid pine",
+      "Primed surface-ready to paint",
+      "Coated with a high hide water based primer allowing for superior paint adherence",
+      "Common mouldings fastened where walls meet floors, protects the wall from furniture, kicks",
+      "Moulding installs in a snap using brad nails"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/866e7e1e-a0b5-4292-ab30-319efe391a85/svn/primed-white-house-of-fara-baseboard-0l634-90096-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6dcc6d5d-2f84-433d-a16d-2f4900059b6f/svn/primed-white-house-of-fara-baseboard-0l634-90096-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/866e7e1e-a0b5-4292-ab30-319efe391a85/svn/primed-white-house-of-fara-baseboard-0l634-90096-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "634"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Guaranteed against manufacturing defects. See store for details."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": ".4375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 200,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 200,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

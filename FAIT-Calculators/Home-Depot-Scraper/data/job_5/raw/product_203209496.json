@@ -1,0 +1,259 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13171,
+    "overage_used": 3171,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-1866-5-8-in-x-5-1-4-in-x-96-in-Finished-MDF-White-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001789/203209496"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:46:22.341Z",
+    "processed_at": "2025-05-01T13:46:26.770Z",
+    "total_time_taken": 4.43,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-1866-5-8-in-x-5-1-4-in-x-96-in-Finished-MDF-White-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001789/203209496"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-1866-5-8-in-x-5-1-4-in-x-96-in-Finished-MDF-White-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001789/203209496",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/FINISHED-ELEGANCE/N-5yc1vZcbjpZr98",
+    "title": "FINISHED ELEGANCE 1866 5/8 in. x  5 1/4 in. x  96 in. Finished MDF White Baseboard Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "095624516136",
+    "item_id": "203209496",
+    "parent_id": "325326208",
+    "store_sku": "1000375002",
+    "model_number": "10001789",
+    "description": "The FINISHED ELEGANCE 5/8 in. x 5-1/4 in. FINISHED ELEGANCE WG1866 base is the perfect addition to dress up any room. The FINISHED ELEGANCE WG1866 base is used cover any imperfections where floor and wall meet. Base Moulding can also be used as starter point for a more elaborate built up base boards. Combing other mouldings with this base can create looks that range from classic to elegant. FINISHED ELEGANCE moulding and trim is completely finished with no painting required, so you can simply cut and install your new moulding - saving time and money. The superior durability of FINISHED ELEGANCE moulding and trim also allows it to withstand years of wear and tear in your home. Use the complete solution of the color matched touch-up kit and caulk with your FINISHED ELEGANCE installation to create a lasting impression for your entire room.",
+    "favorite_count": 201,
+    "feature_bullets": [
+      "Resistance to dents and scratches ensures easy maintenance",
+      "Factory primed surface allows for staining as desired",
+      "Easy to install as it is compatible with common woodworking tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is factory finished for easy installation",
+      "Simply nail to the wall and fill the holes for a perfect installation",
+      "Durable finish is resistant to scratches and dents",
+      "Don't forget the color matched caulk and fill stick",
+      "A great foundation for any room, can be paired with any style of casing",
+      "Installs with common wood working tools",
+      "For interior use only"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7e83aec1-9926-4edf-af67-cfd985f33e76/svn/white-finished-elegance-baseboard-10001789-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c5b741b6-8739-440a-a366-82a03e872109/svn/white-finished-elegance-baseboard-10001789-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1607ce71-626f-4cb5-9316-a3d01e502745/svn/white-finished-elegance-baseboard-10001789-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/04cd1f64-ec9f-4062-92f4-2790e068fccf/svn/white-finished-elegance-baseboard-10001789-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e1097413-d42f-4563-b845-1bec34ad7a95/svn/white-finished-elegance-baseboard-10001789-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/62f33218-a222-4b86-a825-1138881ece27/svn/white-finished-elegance-baseboard-10001789-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9f3f79ae-a725-4450-889e-b0934a341396/svn/white-finished-elegance-baseboard-10001789-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7e83aec1-9926-4edf-af67-cfd985f33e76/svn/white-finished-elegance-baseboard-10001789-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/51b2be65-80be-4520-805f-7358320d16e3/ff40cde9-78bc-422b-8dca-ebc4a6bca3f6/main.mp4?fastly_token=NjgzODI3NjNfNzA0ODQwNzkwYTVjMjNkYzdiYmJmMmMzYTZiMzI4N2Y2ZmU4NTQ4NDg5N2EyYzQwMTUxODJiNDc2YmI3OTJmOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81MWIyYmU2NS04MGJlLTQ1MjAtODA1Zi03MzU4MzIwZDE2ZTMvZmY0MGNkZTktNzhiYy00MjJiLThkY2EtZWJjNGE2YmNhM2Y2L21haW4ubXA0&pubid=66036796001",
+        "title": "Finished Elegance - The No Painting Trim and Moulding Solution",
+        "id": "3724859786001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/51b2be65-80be-4520-805f-7358320d16e3/b97fd7ed-56f4-4f2e-b75a-2182a126584a/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This video highlights the Finished Elegance No Painting Trim and Moulding Solution.  Discover the ease of installation and outstanding benefits of using Finished Elegance moulding and trim."
+      }
+    ],
+    "ratings_total": 133,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "1866"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "keywords_list": [
+      "Finished Elegance",
+      "FE1866 5/8 in. x 5-1/4 in. x 8 ft. Finished Elegance Base",
+      "FMD1866-08"
+    ],
+    "keywords": "Finished Elegance, FE1866 5/8 in. x 5-1/4 in. x 8 ft. Finished Elegance Base, FMD1866-08",
+    "variants": [
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-1866-5-8-in-x-5-1-4-in-x-96-in-Finished-MDF-White-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001789/203209496",
+        "item_id": "203209496"
+      },
+      {
+        "title": "White~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-WG1866-5-8-in-x-5-1-4-in-MDF-Base-Molding-10001624/202738264",
+        "item_id": "202738264"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 32.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 174,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 174,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

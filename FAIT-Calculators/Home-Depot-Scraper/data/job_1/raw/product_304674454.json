@@ -1,0 +1,357 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14948,
+    "overage_used": 4948,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-1956-LA-0/304674454"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:45:29.897Z",
+    "processed_at": "2025-05-02T21:45:34.526Z",
+    "total_time_taken": 4.63,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-1956-LA-0/304674454"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-1956-LA-0/304674454",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bathtubs-Alcove-Bathtubs/KOHLER/N-5yc1vZcd0gZ1qh",
+    "title": "KOHLER Underscore 60 in. x 30 in. Soaking Bathtub with Left-Hand Drain in White",
+    "upc": "885612543233",
+    "item_id": "304674454",
+    "parent_id": "327195210",
+    "store_sku": "1003054968",
+    "model_number": "1956-LA-0",
+    "description": "\"Featuring a simple\", \"crisp design\", this Underscore alcove bath exudes refined style with contemporary flair. A slotted overflow drain allows for a luxuriously deep bath as you relax against the comfortable sloped backrest. It comes with a 1-year Limited Warranty.",
+    "favorite_count": 398,
+    "collection": {
+      "id": "Family-323440765",
+      "name": "Family-323440765",
+      "link": "https://www.homedepot.com/collection/Bath/Underscore-Alcove-Bathtub-Collection/Family-323440765?omsid=304674454"
+    },
+    "feature_bullets": [
+      "68 Gal. capacity with 15-1/2 in. maximum soaking depth",
+      "Textured bottom surface with left hand drain",
+      "Requires K-7271 of K-7272 Clearflo bath drain"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Molded lumbar support offers extra comfort while bathing",
+      "Slotted overflow allows for deep soaking",
+      "Integral apron creates a clean, finished look",
+      "Integral flange helps prevent water from seeping behind wall and simplifies alcove installation",
+      "Textured bottom surface",
+      "Left-hand drain",
+      "Requires K-7271 or K-7272 clearflo slotted overflow bath drain (sold separately)",
+      "Acrylic",
+      "3-wall alcove",
+      "Shop more <a href=\"https://www.homedepot.com/b/Bath-Bathtubs/N-5yc1vZbzb7\" target=\"_blank\" style=\"color:#F96302;\">Bathtubs</a> at The Home Depot to find the best option for your home\u200b",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/df086bf0-cffb-4e2a-8f0e-4c22586f641f/svn/white-kohler-alcove-bathtubs-1956-la-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/062f2cfb-76ee-409c-9b90-200e2f96f111/svn/white-kohler-alcove-bathtubs-1956-la-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36d687e5-f188-45a2-978c-d1f162634122/svn/white-kohler-alcove-bathtubs-1956-la-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7b696e6a-891e-499a-80bf-8893fb85a425/svn/white-kohler-alcove-bathtubs-1956-la-0-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/983c71b5-263c-4279-9d08-7549118c4960/svn/white-kohler-alcove-bathtubs-1956-la-0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2e5eddf8-3833-42b5-b634-94acf3ccfabd/svn/white-kohler-alcove-bathtubs-1956-la-0-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f8bc9ab4-d9a6-463c-b3f3-772102332e53/svn/white-kohler-alcove-bathtubs-1956-la-0-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d90afcfe-cab8-442e-9cb4-0ee185e33850/svn/white-kohler-alcove-bathtubs-1956-la-0-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/df086bf0-cffb-4e2a-8f0e-4c22586f641f/svn/white-kohler-alcove-bathtubs-1956-la-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/17a8399c-7fde-48a3-aaaf-36806896c619/6f0bd079-a522-46b3-b3e0-d995c3074c5f/main.mp4?fastly_token=NjgxNGRjNGFfZjJkZGQ5M2MyZDkzMzVkZGQwZjZjMzlkODEzOWZlYTk0YThhOTQ0NjRiMjA3ZGEyMmQwZmU3YzEyNDQ0MzY1NF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMTdhODM5OWMtN2ZkZS00OGEzLWFhYWYtMzY4MDY4OTZjNjE5LzZmMGJkMDc5LWE1MjItNDZiMy1iM2UwLWQ5OTVjMzA3NGM1Zi9tYWluLm1wNA%3D%3D",
+        "title": "Underscore Bath",
+        "id": "6309830380112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/17a8399c-7fde-48a3-aaaf-36806896c619/main/160x90/45s525ms/match/image.jpg",
+        "description": "Underscore Bath Product Overview\n"
+      }
+    ],
+    "ratings_total": 387,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bath Therapy Type",
+        "value": "Soaking"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drain Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Exterior bath shape",
+        "value": "Rectangular"
+      },
+      {
+        "group_name": "Details",
+        "name": "Faucet mount",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No additional components or accessories are included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Number of Occupants",
+        "value": "1 Person"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "128 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Classic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tub/Shower Features",
+        "value": "Integral Flanges"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water capacity (gallons)",
+        "value": "68"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "CSA Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One-Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Basin Length (in.)",
+        "value": "60"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Basin Width (in.)",
+        "value": "30"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Overall Height (in.)",
+        "value": "22.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Overall Length (in.)",
+        "value": "60"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Overall Width (in.)",
+        "value": "30"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Soaking Depth (in.)",
+        "value": "15.5"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Black Black~~60 x 32~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-32-in-Soaking-Bathtub-with-Left-Hand-Drain-in-Black-K-1957-LA-7/304674473",
+        "item_id": "304674473"
+      },
+      {
+        "title": "Thunder Grey~~60 x 30~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Thunder-Grey-K-1956-RA-58/304674443",
+        "item_id": "304674443"
+      },
+      {
+        "title": "Ice Grey~~60 x 32~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-32-in-Soaking-Bathtub-with-Left-Hand-Drain-in-Ice-Grey-K-1957-LA-95/304674476",
+        "item_id": "304674476"
+      },
+      {
+        "title": "Black Black~~60 x 30~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Black-K-1956-RA-7/304674445",
+        "item_id": "304674445"
+      },
+      {
+        "title": "Ice Grey~~60 x 30~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Ice-Grey-K-1956-RA-95/304674446",
+        "item_id": "304674446"
+      },
+      {
+        "title": "White~~60 x 32~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-32-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-1957-LA-0/304674468",
+        "item_id": "304674468"
+      },
+      {
+        "title": "White~~60 x 30~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Right-Hand-Drain-in-White-1956-RA-0/304674438",
+        "item_id": "304674438"
+      },
+      {
+        "title": "White~~60 x 32~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-32-in-Soaking-Bathtub-with-Right-Hand-Drain-in-White-K-1957-RA-0/303281539",
+        "item_id": "303281539"
+      },
+      {
+        "title": "Thunder Grey~~60 x 30~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Left-Hand-Drain-in-Thunder-Grey-K-1956-LA-58/304674458",
+        "item_id": "304674458"
+      },
+      {
+        "title": "Black Black~~60 x 30~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Left-Hand-Drain-in-Black-K-1956-LA-7/304674459",
+        "item_id": "304674459"
+      },
+      {
+        "title": "Black Black~~60 x 32~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-32-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Black-K-1957-RA-7/303281543",
+        "item_id": "303281543"
+      },
+      {
+        "title": "Thunder Grey~~60 x 32~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-32-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Thunder-Grey-K-1957-RA-58/303281542",
+        "item_id": "303281542"
+      },
+      {
+        "title": "Ice Grey~~60 x 30~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Left-Hand-Drain-in-Ice-Grey-K-1956-LA-95/304674462",
+        "item_id": "304674462"
+      },
+      {
+        "title": "Biscuit~~60 x 32~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-32-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Biscuit-K-1957-RA-96/303281547",
+        "item_id": "303281547"
+      },
+      {
+        "title": "Biscuit~~60 x 30~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Biscuit-K-1956-RA-96/304674448",
+        "item_id": "304674448"
+      },
+      {
+        "title": "Ice Grey~~60 x 32~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-32-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Ice-Grey-K-1957-RA-95/303281545",
+        "item_id": "303281545"
+      },
+      {
+        "title": "Dune~~60 x 30~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Right-Hand-Drain-in-Dune-K-1956-RA-NY/304674452",
+        "item_id": "304674452"
+      },
+      {
+        "title": "White~~60 x 30~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Underscore-60-in-x-30-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-1956-LA-0/304674454",
+        "item_id": "304674454"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bathtubs",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs/N-5yc1vZbzb7"
+      },
+      {
+        "name": "Alcove Bathtubs",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs-Alcove-Bathtubs/N-5yc1vZcd0g"
+      }
+    ],
+    "buybox_winner": {
+      "price": 934.62,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 61,
+          "price": 0,
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-15"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 61,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

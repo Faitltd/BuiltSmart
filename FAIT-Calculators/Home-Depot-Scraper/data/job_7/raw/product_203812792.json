@@ -1,0 +1,321 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13348,
+    "overage_used": 3348,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grabber-8-1-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-23795/203812792"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:54:31.784Z",
+    "processed_at": "2025-05-01T13:54:36.610Z",
+    "total_time_taken": 4.83,
+    "homedepot_url": "https://www.homedepot.com/p/Grabber-8-1-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-23795/203812792"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grabber-8-1-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-23795/203812792",
+    "brand": "Grabber",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Grabber/N-5yc1vZ2fkpe61Zbsg",
+    "title": "Grabber #8 1-1/2 in. Lox Flat-Head Wood Deck Screws",
+    "upc": "045622078983",
+    "item_id": "203812792",
+    "parent_id": "322081704",
+    "store_sku": "1000012960",
+    "model_number": "23795",
+    "description": "Use these grabber lox wood screws with grabbergard gray coating for any exterior project, decks, fences, siding, lattice, docks and more. Featuring lox advanced driver system engineered for high-torque applications. Lox grabs hard and sinks even harder, giving you positive joint reliability with predictable results every time.",
+    "favorite_count": 76,
+    "feature_bullets": [
+      "Steel construction for durability and strength",
+      "Features lox advanced driver system for high-torque uses",
+      "Great for exterior project, decks, fences, siding, lattice, docks"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Superior corrosion protection",
+      "Perfect for most outdoor projects",
+      "ACQ compliant",
+      "Type 17 point",
+      "Free bit tip included"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/48dceda6-947f-4295-9236-5356f36c22a2/svn/grabber-deck-screws-23795-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4ee7d655-3c3f-4d1b-affe-78b010c58bd6/svn/grabber-deck-screws-23795-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a07d5d2d-5f6f-4bbf-b0bc-23c64d22a95f/svn/grabber-deck-screws-23795-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/48dceda6-947f-4295-9236-5356f36c22a2/svn/grabber-deck-screws-23795-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 157,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Lox"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Epoxy"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated,Self Tapping"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASME"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "8 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "1-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#8"
+      }
+    ],
+    "size": "#8",
+    "variants": [
+      {
+        "title": "3 in~~#9~~Red~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-9-x-3-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21845/302442274",
+        "item_id": "302442274"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Red~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-9-x-2-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21835/302442272",
+        "item_id": "302442272"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-10-x-3-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21985/302442230",
+        "item_id": "302442230"
+      },
+      {
+        "title": "3 in~~#9~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-9-3-in-Lox-Flat-Head-Wood-Deck-Screw-23765/203812789",
+        "item_id": "203812789"
+      },
+      {
+        "title": "4 in~~#10~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-10-4-in-Lox-Flat-Head-Wood-Deck-Screw-23785/203812791",
+        "item_id": "203812791"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-10-3-1-2-in-Lox-Flat-Head-Wood-Deck-Screw-23775/203812790",
+        "item_id": "203812790"
+      },
+      {
+        "title": "1-1/2 in~~#8~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-x-1-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21945/302442261",
+        "item_id": "302442261"
+      },
+      {
+        "title": "3 in~~#9~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-9-x-3-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21975/302442229",
+        "item_id": "302442229"
+      },
+      {
+        "title": "1-1/2 in~~#8~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-1-1-2-in-Lox-Flat-Head-Wood-Deck-Screw-23735/203812785",
+        "item_id": "203812785"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-9-2-1-2-in-Lox-Flat-Head-Wood-Deck-Screw-23755/203812787",
+        "item_id": "203812787"
+      },
+      {
+        "title": "2 in~~#8~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-2-in-Lox-Flat-Head-Wood-Deck-Screw-23745/203812786",
+        "item_id": "203812786"
+      },
+      {
+        "title": "2 in~~#8~~Red~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-x-2-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21825/302442270",
+        "item_id": "302442270"
+      },
+      {
+        "title": "2 in~~#8~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-2-in-Lox-Flat-Head-Wood-Deck-Screws-23805/203812793",
+        "item_id": "203812793"
+      },
+      {
+        "title": "1-1/2 in~~#8~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-1-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-23795/203812792",
+        "item_id": "203812792"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-9-x-2-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21965/302442267",
+        "item_id": "302442267"
+      },
+      {
+        "title": "3 in~~#9~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-9-3-in-Lox-Flat-Head-Wood-Deck-Screws-23825/203812795",
+        "item_id": "203812795"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-9-2-1-2-in-Lox-Flat-Head-Wood-Deck-Screws-23815/203812794",
+        "item_id": "203812794"
+      },
+      {
+        "title": "2 in~~#8~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-x-2-in-Lox-Flat-Head-Wood-Deck-Screws-25-Pack-21955/302442265",
+        "item_id": "302442265"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 43.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 482,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 482,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

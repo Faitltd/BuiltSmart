@@ -1,0 +1,343 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13697,
+    "overage_used": 3697,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kenmore-Pine-6-MIL-x-6-in-W-x-36-in-L-Waterproof-Click-Lock-Vinyl-Plank-Flooring-24-sq-ft-case-VTRHDKENPIN6X36/325733441"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:54:39.073Z",
+    "processed_at": "2025-05-01T16:54:44.673Z",
+    "total_time_taken": 5.6,
+    "homedepot_url": "https://www.homedepot.com/p/Kenmore-Pine-6-MIL-x-6-in-W-x-36-in-L-Waterproof-Click-Lock-Vinyl-Plank-Flooring-24-sq-ft-case-VTRHDKENPIN6X36/325733441"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kenmore-Pine-6-MIL-x-6-in-W-x-36-in-L-Waterproof-Click-Lock-Vinyl-Plank-Flooring-24-sq-ft-case-VTRHDKENPIN6X36/325733441",
+    "brand": "PRIVATE BRAND UNBRANDED",
+    "title": "PRIVATE BRAND UNBRANDED Kenmore Pine 6 MIL x 6 in. W x 36 in. L Waterproof Click Lock Vinyl Plank Flooring (24 sq. ft./case)",
+    "upc": "747583203953",
+    "item_id": "325733441",
+    "parent_id": "333715512",
+    "store_sku": "1009719326",
+    "model_number": "VTRHDKENPIN6X36",
+    "description": "Enhance your interior design with this 6 in. x 36 in. Kenmore Pine vinyl flooring. Pairing with a variety of decorating schemes, this elegant flooring offers the authentic appearance of wood floors. This low-maintenance vinyl plank features a sophisticated brown tones that have light knots and graining for a real wood look. It measures 3.4 mm thick and is waterproof, scratch-resistant, stain-resistant and dent-resistant. This flooring is easy to install with its patent pending locking system making it DIY-friendly and it gives supreme comfort when under foot. Install in any level of your home over concrete, cork, tile or wood. Coordinating vinyl flooring trim pieces including end caps, stair noses, reducers and T-moldings are available to give your residential indoor flooring project a professional, seamless finish.",
+    "aisle": "FS",
+    "bay": "003",
+    "feature_bullets": [
+      "Brown wood look click lock vinyl plank flooring",
+      "Vinyl floor is perfect for the busy household",
+      "Wood look brown planks for the home or office"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Kenmore pine color finish offers the authentic look of real wood plank flooring",
+      "3.4 mm thickness x 5.98 in. width x 36.02 in. length, wear layer thickness is 6 mil",
+      "Appropriate grade for installation: above grade, on grade, or below grade",
+      "Can be installed over most existing surfaces including tile, wood, concrete, and vinyl",
+      "Residential and light commercial use",
+      "Easy to clean and maintain - 100% waterproof",
+      "Don't forget your coordinating trim and molding",
+      "All online orders for this item ship via common carrier or parcel ground and may arrive in multiple boxes",
+      "For use indoors and in temperature-controlled environments only",
+      "23.95 sq. ft., 16-pieces per case; case weight is 34.56 lbs.",
+      "Realistic wood look and embossing",
+      "Ceramic/porcelain, lvt and natural stone tile within a corresponding series may be produced at different times; while true to the tile, this may cause a variation in color and size",
+      "Easy DIY installation using drop-and-lock end joints",
+      "To ensure consistency of size and color, please capture all tiles for a project within 1-order, each item within an order is selected from a single color (dye lot) and size (caliber), so multiple orders may receive various colors and/or sizes"
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a7348026-1c5c-46a6-a09a-22c2e50e0faf/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2aaf6d30-bb18-4f64-8367-b0cc91cf3afa/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/65204048-cc90-42e4-8858-1068fe18ac8d/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/60e0e4e2-93b5-4530-8ebc-b5a8013d6bb7/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1a2e2abb-b8ff-4400-b6bf-421da38e0c47/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/97f5f4a2-8fd3-4eed-af84-9ba40ec7fcb4/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b3fb94e0-e688-4fbb-a12f-f11915592064/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/baf01735-0a96-4077-8ed6-2d0d83832e9a/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a7348026-1c5c-46a6-a09a-22c2e50e0faf/svn/kenmore-pine-vinyl-plank-flooring-vtrhdkenpin6x36-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e520d66e-2cc3-4f97-999e-18448a4d4121/67eae914-f2ba-4d52-8f46-cb8945c9e1a5/main.mp4?fastly_token=NjgzODE0OGVfYTRmYWIwZGEzYjZjOWQ0YjFhZGFiZjFhMGEwNTE3MTNiZWE2ZDk4NTkzNDBiYmE3NzUzZTQwYTBkYzRiMTQ5M18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lNTIwZDY2ZS0yY2MzLTRmOTctOTk5ZS0xODQ0OGE0ZDQxMjEvNjdlYWU5MTQtZjJiYS00ZDUyLThmNDYtY2I4OTQ1YzllMWE1L21haW4ubXA0&pubid=66036796001",
+        "title": "Hawaiian Koa",
+        "id": "6318952884112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/e520d66e-2cc3-4f97-999e-18448a4d4121/main/160x90/1m50s965ms/match/image.jpg?pubId=66036796001",
+        "description": "7.13 in. W x 48.03 in. L Hawaiian Koa Rigid Core Click Lock Luxury Vinyl Plank Flooring (951 sq. ft./pallet)"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f60222e7-02eb-44aa-aa25-8d858a3cca07/85cfd284-a735-43f3-809e-2448f493c8ed/main.mp4?fastly_token=NjgzODI3NThfYjVjMGJjM2JmYzkxZWU5NDI2NGIxNmEwNmZjZWYyZjdlYmU2ZTg5Zjk0ZTk5Yjc3NGI3YzM0ZDVlYzE2ODA5Yl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mNjAyMjJlNy0wMmViLTQ0YWEtYWEyNS04ZDg1OGEzY2NhMDcvODVjZmQyODQtYTczNS00M2YzLTgwOWUtMjQ0OGY0OTNjOGVkL21haW4ubXA0&pubid=66036796001",
+        "title": "Woodland Ripton",
+        "id": "6318998288112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/f60222e7-02eb-44aa-aa25-8d858a3cca07/main/160x90/32s288ms/match/image.jpg?pubId=66036796001",
+        "description": "Woodland Ripton 7.13 in. W x 48.03 in. L Click Lock Luxury Vinyl Plank Flooring 23.77 sq. ft./Case"
+      }
+    ],
+    "ratings_total": 66,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Antimicrobial",
+        "value": "Antimicrobial"
+      },
+      {
+        "group_name": "Details",
+        "name": "Application Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cases Per Pallet",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Kenmore Pine"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Micro Beveled"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Mark Resistant,Non-Slip,Phthalate Free,Scratch Resistant,Skid Resistant,Stain Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Vinyl Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Wood Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gloss",
+        "value": "Low Gloss"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Click Lock"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installs Over Subfloor",
+        "value": "Concrete,Plywood,Tile,Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Entry Way,Kitchen"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "No Acclimation Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Look",
+        "value": "Straight Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pieces Per Case",
+        "value": "16"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Length",
+        "value": "Standard Length"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Width",
+        "value": "Medium plank (5.1 in - 6.9 in)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "2.16 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Species Look",
+        "value": "Pine Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Underlayment Options",
+        "value": "Underlayment Required - Sold Separately"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Waterproof"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "20 year's residential"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Plank Size (in.)",
+        "value": "36 x 6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "36.02 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "3.4 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.98 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wear Layer Thickness (mil)",
+        "value": "6 MIL"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Kenmore Pine~~36 x 6~~6 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Kenmore-Pine-6-MIL-x-6-in-W-x-36-in-L-Waterproof-Click-Lock-Vinyl-Plank-Flooring-24-sq-ft-case-VTRHDKENPIN6X36/325733441",
+        "item_id": "325733441"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Vinyl Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring/N-5yc1vZapwr"
+      },
+      {
+        "name": "Vinyl Plank Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/N-5yc1vZbzjz"
+      }
+    ],
+    "buybox_winner": {
+      "price": 28.5,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 25
+        },
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 653,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-06"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 25,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 653,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

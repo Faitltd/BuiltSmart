@@ -1,0 +1,230 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13994,
+    "overage_used": 3994,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-5534-4-25-in-x-1-1-8-in-x-96-in-Finished-PVC-White-Lattice-Moulding-1-Piece-8-Total-Linear-Feet-MLDP00X02WM268WH/100035782"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:50.729Z",
+    "processed_at": "2025-05-01T17:50:55.559Z",
+    "total_time_taken": 4.83,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-5534-4-25-in-x-1-1-8-in-x-96-in-Finished-PVC-White-Lattice-Moulding-1-Piece-8-Total-Linear-Feet-MLDP00X02WM268WH/100035782"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-5534-4-25-in-x-1-1-8-in-x-96-in-Finished-PVC-White-Lattice-Moulding-1-Piece-8-Total-Linear-Feet-MLDP00X02WM268WH/100035782",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Royal-Mouldings/N-5yc1vZcbj5Z8ui",
+    "title": "Royal Mouldings 5534 4/25 in. x 1 1/8 in. x 96 in. Finished PVC White Lattice Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "070673528347",
+    "item_id": "100035782",
+    "store_sku": "901578",
+    "model_number": "MLDP00X02WM268WH",
+    "description": "Give your home a seamless look with the Royal Moldings 8 ft. x 1-1/8 in. x 5/32 in. PVC Lattice Molding. With a small-profile design, this molding is great for covering small cracks or gaps and plastic construction is durable and allows for easy maintenance. Adding molding to your home or office adds value and a nice finishing touch.",
+    "favorite_count": 474,
+    "aisle": "19",
+    "bay": "009",
+    "feature_bullets": [
+      "Constructed of PVC composite for durability",
+      "Suitable for indoor or outdoor applications",
+      "Moisture, termite and rot-resistant design"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Plastic construction is durable, easy to clean and requires little maintenance",
+      "Prefinished",
+      "Moisture, rot and termite-resistant for lasting use",
+      "Can be painted and stained for a customized look",
+      "Small design is great for covering small cracks and gaps",
+      "Cuts like wood, will not split or crack and does not require any special tools",
+      "96 in. length",
+      "Easy to install with nails or construction adhesive (not included)",
+      "Manufactured by Royal moldings"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b746f3fa-adf0-4313-a1e8-687f9188d97d/svn/white-royal-mouldings-general-purpose-moulding-mldp00x02wm268wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/49f6cf0b-8ea5-4ec9-9a59-252ffe8b0e0f/svn/white-royal-mouldings-general-purpose-moulding-mldp00x02wm268wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b746f3fa-adf0-4313-a1e8-687f9188d97d/svn/white-royal-mouldings-general-purpose-moulding-mldp00x02wm268wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 209,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Lattice Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "5534"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "no warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.16 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.125 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "plastic moulding",
+      "lattice moulding",
+      "plastic lattice moulding",
+      "easy to install moulding",
+      "easy to install lattice moulding"
+    ],
+    "keywords": "moulding, plastic moulding, lattice moulding, plastic lattice moulding, easy to install moulding, easy to install lattice moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4.94,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 71
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 71,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3791,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12623,
+    "overage_used": 2623,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-5-5-oz-White-Kitchen-and-Bath-Premium-Kitchen-and-Bath-Siliconized-Caulk-18872/100172358"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:26:49.951Z",
+    "processed_at": "2025-05-01T13:26:59.354Z",
+    "total_time_taken": 9.4,
+    "homedepot_url": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-5-5-oz-White-Kitchen-and-Bath-Premium-Kitchen-and-Bath-Siliconized-Caulk-18872/100172358"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-5-5-oz-White-Kitchen-and-Bath-Premium-Kitchen-and-Bath-Siliconized-Caulk-18872/100172358",
+    "brand": "DAP",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/DAP/N-5yc1vZcibhZ1wf",
+    "title": "DAP Kwik Seal Plus 5.5 oz. White Kitchen and Bath Premium Kitchen and Bath Siliconized Caulk",
+    "upc": "070798185265",
+    "item_id": "100172358",
+    "parent_id": "202897451",
+    "store_sku": "124144",
+    "model_number": "18872",
+    "description": "DAP KWIK SEAL PLUS premium kitchen and bath siliconized adhesive sealant contains MICROBAN antimicrobial product protection to fight the growth of stain and odor causing bacteria, mold and mildew on the sealant. The sealant is easier to clean and stays cleaner between cleanings. Provides excellent flexibility and adhesion for a durable, 100% waterproof seal. Sealant is low in odor and paintable. Seal out water and moisture around sinks, tubs, showers, faucets, vanities, counter tops and fixtures.",
+    "is_top_rated": true,
+    "favorite_count": 410,
+    "aisle": "50",
+    "bay": "014",
+    "feature_bullets": [
+      "Silicone like sealant caulks  sinks, showers, faucets and more",
+      "Works as a kitchen and bathroom caulk with a 100% waterproof seal",
+      "MoldGuard Technology resists odor, mold and mildew on sealant"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">Step-by-Step How to Caulk like a Professional</a>",
+      "Paintable once dried",
+      "Strong adhesion to a wide variety of materials for a durable seal",
+      "Requires less maintenance in between cleanings",
+      "Cleans up easily with water",
+      "Shower ready in 24 hours",
+      "Waterproof seal",
+      "Low odor",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">How to Caulk Like a Professional</a>",
+      "<a href=\"https://www.homedepot.com/c/ab/best-caulks-and-sealants-for-your-home-improvement-projects/9ba683603be9fa5395fab90d0b119c3\" target=\"_blank\" style=\"color:#F96302;\">Best Caulks and Sealants for Your Home Improvement Projects</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6161c478-8625-42ca-af36-41dc41968d1f/svn/white-dap-caulk-18872-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d1a56910-59ba-4b74-a3cd-c0e2923894c8/svn/white-dap-caulk-18872-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f1464977-ba8a-4680-ba52-ce3081d6c95d/svn/white-dap-caulk-18872-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/516860f1-a47a-47a7-a66f-500cad8945f0/svn/white-dap-caulk-18872-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/67eafa9a-81a5-4ee6-a4b2-0654c4ace796/svn/white-dap-caulk-18872-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/08012b02-6ebe-4ffc-bd1b-92f420a697ab/svn/white-dap-caulk-18872-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/35d60033-5b18-4f0a-b106-c1231c983a3e/svn/white-dap-caulk-18872-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7f8e7bcc-706a-4392-9840-6680a21e8446/svn/white-dap-caulk-18872-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c88bf3ef-32ad-4264-832b-9443526e8a92/svn/white-dap-caulk-18872-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/812041c2-8d19-4d71-85a6-1c427bb8c71c/svn/white-dap-caulk-18872-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6161c478-8625-42ca-af36-41dc41968d1f/svn/white-dap-caulk-18872-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 2171,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Squeeze Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Kitchen & Bathroom"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "30"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Kwik Seal Plus"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Warranty Information: If you are not satisfied with this products performance when used as directed, return used container and sales receipt to DAP Inc., Technical Customer Service, 2400 Boston Street, Suite 200, Baltimore, MD 21224 for product replacement or sales price refund. DAP will not be liable for incidental or consequential damages."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "5.5 oz"
+      }
+    ],
+    "keywords_list": [
+      "colored caulks",
+      "color caulks",
+      "",
+      "caulk",
+      "kitchen caulk",
+      "sealant",
+      "kitchen sealant",
+      "sealants",
+      "kitchen sealants",
+      "bath caulk",
+      "bath sealant",
+      "bath sealants",
+      "anti-bacterial caulk",
+      "anti-bacterial sealant",
+      "anti-bacterial sealants",
+      "DAP caulk",
+      "DAP sealant",
+      "DAP sealant"
+    ],
+    "keywords": "colored caulks, color caulks,, caulk, kitchen caulk, sealant, kitchen sealant, sealants, kitchen sealants, bath caulk, bath sealant, bath sealants, anti-bacterial caulk, anti-bacterial sealant, anti-bacterial sealants, DAP caulk, DAP sealant, DAP sealant",
+    "variants": [
+      {
+        "title": "White~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-10-1-oz-White-Premium-Kitchen-and-Bath-Siliconized-Caulk-2-Pack-18510/317954867",
+        "item_id": "317954867"
+      },
+      {
+        "title": "White~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-10-1-oz-White-Premium-Kitchen-and-Bath-Siliconized-Caulk-18510/100189580",
+        "item_id": "100189580"
+      },
+      {
+        "title": "Bisque~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-10-1-oz-Bisque-Premium-Kitchen-and-Bath-Siliconized-Caulk-12-Pack-7079818519/204839500",
+        "item_id": "204839500"
+      },
+      {
+        "title": "Clear~~5.5 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-5-5-oz-Clear-Premium-Kitchen-and-Bath-Siliconized-Caulk-12-Pack-7079818546/205730639",
+        "item_id": "205730639"
+      },
+      {
+        "title": "Bisque~~5.5 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-5-5-oz-Bisque-Premium-Kitchen-and-Bath-Siliconized-Caulk-12-Pack-7079818539/205730638",
+        "item_id": "205730638"
+      },
+      {
+        "title": "White~~5.5 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-5-5-oz-White-Kitchen-and-Bath-Premium-Kitchen-and-Bath-Siliconized-Caulk-18872/100172358",
+        "item_id": "100172358"
+      },
+      {
+        "title": "White~~5.5 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-5-5-oz-White-Premium-Kitchen-and-Bath-Siliconized-Caulk-12-Pack-7079818526/205730637",
+        "item_id": "205730637"
+      },
+      {
+        "title": "Clear~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-10-1-oz-Clear-Premium-Kitchen-and-Bath-Siliconized-Caulk-12-Pack-7079818516/204839499",
+        "item_id": "204839499"
+      },
+      {
+        "title": "Clear~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-10-1-oz-Clear-Premium-Kitchen-and-Bath-Siliconized-Caulk-18516/100163430",
+        "item_id": "100163430"
+      },
+      {
+        "title": "White~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Plus-10-1-oz-White-Premium-Kitchen-and-Bath-Siliconized-Caulk-12-Pack-7079818510/204839498",
+        "item_id": "204839498"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.78,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 36
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 37,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 41,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

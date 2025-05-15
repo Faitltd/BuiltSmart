@@ -1,0 +1,471 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12898,
+    "overage_used": 2898,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-11-Snow-White-10-lb-Unsanded-Grout-PBPG1110/313296536"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:34:27.719Z",
+    "processed_at": "2025-05-01T13:34:40.544Z",
+    "total_time_taken": 12.82,
+    "homedepot_url": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-11-Snow-White-10-lb-Unsanded-Grout-PBPG1110/313296536"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-11-Snow-White-10-lb-Unsanded-Grout-PBPG1110/313296536",
+    "brand": "Custom Building Products",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting-Grout/Custom-Building-Products/N-5yc1vZcdtxZef",
+    "title": "Custom Building Products Polyblend Plus #11 Snow White 10 lb. Unsanded Grout",
+    "upc": "010186830599",
+    "item_id": "313296536",
+    "parent_id": "324729458",
+    "store_sku": "1005401382",
+    "model_number": "PBPG1110",
+    "description": "Polyblend Plus has all of the great features of original Polyblend, plus some new value-added enhancements to improve performance, finished color, and color consistency. It is an ANSI A118.6 polymer modified, cement-based non-sanded grout designed for highly glazed or polished tile, marble and natural stone that would be scratched by sanded grouts. This durable, non-shrinking grout accommodates joints up to 1/8 in. (3 mm) and can be used for interior or exterior installations, including floors, countertops, walls, ceilings, showers, fountains and pools.",
+    "favorite_count": 6,
+    "aisle": "47",
+    "bay": "005",
+    "collection": {
+      "id": "Family-314472884",
+      "name": "Family-314472884",
+      "link": "https://www.homedepot.com/collection/Flooring/Polyblend-Plus-Collection/Family-314472884?omsid=313296536"
+    },
+    "feature_bullets": [
+      "Brighter, more vivid finished color - #11 Snow White",
+      "Improved performance, better resistance to efflorescence",
+      "Easy to use - Just mix with water"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Fills narrow grout joints up to 1/8 in. wide",
+      "Curing times vary depending on conditions, standard cure time is 72 hours",
+      "Better resistance to efflorescence",
+      "Resistant to shrinking, powdering and wear",
+      "Excellent for highly-glazed ceramic tile and highly polished marble or natural stone",
+      "Polymer fortified for hard, durable, professional results",
+      "Can be used on floors, walls, countertops, tub surrounds, showers and in submerged conditions (swimming pools, spas, water features and fountains)",
+      "Sample colors shown may vary from actual grout; final installed shade can differ based on tile type, porosity, job site conditions and finishing techniques",
+      "Visit the <a href=\"https://www.homedepot.com/c/ah/how-to-grout-tile/9ba683603be9fa5395fab90116d5c33\" target=\"_blank\" style=\"color:#F96302;\"> How to Grout Tile Project Guide </a> for tips on completing your grout project",
+      "Check out more <a href=\"https://www.homedepot.com/b/Flooring-Flooring-Tools-Materials-Tile-Setting-Grout/Custom-Building-Products/N-5yc1vZcdtxZef\" target=\"_blank\" style=\"color:#F96302;\"> grout products from Custom Building Products </a> to find the best fit for your tile project"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/32d8b1a0-1bda-42ca-809d-459ab080b454/svn/custom-building-products-grout-pbpg1110-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1150851a-c25c-4aa4-b49d-bdecc40564bd/svn/custom-building-products-grout-pbpg1110-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6e9d222f-f692-4846-a871-e86ad48a66ef/svn/custom-building-products-grout-pbpg1110-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/75ef8eaf-3f9c-4edd-bd6d-882aaf12994c/svn/custom-building-products-grout-pbpg1110-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46d8f02b-cfe7-4e77-835a-6fd35bfe9750/svn/custom-building-products-grout-pbpg1110-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1b68d0ac-551b-4436-9cec-278ad90f0b8a/svn/custom-building-products-grout-pbpg1110-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b722fa09-cd94-4c74-8e1c-ed3cdc337b1a/svn/custom-building-products-grout-pbpg1110-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c0804d1-98cb-4ada-8225-1ebec7ea4530/svn/custom-building-products-grout-pbpg1110-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25e1125a-c359-4189-97aa-bf3bdadb3456/svn/custom-building-products-grout-pbpg1110-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d698d130-68b7-4851-bd2f-a7d55b1e6b00/svn/custom-building-products-grout-pbpg1110-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9d77945a-bbbc-4e9a-a896-73145a14b6c8/svn/custom-building-products-grout-pbpg1110-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/879fe724-1390-4671-b32b-bb47240e1877/svn/custom-building-products-grout-pbpg1110-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0996580a-7d11-4c02-830c-ecc680dd2f37/svn/custom-building-products-grout-pbpg1110-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/32d8b1a0-1bda-42ca-809d-459ab080b454/svn/custom-building-products-grout-pbpg1110-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1738,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Capacity",
+        "value": "10 lb."
+      },
+      {
+        "group_name": "Details",
+        "name": "Color",
+        "value": "Snow White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry time (hours)",
+        "value": "72"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Mold/mildew resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Grout"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Cement,Ceramic,Glass,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Countertop,Exterior wall,Floor,Interior wall,Kitchen Backsplash,Shower,Swimming pool,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product type",
+        "value": "Unsanded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Lifetime Warranty",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Eligible for Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Coverage Area (sq. ft.)",
+        "value": "575 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6.5 in"
+      }
+    ],
+    "color": "Snow White",
+    "keywords_list": [
+      "Custom Building Products",
+      "10 lb. # 386 Oyster Gray Non-Sanded Grout",
+      "PBG38610"
+    ],
+    "keywords": "Custom Building Products, 10 lb. # 386 Oyster Gray Non-Sanded Grout, PBG38610",
+    "variants": [
+      {
+        "title": "Ash~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-642-Ash-10-lb-Unsanded-Grout-PBPG64210/313301180",
+        "item_id": "313301180"
+      },
+      {
+        "title": "Cool White~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-641-Cool-White-10-lb-Unsanded-Grout-PBPG64110/313301181",
+        "item_id": "313301181"
+      },
+      {
+        "title": "Saddle Brown~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-59-Saddle-Brown-10-lb-Unsanded-Grout-PBPG5910/313301182",
+        "item_id": "313301182"
+      },
+      {
+        "title": "Cape Gray~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-546-Cape-Gray-10-lb-Unsanded-Grout-PBPG54610/313301183",
+        "item_id": "313301183"
+      },
+      {
+        "title": "Sable Brown~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-95-Sable-Brown-10-lb-Unsanded-Grout-PBPG9510/313301176",
+        "item_id": "313301176"
+      },
+      {
+        "title": "Steel Blue~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-645-Steel-Blue-10-lb-Unsanded-Grout-PBPG64510/313301177",
+        "item_id": "313301177"
+      },
+      {
+        "title": "Shadow~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-644-Shadow-10-lb-Unsanded-Grout-PBPG64410/313301178",
+        "item_id": "313301178"
+      },
+      {
+        "title": "Warm Gray~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-643-Warm-Gray-10-lb-Unsanded-Grout-PBPG64310/313301179",
+        "item_id": "313301179"
+      },
+      {
+        "title": "New Taupe~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-185-New-Taupe-10-lb-Unsanded-Grout-PBPG18510/313301196",
+        "item_id": "313301196"
+      },
+      {
+        "title": "Chateau~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-183-Chateau-10-lb-Unsanded-Grout-PBPG18310/313301197",
+        "item_id": "313301197"
+      },
+      {
+        "title": "Urban Putty~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-172-Urban-Putty-10-lb-Unsanded-Grout-PBPG17210/313301198",
+        "item_id": "313301198"
+      },
+      {
+        "title": "Charcoal~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-60-Charcoal-10-lb-Unsanded-Grout-PBPG6010/313296527",
+        "item_id": "313296527"
+      },
+      {
+        "title": "Light Smoke~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-145-Light-Smoke-10-lb-Unsanded-Grout-PBPG14510/313301199",
+        "item_id": "313301199"
+      },
+      {
+        "title": "Winter Gray~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-335-Winter-Gray-10-lb-Unsanded-Grout-PBPG33510/313301192",
+        "item_id": "313301192"
+      },
+      {
+        "title": "Alabaster~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-333-Alabaster-10-lb-Unsanded-Grout-PBPG33310/313301193",
+        "item_id": "313301193"
+      },
+      {
+        "title": "Khaki~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-186-Khaki-10-lb-Unsanded-Grout-PBPG18610/313301195",
+        "item_id": "313301195"
+      },
+      {
+        "title": "Walnut~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-541-Walnut-10-lb-Unsanded-Grout-PBPG54110/313301188",
+        "item_id": "313301188"
+      },
+      {
+        "title": "Truffle~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-540-Truffle-10-lb-Unsanded-Grout-PBPG54010/313301189",
+        "item_id": "313301189"
+      },
+      {
+        "title": "Tobacco~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-52-Tobacco-10-lb-Unsanded-Grout-PBPG5210/313301190",
+        "item_id": "313301190"
+      },
+      {
+        "title": "Dove Gray~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-370-Dove-Gray-10-lb-Unsanded-Grout-PBPG37010/313301191",
+        "item_id": "313301191"
+      },
+      {
+        "title": "Bleached Wood~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-545-Bleached-Wood-10-lb-Unsanded-Grout-PBPG54510/313301184",
+        "item_id": "313301184"
+      },
+      {
+        "title": "Graystone~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-542-Graystone-10-lb-Unsanded-Grout-PBPG54210/313301187",
+        "item_id": "313301187"
+      },
+      {
+        "title": "Bright White~~1 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-381-Bright-White-1-lb-Unsanded-Grout-NSPG3811/321398556",
+        "item_id": "321398556"
+      },
+      {
+        "title": "Snow White~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-11-Snow-White-10-lb-Unsanded-Grout-PBPG1110/313296536",
+        "item_id": "313296536"
+      },
+      {
+        "title": "Linen~~1 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-122-Linen-1-lb-Unsanded-Grout-NSPG1221/321398557",
+        "item_id": "321398557"
+      },
+      {
+        "title": "Natural Gray~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-09-Natural-Gray-10-lb-Unsanded-Grout-PBPG0910/313296537",
+        "item_id": "313296537"
+      },
+      {
+        "title": "Bright White~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-381-Bright-White-10-lb-Unsanded-Grout-PBPG38110/313296538",
+        "item_id": "313296538"
+      },
+      {
+        "title": "Pewter~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-19-Pewter-10-lb-Unsanded-Grout-PBPG1910/313296532",
+        "item_id": "313296532"
+      },
+      {
+        "title": "Delorean Gray~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-165-Delorean-Gray-10-lb-Unsanded-Grout-PBPG16510/313296533",
+        "item_id": "313296533"
+      },
+      {
+        "title": "Linen~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-122-Linen-10-lb-Unsanded-Grout-PBPG12210/313296534",
+        "item_id": "313296534"
+      },
+      {
+        "title": "Brown Velvet~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-647-Brown-Velvet-10-lb-Unsanded-Grout-PBPG64710/313027411",
+        "item_id": "313027411"
+      },
+      {
+        "title": "Platinum~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-115-Platinum-10-lb-Unsanded-Grout-PBPG11510/313296535",
+        "item_id": "313296535"
+      },
+      {
+        "title": "Rolling Fog~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-544-Rolling-Fog-10-lb-Unsanded-Grout-PBPG54410/313296528",
+        "item_id": "313296528"
+      },
+      {
+        "title": "Coffee Bean~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-646-Coffee-Bean-10-lb-Unsanded-Grout-PBPG64610/313027412",
+        "item_id": "313027412"
+      },
+      {
+        "title": "Mushroom~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-135-Mushroom-10-lb-Unsanded-Grout-PBPG13510/313301200",
+        "item_id": "313301200"
+      },
+      {
+        "title": "Earth~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-105-Earth-10-lb-Unsanded-Grout-PBPG10510/313301201",
+        "item_id": "313301201"
+      },
+      {
+        "title": "Oyster Gray~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-386-Oyster-Gray-10-lb-Unsanded-Grout-PBPG38610/313296529",
+        "item_id": "313296529"
+      },
+      {
+        "title": "Arctic White~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-640-Arctic-White-10-lb-Unsanded-Grout-PBPG64010/313027413",
+        "item_id": "313027413"
+      },
+      {
+        "title": "Bone~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-382-Bone-10-lb-Unsanded-Grout-PBPG38210/313296530",
+        "item_id": "313296530"
+      },
+      {
+        "title": "Antique White~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-10-Antique-White-10-lb-Unsanded-Grout-PBPG1010/313301203",
+        "item_id": "313301203"
+      },
+      {
+        "title": "Haystack~~10 lb.",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-Plus-380-Haystack-10-lb-Unsanded-Grout-PBPG38010/313296531",
+        "item_id": "313296531"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Tile Setting",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting/N-5yc1vZcdut"
+      },
+      {
+        "name": "Grout",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting-Grout/N-5yc1vZcdtx"
+      }
+    ],
+    "buybox_winner": {
+      "price": 13.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 10
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 285,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14228,
+    "overage_used": 4228,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Stabilit-854-1-2-in-x-7-8-in-x-96-in-PVC-White-FRP-Inside-Corner-Moulding-10003-ZW096CB/205347155"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:21:01.227Z",
+    "processed_at": "2025-05-01T18:21:12.819Z",
+    "total_time_taken": 11.59,
+    "homedepot_url": "https://www.homedepot.com/p/Stabilit-854-1-2-in-x-7-8-in-x-96-in-PVC-White-FRP-Inside-Corner-Moulding-10003-ZW096CB/205347155"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Stabilit-854-1-2-in-x-7-8-in-x-96-in-PVC-White-FRP-Inside-Corner-Moulding-10003-ZW096CB/205347155",
+    "brand": "Stabilit",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/Stabilit/N-5yc1vZcbjfZ96f",
+    "title": "Stabilit 854 1/2 in. x 7/8 in. x 96 in. PVC White FRP Inside Corner Moulding",
+    "upc": "788594710184",
+    "item_id": "205347155",
+    "store_sku": "471304",
+    "model_number": "10003-ZW096CB",
+    "description": "PVC Inside Corner moulding is essential for creating a finished, professional look where FRP panels are joined at an inside corner. They provide a sanitary seam sealing open corners where dirt, stains and bacteria can collect. This curved corner design makes for easy cleaning.",
+    "favorite_count": 282,
+    "aisle": "19",
+    "bay": "013",
+    "feature_bullets": [
+      "Inside corner molding offers a sophisticated appeal",
+      "Stain-, rust-, and rot-resistant PVC ensures durability",
+      "Interlocking installation with silicone caulk allows easy setup"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Required for FDA accepted FRP installation and 10-year limited warranty",
+      "Durable PVC resists mold, mildew, bacteria and stains",
+      "Suggested installation includes use of silicone caulk",
+      "Not recommended for exterior use"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/9667f2a0-d9e0-4ad7-ac88-e9db9453fada/svn/white-stabilit-corner-moulding-10003-zw096cb-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/9667f2a0-d9e0-4ad7-ac88-e9db9453fada/svn/white-stabilit-corner-moulding-10003-zw096cb-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 30,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Interlocking"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Corner Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "10003"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Guaranteed against manufacturing defects"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.875 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Corner Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/N-5yc1vZcbjf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 3.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 43
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 208,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

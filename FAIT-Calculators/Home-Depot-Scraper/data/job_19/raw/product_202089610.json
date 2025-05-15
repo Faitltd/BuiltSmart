@@ -1,0 +1,199 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14184,
+    "overage_used": 4184,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Select-Tongue-and-Groove-Whitewood-Lumber-Common-2-in-x-6-in-x-8-ft-Actual-1-440-in-x-5-380-in-x-8-ft-467623/202089610"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:01:31.701Z",
+    "processed_at": "2025-05-01T18:02:14.198Z",
+    "total_time_taken": 42.5,
+    "homedepot_url": "https://www.homedepot.com/p/Select-Tongue-and-Groove-Whitewood-Lumber-Common-2-in-x-6-in-x-8-ft-Actual-1-440-in-x-5-380-in-x-8-ft-467623/202089610"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Select-Tongue-and-Groove-Whitewood-Lumber-Common-2-in-x-6-in-x-8-ft-Actual-1-440-in-x-5-380-in-x-8-ft-467623/202089610",
+    "brand": "Unbranded",
+    "title": "Unbranded Select Tongue and Groove Whitewood Lumber (Common: 2 in. x 6 in. x 8 ft.; Actual: 1.440 in. x 5.380 in. x 8 ft.)",
+    "upc": "769887005033",
+    "item_id": "202089610",
+    "parent_id": "330800423",
+    "store_sku": "467623",
+    "model_number": "467623",
+    "description": "Dimensional lumber is ideal for a wide range of structural and nonstructural applications including framing of houses, barns, sheds, and commercial construction. This can be used in many applications for your projects. Use traditional tools to cut, saw or fasten this product.",
+    "favorite_count": 26,
+    "feature_bullets": [
+      "Meets highest grading standards for strength and appearance",
+      "Easy to cut, fasten and paint, perfect for many building projects",
+      "Ideal for framing, houses, sheds, and other structures"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Every piece meets the highest grading standards for strength and appearance",
+      "It can also be used for projects such as furniture and hobbies",
+      "Can be primed and painted or stained",
+      "Interior or exterior use",
+      "Vertical or horizontal",
+      "Note: product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6c5ecb41-12e0-4bdb-b922-4cb6dd4ecb7e/svn/framing-lumber-467623-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cb5a7220-ccce-45a1-9aea-5545c5be51bd/svn/framing-lumber-467623-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a138209c-be23-42bb-ab8e-58b84a66dae2/svn/framing-lumber-467623-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36895cbf-57d9-4de6-bf87-d8e64f28e7d8/svn/framing-lumber-467623-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6c5ecb41-12e0-4bdb-b922-4cb6dd4ecb7e/svn/framing-lumber-467623-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGRfMDc5ODAxMTE2MzhmMDlhODFhYjA1ZDUzMDVmNTA3NzgzODJkMDUxODIxMTdlNjVkNWI1NzM5ODBjOWVlMWJkZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 19,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Screws,Standard Nails"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Appearance Grade"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Whitewood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "keywords_list": [
+      "2 in. x 6 in. x 8 ft. Whitewood Select Deck Tongue and Groove",
+      "467623"
+    ],
+    "keywords": "2 in. x 6 in. x 8 ft. Whitewood Select Deck Tongue and Groove, 467623",
+    "variants": [
+      {
+        "title": "8 ft~~2x6",
+        "link": "https://www.homedepot.com/p/Select-Tongue-and-Groove-Whitewood-Lumber-Common-2-in-x-6-in-x-8-ft-Actual-1-440-in-x-5-380-in-x-8-ft-467623/202089610",
+        "item_id": "202089610"
+      },
+      {
+        "title": "12 ft~~2x6",
+        "link": "https://www.homedepot.com/p/Select-Tongue-and-Groove-Whitewood-Lumber-Common-2-in-x-6-in-x-12-ft-Actual-1-440-in-x-5-380-in-x-12-ft-476581/202089615",
+        "item_id": "202089615"
+      },
+      {
+        "title": "10 ft~~2x6",
+        "link": "https://www.homedepot.com/p/Select-Tongue-and-Groove-Whitewood-Lumber-Common-2-in-x-6-in-x-10-ft-Actual-1-440-in-x-5-380-in-x-10-ft-476578/202089614",
+        "item_id": "202089614"
+      },
+      {
+        "title": "16 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-16-ft-Select-Tongue-Groove-Whitewood-Lumber-336806/202074400",
+        "item_id": "202074400"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

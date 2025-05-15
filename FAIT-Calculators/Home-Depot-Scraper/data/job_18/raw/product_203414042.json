@@ -1,0 +1,166 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14046,
+    "overage_used": 4046,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/SANDEPLY-5-2mm-Sandeply-Plywood-1-4-in-Category-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-205-in-x-48-in-x-96-in-479023/203414042"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:52:35.843Z",
+    "processed_at": "2025-05-01T17:52:40.994Z",
+    "total_time_taken": 5.15,
+    "homedepot_url": "https://www.homedepot.com/p/SANDEPLY-5-2mm-Sandeply-Plywood-1-4-in-Category-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-205-in-x-48-in-x-96-in-479023/203414042"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/SANDEPLY-5-2mm-Sandeply-Plywood-1-4-in-Category-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-205-in-x-48-in-x-96-in-479023/203414042",
+    "brand": "SANDEPLY",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/SANDEPLY/N-5yc1vZc7r1Zyji",
+    "title": "SANDEPLY 5.2mm - Sandeply Plywood (1/4 in. Category Common: 1/4 in. x 4 ft. x 8 ft.; Actual: 0.205 in. x 48 in. x 96 in.)",
+    "upc": "850035004005",
+    "item_id": "203414042",
+    "store_sku": "479023",
+    "model_number": "479023",
+    "description": "Sandeplywood is a Home Depot Exclusive. Every piece meets the highest grading standard for strength and appearance. Sandeplywood delivers durable beauty in cabinets, furniture, shelving, wall panels, entertainment centers, tables and various interior projects. Sandeplywood can be painted, stained or laminated.",
+    "favorite_count": 3941,
+    "feature_bullets": [
+      "Features minimal core voids for protection when sawing",
+      "Sande plywood construction withstands damage",
+      "Smooth surface makes it easy to paint"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Minimal core voids - a quality core helps eliminate chip out that can damage or destroy the work piece when sawn or routed",
+      "Minimal core veneer overlaps - a quality core helps eliminate telegraphing to the face or back which can cause an uneven stain appearance when a stain is applied",
+      "Calibrated panel - provides a uniform thickness to the panel from end or end that insures that all cut pieces of the project fit properly",
+      "Other products needed with sandeplywood projects: saw blades, screws, hardware(knobs, hinges, and handles), wood conditioner, sealers, stain, paint, edge banding, sand paper, tack clothes and brushes",
+      "Cost competitive versatile panel only at The Home Depot"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0dadc3c7-c655-4473-835d-cf0ffdc76889/svn/sandeply-hardwood-plywood-479023-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6f6fee75-9040-437a-8761-5d5bd049d73e/svn/sandeply-hardwood-plywood-479023-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0dadc3c7-c655-4473-835d-cf0ffdc76889/svn/sandeply-hardwood-plywood-479023-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 797,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "3-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "B2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Hardwood Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/N-5yc1vZc7r1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 41
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 3727,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

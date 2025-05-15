@@ -1,0 +1,201 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14793,
+    "overage_used": 4793,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/WILSON-1-625-in-x-1-1-6-ft-x-1-1-6-ft-Basswood-Thick-Wood-Round-Slices-Project-Panel-4-Pack-40004-40004/334367054"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:29:29.027Z",
+    "processed_at": "2025-05-01T19:29:39.018Z",
+    "total_time_taken": 9.99,
+    "homedepot_url": "https://www.homedepot.com/p/WILSON-1-625-in-x-1-1-6-ft-x-1-1-6-ft-Basswood-Thick-Wood-Round-Slices-Project-Panel-4-Pack-40004-40004/334367054"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/WILSON-1-625-in-x-1-1-6-ft-x-1-1-6-ft-Basswood-Thick-Wood-Round-Slices-Project-Panel-4-Pack-40004-40004/334367054",
+    "brand": "WILSON",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/WILSON/N-5yc1vZc7hmZzf6",
+    "title": "WILSON 1.625 in. x 1 1/6 ft. x 1 1/6 ft. Basswood Thick Wood Round Slices Project Panel (4-Pack) (40004)",
+    "upc": "734343400042",
+    "item_id": "334367054",
+    "parent_id": "333991935",
+    "store_sku": "1013671043",
+    "model_number": "40004",
+    "description": "Our thick basswood rounds are perfect for a variety of applications. Let your imagination soar by using rounds that are handcrafted from the finest quality Northern Michigan basswood trees. 12-14 in. Dia x 1 5/8 in. thick.",
+    "feature_bullets": [
+      "Ideal for centerpiece, decor and DIY use",
+      "Kiln dry process wicks away moisture"
+    ],
+    "feature_bullets_count": 2,
+    "descriptive_attributes": [
+      "12-14 Dia x 1 5/8 in. thick",
+      "All of our wood products undergo a kiln dry process which wicks away moisture, and preserves the integrity of the bark",
+      "Each product is unique as this is a natural product and may not match the picture identically",
+      "Ideal for centerpiece, decor, and DIY use",
+      "Proudly made in the upper peninsula of Michigan"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/60bde717-8da6-4d98-9685-ed00457f1987/svn/wilson-project-panels-40004-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f35f8792-4f77-45fa-9f7a-6b93b33ff3ae/svn/wilson-project-panels-40004-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b338418f-7b03-45a8-b9d0-87db5e9551e3/svn/wilson-project-panels-40004-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3279aa50-186a-4108-864d-3cb5b199a1c5/svn/wilson-project-panels-40004-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b56ee83d-8735-46a8-83ac-4d88ad34444a/svn/wilson-project-panels-40004-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/60bde717-8da6-4d98-9685-ed00457f1987/svn/wilson-project-panels-40004-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardboard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Appearance Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "We guarantee that our product will be free of defect upon delivery."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "14.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "14 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "1-1/6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1-5/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "1-1/6"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1-1/6 ft. x 1-1/6 ft.~~1-5/8~~Basswood",
+        "link": "https://www.homedepot.com/p/WILSON-1-625-in-x-1-1-6-ft-x-1-1-6-ft-Basswood-Thick-Wood-Round-Slices-Project-Panel-4-Pack-40004-40004/334367054",
+        "item_id": "334367054"
+      },
+      {
+        "title": "3/4 ft. x 3/4 ft.~~1-5/8~~Basswood",
+        "link": "https://www.homedepot.com/p/WILSON-1-625-in-x-3-4-ft-x-3-4-ft-Basswood-Thick-Wood-Round-Slices-Project-Panel-8-Pack-39750/334004552",
+        "item_id": "334004552"
+      },
+      {
+        "title": "1/2 ft. x 1/2 ft.~~1-5/8~~Basswood",
+        "link": "https://www.homedepot.com/p/WILSON-1-625-in-x-7-in-x-7-in-Basswood-Thick-Wood-Round-Slices-Project-Panel-8-pack-39605-39605/333992994",
+        "item_id": "333992994"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 123.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

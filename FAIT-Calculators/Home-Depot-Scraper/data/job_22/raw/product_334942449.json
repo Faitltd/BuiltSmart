@@ -1,0 +1,197 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14783,
+    "overage_used": 4783,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Veranda-13-32-in-x-1-2-in-x-96-in-Vinyl-Bead-Moulding-0225808003/334942449"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:26:56.438Z",
+    "processed_at": "2025-05-01T19:27:02.144Z",
+    "total_time_taken": 5.71,
+    "homedepot_url": "https://www.homedepot.com/p/Veranda-13-32-in-x-1-2-in-x-96-in-Vinyl-Bead-Moulding-0225808003/334942449"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Veranda-13-32-in-x-1-2-in-x-96-in-Vinyl-Bead-Moulding-0225808003/334942449",
+    "brand": "Veranda",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Veranda/N-5yc1vZcbj5Z1ko",
+    "title": "Veranda 13/32 in. x 1/2 in. x 96 in. Vinyl Bead Moulding",
+    "upc": "070673836800",
+    "item_id": "334942449",
+    "store_sku": "247168",
+    "model_number": "0225808003",
+    "description": "Featuring a white finish, this 13/32 in. x 1/2 in. x 96 in. Vinyl Bead Moulding is a rot, termite and moisture resistant material ideal for both interior and exterior use. Installs easily with standard wood working tools. Adding moulding to your home or office adds value and a nice finishing touch.",
+    "aisle": "19",
+    "bay": "005",
+    "feature_bullets": [
+      "Finished white finish adds an elegant touch to your home",
+      "Moisture, termite and moisture resistant for durability",
+      "Easy installation with standard wood working tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Vinyl is durable and easy to clean",
+      "Pre-finished bright white and can installed as is or painted with a latex paint",
+      "Moisture, rot and termite resistant",
+      "Cuts like wood with no special tools required",
+      "For interior and exterior use"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d7316533-c970-466c-b732-af7f4ac25bae/svn/finished-white-veranda-general-purpose-moulding-0225808003-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b9d2f0f9-0057-4426-a3cd-d296b9319735/svn/finished-white-veranda-general-purpose-moulding-0225808003-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d7316533-c970-466c-b732-af7f4ac25bae/svn/finished-white-veranda-general-purpose-moulding-0225808003-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 5,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Finished White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Stucco Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2258"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime no rot warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.41 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4.94,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 91
+        }
+      }
+    }
+  }
+}

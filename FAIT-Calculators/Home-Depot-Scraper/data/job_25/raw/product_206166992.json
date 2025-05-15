@@ -1,0 +1,154 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14840,
+    "overage_used": 4840,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Builders-Choice-LWM-356-9-16-in-x-2-1-4-in-Primed-Finger-Jointed-Pine-Casing-Molding-P32035616/206166992"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:41:21.248Z",
+    "processed_at": "2025-05-01T19:41:57.768Z",
+    "total_time_taken": 36.52,
+    "homedepot_url": "https://www.homedepot.com/p/Builders-Choice-LWM-356-9-16-in-x-2-1-4-in-Primed-Finger-Jointed-Pine-Casing-Molding-P32035616/206166992"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Builders-Choice-LWM-356-9-16-in-x-2-1-4-in-Primed-Finger-Jointed-Pine-Casing-Molding-P32035616/206166992",
+    "brand": "Builders Choice",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Builders-Choice/N-5yc1vZclf5Zflz",
+    "title": "Builders Choice LWM 356 9/16 in. x 2-1/4 in. Primed Finger-Jointed Pine Casing Molding",
+    "upc": "096037028988",
+    "item_id": "206166992",
+    "store_sku": "168061",
+    "model_number": "P32035616",
+    "description": "Featuring a sleek white surface, primed finger-jointed pine is a great way to update your rooms and highlight the special care that has gone into your property. Casings can increase the value of your home or business estate and are an inexpensive way to add character and flair to any home. Casings work great to cover the gap between the drywall and the door or window frame.",
+    "favorite_count": 5,
+    "feature_bullets": [
+      "Made of finger-jointed pine wood to ensure lasting durability",
+      "Can be used to conceal gaps between frames and drywall",
+      "Pre-primed with water-based primer for easy paint adhesion"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finest premium primed finger-jointed pine for enhanced quality and appearance",
+      "Smooth surface and grain for a superior finish",
+      "Primed for superior paint adhesion and reduced labor costs",
+      "Paint to match your decor",
+      "Can be used in buildups for unique designs",
+      "Perfect to upgrade entrances/exits in your home",
+      "Available in random lengths",
+      "Manufacturers and availability may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5ef78710-0684-4dee-8218-714bb6c6e58d/svn/primed-white-builders-choice-casing-p32035616-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46c2035a-792d-4ee5-af09-be9a2090650d/svn/primed-white-builders-choice-casing-p32035616-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5ef78710-0684-4dee-8218-714bb6c6e58d/svn/primed-white-builders-choice-casing-p32035616-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 21,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

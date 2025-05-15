@@ -1,0 +1,377 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13893,
+    "overage_used": 3893,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Lifeproof-Glastonbury-Grove-Oak-22-MIL-x-7-4-in-W-x-47-8-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-19-8-sqft-case-67400-205-07B47/328124192"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:06:36.473Z",
+    "processed_at": "2025-05-01T17:06:40.911Z",
+    "total_time_taken": 4.44,
+    "homedepot_url": "https://www.homedepot.com/p/Lifeproof-Glastonbury-Grove-Oak-22-MIL-x-7-4-in-W-x-47-8-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-19-8-sqft-case-67400-205-07B47/328124192"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Lifeproof-Glastonbury-Grove-Oak-22-MIL-x-7-4-in-W-x-47-8-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-19-8-sqft-case-67400-205-07B47/328124192",
+    "brand": "Lifeproof",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/Lifeproof/N-5yc1vZbzjzZnv7",
+    "title": "Lifeproof Glastonbury Grove Oak 22 MIL x 7.4 in. W x 47.8 in. L Waterproof Click Lock Luxury Vinyl Plank Flooring (19.8 sqft/case)",
+    "upc": "636738131954",
+    "item_id": "328124192",
+    "parent_id": "330454002",
+    "store_sku": "1010647655",
+    "model_number": "67400.205.07B47",
+    "description": "This beige white oak with light ceruse detail is accented by authentic graining and an embossed texture to create the feel of real wood flooring. Lifeproof LVP is a waterproof rigid core vinyl flooring with an authentic look and feel. Planks are protected for life by an antimicrobial technology that inhibits the growth of mold and mildew that may affect your floor. These properties are built into every plank and will not wash or wear off. Lifeproof is an easy DIY or PRO installation - the pre-attached underlayment is quiet and comfortable underfoot. Install throughout your home in the bathroom, kitchen, basement and living areas - simply drop, lock, and tap into place and the room is done. These floors are built with the ultimate in stain, scratch and dent resistance, so maintenance is a breeze - just sweep, vacuum, or damp mop with a pH neutral cleaner. Backed by a Lifetime Residential Warranty. 100% Lifeproof, 0% worries.",
+    "is_exclusive": true,
+    "aisle": "45",
+    "bay": "005",
+    "feature_bullets": [
+      "Luxury vinyl flooring interlocks for a waterproof seal",
+      "Lifeproof offers maximum scratch and stain resistance",
+      "Anti-microbial flooring resists the growth of mold and mildew"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Glastonbury grove oak rigid core luxury vinyl plank",
+      "Embossed; gloss; light color; wood-look design",
+      "6.5mm thickness x 7.46 in. width x 47.8 in. length",
+      "Waterproof product makes the appropriate grade for installation: Above grade, On grade, or Below grade - good for any room in the home",
+      "May be installed over concrete, tile, vinyl, and wood",
+      "Approved for residential and light commercial use",
+      "Easy to clean and maintain",
+      "Don't forget your coordinating trim and molding",
+      "All online orders for this item ship via parcel ground and may arrive in multiple boxes",
+      "Waterproof",
+      "Antimicrobial properties built in to protect the floor",
+      "No acclimation required",
+      "Easy and secure installation with uniclic locking joints",
+      "Planks per carton: 8; sq. ft. per carton: 19.81",
+      "Lifetime limited residential and 20-Year limited commercial warranty",
+      "It is recommended you purchase a minimum of 10% overage to account for cuts.",
+      "Actual item color may vary from device screen representation; we recommend that you order a sample and view it in the room where your flooring will be installed"
+    ],
+    "descriptive_attributes_count": 17,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/20e071e4-ffb7-455b-ab9c-54db0fc15b23/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79c6ecca-d6f7-40a4-91a3-c3631c7e775b/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/55565c6f-c530-465b-9a4c-c5729033549c/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9a4b6368-47dd-40d5-bfd1-08d6e8bb5bda/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b0936643-be56-45c0-b842-16d4e3ccb5bc/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d7262bb7-637f-41c3-905b-36ee3fdf1217/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/50d890e6-9405-45e4-b1a4-ad6000b8693a/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/635a6712-2161-4027-8ad4-4b0962f9e7df/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/387d4c14-d9af-476b-84a9-128294b7e4a3/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e9f1a6eb-5386-4f59-9f6c-fa23554967f3/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fbde1a0b-6f4f-45dc-96fe-4ded0bcfd05e/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/592c85e7-6c27-43de-a72f-a4f53593f8d9/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/20e071e4-ffb7-455b-ab9c-54db0fc15b23/svn/glastonbury-grove-oak-lifeproof-vinyl-plank-flooring-67400-205-07b47-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/1b8146b3-518e-45fa-bcfe-f0c4b8cc74be/7599244c-103b-442a-94fe-981fa7b5afb5/main.mp4?fastly_token=NjgxMzhmMTJfZDMwNmI5ZDY0ZDg2ZDFmZmExMmJkMWE1YTU5MDU1YmMxMjU1NWJkNTZlZjZjZTRlMzRiYzA1ZjA3NTFiODNiZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMWI4MTQ2YjMtNTE4ZS00NWZhLWJjZmUtZjBjNGI4Y2M3NGJlLzc1OTkyNDRjLTEwM2ItNDQyYS05NGZlLTk4MWZhN2I1YWZiNS9tYWluLm1wNA%3D%3D",
+        "title": "Lifeproof Luxury",
+        "id": "6348279122112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/1b8146b3-518e-45fa-bcfe-f0c4b8cc74be/369bcde1-e458-4a51-a1e1-bad9dec1e2d6/160x90/match/image.jpg"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/37df8ec5-d480-49b2-b86a-9b16d3fa254e/25d822f2-df79-46ae-aa54-74485ed95b9c/main.mp4?fastly_token=NjgxMzUzNDNfOWM2NmExMjU0YmNhZmRmZmI1NTFmMWJlZWMwNmZjM2IwOWE2NTIyMjI1NDNjODk3N2RiYjIyZjRmYWQ4MGJlOV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMzdkZjhlYzUtZDQ4MC00OWIyLWI4NmEtOWIxNmQzZmEyNTRlLzI1ZDgyMmYyLWRmNzktNDZhZS1hYTU0LTc0NDg1ZWQ5NWI5Yy9tYWluLm1wNA%3D%3D",
+        "title": "FY25 15s Lifeproof Vinyl Plank Category Video",
+        "id": "6364904579112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/37df8ec5-d480-49b2-b86a-9b16d3fa254e/main/160x90/7s541ms/match/image.jpg"
+      }
+    ],
+    "ratings_total": 72,
+    "rating": 3.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Antimicrobial",
+        "value": "Antimicrobial"
+      },
+      {
+        "group_name": "Details",
+        "name": "Application Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cases Per Pallet",
+        "value": "28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Yellow"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Glastonbury Grove Oak"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Micro Beveled"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Mark Resistant,Phthalate Free,Removable,Scratch Resistant,Skid Resistant,Stain Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Vinyl Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Wood Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gloss",
+        "value": "Low Gloss"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Click Lock"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installs Over Subfloor",
+        "value": "Concrete,Plywood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Entry Way,Kitchen"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "No Acclimation Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Look",
+        "value": "Straight Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pieces Per Case",
+        "value": "8"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Length",
+        "value": "Long"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Width",
+        "value": "Wide plank (7+ in)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "47.25 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Species Look",
+        "value": "Oak Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Underlayment Options",
+        "value": "Underlayment Required - Pre-Attached"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Waterproof"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Residential/20 Year Commercial"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Plank Size (in.)",
+        "value": "48 x 7"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "48.54 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "6.5 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7.46 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wear Layer Thickness (mil)",
+        "value": "22 MIL"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Glastonbury Grove Oak~~60 x 7~~22 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Lifeproof-Glastonbury-Grove-Oak-22-MIL-x-7-4-in-W-x-59-5-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-21-5-sqft-case-67401-205-07B60/328124202",
+        "item_id": "328124202"
+      },
+      {
+        "title": "Walnut Glen~~60 x 7~~22 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Lifeproof-Walnut-Glen-22-MIL-x-7-4-in-W-x-59-5-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-21-5-sqft-case-67401-500-07B60/328123954",
+        "item_id": "328123954"
+      },
+      {
+        "title": "Glastonbury Grove Oak~~48 x 7~~22 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Lifeproof-Glastonbury-Grove-Oak-22-MIL-x-7-4-in-W-x-47-8-in-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-19-8-sqft-case-67400-205-07B47/328124192",
+        "item_id": "328124192"
+      },
+      {
+        "title": "Walnut Glen~~48 x 7~~22 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Lifeproof-Walnut-Glen-22-MIL-x-7-4-in-W-x-47-8-L-Waterproof-Click-Lock-Luxury-Vinyl-Plank-Flooring-19-8-sqft-case-67400-500-07B47/328123953",
+        "item_id": "328123953"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Vinyl Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring/N-5yc1vZapwr"
+      },
+      {
+        "name": "Vinyl Plank Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/N-5yc1vZbzjz"
+      }
+    ],
+    "buybox_winner": {
+      "price": 65.17,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "carton",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 47
+        },
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 7025,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-09"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 53,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 7025,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

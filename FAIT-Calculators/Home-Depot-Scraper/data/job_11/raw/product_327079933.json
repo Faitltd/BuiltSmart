@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13618,
+    "overage_used": 3618,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-3-1-4-in-MDF-Baseboard-Molding-MDF221A/327079933"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:51:50.550Z",
+    "processed_at": "2025-05-01T16:52:35.657Z",
+    "total_time_taken": 45.11,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-3-1-4-in-MDF-Baseboard-Molding-MDF221A/327079933"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-3-1-4-in-MDF-Baseboard-Molding-MDF221A/327079933",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Kelleher/N-5yc1vZcbjpZ4z5",
+    "title": "Kelleher LWM623 9/16 in. x 3-1/4 in. MDF Baseboard Molding",
+    "upc": "811664023607",
+    "item_id": "327079933",
+    "parent_id": "325326227",
+    "store_sku": "168206",
+    "model_number": "MDF221A",
+    "description": "The Kelleher 3-1/4 in. x 9/16 in. Coronado Base Molding is installed where the floor meets the wall. It covers any gaps that remain after flooring installation. And gives a distinctive finished look to any room.",
+    "feature_bullets": [
+      "Paintable for customized utility",
+      "Crafted from MDF for longevity",
+      "Pre-primed for efficient installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from medium density fiberboard (MDF)",
+      "Pre-primed to save a step in installation",
+      "Ready to paint to match your decor",
+      "Sold by the linear feet"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/60c69168-7597-4806-af23-2c6c43d76222/svn/primed-kelleher-baseboard-mdf221a-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3fd4fd58-10ef-45da-9274-cc70db0bcece/svn/primed-kelleher-baseboard-mdf221a-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/60c69168-7597-4806-af23-2c6c43d76222/svn/primed-kelleher-baseboard-mdf221a-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 56,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "221"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Primed~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-5-1-4-in-MDF-Base-Molding-MDF223A/100321851",
+        "item_id": "100321851"
+      },
+      {
+        "title": "Primed~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-3-1-4-in-MDF-Baseboard-Molding-MDF221A/327079933",
+        "item_id": "327079933"
+      },
+      {
+        "title": "Primed white~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Solana-11-16-in-x-4-1-4-in-Primed-Pine-Base-Moulding-P416PR/100321709",
+        "item_id": "100321709"
+      },
+      {
+        "title": "Primed~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-LWM623-1-2-in-D-x-5-1-4-in-W-Medium-Density-Fiberboard-MDF-Baseboard-Molding-MDF228A/202071607",
+        "item_id": "202071607"
+      },
+      {
+        "title": "White~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Solana-11-16-in-x-4-1-4-in-Primed-Fingerjoint-Pine-Base-Molding-P416PR/309746075",
+        "item_id": "309746075"
+      },
+      {
+        "title": "Primed~~12 ft~~Medium Density Fiberboard (MDF)~~10",
+        "link": "https://www.homedepot.com/p/Kelleher-Propack-LWM623-9-16-in-x-3-1-4-in-x-12-ft-MDF-Base-Moulding-10-Pack-MDF221PK120/202071605",
+        "item_id": "202071605"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

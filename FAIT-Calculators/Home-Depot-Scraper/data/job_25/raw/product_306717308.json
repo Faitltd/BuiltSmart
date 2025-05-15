@@ -1,0 +1,199 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14835,
+    "overage_used": 4835,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Builder-s-Choice-Pro-Pack-473-9-16-in-x-2-1-4-in-x-84-in-Craftsman-Primed-MDF-Casing-5-Pack-35-Total-Linear-Feet-HDFB473-DP/306717308"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:37:21.383Z",
+    "processed_at": "2025-05-01T19:38:15.829Z",
+    "total_time_taken": 54.45,
+    "homedepot_url": "https://www.homedepot.com/p/Builder-s-Choice-Pro-Pack-473-9-16-in-x-2-1-4-in-x-84-in-Craftsman-Primed-MDF-Casing-5-Pack-35-Total-Linear-Feet-HDFB473-DP/306717308"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Builder-s-Choice-Pro-Pack-473-9-16-in-x-2-1-4-in-x-84-in-Craftsman-Primed-MDF-Casing-5-Pack-35-Total-Linear-Feet-HDFB473-DP/306717308",
+    "brand": "Builder's Choice",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Builders-Choice/N-5yc1vZclf5Z89b",
+    "title": "Builder's Choice Pro Pack 473 9/16 in. x  2 1/4 in. x  84 in. Craftsman Primed MDF Casing (5-Pack \u2212 35 Total Linear Feet)",
+    "upc": "096037190746",
+    "item_id": "306717308",
+    "parent_id": "332486748",
+    "store_sku": "1003819599",
+    "model_number": "HDFB473-DP",
+    "description": "Featuring a sleek white surface, primed MDF is a great way to update your rooms and highlight the special care that has gone into your property. Moldings can increase the value of your home or business estate and are an inexpensive way to add character and flair to any home. Casings work great to cover the gap between the drywall and the door or window frame.",
+    "favorite_count": 174,
+    "feature_bullets": [
+      "Sleek, white surface with primed MDF",
+      "Moldings add character and a stylish flair to any space",
+      "Base molding covers gap between drywall and door/window frame"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finest premium MDF for enhanced quality and appearance",
+      "Minimal knots, checks, splits and risen or torn grain for a superior finish",
+      "Primed for superior paint adhesion and reduced labor costs",
+      "Paint to match your decor",
+      "Available in standard builder lengths and a variety of profiles",
+      "Can be used in buildups for unique designs",
+      "Perfect to upgrade entrances or exits in your home",
+      "Bundled in a package for your convenience",
+      "Manufacturers and availability may vary by store"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ab500703-5c0e-4246-bf7b-b0a4c920dba0/svn/white-builder-s-choice-casing-hdfb473-dp-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/aee1e82a-817c-4dfc-b652-143a3e3dc01a/svn/white-builder-s-choice-casing-hdfb473-dp-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ab500703-5c0e-4246-bf7b-b0a4c920dba0/svn/white-builder-s-choice-casing-hdfb473-dp-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 180,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "473"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "keywords_list": [
+      "",
+      "LWM356 9/16 in. x 2-1/4 in. x 420 in. MDF Door Pack Casing",
+      "HDFB356-DP"
+    ],
+    "keywords": ", LWM356 9/16 in. x 2-1/4 in. x 420 in. MDF Door Pack Casing, HDFB356-DP",
+    "variants": [
+      {
+        "title": "Primed White~~7 ft~~Medium Density Fiberboard (MDF)~~5",
+        "link": "https://www.homedepot.com/p/Builders-Choice-Pro-Pack-434-11-16-in-x-3-1-2-in-x-84-in-Craftsman-Finished-MDF-Primed-White-Casing-5-Pack-35-Total-Linear-Feet-FECS434DP/304065772",
+        "item_id": "304065772"
+      },
+      {
+        "title": "White~~7 ft~~Medium Density Fiberboard (MDF)~~5",
+        "link": "https://www.homedepot.com/p/Builder-s-Choice-Pro-Pack-473-9-16-in-x-2-1-4-in-x-84-in-Craftsman-Primed-MDF-Casing-5-Pack-35-Total-Linear-Feet-HDFB473-DP/306717308",
+        "item_id": "306717308"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13789,
+    "overage_used": 3789,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Australian-Red-Cedar-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-RCE/326604271"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:59:19.295Z",
+    "processed_at": "2025-05-01T16:59:23.657Z",
+    "total_time_taken": 4.36,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Australian-Red-Cedar-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-RCE/326604271"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Australian-Red-Cedar-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-RCE/326604271",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/NewTechWood/N-5yc1vZc5mbZbzg",
+    "title": "NewTechWood 1 in. x 6 in. x 8 ft. Australian Red Cedar Solid with Groove Composite Decking Board, UltraShield Natural Magellan",
+    "upc": "810015259931",
+    "item_id": "326604271",
+    "parent_id": "326067547",
+    "store_sku": "1010104453",
+    "model_number": "US01-8-RCE",
+    "description": "Elevate your outdoor sanctuary to new heights with NewTechWood Deck Boards. Unleash the full potential of your deck and create unforgettable moments with our captivating range of deck boards. Transform your outdoor space into a haven of beauty and durability with NewTechWood. Explore our innovative solutions for a less maintenance and enduring deck experience. Experience the perfect balance of style and performance with NewTechWood Deck Boards.",
+    "feature_bullets": [
+      "Features UltraShield coating to protect from fading",
+      "Designed to offer realistic grain pattern",
+      "Talk to a live NewTechWood expert at 855-592-8088"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://www.newtechwood.com/free-take-offs?from=homedepot\" target=\"_blank\" style=\"color:#F96302;\">Need help doing a take-off? Click here and let us do the work for you!</a>",
+      "Solid boards with grooves to be installed with hidden fasteners",
+      "Transform your outdoor space with beauty and durability",
+      "25-year warranty",
+      "Explore innovative solutions for a timeless deck",
+      "Tough outer shell will keep the color and beauty of your deck for years to come",
+      "Easy to clean",
+      "We highly suggest you order a sample before you order as settings on monitor are different for everyone",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/NEWTECHWOOD LTD/1077078.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a417816c-2e04-44fd-8e16-0b79e568155e/svn/australian-red-cedar-newtechwood-composite-decking-boards-us01-8-rce-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/897632aa-aca9-4bac-9932-c7b1d85b2704/svn/australian-red-cedar-newtechwood-composite-decking-boards-us01-8-rce-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5bf5c1ca-4664-495f-a1bd-f434e43b08ef/svn/australian-red-cedar-newtechwood-composite-decking-boards-us01-8-rce-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/11f91b79-ded1-48ca-bd76-12d0a404671b/svn/australian-red-cedar-newtechwood-composite-decking-boards-us01-8-rce-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f8e76729-9045-4dc9-aee8-f0eb65ec596a/svn/australian-red-cedar-newtechwood-composite-decking-boards-us01-8-rce-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a97570aa-99b5-4162-a83c-0fc574dbfa44/svn/australian-red-cedar-newtechwood-composite-decking-boards-us01-8-rce-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5c94f44d-0f63-4e97-9a0b-7fdb65aa40dd/svn/australian-red-cedar-newtechwood-composite-decking-boards-us01-8-rce-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a417816c-2e04-44fd-8e16-0b79e568155e/svn/australian-red-cedar-newtechwood-composite-decking-boards-us01-8-rce-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/2c3444dd-38f5-4b74-99d3-17ff705c405f/main.mp4?fastly_token=NjgzODIzNTJfYWY1OTdkYTQ0MzE2MzVhODM2NTcyZDgzMzhkNTQzYzc3M2FlZTVkYjVkZTJmYjZmZTdiZTg0YzhmZDZmOTgzYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lODUyMWU2ZC0wODUwLTQwMWItODdkOC1lMWY5Mzg1MzE1MmIvMmMzNDQ0ZGQtMzhmNS00Yjc0LTk5ZDMtMTdmZjcwNWM0MDVmL21haW4ubXA0&pubid=66036796001",
+        "title": " NewtTechWood - Introducing Ultrashield Naturale",
+        "id": "5483624160001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/05aa5e3d-faab-4d93-8c3e-ff6d5d3abb3c/160x90/match/image.jpg?pubId=66036796001",
+        "description": "An introduction into our NewTechWood Ultrashield Naturale Product line. It shows the technology, the inspiration and the beauty of our products. Sit back and enjoy!"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/ee093faf-51ae-4064-bc2f-23c9210b5d9d/main.mp4?fastly_token=NjgzODI2NzlfMTNlMWU2N2FmMjU0ODYyNDZlMWU4NWMwZmI5OWFjMjBkNTc3ZWY4MTJiMWYxYmQxZjhmODM4OWE3NTgwOTczYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xYWIzOGZkOC1lZjUwLTQ1ZjQtYWEyYS0zMjk5OWI0ZGMwYjIvZWUwOTNmYWYtNTFhZS00MDY0LWJjMmYtMjNjOTIxMGI1ZDlkL21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Decking Installation Guide",
+        "id": "5748602797001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/2d459e9f-3b60-4318-b23d-ca181c2048c0/160x90/match/image.jpg?pubId=66036796001",
+        "description": "All the info you need to install your NewTechWood Decking and enjoy it for years to come."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/0580fa2b-8c6b-42b4-9fe3-559fb2d8b9f7/main.mp4?fastly_token=NjgzODJmYjRfMTU0ZThmMzZlNjEzMjI5ZjI0YmU5ZTY5NDY1OTM2ZTU1OTAxOTM3ZGQ0N2NhMmExOTVmYWFlMWU3NjZmNWFjY18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hY2U2MjRkOS05NTBlLTRmODktYTgzZi1kNzUzMTkyYjExMmUvMDU4MGZhMmItOGM2Yi00MmI0LTlmZTMtNTU5ZmIyZDhiOWY3L21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Composite Decking Deep Dive",
+        "id": "6299851835001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/main/160x90/5m43s104ms/match/image.jpg?pubId=66036796001",
+        "description": "In this video we take a deep dive into NewTechWood Composite Decking to show you the different profiles and their use cases as well as the clips."
+      }
+    ],
+    "ratings_total": 42,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Australian Red Cedar"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "NewTechWood Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "8"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Years"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".9 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "22"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Brazilian Ipe~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-8-ft-Brazilian-Ipe-Solid-with-Groove-Composite-Decking-Board-US01-8-IP/304672792",
+        "item_id": "304672792"
+      },
+      {
+        "title": "Indian Ebony~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Indian-Ebony-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-EB/326604277",
+        "item_id": "326604277"
+      },
+      {
+        "title": "Japanese Cedar~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Japanese-Cedar-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-CE/326604276",
+        "item_id": "326604276"
+      },
+      {
+        "title": "Seoul Pink~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Seoul-Pink-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-KP/326604275",
+        "item_id": "326604275"
+      },
+      {
+        "title": "Icelandic Smoke White~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Icelandic-Smoke-White-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-SW/326604274",
+        "item_id": "326604274"
+      },
+      {
+        "title": "Honduran Mahogany~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Honduran-Mahogany-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-MAH/326604273",
+        "item_id": "326604273"
+      },
+      {
+        "title": "Caribbean Blue~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-8-ft-Caribbean-Blue-Solid-with-Groove-Composite-Decking-Board-US01-8-SB/320488908",
+        "item_id": "320488908"
+      },
+      {
+        "title": "Irish Green~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-8-ft-Irish-Green-Solid-with-Groove-Composite-Decking-Board-US01-8-SG/320488909",
+        "item_id": "320488909"
+      },
+      {
+        "title": "Australian Red Cedar~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-1-in-x-6-in-x-8-ft-Australian-Red-Cedar-Solid-with-Groove-Composite-Decking-Board-UltraShield-Natural-Magellan-US01-8-RCE/326604271",
+        "item_id": "326604271"
+      },
+      {
+        "title": "Westminster Gray~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-8-ft-Westminster-Gray-Solid-with-Groove-Composite-Decking-Board-US01-8-LG/304672790",
+        "item_id": "304672790"
+      },
+      {
+        "title": "Swedish Red~~Grooved~~8 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-8-ft-Swedish-Red-Solid-with-Groove-Composite-Decking-Board-US01-8-SR/320488901",
+        "item_id": "320488901"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 35.78,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 41.59,
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 709,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 709,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

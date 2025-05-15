@@ -1,0 +1,171 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13511,
+    "overage_used": 3511,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-Paramount-PVC-Decking-Board/307288600"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:44:15.022Z",
+    "processed_at": "2025-05-01T14:44:20.170Z",
+    "total_time_taken": 5.15,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-Paramount-PVC-Decking-Board/307288600"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-Paramount-PVC-Decking-Board/307288600",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon Paramount PVC Decking Board",
+    "upc": "400030000283",
+    "item_id": "307288600",
+    "store_sku": "1003805093",
+    "description": "Able to withstand moisture, dents and flames, paramount PVC decking is ready for anything. Perfect for docks and other waterside applications, paramount decking is easy to handle, easy to maintain and approved for use in all wildland urban interface (WUI) zones. Highly slip resistant and available in three multi chromatic colors and one solid, paramount decking is the finest in polymer decking.",
+    "favorite_count": 19,
+    "feature_bullets": [
+      "Resists moisture, dents, and flames for long-lasting use",
+      "Inhibits mold growth for reliable dock and waterside applications",
+      "Lightweight design allows for easy handling and installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "No organic content to promote mold growth",
+      "Meets additional fire performance requirements of San Diego County",
+      "Backed by lifetime limited warranty",
+      "Approximate board weight - 1.5 lbs. per lin. ft.",
+      "See installation guide for residential or commercial joist/stringer spacing recommendations",
+      "Oversized product will ship to your local Home Depot store, if home delivery is needed, please call the pro desk to learn about home delivery options",
+      "<a href=\"https://s3.amazonaws.com/homedepotmarketingimages/Decking+Boards/Fiberon+InfoGraohic.jpg\" target=\"_blank\" style=\"color:#F96302;\">Wood vs Compsite Decking</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2f292dbf-8b44-4f98-a830-fc0b84cb351a/svn/assorted-colors-fiberon-composite-decking-boards-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2f292dbf-8b44-4f98-a830-fc0b84cb351a/svn/assorted-colors-fiberon-composite-decking-boards-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 8,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Assorted Colors"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Assorted Colors"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Single Edged"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Fiberon approved fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "Non-Returnable"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12-20"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".94-.94"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5-5.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12-20"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1-1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6-6"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 49.21,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 999962,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-09"
+        }
+      }
+    }
+  }
+}

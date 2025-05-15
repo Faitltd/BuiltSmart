@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14228,
+    "overage_used": 4228,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-Timeless-Craftsman-35E2-9-16-in-x-3-1-2-in-Primed-Pine-Finger-Jointed-Casing-10050984/313008845"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:21:00.934Z",
+    "processed_at": "2025-05-01T18:21:05.479Z",
+    "total_time_taken": 4.54,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-Timeless-Craftsman-35E2-9-16-in-x-3-1-2-in-Primed-Pine-Finger-Jointed-Casing-10050984/313008845"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Timeless-Craftsman-35E2-9-16-in-x-3-1-2-in-Primed-Pine-Finger-Jointed-Casing-10050984/313008845",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork Timeless Craftsman 35E2 9/16 in. x 3-1/2 in. Primed Pine Finger-Jointed Casing",
+    "upc": "095624524049",
+    "item_id": "313008845",
+    "parent_id": "329006213",
+    "store_sku": "1005426990",
+    "model_number": "10050984",
+    "description": "The Woodgrain Millwork Timeless Craftsman 35E2 9/16 in. x 3-1/2 in. Primed Finger Jointed Eased Edge Casing is used around doors and windows to cover the gaps between the frames and walls. The Timeless Craftsman Casing is the finishing touch on any window and door. Any of the patterns in the Timeless Craftsman Collection can be combined to create theme for a room or an entire house. Use this casing to pair with the timeless craftsman look, or combine this Timeless Craftsman Casing with backband to create a bold one of kind look.",
+    "aisle": "19",
+    "bay": "003",
+    "feature_bullets": [
+      "Knot-free, consistent smoothness allows for paint overs",
+      "Wooden construction withstands regular wear and tear",
+      "Suitable for use with doors and windows"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent pre-primed surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex or oil based paint",
+      "Great foundation for any room",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/18d0d8dc-ac9b-4894-a894-946219bc659d/svn/primed-woodgrain-millwork-casing-10050984-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/primed-woodgrain-millwork-casing-10050984-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/73ae267f-3a89-4f9c-af57-399de75669f9/svn/primed-woodgrain-millwork-casing-10050984-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/18d0d8dc-ac9b-4894-a894-946219bc659d/svn/primed-woodgrain-millwork-casing-10050984-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 142,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "35"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Primed~~7.33 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Timeless-Craftsman-35E2-9-16-in-x-3-1-2-in-x-88-in-Primed-Pine-Finger-Joined-Casing-10050986/313009564",
+        "item_id": "313009564"
+      },
+      {
+        "title": "Primed~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Timeless-Craftsman-35E2-9-16-in-x-3-1-2-in-Primed-Pine-Finger-Jointed-Casing-10050984/313008845",
+        "item_id": "313008845"
+      },
+      {
+        "title": "Primed~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Timeless-Craftsman-25E2-9-16-in-x-2-1-2-in-Primed-Pine-Finger-Jointed-Casing-10050987/313009598",
+        "item_id": "313009598"
+      },
+      {
+        "title": "Primed~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Timeless-Craftsman-425E2-9-16-in-x-4-1-4-in-Primed-Pine-Finger-Jointed-Casing-10050983/313008819",
+        "item_id": "313008819"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.87,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2935
+        }
+      }
+    }
+  }
+}

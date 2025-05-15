@@ -1,0 +1,232 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14917,
+    "overage_used": 4917,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/BIO-BIDET-HD-7500-Electric-Bidet-Seat-for-Elongated-Toilets-in-White-HD-7500/323875139"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:42:04.210Z",
+    "processed_at": "2025-05-02T21:42:11.505Z",
+    "total_time_taken": 7.29,
+    "homedepot_url": "https://www.homedepot.com/p/BIO-BIDET-HD-7500-Electric-Bidet-Seat-for-Elongated-Toilets-in-White-HD-7500/323875139"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/BIO-BIDET-HD-7500-Electric-Bidet-Seat-for-Elongated-Toilets-in-White-HD-7500/323875139",
+    "brand": "BIO BIDET",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilet-Seats/BIO-BIDET/N-5yc1vZbza8Zpuh",
+    "title": "BIO BIDET HD-7500 Electric Bidet Seat for Elongated Toilets in White",
+    "upc": "850040813173",
+    "item_id": "323875139",
+    "store_sku": "1009217182",
+    "model_number": "HD-7500",
+    "description": "Upgrade your bathroom by installing this HD-7500 Electric Bidet Seat for Elongated Toilets in White. It features a self-cleaning stainless-steel nozzle, built-in air dryer and three wash options. The heated seat comes in handy on cold nights. Other unique features include the side panel and remote that allows you to easily select your desired settings.",
+    "collection": {
+      "id": "Family-330630527",
+      "name": "Family-330630527",
+      "link": "https://www.homedepot.com/collection/Bath/The-Bio-Bidet-by-Bemis-Collection-of-Bidets-and-Bidet-Attachments/Family-330630527?omsid=323875139"
+    },
+    "feature_bullets": [
+      "Requires nearby electrical outlet; confirm size before ordering",
+      "Includes warm water, heated seat and warm air dryer",
+      "Home Depot exclusive bidet seat with most wanted features"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Self-cleaning stainless steel nozzle",
+      "Built-in warm air dryer",
+      "Adjustable heated seat",
+      "Easy to use wireless remote",
+      "In-bowl nightlight",
+      "Front, rear and turbo washes",
+      "Optional eco-mode",
+      "Easy DIY installation",
+      "Whisper-close seat and lid",
+      "Need help with a home project? Let us do it for you - 1 800 HOME DEPOT or visit Home Depot.com/services"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/98b19cf1-96f6-4736-9c09-2f57c6315242/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d18e3aea-8238-45a4-a3c8-a1d315eec2e9/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/de2b8d18-449c-4f85-acd5-4c495f2670b1/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7d8e879d-eba4-4ffe-9681-d17ad638d5d7/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e565eb70-31c8-4170-bf80-504c493bf540/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9936d549-05f7-4127-a48c-9b904dcc86dd/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d4679453-a715-4244-8cf1-61427819a932/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/07b093f2-9f18-4cff-842a-5e9f50e7116e/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5aa6c6ee-ae8e-4026-93c3-c639e5500b48/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/98b19cf1-96f6-4736-9c09-2f57c6315242/svn/white-bio-bidet-bidet-toilet-seats-hd-7500-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/2baf367a-35c2-4845-813d-43a1748a44c8/2c68364e-d471-4752-a343-2f8e3bed7636/main.mp4?fastly_token=NjgzOTdlNDVfOTI1Zjk5NGFhZDVkZjVmMGQ2Y2JkYmMzODgzMTBjNDE4YzM2MTE5ODQ0YjQ1MjFkYjk5OWNjOWUzZWE0MDdhYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yYmFmMzY3YS0zNWMyLTQ4NDUtODEzZC00M2ExNzQ4YTQ0YzgvMmM2ODM2NGUtZDQ3MS00NzUyLWEzNDMtMmY4ZTNiZWQ3NjM2L21haW4ubXA0&pubid=66036796001",
+        "title": "Product Overview of HD-7500 Electric Bidet",
+        "id": "6349945713112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/2baf367a-35c2-4845-813d-43a1748a44c8/main/160x90/25s333ms/match/image.jpg?pubId=66036796001",
+        "description": "Overview of the product features for Bio Bidet's 7500 Electric Bidet"
+      }
+    ],
+    "ratings_total": 132,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bidet Power Type",
+        "value": "Electric Plug-In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bidet Spray Type",
+        "value": "Vertical"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Adjustable Aerated Wash Spray,Adjustable Nozzle,Adjustable Sprayer Settings,Adjustable Water Pressure,Feminine Wash,Heated,Lighted,Nozzle Sterilization,Posterior Wash,Remote Control Operation,Side Control Operated,Soft Close,Stainless Steel Nozzle,Thin Design,Warm Air Dryer,Warm Water Wash"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Complete Kit,Hardware,Mounting Kit,Remote Control,Supply Lines,T Valve Connector"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "7.9 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 year warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "20.47 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "5.31 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18.11 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bidets",
+        "link": "https://www.homedepot.com/b/Bath-Bidets/N-5yc1vZceq2"
+      },
+      {
+        "name": "Bidet Toilet Seats",
+        "link": "https://www.homedepot.com/b/Bath-Bidets-Bidet-Toilet-Seats/N-5yc1vZbza8"
+      }
+    ],
+    "buybox_winner": {
+      "price": 229,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 329,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 30,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 30,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13668,
+    "overage_used": 3668,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Loctite-Pro-Gaps-and-Cracks-21-oz-Spray-Foam-Sealant-2866859/323836044"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:22.067Z",
+    "processed_at": "2025-05-01T16:53:27.634Z",
+    "total_time_taken": 5.57,
+    "homedepot_url": "https://www.homedepot.com/p/Loctite-Pro-Gaps-and-Cracks-21-oz-Spray-Foam-Sealant-2866859/323836044"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Loctite-Pro-Gaps-and-Cracks-21-oz-Spray-Foam-Sealant-2866859/323836044",
+    "brand": "Loctite",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/Loctite/N-5yc1vZbaxjZ4ck",
+    "title": "Loctite Pro Gaps and Cracks 21 oz. Spray Foam Sealant",
+    "upc": "079340654808",
+    "item_id": "323836044",
+    "parent_id": "327654222",
+    "store_sku": "1009232497",
+    "model_number": "2866859",
+    "description": "Loctite Pro Gaps and Cracks Foam is a fire rated insulating foam sealant that fills gaps up to 1 in. to seal out air, moisture and pests. This foam is ready to be used with any standard foam gun applicator which provides superior control and reusability. This foam is recommended for standard gap filling applications like wiring, plumbing and HVAC penetrations. It can also be used in areas where a fire rated foam is needed. The foam is orange in color and is designed to resist the migration of fire and hot gasses in Type V residential (wood frame) construction.",
+    "aisle": "26",
+    "bay": "014",
+    "feature_bullets": [
+      "Fills gaps up to 1\u201d inside & out",
+      "Fire rated, orange color",
+      "High yield per can"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Fills gaps up to 1 in.",
+      "Compatible with standard foam gun applicators",
+      "High yield of 611 lin ft. (with bead size of 1/2 in.)",
+      "Fire rated and tested",
+      "UL 723/ASTM E-84",
+      "ASTM E814 (modified)",
+      "NFPA 286 (modified)",
+      "IRC and IBC conformance"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f82fcfb0-c0ac-4c7c-bc6e-8b9a0059b763/svn/loctite-spray-foam-insulation-2866859-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/37738370-e02d-49fb-9730-aa50963e1de1/svn/loctite-spray-foam-insulation-2866859-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/77255081-861e-4f94-bdbc-f70f4c13f797/svn/loctite-spray-foam-insulation-2866859-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5f589041-b600-4d47-a0dc-4bb352932853/svn/loctite-spray-foam-insulation-2866859-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a72e4a4e-b57f-4552-b2e1-ce90185f631f/svn/loctite-spray-foam-insulation-2866859-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/523642f4-dba9-40fc-b98f-bd67fcab8449/svn/loctite-spray-foam-insulation-2866859-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/590fd530-0328-4f10-8a7e-6ebd5a0f8f5d/svn/loctite-spray-foam-insulation-2866859-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4cf302b5-4d19-486b-ac17-d99d14e7535a/svn/loctite-spray-foam-insulation-2866859-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/00a41566-c5b6-4d47-9cfe-528976078d81/svn/loctite-spray-foam-insulation-2866859-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f82fcfb0-c0ac-4c7c-bc6e-8b9a0059b763/svn/loctite-spray-foam-insulation-2866859-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/9a6a5b4e-9830-4c04-840a-1ebddb10a760/383acff5-7514-41ca-9875-fb01ffb143de/main.mp4?fastly_token=NjgxMzkxOGJfMzBhODY5ZjUzNmI0NGI0NThkMjFiZWEyYjNmZWJiODZjOThjYzMzOTc3MmQ0NDY3OTZhZmE4YWJiOGYxZWU0ZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvOWE2YTViNGUtOTgzMC00YzA0LTg0MGEtMWViZGRiMTBhNzYwLzM4M2FjZmY1LTc1MTQtNDFjYS05ODc1LWZiMDFmZmIxNDNkZS9tYWluLm1wNA%3D%3D",
+        "title": "2866859_01",
+        "id": "6332436454112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/9a6a5b4e-9830-4c04-840a-1ebddb10a760/main/160x90/21s909ms/match/image.jpg",
+        "description": "Pro Gaps and Cracks 21 oz. Spray Foam Sealant\n"
+      }
+    ],
+    "ratings_total": 76,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Compatible Install Surface",
+        "value": "Cement,Concrete,Copper Pipes,Existing Drywall,Existing Insulation,Fiberglass,Metal,PVC/CPVC Pipes,Pex Pipes,Plywood,Tile Flooring,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "10 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Install Temperature (F)",
+        "value": "14-95"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Features",
+        "value": "Fire Block Rated,Fire Resistant,Moisture Retardant,Paintable,Water Resistant,Wind Breaker"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value",
+        "value": "R4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value per Inch",
+        "value": "R4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Type",
+        "value": "Spray Foam Insulation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.68 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (oz.)",
+        "value": "21 oz"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Warranty Information",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cover Area Per Bag (sq. ft.)",
+        "value": "0 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "7 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "10.43 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.55 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1",
+        "link": "https://www.homedepot.com/p/Loctite-Pro-Gaps-and-Cracks-21-oz-Spray-Foam-Sealant-2866859/323836044",
+        "item_id": "323836044"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation/N-5yc1vZasbs"
+      },
+      {
+        "name": "Spray Foam Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/N-5yc1vZbaxj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 12.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 30
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 63,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12775,
+    "overage_used": 2775,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Ekena-Millwork-2-1-2-in-x-20-in-x-14-in-Countertop-Support-Steel-Powder-Coated-Black-Heavy-Duty-Bracket-with-Gusset-BKTM02X20X14CGPBL/318493164"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:31:05.586Z",
+    "processed_at": "2025-05-01T13:31:10.066Z",
+    "total_time_taken": 4.48,
+    "homedepot_url": "https://www.homedepot.com/p/Ekena-Millwork-2-1-2-in-x-20-in-x-14-in-Countertop-Support-Steel-Powder-Coated-Black-Heavy-Duty-Bracket-with-Gusset-BKTM02X20X14CGPBL/318493164"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Ekena-Millwork-2-1-2-in-x-20-in-x-14-in-Countertop-Support-Steel-Powder-Coated-Black-Heavy-Duty-Bracket-with-Gusset-BKTM02X20X14CGPBL/318493164",
+    "brand": "Ekena Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Corner-Braces/Ekena-Millwork/N-5yc1vZc8hrZ96p",
+    "title": "Ekena Millwork 2-1/2 in. x 20 in. x 14 in. Countertop Support Steel Powder Coated Black Heavy-Duty Bracket with Gusset",
+    "upc": "194438978724",
+    "item_id": "318493164",
+    "parent_id": "319995484",
+    "store_sku": "1008007790",
+    "model_number": "BKTM02X20X14CGPBL",
+    "description": "Heavy-duty countertop support brackets, with gussets, are ideal for direct stud applications, allowing for a strong overhang support in commercial or high-traffic areas. Non-intrusive brackets offer a sleek, modern finish to any project without comprising on the support of 1/2 in. thick authentic, sturdy steel. Manufactured with beveled edges, the black powder coated brackets eliminate an application with sharp edges.",
+    "feature_bullets": [
+      "1/2\" thick steel brackets offers powerful support for any project",
+      "Pre-drilled holes also assure an easy and hassle-free install",
+      "Brackets have a hidden appearance, allowing for a seamless look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Manufactured from high-quality, 1/2 in. thick solid steel",
+      "Near invisible installation, with sturdy support, offers a non-intrusive bracket option",
+      "Pre-drilled mounting holes for hassle-free install",
+      "Non-invasive brackets are ideal for a \"floating countertop\" effect",
+      "Beveled ends mean no more sharp bracket edges",
+      "Hidden, authentic steel support brackets allow for a modern kitchen look"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/956c04b3-d7f6-4a59-8761-1bd651032e76/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0d5036c1-7fa1-47d4-b729-ec8401036957/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4835301e-2991-4849-b667-caf0a5c57e0c/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6875ca93-d958-483b-bf6a-fe5f6d74624a/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e17f0c7c-6b69-4083-964f-39d002fd9d55/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/96b10cb4-cdd9-4740-bc6f-d9ce6147b64d/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ed8c8873-8641-4604-90c6-d0597c2d9549/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5000d570-ac0d-4452-9db3-1a54b92ca9e8/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e7893cc0-8740-4bf9-b482-5599cc35d2d4/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/956c04b3-d7f6-4a59-8761-1bd651032e76/svn/ekena-millwork-corner-braces-bktm02x20x14cgpbl-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4e977aa9-06c8-4581-8236-bd25f8bc0fc7/34d28b1a-6559-4f6b-89c7-5ef3c965efb9/main.mp4?fastly_token=NjgzODI5ZGFfNGUyMGQ3YzU0ZWJkODhhZTg0Yjg1YjliOGNjMDgzODA2NzRmYzYyNGMyMGEwYWE1MGQzNThiNWEwYTBjN2NiYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80ZTk3N2FhOS0wNmM4LTQ1ODEtODIzNi1iZDI1ZjhiYzBmYzcvMzRkMjhiMWEtNjU1OS00ZjZiLTg5YzctNWVmM2M5NjVlZmI5L21haW4ubXA0&pubid=66036796001",
+        "title": "Steel Bracket 2",
+        "id": "6313024874112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/4e977aa9-06c8-4581-8236-bd25f8bc0fc7/main/160x90/21s162ms/match/image.jpg?pubId=66036796001",
+        "description": "Steel Bracket 2"
+      }
+    ],
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Brace type",
+        "value": "Angle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Builders Hardware Product Type",
+        "value": "Braces"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color",
+        "value": "Powder Coated Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Powder coated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "14 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "20 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.5 in"
+      }
+    ],
+    "color": "Powder Coated Black",
+    "variants": [
+      {
+        "title": "Powder Coated Black~~20 in~~1",
+        "link": "https://www.homedepot.com/p/Ekena-Millwork-2-1-2-in-x-20-in-x-14-in-Countertop-Support-Steel-Powder-Coated-Black-Heavy-Duty-Bracket-with-Gusset-BKTM02X20X14CGPBL/318493164",
+        "item_id": "318493164"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Corner Braces",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Corner-Braces/N-5yc1vZc8hr"
+      }
+    ],
+    "buybox_winner": {
+      "price": 60.37,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 247,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 247,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

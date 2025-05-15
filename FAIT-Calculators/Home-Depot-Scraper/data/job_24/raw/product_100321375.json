@@ -1,0 +1,204 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14257,
+    "overage_used": 4257,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WGB-322-5-8-in-x-3-1-4-in-Primed-Finger-Jointed-Baseboard-Molding-10000638/100321375"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:22:25.606Z",
+    "processed_at": "2025-05-01T18:23:11.000Z",
+    "total_time_taken": 45.39,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WGB-322-5-8-in-x-3-1-4-in-Primed-Finger-Jointed-Baseboard-Molding-10000638/100321375"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WGB-322-5-8-in-x-3-1-4-in-Primed-Finger-Jointed-Baseboard-Molding-10000638/100321375",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Woodgrain-Millwork/N-5yc1vZcbjpZ7c8",
+    "title": "Woodgrain Millwork WGB 322 5/8 in. x 3-1/4 in. Primed Finger-Jointed Baseboard Molding",
+    "upc": "095624817004",
+    "item_id": "100321375",
+    "parent_id": "324384388",
+    "store_sku": "444806",
+    "model_number": "10000638",
+    "description": "The Woodgrain Millwork 3-1/4 in. x 5/8 in. WGB 322 Prime Finger-Joint base is the perfect addition to dress up any room. The Woodgrain Millwork Prime Finger-Joint WGB 322 base is used cover any imperfections where floor and wall meet. Base Molding can also be used as starter point for a more elaborate built up base boards. Combing other moldings with this base can create looks that range from classic to elegant.",
+    "favorite_count": 159,
+    "feature_bullets": [
+      "Cover gaps where floor and wall meet",
+      "Adherent to paint for a customized finish",
+      "Versatile unit works with any style"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent pre-primed surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex or oil based paint",
+      "A great foundation for any room, can be paired with any style of casing",
+      "A classic pattern that works with any style",
+      "16 ft. length"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/82120545-5e62-4982-9a32-8e868b5b8cdd/svn/white-woodgrain-millwork-baseboard-10000638-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/edc3ddd4-6439-4862-80b8-158017c1b9c8/svn/white-woodgrain-millwork-baseboard-10000638-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/82120545-5e62-4982-9a32-8e868b5b8cdd/svn/white-woodgrain-millwork-baseboard-10000638-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 75,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Adhesive,Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint,Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "322"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "pine moulding",
+      "base moulding",
+      "pine base moulding",
+      "16 ft. moulding",
+      "16 ft. base moulding"
+    ],
+    "keywords": "moulding, pine moulding, base moulding, pine base moulding, 16 ft. moulding, 16 ft. base moulding",
+    "variants": [
+      {
+        "title": "White~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WGB-322-5-8-in-x-3-1-4-in-x-192-in-Primed-Pine-Finger-Jointed-Base-Molding-10000638F/315636210",
+        "item_id": "315636210"
+      },
+      {
+        "title": "White~~12 ft~~Wood~~10",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WG-B322-9-16-in-x-3-1-4-in-x-144-in-Prime-Finger-Jointed-Propack-Base-Molding-10-Piece-10003321/204805185",
+        "item_id": "204805185"
+      },
+      {
+        "title": "White~~1 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WGB-322-5-8-in-x-3-1-4-in-Primed-Finger-Jointed-Baseboard-Molding-10000638/100321375",
+        "item_id": "100321375"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

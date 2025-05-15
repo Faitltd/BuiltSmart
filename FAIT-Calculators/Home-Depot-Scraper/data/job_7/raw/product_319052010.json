@@ -1,0 +1,247 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13378,
+    "overage_used": 3378,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grip-Rite-7-x-1-5-8-in-305-Stainless-Steel-Star-Drive-Trim-Head-Wood-Screws-1-lb-Box-MAXS158TH3051/319052010"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:56:08.465Z",
+    "processed_at": "2025-05-01T13:56:13.537Z",
+    "total_time_taken": 5.07,
+    "homedepot_url": "https://www.homedepot.com/p/Grip-Rite-7-x-1-5-8-in-305-Stainless-Steel-Star-Drive-Trim-Head-Wood-Screws-1-lb-Box-MAXS158TH3051/319052010"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grip-Rite-7-x-1-5-8-in-305-Stainless-Steel-Star-Drive-Trim-Head-Wood-Screws-1-lb-Box-MAXS158TH3051/319052010",
+    "brand": "Grip-Rite",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Grip-Rite/N-5yc1vZ2fkpe61Z5kt",
+    "title": "Grip-Rite #7 x 1-5/8 in. 305 Stainless Steel Star Drive Trim Head Wood Screws 1 lb. Box",
+    "upc": "764666748521",
+    "item_id": "319052010",
+    "parent_id": "330099217",
+    "store_sku": "1007471824",
+    "model_number": "MAXS158TH3051",
+    "description": "Grip-Rite PrimeGuard MAX MAXS158TH3051 #7 x 1-5/8 in. 305 Stainless Steel Star Drive Trim Head Wood Screws are designed for use with treated wood, composites, and in humid climates. Stainless steel is naturally corrosion resistant and is ideal for use in harsh environments. Self-drilling T 17 tip and T-15 star drive, bit included, combine fast driving with reduced splitting and bulging. Small trim head blends in with most wood projects including, decks, docks, and wood construction.",
+    "aisle": "17",
+    "bay": "009",
+    "feature_bullets": [
+      "#7 x 1-5/8 in. T-15 star drive trim head screws",
+      "Self-driving T-17 point reduces chance of splitting and bulging",
+      "Made from uncoated corrosion resistant stainless steel"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used for wood projects like docks and decks near water",
+      "Durable stainless steel construction",
+      "Uncoated stainless steel is naturally corrosion resistant",
+      "#7 x 1-5/8 in. exterior construction screws",
+      "Trim head leaves a smooth, bulge-free surface",
+      "T 17 self-drilling point reduces chances of splitting",
+      "1 lb. box includes around 185 #7 x 1-5/8 in. exterior wood screws"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ba9ea1b6-7c34-4dce-b7b9-83de2b1c2866/svn/grip-rite-deck-screws-maxs158th3051-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0157af06-07ee-46b3-b207-497a8d1068b9/svn/grip-rite-deck-screws-maxs158th3051-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ebabfeb7-7346-421b-bda7-3f2505aec6de/svn/grip-rite-deck-screws-maxs158th3051-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b6845e67-1f2e-41e3-9c7d-f5247089c066/svn/grip-rite-deck-screws-maxs158th3051-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34ea19ce-70ff-48d1-886d-f1ae1f37a3c9/svn/grip-rite-deck-screws-maxs158th3051-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8fff1d5-c3e2-4891-9a0d-c34b67d2482b/svn/grip-rite-deck-screws-maxs158th3051-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ba9ea1b6-7c34-4dce-b7b9-83de2b1c2866/svn/grip-rite-deck-screws-maxs158th3051-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 73,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Uncoated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "305 Stainless"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Trim Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "185"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "10 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "1-5/8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#7"
+      }
+    ],
+    "size": "#7",
+    "variants": [
+      {
+        "title": "2-1/4 in~~#7~~White~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-7-x-2-1-4-in-305-Stainless-Steel-Star-Drive-White-Painted-Trim-Head-Wood-Screws-5-lb-Box-MAXS214THW3055/319052000",
+        "item_id": "319052000"
+      },
+      {
+        "title": "1-5/8 in~~#7~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-7-x-1-5-8-in-305-Stainless-Steel-Star-Drive-Trim-Head-Wood-Screws-1-lb-Box-MAXS158TH3051/319052010",
+        "item_id": "319052010"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 21.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 16
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 19,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

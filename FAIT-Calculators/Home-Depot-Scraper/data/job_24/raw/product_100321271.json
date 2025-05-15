@@ -1,0 +1,236 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14316,
+    "overage_used": 4316,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-445-11-16-in-x-3-1-4-in-Primed-Wood-Finger-Joint-Door-and-Window-Casing-10001890/100321271"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:26:16.434Z",
+    "processed_at": "2025-05-01T18:26:21.363Z",
+    "total_time_taken": 4.93,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-445-11-16-in-x-3-1-4-in-Primed-Wood-Finger-Joint-Door-and-Window-Casing-10001890/100321271"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-445-11-16-in-x-3-1-4-in-Primed-Wood-Finger-Joint-Door-and-Window-Casing-10001890/100321271",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork WM 445 11/16 in. x 3-1/4 in. Primed Wood Finger-Joint Door and Window Casing",
+    "upc": "095624988209",
+    "item_id": "100321271",
+    "parent_id": "328892514",
+    "store_sku": "225556",
+    "model_number": "10001890",
+    "description": "The Woodgrain Millwork 11/16 in. x 3-1/4 in. WM445 Prime Finger-Jointed Casing is used around doors and windows to cover the gaps between the frames and walls. Prime Finger-Jointed WM445 Casing is the finishing touch on any window and door. You can combine casing with a backband to create a bold one of kind look.",
+    "favorite_count": 189,
+    "aisle": "FW",
+    "bay": "019",
+    "feature_bullets": [
+      "Primed white finish brings a classy vibe to your decor",
+      "Durable wood construction for long-lasting use",
+      "Paintable for a customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Installs with common woodworking tools",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4407d371-f9ba-4767-8365-9e1b2a61ea9f/svn/white-woodgrain-millwork-casing-10001890-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-casing-10001890-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4407d371-f9ba-4767-8365-9e1b2a61ea9f/svn/white-woodgrain-millwork-casing-10001890-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 188,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Adhesive,Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint,Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "445"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "keywords_list": [
+      "casing",
+      "pine casing",
+      "wood moulding",
+      "pine wood moulding",
+      "door casing",
+      "door wood moulding",
+      "window casing",
+      "window wood moulding"
+    ],
+    "keywords": "casing, pine casing, wood moulding, pine wood moulding, door casing, door wood moulding, window casing, window wood moulding",
+    "variants": [
+      {
+        "title": "White~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-445-11-16-in-x-3-1-4-in-Primed-Finger-Joint-Door-and-Window-Casing-10001890/206001714",
+        "item_id": "206001714"
+      },
+      {
+        "title": "White~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM-445-5-8-in-x-3-1-4-in-x-96-in-Primed-Finger-Jointed-Casing-10000550/203209381",
+        "item_id": "203209381"
+      },
+      {
+        "title": "White~~12 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-445-11-16-in-x-3-1-4-in-x-144-in-Primed-Finger-Jointed-Poplar-Casing-10004358/206092676",
+        "item_id": "206092676"
+      },
+      {
+        "title": "White~~1 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-445-11-16-in-x-3-1-4-in-Primed-Wood-Finger-Joint-Door-and-Window-Casing-10001890/100321271",
+        "item_id": "100321271"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.86,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 492
+        }
+      }
+    }
+  }
+}

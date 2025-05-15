@@ -1,0 +1,287 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14143,
+    "overage_used": 4143,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Quikrete-80-lb-Concrete-Mix-110180/100318511"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:58:19.925Z",
+    "processed_at": "2025-05-01T17:58:25.126Z",
+    "total_time_taken": 5.2,
+    "homedepot_url": "https://www.homedepot.com/p/Quikrete-80-lb-Concrete-Mix-110180/100318511"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Quikrete-80-lb-Concrete-Mix-110180/100318511",
+    "brand": "Quikrete",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Mix/Quikrete/N-5yc1vZcdptZ2kj",
+    "title": "Quikrete 80 lb. Concrete Mix",
+    "upc": "039645110188",
+    "item_id": "100318511",
+    "parent_id": "308343717",
+    "store_sku": "169765",
+    "model_number": "110180",
+    "description": "Quikrete 80 lb. Concrete Mix can be used for building or repairing foundation walls, sidewalks, curbs, steps and ramps and for setting posts. This concrete mix is designed for pouring concrete 2 in. thick or more and is easy to use by simply adding water. Quikrete 80 lb. Concrete Mix consists of a uniformly blended, properly proportioned mixture of gravel, sand and Portland cement.",
+    "is_bestseller": true,
+    "favorite_count": 7534,
+    "aisle": "FW",
+    "bay": "002",
+    "feature_bullets": [
+      "Ideal for pouring concrete slabs and setting posts",
+      "4000 psi average compressive concrete strength",
+      "For pouring concrete 2 in. thick or more"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Interested in purchasing a pallet, buy 42 bags",
+      "Use for making repairs to foundation walls, walkways or steps and setting mailboxes and posts",
+      "For pouring concrete 2 in. thick or more",
+      "Just add water",
+      "60 minute working time",
+      "High-strength 4000 psi concrete",
+      "Meets ASTM C 387 compressive strength requirements",
+      "Please be advised there could be a discrepancy regarding the pallet counts for certain Home Depot locations, if you are interested in purchasing pallet quantities, please reach out to your local Home Depot to confirm pallet counts.",
+      "Wondering how many bags of Concrete Mix to use in order to complete your project? Use the PIP calculator located to the right of the product images to accurately calculate how many bags are needed based on square footage or cubic feet.",
+      "\"You can also use the \"Complete Your Concrete Project\" Calculator, located below the Add to Cart button. The Concrete Project Calculator will calculate ALL of the products you will need to complete your project based off of your projects measurements.\"",
+      "<a href=\"https://www.homedepot.com/c/ab/how-to-find-the-right-concrete-mix/9ba683603be9fa5395fab901bbd3274\" target=\"_blank\" style=\"color:#F96302;\">Learn more about concrete and cement here in our Buying Guide</a>",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/Concrete_Cement/concrete_inline content_volume matrix.jpg\">"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/491b0835-cba0-4f1b-9bfa-f748464675cc/svn/Quikrete-80-lb-Concrete-Mix_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6eec934b-d293-4807-9dd4-1efefbbecc16/svn/Quikrete-80-lb-Concrete-Mix-Concrete-Calculator_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e2747743-c30e-43c2-b073-8b12c280866e/svn/Quikrete-80-lb-Concrete-Mix-Buy-More-Save-More-Bulk-Price-42-bags-for-a-pallet_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d86c5508-f802-44f0-96c7-168f29df25c5/svn/gray-quikrete-concrete-mix-110180-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0fa74957-9ff3-496f-99d2-478a25f64c82/svn/Quikrete-80-lb-Concrete-Mix-is-designed-for-pouring-concrete-2-in-thick-and-simply-adding-water_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2415f95a-9302-4742-aed0-0d87b58d51e0/svn/Quikrete-80-lb-Concrete-Mix-has-60-minute-working-time-and-is-a-high-strength-4000-psi-concrete-that-meets-ASTM-C387-compressive-strength-requirements_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/730b8b67-c368-41aa-8047-bb9dc779c7e7/svn/gray-quikrete-concrete-mix-110180-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/baa1240b-209a-4d8f-ac3e-3ba8ab1bb587/svn/Quikrete-80-lb-Concrete-Mix-consists-of-a-uniformly-blended-mixture-of-gravel-sand-and-portland-cement_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f80bf361-ce24-42ff-8222-95157182ca0d/svn/gray-quikrete-concrete-mix-110180-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/491b0835-cba0-4f1b-9bfa-f748464675cc/svn/Quikrete-80-lb-Concrete-Mix_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/3261cd40-88ff-4a63-9718-5e414a8d25d2/abac5eb1-15c8-4350-8924-2b1a4cca37cc/main.mp4?fastly_token=NjgxMzkxN2FfYzE2Y2NmNTk1ZjhlMjZhMjM1Mjc2NDNmYTg0ZDBjZWI3NzY0ZDQzNGQ5NGYzNjM2ZDhkMGMwYTU4MjQ1NDczMl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMzI2MWNkNDAtODhmZi00YTYzLTk3MTgtNWU0MTRhOGQyNWQyL2FiYWM1ZWIxLTE1YzgtNDM1MC04OTI0LTJiMWE0Y2NhMzdjYy9tYWluLm1wNA%3D%3D",
+        "title": "60 lb. Concrete Mix; 80 lb. Concrete Mix; 90 lb. Concrete Mix ",
+        "id": "6274560550001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/3261cd40-88ff-4a63-9718-5e414a8d25d2/7026daad-0499-46b0-b752-6108f07ad480/160x90/match/image.jpg",
+        "description": "Quikrete Concrete Mix is a structural concrete mix that is ideal for general concrete applications over 2 inches thick, including concrete sidewalks, footings, floors and setting posts. It is a pre-blended mixture of cement "
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e3500132-8143-49e9-bc72-4732b9bf55d4/64585981-fa98-4e60-9ab2-b5c75e5f052d/main.mp4?fastly_token=NjgxMzkyMjJfYzcwZTA1NTczNDU5NDUzYTYyZTEzYzI3MjczYWNjZDdhZDhkODVjYmNlY2UwMzNiYjk4ZTZlNzIwMjM4YTU3OF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTM1MDAxMzItODE0My00OWU5LWJjNzItNDczMmI5YmY1NWQ0LzY0NTg1OTgxLWZhOTgtNGU2MC05YWIyLWI1Yzc1ZTVmMDUyZC9tYWluLm1wNA%3D%3D",
+        "title": "How to Pour and Finish Concrete Slabs with Quikrete - The Home Depot",
+        "id": "876667754001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/e3500132-8143-49e9-bc72-4732b9bf55d4/8c19e558-5f9c-4236-b1a0-967b6b98c5e0/160x90/match/image.jpg",
+        "description": "Pouring and finishing concrete slabs with Quikrete concrete sealer can be an easy DIY project. Find out more in this helpful video."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/9b7ca73b-62f7-4ce4-9da8-b5ef770826b4/92bfb534-b2b2-414a-9d13-9b542b4faf74/main.mp4?fastly_token=NjgxMzkxZDZfYmNhMjYyOTRhZWY0ZjUzMDc2ZGZiYzUxNTFjNzk2MjAwYjAyYWQ4MTQ0MmYyNDQ1ZDhhZjAzZDIxYjE5MWYwNV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvOWI3Y2E3M2ItNjJmNy00Y2U0LTlkYTgtYjVlZjc3MDgyNmI0LzkyYmZiNTM0LWIyYjItNDE0YS05ZDEzLTliNTQyYjRmYWY3NC9tYWluLm1wNA%3D%3D",
+        "title": "Quikrete Concrete Mix Overview - The Home Depot",
+        "id": "876766764001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/9b7ca73b-62f7-4ce4-9da8-b5ef770826b4/bcab1d4d-05d9-4641-8e38-85e5db3d999f/160x90/match/image.jpg",
+        "description": "Quikrete concrete mix is perfect for smaller cement projects. Watch this video to find out how easy mixing concrete is."
+      }
+    ],
+    "ratings_total": 10943,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compression Strength (psi)",
+        "value": "4000 psi"
+      },
+      {
+        "group_name": "Details",
+        "name": "Concrete Mix Type",
+        "value": "Ready Mix"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "All Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Max. Cure Time (Days)",
+        "value": "28 day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Max. Set Time (Hours)",
+        "value": "72.00 hr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Min. Cure Time (Days)",
+        "value": "7 day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Min. Set Time (Hours)",
+        "value": "24.0 hr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "80 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Use Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Working Time (min.)",
+        "value": "60 min"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See Packaging"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (cu. ft.)",
+        "value": "0.60 cu ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "19 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "4.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "17 in"
+      }
+    ],
+    "keywords_list": [
+      "concrete",
+      "masonry concrete",
+      "concretes",
+      "masonry concretes",
+      "cement",
+      "masonry cement",
+      "cements",
+      "masonry cements",
+      "building supplies concrete",
+      "building supplies concretes",
+      "building supplies cement",
+      "building supplies cements",
+      "Quikrete concrete",
+      "Quikrete concretes"
+    ],
+    "keywords": "concrete, masonry concrete, concretes, masonry concretes, cement, masonry cement, cements, masonry cements, building supplies concrete, building supplies concretes, building supplies cement, building supplies cements, Quikrete concrete, Quikrete concretes",
+    "variants": [
+      {
+        "title": "60 lb",
+        "link": "https://www.homedepot.com/p/Quikrete-60-lb-Concrete-Mix-110160/100318478",
+        "item_id": "100318478"
+      },
+      {
+        "title": "80 lb",
+        "link": "https://www.homedepot.com/p/Quikrete-80-lb-Concrete-Mix-110180/100318511",
+        "item_id": "100318511"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Concrete, Cement & Masonry",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry/N-5yc1vZarlk"
+      },
+      {
+        "name": "Concrete Mix",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Mix/N-5yc1vZcdpt"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3319
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 32061,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

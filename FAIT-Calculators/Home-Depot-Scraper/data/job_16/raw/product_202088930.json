@@ -1,0 +1,158 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14063,
+    "overage_used": 4063,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Plywood-Siding-Panel-No-Groove-Rough-Sawn-Common-19-32-in-x-4-ft-x-8-ft-Actual-0-578-in-x-48-in-x-96-in-510920/202088930"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:53:12.057Z",
+    "processed_at": "2025-05-01T17:53:57.910Z",
+    "total_time_taken": 45.85,
+    "homedepot_url": "https://www.homedepot.com/p/Plywood-Siding-Panel-No-Groove-Rough-Sawn-Common-19-32-in-x-4-ft-x-8-ft-Actual-0-578-in-x-48-in-x-96-in-510920/202088930"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Plywood-Siding-Panel-No-Groove-Rough-Sawn-Common-19-32-in-x-4-ft-x-8-ft-Actual-0-578-in-x-48-in-x-96-in-510920/202088930",
+    "brand": "Unbranded",
+    "title": "Unbranded Plywood Siding Panel No Groove Rough Sawn (Common: 19/32 in. x 4 ft. x 8 ft.; Actual: 0.578 in. x 48 in. x 96 in.)",
+    "upc": "099167216782",
+    "item_id": "202088930",
+    "store_sku": "510920",
+    "model_number": "510920",
+    "description": "Arauco is the smart, versatile choice for your next project. This AraucoPly 19/32 in. x 4 ft. x 8 ft. Douglas Fir Plywood is rough-sawn plywood sheathing. This non-grooved plywood is paintable and stainable. Always make sure that the finishes are formulated for use on wood.",
+    "favorite_count": 5,
+    "feature_bullets": [
+      "Made from Douglas fir to ensure durability",
+      "Non-grooved design creates a striking appeal",
+      "Paintable surface allows customization"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of douglas fir",
+      "Non-grooved",
+      "19/32 in. x 4 ft. x 8 ft.",
+      "Paintable",
+      "Stainable",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fd165199-e4eb-4567-a007-97b90e664dc3/svn/sheathing-plywood-510920-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fd165199-e4eb-4567-a007-97b90e664dc3/svn/sheathing-plywood-510920-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxM2Q1Y2RfOGNiODE1YzE4ZTRmYzA3Y2U2MzQ4YjZlZDkwMTUwNzc4YzQ0MmYwNTE5MzExNmUzNTQ0ZjllMzc5MzE3OTc2Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 3,
+    "rating": 3.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exposure 1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Rated Siding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "16 oc."
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "none"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.58 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "19/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "plywood",
+      "douglas fir plywood",
+      "lumber",
+      "douglas fir lumber",
+      "non-grooved plywood",
+      "non-grooved lumber",
+      "19/32 in. x 4 ft. x 8 ft. plywood"
+    ],
+    "keywords": "plywood, douglas fir plywood, lumber, douglas fir lumber, non-grooved plywood, non-grooved lumber, 19/32 in. x 4 ft. x 8 ft. plywood",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sheathing Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/N-5yc1vZc7q5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

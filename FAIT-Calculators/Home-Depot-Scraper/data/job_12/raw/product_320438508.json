@@ -1,0 +1,459 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13773,
+    "overage_used": 3773,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Shoreline-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL357RC/320438508"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:58:44.272Z",
+    "processed_at": "2025-05-01T16:58:49.220Z",
+    "total_time_taken": 4.95,
+    "homedepot_url": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Shoreline-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL357RC/320438508"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Shoreline-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL357RC/320438508",
+    "brand": "Malibu Wide Plank",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/Malibu-Wide-Plank/N-5yc1vZbzjzZg40",
+    "title": "Malibu Wide Plank French Oak Shoreline 20 MIL 9.1 in. x 60 in. Click Lock Waterproof Luxury Vinyl Plank Flooring (30.5 sq. ft./case)",
+    "upc": "810091950357",
+    "item_id": "320438508",
+    "parent_id": "320413343",
+    "store_sku": "1007748215",
+    "model_number": "HDMLCL357RC",
+    "description": "Enhance the beauty of your home with this French Oak Shoreline 20 MIL 9.1 in. x 60 in. Click Lock Waterproof Luxury Vinyl Plank Flooring (30.5 sq. ft./case). It is 9.13 in. wide and 60 in. long. Each plank features enhanced grain definition with an embossed hardwood surface and micro-bevel edges and ends. You can easily install this in your space. It can be installed on, above, or below grade. It works well in various areas such as your kitchen, living room, bathroom, bedroom or basement. This is a great DIY option. Easily install it with the drop-and-lock system. To ensure your flooring is warm, comfortable and quiet to walk in, it features a pre-attached underlayment. Durability comes with a 100% waterproof design. The flooring also resists scratches, dents and stains. Cleaning and maintaining the flooring is easy. This collection is backed up a Lifetime Residential and 12-year Light Commercial Warranty and features a 20 mil wear layer. Malibu Wide Plank Designer Rigid Core is phthalate and formaldehyde-free and has achieved the highly coveted Floor Score certification which is the most recognized indoor air quality (IAQ) certification standard for flooring materials.",
+    "feature_bullets": [
+      "Waterproof rigid planks with scratch, stain and slip resistance",
+      "Attached 1mm underlayment offers an easy DIY click-lock install",
+      "FloorScore certified with durable 20 mil low-gloss wear layer"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Embossed; low gloss; authentic hardwood surface visuals",
+      "5.5mm thickness x 9.13 in. width x 60 in. length, wear layer thickness is 20 mil",
+      "100% waterproof and water resistant; can be installed in all rooms - above, on or below grade",
+      "Can be installed over most existing surfaces including tile, wood, concrete and vinyl",
+      "Residential and commercial use",
+      "Easy maintenance; simply clean with a dust mop, vacuum or damp mop",
+      "Don't forget your coordinating trim and moldings, three-in-one reducer, T-mold, end-cap; quarter round or flush stair nose",
+      "1mm thick pre-attached underlayment included for a floor that is durable, quiet, comfortable and warm to walk on",
+      "Drop-lock installation system that is fast and easy for DIYers and pros to install",
+      "No acclimation required; you can install right away",
+      "For use indoors and in temperature-controlled environments only",
+      "Premium ArmorCore technology provides better stability and overall performance and hides subfloor imperfections",
+      "30.45 sq. ft. per case; eight planks per case; case weight is 58.64 lbs.",
+      "Flooring or sample color may vary from computer or device screen representation; recommended to order a sample and view it in room where flooring will be installed",
+      "<img src=\"https://inlinecontent.thdstatic.com/23F/EVOLUTIONS FLOORING INC/3059902.jpg\">"
+    ],
+    "descriptive_attributes_count": 15,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f0edec8e-1359-4e12-b8ca-9b6226fe8885/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/912ee36b-052c-448c-ba29-dcad88d40b89/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/13446b21-5c8d-46fa-bbde-c92d43bfbb4f/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0dcef7c1-d10a-4b5b-aee1-95be025c41fd/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/38adf6f2-0d54-4642-ae5a-1059032dfa85/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4e563415-a400-4b31-8c76-e624c0ff245f/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4bcfb374-2f4d-4320-8d43-2082323e751f/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a22d78b0-a736-4e9d-8d9a-e211dbd53806/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/55014ea3-d0bb-4f41-896b-252a36723a94/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/040c5395-5b9a-4fb8-96f9-38a381020924/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3af8a13f-6f58-4e86-abc3-1931e9f0ba4f/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92eaad3a-dbaa-45a1-b240-608089919947/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/915b53a9-452e-4b9b-9d3a-8acd433318f0/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/22e4b1be-8a8d-4d6f-bef5-41056d2e3d1b/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f0edec8e-1359-4e12-b8ca-9b6226fe8885/svn/shoreline-malibu-wide-plank-vinyl-plank-flooring-hdmlcl357rc-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1585a270-bd87-4331-980e-342ffacea3c7/19f2ec1b-97eb-4907-be1e-de063ded592d/main.mp4?fastly_token=NjgzODM3MzJfNWQxM2U2MDMxNzgxZjg1NmY4OGNhNjU3MDBhNGRhZThkYWZmYjFmZWE1ZDM3ODA1ZDkzMzQ3ODZjOGUzM2EzMl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xNTg1YTI3MC1iZDg3LTQzMzEtOTgwZS0zNDJmZmFjZWEzYzcvMTlmMmVjMWItOTdlYi00OTA3LWJlMWUtZGUwNjNkZWQ1OTJkL21haW4ubXA0&pubid=66036796001",
+        "title": "SPC Installation video",
+        "id": "6322286046112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/1585a270-bd87-4331-980e-342ffacea3c7/main/160x90/55s61ms/match/image.jpg?pubId=66036796001",
+        "description": "SPC Installation video"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/3806e05c-5fe1-49a3-ba60-5d2c5b57d6c2/9f437301-074a-4bef-b147-18c91538a402/main.mp4?fastly_token=NjgzODI5NmNfNGZmNTliNmY0NjZkY2YxNDQ1OTI2ODNjZDdiOGIzMzc5MmY3YzhhZDFlZWMwYWRhYzJjOTVkMDRhZWNlYWM5Yl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zODA2ZTA1Yy01ZmUxLTQ5YTMtYmE2MC01ZDJjNWI1N2Q2YzIvOWY0MzczMDEtMDc0YS00YmVmLWIxNDctMThjOTE1MzhhNDAyL21haW4ubXA0&pubid=66036796001",
+        "title": "MWP SPC Shoreline Home talk x Preethi",
+        "id": "6363754082112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/3806e05c-5fe1-49a3-ba60-5d2c5b57d6c2/main/160x90/2m23s232ms/match/image.jpg?pubId=66036796001",
+        "description": "MWP SPC Shoreline Home talk x Preethi"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1135ddb9-4f2c-4217-97d3-5024c8ab4acb/a3257f8a-9dac-4bf9-ab57-f474be8b1bd0/main.mp4?fastly_token=NjgzODI4MjlfMDE0MGM2NTM3NGQwODBiZmEzOWEyNWNiYzI1MjkwYjY5MDg1ZDA0ZDg3Y2Q1Y2E5NGRhN2Y2ODZlNWE4N2Y4Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xMTM1ZGRiOS00ZjJjLTQyMTctOTdkMy01MDI0YzhhYjRhY2IvYTMyNTdmOGEtOWRhYy00YmY5LWFiNTctZjQ3NGJlOGIxYmQwL21haW4ubXA0&pubid=66036796001",
+        "title": "SPC Shoreline close up short video",
+        "id": "6367797781112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/1135ddb9-4f2c-4217-97d3-5024c8ab4acb/main/160x90/4s608ms/match/image.jpg?pubId=66036796001",
+        "description": "SPC Shoreline close up short video"
+      }
+    ],
+    "ratings_total": 312,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Antimicrobial",
+        "value": "Non-antimicrobial"
+      },
+      {
+        "group_name": "Details",
+        "name": "Application Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cases Per Pallet",
+        "value": "45"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Beige"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Shoreline"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Micro Beveled"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Mark Resistant,Phthalate Free,Removable,Scratch Resistant,Skid Resistant,Stain Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Vinyl Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Wood Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gloss",
+        "value": "Low Gloss"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Click Lock"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installs Over Subfloor",
+        "value": "Concrete,Plywood,Tile,Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Kitchen"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "No Acclimation Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Look",
+        "value": "Straight Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pieces Per Case",
+        "value": "8"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Length",
+        "value": "Extra Long"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Width",
+        "value": "Wide plank (7+ in)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "58.64 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Species Look",
+        "value": "Oak Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Underlayment Options",
+        "value": "Underlayment Required - Pre-Attached"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Waterproof"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "FloorScore"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime limited residential, 12 years limited light commercial"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Plank Size (in.)",
+        "value": "60 x 9"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "60 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "5.5 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "9.13 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wear Layer Thickness (mil)",
+        "value": "20 MIL"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Fairfax~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Fairfax-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL991RC/322181492",
+        "item_id": "322181492"
+      },
+      {
+        "title": "Clearlake~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Clearlake-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDNSCL6759RC/327870699",
+        "item_id": "327870699"
+      },
+      {
+        "title": "Nob Hill~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Nob-Hill-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL371RC/320438523",
+        "item_id": "320438523"
+      },
+      {
+        "title": "Marinas~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Marinas-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDMLCL1488RC/327127164",
+        "item_id": "327127164"
+      },
+      {
+        "title": "La Brea~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-La-Brea-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDNSCL6742RC/327870697",
+        "item_id": "327870697"
+      },
+      {
+        "title": "Sausalito~~60 x 9~~22 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Sausalito-22-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-22-83-sq-ft-case-HDVSCL4818RC/329417606",
+        "item_id": "329417606"
+      },
+      {
+        "title": "Del Prado~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Del-Prado-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL296RC/320438460",
+        "item_id": "320438460"
+      },
+      {
+        "title": "Fillmore~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Fillmore-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL319RC/320438487",
+        "item_id": "320438487"
+      },
+      {
+        "title": "Del Monico~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Del-Monico-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDNSCL6735RC/327870693",
+        "item_id": "327870693"
+      },
+      {
+        "title": "Mina~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Mina-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDMLCL1532RC/327127215",
+        "item_id": "327127215"
+      },
+      {
+        "title": "Atelier~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Atelier-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDMLCL1501RC/327127182",
+        "item_id": "327127182"
+      },
+      {
+        "title": "Shoreline~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Shoreline-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL357RC/320438508",
+        "item_id": "320438508"
+      },
+      {
+        "title": "Costa Mesa~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Costa-Mesa-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDNSCL6766RC/327870780",
+        "item_id": "327870780"
+      },
+      {
+        "title": "Valencia~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Valencia-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL289RC/320438446",
+        "item_id": "320438446"
+      },
+      {
+        "title": "Van Ness~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Van-Ness-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL326RC/320438497",
+        "item_id": "320438497"
+      },
+      {
+        "title": "Dankos~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Dankos-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDMLCL1518RC/327127205",
+        "item_id": "327127205"
+      },
+      {
+        "title": "Haight~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Haight-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL302RC/320438466",
+        "item_id": "320438466"
+      },
+      {
+        "title": "Melrose~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Melrose-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL333RC/320438500",
+        "item_id": "320438500"
+      },
+      {
+        "title": "Terzo~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Terzo-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-45-sq-ft-case-HDMLCL1464RC/327127233",
+        "item_id": "327127233"
+      },
+      {
+        "title": "Mulholland~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Mulholland-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-HDMLCL340RC/320438502",
+        "item_id": "320438502"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Vinyl Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring/N-5yc1vZapwr"
+      },
+      {
+        "name": "Vinyl Plank Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/N-5yc1vZbzjz"
+      }
+    ],
+    "buybox_winner": {
+      "price": 91.05,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 112.36,
+      "unit": "case",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 605,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 605,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12673,
+    "overage_used": 2673,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DPI-Pegboard-White-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-150/321726033"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:28:05.497Z",
+    "processed_at": "2025-05-01T13:28:14.487Z",
+    "total_time_taken": 8.99,
+    "homedepot_url": "https://www.homedepot.com/p/DPI-Pegboard-White-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-150/321726033"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DPI-Pegboard-White-Panel-Common-3-16-in-x-4-ft-x-8-ft-Actual-0-155-in-x-47-7-in-x-95-7-in-150/321726033",
+    "brand": "Unbranded",
+    "title": "Unbranded DPI Pegboard White Panel (Common: 3/16 in. x 4 ft. x 8 ft., Actual: 0.155 in. x 47.7 in. x 95.7 in.)",
+    "upc": "765096001507",
+    "item_id": "321726033",
+    "store_sku": "486140",
+    "model_number": "150",
+    "description": "Our white perforated panel is perfect for garage and shop areas, gardening areas, hobby or craft rooms and more. Your wrench set and garden tools never looked so good. It's functional and durable. Installation is a breeze.",
+    "descriptive_attributes": [
+      "9/32 in. holes, 1 in. on center, starting 1/2 in. from the edges",
+      "Both sides are smooth, prefinished white on 1 side and brown on the other side",
+      "No added formaldehyde, meets CARB l and CARB ll requirements",
+      "100% sourced",
+      "Perfect for organizing your garage or work area"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/750181f8-7add-44c7-9884-2da6483eee96/svn/mdf-150-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/750181f8-7add-44c7-9884-2da6483eee96/svn/mdf-150-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardboard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.00 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".18 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 24.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 52,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

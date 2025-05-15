@@ -1,0 +1,181 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14093,
+    "overage_used": 4093,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Pressure-Treated-Rated-Sheathing-Plywood-Common-15-32-in-x-4-ft-x-8-ft-Actual-0-451-in-x-48-in-x-96-in-CDX12CAH/311997673"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:54:53.306Z",
+    "processed_at": "2025-05-01T17:55:37.716Z",
+    "total_time_taken": 44.41,
+    "homedepot_url": "https://www.homedepot.com/p/Pressure-Treated-Rated-Sheathing-Plywood-Common-15-32-in-x-4-ft-x-8-ft-Actual-0-451-in-x-48-in-x-96-in-CDX12CAH/311997673"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Pressure-Treated-Rated-Sheathing-Plywood-Common-15-32-in-x-4-ft-x-8-ft-Actual-0-451-in-x-48-in-x-96-in-CDX12CAH/311997673",
+    "brand": "Unbranded",
+    "title": "Unbranded Pressure-Treated Rated Sheathing Plywood (Common: 15/32 in. x 4 ft. x 8 ft., Actual: 0.451 in. x 48 in. x 96 in.)",
+    "upc": "054699571389",
+    "item_id": "311997673",
+    "parent_id": "327080068",
+    "store_sku": "264327",
+    "model_number": "CDX12CAH",
+    "description": "Every piece meets the highest grading standards for strength and appearance. Sheathing is ideal for residential and light construction. It adds proven performance and durability to new homes, room additions and renovations. Sheathing delivers outstanding stiffness, strength and versatility. It is an excellent choice for light frame wall and roof assemblies in weather protected applications. It can also be used for subfloor applications.",
+    "favorite_count": 5,
+    "feature_bullets": [
+      "Ideal wall and roof sheathing for homes and commercial buildings",
+      "Holds nails, screws, and staples perfectly for excellent edging",
+      "Measures 15/32 in. D x 4 ft. W x 8 ft. L"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Every piece meets the highest grading standards for strength and appearance",
+      "Excellent nail, screw, and staple holding ability allows placement near panel edges without splits",
+      "Ideal for roofs, walls and floors weather protected application",
+      "Delivers strength and durability",
+      "Note: product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302,\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/035f8ed7-8a7c-4fd1-afde-ac8cb0bf56e5/svn/sanded-plywood-cdx12cah-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0059cf3e-2f3e-44f5-9f9b-17215d6d28e5/svn/sanded-plywood-cdx12cah-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dcb5426e-7e44-48f2-a12a-62c52d5553cc/svn/sanded-plywood-cdx12cah-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9d9bc89a-b7ba-4332-9f4b-1ecd7058f661/svn/sanded-plywood-cdx12cah-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/70ac5543-b66a-443b-93a2-1010df72e32c/svn/sanded-plywood-cdx12cah-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e164e2bd-2fa7-45e3-a44b-6b4dec213469/svn/sanded-plywood-cdx12cah-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/035f8ed7-8a7c-4fd1-afde-ac8cb0bf56e5/svn/sanded-plywood-cdx12cah-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 34,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "5-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "CDX"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Pressure Treated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.469 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "15/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~15/32",
+        "link": "https://www.homedepot.com/p/Pressure-Treated-Rated-Sheathing-Plywood-Common-15-32-in-x-4-ft-x-8-ft-Actual-0-451-in-x-48-in-x-96-in-CDX12CAH/311997673",
+        "item_id": "311997673"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~23/32",
+        "link": "https://www.homedepot.com/p/Common-23-in-32-in-x-4-ft-x-8-ft-Actual-0-703-in-x-48-in-x-96-in-Pressure-Treated-Plywood-Rated-Sheathing-CDX34CAH/311997677",
+        "item_id": "311997677"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sanded Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/N-5yc1vZc7qk"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

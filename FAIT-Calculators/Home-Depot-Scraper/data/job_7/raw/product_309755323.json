@@ -1,0 +1,366 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13196,
+    "overage_used": 3196,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Weathered-Wood-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0487900/309755323"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:47:43.927Z",
+    "processed_at": "2025-05-01T13:47:48.882Z",
+    "total_time_taken": 4.96,
+    "homedepot_url": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Weathered-Wood-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0487900/309755323"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Weathered-Wood-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0487900/309755323",
+    "brand": "GAF",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Shingles/GAF/N-5yc1vZc5rbZll",
+    "title": "GAF Timberline HDZ Weathered Wood Algae Resistant Laminated High Definition Shingles (33.33 sq. ft. per Bundle)",
+    "upc": "073590102096",
+    "item_id": "309755323",
+    "parent_id": "311710516",
+    "store_sku": "1005067607",
+    "model_number": "0487900",
+    "description": "The look people love, now with LayerLockTechnology and the StainGuard Plus Algae Protection Limited Warranty. Get advanced roof protection from eave to ridge. The technologies incorporated into Timberline HDZ shingles are the keys to unlocking both the 15-Year WindProven Limited Wind Warranty and the 25-Year StainGuard Plus Algae Protection Limited Warranty.",
+    "favorite_count": 71,
+    "aisle": "25",
+    "bay": "020",
+    "collection": {
+      "id": "Family-314722436",
+      "name": "Family-314722436",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Timberline-HDZ-Shingle-Collection/Family-314722436?omsid=309755323"
+    },
+    "feature_bullets": [
+      "Architecturally stylish roof shingles with Lifetime Ltd. warranty",
+      "Upgraded Shingle nailing zone with 99.9% nail placement accuracy",
+      "Industry leading 25-year Algae Protection Shingle Warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://quickmeasure.gaf.com/THD\" target=\"_blank\" style=\"color:#F96302;\">Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders.&nbsp;A complete bill of materials, with Home Depot product&nbsp;SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]</a>",
+      "Great value and architecturally stylish - with a lifetime limited warranty (see GAF shingle and accessory limited warranty for complete coverage and restrictions)",
+      "New strike zone nailing area is the industry's largest nail zone designed for high visibility, ease of installation and maximum accuracy",
+      "25-year stain guard plus algae protection limited warranty",
+      "Proprietary layer lock technology mechanically fastens the common bond, allowing for a larger nailing area - up to 600% larger nailing target (compared to timberline HD shingles)",
+      "Dimensional look that features GAF's proprietary color blends and enhanced shadow effect for a genuine wood-shake look",
+      "Highest roofing fire rating - UL class A, Listed to ANSI/UL 790",
+      "Dura grip sealant pairs with the smooth microgranule surface of the strike zone nailing area for fast tack then an asphalt-to asphalt monolithic bond cures for durability, strength and exceptional wind uplift performance",
+      "Lifetime limited transferable warranty with smart choice protection (non-prorated material and installation labor coverage) for the first 10-years",
+      "Eligible for the wind proven limited wind warranty when installed with the required combination of GAF accessories see GAF roofing system limited warranty for complete coverage and restrictions and list of qualifying products",
+      "Wind proven limited wind warranty on timberline shingles with layer lock technology requires the use of GAF starter strips, roof deck protection, ridge cap shingles and leak barrier or attic ventilation",
+      "Note it is difficult to reproduce the color clarity and actual color blends of these products before selecting your color, please ask to see several full-size shingles",
+      "Weathered wood truly is the perfect neutral color, it complements a broad range of hues, especially clay, a very popular color for home exteriors, it also works well with sages, creams, ivories and any shade of beige",
+      "For design inspiration, <a href=\"in.https//www.homedepot.com/c/Front_of_Home_Trends\" target=\"in._blank\" style=\"in.color#F96302\">Click here for exterior front of home trend ideas</a>"
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/48b75706-7a23-4225-90b5-d960f2f1c6d5/svn/weathered-wood-gaf-roof-shingles-0487900-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8276d877-6446-46e9-8831-7fda807ef2b0/svn/weathered-wood-gaf-roof-shingles-0487900-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8762497c-e62f-4478-b1fa-9f61d53582bf/svn/weathered-wood-gaf-roof-shingles-0487900-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/648f8df1-fcb0-494f-8e21-18bcb0d919b2/svn/weathered-wood-gaf-roof-shingles-0487900-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d22d7319-e45a-47a2-9f31-ee2813302cff/svn/weathered-wood-gaf-roof-shingles-0487900-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f1c72bb5-adf0-4f41-848f-460d9f4b1e19/svn/weathered-wood-gaf-roof-shingles-0487900-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c015d373-293a-47ed-9f32-f44223974a3e/svn/weathered-wood-gaf-roof-shingles-0487900-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/801e0fa7-b769-417b-a155-27403a5f033d/svn/weathered-wood-gaf-roof-shingles-0487900-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ee22fc8d-ded6-4121-b8a6-49ca827235db/svn/weathered-wood-gaf-roof-shingles-0487900-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f94ab69d-0e3c-4803-83ff-85875f718596/svn/weathered-wood-gaf-roof-shingles-0487900-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b72af6c0-7d27-43fb-a0b1-ef7f8bd05126/svn/weathered-wood-gaf-roof-shingles-0487900-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/48b75706-7a23-4225-90b5-d960f2f1c6d5/svn/weathered-wood-gaf-roof-shingles-0487900-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d33dda9a-427c-4ce8-a6bf-8fa220d5fb43/a9b63f30-35b2-4ec6-a5ce-29c71e0bee7c/main.mp4?fastly_token=NjgzODI2ZWJfMGNkZTUxNjdlYzZkZDUyNzAzMzY3NzFlMmQ1Yzg5ZWQyN2NlZjYyNTg2ZjIxYjkyODM1MjMxY2QzYTdjNTQzN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kMzNkZGE5YS00MjdjLTRjZTgtYTZiZi04ZmEyMjBkNWZiNDMvYTliNjNmMzAtMzViMi00ZWM2LWE1Y2UtMjljNzFlMGJlZTdjL21haW4ubXA0&pubid=66036796001",
+        "title": "Timberline HDZ Video",
+        "id": "6354521957112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/d33dda9a-427c-4ce8-a6bf-8fa220d5fb43/main/160x90/13s66ms/match/image.jpg?pubId=66036796001",
+        "description": "Timberline HDZ Video"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 10144,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Weathered Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Algae Resistant,Dura Grip Adhesive,High Wind Resistant,Stainguard Protection,Waterproof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "Class A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Asphalt"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of bundles per 100 sq. ft. (Square)",
+        "value": "3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of pieces per bundle",
+        "value": "21"
+      },
+      {
+        "group_name": "Details",
+        "name": "Requirements",
+        "value": "Attic Ventilation,Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Architectural Shingle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shingle Exposure (in.)",
+        "value": "5.625"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shingle Type",
+        "value": "High Definition Shingle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Warranty",
+        "value": "Lifetime Limited Warranty"
+      },
+      {
+        "group_name": "Details",
+        "name": "Weight Per Bundle (lb.)",
+        "value": "70"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "33.33 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "39.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "2.4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "13.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Hickory",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Hickory-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489395/309755126",
+        "item_id": "309755126"
+      },
+      {
+        "title": "Mission Brown",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Mission-Brown-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489477/309755190",
+        "item_id": "309755190"
+      },
+      {
+        "title": "Fox Hollow Gray",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Fox-Hollow-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0476330/311710833",
+        "item_id": "311710833"
+      },
+      {
+        "title": "Slate",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Slate-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0487750/309755283",
+        "item_id": "309755283"
+      },
+      {
+        "title": "Pewter Gray",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Pewter-Gray-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0487552/309755248",
+        "item_id": "309755248"
+      },
+      {
+        "title": "Biscayne Blue",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Biscayne-Blue-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0486095/311948561",
+        "item_id": "311948561"
+      },
+      {
+        "title": "Golden Harvest",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Golden-Harvest-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-Per-Bdl-21-Pieces-0489354/320103474",
+        "item_id": "320103474"
+      },
+      {
+        "title": "Charcoal",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Charcoal-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489180/309755006",
+        "item_id": "309755006"
+      },
+      {
+        "title": "Appalachian Sky",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Appalachian-Sky-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-Per-Bdl-21-Pieces-0489024/320103421",
+        "item_id": "320103421"
+      },
+      {
+        "title": "Weathered Wood",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Weathered-Wood-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0487900/309755323",
+        "item_id": "309755323"
+      },
+      {
+        "title": "Patriot Red",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Patriot-Red-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0493347/311948698",
+        "item_id": "311948698"
+      },
+      {
+        "title": "Barkwood",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Barkwood-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489070/309754936",
+        "item_id": "309754936"
+      },
+      {
+        "title": "Driftwood",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Driftwood-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489258/309755042",
+        "item_id": "309755042"
+      },
+      {
+        "title": "Golden Amber",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Golden-Amber-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-21-Pieces-0493196/311948641",
+        "item_id": "311948641"
+      },
+      {
+        "title": "Shakewood",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Shakewood-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489737/309755264",
+        "item_id": "309755264"
+      },
+      {
+        "title": "Oyster Gray",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Oyster-Gray-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489525/309755233",
+        "item_id": "309755233"
+      },
+      {
+        "title": "Nantucket Morning",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Nantucket-Morning-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-Per-Bdl-21-Pieces-0489486/320103587",
+        "item_id": "320103587"
+      },
+      {
+        "title": "Sunset Brick",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Sunset-Brick-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0439792/311948719",
+        "item_id": "311948719"
+      },
+      {
+        "title": "Copper Canyon",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Copper-Canyon-Laminated-High-Definition-Roof-Shingles-33-33-sq-ft-per-Bundle-21-Pieces-0493011/311948589",
+        "item_id": "311948589"
+      },
+      {
+        "title": "Birchwood",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Birchwood-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0489097/309752940",
+        "item_id": "309752940"
+      },
+      {
+        "title": "Hunter Green",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Hunter-Green-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-per-Bundle-0487723/309755149",
+        "item_id": "309755149"
+      },
+      {
+        "title": "Cedar Falls",
+        "link": "https://www.homedepot.com/p/GAF-Timberline-HDZ-Cedar-Falls-Algae-Resistant-Laminated-High-Definition-Shingles-33-33-sq-ft-Per-Bdl-21-Pieces-0489165/320103498",
+        "item_id": "320103498"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Roof Shingles",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Shingles/N-5yc1vZc5rb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 43.47,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "bundle",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 217
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 15798,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

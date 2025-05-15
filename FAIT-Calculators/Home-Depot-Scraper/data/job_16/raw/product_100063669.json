@@ -1,0 +1,206 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14008,
+    "overage_used": 4008,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Plytanium-1-4-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-235552/100063669"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:20.057Z",
+    "processed_at": "2025-05-01T17:51:23.591Z",
+    "total_time_taken": 3.53,
+    "homedepot_url": "https://www.homedepot.com/p/Plytanium-1-4-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-235552/100063669"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Plytanium-1-4-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-235552/100063669",
+    "brand": "Plytanium",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/Plytanium/N-5yc1vZc7qkZ4aj",
+    "title": "Plytanium 1/4 in. x 4 ft. x 8 ft. BC Sanded Pine Plywood",
+    "upc": "081999104481",
+    "item_id": "100063669",
+    "parent_id": "312257459",
+    "store_sku": "166014",
+    "model_number": "235552",
+    "description": "Every piece meets the highest grading standards for strength and appearance. Sanded and smooth BC project panels are perfect for interior and exterior applications from yard art to wainscoting, do-it-yourself projects, cabinets, shelving and furniture to porch ceilings, soffits and flooring underlayment. These panels are ready to be painted. This plywood has great strength and stiffness. These boards are easy to handle and install. They also have excellent nail and adhesive holding ability.",
+    "is_top_rated": true,
+    "favorite_count": 3112,
+    "aisle": "21",
+    "bay": "002",
+    "feature_bullets": [
+      "Plywood panels for home projects",
+      "Sanded and easy to work with",
+      "Strong, stable panels"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Ideal project panel due to smooth, sanded face and attractive appearance when painted",
+      "Versatility for multiple applications",
+      "Great for yard art to wainscoting, do-it-yourself projects, cabinets, shelving and furniture to porch ceilings, soffits and flooring underlayment",
+      "Made from wood sourced through a system that is third-party certified to the Sustainable Forestry Initiative (SFI) fiber sourcing standard",
+      "Simple to cut and fasten",
+      "Note: Product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c0e97895-6a2c-4bff-a783-33395114dbe5/svn/plytanium-sanded-plywood-235552-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/83245636-5a7a-4888-8f81-fe314db7483e/svn/plytanium-sanded-plywood-235552-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ad464207-0de8-4360-a38e-95049a4970d8/svn/plytanium-sanded-plywood-235552-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0fc04831-a1a4-45bb-8213-75042ccdb20f/svn/plytanium-sanded-plywood-235552-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c0e97895-6a2c-4bff-a783-33395114dbe5/svn/plytanium-sanded-plywood-235552-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 1402,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "BC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "95.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "47.938 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "1/4 In. x 4 Ft. x 8 Ft. BC Sanded  Pine Plywood",
+      "166014"
+    ],
+    "keywords": "1/4 In. x 4 Ft. x 8 Ft. BC Sanded  Pine Plywood, 166014",
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~1/4",
+        "link": "https://www.homedepot.com/p/Plytanium-1-4-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-235552/100063669",
+        "item_id": "100063669"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~11/32",
+        "link": "https://www.homedepot.com/p/Plytanium-11-32-in-or-3-8-in-x-4-ft-x-8-ft-BC-Sanded-Pine-Plywood-721715/100094072",
+        "item_id": "100094072"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sanded Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/N-5yc1vZc7qk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 30,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 120
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 2679,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

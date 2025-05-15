@@ -1,0 +1,219 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14146,
+    "overage_used": 4146,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-23-ft-Waterproofing-Membrane-KERDI200-7M/309829614"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:58:29.713Z",
+    "processed_at": "2025-05-01T17:58:35.867Z",
+    "total_time_taken": 6.15,
+    "homedepot_url": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-23-ft-Waterproofing-Membrane-KERDI200-7M/309829614"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-23-ft-Waterproofing-Membrane-KERDI200-7M/309829614",
+    "brand": "Schluter",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/Schluter/N-5yc1vZcdtwZ7fo",
+    "title": "Schluter Kerdi 3 ft. 3 in. x 23 ft. Waterproofing Membrane",
+    "upc": "4011832157813",
+    "item_id": "309829614",
+    "parent_id": "312725068",
+    "store_sku": "1004404564",
+    "model_number": "KERDI200/7M",
+    "description": "Kerdi is a sheet-applied polyethylene waterproofing membrane and vapor retarder. It is ideal for waterproofing tiled tub surrounds and showers. This membrane features an anchoring fleece on both sides to anchor it in thin-set mortar. Kerdi eliminates water damage which can lead to mold and mildew.",
+    "favorite_count": 124,
+    "feature_bullets": [
+      "Waterproofing membrane for tile showers and bathtub surrounds",
+      "Helps prevent mold and mildew",
+      "Tile over membrane immediately, no wait time required"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Waterproofing for tiled shower walls and floors",
+      "Eliminates water damage which can lead to mold and mildew",
+      "Installs easily with unmodified thin-set mortar (sold separately)",
+      "Roll dimensions are 3 ft. 3 in. x 23 ft.",
+      "Covers 75 sq. ft.",
+      "Thickness is 8 mil",
+      "For residential and commercial use"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/aaa52ec4-c8f9-4f98-9bc0-ef84460b9019/svn/schluter-underlayment-kerdi200-7m-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8a9a6942-877e-4ee4-a567-95889748d5ad/svn/schluter-underlayment-kerdi200-7m-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/aaa52ec4-c8f9-4f98-9bc0-ef84460b9019/svn/schluter-underlayment-kerdi200-7m-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 23,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Mold/mildew resistant,Waterproofing membrane"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Shower,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Rolls Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package coverage (sq. ft.)",
+        "value": "75"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Subflooring type",
+        "value": "Concrete"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Area Coverage Per Roll (sq. ft. for each roll)",
+        "value": "75"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product thickness (mil)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Recommended overlap (in.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Roll Length (ft.)",
+        "value": "23 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Roll width (in.)",
+        "value": "39"
+      }
+    ],
+    "variants": [
+      {
+        "title": "646",
+        "link": "https://www.homedepot.com/p/Schluter-Kerdi-6-ft-7-in-x-98-ft-5-in-Waterproofing-Membrane-KERDI200200/309829827",
+        "item_id": "309829827"
+      },
+      {
+        "title": "323",
+        "link": "https://www.homedepot.com/p/Schluter-Kerdi-323-sq-ft-79-x-in-W-49-x-ft-L-x-8-mm-T-Waterproofing-Membrane-Underlayment-for-Tile-KERDI200200-15M/315508360",
+        "item_id": "315508360"
+      },
+      {
+        "title": "75",
+        "link": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-23-ft-Waterproofing-Membrane-KERDI200-7M/309829614",
+        "item_id": "309829614"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Underlayment",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/N-5yc1vZcdtw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 156.65,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 43,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 43,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

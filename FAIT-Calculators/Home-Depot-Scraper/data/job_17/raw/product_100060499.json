@@ -1,0 +1,246 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14031,
+    "overage_used": 4031,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-4-in-x-1-in-Vinyl-Trim-Plank-Molding-0731812003/100060499"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:52:01.896Z",
+    "processed_at": "2025-05-01T17:52:07.746Z",
+    "total_time_taken": 5.85,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-4-in-x-1-in-Vinyl-Trim-Plank-Molding-0731812003/100060499"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-4-in-x-1-in-Vinyl-Trim-Plank-Molding-0731812003/100060499",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Royal-Mouldings/N-5yc1vZcbj5Z8ui",
+    "title": "Royal Mouldings 12 ft. x 4 in. x 1 in. Vinyl Trim Plank Molding",
+    "upc": "070673836848",
+    "item_id": "100060499",
+    "parent_id": "334560951",
+    "store_sku": "245908",
+    "model_number": "0731812003",
+    "description": "This 12 ft. x 4 in. x 1 in. PVC Trim Plank Molding is designed for use as a frieze or fascia board to surround windows and doors or to create corners. The vinyl molding is manufactured for outdoor use to be installed below grade or in direct contact with cement. The PVC adds a finishing touch to your home and adds value. The trim plank can also be used interior.",
+    "favorite_count": 526,
+    "aisle": "19",
+    "bay": "007",
+    "feature_bullets": [
+      "For outdoor use around doors and windows",
+      "Cuts like wood with no special tools required",
+      "Moisture, rot, termite and split resistant"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Vinyl is durable and will not split or crack",
+      "White finish is repaintable with oil or latex paint",
+      "Moisture, rot and termite resistant",
+      "Cuts like wood with no special tools required",
+      "For exterior use",
+      "Install below grade or in direct contact with cement",
+      "144 in. Length",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/cfc20ab2-8357-4454-8e56-900a2c856ade/svn/white-royal-mouldings-general-purpose-moulding-0731812003-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c9087fd5-bdec-4f18-a248-a34e3a1bc2fa/svn/white-royal-mouldings-general-purpose-moulding-0731812003-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1d4254b8-3699-48bb-91af-23c3914cb99a/svn/white-royal-mouldings-general-purpose-moulding-0731812003-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/49c71f6a-c8ac-4448-ae3d-37e28418faae/svn/white-royal-mouldings-general-purpose-moulding-0731812003-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4f4edc6b-716d-4e15-bb7c-50f5e540bd97/svn/white-royal-mouldings-general-purpose-moulding-0731812003-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/cfc20ab2-8357-4454-8e56-900a2c856ade/svn/white-royal-mouldings-general-purpose-moulding-0731812003-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 299,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "S4S Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "7318"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "exterior moulding",
+      "trim",
+      "exterior trim",
+      "fascia moulding",
+      "fascia trim",
+      "frieze moulding",
+      "frieze trim"
+    ],
+    "keywords": "moulding, exterior moulding, trim, exterior trim, fascia moulding, fascia trim, frieze moulding, frieze trim",
+    "variants": [
+      {
+        "title": "White~~1 in",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-2363-3-4-in-x-1-in-x-12-ft-PVC-S4S-Molding-0236312003/202089966",
+        "item_id": "202089966"
+      },
+      {
+        "title": "White~~3.5 in",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-4-in-x-1-in-Vinyl-Trim-Plank-Molding-0731812003/100060499",
+        "item_id": "100060499"
+      },
+      {
+        "title": "White~~1.5 in",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-1-1-2-in-x-5-8-in-Vinyl-S4S-Molding-0215012011/100091434",
+        "item_id": "100091434"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 15
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 16,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13375,
+    "overage_used": 3375,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grip-Rite-16-1-2-x-1-5-8-in-White-Ring-Shank-Panel-Board-Nails-6-oz-Box-158PBWH/202308576"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:56:01.203Z",
+    "processed_at": "2025-05-01T13:56:07.284Z",
+    "total_time_taken": 6.08,
+    "homedepot_url": "https://www.homedepot.com/p/Grip-Rite-16-1-2-x-1-5-8-in-White-Ring-Shank-Panel-Board-Nails-6-oz-Box-158PBWH/202308576"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grip-Rite-1-5-8-in-x-16-1-2-Gauge-White-Ring-Shank-Panel-Board-Nails-6-oz-Box-158PBWH/202308576",
+    "brand": "Grip-Rite",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Nails-Finishing-Nails/Grip-Rite/N-5yc1vZc2g2Z5kt",
+    "title": "Grip-Rite 1-5/8 in. x 16-1/2-Gauge White Ring Shank Panel Board Nails 6 oz. Box",
+    "upc": "764666000520",
+    "item_id": "202308576",
+    "parent_id": "325606375",
+    "store_sku": "307279",
+    "model_number": "158PBWH",
+    "description": "Grip-Rite 158PBWH 1-5/8 in. x 16-1/2-Gauge White Ring Shank Panel Board Nails are made from tempered hardened steel to resist bending when driving into harder woods. These painted nails have a small round head for easy countersinking in finishing applications. A diamond point easily penetrates wood substrates and resists cracking or splitting of materials. The ring shank provides a lasting grip for the life of your project.",
+    "favorite_count": 1186,
+    "aisle": "17",
+    "bay": "005",
+    "feature_bullets": [
+      "1-5/8 in. x 16-1/2-gauge nails for use in panel board hanging",
+      "Hand drive fastener for hanging casing and panel board",
+      "Made from tempered hardened steel for rigidity and strength"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used in wood to wood finishing and panel board hanging",
+      "Constructed from tempered hardened steel",
+      "Painted to match a variety of common project colors",
+      "1-5/8 in. x 16-1/2-Gauge panel board nails",
+      "Small head makes countersinking to hide head easy",
+      "Ring shank provides a reliable hold",
+      "6 oz. box with around 176 1-5/8 in. x 16-1/2-GA panel board nails",
+      "<a href=\"https://www.homedepot.com/c/ab/types-of-nails/9ba683603be9fa5395fab909c451e98\" target=\"_blank\">Not sure what type of nail you need? Check out our helpful buying guide here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/906de880-8e40-4996-ad3e-efffef08fa14/svn/grip-rite-finishing-nails-158pbwh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6e25318d-5848-483c-aa85-76f7b883e2c9/svn/grip-rite-finishing-nails-158pbwh-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c160421d-024a-4075-9b09-d2c3c8f69d5f/svn/grip-rite-finishing-nails-158pbwh-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cd5e22ad-26a3-4158-8911-fa731c5f038c/svn/grip-rite-finishing-nails-158pbwh-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b451f446-4d18-42c0-a87c-510cd60b6709/svn/grip-rite-finishing-nails-158pbwh-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/00b09433-6d71-41ac-9e2b-4b32ba5a3607/svn/grip-rite-finishing-nails-158pbwh-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/906de880-8e40-4996-ad3e-efffef08fa14/svn/grip-rite-finishing-nails-158pbwh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 229,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Callout Size",
+        "value": "#16-1/2 x 1-5/8 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Specialty Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Family",
+        "value": "Metallic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Nail Coating",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Nail Type",
+        "value": "Finishing/Casing Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "192"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.4 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shank Type",
+        "value": "Ring Shank"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Fastener Head Width (in.)",
+        "value": "0.101"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Fastener Length (in.)",
+        "value": "1.62"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nail Length (In.)",
+        "value": "1 5/8 in."
+      }
+    ],
+    "keywords_list": [
+      "nail",
+      "steel nail",
+      "panel board nail",
+      "steel panel board nail",
+      "white nail",
+      "white panel board nail",
+      "vinyl-coated nail",
+      "vinyl-coated panel board nail"
+    ],
+    "keywords": "nail, steel nail, panel board nail, steel panel board nail, white nail, white panel board nail, vinyl-coated nail, vinyl-coated panel board nail",
+    "variants": [
+      {
+        "title": "0.4 lb~~1",
+        "link": "https://www.homedepot.com/p/Grip-Rite-1-in-x-16-1-2-Gauge-White-Ring-Shank-Panel-Board-Nails-6-oz-Box-1PBWH/202308581",
+        "item_id": "202308581"
+      },
+      {
+        "title": "0.4 lb~~1.62",
+        "link": "https://www.homedepot.com/p/Grip-Rite-1-5-8-in-x-16-1-2-Gauge-White-Ring-Shank-Panel-Board-Nails-6-oz-Box-158PBWH/202308576",
+        "item_id": "202308576"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Nails",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Nails/N-5yc1vZc2dx"
+      },
+      {
+        "name": "Finishing Nails",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Nails-Finishing-Nails/N-5yc1vZc2g2"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4.46,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 25,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 32,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

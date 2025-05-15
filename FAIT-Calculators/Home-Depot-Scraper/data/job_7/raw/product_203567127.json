@@ -1,0 +1,258 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13409,
+    "overage_used": 3409,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grip-Rite-8-x-2-1-4-in-White-PrimeGuard-Plus-Coated-Coarse-Thread-Trim-Head-Wood-Screws-1-lb-Box-LT214STW1C/203567127"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:58:23.821Z",
+    "processed_at": "2025-05-01T13:58:28.463Z",
+    "total_time_taken": 4.64,
+    "homedepot_url": "https://www.homedepot.com/p/Grip-Rite-8-x-2-1-4-in-White-PrimeGuard-Plus-Coated-Coarse-Thread-Trim-Head-Wood-Screws-1-lb-Box-LT214STW1C/203567127"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grip-Rite-8-x-2-1-4-in-White-PrimeGuard-Plus-Coated-Coarse-Thread-Trim-Head-Wood-Screws-1-lb-Box-LT214STW1C/203567127",
+    "brand": "Grip-Rite",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Grip-Rite/N-5yc1vZ2fkpe61Z5kt",
+    "title": "Grip-Rite #8 x 2-1/4 in. White PrimeGuard Plus Coated Coarse Thread Trim Head Wood Screws 1 lb. Box",
+    "upc": "764666638969",
+    "item_id": "203567127",
+    "parent_id": "320220173",
+    "store_sku": "577509",
+    "model_number": "LT214STW1C",
+    "description": "Grip-Rite LT214STW1C #8 x 2-1/4 in. White PrimeGuard Plus Coated Coarse Thread Trim Head Wood Screws are ideal for many outdoor wood to wood applications. White color blends in with most pre-finished trim products and the small head provides a smooth surface after installation. T 17, self-drilling point makes driving quick and reduces splitting. PrimeGuard Plus guarantees fastener integrity for the life of the project.",
+    "favorite_count": 331,
+    "aisle": "17",
+    "bay": "009",
+    "feature_bullets": [
+      "#8 x 2-1/4 in. white exterior wood screw for outdoor projects",
+      "Trim head suitable for finish work in wood to wood applications",
+      "Made from steel for strength and durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used to secure trim and decking in treated and composite material",
+      "Durable steel construction",
+      "PrimeGuard Plus coated for guaranteed corrosion protection",
+      "#8 x 2-1/4 in. trim head exterior construction screws",
+      "Small head easily blends in with painted wood projects and trim",
+      "T 17 self-drilling point reduces chances of splitting",
+      "1 lb. box of around 100 #8 x 2-1/4 in. trim head exterior screws",
+      "Common project applications: remodeling, fencing, storage, cabinets, framing"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f4e2cf61-8c39-444d-8056-ae8d65c2f271/svn/grip-rite-deck-screws-lt214stw1c-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f4e2cf61-8c39-444d-8056-ae8d65c2f271/svn/grip-rite-deck-screws-lt214stw1c-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ad447cd5-7f05-40c4-bf50-896ddf937d3d/e8295825-18d3-417b-a9d9-a0475e07a158/main.mp4?fastly_token=NjgxMzkxODVfZTgyNDk2ZjJjMTJhMzA3NDk3NDY4Njc2ZTkyNjU0N2MwZmZjYzFkNGY2M2ZhOGRmMjIyYmZmY2IzNzNiZmY1MF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYWQ0NDdjZDUtN2YwNS00MGM0LWJmNTAtODk2ZGRmOTM3ZDNkL2U4Mjk1ODI1LTE4ZDMtNDE3Yi1hOWQ5LWEwNDc1ZTA3YTE1OC9tYWluLm1wNA%3D%3D",
+        "title": "Grip-Rite Exterior Screw Video",
+        "id": "6362507845112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/ad447cd5-7f05-40c4-bf50-896ddf937d3d/main/160x90/15s40ms/match/image.jpg",
+        "description": "Grip-Rite Exterior Screws\n"
+      }
+    ],
+    "ratings_total": 331,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Phillips"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Ceramic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Bugle Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "100"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "9 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-1/4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#8"
+      }
+    ],
+    "size": "#8",
+    "variants": [
+      {
+        "title": "1-5/8 in~~#8~~White~~0.50 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-8-x-1-5-8-in-Star-Drive-Flat-Head-White-All-Purpose-Screw-67-per-Box-P158STWH67/204172239",
+        "item_id": "204172239"
+      },
+      {
+        "title": "2-1/4 in~~#8~~White~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-8-x-2-1-4-in-White-PrimeGuard-Plus-Coated-Coarse-Thread-Trim-Head-Wood-Screws-1-lb-Box-LT214STW1C/203567127",
+        "item_id": "203567127"
+      },
+      {
+        "title": "2-1/2 in~~#9~~0.50 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-9-x-2-1-2-in-Star-Drive-Bugle-Head-Coarse-Thread-Coated-Deck-Screws-40-per-Box-P212STWH40/204172241",
+        "item_id": "204172241"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 21,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 10
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 29,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 31,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

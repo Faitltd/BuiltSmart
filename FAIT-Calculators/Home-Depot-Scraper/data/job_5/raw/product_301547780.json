@@ -1,0 +1,229 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13403,
+    "overage_used": 3403,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fence-Post-Repair-and-Mailbox-Post-Repair-PD10/301547780"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:57:52.271Z",
+    "processed_at": "2025-05-01T13:58:02.671Z",
+    "total_time_taken": 10.4,
+    "homedepot_url": "https://www.homedepot.com/p/Fence-Post-Repair-and-Mailbox-Post-Repair-PD10/301547780"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fence-Post-Repair-and-Mailbox-Post-Repair-PD10/301547780",
+    "brand": "Unbranded",
+    "title": "Unbranded Fence Post Repair and Mailbox Post Repair",
+    "upc": "850503005886",
+    "item_id": "301547780",
+    "store_sku": "1002405516",
+    "model_number": "PD10",
+    "description": "The Post Doctor is the #1 fence or mailbox 4 x 4 post repair device on the market. It's one piece design that will anchor a sagging post from the subterranean wood below the cement and clamp it down to the wood above.",
+    "is_top_rated": true,
+    "favorite_count": 202,
+    "feature_bullets": [
+      "Galvanized steel construction is rust and corrosion-resistant",
+      "Repairs nominal 4x4 (actual dimension 3.5in.x 3.5in.) fence posts",
+      "Purchase includes nuts, washers, screws, bolts, and drill bits"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Best fence or mailbox repair in the world today",
+      "Fixes 4 x 4 fence and mail box posts without removing fence panels or digging holes",
+      "All hardware included:nuts, washers, screws, bolts and drill bits",
+      "Repair lasts for years to come",
+      "Avoid complete post and cement replacement, that can cost up to $200 each"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f4036e48-14be-4d95-a495-b5f49fa8cae3/svn/wood-connectors-pd10-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/38dc009b-bbc5-4f86-9357-e8b675b7d8eb/svn/wood-connectors-pd10-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ccfcf410-9235-4d58-b942-3bdf3440f497/svn/wood-connectors-pd10-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/67cbffe9-3b37-43ad-9361-1df9b99b59a8/svn/wood-connectors-pd10-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cd923457-7210-43a0-b5ec-70defae6647d/svn/wood-connectors-pd10-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cb7f4c8e-634f-4abd-b2a7-5d6cc8f92d0c/svn/wood-connectors-pd10-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8da871cb-940c-4490-9f5a-868d1fe0ba25/svn/wood-connectors-pd10-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/497e092a-8996-4372-a4a6-fbad578de2fd/svn/wood-connectors-pd10-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cd690ecf-9893-4158-9dc8-7ce33c026144/svn/wood-connectors-pd10-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/43fc96f5-8ed6-4294-a4f6-435c7d49537e/svn/wood-connectors-pd10-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/43ae0f58-9db5-4c71-9cc5-c6f7d8c24b44/svn/wood-connectors-pd10-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3b6ab2bc-21c2-4249-9eae-9838fecb7fac/svn/wood-connectors-pd10-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f4036e48-14be-4d95-a495-b5f49fa8cae3/svn/wood-connectors-pd10-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/c64c07d3-1526-4327-a5cf-869f21e507d8/3f3169ca-02e5-4b67-8bcc-e0ca704e03f9/main.mp4?fastly_token=NjgzODJhZWVfYTY5YTJiZTJhNmYwNDkzMjhmOWI4N2QwN2QyNmE3YTdlODlmMzZiN2ZmOGJiZjc2MzY2MzQ5NDdlYTRjOTM1Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jNjRjMDdkMy0xNTI2LTQzMjctYTVjZi04NjlmMjFlNTA3ZDgvM2YzMTY5Y2EtMDJlNS00YjY3LThiY2MtZTBjYTcwNGUwM2Y5L21haW4ubXA0&pubid=66036796001",
+        "title": "Post Doctor Animation",
+        "id": "5380800694001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/c64c07d3-1526-4327-a5cf-869f21e507d8/c8d92e7b-7e44-4e87-8573-0055b6564653/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This animation will guide you through the easy installation of The Post Doctor."
+      }
+    ],
+    "ratings_total": 110,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Hot dip galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "2.8 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Type",
+        "value": "Other"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1Year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "4.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.75 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Wood Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/N-5yc1vZaq9x"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.95,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9861,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9861,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

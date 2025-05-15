@@ -1,0 +1,216 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14413,
+    "overage_used": 4413,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Transcend-1-in-x-5-1-2-in-x-20-ft-Spiced-Rum-Grooved-Edge-Capped-Composite-Decking-Board-SR010620TG01/206756546"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:34:47.075Z",
+    "processed_at": "2025-05-01T18:34:53.127Z",
+    "total_time_taken": 6.05,
+    "homedepot_url": "https://www.homedepot.com/p/Transcend-1-in-x-5-1-2-in-x-20-ft-Spiced-Rum-Grooved-Edge-Capped-Composite-Decking-Board-SR010620TG01/206756546"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Transcend-1-in-x-5-1-2-in-x-20-ft-Spiced-Rum-Grooved-Edge-Capped-Composite-Decking-Board-SR010620TG01/206756546",
+    "brand": "Trex",
+    "title": "Trex Transcend 1 in. x 5-1/2 in. x 20 ft. Spiced Rum Grooved Edge Capped Composite Decking Board",
+    "upc": "652835062502",
+    "item_id": "206756546",
+    "parent_id": "325693192",
+    "store_sku": "1006559924",
+    "model_number": "SR010620TG01",
+    "description": "Our best-in-class offering brings the whole package-superior durability, luxurious looks and decades of splinter-free fun. Thanks to our high-performance shell technology, you can rest assured that a Transcend deck will maintain its beauty for decades with only minimal upkeep. The island-inspired streaking of our Transcend tropical decking line mimics the 1-of-a-kind beauty of hardwood without any of the hassle. And, as with all Trex products, Transcend is protected by industry-leading warranty coverage.",
+    "favorite_count": 13,
+    "feature_bullets": [
+      "Elevated aesthetics paired with the highest level of performance",
+      "Low-maintenance material; cleans easily with soap and water",
+      "Backed by a\u00a050-year limited residential, fade and stain warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Deep, rich color highlights one-of-a-kind striations and a realistic wood grain",
+      "High-performance shell is fade, stain, scratch and mold resistant",
+      "Outperforms wood decks with only minimal maintenance",
+      "25-year fade and stain warranty",
+      "Backed by the Trex 25-year limited residential warranty and the Trex 25-year limited residential fade and stain warranty",
+      "Available in grooved-edge boards designed for our hidden deck fasteners or square-edge boards for traditional installation",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/TREX COMPANY INC/TRX0489_HD_Graphic_TrexVsWood_Brown.jpg\">"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3283e1c8-8647-41b9-9090-ba0006abb4f0/svn/brown-composite-decking-boards-sr010620tg01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c00c2382-d1f8-4105-a3d3-7f32f1e2b1d1/svn/brown-composite-decking-boards-sr010620tg01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1f8c05eb-5f16-4dd2-a444-5bdd0103f3d6/svn/brown-composite-decking-boards-sr010620tg01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/86cfa09a-8bfa-49da-8444-688f1c14bd70/svn/brown-composite-decking-boards-sr010620tg01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a0b708f7-c975-4627-9c41-5fa9e0927a17/svn/brown-composite-decking-boards-sr010620tg01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2edfcc05-172f-43ee-886d-11cd3779ceaf/svn/brown-composite-decking-boards-sr010620tg01-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0c605083-3a62-4737-a3b0-99d1f6faa3a3/svn/brown-composite-decking-boards-sr010620tg01-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3283e1c8-8647-41b9-9090-ba0006abb4f0/svn/brown-composite-decking-boards-sr010620tg01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4935f6a9-518b-44d7-bc7d-d128317ea6cd/d69d14a0-18f1-44da-8173-57b527995967/main.mp4?fastly_token=NjgzODVlZGNfZGI2ZWVlNzdhMTg5ZjY5NmEyYmVlNTdhNzFjZjBlMTgyODMyMjhkYTNmNmRlYzMxOGUwYTY2ZDQ4ZTg1NDU1YV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80OTM1ZjZhOS01MThiLTQ0ZDctYmM3ZC1kMTI4MzE3ZWE2Y2QvZDY5ZDE0YTAtMThmMS00NGRhLTgxNzMtNTdiNTI3OTk1OTY3L21haW4ubXA0&pubid=66036796001",
+        "title": "Trex Decking Video",
+        "id": "5449729099001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/4935f6a9-518b-44d7-bc7d-d128317ea6cd/41c982cf-3a49-4d4a-add2-1c575bbc9d0d/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Please attach this Trex decking video to the below OMSIDs"
+      }
+    ],
+    "ratings_total": 110,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Hideaway Universal Hidden Fastener Combo Box"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 25-Year Limited Residential Warranty and the Trex 25-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "52"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Brown~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Transcend-1-in-x-5-1-2-in-x-20-ft-Spiced-Rum-Grooved-Edge-Capped-Composite-Decking-Board-SR010620TG01/206756546",
+        "item_id": "206756546"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 112,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 51,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

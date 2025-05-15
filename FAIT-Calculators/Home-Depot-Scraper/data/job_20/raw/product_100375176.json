@@ -1,0 +1,279 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14119,
+    "overage_used": 4119,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-AC-ZMAX-Galvanized-Adjustable-Post-Cap-for-4x-Nominal-Lumber-AC4Z/100375176"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:56:29.466Z",
+    "processed_at": "2025-05-01T17:56:33.417Z",
+    "total_time_taken": 3.95,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-AC-ZMAX-Galvanized-Adjustable-Post-Cap-for-4x-Nominal-Lumber-AC4Z/100375176"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-AC-ZMAX-Galvanized-Adjustable-Post-Cap-for-4x-Nominal-Lumber-AC4Z/100375176",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Cap-Connectors/Simpson-Strong-Tie/N-5yc1vZc8huZ615",
+    "title": "Simpson Strong-Tie AC ZMAX Galvanized Adjustable Post Cap for 4x Nominal Lumber",
+    "upc": "044315337208",
+    "item_id": "100375176",
+    "parent_id": "309902025",
+    "store_sku": "669439",
+    "model_number": "AC4Z",
+    "description": "Post caps connect tops of posts to members for a secure connection and are ideal for new or retrofit applications where structural support is needed. Post caps are available in a variety of one-piece caps for new construction and two-piece options for retrofit of existing connections. The AC series is designed to provide a positive connection between a beam and a post; these connectors are always installed in pairs.",
+    "favorite_count": 397,
+    "aisle": "FW",
+    "bay": "006",
+    "feature_bullets": [
+      "Adjustable design fits various post sizes securely",
+      "ZMAX-galvanized coating offers superior corrosion protection",
+      "Ideal for structural connections in outdoor projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Eliminates nailing into end grains",
+      "Stronger than angled nailing or screw fastening",
+      "Length: 6-1/2-in",
+      "For use with nominal 4x lumber",
+      "Made from 18-gauge steel",
+      "ZMAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with 0.162 in. x 3-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">16DHDG</a>) or #10 x 1-1/2 in. Strong-Drive SD screws (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-1-1-2-in-1-4-Hex-Drive-Strong-Drive-SD-Connector-Screw-100-Pack-SD10112R100/202071154\" target=\"_blank\" style=\"color:#F96302;\">SD10112</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/35230168-08e6-41ce-a1b6-ccb68659b449/svn/simpson-strong-tie-post-cap-connectors-ac4z-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c8ecc42d-1f32-403f-949c-15720664f980/svn/simpson-strong-tie-post-cap-connectors-ac4z-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1ef95e43-199b-4014-93c0-3ce5a4f5da6a/svn/simpson-strong-tie-post-cap-connectors-ac4z-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a174f002-b3a6-4593-b10a-6037653a050a/svn/simpson-strong-tie-post-cap-connectors-ac4z-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/af8c158c-29a1-4dc9-929e-7046d01b03db/svn/simpson-strong-tie-post-cap-connectors-ac4z-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a20d70c-0318-4d4b-b984-0e47f7bcc42e/svn/simpson-strong-tie-post-cap-connectors-ac4z-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-cap-connectors-ac4z-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e8c43c9b-3974-44fe-94a8-98e2a69efd32/svn/simpson-strong-tie-post-cap-connectors-ac4z-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-cap-connectors-ac4z-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/35230168-08e6-41ce-a1b6-ccb68659b449/svn/simpson-strong-tie-post-cap-connectors-ac4z-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4cbd15de-1a11-412f-a3c8-88eb416213f9/3bf207c0-5b9a-47ca-87b2-151bb52dca3d/main.mp4?fastly_token=NjgzODI4YWFfN2YxMjNkMGE4NTk5MzE1MTBhOGI4NDhmZWM2OTVmYjk4ODYyMWU0MTU0YzljNjE4Y2UxOWQxMjU3NmM3YWZjNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80Y2JkMTVkZS0xYTExLTQxMmYtYTNjOC04OGViNDE2MjEzZjkvM2JmMjA3YzAtNWI5YS00N2NhLTg3YjItMTUxYmI1MmRjYTNkL21haW4ubXA0&pubid=66036796001",
+        "title": "Build a Stronger Deck: Beam Connections",
+        "id": "6183646363001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/4cbd15de-1a11-412f-a3c8-88eb416213f9/3c489979-6d4b-4eac-9b95-5c27551ccda3/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Deck beams are the horizontal framing members that support the joists. We highlight the available beam connection options to help you select what\u2019s best for your project."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 172,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Cap Type",
+        "value": "Post Cap"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G185 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "18"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Beam Width",
+        "value": "4x"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "Other"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "6.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "keywords_list": [
+      "post cap",
+      "18-gauge post cap",
+      "cap",
+      "18-gauge cap",
+      "steel post cap",
+      "steel cap",
+      "SIMPSON STRONG-TIE post cap",
+      "SIMPSON STRONG-TIE cap"
+    ],
+    "keywords": "post cap, 18-gauge post cap, cap, 18-gauge cap, steel post cap, steel cap, SIMPSON STRONG-TIE post cap, SIMPSON STRONG-TIE cap",
+    "variants": [
+      {
+        "title": "6x",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-AC-ZMAX-Galvanized-Adjustable-Post-Cap-for-6x-Nominal-Lumber-AC6Z/100375275",
+        "item_id": "100375275"
+      },
+      {
+        "title": "4x",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-AC-ZMAX-Galvanized-Adjustable-Post-Cap-for-4x-Nominal-Lumber-AC4Z/100375176",
+        "item_id": "100375176"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Cap Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Cap-Connectors/N-5yc1vZc8hu"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 46
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 134,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 152,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

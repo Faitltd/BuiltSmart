@@ -1,0 +1,376 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14168,
+    "overage_used": 4168,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/RYOBI-ONE-18V-10-in-Cordless-Battery-String-Trimmer-Edger-with-2-0-Ah-Battery-and-Charger-PCLST01K/319022710"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:59:51.023Z",
+    "processed_at": "2025-05-01T17:59:56.969Z",
+    "total_time_taken": 5.95,
+    "homedepot_url": "https://www.homedepot.com/p/RYOBI-ONE-18V-10-in-Cordless-Battery-String-Trimmer-Edger-with-2-0-Ah-Battery-and-Charger-PCLST01K/319022710"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-10-in-Cordless-Battery-String-Trimmer-Edger-with-2-0-Ah-Battery-and-Charger-PCLST01K/319022710",
+    "brand": "RYOBI",
+    "brand_link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers-String-Trimmers-Electric-String-Trimmers-Cordless-String-Trimmers/RYOBI/N-5yc1vZcjegZm5d",
+    "title": "RYOBI ONE+ 18V 10 in. Cordless Battery String Trimmer/Edger with 2.0 Ah Battery and Charger",
+    "upc": "046396039477",
+    "item_id": "319022710",
+    "parent_id": "334732105",
+    "store_sku": "1010335614",
+    "model_number": "PCLST01K",
+    "description": "The RYOBI 18V ONE+ 10\" String Trimmer/Edger Kit is the lightest weight string trimmer, weighing under 4 lbs. and is ideal for tackling small yards. Experience over 30 minutes of runtime using an 18V ONE+ 2Ah battery. This string trimmer is equipped with an auto-feed head for easy line advancement with each pull of the trigger. It has an adjustable 8\" - 10\" cut swath and is compatible with .065\" line that can quickly & conveniently be reloaded. When it is time to edge, easily twist the shaft to turn into an edger, and comfortably get the job done with an overmold handle. Best of all, it is part of the RYOBI ONE+ system where any 18V ONE+ battery works with any 18V ONE+ product. This 18V ONE+ 10\" String Trimmer/Edger Kit is backed by the RYOBI 3-Year Manufacturer's Warranty and includes 18V 10\" String Trimmer/Edger, 18V 2Ah Lithium Battery, 18V Charger, Grass Deflector, and Operator's Manuals.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "aisle": "11",
+    "bay": "011",
+    "feature_bullets": [
+      "Lightest weight string trimmer",
+      "Over 35 Minutes of Runtime Using an 18V ONE+ 2Ah Battery",
+      "Over 300 ONE+ Products. All Work With Any RYOBI ONE+ 18V Battery"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Lightest weight string trimmer ideal for tackling small yards",
+      "Over 35 minutes of runtime using an 18V ONE+ 2Ah battery; Up to 132 minutes of runtime using 18V ONE+ 6Ah battery (18V ONE+ 2Ah battery included)",
+      "Experience exceptional performance with just the pull of a trigger, without the hassle of gas or cords",
+      "Achieve a longer runtime or more aggressive cut with the adjustable 8\"-10\" cut swath",
+      "Easy line advancement and reloads with auto-feed head",
+      ".065\" line advances with each pull of the trigger",
+      "Conveniently turn your string trimmer into an edger with the twisting shaft",
+      "Comfortable overmold handle",
+      "Part of the RYOBI ONE+ system - Any 18V ONE+ battery works with any 18V ONE+ product",
+      "3-year manufacturer's warranty",
+      "Includes: PCLST01 18V 10\" String Trimmer/Edger, PBP006 18V 2Ah Lithium Battery, P119 18V Charger, Grass Deflector, and Operator's Manuals",
+      "<a href=\"https://www.homedepot.com/collection/Hardware/RYOBI-LINK-Modular-Storage/Family-319189263.omsid=317939878\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/28O/HOMELITE CONSUMER PRODUC/2915483 1.jpg\"></a>",
+      "<a href=\"https://www.homedepot.com/c/electronics_recycling_programs\" style=\"color:#F96302;\" target=\"_blank\">Click here for more information on Electronic Recycling Programs</a>"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6fd07ad8-9682-4943-9871-8c135cb43dd6/svn/ryobi-cordless-string-trimmers-pclst01k-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5e3d6daa-5c88-49ec-895f-b7c6eeb13236/svn/ryobi-cordless-string-trimmers-pclst01k-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7932af4a-e0bb-4dfe-b15d-310870c71d3c/svn/ryobi-cordless-string-trimmers-pclst01k-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/796094ec-542e-41ea-abfe-97d3ba626799/svn/ryobi-cordless-string-trimmers-pclst01k-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7b0dab38-f24f-4cd0-94db-a1b776d2c4b3/svn/ryobi-cordless-string-trimmers-pclst01k-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d891a8e8-83c7-47cc-9d4f-51810f2ab6d4/svn/ryobi-cordless-string-trimmers-pclst01k-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5be93686-78db-4dd6-9c1d-8587a7583a41/svn/ryobi-cordless-string-trimmers-pclst01k-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8cb16779-c905-4a4a-965b-eed907dd2a69/svn/ryobi-cordless-string-trimmers-pclst01k-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e7da4196-b5bb-47aa-b427-fc256eeabfb9/svn/ryobi-cordless-string-trimmers-pclst01k-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25180c43-4b4f-4e86-9c44-ad4edf7702e1/svn/ryobi-cordless-string-trimmers-pclst01k-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9b123aa5-80b4-449d-a7d3-1538d247c745/svn/ryobi-cordless-string-trimmers-pclst01k-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d08d11bd-e316-431f-a94c-29591e8f04a8/svn/ryobi-cordless-string-trimmers-pclst01k-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6fd07ad8-9682-4943-9871-8c135cb43dd6/svn/ryobi-cordless-string-trimmers-pclst01k-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/c5d41bfb-4748-4d70-8de0-01639f1f87d5/1efb2ec6-0b99-42d7-bf6e-bc4881b6316e/main.mp4?fastly_token=NjgxMzkxODhfZGRjYzYwNTIwZDAxNTkzMjdjZDY3OWJjN2QxZGUxZWEyMzQwNDAwNmI3MzdiZmMyNzA3YjJkYTZjYzMwYzdmNF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYzVkNDFiZmItNDc0OC00ZDcwLThkZTAtMDE2MzlmMWY4N2Q1LzFlZmIyZWM2LTBiOTktNDJkNy1iZjZlLWJjNDg4MWI2MzE2ZS9tYWluLm1wNA%3D%3D",
+        "title": "10\" Trimmer",
+        "id": "6350135772112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/c5d41bfb-4748-4d70-8de0-01639f1f87d5/main/160x90/27s690ms/match/image.jpg",
+        "description": "10\" Trimmer\n"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/6faa1f23-0baf-44eb-9299-276be3b6b0c7/721c2d06-872c-4405-b4ea-2a7b4a99e085/main.mp4?fastly_token=NjgzODI2ZjFfMjU0NTQyYWIzMjIwODAwZDAwMDJiZjIxZTg0NGIxMTI4NGViMjYwNDcyMGM5ZjA0M2RlMTBlNWM2YzIwZTA5Zl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82ZmFhMWYyMy0wYmFmLTQ0ZWItOTI5OS0yNzZiZTNiNmIwYzcvNzIxYzJkMDYtODcyYy00NDA1LWI0ZWEtMmE3YjRhOTllMDg1L21haW4ubXA0&pubid=66036796001",
+        "title": "P21011BTL removed 225 logo",
+        "id": "6362834046112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/6faa1f23-0baf-44eb-9299-276be3b6b0c7/main/160x90/15s50ms/match/image.jpg?pubId=66036796001",
+        "description": "P21011BTL removed 225 logo"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e40173e0-839c-4b03-acc7-5f764311f83c/e9f60827-f90b-4267-a90c-85b57ddf4396/main.mp4?fastly_token=NjgzODI2ZjFfZTAyMDk4ZDE3NTc5ZmI5MzgwYTQ4ZTEwMzBlNWIzNGJlMWRkNzg0NjJiMTY1OGIxZGVlZjliNjQ5Y2FlZjk5M18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lNDAxNzNlMC04MzljLTRiMDMtYWNjNy01Zjc2NDMxMWY4M2MvZTlmNjA4MjctZjkwYi00MjY3LWE5MGMtODViNTdkZGY0Mzk2L21haW4ubXA0&pubid=66036796001",
+        "title": "Brand spot light P21011BTL",
+        "id": "6362835534112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/e40173e0-839c-4b03-acc7-5f764311f83c/main/160x90/15s50ms/match/image.jpg?pubId=66036796001",
+        "description": "P21011BTL"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 1303,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Assembly Required",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Amp Hours",
+        "value": "2 Ah"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Run Time (min.)",
+        "value": "39"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Type",
+        "value": "Lithium Ion"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Voltage (V)",
+        "value": "18V"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery/Charger",
+        "value": "(1) 2 Ah Battery & Charger Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Charger Included",
+        "value": "Charger Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Type",
+        "value": "Cartridge"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Battery,String"
+      },
+      {
+        "group_name": "Details",
+        "name": "Line Advance System",
+        "value": "Automatic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Total Batteries Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Trim Lines",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Outdoor Power Combo",
+        "value": "No Additional Tools"
+      },
+      {
+        "group_name": "Details",
+        "name": "Power Type",
+        "value": "Battery"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "4.28 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Refurbished",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shaft Type",
+        "value": "Curved Shaft"
+      },
+      {
+        "group_name": "Details",
+        "name": "Start Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tools Included",
+        "value": "Battery,Charger,String Trimmer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trimmer Line Type",
+        "value": "String"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trimmer Type",
+        "value": "Compact"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "3"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Depth (in.)",
+        "value": "29.69 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Height (in.)",
+        "value": "7.91 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Width (in.)",
+        "value": "13.54 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Line Style Size",
+        "value": ".065"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Cutting Path Diameter (in.)",
+        "value": "10"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Recommended Line Diameter (in.)",
+        "value": ".065"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Shaft Length (in.)",
+        "value": "29.69 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Tool Only~~No Additional Tool",
+        "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-10-in-Cordless-Battery-String-Trimmer-Edger-Tool-Only-PCLST01B/328174926",
+        "item_id": "328174926"
+      },
+      {
+        "title": "(1) 2 Ah Battery & Charger Included~~No Additional Tool",
+        "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-10-in-Cordless-Battery-String-Trimmer-Edger-with-2-0-Ah-Battery-and-Charger-PCLST01K/319022710",
+        "item_id": "319022710"
+      },
+      {
+        "title": "(1) 2 Ah Battery & Charger Included~~Trimmer Line",
+        "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-10-in-Cordless-Battery-String-Trimmer-Edger-2-0-Ah-Battery-and-Charger-kit-with-ONE-0-065-Spool-3-Pack-PCLST01K-AC14RL3A/332713133",
+        "item_id": "332713133"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Outdoors",
+        "link": "https://www.homedepot.com/b/Outdoors/N-5yc1vZbx82"
+      },
+      {
+        "name": "Outdoor Power Equipment",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment/N-5yc1vZbx5c"
+      },
+      {
+        "name": "Trimmers & Edgers",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers/N-5yc1vZbxbh"
+      },
+      {
+        "name": "String Trimmers",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers-String-Trimmers/N-5yc1vZbx8i"
+      },
+      {
+        "name": "Electric String Trimmers",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers-String-Trimmers-Electric-String-Trimmers/N-5yc1vZcjed"
+      },
+      {
+        "name": "Cordless String Trimmers",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers-String-Trimmers-Electric-String-Trimmers-Cordless-String-Trimmers/N-5yc1vZcjeg"
+      }
+    ],
+    "buybox_winner": {
+      "price": 79,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 25,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 256,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

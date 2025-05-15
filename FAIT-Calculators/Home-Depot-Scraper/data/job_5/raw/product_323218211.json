@@ -1,0 +1,203 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13159,
+    "overage_used": 3159,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-1-2-in-x-4-1-2-in-Craftsman-FEMDF-Base-Moulding-FE345-E6192C/323218211"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:45:52.210Z",
+    "processed_at": "2025-05-01T13:45:57.468Z",
+    "total_time_taken": 5.26,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-1-2-in-x-4-1-2-in-Craftsman-FEMDF-Base-Moulding-FE345-E6192C/323218211"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-1-2-in-x-4-1-2-in-Craftsman-FEMDF-Base-Moulding-FE345-E6192C/323218211",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/FINISHED-ELEGANCE/N-5yc1vZcbjpZr98",
+    "title": "FINISHED ELEGANCE 1/2 in. x 4-1/2 in. Craftsman FEMDF Base Moulding",
+    "upc": "095624524209",
+    "item_id": "323218211",
+    "store_sku": "1005929322",
+    "model_number": "FE345-E6192C",
+    "description": "Add character and lasting value to your home with Finished Elegance prefinished base moulding. Featuring a smooth factory-finished white surface, our Craftsman-style base moulding is ready to take home and install - no sanding, priming, and waiting for paint to dry required. Baseboard is an essential basic moulding that offers protection from scuffs, bumps, and wayward furniture, but it can easily be combined with other Finished Elegance profiles for a custom build-up to turn up the elegance of any room.",
+    "aisle": "19",
+    "bay": "011",
+    "feature_bullets": [
+      "Designed to protect from bumps and scuffs",
+      "Made from high-quality MDF for lasting durability",
+      "Smooth white finish provides an elegant look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Premium MDF for enhanced appearance and durability",
+      "Creates a visual foundation where floor and wall meet",
+      "Pre-applied beautiful crisp white finish",
+      "Craftsman profile complements a variety of home styles",
+      "Combine 2 or more profiles for unique build-up designs"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3c81e9c1-0d4d-469b-af76-38d9361dcc4d/svn/white-finished-elegance-baseboard-fe345-e6192c-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46c2035a-792d-4ee5-af09-be9a2090650d/svn/white-finished-elegance-baseboard-fe345-e6192c-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f1f35ccd-602b-4569-ae9c-26b6af8a81e5/svn/white-finished-elegance-baseboard-fe345-e6192c-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/02aa6e3d-8ffe-474c-8c6e-24f17599cbfb/svn/white-finished-elegance-baseboard-fe345-e6192c-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19c454b9-3fdc-4a81-907c-ab45a6107f5d/svn/white-finished-elegance-baseboard-fe345-e6192c-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3c81e9c1-0d4d-469b-af76-38d9361dcc4d/svn/white-finished-elegance-baseboard-fe345-e6192c-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "0"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1266
+        }
+      }
+    }
+  }
+}

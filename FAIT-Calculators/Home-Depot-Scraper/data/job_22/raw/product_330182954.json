@@ -1,0 +1,190 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14390,
+    "overage_used": 4390,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Tommy-Docks-Flexx-TD-Aluminum-Gangway-8-ft-Titan-Decking-For-System-TDFXGWT-308/330182954"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:31:55.607Z",
+    "processed_at": "2025-05-01T18:32:03.731Z",
+    "total_time_taken": 8.12,
+    "homedepot_url": "https://www.homedepot.com/p/Tommy-Docks-Flexx-TD-Aluminum-Gangway-8-ft-Titan-Decking-For-System-TDFXGWT-308/330182954"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Tommy-Docks-Flexx-TD-Aluminum-Gangway-8-ft-Titan-Decking-For-System-TDFXGWT-308/330182954",
+    "brand": "Tommy Docks",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware-Boat-Docks/Tommy-Docks/N-5yc1vZc8xhZ659",
+    "title": "Tommy Docks Flexx TD Aluminum Gangway 8 ft. - Titan Decking For System",
+    "upc": "724785003086",
+    "item_id": "330182954",
+    "parent_id": "333790958",
+    "store_sku": "1011630580",
+    "model_number": "TDFXGWT-308",
+    "description": "Our DIY-friendly modular gangway seamlessly integrates with the Flexx floating dock system, enhancing dock length for increased safety and convenience by reducing the risks of trips and lifts. Available in 4 ft. 8 ft. or 12 ft. lengths, the kit simplifies installation with straightforward instructions and requires no cutting. Designed for compatibility with Tommy Docks Flexx floating docks, the kit is not recommended for use in brackish or saltwater environments. The package includes (1) 4 ft. x 4 ft. Assembled gangway frame with Titan decking, (1) Gangway hinge #TD-30506, (2) Flexx Flat Face Connector #TDFX-106. Titan decking offers a high-durability, low-maintenance solution, eliminating the need for paint or stain. Made of robust 100% polypropylene, it's designed to endure extreme weather, resisting stains, peeling, rot, moisture and fade, while staying cool in high temperatures.",
+    "feature_bullets": [
+      "Designed for use with Tommy Dock frames only",
+      "Made from 100% polypropylene to ensure durability",
+      "Resistant to peeling, moisture damage and fade"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Titan panel is intended for use with Tommy Dock frames only",
+      "Titan decking is a low-maintenance and durable option for your dock, as it requires no painting or staining",
+      "Made entirely from strong 100% polypropylene",
+      "Can withstand harsh weather conditions and is resistant to stains, peeling, rot, moisture damage and fading",
+      "Additionally, the surface remains cool even in extreme temperatures"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7a650a83-5688-4ce1-8b3a-bc7fd8a11bb9/svn/tommy-docks-boat-docks-tdfxgwt-308-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2014a7f3-ea87-4910-9335-275fb01f2a6d/svn/tommy-docks-boat-docks-tdfxgwt-308-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7fa66d4f-8327-4733-8a2d-2ece193c04ea/svn/tommy-docks-boat-docks-tdfxgwt-308-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/762b95ed-5530-47bb-9de2-6b17811c0f19/svn/tommy-docks-boat-docks-tdfxgwt-308-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9902120b-3015-4397-ac4d-7cadadb3b519/svn/tommy-docks-boat-docks-tdfxgwt-308-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/450dd3cb-ddd3-4802-a816-208215404e90/svn/tommy-docks-boat-docks-tdfxgwt-308-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4951eaf4-91fb-4a10-a80d-fed3b5dd18c8/svn/tommy-docks-boat-docks-tdfxgwt-308-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7a650a83-5688-4ce1-8b3a-bc7fd8a11bb9/svn/tommy-docks-boat-docks-tdfxgwt-308-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Dock Type",
+        "value": "Floating"
+      },
+      {
+        "group_name": "Details",
+        "name": "Marine Supplies Product Type",
+        "value": "Other Marine Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "149 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1-Year Limited Warranty/Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "4 ft"
+      }
+    ],
+    "variants": [
+      {
+        "title": "8 ft",
+        "link": "https://www.homedepot.com/p/Tommy-Docks-Flexx-TD-Aluminum-Gangway-8-ft-Titan-Decking-For-System-TDFXGWT-308/330182954",
+        "item_id": "330182954"
+      },
+      {
+        "title": "12 ft",
+        "link": "https://www.homedepot.com/p/Tommy-Docks-Flexx-TD-Aluminum-Gangway-12-ft-Titan-Decking-For-System-TDFXGWT-312/330183144",
+        "item_id": "330183144"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Boat Docks & Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware/N-5yc1vZar4z"
+      },
+      {
+        "name": "Boat Docks",
+        "link": "https://www.homedepot.com/b/Building-Materials-Boat-Docks-Hardware-Boat-Docks/N-5yc1vZc8xh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1437,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 10,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 10,
+          "price": 55,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

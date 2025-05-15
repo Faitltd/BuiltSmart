@@ -1,0 +1,185 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14277,
+    "overage_used": 4277,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-35E2-Timeless-Craftsman-11-16-in-x-3-1-2-in-Primed-MDF-Casing-10010988/300698469"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:53.717Z",
+    "processed_at": "2025-05-01T18:23:59.101Z",
+    "total_time_taken": 5.38,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-35E2-Timeless-Craftsman-11-16-in-x-3-1-2-in-Primed-MDF-Casing-10010988/300698469"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-35E2-Timeless-Craftsman-11-16-in-x-3-1-2-in-Primed-MDF-Casing-10010988/300698469",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork 35E2 Timeless Craftsman 11/16 in. x 3-1/2 in. Primed MDF Casing",
+    "upc": "095624522335",
+    "item_id": "300698469",
+    "parent_id": "328892465",
+    "store_sku": "1002255294",
+    "model_number": "10010988",
+    "description": "The Woodgrain Millwork Timeless Craftsman 11/16 in. x 3-1/2 in. 35E2 Primed MDF Eased Edge Casing is used around doors and windows to cover the gaps between the frames and walls. The Timeless Craftsman Casing is the finishing touch on any window and door. Use this casing to create the timeless craftsman look or you can combine casing with the Timeless Craftsman backband to create a bold one of kind look. Any of the patterns in the Timeless Craftsman Collection can be combined to create theme for a room or an entire house.",
+    "favorite_count": 52,
+    "aisle": "19",
+    "bay": "001",
+    "feature_bullets": [
+      "Ready-to-finish surface allows you to create a customized look",
+      "Can be easily mounted using simple woodworking tools",
+      "Classic-looking pattern complements most decor styles"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Can be used for a miter less installation",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/09d8aed9-1458-46da-ba71-d7bd90274f25/svn/white-woodgrain-millwork-casing-10010988-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d1202038-40ae-494d-840c-2164c21d53ca/svn/white-woodgrain-millwork-casing-10010988-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/09d8aed9-1458-46da-ba71-d7bd90274f25/svn/white-woodgrain-millwork-casing-10010988-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 179,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-45E2-Timeless-Craftsman-11-16-in-x-4-1-2-in-Primed-MDF-Casing-10010987/300698468",
+        "item_id": "300698468"
+      },
+      {
+        "title": "White~~16 ft~~Medium Density Fiberboard (MDF)",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-35E2-Timeless-Craftsman-11-16-in-x-3-1-2-in-Primed-MDF-Casing-10010988/300698469",
+        "item_id": "300698469"
+      },
+      {
+        "title": "White~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-25E2-Timeless-Craftsman-11-16-in-x-2-1-2-in-Primed-MDF-Casing-10010989/300698471",
+        "item_id": "300698471"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.34,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2908
+        }
+      }
+    }
+  }
+}

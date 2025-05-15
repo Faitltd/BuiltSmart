@@ -1,0 +1,307 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14930,
+    "overage_used": 4930,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/American-Standard-Rumson-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-is-Included-719AA101-020/323484855"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:43:41.934Z",
+    "processed_at": "2025-05-02T21:43:49.693Z",
+    "total_time_taken": 7.76,
+    "homedepot_url": "https://www.homedepot.com/p/American-Standard-Rumson-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-is-Included-719AA101-020/323484855"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/American-Standard-Rumson-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-is-Included-719AA101-020/323484855",
+    "brand": "American Standard",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/American-Standard/N-5yc1vZcb8nZ5a",
+    "title": "American Standard Rumson 2-Piece 1.28 GPF Single Flush Elongated Toilet in White Seat is Included",
+    "upc": "193406298956",
+    "item_id": "323484855",
+    "store_sku": "1008983028",
+    "model_number": "719AA101.020",
+    "description": "Rumson toilet from American Standard combines classic design and high performance for today's home. Engineered for industry-leading flush performance with the highest MaP score of 1,000 grams, the Rumson delivers the power to clear the bowl in a single flush. The PowerWash rim scrubs the bowl, keeping it fresher, longer while EverClean antimicrobial additive inhibits the growth of stain and odor causing bacteria, mold and mildew on the surface. The tall, elongated, 12 in. rough configuration includes a durable, slow-close seat.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "aisle": "37",
+    "bay": "006",
+    "collection": {
+      "id": "Family-314459589",
+      "name": "Family-314459589",
+      "link": "https://www.homedepot.com/collection/Bath/Rumson-Bathroom-Collection/Family-314459589?omsid=323484855"
+    },
+    "feature_bullets": [
+      "Complete toilet has everything needed for easy installation",
+      "Durable no-slam, slow-close seat is included",
+      "The Rumson bathroom faucet collection adds the finishing touch"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Bowl height 16-1/2 in. for accessible applications",
+      "Includes everything you need, including easy step-by-step manual for simple installation",
+      "Constructed with durable vitreous China for cleaner, long-lasting use",
+      "EverClean is an antimicrobial additive that inhibits the growth of stain and odor causing bacteria, mold and mildew on the surface",
+      "PowerWash rinse powerfully rinses the bowl with pressurized water with each flush",
+      "Oversized 3 in. flush valve with chemical resistant flapper; fully glazed 2 in. trap way",
+      "12 in. rough-in",
+      "Includes slow close toilet seat",
+      "Limited lifetime warranty on chinaware, 5-year warranty on mechanical parts, 1-year warranty on seats",
+      "1.28 GPF",
+      "<a href=\"https://www.homedepot.com/b/American-Standard/N-5yc1vZ5a\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop more American Standard products</a>"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/9b62a7a5-3d90-4a9d-b419-326bd41ecbe0/svn/white-american-standard-two-piece-toilets-719aa101-020-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/089691d2-7a4c-400b-a991-b689939d45a6/svn/white-american-standard-two-piece-toilets-719aa101-020-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/495fbd8f-8ac3-4676-bcb2-bd74232870e1/svn/white-american-standard-two-piece-toilets-719aa101-020-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3fe1c699-841d-4cdb-841b-390e8a7fdec8/svn/white-american-standard-two-piece-toilets-719aa101-020-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/27481c84-5ebd-4419-9856-82b3dfc6d56c/svn/white-american-standard-two-piece-toilets-719aa101-020-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4a6588f6-37d3-4bd4-8c9f-04788b41a4a1/svn/white-american-standard-two-piece-toilets-719aa101-020-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/385ec49c-0046-44ec-8f49-7d77a9bd118e/svn/white-american-standard-two-piece-toilets-719aa101-020-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c78996f5-dc8d-42fb-a5ac-7913fd590d4e/svn/white-american-standard-two-piece-toilets-719aa101-020-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3ac159b6-30e4-4f11-bc15-d8febb7f9b4d/svn/white-american-standard-two-piece-toilets-719aa101-020-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1754c0a6-3049-4edd-8e36-1a094cf9f3a6/svn/white-american-standard-two-piece-toilets-719aa101-020-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4ade6ebb-2c51-4697-a8f2-5eba8ee15f7a/svn/white-american-standard-two-piece-toilets-719aa101-020-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/078d5249-ff50-48fd-b44c-7c68c9bdb770/svn/white-american-standard-two-piece-toilets-719aa101-020-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dfa26922-af00-4f65-8da4-f8f7366e0fad/svn/white-american-standard-two-piece-toilets-719aa101-020-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/925ae762-970b-4c43-b1c5-b9d2a655eaae/svn/white-american-standard-two-piece-toilets-719aa101-020-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/9b62a7a5-3d90-4a9d-b419-326bd41ecbe0/svn/white-american-standard-two-piece-toilets-719aa101-020-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/774a2e3d-824a-4c21-a6b2-fa9d75338162/5f32872a-a2e6-43cb-a78c-7abc0568e0ca/main.mp4?fastly_token=NjgzOTc4MGZfZmQxY2JmN2NiNzJlMDJjMzk2YzMzYjhiMGM0MTNiNDlhYzA2ZGMyMjZhNWFiYTExYzU2MjZjNTllODA2ZjM1YV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83NzRhMmUzZC04MjRhLTRjMjEtYTZiMi1mYTlkNzUzMzgxNjIvNWYzMjg3MmEtYTJlNi00M2NiLWE3OGMtN2FiYzA1NjhlMGNhL21haW4ubXA0&pubid=66036796001",
+        "title": "Rumson Toilet F&B",
+        "id": "6326132782112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/774a2e3d-824a-4c21-a6b2-fa9d75338162/main/160x90/29s482ms/match/image.jpg?pubId=66036796001",
+        "description": "Features and Benefits of the Rumson Toilet"
+      }
+    ],
+    "ratings_total": 475,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Antimicrobial,Easy Release,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Siphonic Jet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Complete Kit,Toilet Seat"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "95 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASME Certified,CSA Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "30.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "30.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 179,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 8
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

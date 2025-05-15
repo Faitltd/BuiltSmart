@@ -1,0 +1,239 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13739,
+    "overage_used": 3739,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/LP-SmartSide-LP-SmartSide-Cedar-Texture-8-in-OC-Panel-Engineered-Treated-Wood-Siding-8-in-Application-as-3-8-in-x-4-ft-x-8-ft-27874/100055901"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:56:58.044Z",
+    "processed_at": "2025-05-01T16:57:01.684Z",
+    "total_time_taken": 3.64,
+    "homedepot_url": "https://www.homedepot.com/p/LP-SmartSide-LP-SmartSide-Cedar-Texture-8-in-OC-Panel-Engineered-Treated-Wood-Siding-8-in-Application-as-3-8-in-x-4-ft-x-8-ft-27874/100055901"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/LP-SmartSide-LP-SmartSide-Cedar-Texture-8-in-OC-Panel-Engineered-Treated-Wood-Siding-8-in-Application-as-3-8-in-x-4-ft-x-8-ft-27874/100055901",
+    "brand": "LP SmartSide",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Siding-Composite-Siding/LP-SmartSide/N-5yc1vZc8ikZ6j2",
+    "title": "LP SmartSide LP SmartSide Cedar Texture 8 in. OC Panel Engineered Treated Wood Siding 8 in. Application as 3/8 in. x 4 ft. x 8 ft.",
+    "upc": "088991552609",
+    "item_id": "100055901",
+    "store_sku": "509095",
+    "model_number": "27874",
+    "description": "When you are choosing a siding product, the product you choose should be durable and beautiful for your home. That's where LP SmartSide Panel Siding comes in. Designed to last, these siding panels stand up to weather, moisture, impact, pests and much more due to the LP SmartGuard process. LP SmartSide siding panels cut just like traditional wood, requiring no specialized tools to get the job done, and their lighter weights make them a breeze to handle. Plus, they can be a perfect product to utilize when building or remodeling a shed.",
+    "is_bestseller": true,
+    "favorite_count": 4233,
+    "aisle": "21",
+    "bay": "002",
+    "collection": {
+      "id": "Family-321809741",
+      "name": "Family-321809741",
+      "link": "https://www.homedepot.com/collection/Building-Materials/LP-SmartSide-Trim-Siding-Collection/Family-321809741?omsid=100055901"
+    },
+    "feature_bullets": [
+      "Durable shed siding panels for a beautiful, premium look",
+      "Siding panels that help resist weather impacts, moisture & pests",
+      "Install faster with LP SmartSide lightweight shed siding"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Ideal use for siding a home or shed",
+      "Shiplap edges feature an advanced bead system for easier alignment",
+      "Comes primed and ready to paint for the perfect shed siding finish",
+      "No special tools are needed for installation, cuts like traditional wood",
+      "Significantly lighter and easier to handle than fiber cement shed siding panels",
+      "Designed and engineered for resistance to impacts, moisture, pests and weather with the LP SmartGuard process",
+      "Strong enough to be nailed directly to stud, making additional sheathing unnecessary in many applications and eliminates need for additional bracing on load-bearing walls",
+      "Backed by a 5/50-year prorated limited warranty for ultimate peace of mind",
+      "Copyright 2016 Louisiana-pacific corporation, all rights reserved, SmartSide is a registered trademark of Louisiana-pacific corporation, all other trademarks are owned by Louisiana-pacific corporation",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/27fd4e65-ff3d-4df4-a2d6-de488960d3af/svn/primed-lp-smartside-composite-siding-27874-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7ef3fa35-4f36-40d1-89e3-8b8988d2b1dc/svn/primed-lp-smartside-composite-siding-27874-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36d22d05-26e4-4b8d-9875-e78e4fc19315/svn/primed-lp-smartside-composite-siding-27874-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c4332a11-65f7-4223-a3c9-9596b8ec44f3/svn/primed-lp-smartside-composite-siding-27874-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/77710d17-088e-40f8-b56d-cf6743d35e41/svn/primed-lp-smartside-composite-siding-27874-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/43510f27-b1d9-4f98-81e0-5153d618d753/svn/primed-lp-smartside-composite-siding-27874-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92bd68c2-a047-4b20-a8b2-e2cdba4cd6f1/svn/primed-lp-smartside-composite-siding-27874-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8ef69e81-d6d1-45e8-b11f-b1f8b1a12310/svn/primed-lp-smartside-composite-siding-27874-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ed298449-9094-43f9-b467-3bc41c0e6876/svn/primed-lp-smartside-composite-siding-27874-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/27fd4e65-ff3d-4df4-a2d6-de488960d3af/svn/primed-lp-smartside-composite-siding-27874-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/0da95a4f-93a5-4ae8-9390-499bdac16149/15136c8b-318d-495c-ad3c-0e3580abb9c2/main.mp4?fastly_token=NjgzODI4ZTdfMTczODQ5ZDRmNGM5OTZjMWEzODczZTA3YjI5ZmRkNGMzZjYwMDY2MTg4YTVhNjQ0Y2EzNjA5MzkzN2M0MDllYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8wZGE5NWE0Zi05M2E1LTRhZTgtOTM5MC00OTliZGFjMTYxNDkvMTUxMzZjOGItMzE4ZC00OTVjLWFkM2MtMGUzNTgwYWJiOWMyL21haW4ubXA0&pubid=66036796001",
+        "title": "See What's Possible With LP SmartSide Panel",
+        "id": "5967150491001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/7c643b00-78b9-41df-adaa-8142d765b0c9/8ebb8434-e58c-46f7-a0a6-60578c3ab0a6/160x90/match/image.jpg",
+        "description": "Learn more about LP SmartSide Panel & why its a smart choice to bring lasting curb appeal to your home."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/dd714408-cde9-4be2-89b1-382ffc58ec63/e94cf1f9-bd9a-4819-bfd8-d9cef3ab2d65/main.mp4?fastly_token=NjgzODI3N2RfYWJiM2ZjZGViNThkNWQzMDFlM2NhNDdjMDBhYWUxZTUwZWMwMmFiOGQ5MTM3MTIyYzU0NmVkODYyNDhhMjgxYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kZDcxNDQwOC1jZGU5LTRiZTItODliMS0zODJmZmM1OGVjNjMvZTk0Y2YxZjktYmQ5YS00ODE5LWJmZDgtZDljZWYzYWIyZDY1L21haW4ubXA0&pubid=66036796001",
+        "title": "LP_Smartside_consumer_30_noCTA_1218",
+        "id": "5979695129001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/abcdc4e3-5e0d-4033-ba0a-4ce6d3a52152/8e528747-b080-4d19-a90f-7259613588b8/160x90/match/image.jpg",
+        "description": "Learn why LP SmartSide Trim & Siding is a smart choice to bring lasting curb appeal to the most important place in your life - your home."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 1386,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "40.96 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Profiles",
+        "value": "Panel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Siding Features",
+        "value": "Pre-Primed,Ready to Paint,Straight Edge,Wood Grain Surface"
+      },
+      {
+        "group_name": "Details",
+        "name": "Vertical/Horizontal",
+        "value": "Vertical"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "5/50 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "32 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "0.354 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "48.56 in"
+      }
+    ],
+    "keywords_list": [
+      "composite panel",
+      "paintable composite panel",
+      "siding",
+      "paintable siding",
+      "primed composite panel",
+      "primed siding",
+      "LP SmartSide composite panel"
+    ],
+    "keywords": "composite panel, paintable composite panel, siding, paintable siding, primed composite panel, primed siding, LP SmartSide composite panel",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Siding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Siding/N-5yc1vZarip"
+      },
+      {
+        "name": "Composite Siding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Siding-Composite-Siding/N-5yc1vZc8ik"
+      }
+    ],
+    "buybox_winner": {
+      "price": 43.45,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 50
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 7371,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

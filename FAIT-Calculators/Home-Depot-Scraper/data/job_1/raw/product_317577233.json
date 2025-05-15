@@ -1,0 +1,312 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14929,
+    "overage_used": 4929,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TOTO-Drake-12-in-Rough-In-Two-Piece-1-6-GPF-Single-Flush-Elongated-Toilet-in-Cotton-White-SoftClose-Seat-Included-MS776124CSFG-01/317577233"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:43:34.607Z",
+    "processed_at": "2025-05-02T21:43:40.768Z",
+    "total_time_taken": 6.16,
+    "homedepot_url": "https://www.homedepot.com/p/TOTO-Drake-12-in-Rough-In-Two-Piece-1-6-GPF-Single-Flush-Elongated-Toilet-in-Cotton-White-SoftClose-Seat-Included-MS776124CSFG-01/317577233"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TOTO-Drake-12-in-Rough-In-Two-Piece-1-6-GPF-Single-Flush-Elongated-Toilet-in-Cotton-White-SoftClose-Seat-Included-MS776124CSFG-01/317577233",
+    "brand": "TOTO",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/TOTO/N-5yc1vZcb8nZgy2",
+    "title": "TOTO Drake 12 in. Rough In Two-Piece 1.6 GPF Single Flush Elongated Toilet in Cotton White, SoftClose Seat Included",
+    "upc": "739268409941",
+    "item_id": "317577233",
+    "parent_id": "330487318",
+    "store_sku": "1006746772",
+    "model_number": "MS776124CSFG#01",
+    "description": "TOTO Drake 2-Piece Elongated 1.6 GPF Universal Height Toilet with and SoftClose Seat, is a beautifully designed high profile toilet. Featuring TOTO's , a rimless, hole-free design with dual-nozzles that creates a centrifugal washing action that assists in rinsing the bowl more efficiently. This version of the TOTO Drake includes , a layer of exceptionally smooth glaze that minimizes waste from sticking to the ceramic. coupled with, assists to reduce the frequency of toilet cleanings, minimizing the usage of water, harsh chemicals, and time required for cleaning. This version of the TOTO Drake is designed in TOTO's Universal Height, which allows for a more comfortable seat position across a wide range of users. This version of the Drake has a left-hand chrome trip lever, is ADA compliant, and meets the standards for EPA WaterSense, and California's CEC and CALGreen requirements. The Drake 2-piece toilet includes a tank to bowl gasket, tank to bowl hardware, toilet bolt caps and SoftClose toilet seat. Additional items needed for installation and use must be purchased separately: wax ring, toilet mounting bolts and water supply lines.",
+    "feature_bullets": [
+      "Vitreous China ADA comfort height in 1.6 GPF tornado flush",
+      "Powerful but quiet with water-saving flushing system",
+      "Elongated toilet is compatible with all TOTO bidet models"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Powerful performance with less frequent cleaning: swirls water in a circular pattern to fully wash the bowl surface, is an ultra-smooth glaze that minimizes waste from sticking so that it is easily washed away",
+      "More comfort across a wider range of individuals - TOTO's Universal Height is taller than a standard toilet and makes sitting down and standing up easier for many people, universal height models are capable of meeting the ADA height requirement",
+      "Save water without sacrifice - the 1.6 GPF WaterSense certified Drake enables you to save water without worrying about diminished performance, the Drake features a wide 3 in. flush valve and a siphon jet bowl that gets the job done in 1-flush",
+      "Stylish and modern design - update your oasis with this stylish design that couples well with any bathroom decor, the elongated bowl provides added space for comfort, the toilet fits into 12 in. rough-in installations and has a left-hand trip lever"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/57b32ad3-276e-43a0-81e2-bd9fb5fe1e1d/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5d41683c-ad54-483d-9f21-ead5e442d3d0/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fd432051-cb9a-4e13-bde2-11fb95887a9b/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f86d1e50-f3a1-464a-a380-0afb4731322d/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/41738101-473b-44b5-992f-a5a5c1fe47a4/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0b92c3aa-90c6-45c4-92e8-bc81b3816ac4/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7f2f1678-fdad-4476-8600-a9a3501a746e/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c696a28c-e0e3-4df0-a8ba-9b1e8727e645/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c16f698a-144e-4e6a-b117-634f48db2ced/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e6d3ad9b-8511-4d7a-8a72-263e4acc7add/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/832f15f8-2915-4c32-bf3b-32ccbec71cbd/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a0f6061d-9c20-4bd6-b248-af1a78dcccf3/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3e9ffe08-1362-4d98-aa1a-df07082d5dc4/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/83a912f9-948f-45ee-912b-1c34f6f4228c/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/62f763fb-87a9-44cf-98c6-3da07934cde4/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/57b32ad3-276e-43a0-81e2-bd9fb5fe1e1d/svn/cotton-white-toto-two-piece-toilets-ms776124csfg-01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/c5e6dafd-8c11-49e6-bd1a-0d77b4fb0c84/f480b80a-0487-4a19-bd18-aa3dda49c316/main.mp4?fastly_token=NjgxNGUzZmJfZDJkODNmYjc3NWJjOTNiNGY1ZWZiMGYwMjg1ODQ4ZTlkOGZjOTI2ODU3ODg3NTQ5NjJlZDEwYzQwOTc4NGI0Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYzVlNmRhZmQtOGMxMS00OWU2LWJkMWEtMGQ3N2I0ZmIwYzg0L2Y0ODBiODBhLTA0ODctNGExOS1iZDE4LWFhM2RkYTQ5YzMxNi9tYWluLm1wNA%3D%3D",
+        "title": "MS776 Draft.mp4",
+        "id": "6352202514112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/c5e6dafd-8c11-49e6-bd1a-0d77b4fb0c84/main/160x90/7s541ms/match/image.jpg",
+        "description": "Product view from various angles\n"
+      }
+    ],
+    "ratings_total": 439,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Cotton White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.6"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Handle,Toilet Seat"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "Not Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "98 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.5 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Side"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "28.375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "30.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "17.1875 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Cotton White~~Elongated~~10 inch Rough In~~Single Flush: 1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/TOTO-Drake-10-in-Rough-In-Two-Piece-1-6-GPF-Single-Flush-Elongated-Toilet-in-Cotton-White-SoftClose-Seat-Included-MS776124CSFG-10-01/317577229",
+        "item_id": "317577229"
+      },
+      {
+        "title": "Cotton White~~Elongated~~12 inch Rough In~~Single Flush: 1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/TOTO-Drake-12-in-Rough-In-Two-Piece-1-6-GPF-Single-Flush-Elongated-Toilet-in-Cotton-White-SoftClose-Seat-Included-MS776124CSFG-01/317577233",
+        "item_id": "317577233"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 438.51,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 4948,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 4948,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-12",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

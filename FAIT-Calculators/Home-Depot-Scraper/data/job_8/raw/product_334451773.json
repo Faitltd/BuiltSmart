@@ -1,0 +1,206 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13645,
+    "overage_used": 3645,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-WM623-9-16-in-x-3-1-4-in-x-8-ft-Primed-Pine-Wood-PFJ-4-Sides-Colonial-Baseboard-Moulding-623-90096/334451773"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:52:36.513Z",
+    "processed_at": "2025-05-01T16:52:41.833Z",
+    "total_time_taken": 5.32,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-WM623-9-16-in-x-3-1-4-in-x-8-ft-Primed-Pine-Wood-PFJ-4-Sides-Colonial-Baseboard-Moulding-623-90096/334451773"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-WM623-9-16-in-x-3-1-4-in-x-8-ft-Primed-Pine-Wood-PFJ-4-Sides-Colonial-Baseboard-Moulding-623-90096/334451773",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/HOUSE-OF-FARA/N-5yc1vZcbjpZucc",
+    "title": "HOUSE OF FARA WM623 9/16 in. x 3-1/4 in. x 8 ft. Primed Pine Wood PFJ 4-Sides Colonial Baseboard Moulding",
+    "upc": "043559666341",
+    "item_id": "334451773",
+    "store_sku": "1013666722",
+    "model_number": "623-90096",
+    "description": "3-1/4 in. x 9/16 in. Finger-Jointed Pine Base Moulding where the floor and wall meet for an extra dimension of style. It hides imperfections and adds character to the room. Primed and ready to paint.",
+    "feature_bullets": [
+      "Perfect for hiding imperfections and adding character to the room",
+      "Primed pine wood is ready to paint",
+      "Fasten where walls meet floors to protect wall from furniture"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Solid pine wood substrate",
+      "Paint grade pine is primed and ready to paint",
+      "Fasten where walls meet floors to help protect the wall from furniture, kicks and cleaning machinery",
+      "Finger joint",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/sustainable-forestry/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Sustainable Forestry</a>"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4a79f305-3c32-45f4-9e10-4583553f1d7d/svn/primed-white-house-of-fara-baseboard-623-90096-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ca6db397-da93-4029-b05e-a3a09203b1b4/svn/primed-white-house-of-fara-baseboard-623-90096-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4a79f305-3c32-45f4-9e10-4583553f1d7d/svn/primed-white-house-of-fara-baseboard-623-90096-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "623"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Guaranteed against manufacturing defects. See store for details."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": ".5625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 13.52,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 190,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 190,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

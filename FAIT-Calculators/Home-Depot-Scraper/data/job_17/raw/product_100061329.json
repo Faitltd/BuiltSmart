@@ -1,0 +1,230 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13999,
+    "overage_used": 3999,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-0-75-in-D-x-0-75-in-W-Composite-Quarter-Round-PVC-White-0268912003/100061329"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:59.607Z",
+    "processed_at": "2025-05-01T17:51:05.555Z",
+    "total_time_taken": 5.95,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-0-75-in-D-x-0-75-in-W-Composite-Quarter-Round-PVC-White-0268912003/100061329"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-0-75-in-D-x-0-75-in-W-Composite-Quarter-Round-PVC-White-0268912003/100061329",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/Royal-Mouldings/N-5yc1vZ2fkp9hcZ8ui",
+    "title": "Royal Mouldings 0.75 in. D x 0.75 in. W Composite Quarter Round PVC White",
+    "upc": "070673836749",
+    "item_id": "100061329",
+    "store_sku": "248350",
+    "model_number": "0268912003",
+    "description": "This 12 ft. x 3/4 in. x 3/4 in. Vinyl Quarter Round Molding is designed for use as an inside corner or on top of trim planks to create column bases, make small transitions or to fill small gaps. Quarter Round can be adding to other molding profiles to give a more ornate look. Adding molding to your home adds value and nice finishing touch.",
+    "favorite_count": 856,
+    "aisle": "19",
+    "bay": "005",
+    "feature_bullets": [
+      "PVC construction provides lightweight strength",
+      "Easy to cut to size using standard tools",
+      "Termite-proof construction for incredible durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "PVC is durable and will not split or crack",
+      "PVC cuts like wood and requires no special tools",
+      "PVC is moisture and termite proof",
+      "Quarter round installs easily with nails or glue",
+      "<a href=\"https://www.homedepot.com/services/c/door-window-specialist/893e44520\" target=\"_blank\" style=\"color:#F96302;\">Speak to an Associate about Doors and Windows. Call 1-833-HDAPRON (432-7766) for free design, purchase and installation help daily from 9AM - 9PM EST.</a>",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/867ad838-3664-4b77-99ba-a2b564098b67/svn/white-royal-mouldings-quarter-round-0268912003-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/776f278d-b0d2-4747-94b5-97b970820fe0/svn/white-royal-mouldings-quarter-round-0268912003-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a7768c70-53ac-453e-ac59-fb98b6f15edf/svn/white-royal-mouldings-quarter-round-0268912003-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ed1aee36-c4e4-4e01-9af5-f63d9451661a/svn/white-royal-mouldings-quarter-round-0268912003-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d55a9125-1926-4a11-ac97-e1b2d5624d8a/svn/white-royal-mouldings-quarter-round-0268912003-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/867ad838-3664-4b77-99ba-a2b564098b67/svn/white-royal-mouldings-quarter-round-0268912003-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 435,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Quarter Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2689"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "vinyl moulding",
+      "trim",
+      "vinyl trim",
+      "quarter-round moulding",
+      "quarter-round trim",
+      "inside corner moulding",
+      "inside corner trim"
+    ],
+    "keywords": "moulding, vinyl moulding, trim, vinyl trim, quarter-round moulding, quarter-round trim, inside corner moulding, inside corner trim",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/N-5yc1vZ2fkp9hc"
+      }
+    ],
+    "buybox_winner": {
+      "price": 12.74,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 69
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5860",
+          "in_stock": true,
+          "stock_level": 140,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

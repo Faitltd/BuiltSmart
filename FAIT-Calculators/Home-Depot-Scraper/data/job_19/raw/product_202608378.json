@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14153,
+    "overage_used": 4153,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Schluter-Kerdi-Band-5-in-x-98-ft-5-in-Waterproofing-Strip-KEBA100-125/202608378"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:58:56.171Z",
+    "processed_at": "2025-05-01T17:59:01.145Z",
+    "total_time_taken": 4.97,
+    "homedepot_url": "https://www.homedepot.com/p/Schluter-Kerdi-Band-5-in-x-98-ft-5-in-Waterproofing-Strip-KEBA100-125/202608378"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Schluter-Kerdi-Band-5-in-x-98-ft-5-in-Waterproofing-Strip-KEBA100-125/202608378",
+    "brand": "Schluter",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/Schluter/N-5yc1vZcdtwZ7fo",
+    "title": "Schluter Kerdi-Band 5 in. x 98 ft. 5 in. Waterproofing Strip",
+    "upc": "4011832018459",
+    "item_id": "202608378",
+    "store_sku": "1001062332",
+    "model_number": "KEBA100/125",
+    "description": "Kerdi-Band is a waterproofing strip for sealing butt joints and floor/wall connections with Kerdi and Ditra membranes. It is installed with unmodified thinset to ensure a fully water-tight seal to prevent leaks. The 4 mil thickness of the Kerdi-Band helps prevent build up under the tile.",
+    "favorite_count": 86,
+    "feature_bullets": [
+      "Waterproofing strip for use with Kerdi, Ditra, and Kerdi-Board",
+      "Seals joints and floor/wall connections to prevent leaking",
+      "4 mil thickness minimizes build-up under the tile"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Roll is 5 in. wide and 98 ft. 5 in. long",
+      "Thickness is 4 mil",
+      "Prevents build-up beneath the tile",
+      "Ensures a fully water-tight seal preventing leaks and mold growth",
+      "Adheres tightly to inside and outside corners without rounding at surface transitions"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3e7f13c8-35a3-4de0-9c02-31e94d6ceca6/svn/schluter-underlayment-keba100-125-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e13c6409-2a7c-4332-b5d5-6c1ea2309132/svn/schluter-underlayment-keba100-125-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/66c6b86c-23e6-4ad1-b695-a8b720848661/svn/schluter-underlayment-keba100-125-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3e7f13c8-35a3-4de0-9c02-31e94d6ceca6/svn/schluter-underlayment-keba100-125-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 2,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Mold/mildew resistant,Waterproofing membrane"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Floor,Shower,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Rolls Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package coverage (sq. ft.)",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Subflooring type",
+        "value": "Concrete"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Area Coverage Per Roll (sq. ft. for each roll)",
+        "value": "40.8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product thickness (mil)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Recommended overlap (in.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Roll Length (ft.)",
+        "value": "98 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Roll width (in.)",
+        "value": "5"
+      }
+    ],
+    "keywords_list": [
+      "KERDI-BAND 5 in. x 98 ft. 5 in. Waterproofing Strip",
+      "KEBA100/125"
+    ],
+    "keywords": "KERDI-BAND 5 in. x 98 ft. 5 in. Waterproofing Strip, KEBA100/125",
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Underlayment",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/N-5yc1vZcdtw"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

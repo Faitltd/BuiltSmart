@@ -1,0 +1,292 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14966,
+    "overage_used": 4966,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-7-8-in-Ballcock-Nut-x-16-in-Braided-Polymer-Toilet-Supply-Line-B1-16DL-F/203139191"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:47:35.178Z",
+    "processed_at": "2025-05-02T21:47:39.398Z",
+    "total_time_taken": 4.22,
+    "homedepot_url": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-7-8-in-Ballcock-Nut-x-16-in-Braided-Polymer-Toilet-Supply-Line-B1-16DL-F/203139191"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-7-8-in-Ballcock-Nut-x-16-in-Braided-Polymer-Toilet-Supply-Line-B1-16DL-F/203139191",
+    "brand": "BrassCraft",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Supply-Lines/BrassCraft/N-5yc1vZbqjnZa4",
+    "title": "BrassCraft 3/8 in. Compression x 7/8 in. Ballcock Nut x 16 in. Braided Polymer Toilet Supply Line",
+    "upc": "026613966342",
+    "item_id": "203139191",
+    "parent_id": "324487273",
+    "store_sku": "1000011539",
+    "model_number": "B1-16DL F",
+    "description": "BrassCraft Speedi Plumb Plus 3/8 in. compression inlet x 7/8 in. ballcock Nut outlet x 16 in. of length flexible braided polymer water connector is corrosion resistant inside and out. Used to connect the water supply to your toilet, this connector features a high tenacity, multi-filament yarn, protected by a special polymer coating for optimum corrosion resistance and durability. On the inside, our tough PVC tubing resists attack by chlorine, chloramines and other corrosive elements. The braided polymer fibers are designed to bend freely without kinking or crimping. Connection to toilet features hand-tighten wing-nut for quick and easy installation.",
+    "favorite_count": 19945,
+    "aisle": "09",
+    "bay": "013",
+    "feature_bullets": [
+      "Corrosion-resistant design provides a long-lasting use",
+      "Connects the water supply to your toilet",
+      "Polymer fibers bend freely without kinking or crimping"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "16 in. of length connector with 3/8 in. compression connection to water shut-off valve",
+      "Connects to standard toilet 7/8 in. ballcock inlet, hand-tighten wing nut for quick and easy connection",
+      "Bends freely, without kinking or crimping, installation is easier, especially in cramped quarters",
+      "External corrosion resistance to common household, tile and glass cleaners",
+      "Internal corrosion resistance to harsh water conditions",
+      "8-sided pneumatic crimp for greater dependability and reliable nut-to-hose connections",
+      "Temperature rating: 40 Degree to 140 Degree F, intermittent to 180 Degree F",
+      "Pressure rating: 125 psi maximum",
+      "No-lead certified",
+      "IAPMO and CSA listed to ASME A112.18.6/CSA B125.6",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/75c9665a-bd53-4c60-ad18-972cf783c2db/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16dl-f-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/08e3e567-83d7-4edb-960d-ad5f738d6188/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16dl-f-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79e4c732-a649-4238-9f6d-14c9edfedc15/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16dl-f-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c1bb537e-3555-4cda-82c0-c56a2334b971/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16dl-f-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/75c9665a-bd53-4c60-ad18-972cf783c2db/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16dl-f-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/2416b8bf-6b10-4d46-aa60-7b82b13d581a/87ab5a25-0e60-4d3d-a358-d5849b964eb6/main.mp4?fastly_token=NjgzOTZlMDdfNjQ3MzZjMTZlYzhiZDY4ODA1NWY3ODMxNTA2ZDkyNGM4MzA4ZWNjMmI0YjVkZjY0MzQxNjk5YzVmNTVhMWMzOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yNDE2YjhiZi02YjEwLTRkNDYtYWE2MC03YjgyYjEzZDU4MWEvODdhYjVhMjUtMGU2MC00ZDNkLWEzNTgtZDU4NDliOTY0ZWI2L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Select a Water Connection for your Faucet or Toilet",
+        "id": "4598225126001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/2416b8bf-6b10-4d46-aa60-7b82b13d581a/995e74dd-1631-49d8-890b-ff190d848e68/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn How to Select a Water Connection for your Faucet or Toilet"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/34de9afd-8e7d-4f76-b69d-635a9f356027/80f88206-da00-44c7-85de-e1622b1212ff/main.mp4?fastly_token=NjgzOTc5NjdfNmI0MzA5ODU5ZjAwNjc5OGJhNGRiMjA1OTA0MjI1YjdlYWM4Y2RkODVmZDE0OTk3MjkzNWQyYzc1ZTJkMGQ1MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zNGRlOWFmZC04ZTdkLTRmNzYtYjY5ZC02MzVhOWYzNTYwMjcvODBmODgyMDYtZGEwMC00NGM3LTg1ZGUtZTE2MjJiMTIxMmZmL21haW4ubXA0&pubid=66036796001",
+        "title": "Connect a Toilet Using BrassCraft Compression Stop and Flexible Connector",
+        "id": "6097311641001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/34de9afd-8e7d-4f76-b69d-635a9f356027/4d1761ac-6ad6-4b10-8a7f-dc3e6bc559f2/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Connect a Glacier Bay toilet to water supply using a BrassCraft compression stop and a flexible connector."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 5788,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application",
+        "value": "Potable Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Silver, Braided Polymer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fitting Material",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Inlet Fitting End Type",
+        "value": "Compression"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Pressure (PSI)",
+        "value": "125"
+      },
+      {
+        "group_name": "Details",
+        "name": "Outlet Fitting End Type",
+        "value": "Ball cock thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Supply Line"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "CSA Certified,IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Manufacturer Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Inlet Diameter (In.)",
+        "value": "3/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Outlet Diameter (In.)",
+        "value": "7/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "16 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Tube Diameter (in.)",
+        "value": "0.550 in"
+      }
+    ],
+    "keywords_list": [
+      "3/8 in. Comp x 7/8 in. Ballcock x 16 in. Polymer Coated Speedi Plumb PLUS Faucet Connector",
+      "B1-16DL F"
+    ],
+    "keywords": "3/8 in. Comp x 7/8 in. Ballcock x 16 in. Polymer Coated Speedi Plumb PLUS Faucet Connector, B1-16DL F",
+    "variants": [
+      {
+        "title": "Silver, Braided Polymer~~20 in~~3/8 in. Compression~~7/8 in. Ball cock thread",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-7-8-in-Ballcock-Nut-x-20-in-Braided-Polymer-Toilet-Supply-Line-B1-20DL-F/100455708",
+        "item_id": "100455708"
+      },
+      {
+        "title": "Silver, Braided Polymer~~12 in~~3/8 in. Compression~~7/8 in. Ball cock thread",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-7-8-in-Ballcock-Nut-x-12-in-Braided-Polymer-Toilet-Supply-Line-B1-12DL-F/100094502",
+        "item_id": "100094502"
+      },
+      {
+        "title": "Silver, Braided Polymer~~12 in~~7/16 in. Compression~~7/8 in. Ball cock thread",
+        "link": "https://www.homedepot.com/p/7-16-in-Compression-x-7-8-in-Ballcock-Nut-x-12-in-Braided-Polymer-Toilet-Supply-Line-B2-12DL-F/100150317",
+        "item_id": "100150317"
+      },
+      {
+        "title": "Silver, Braided Polymer~~9 in~~3/8 in. Compression~~7/8 in. Ball cock thread",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-7-8-in-Ballcock-Nut-x-9-in-Braided-Polymer-Toilet-Supply-Line-B1-9DL-F/100535528",
+        "item_id": "100535528"
+      },
+      {
+        "title": "Silver, Braided Polymer~~20 in~~1/2 in. Compression~~7/8 in. Ball cock thread",
+        "link": "https://www.homedepot.com/p/1-2-in-Compression-x-7-8-in-Ballcock-Nut-x-20-in-Braided-Polymer-Toilet-Supply-Line-B3-20DL-F/100177696",
+        "item_id": "100177696"
+      },
+      {
+        "title": "Silver, Braided Polymer~~12 in~~1/2 in. Compression~~7/8 in. Ball cock thread",
+        "link": "https://www.homedepot.com/p/1-2-in-Compression-x-7-8-in-Ballcock-Nut-x-12-in-Braided-Polymer-Toilet-Supply-Line-B3-12DL-F/100539766",
+        "item_id": "100539766"
+      },
+      {
+        "title": "Silver, Braided Polymer~~16 in~~3/8 in. Compression~~7/8 in. Ball cock thread",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-7-8-in-Ballcock-Nut-x-16-in-Braided-Polymer-Toilet-Supply-Line-B1-16DL-F/203139191",
+        "item_id": "203139191"
+      },
+      {
+        "title": "Silver, Braided Polymer~~20 in~~7/16 in. Compression~~7/8 in. Ball cock thread",
+        "link": "https://www.homedepot.com/p/7-16-in-Compression-x-7-8-in-Ballcock-Nut-x-20-in-Braided-Polymer-Toilet-Supply-Line-B2-20DL-F/100171317",
+        "item_id": "100171317"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Supply Lines",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Supply-Lines/N-5yc1vZbqjn"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 144
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 341,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 341,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12847,
+    "overage_used": 2847,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Everbilt-1-5-in-D-x-2-75-in-W-x-96-in-L-White-PVC-Chair-Rail-Moulding-5-8-in-D-x-2-75-in-W-x-96-in-L-Baseboard-Wainscot-2pc-Kit-PMAX3012P/320556728"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:33:15.488Z",
+    "processed_at": "2025-05-01T13:33:20.325Z",
+    "total_time_taken": 4.84,
+    "homedepot_url": "https://www.homedepot.com/p/Everbilt-1-5-in-D-x-2-75-in-W-x-96-in-L-White-PVC-Chair-Rail-Moulding-5-8-in-D-x-2-75-in-W-x-96-in-L-Baseboard-Wainscot-2pc-Kit-PMAX3012P/320556728"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Everbilt-1-5-in-D-x-2-75-in-W-x-96-in-L-White-PVC-Chair-Rail-Moulding-5-8-in-D-x-2-75-in-W-x-96-in-L-Baseboard-Wainscot-2pc-Kit-PMAX3012P/320556728",
+    "brand": "Everbilt",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/Everbilt/N-5yc1vZcbjjZ402",
+    "title": "Everbilt 1.5 in D x 2.75 in W x 96 in L White PVC Chair Rail Moulding & 5/8 in D x 2.75 in W x 96 in L Baseboard Wainscot 2pc Kit",
+    "upc": "637553003266",
+    "item_id": "320556728",
+    "store_sku": "1007952790",
+    "model_number": "PMAX3012P",
+    "description": "Wainscot is a waterproof wainscot system for your wall panels. Protect against day to day damage with this beautiful wall system. PolyMax Wainscot is paintable and easy to clean. This product is designed for both interior/exterior use.",
+    "aisle": "FW",
+    "bay": "016",
+    "feature_bullets": [
+      "Designed to facilitate hassle-free installation",
+      "Made of high-quality PVC to ensure longevity",
+      "Paintable for customized utility"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "100% waterproof",
+      "Each set includes 1-chair rail and 1-baseboard",
+      "Great for use in basements, bathrooms, kitchens and other areas",
+      "Easy to install",
+      "Highly durable",
+      "Please note that chair rail moulding and baseboard are different widths"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fb88b76b-9811-48a0-a376-653aff53d77b/svn/white-everbilt-chair-rail-pmax3012p-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/deded175-c12a-4398-b72b-8fae428d1808/svn/white-everbilt-chair-rail-pmax3012p-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8b7c1099-f5ba-4c20-8f59-bf66232818f6/svn/white-everbilt-chair-rail-pmax3012p-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/38ed7c24-e228-4107-9134-825ec2d80db3/svn/white-everbilt-chair-rail-pmax3012p-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/11bd161d-c79e-4e77-bfbc-47628322eecb/svn/white-everbilt-chair-rail-pmax3012p-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8df0b53-a87e-4470-b4a9-a9a28dfe6998/svn/white-everbilt-chair-rail-pmax3012p-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/94a06247-5d5a-40e0-85a0-1c69795c6c91/svn/white-everbilt-chair-rail-pmax3012p-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/53025297-931a-4ec7-82a9-ec297c7d97a0/svn/white-everbilt-chair-rail-pmax3012p-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fb88b76b-9811-48a0-a376-653aff53d77b/svn/white-everbilt-chair-rail-pmax3012p-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 64,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Chair Rail Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Chair Rail",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/N-5yc1vZcbjj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 18.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 4
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 17,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 597,
+          "price": 55,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14355,
+    "overage_used": 4355,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Tiger-Brand-Super-S-4-ft-7-in-Jack-Post-J-S-55/100010962"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:28:21.692Z",
+    "processed_at": "2025-05-01T18:28:26.771Z",
+    "total_time_taken": 5.08,
+    "homedepot_url": "https://www.homedepot.com/p/Tiger-Brand-Super-S-4-ft-7-in-Jack-Post-J-S-55/100010962"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Tiger-Brand-Super-S-4-ft-7-in-Jack-Post-J-S-55/100010962",
+    "brand": "Tiger Brand",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Jack-Posts/Tiger-Brand/N-5yc1vZc8hwZ8ys",
+    "title": "Tiger Brand Super S 4 ft. 7 in. Jack Post",
+    "upc": "838956000559",
+    "item_id": "100010962",
+    "store_sku": "526810",
+    "model_number": "J-S-55",
+    "description": "The Tiger Brand Jack Post Super \"S\" 4 ft. 7 in. Jack Post can adjust from 2 ft. 10 in. to 4 ft. 7 in. It has a compression load range of 18,000 lbs. at its lowest setting and 14,000 lbs. at its highest setting. It is ideal for correcting sagging floors and basement beams and providing secondary support for room additions, remodeling projects, porches and decks.",
+    "favorite_count": 406,
+    "aisle": "27",
+    "bay": "014",
+    "feature_bullets": [
+      "Super Series Jack Post. Adjusts from 2 ft. 10 in.to 4 ft. 7 in.",
+      "Remodeling projects, easy to adjust, easy to install",
+      "Temporary Support"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Strong galvanized plates",
+      "2 ft. 10 in. - 4 ft. 7 in. adjustment range",
+      "Corrects sagging floors, supports basement beams, takes weight off large furniture or appliances",
+      "Compression load range - 18,000 lbs. - 14,000 lbs.",
+      "Double carriage bolts and nuts",
+      "Flush adjusting steel nut with self-centering pilot into the tube",
+      "Positive locating holes",
+      "Adjusts easily with a 3/4 in. open-end or adjustable wrench",
+      "All loose parts, ready to be assembled"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1bceb9b6-12f7-41e5-999c-d3f80e07aacc/svn/tiger-brand-jack-posts-j-s-55-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/10550b97-d4ae-4386-a07a-e0d342226e6d/svn/tiger-brand-jack-posts-j-s-55-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e228cfc1-cbe8-4016-8aca-295cdfd2a54e/svn/tiger-brand-jack-posts-j-s-55-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/744d1ed4-4449-4e7a-beed-be25e0b617a0/svn/tiger-brand-jack-posts-j-s-55-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc49e94a-546b-46ef-80ec-10b844d4f91c/svn/tiger-brand-jack-posts-j-s-55-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1bceb9b6-12f7-41e5-999c-d3f80e07aacc/svn/tiger-brand-jack-posts-j-s-55-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/b233dc3a-e173-4377-8795-81225e0ccec2/676c3cf3-6380-4980-ae5b-a2d0b7654f7c/main.mp4?fastly_token=NjgzODI4MTJfMjFlNzcwMjE5OGExMGU5ZmRlZTA0YmQ1OTE4Yzk5ZTEzNTUwZWFmOGRkMjY5NjBmNGM3MmQ1N2U4ZTA4MzgxOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iMjMzZGMzYS1lMTczLTQzNzctODc5NS04MTIyNWUwY2NlYzIvNjc2YzNjZjMtNjM4MC00OTgwLWFlNWItYTJkMGI3NjU0ZjdjL21haW4ubXA0&pubid=66036796001",
+        "title": "Tiger Jack Sequence",
+        "id": "3838760637001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/b233dc3a-e173-4377-8795-81225e0ccec2/ce773afb-accd-4d0b-b1f3-ad0c684676cd/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Tiger Brand Jack Post Adjustable Jack Installation Instructions"
+      }
+    ],
+    "ratings_total": 172,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hardware Included",
+        "value": "Hardware Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum load at maximum extension (lb.)",
+        "value": "14000 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum load at minimum extension (lb.)",
+        "value": "18000 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "11.6 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Tiger Brand Jack Post Limited Warranty; warrants to the original purchaser that its products are free from defects in material and workmanship under normal use and service for one year from the date of purchase."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Height (in.)",
+        "value": "55 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Minimum Height (in.)",
+        "value": "34 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "55 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "keywords_list": [
+      "jack post",
+      "reliable jack post",
+      "jack posts",
+      "reliable jack posts",
+      "safe jack post",
+      "safe jack posts",
+      "easy-to-use jack post",
+      "easy-to-use jack posts",
+      "Tiger Brand Jack Post jack post",
+      "Tiger Brand Jack Post jack posts"
+    ],
+    "keywords": "jack post, reliable jack post, jack posts, reliable jack posts, safe jack post, safe jack posts, easy-to-use jack post, easy-to-use jack posts, Tiger Brand Jack Post jack post, Tiger Brand Jack Post jack posts",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Jack Posts",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Jack-Posts/N-5yc1vZc8hw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 69,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "is_limited_quantity": true,
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 43,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

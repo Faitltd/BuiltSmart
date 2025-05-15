@@ -1,0 +1,175 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14055,
+    "overage_used": 4055,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/SVOPES-61-Pack-Metal-Deck-Spindles-32-25-in-x-1-in-Aluminum-Alloy-Balusters-with-Screws-Outdoor-Staircase-Railing-for-Wood-HJLGY32-2560-GY6GV0-1218/334261545"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:52:52.420Z",
+    "processed_at": "2025-05-01T17:53:44.472Z",
+    "total_time_taken": 52.05,
+    "homedepot_url": "https://www.homedepot.com/p/SVOPES-61-Pack-Metal-Deck-Spindles-32-25-in-x-1-in-Aluminum-Alloy-Balusters-with-Screws-Outdoor-Staircase-Railing-for-Wood-HJLGY32-2560-GY6GV0-1218/334261545"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/SVOPES-61-Pack-Metal-Deck-Spindles-32-25-in-x-1-in-Aluminum-Alloy-Balusters-with-Screws-Outdoor-Staircase-Railing-for-Wood-HJLGY32-2560-GY6GV0-1218/334261545",
+    "brand": "SVOPES",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings-Balusters-Spindles/SVOPES/N-5yc1vZc5q0Zzrk",
+    "title": "SVOPES 61-Pack Metal Deck Spindles, 32.25 in. x 1 in. Aluminum Alloy Balusters with Screws, Outdoor Staircase Railing for Wood",
+    "upc": "198950550239",
+    "item_id": "334261545",
+    "store_sku": "1013587506",
+    "model_number": "HJLGY32.2560/GY6GV0-1218",
+    "description": "61-Pack Deck Baluster, Upgrade Your Deck Instantly. These metal deck balusters are an outstanding choice to enhance your deck or stair. The black powder-coated aluminum alloy is highly durable and can last for years even in outdoor conditions. With pre-drilled holes and screws, installation is a breeze. Enjoy a secure and beautiful deck with our railing balusters. Aluminum Alloy, 61-Pack 32.25 in. Length, Stylish Design, Easy Installation.",
+    "feature_bullets": [
+      "Made of sturdy aluminum alloy, warp-proof, rust-resistant"
+    ],
+    "feature_bullets_count": 1,
+    "descriptive_attributes": [
+      "Right size and quantity: measuring 32.25 in. long and 1 in. wide, 61-balusters are provided to fit most railing frames",
+      "Stylish design: wave curved shape and matte black color create a beautiful railing, coated with AAMA-2604 compliant material for stability",
+      "Easy installation: pre-drilled holes and 244 self-tapping screws make installation quick and effortless",
+      "Aluminum alloy durability: made of sturdy aluminum alloy, warp-proof, rust-proof, and corrosion-proof for long-term use, enhancing deck security",
+      "Wide application: suitable for various indoor and outdoor spaces like deck, stair, porch, yard, and balcony, compatible with wood and composite deck",
+      "Specifications: product size: 82 x 2.5 cm/ 32.25 in. X 1 in., thickness: 2.5 mm/ 0.1 in. material: aluminum alloy, baluster quantity: 61, screws quantity: 244, color: black",
+      "Package content: 244 x screws, 61 x deck baluster"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e5f091fe-438b-4e4f-ac87-070ff64d4971/svn/black-svopes-balusters-spindles-hjlgy32-2560-gy6gv0-1218-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bca29fe5-f381-4d05-9814-3c33ae207db5/svn/black-svopes-balusters-spindles-hjlgy32-2560-gy6gv0-1218-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ec1224c0-3271-4418-b438-54fe94c3ee7c/svn/black-svopes-balusters-spindles-hjlgy32-2560-gy6gv0-1218-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d96f1387-2780-4498-ade3-bfbea52d78a3/svn/black-svopes-balusters-spindles-hjlgy32-2560-gy6gv0-1218-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/09e64589-cdfd-4b03-b0d4-c3a6aa0e1d7b/svn/black-svopes-balusters-spindles-hjlgy32-2560-gy6gv0-1218-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/117bde89-ec01-4155-8ab7-cb54b7a6295b/svn/black-svopes-balusters-spindles-hjlgy32-2560-gy6gv0-1218-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e41cf77d-1005-41f9-91bb-6973f1c0587b/svn/black-svopes-balusters-spindles-hjlgy32-2560-gy6gv0-1218-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e5f091fe-438b-4e4f-ac87-070ff64d4971/svn/black-svopes-balusters-spindles-hjlgy32-2560-gy6gv0-1218-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Core Type",
+        "value": "Solid Core"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of balusters included",
+        "value": "61"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "21 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Stair Part Type",
+        "value": "Baluster"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "32.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "0 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Railings",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings/N-5yc1vZc5i7"
+      },
+      {
+        "name": "Balusters & Spindles",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings-Balusters-Spindles/N-5yc1vZc5q0"
+      }
+    ],
+    "buybox_winner": {
+      "price": 189.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box"
+    }
+  }
+}

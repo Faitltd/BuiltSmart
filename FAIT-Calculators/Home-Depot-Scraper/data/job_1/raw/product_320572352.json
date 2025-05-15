@@ -1,0 +1,283 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14942,
+    "overage_used": 4942,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Glacier-Bay-Power-Flush-12-inch-Rough-In-One-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-Included-N2451E/320572352"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:44:55.013Z",
+    "processed_at": "2025-05-02T21:44:58.276Z",
+    "total_time_taken": 3.26,
+    "homedepot_url": "https://www.homedepot.com/p/Glacier-Bay-Power-Flush-12-inch-Rough-In-One-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-Included-N2451E/320572352"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Glacier-Bay-Power-Flush-12-inch-Rough-In-One-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-Included-N2451E/320572352",
+    "brand": "Glacier Bay",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/Glacier-Bay/N-5yc1vZcb8vZn7",
+    "title": "Glacier Bay Power Flush 12 inch Rough In One-Piece 1.28 GPF Single Flush Elongated Toilet in White Seat Included",
+    "upc": "732291004008",
+    "item_id": "320572352",
+    "store_sku": "1007767243",
+    "model_number": "N2451E",
+    "description": "Replace your old toilet with the Power Flush 1-piece 1.28 GPF High-Efficiency Single-Flush Elongated Toilet Featuring Niagara Stealth Technology in White. This toilet features patented hydraulic technology, known as the Stealth. 1-flush thoroughly evacuates the bowl every time and eliminates double flushing. This toilet has achieved a quiet, powerful and proven flush saving thousands of gallons with no change in consumer use or behavior. The flapper less design means no costly flapper, chains or levers to replace and no leaks ever. Also, this toilet virtually eliminates all refill noise as the fill valve is never exposed. This 1-piece toilet by Glacier Bay occupies minimal space while offering the spaciousness of an elongated bowl.",
+    "is_exclusive": true,
+    "aisle": "37",
+    "bay": "010",
+    "collection": {
+      "id": "Family-327091269",
+      "name": "Family-327091269",
+      "link": "https://www.homedepot.com/collection/Bath/Power-Flush/Family-327091269?omsid=320572352"
+    },
+    "feature_bullets": [
+      "1-piece comfort height with 1.28 GPF powerful flush performance",
+      "Vacuum-assisted flush clears 7 billiard balls on the first flush",
+      "Includes slow-close toilet seat, wax ring and floor bolt set"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "16.5 in. tall toilet bowl gives your legs the extra room for added comfort",
+      "Save money and use 20% less water than a standard 1.6 GPF toilet",
+      "Toilet includes a slow-close seat with easy clean hinges",
+      "Includes: tank, bowl, seat, wax ring, bolts and caps",
+      "Extra large 2-3/8 in. fully glazed trapway for clog free flush performance",
+      "Elongated toilet bowl for extra comfort",
+      "Features QuickConnect installation system to make installation a breeze",
+      "Vacuum-assist power chamber allows extra strength to flush more with less",
+      "Extra-large 10.25 in. x 23.5 in. footprint is excellent for retrofitting without re-doing your flooring",
+      "Flushing power rated 10-out of-10",
+      "WaterSense certified",
+      "Limited lifetime warranty",
+      "Meets HET rebate standards",
+      "Supply lines sold separately",
+      "<a href=\"https://www.homedepot.com/b/Glacier-Bay/N-5yc1vZn7\" target=\"_blank\" style=\"color:#F96302;\">Click here to learn more about exclusive Glacier Bay products</a>",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/water-conservation/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Water Conservation</a>"
+    ],
+    "descriptive_attributes_count": 16,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d71a22aa-e546-4c4f-a6f3-601ecc10c970/svn/white-glacier-bay-one-piece-toilets-n2451e-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9fb33995-709e-4b1f-ac08-4ced6b27f6f0/svn/white-glacier-bay-one-piece-toilets-n2451e-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2c2fa4f0-154b-4549-be2e-2c8eb98f3bae/svn/white-glacier-bay-one-piece-toilets-n2451e-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5a4aa2ea-2594-4ccc-aad7-665e423c0fe1/svn/white-glacier-bay-one-piece-toilets-n2451e-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a5bed030-3481-45f1-bbe9-a371320fd7b9/svn/white-glacier-bay-one-piece-toilets-n2451e-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4df7f56c-057e-4281-9cfa-6142d3a53397/svn/white-glacier-bay-one-piece-toilets-n2451e-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a9ec4cf7-f0f5-4656-859e-a5076b2386ea/svn/white-glacier-bay-one-piece-toilets-n2451e-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d71a22aa-e546-4c4f-a6f3-601ecc10c970/svn/white-glacier-bay-one-piece-toilets-n2451e-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/c1ddb3de-6258-44c7-8e6d-def69acd79d6/f3725fc0-114e-4bab-bf67-f0278cd2dc0a/main.mp4?fastly_token=NjgzOTc4YmZfMjllNTkxMmQ3YTI5MjBmZDYzOTgwNTllYzIyYzYyZTJjMWZmODM5ZjM4ZGM5OTg3YWYzOWQzNGYzMGJmNDJhMV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jMWRkYjNkZS02MjU4LTQ0YzctOGU2ZC1kZWY2OWFjZDc5ZDYvZjM3MjVmYzAtMTE0ZS00YmFiLWJmNjctZjAyNzhjZDJkYzBhL21haW4ubXA0&pubid=66036796001",
+        "title": "Glacier Bay Power Flush Video",
+        "id": "6095357646001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/c1ddb3de-6258-44c7-8e6d-def69acd79d6/5986f253-7ae8-403c-81f7-8c7a2d0dc68c/160x90/match/image.jpg?pubId=66036796001",
+        "description": "A brief 1:00 minute video explanation the Power Flush Toilet featuring the Niagara Stealth Technology."
+      }
+    ],
+    "ratings_total": 450,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "90.17 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Contemporary,Modern,Transitional"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "One-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.375 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "LImited Lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "28.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "29.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "15.75 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "One Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/N-5yc1vZcb8v"
+      }
+    ],
+    "buybox_winner": {
+      "price": 249,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 5
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 12,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

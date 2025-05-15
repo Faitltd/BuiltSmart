@@ -1,0 +1,294 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14953,
+    "overage_used": 4953,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:46:02.299Z",
+    "processed_at": "2025-05-02T21:46:11.253Z",
+    "total_time_taken": 8.95,
+    "homedepot_url": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOROW-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Open-Auto-Close-Auto-Flush-Heated-Seat-and-Remote-HR-0005/321158931",
+    "brand": "HOROW",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/HOROW/N-5yc1vZbzacZv6d",
+    "title": "HOROW Elongated Smart Toilet Bidet in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote",
+    "upc": "673324116551",
+    "item_id": "321158931",
+    "store_sku": "1008038205",
+    "model_number": "HR-0005",
+    "description": "HOROW integrated smart toilet taking it home and enjoy when you need to use the toilet, the microwave induction of the smart toilet will know you are coming. Soon, the lid automatically opens as if saying \"Welcome\". When you take your rightful place upon the toilet, you can feel the warmth of the heated seat. The seat has seat-warming temperature settings that are especially useful during the cold of winter. An automatic air deodorizer activates to hide the unpleasant smells. As your journey comes to a close, you can access the rotating switch or remote control and start the cleansing process. A self-cleaning wand will appear to wash your nether regions. You are in total control, as you are able to select a front to cleanse, soft rear cleanses, rear cleanse, oscillating cleanse, or pulsating cleanse. The variable temperature and pressure settings allow you to adjust the warmth and intensity of the spray. You may start the air dryer to reduce the moisture left behind from the cleaning. The powerful flushing of the 3D tornado flushes, and the bowl bottom flushes, aided by the premium glaze whisks away all of the evidence. Soon, the lid automatically closes as if saying \"goodbye\".",
+    "collection": {
+      "id": "Family-323256004",
+      "name": "Family-323256004",
+      "link": "https://www.homedepot.com/collection/Bath/Smart-Bidet-Toilet/Family-323256004?omsid=321158931"
+    },
+    "feature_bullets": [
+      "Features a heated seat, warm bidet water and air drying",
+      "Fully customizable temperature and strength settings",
+      "Includes remote control and LED nightlight"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Powerful flush toilet - tankless toilet with powerful flush core, which can provide eco-friendly tornado flushing with a few water consumption (1.03 gpf)",
+      "Bidet toilet combo - bidet with air-in wonder wave technology uses hygienic filtered water and adjustable water pressure/temperature/cleaning position, rear wash, front wash, constant temp washing, lady care wash, strong wash, multi cleanse modes",
+      "Elegant modern toilet - the modern skirt design toilet combined with the automatic opening/closing function of the lid brings you an elegant experience",
+      "Comfortable smart toilet for bathroom - the elongated heated toilet seat transmits warmth to the person above, the warm wind drives away the discomfort caused by the wet",
+      "Automatic toilet - electric toilet with sensor on bidet seat, when people leaving, the toilet will flush to make your hands-free, you can also control the flush with the kick button or remote",
+      "Intelligent protection - the toilet has a built-in smart chip and sensors to avoid the dangers caused by high temperature, leakage, and high water pressure"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1c78bc00-df77-4114-8b3b-b73474b81b93/svn/white-horow-bidet-toilets-hr-0005-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/94c0ec4b-779b-447c-86f5-dffe059fc8b1/svn/white-horow-bidet-toilets-hr-0005-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/83782d52-4c74-4a0b-90d1-f4a46a9ca57d/svn/white-horow-bidet-toilets-hr-0005-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f3a17521-4fce-4058-b076-f374e8b1f2be/svn/white-horow-bidet-toilets-hr-0005-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/14d392c0-355e-42d7-925c-07e32ff18c53/svn/white-horow-bidet-toilets-hr-0005-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1455ce65-2c49-4565-8483-723172734583/svn/white-horow-bidet-toilets-hr-0005-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ad04ab2a-2b2e-42a5-9144-1902eba18f0a/svn/white-horow-bidet-toilets-hr-0005-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d568b6c3-10f1-43b7-9366-b196cb3c3304/svn/white-horow-bidet-toilets-hr-0005-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/306a781b-fd76-4b98-89ed-b04938d315b0/svn/white-horow-bidet-toilets-hr-0005-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3205b4f3-2f6c-48e1-8809-28f379add1b9/svn/white-horow-bidet-toilets-hr-0005-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8538d261-d02b-496e-817c-cd4f87f78a7a/svn/white-horow-bidet-toilets-hr-0005-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8162fd27-37bd-447a-bef2-ac4d7b24a541/svn/white-horow-bidet-toilets-hr-0005-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/29aba2ad-1ab5-42bb-8a42-907588bb08b4/svn/white-horow-bidet-toilets-hr-0005-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1c78bc00-df77-4114-8b3b-b73474b81b93/svn/white-horow-bidet-toilets-hr-0005-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/16c3afd3-3574-46e8-ae9d-c06cc022a168/faad17af-6aa4-487a-8c0b-339297c04e93/main.mp4?fastly_token=NjgzOTdkYzRfYjk1MzUzNjM2MmFhZWUzODEwMjQ3YzQ0MmY4Nzc3MTU3NDZiYWUyMDBiZTcyN2I1ODFlODQ1ZjE2ODI2MWQ4YV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xNmMzYWZkMy0zNTc0LTQ2ZTgtYWU5ZC1jMDZjYzAyMmExNjgvZmFhZDE3YWYtNmFhNC00ODdhLThjMGItMzM5Mjk3YzA0ZTkzL21haW4ubXA0&pubid=66036796001",
+        "title": "HOROW HR-0005 Smart Toilet",
+        "id": "6313038380112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/16c3afd3-3574-46e8-ae9d-c06cc022a168/main/160x90/59s893ms/match/image.jpg?pubId=66036796001",
+        "description": "HOROW Luxury Smart Toilet, Upgraded Bidet Toilet, Modern Toilet with Bidet Built-in, Tankless Toilet with Automatic Powerful Flush, Auto Open/close Lid, Heated Bidet Seat, Instant Warm Water"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d621e624-ae9c-4edc-aa5d-53cd0411c7c3/a0756485-c230-460a-adf9-e77581f0a7e7/main.mp4?fastly_token=NjgzOTdlYTlfMTVlY2E0ZTUzMzliMTM2OTc3MGVmNGVlNDBlNTM0ZGNjNDMyYjI0OTNjMjhkN2I4Njc4NjUzZmI2NjZkNjBiMl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kNjIxZTYyNC1hZTljLTRlZGMtYWE1ZC01M2NkMDQxMWM3YzMvYTA3NTY0ODUtYzIzMC00NjBhLWFkZjktZTc3NTgxZjBhN2U3L21haW4ubXA0&pubid=66036796001",
+        "title": "HR-0005 Elongated Smart Bidet Toilet",
+        "id": "6351988757112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/d621e624-ae9c-4edc-aa5d-53cd0411c7c3/main/160x90/2m37s768ms/match/image.jpg?pubId=66036796001",
+        "description": "HOROW Luxury Smart Toilet, Upgraded and Modern with Bidet Built-in, Tankless Toilet with Automatic Powerful Flush, Auto Open/close Lid, Heated Bidet Seat, Instant Warm Water"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/016560ae-1633-4ebc-8ee1-36f0e7f8628c/4490810f-033e-4d59-8800-fcec2dec8de3/main.mp4?fastly_token=NjgzOTdkNzlfYTI5ZjhhYzA0NzVmMTc5ZWRmZGY1ZjM3N2JhNDFlOGE5Y2RlNmFhMDQ4ZjQ2YTI4ZmNhNDRjMjkyY2FkYzJmM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8wMTY1NjBhZS0xNjMzLTRlYmMtOGVlMS0zNmYwZTdmODYyOGMvNDQ5MDgxMGYtMDMzZS00ZDU5LTg4MDAtZmNlYzJkZWM4ZGUzL21haW4ubXA0&pubid=66036796001",
+        "title": "T05 Bidet Toilet Product Demo",
+        "id": "6364955181112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/016560ae-1633-4ebc-8ee1-36f0e7f8628c/main/160x90/27s260ms/match/image.jpg?pubId=66036796001",
+        "description": "Elongated Smart Toilet Bidet in White with Auto Open, Auto Close, Auto Flush, Heated Seat and Remote"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 132,
+    "rating": 4.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bidet Power Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bidet Spray Type",
+        "value": "Over the rim"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Adjustable Nozzle,Adjustable Sprayer Settings,Automatic Close,Automatic Open,Concealed Trapway,Control Panel,Deodorizing,Fade Resistant,Feminine Wash,Flushing Rim,Heated,Integrated Bidet,Nozzle Sterilization,Posterior Wash,Skirted Design,Soft Close,Thin Design,Touchless,Warm Air Dryer,Warm Water Wash"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Right"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Remote Control,T Valve Connector,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Through-the-floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Faucet Holes",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "107 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ETL Certified,UL Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "26.97 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "18.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "15.7 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Bidet Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/N-5yc1vZbzac"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1043,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 1199.99,
+      "unit": "carton",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1384,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1384,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

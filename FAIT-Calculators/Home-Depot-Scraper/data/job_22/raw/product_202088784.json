@@ -1,0 +1,156 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14830,
+    "overage_used": 4830,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/White-Hardboard-Panel-Common-1-8-in-x-3-ft-x-7-ft-Actual-0-110-in-x-36-5-in-x-84-5-in-1707225/202088784"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:34:15.358Z",
+    "processed_at": "2025-05-01T19:34:56.883Z",
+    "total_time_taken": 41.52,
+    "homedepot_url": "https://www.homedepot.com/p/White-Hardboard-Panel-Common-1-8-in-x-3-ft-x-7-ft-Actual-0-110-in-x-36-5-in-x-84-5-in-1707225/202088784"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/White-Hardboard-Panel-Common-1-8-in-x-3-ft-x-7-ft-Actual-0-110-in-x-36-5-in-x-84-5-in-1707225/202088784",
+    "brand": "Unbranded",
+    "title": "Unbranded White Hardboard Panel (Common: 1/8 in. x 3 ft. x 7 ft.; Actual: 0.110 in. x 36.5 in. x 84.5 in.)",
+    "upc": "099167219097",
+    "item_id": "202088784",
+    "parent_id": "328651247",
+    "store_sku": "680260",
+    "model_number": "1707225",
+    "description": "If you are looking for an MDF panel, consider this 1/8 in. x 3 ft. x 7 ft. MDF UY Panel. The panel is manufactured in the USA and. It consists of mostly natural wood. Its exceptional stability and smoothness makes it ideal for paneling, furniture, fixtures, toys, and general manufacturing.",
+    "favorite_count": 278,
+    "feature_bullets": [
+      "Versatile 1/8 in. thickness suitable for various projects",
+      "Made of high-quality MDF and wood to ensure longevity",
+      "Ideal for MDF panel applications and woodworking projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Manufactured from MDF",
+      "1/8 in. x 3 ft. x 7 ft.",
+      "95-Percent wood",
+      "Made in USA",
+      "Great utility board for various projects",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/64a7f33d-6d35-4206-8bcb-85b6b1280f98/svn/mdf-1707225-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/64a7f33d-6d35-4206-8bcb-85b6b1280f98/svn/mdf-1707225-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 85,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardboard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "none"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "84.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.11 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "7"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "3"
+      }
+    ],
+    "keywords_list": [
+      "MDF panel",
+      "particleboard"
+    ],
+    "keywords": "MDF panel, particleboard",
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~1/4",
+        "link": "https://www.homedepot.com/p/White-Vinyl-One-Side-Panel-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-236-in-x-48-in-x-96-in-1707208/202088783",
+        "item_id": "202088783"
+      },
+      {
+        "title": "3 ft. x 7 ft.~~1/8",
+        "link": "https://www.homedepot.com/p/White-Hardboard-Panel-Common-1-8-in-x-3-ft-x-7-ft-Actual-0-110-in-x-36-5-in-x-84-5-in-1707225/202088784",
+        "item_id": "202088784"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

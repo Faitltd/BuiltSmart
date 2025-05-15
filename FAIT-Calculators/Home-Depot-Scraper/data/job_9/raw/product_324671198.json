@@ -1,0 +1,267 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13825,
+    "overage_used": 3825,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/James-Hardie-HardieBacker-1-4-in-x-4-ft-x-8-ft-Cement-Backerboard-750-Sheets-220006PAL/324671198"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:01:37.504Z",
+    "processed_at": "2025-05-01T17:01:42.615Z",
+    "total_time_taken": 5.11,
+    "homedepot_url": "https://www.homedepot.com/p/James-Hardie-HardieBacker-1-4-in-x-4-ft-x-8-ft-Cement-Backerboard-750-Sheets-220006PAL/324671198"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/James-Hardie-HardieBacker-1-4-in-x-4-ft-x-8-ft-Cement-Backerboard-750-Sheets-220006PAL/324671198",
+    "brand": "James Hardie",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Backer-Boards/James-Hardie/N-5yc1vZcduqZ4qr",
+    "title": "James Hardie HardieBacker 1/4 in. x 4 ft. x 8 ft. Cement Backerboard 750-Sheets",
+    "upc": "195898267595",
+    "item_id": "324671198",
+    "parent_id": "325048120",
+    "store_sku": "1013675919",
+    "model_number": "220006PAL",
+    "description": "Hardie Backer 1/4 in. Cement Board is a cement backerboard designed for use with floors and countertops. Works under interior floors to provide a solid foundation for tile, vinyl, wood and other flooring. 1/4 in. Cement Board will also work as a countertop backerboard and underlayment for tile, granite and other stone surfaces. Provides excellent adhesion, resists moisture and features MoldBlock Technology to protect the board against damage from mold. 1/4 in. thickness provides strength and ease of use in flooring or countertop projects in bathrooms, kitchens and laundry rooms.",
+    "collection": {
+      "id": "Family-316330049",
+      "name": "Family-316330049",
+      "link": "https://www.homedepot.com/collection/Building-Materials/HardieBacker-Cement-Backerboard-Collection/Family-316330049?omsid=324671198"
+    },
+    "feature_bullets": [
+      "Tile backer board for shower, countertop and floor installations",
+      "Floor underlayment for laminate, vinyl, wood and more",
+      "Moisture resistant cement backer board for tile floor and walls"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Protects project outcome with excellent adhesion",
+      "Contains no fillers or abrasive aggregate, made with 90% Portland cement and sand for strength, creating a strong foundation for projects",
+      "Moisture resistant board works in wet areas",
+      "Score and snap - easily perform quick and clean cuts indoors using a scoring knife or a utility knife",
+      "Strong enough for use in commercial or residential applications",
+      "4 ft. x 8 ft. Board is 1/4 in. deep and works on floor, countertop or backsplash applications",
+      "Consult local building codes for waterproofing requirements before beginning any project",
+      "Full truckload of cement backer board with 750 pieces",
+      "Shop the <a href=\"https://www.homedepot.com/collection/Building-Materials/HardieBacker-Cement-Backerboard-Collection/Family-316330049\" target=\"_blank\" style=\"color:#F96302;\">HardieBacker Cement Backerboard Collection </a>",
+      "<a href=\"https://images.homedepot-static.com/catalog/pdfImages/bb/bb159fe8-0ea7-4c68-ad33-bcfdccd12395.pdf\" target=\"_blank\" style=\"color:#F96302;\">James Hardie Buying Guide</a>",
+      "To order a mixed truckload of Hardie Backer in all available sizes, call or visit the Pro Desk at your local Home Depot store"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/82b852f8-fca0-4de8-909a-e4434e9d3c6b/svn/james-hardie-backer-boards-220006pal-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7b0a4099-c55e-4fd2-bf0a-5bed3dafc1c3/svn/james-hardie-backer-boards-220006pal-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a40051c2-fbdd-4e73-a83a-a485ed3e2813/svn/james-hardie-backer-boards-220006pal-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0e056afa-8e1a-42fc-a2f6-b86a498b19ed/svn/james-hardie-backer-boards-220006pal-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3f951ea2-1ed4-4ec6-b274-92b066869d3e/svn/james-hardie-backer-boards-220006pal-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/11e0ffda-dae0-4d42-b86c-68c9fafd7925/svn/james-hardie-backer-boards-220006pal-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/76e16a7f-f099-4756-80ef-6d4b2246088e/svn/james-hardie-backer-boards-220006pal-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7fc87eb5-817f-42b7-9a26-2bc34d280c42/svn/james-hardie-backer-boards-220006pal-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92a56b9d-1616-4d5e-a9c7-8f1a6d03ab8a/svn/james-hardie-backer-boards-220006pal-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b8259c7f-8922-4b4c-a3a0-0d687d6bf840/svn/james-hardie-backer-boards-220006pal-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8dd2cf60-6376-46e2-8d9b-1020cd213ba1/svn/james-hardie-backer-boards-220006pal-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7fa08188-0131-4aab-b112-f8bfd26c5a9e/svn/james-hardie-backer-boards-220006pal-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a618275-4c44-46d8-895c-fa854bfda28b/svn/james-hardie-backer-boards-220006pal-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e503b5ea-7df9-4dd9-b129-5e9f19e18318/svn/james-hardie-backer-boards-220006pal-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/82b852f8-fca0-4de8-909a-e4434e9d3c6b/svn/james-hardie-backer-boards-220006pal-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/c8e968eb-3ce7-4834-9660-d5bdc80ea17d/d8e54775-c963-44a1-8247-c0886e98784a/main.mp4?fastly_token=NjgzODI4NjJfYjBiNGUxM2NmNWE5YTNkYjBhMzQ1MDg4ZTk0ZGY5MWY2MDUxNjRhZTk0ZThiNjI0YTg1N2FiNzkzZjAyZjdiMl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jOGU5NjhlYi0zY2U3LTQ4MzQtOTY2MC1kNWJkYzgwZWExN2QvZDhlNTQ3NzUtYzk2My00NGExLTgyNDctYzA4ODZlOTg3ODRhL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Cut James Hardie Cement Backerboard",
+        "id": "6128636865001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/c8e968eb-3ce7-4834-9660-d5bdc80ea17d/2ed78731-ef9b-4052-9874-29115324c616/160x90/match/image.jpg?pubId=66036796001",
+        "description": "How to Cut Cement Backerboard"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/22ef1574-3b15-4c88-8792-728f32edf868/42aab9a8-96eb-47d4-92ce-4eb7946eee85/main.mp4?fastly_token=NjgzODI4YzhfMDNkMzliNDYzNGEyODk1YWNjN2MzYTU3MTMwNzdlMmJhOGI0NDFhNDNhMjRhYTZiZGNhYjYyNzc3YjgyY2Y2MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yMmVmMTU3NC0zYjE1LTRjODgtODc5Mi03MjhmMzJlZGY4NjgvNDJhYWI5YTgtOTZlYi00N2Q0LTkyY2UtNGViNzk0NmVlZTg1L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install James Hardie Cement Backerboards On Floors",
+        "id": "6128641873001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/22ef1574-3b15-4c88-8792-728f32edf868/11657ce0-2c84-428b-a619-403b9b900e6a/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Concrete boards, Shower tile backer board, Floor tile backer board, Tile backer board for floors, Backer board for shower walls \n"
+      }
+    ],
+    "ratings_total": 65,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Alt. Pricing_Multiply Total SqFt by Quantity (Total Eaches)",
+        "value": "48000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Environmentally Sustainable,Fire Resistant,Moisture Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Depth (IN)",
+        "value": "288"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Height (IN)",
+        "value": "55"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Weight (LB)",
+        "value": "48000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Width (IN)",
+        "value": "96"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet/Pack Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "60.8 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Drywall Product Thickness (in.)",
+        "value": "1/4 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "0.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "4 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Width (ft) x Length (ft)",
+        "value": "4ftx8ft"
+      }
+    ],
+    "variants": [
+      {
+        "title": "4ftx8ft~~0.25 in~~Pallet",
+        "link": "https://www.homedepot.com/p/James-Hardie-Hardie-Backer-1-4-in-x-4-ft-x-8-ft-Cement-Backerboard-50ct-220006P/202333502",
+        "item_id": "202333502"
+      },
+      {
+        "title": "4ftx8ft~~0.25 in~~Full-Truckload",
+        "link": "https://www.homedepot.com/p/James-Hardie-HardieBacker-1-4-in-x-4-ft-x-8-ft-Cement-Backerboard-750-Sheets-220006PAL/324671198",
+        "item_id": "324671198"
+      },
+      {
+        "title": "4ftx8ft~~0.25 in~~Each",
+        "link": "https://www.homedepot.com/p/James-Hardie-HardieBacker-1-4-in-x-4-ft-x-8-ft-Cement-Backerboard-220006/100157596",
+        "item_id": "100157596"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Backer Boards",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Backer-Boards/N-5yc1vZcduq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 16648.1,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 19586,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1001,
+          "price": 55,
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-15",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

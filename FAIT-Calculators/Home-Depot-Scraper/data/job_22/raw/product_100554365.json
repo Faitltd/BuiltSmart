@@ -1,0 +1,134 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14204,
+    "overage_used": 4204,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Slatwall-White-3-IN-OC-Panel-Common-3-4-in-x-48-in-x-8-ft-Actual-75-in-x-48-in-x-96-in-3-in-853869/100554365"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:05.757Z",
+    "processed_at": "2025-05-01T18:20:54.503Z",
+    "total_time_taken": 48.75,
+    "homedepot_url": "https://www.homedepot.com/p/Slatwall-White-3-IN-OC-Panel-Common-3-4-in-x-48-in-x-8-ft-Actual-75-in-x-48-in-x-96-in-3-in-853869/100554365"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Slatwall-White-3-IN-OC-Panel-Common-3-4-in-x-48-in-x-8-ft-Actual-75-in-x-48-in-x-96-in-3-in-853869/100554365",
+    "brand": "Unbranded",
+    "title": "Unbranded Slatwall White 3 IN OC Panel (Common: 3/4 in. x 48 in. x 8 ft.; Actual: .75 in. x 48 in. x 96 in. 3 in.)",
+    "upc": "856307000102",
+    "item_id": "100554365",
+    "store_sku": "853869",
+    "model_number": "853869",
+    "description": "White Slotwall panels are perfect for shelving. Brackets, hooks, channel supports, and accent strips are sold separately. 4x8 sheets with grooves running the 8' dimension.",
+    "favorite_count": 81,
+    "feature_bullets": [
+      "Made of high-quality materials to ensure durability",
+      "Makes the perfect choice for shelving",
+      "Elegant design creates a striking appeal"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Displawall",
+      "Slotwall",
+      "Merchandising Panel",
+      "Displawall Panel",
+      "Note: Product may vary by store.",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/8a8f6313-2563-4e47-a8bd-ef39c0e73cfb/svn/mdf-853869-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/8a8f6313-2563-4e47-a8bd-ef39c0e73cfb/svn/mdf-853869-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxM2Q1Y2RfOGNiODE1YzE4ZTRmYzA3Y2U2MzQ4YjZlZDkwMTUwNzc4YzQ0MmYwNTE5MzExNmUzNTQ0ZjllMzc5MzE3OTc2Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 19,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "MDF"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.75"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "97"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "3/4 In.- 4 Ft. x 8 Ft. White Medium Density Fiberboard Slotwall (3 In. OC)",
+      "DW2750",
+      "Melamine"
+    ],
+    "keywords": "3/4 In.- 4 Ft. x 8 Ft. White Medium Density Fiberboard Slotwall (3 In. OC), DW2750, Melamine",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

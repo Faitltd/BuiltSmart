@@ -1,0 +1,346 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14975,
+    "overage_used": 4975,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-White-Soft-Close-Seat-Included-DV-1F52812/321392521"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:48:27.249Z",
+    "processed_at": "2025-05-02T21:48:39.413Z",
+    "total_time_taken": 12.16,
+    "homedepot_url": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-White-Soft-Close-Seat-Included-DV-1F52812/321392521"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-White-Soft-Close-Seat-Included-DV-1F52812/321392521",
+    "brand": "DEERVALLEY",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/DEERVALLEY/N-5yc1vZcb8vZuog",
+    "title": "DEERVALLEY Liberty 12 in. Rough In 1-Piece 1.1/1.6 GPF Dual Flush Compact Round Toilet in White Soft Close Seat Included",
+    "upc": "649242610976",
+    "item_id": "321392521",
+    "parent_id": "324785912",
+    "store_sku": "1008319705",
+    "model_number": "DV-1F52812",
+    "description": "Modern and compact design. Although designed for very small spaces, this toilet looks perfect in every modern bathroom. The seat lid can be closed silently. Featuring a concealed and smooth skirt design, it is not only visually appealing but also easy to clean. The powerful dual flush is extremely reliable and provides performance that never fails.",
+    "collection": {
+      "id": "Family-324826650",
+      "name": "Family-324826650",
+      "link": "https://www.homedepot.com/collection/Bath/Liberty/Family-324826650?omsid=321392521"
+    },
+    "feature_bullets": [
+      "Especially design for smaller bathroom or compact spaces",
+      "Easiest to clean toilet, big hole for easy-installation",
+      "Dual flush is eco-friendly without sacrificing performance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Overall size: 13.39 in. D x 25 in. W x 28.35 in. H, compact design suitable for small space",
+      "Seat height: 16.5 in., bowl height: 15.75 in. standard 12 in. rough-in size",
+      "Dual flush system: 1.1 GPF or higher (1.6 GPF) with a powerful flush system",
+      "1-piece toilets integrate the tank and bowl into a seamless, easy-to-clean design",
+      "Big side holes provide easy access for installing floor bolts.",
+      "Easily installed, the self-cleaning glazed surface is both attractive and easily maintained",
+      "All products include parts with a 1 year limited warranty from the date of delivery.",
+      "Easy release and soft close plastic toilet seat",
+      "Supply line not included and the toilet will come with a supply line connector(adapter) for you to connect the supply line and dual flush toilet.",
+      "All-in-one package: package includes toilet, pre-installed soft closing toilet seat, pre-installed flush valve, high-quality wax ring, floor bolts and installation instruction."
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/989ced26-a2b2-4fef-bf02-3ffa5d07862c/svn/white-deervalley-one-piece-toilets-dv-1f52812-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c0627175-cefc-46b7-9f4e-8f919919f67c/svn/white-deervalley-one-piece-toilets-dv-1f52812-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f53f7abc-eb43-4b4f-8ace-063cb8d976d9/svn/white-deervalley-one-piece-toilets-dv-1f52812-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8dccdb6d-93a1-4f44-b917-00c06a3088e4/svn/white-deervalley-one-piece-toilets-dv-1f52812-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a8e0622a-39f5-4e6e-9bd8-c54c7c67ccc6/svn/white-deervalley-one-piece-toilets-dv-1f52812-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/35f57eb1-64e4-4ab8-b5ec-afbac77e4200/svn/white-deervalley-one-piece-toilets-dv-1f52812-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/61b571d1-43cb-4437-88dc-5a9a6cea33c1/svn/white-deervalley-one-piece-toilets-dv-1f52812-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/396929a0-45b2-4a0e-ad5f-692f7740348e/svn/white-deervalley-one-piece-toilets-dv-1f52812-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b5e30d5f-97d4-4e72-899f-a08776bd396e/svn/white-deervalley-one-piece-toilets-dv-1f52812-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/935632eb-6580-4835-a0e8-9a77850cf49b/svn/white-deervalley-one-piece-toilets-dv-1f52812-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/585de445-a7bb-47c9-9271-5407bc1aff50/svn/white-deervalley-one-piece-toilets-dv-1f52812-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/97f55ebf-3efb-4def-a9ee-7ed25f684b8d/svn/white-deervalley-one-piece-toilets-dv-1f52812-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/df472d1b-c014-4ea5-a888-9e0ac71d51ba/svn/white-deervalley-one-piece-toilets-dv-1f52812-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/81939964-646f-4fe9-8497-82f97a173945/svn/white-deervalley-one-piece-toilets-dv-1f52812-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/68b355fe-a676-4eef-8c60-321d323a76ef/svn/white-deervalley-one-piece-toilets-dv-1f52812-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/989ced26-a2b2-4fef-bf02-3ffa5d07862c/svn/white-deervalley-one-piece-toilets-dv-1f52812-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/5dde17ab-2628-438d-9b6d-216d736a47b3/4b5203b3-0cc9-4300-8a23-5ee7710e202a/main.mp4?fastly_token=NjgzOTdhYzNfMTI2ZmEwZjczZjBmNTQ3ZGI4OWZkMjBkNTE0MWE4M2FhZTFhZGUxMjExNDYxMjFmNmVlZDg2NDJkMDczNDU4Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81ZGRlMTdhYi0yNjI4LTQzOGQtOWI2ZC0yMTZkNzM2YTQ3YjMvNGI1MjAzYjMtMGNjOS00MzAwLThhMjMtNWVlNzcxMGUyMDJhL21haW4ubXA0&pubid=66036796001",
+        "title": "Toilet Installation Instruction",
+        "id": "6322985134112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/5dde17ab-2628-438d-9b6d-216d736a47b3/main/160x90/2m21s84ms/match/image.jpg?pubId=66036796001",
+        "description": "Toilet Installation Instruction"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1c2606bc-d351-4972-b6a9-b65904d5af8c/92946852-2e3d-4448-a2b5-cafc91966f3d/main.mp4?fastly_token=NjgzOTc5OThfN2NkMzNmMGRlMDE1ZmIzOTExNTMzNjU4OWMxMWFkNzVmNmE5MGI2MTgwY2E5NWIzYWE5YjhkNTFkYTg3Y2RiZl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xYzI2MDZiYy1kMzUxLTQ5NzItYjZhOS1iNjU5MDRkNWFmOGMvOTI5NDY4NTItMmUzZC00NDQ4LWEyYjUtY2FmYzkxOTY2ZjNkL21haW4ubXA0&pubid=66036796001",
+        "title": "DV-1F52812 1-Piece Dual Flush Elongated Toilet",
+        "id": "6361198774112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/1c2606bc-d351-4972-b6a9-b65904d5af8c/main/160x90/12s832ms/match/image.jpg?pubId=66036796001",
+        "description": "This video mainly introduce the dimensions of DeerValley 1-piece dual flush elongated toilet."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 126,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Compact,Concealed Trapway,Flushing Rim,Grip Tight Bumpers,Skirted Design,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Siphonic Jet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Dual Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Dual Flush: 1.1/1.6"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Complete Kit,Hardware,Hinge,Lid,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "800"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Ceramic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "78 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "30-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "One-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.16 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "Department of Energy (DOE),EPA Approved,UPC Certified (Uniform Plumbing Code)"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "13.39 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "27.76 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "12.99 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Matte Black~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6",
+        "link": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-Matte-Black-Seat-Included-DV-1F52812B/328864010",
+        "item_id": "328864010"
+      },
+      {
+        "title": "Black Button~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6",
+        "link": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-White-Black-Button-Seat-Included-DV-1F52812-Black/330069340",
+        "item_id": "330069340"
+      },
+      {
+        "title": "White~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6",
+        "link": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-White-Soft-Close-Seat-Included-DV-1F52812/321392521",
+        "item_id": "321392521"
+      },
+      {
+        "title": "Golden Button~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6",
+        "link": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-White-Gold-Button-Seat-Included-DV-1F52812-Gold/330069321",
+        "item_id": "330069321"
+      },
+      {
+        "title": "White Button~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6",
+        "link": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Dual-Flush-Compact-Round-Toilet-in-White-White-Button-Seat-Included-DV-1F52812-White/330069328",
+        "item_id": "330069328"
+      },
+      {
+        "title": "Glossy Black~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6",
+        "link": "https://www.homedepot.com/p/DEERVALLEY-Liberty-12-in-Rough-In-1-Piece-1-1-1-6-GPF-Compact-Dual-Flush-Round-Toilet-in-Glossy-Black-Seat-Included-DV-1F52812LHB/333086887",
+        "item_id": "333086887"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "One Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-One-Piece-Toilets/N-5yc1vZcb8v"
+      }
+    ],
+    "buybox_winner": {
+      "price": 211.09,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1552,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1552,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-12",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14406,
+    "overage_used": 4406,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TrafficMaster-Silverton-Oak-8-mm-T-x-7-5-in-W-Water-Resistant-Laminate-Wood-Flooring-23-7-sqft-case-TM5/320008897"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:33:44.324Z",
+    "processed_at": "2025-05-01T18:33:48.472Z",
+    "total_time_taken": 4.15,
+    "homedepot_url": "https://www.homedepot.com/p/TrafficMaster-Silverton-Oak-8-mm-T-x-7-5-in-W-Water-Resistant-Laminate-Wood-Flooring-23-7-sqft-case-TM5/320008897"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TrafficMaster-Silverton-Oak-8-mm-T-x-7-5-in-W-Water-Resistant-Laminate-Wood-Flooring-23-7-sqft-case-TM5/320008897",
+    "brand": "TrafficMaster",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Laminate-Flooring-Laminate-Wood-Flooring/TrafficMaster/N-5yc1vZbejkZ5bx",
+    "title": "TrafficMaster Silverton Oak 8 mm T x 7.5 in. W Water Resistant Laminate Wood Flooring (23.7 sqft/case)",
+    "upc": "816281006569",
+    "item_id": "320008897",
+    "parent_id": "333705227",
+    "store_sku": "1007511949",
+    "model_number": "TM5",
+    "description": "TrafficMaster Silverton Oak 8 mm laminate flooring is a beautiful addition to any home. The wide width, light gray oak laminate flooring color and embossed finish are able to transcend well beyond just one design style to put itself to work in any home or business. This 8 mm laminate flooring has an authentic oak texture to achieve the look of real hardwood, lending classic elegance to any room. Its durable AC3 wear layer protects against scratching, fading and staining, paired with a limited lifetime residential warranty to ensure decades of lasting beauty and functionality. Designed for residential use, it also features a user-friendly click lock technology to ensure quick and easy installation in any home.",
+    "is_exclusive": true,
+    "aisle": "45",
+    "bay": "012",
+    "feature_bullets": [
+      "Silverton Oak laminate flooring with light grey wood look",
+      "Water resistant laminate planks with easy click lock install",
+      "AC3 rated laminate suitable for heavy residential traffic areas"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Silverton Oak laminate flooring",
+      "8 mm thickness x 7.48 in. width x 50.67 in. length planks",
+      "Silverton oak, light gray color, low gloss, embossed finish",
+      "Planks have a beveled edge",
+      "No attached underlayment",
+      "Appropriate grade for installation: above grade, on grade and below grade, Simple do it yourself glueless installation",
+      "Select radiant heating may be used",
+      "Can be installed over both concrete and wooden sub-floors",
+      "Suitable for Residential and commercial use",
+      "Lifetime residential, 7- year commercial warranty",
+      "Recommended you purchase a minimum of 10% overage to account for cuts",
+      "Install this floor on a vertical surface to create a distinct accent wall",
+      "A beautiful addition to any home",
+      "<a href=\"https://www.homedepot.com/b/Flooring/TrafficMaster/N-5yc1vZaq7rZ5bx\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop for more TrafficMaster Flooring</a>",
+      "<a href=\"https://www.homedepot.com/b/Flooring/PERFORMANCE-ACCESSORIES/SILVERTON/N-5yc1vZaq7rZtjkZ1z1zw4j\" target=\"_blank\" style=\"color:#F96302;\">Don't forget your coordinating trim and moldings - shop Performance Accessories in the Get Everything You Need section below.</a>",
+      "<a href=\"https://www.homedepot.com/b/Flooring/PERFORMANCE-ACCESSORIES/N-5yc1vZaq7rZtjkZ1z10n68\" target=\"_blank\" style=\"color:#F96302;\">Don't forget your coordinating trim and moldings</a> - shop Performance Accessories in the 'You Might Also Need' section below."
+    ],
+    "descriptive_attributes_count": 16,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5d215a46-ba8d-45df-b5b4-902483c04704/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/71b401fc-553d-4b57-b55e-0c9da093f6ea/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6b9e938c-b9bf-4877-a3c5-b27daa9f7e70/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe127657-e93d-4d01-99e6-66a3bd71d81d/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5779606e-dd71-4e0f-8b83-21512586a348/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d4fa0a9-5fbe-479b-bf42-29ef8d696f52/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2c9b4ab5-1bd5-467f-a989-f7cc4b375843/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/476e682e-2291-4aa1-875b-c4baf00e7df5/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f03df38f-9063-43aa-aa1d-fc00c191bb43/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5d215a46-ba8d-45df-b5b4-902483c04704/svn/silverton-oak-trafficmaster-laminate-wood-flooring-tm5-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ff96a3b0-259f-4803-bc55-1c15d3bb4c9e/80ee81a9-799a-494f-bc26-14ffd375d1e7/main.mp4?fastly_token=NjgxMzkyN2FfNzUyYTIxMzgwMTI3YzQ0N2UyZWQyOWFmYjU5MzBhMDQzMWQyN2I5ZDc0YjEwNTIyODgxNTk3MDJkZDNmNTk3OF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZmY5NmEzYjAtMjU5Zi00ODAzLWJjNTUtMWMxNWQzYmI0YzllLzgwZWU4MWE5LTc5OWEtNDk0Zi1iYzI2LTE0ZmZkMzc1ZDFlNy9tYWluLm1wNA%3D%3D",
+        "title": "TrafficMaster Water Resistant Laminate Flooring",
+        "id": "6317358467112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/ff96a3b0-259f-4803-bc55-1c15d3bb4c9e/main/160x90/37s141ms/match/image.jpg",
+        "description": "This is a video highlighting the features of TrafficMaster Water Resistant Laminate Flooring\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/0dd44838-9740-4fed-914c-e3d072cad1a3/94da1e22-fb89-4f06-a4b5-14d9b2261ec4/main.mp4?fastly_token=NjgxMzkxYTFfMGYyMDg3YjdlYTIzN2RhM2IxMWE5MTBhM2Q5MjAyZTQ2MzYzMzhjM2I1MDlhNmQ0MTUxYmI2YzVkYzk2Mjk4N18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMGRkNDQ4MzgtOTc0MC00ZmVkLTkxNGMtZTNkMDcyY2FkMWEzLzk0ZGExZTIyLWZiODktNGYwNi1hNGI1LTE0ZDliMjI2MWVjNC9tYWluLm1wNA%3D%3D",
+        "title": "TrafficMaster Water Resistant Laminate Flooring - Collection",
+        "id": "6317360162112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/0dd44838-9740-4fed-914c-e3d072cad1a3/main/160x90/9s56ms/match/image.jpg"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/a90757ac-8b3b-47cc-98b2-d8f50cd8c397/0c7f60e4-f6aa-415f-b3c0-9ab514909bdd/main.mp4?fastly_token=NjgxMzkyNzFfMmJiYzhjZjgyNjRjZDU4OTBkMjlmMjE2MmRhN2UyYThhYmU4NTEwYmNiYmQ1YzFjMWZjYzI2MGU3Yjc1MTNlN18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYTkwNzU3YWMtOGIzYi00N2NjLTk4YjItZDhmNTBjZDhjMzk3LzBjN2Y2MGU0LWY2YWEtNDE1Zi1iM2MwLTlhYjUxNDkwOWJkZC9tYWluLm1wNA%3D%3D",
+        "title": "FY25_TM_Laminate_Flooring.mp4",
+        "id": "6370150001112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/a90757ac-8b3b-47cc-98b2-d8f50cd8c397/main/160x90/21s237ms/match/image.jpg"
+      }
+    ],
+    "ratings_total": 719,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "AC Rating",
+        "value": "AC3: Residential Heavy Traffic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Antimicrobial",
+        "value": "Non-antimicrobial"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Silverton Oak"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial/Residential",
+        "value": "AC3:"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Beveled"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Embossed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Laminate Wood Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Wood Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gloss",
+        "value": "Low Gloss"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Click Lock"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installs Over Subfloor",
+        "value": "Concrete,Cork Underlayment,Plywood,Tile,Vinyl,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Laminate Flooring Features",
+        "value": "Easy Install,Floating,No waxing or polishing needed,Noise resistant,Radiant/Underfloor Warming Approved,Scratch resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Basement,Bathroom,Kitchen,Mudroom,Sunroom"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Laminate"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "2 Days"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Width",
+        "value": "Wide plank (7+ in)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "32 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sample Available",
+        "value": "Sample Not Available"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Basics,Casual,Classic,Cottage,Farmhouse,Modern,Rustic,Traditional,Transitional"
+      },
+      {
+        "group_name": "Details",
+        "name": "Underlayment Options",
+        "value": "Underlayment Required - Sold Separately"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime Residential / 7 Year Commercial Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "50.67 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "8 mm"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Hawks Edge Maple~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Hawks-Edge-Maple-8-mm-T-x-7-5-in-W-Water-Resistant-Laminate-Wood-Flooring-23-7-sqft-case-TM4/320080757",
+        "item_id": "320080757"
+      },
+      {
+        "title": "Silverton Oak~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Silverton-Oak-8-mm-T-x-7-5-in-W-Water-Resistant-Laminate-Wood-Flooring-23-7-sqft-case-TM5/320008897",
+        "item_id": "320008897"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Laminate Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Laminate-Flooring/N-5yc1vZare1"
+      },
+      {
+        "name": "Laminate Wood Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Laminate-Flooring-Laminate-Wood-Flooring/N-5yc1vZbejk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 35.29,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 13
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 494,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

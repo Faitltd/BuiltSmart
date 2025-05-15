@@ -1,0 +1,180 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14757,
+    "overage_used": 4757,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Unbranded-LWM-412-5-8-in-D-x-3-1-2-in-W-x-86-in-L-Primed-Finger-Joint-Pine-Wood-Casing-Door-Pack-5-Pack-L412A-93086CDPK/323891769"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:11:02.437Z",
+    "processed_at": "2025-05-01T19:11:48.334Z",
+    "total_time_taken": 45.9,
+    "homedepot_url": "https://www.homedepot.com/p/Unbranded-LWM-412-5-8-in-D-x-3-1-2-in-W-x-86-in-L-Primed-Finger-Joint-Pine-Wood-Casing-Door-Pack-5-Pack-L412A-93086CDPK/323891769"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Unbranded-LWM-412-5-8-in-D-x-3-1-2-in-W-x-86-in-L-Primed-Finger-Joint-Pine-Wood-Casing-Door-Pack-5-Pack-L412A-93086CDPK/323891769",
+    "brand": "Unbranded",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Window-Door-Kits/Unbranded/N-5yc1vZclg3Z69k",
+    "title": "Unbranded LWM 412 5/8 in. D x 3-1/2 in. W x 86 in. L Primed Finger Joint Pine Wood Casing Door Pack (5-Pack)",
+    "upc": "773204018972",
+    "item_id": "323891769",
+    "store_sku": "1008983340",
+    "model_number": "L412A-93086CDPK",
+    "description": "The 5/8 in. x 3-1/2 in. Primed Finger Jointed Pine Casing enhances the character of any room opening by encasing the area around doors or windows where the frame meets the drywall. It hides gaps and breathes life into your room. This pine casing is easy to work with and is primed for easy painting. Casings are available in many different sizes and styles to suit your decor, budget and style of home.",
+    "is_bestseller": true,
+    "feature_bullets": [
+      "Available in a pack of 5",
+      "Conceals gaps around doors and windows neatly",
+      "Durable pine finger-jointed wood"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finger-jointed pine has workability like solid pine.",
+      "Primed surface - ready to paint",
+      "Coated with a high hide water based primer allowing for superior paint adherence",
+      "Use for trimming inside and outside window and door openings"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a9c51cc5-0ae9-4c6d-8506-9306adafd595/svn/primed-white-unbranded-window-door-kits-l412a-93086cdpk-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25636064-96ce-4b9c-b4d0-bc1efc1828f0/svn/primed-white-unbranded-window-door-kits-l412a-93086cdpk-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a9c51cc5-0ae9-4c6d-8506-9306adafd595/svn/primed-white-unbranded-window-door-kits-l412a-93086cdpk-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 46,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint,Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "412"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Guaranteed against manufacturing defects."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "86 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Window & Door Kits",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Window-Door-Kits/N-5yc1vZclg3"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

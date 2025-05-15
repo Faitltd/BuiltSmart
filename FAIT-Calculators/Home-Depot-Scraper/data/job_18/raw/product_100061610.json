@@ -1,0 +1,289 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13996,
+    "overage_used": 3996,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-5947-3-8-in-x-1-1-4-in-x-7-ft-PVC-Composite-White-Colonial-Stop-Molding-MLDP00X01WM947WH/100061610"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:56.718Z",
+    "processed_at": "2025-05-01T17:51:05.255Z",
+    "total_time_taken": 8.54,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-5947-3-8-in-x-1-1-4-in-x-7-ft-PVC-Composite-White-Colonial-Stop-Molding-MLDP00X01WM947WH/100061610"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-5947-3-8-in-x-1-1-4-in-x-7-ft-PVC-Composite-White-Colonial-Stop-Molding-MLDP00X01WM947WH/100061610",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Royal-Mouldings/N-5yc1vZclf5Z8ui",
+    "title": "Royal Mouldings 5947 3/8 in. x 1-1/4 in. x 7 ft. PVC Composite White Colonial Stop Molding",
+    "upc": "070673534126",
+    "item_id": "100061610",
+    "parent_id": "334511113",
+    "store_sku": "901600",
+    "model_number": "MLDP00X01WM947WH",
+    "description": "PVC moulding offers both practicality and visual appeal. It arrives pre-finished and ready to install, so no painting is necessary. However, for a consistent color throughout, we recommend using a 100% acrylic latex paint. PVC is highly durable, resisting moisture and natural elements, which makes it perfect for high-humidity areas like bathrooms, as well as exterior applications. Its easy-to-clean surface ensures long-lasting beauty and functionality.",
+    "favorite_count": 282,
+    "feature_bullets": [
+      "Moisture and termite resistance provides safety",
+      "Cellular vinyl finish makes it last long and resist wear and tear",
+      "Adds enhanced appeal to the walls of your home"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Prefinished durable white finish withstands dents and scratches",
+      "Will not crack, split or warp",
+      "Resists damage from moisture, rot and termites",
+      "Low-maintenance",
+      "Great for interior and exterior",
+      "Easy to install using nails or construction adhesive - not included",
+      "84 in. Length",
+      "Manufactured by Royal Moldings"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/eac0d794-19d8-4805-85ec-57803bc3488d/svn/white-royal-mouldings-casing-mldp00x01wm947wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6fb80268-9138-4638-ac67-72900a749e85/svn/white-royal-mouldings-casing-mldp00x01wm947wh-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/88957062-a9ef-47cc-a7f1-738fcf76e628/svn/white-royal-mouldings-casing-mldp00x01wm947wh-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/feef258f-b06e-44f5-89cf-c9aa54f681f2/svn/white-royal-mouldings-casing-mldp00x01wm947wh-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d97614ad-e912-4443-b869-ae16875b5a88/svn/white-royal-mouldings-casing-mldp00x01wm947wh-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a9283447-cc6d-41f7-b4c2-b8c544494960/svn/white-royal-mouldings-casing-mldp00x01wm947wh-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/558ba072-74f4-44c6-ac58-dde0d9c9c4fb/svn/white-royal-mouldings-casing-mldp00x01wm947wh-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/735d9da1-9162-4c2f-9490-f9caf15dafd0/svn/white-royal-mouldings-casing-mldp00x01wm947wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6cb7bbc8-1021-4700-b3c5-cceae0dc4f5b/svn/white-royal-mouldings-casing-mldp00x01wm947wh-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/eac0d794-19d8-4805-85ec-57803bc3488d/svn/white-royal-mouldings-casing-mldp00x01wm947wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 292,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Stop Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "5947"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.125 in"
+      }
+    ],
+    "keywords_list": [
+      "stop moulding",
+      "door stop moulding",
+      "moulding",
+      "door moulding",
+      "paintable stop moulding",
+      "paintable moulding",
+      "polymer stop moulding",
+      "polymer moulding"
+    ],
+    "keywords": "stop moulding, door stop moulding, moulding, door moulding, paintable stop moulding, paintable moulding, polymer stop moulding, polymer moulding",
+    "variants": [
+      {
+        "title": "Espresso~~7 ft~~PVC~~1",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-5947-3-8-in-x-1-1-4-in-x-7-ft-PVC-Composite-Colonial-Stop-Espresso-Moudling-MLDP00X01WM947ES/202089978",
+        "item_id": "202089978"
+      },
+      {
+        "title": "Highlands Oak~~7 ft~~PVC~~1",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-5947-3-8-in-x-1-1-4-in-x-7-ft-PVC-Composite-Colonial-Cap-Highlands-Oak-Molding-MLDP00X01WM947HO/100081678",
+        "item_id": "100081678"
+      },
+      {
+        "title": "Gunstock~~7 ft~~PVC~~1",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-5947-3-8-in-x-1-1-4-in-x-7-ft-PVC-Composite-Colonial-Stop-Gunstock-Molding-MLDP00X01WM947GS/202089984",
+        "item_id": "202089984"
+      },
+      {
+        "title": "White~~7 ft~~PVC~~1",
+        "link": "https://www.homedepot.com/p/Royal-Mouldings-5947-3-8-in-x-1-1-4-in-x-7-ft-PVC-Composite-White-Colonial-Stop-Molding-MLDP00X01WM947WH/100061610",
+        "item_id": "100061610"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "1749",
+          "in_stock": true,
+          "stock_level": 35,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1895,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

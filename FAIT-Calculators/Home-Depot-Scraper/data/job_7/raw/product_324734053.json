@@ -1,0 +1,275 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13288,
+    "overage_used": 3288,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GRK-Fasteners-8-x-3-1-8-in-Pheinox-Stainless-Steel-Star-Drive-Trim-Head-Fin-Trim-Finishing-Screw-385-Pack-36734/324734053"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:52:04.629Z",
+    "processed_at": "2025-05-01T13:52:08.904Z",
+    "total_time_taken": 4.28,
+    "homedepot_url": "https://www.homedepot.com/p/GRK-Fasteners-8-x-3-1-8-in-Pheinox-Stainless-Steel-Star-Drive-Trim-Head-Fin-Trim-Finishing-Screw-385-Pack-36734/324734053"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GRK-Fasteners-8-x-3-1-8-in-Pheinox-Stainless-Steel-Star-Drive-Trim-Head-Fin-Trim-Finishing-Screw-385-Pack-36734/324734053",
+    "brand": "GRK Fasteners",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/GRK-Fasteners/N-5yc1vZ2fkpe61Z8ta",
+    "title": "GRK Fasteners #8 x 3-1/8 in. Pheinox Stainless Steel Star Drive Trim Head Fin/Trim Finishing Screw (385-Pack)",
+    "upc": "772691367341",
+    "item_id": "324734053",
+    "parent_id": "326564505",
+    "store_sku": "1004099452",
+    "model_number": "36734",
+    "description": "PHEINOX stainless steel screws are made from only the best grade of stainless steel wire, 305. The unique characteristics of the PHEINOX wire give our stainless steel screws unmatched performance, by maximizing both torque and increasing bending strength. GRK recommends PHEINOX 305 stainless steel screws for applications that require superior corrosion resistance in wet environments such as decks, boardwalks, pools and hot tubs. PHEINOXTM 305 stainless is also recommended for use with cedar, red-wood and various other wood substrates that have higher acid content as well as for composite deck boards. PHEINOXTM 305 stainless steel screws are recommended for applications located more than 1 mile from the coast.",
+    "feature_bullets": [
+      "GRK finish trim screws for molding, baseboard, cabinetry and trim",
+      "GRK finish trim screws with star drive to eliminate bit stripping",
+      "GRK finish trim screws for decking, fencing and window trim"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Recessed star drive allows for zero stripping with 6 points of contact",
+      "Trim head allows for clean finish",
+      "Low torque, smoother drive",
+      "No pre-drilling allows faster penetration"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e242d533-0e31-422b-b6be-3ca8a7d51e27/svn/grk-fasteners-deck-screws-36734-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0fbf936b-0866-4d2b-8fcc-4ca36b4fb84d/svn/grk-fasteners-deck-screws-36734-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecaf1e24-136b-4406-9efc-e54f71d31263/svn/grk-fasteners-deck-screws-36734-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4997a236-049f-4db0-aef8-76b6495452fa/svn/grk-fasteners-deck-screws-36734-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/697092ff-0dc5-41cf-b600-fd9d1d186bef/svn/grk-fasteners-deck-screws-36734-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc9be0b1-2534-463e-841f-0964d7c22cbd/svn/grk-fasteners-deck-screws-36734-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c9a0e78d-f542-4a4b-a7d3-6ffe6022c042/svn/grk-fasteners-deck-screws-36734-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/edbeef26-06e3-4368-91e5-8f52444236bd/svn/grk-fasteners-deck-screws-36734-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/64e992f1-bd95-40f4-9e38-d7e2553270df/svn/grk-fasteners-deck-screws-36734-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e242d533-0e31-422b-b6be-3ca8a7d51e27/svn/grk-fasteners-deck-screws-36734-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/195f04f7-65d8-4eec-b19a-3207a4cdb05e/e2c8ff5b-a77e-4d7e-b99d-01a2e03f5a06/main.mp4?fastly_token=NjgzODY4YzlfMDQ3ZGE0YjU3NmJlMGFlMGI4Njg3OGE2NGZjZmUxMDdkMzQ4NDk4YjBlZTAyMjM5ZmZiZTkwOGRhZjMzZmMwMV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xOTVmMDRmNy02NWQ4LTRlZWMtYjE5YS0zMjA3YTRjZGIwNWUvZTJjOGZmNWItYTc3ZS00ZDdlLWI5OWQtMDFhMmUwM2Y1YTA2L21haW4ubXA0&pubid=66036796001",
+        "title": "GRK FinTrim Screws",
+        "id": "6220557290001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/195f04f7-65d8-4eec-b19a-3207a4cdb05e/210a12e4-6ac0-484a-aa78-6a67baf73923/160x90/match/image.jpg?pubId=66036796001",
+        "description": "GRK Finish Trim Screws are an excellent choice for most fine carpentry applications. They are also ideal for the installation of window extension jambs and molding. GRK FIN/Trim Screws offer Climatek coating for corrosion protection and feature Zip T"
+      }
+    ],
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Polymeric Zinc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated,Self Tapping"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Trim Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "385"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "3.6 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "2 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "W-Cut Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "12 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Visit our website at grkfasteners.com and type in warranty in the search box for detailed warranty information"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3-1/8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#8"
+      }
+    ],
+    "size": "#8",
+    "variants": [
+      {
+        "title": "3-1/8 in~~#10~~Silver~~0.02 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-10-x-3-1-8-in-Star-Drive-Bugle-Head-Pheinox-305-SS-R4-Multi-Purpose-Wood-Screw-1-500-Pack-25137/324707849",
+        "item_id": "324707849"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Brass~~3.3 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-R4-10-x-2-1-2-in-Star-Drive-Bugle-Head-Pheinox-305-SS-R4-Multi-Purpose-Wood-Screw-240-Pack-61633/326594768",
+        "item_id": "326594768"
+      },
+      {
+        "title": "3-1/8 in~~#8~~Brass~~3.6 lb",
+        "link": "https://www.homedepot.com/p/GRK-Fasteners-8-x-3-1-8-in-Pheinox-Stainless-Steel-Star-Drive-Trim-Head-Fin-Trim-Finishing-Screw-385-Pack-36734/324734053",
+        "item_id": "324734053"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 124.47,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

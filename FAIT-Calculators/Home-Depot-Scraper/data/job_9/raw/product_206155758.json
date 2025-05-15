@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13651,
+    "overage_used": 3651,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Handprint-5-8-in-x-2-ft-x-4-ft-Particleboard-Project-Panel-224437/206155758"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:52:46.622Z",
+    "processed_at": "2025-05-01T16:52:52.034Z",
+    "total_time_taken": 5.41,
+    "homedepot_url": "https://www.homedepot.com/p/Handprint-5-8-in-x-2-ft-x-4-ft-Particleboard-Project-Panel-224437/206155758"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Handprint-5-8-in-x-2-ft-x-4-ft-Particleboard-Project-Panel-224437/206155758",
+    "brand": "Handprint",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Handprint/N-5yc1vZc7hmZubm",
+    "title": "Handprint 5/8 in. x 2 ft. x 4 ft. Particleboard Project Panel",
+    "upc": "090489371487",
+    "item_id": "206155758",
+    "store_sku": "1000040067",
+    "model_number": "224437",
+    "description": "For convenience and creativity, Handprint's particleboard is as versatile as it is easy to work and ready to customize. Featuring clean, smooth faces and edges, this project component is perfect for a wide variety of home DIY and decor projects. Loved by makers and DIYers alike, we take the hard work out of home projects - but leave all the satisfaction in.",
+    "favorite_count": 264,
+    "aisle": "FW",
+    "bay": "010",
+    "feature_bullets": [
+      "One (1), 5/8\"-thick (nom.), rectangular, particleboard panel",
+      "Versatile, project-ready component sized for DIY and home decor",
+      "Ideal for indoor applications; easy to handle/transport and store"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Actual dimensions: 0.60\" x 23.75\" x 47.75\" Tolerance: +/- 1/4\"",
+      "Weight: Approx. 22.6 lbs",
+      "Mixed species; CARB Phase 2 compliant",
+      "Smooth, unfinished front and&nbsp;back; edges have even cuts; square-cut corners, perpendicular to edges",
+      "Free of visible defects such as large chips, splits, scratches, and fiber tear-outs",
+      "Recommended for indoor use; if using outside, seal with a weather-protectant finish and place in a covered or protected area",
+      "Ready to customize with the finishes of your choice, including paint vinyl decals, and sealant; stain is not recommended",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/UNIVERSAL FOREST PRODUCT/2813293.jpg\">"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/97aee43e-1a36-4725-9297-a449123afd5d/svn/handprint-project-panels-224437-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6144a632-b4a4-486e-9177-9973d1fd4bcc/svn/handprint-project-panels-224437-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bf509929-370c-4e7f-b2a8-24e8b22ca1c2/svn/handprint-project-panels-224437-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dd7bf0c1-3911-4011-a3d2-6230c51e499d/svn/handprint-project-panels-224437-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b4068dd5-b926-4b22-831e-10dbd30bf0f4/svn/handprint-project-panels-224437-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2cf18cf0-3c4d-4049-a155-6f8875697a74/svn/handprint-project-panels-224437-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e9fa0312-33c5-4bc4-9f1c-e5ab6206694f/svn/handprint-project-panels-224437-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/97aee43e-1a36-4725-9297-a449123afd5d/svn/handprint-project-panels-224437-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/60c6f0d8-6d6c-4313-bc15-c51a30a14ca0/main.mp4?fastly_token=NjgzODI2ZTdfNDk4ZDU0NTUzODA5Y2M5MTExNjZkZTI4NzgwOWNhMWE2MTQzZmMxMWM5YzIwOTMxYWFlNjRjNDQ1NzdiNTIyNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNTA4NDE5ZS1hNzlmLTQwMmEtOGRiZC02ODQyNDdjMGU3OWIvNjBjNmYwZDgtNmQ2Yy00MzEzLWJjMTUtYzUxYTMwYTE0Y2EwL21haW4ubXA0&pubid=66036796001",
+        "title": "Handprint Overview",
+        "id": "6298378923001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/main/160x90/15s40ms/match/image.jpg?pubId=66036796001",
+        "description": "Brand Overview"
+      }
+    ],
+    "ratings_total": 463,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "MDF"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "48.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "23.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "5/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 21
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 27,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

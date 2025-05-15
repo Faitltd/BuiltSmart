@@ -1,0 +1,118 @@
+.footer {
+  background-color: #222034;
+  padding: 2rem 0;
+  border-top: 4px solid #ff004d;
+  margin-top: 3rem;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.footer-section {
+  flex: 1;
+  min-width: 250px;
+}
+
+.footer-section h3 {
+  color: #ff004d;
+  margin-bottom: 1rem;
+  font-family: 'Press Start 2P', cursive, sans-serif;
+  font-size: 1rem;
+}
+
+.footer-section p {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-links a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-links a:hover {
+  color: #ff004d;
+}
+
+.footer-button {
+  background: none;
+  border: none;
+  color: white;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  text-align: left;
+  transition: color 0.3s;
+}
+
+.footer-button:hover {
+  color: #ff004d;
+}
+
+.social-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: #ff004d;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: all 0.3s;
+  border: 2px solid #ff004d;
+}
+
+.social-link:hover {
+  background-color: transparent;
+  color: #ff004d;
+}
+
+.copyright {
+  width: 100%;
+  text-align: center;
+  color: white;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.pixel-heart {
+  color: #ff004d;
+  font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+  }
+  
+  .footer-section {
+    width: 100%;
+  }
+}

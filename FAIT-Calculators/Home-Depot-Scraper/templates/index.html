@@ -1,0 +1,306 @@
+{% extends "base.html" %}
+
+{% block title %}Home Depot Scraper{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-12">
+        <div class="card pixel-border">
+            <div class="card-header bg-primary text-white">
+                <div class="d-flex align-items-center">
+                    <div class="hd-logo me-3" style="width: 40px; height: 40px;"></div>
+                    <h2 class="mb-0" style="font-family: 'Press Start 2P', cursive; font-size: 1.2rem; text-shadow: 2px 2px 0 #000;">NEW SCRAPER JOB</h2>
+                </div>
+            </div>
+            <div class="card-body">
+                <form id="scraper-form">
+
+
+                    <!-- Search Type Selection -->
+                    <div class="form-group mb-4">
+                        <label for="search-type">Search Type</label>
+                        <select class="form-control" id="search-type" name="search_type" required>
+                            {% for key, value in search_types.items() %}
+                            <option value="{{ key }}">{{ value }}</option>
+                            {% endfor %}
+                        </select>
+                        <small class="form-text text-muted">Select how you want to search for products</small>
+                    </div>
+
+                    <!-- Search Type Specific Options -->
+                    <div id="search-type-options">
+                        <!-- Category Search Options -->
+                        <div id="category-options" class="search-options">
+                            <div class="form-group mb-3">
+                                <label for="category-id">Category</label>
+                                <select class="form-control" id="category-id" name="category_id">
+                                    <option value="">Select a category</option>
+                                    <option value="Appliances">Appliances</option>
+                                    <option value="Bath & Faucets">Bath & Faucets</option>
+                                    <option value="Blinds & Window Treatments">Blinds & Window Treatments</option>
+                                    <option value="Building Materials">Building Materials</option>
+                                    <option value="Cleaning">Cleaning</option>
+                                    <option value="Decor & Furniture">Decor & Furniture</option>
+                                    <option value="Electrical">Electrical</option>
+                                    <option value="Flooring & Area Rugs">Flooring & Area Rugs</option>
+                                    <option value="Hardware">Hardware</option>
+                                    <option value="Heating & Cooling">Heating & Cooling</option>
+                                    <option value="Kitchen">Kitchen</option>
+                                    <option value="Lawn & Garden">Lawn & Garden</option>
+                                    <option value="Lighting & Ceiling Fans">Lighting & Ceiling Fans</option>
+                                    <option value="Outdoor Living">Outdoor Living</option>
+                                    <option value="Paint">Paint</option>
+                                    <option value="Plumbing">Plumbing</option>
+                                    <option value="Storage & Organization">Storage & Organization</option>
+                                    <option value="Tools">Tools</option>
+                                    <option value="Automotive">Automotive</option>
+                                    <option value="Furniture">Furniture</option>
+                                    <option value="Smart Home">Smart Home</option>
+                                    <option value="Holiday Decorations">Holiday Decorations</option>
+                                </select>
+                                <small class="form-text text-muted">Select a Home Depot category to scrape</small>
+                            </div>
+                        </div>
+
+                        <!-- Search Term Options -->
+                        <div id="search-term-options" class="search-options">
+                            <div class="form-group mb-3">
+                                <label for="search-terms">Search Terms</label>
+                                <textarea class="form-control" id="search-terms" name="search_terms" rows="5" placeholder="Enter one search term per line"></textarea>
+                                <small class="form-text text-muted">Enter search terms, one per line</small>
+                            </div>
+                            <div class="form-group mb-3">
+                                <label for="sort-by">Sort By</label>
+                                <select class="form-control" id="sort-by" name="sort_by">
+                                    <option value="best_seller">Best Seller</option>
+                                    <option value="top_rated">Top Rated</option>
+                                    <option value="price_low">Price (Low to High)</option>
+                                    <option value="price_high">Price (High to Low)</option>
+                                </select>
+                                <small class="form-text text-muted">How to sort search results</small>
+                            </div>
+                        </div>
+
+                        <!-- URL List Options -->
+                        <div id="url-list-options" class="search-options">
+                            <div class="form-group mb-3">
+                                <label for="urls">Product URLs</label>
+                                <textarea class="form-control" id="urls" name="urls" rows="10" placeholder="Enter one URL per line"></textarea>
+                                <small class="form-text text-muted">Enter Home Depot product URLs, one per line</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Scraper Limits -->
+                    <div class="row mb-4">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="max-pages">Maximum Pages</label>
+                                <input type="number" class="form-control" id="max-pages" name="max_pages" min="1" value="5">
+                                <small class="form-text text-muted">Maximum number of pages to scrape per category/search term</small>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="max-products">Maximum Products</label>
+                                <select class="form-control" id="max-products" name="max_products">
+                                    <option value="0">ALL</option>
+                                    <option value="1">1</option>
+                                    <option value="10">10</option>
+                                    <option value="25">25</option>
+                                    <option value="50">50</option>
+                                    <option value="75">75</option>
+                                    <option value="100" selected>100</option>
+                                    <option value="150">150</option>
+                                    <option value="200">200</option>
+                                    <option value="300">300</option>
+                                    <option value="400">400</option>
+                                    <option value="500">500</option>
+                                    <option value="1000">1000</option>
+                                </select>
+                                <small class="form-text text-muted">Maximum number of products to scrape in total</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- CSV Header Customization - Midcentury Modern Style -->
+                    <div class="card mb-4 shadow-sm">
+                        <div class="card-header" style="background-color: #e67e22; border: none;">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link text-white" type="button" data-bs-toggle="collapse" data-bs-target="#csvHeadersCollapse" style="text-decoration: none; font-family: 'Poppins', sans-serif; font-weight: 500; font-size: 1rem;">
+                                    <i class="fas fa-sliders me-2"></i> Customize CSV Headers
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="csvHeadersCollapse" class="collapse">
+                            <div class="card-body">
+                                <div class="alert alert-info mb-4">
+                                    <i class="fas fa-info-circle me-2"></i> Customize how your data will appear in the exported CSV file. The fields below have been pre-filled with standardized names.
+                                </div>
+
+                                <div class="table-responsive">
+                                    <table class="table">
+                                        <thead class="table-dark">
+                                            <tr>
+                                                <th>Data Field</th>
+                                                <th>Custom Header Name</th>
+                                                <th>Description</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {% for header in default_csv_headers %}
+                                            <tr>
+                                                <td style="font-family: 'Poppins', sans-serif; font-weight: 500;">{{ header }}</td>
+                                                <td>
+                                                    <input type="text" class="form-control" name="csv_header_{{ header }}"
+                                                           value="{{ standard_csv_headers[header] }}"
+                                                           placeholder="Custom name for {{ header }}">
+                                                </td>
+                                                <td class="text-muted" style="font-family: 'Poppins', sans-serif; font-weight: 300;">
+                                                    {% if header == 'product_name' %}
+                                                        The name of the product
+                                                    {% elif header == 'sku' %}
+                                                        Product SKU/ID from Home Depot
+                                                    {% elif header == 'item_id' %}
+                                                        Home Depot's internal item ID
+                                                    {% elif header == 'model_number' %}
+                                                        Manufacturer's model number
+                                                    {% elif header == 'upc' %}
+                                                        Universal Product Code
+                                                    {% elif header == 'url' %}
+                                                        Link to the product page
+                                                    {% elif header == 'price' %}
+                                                        Product price (default: Rate)
+                                                    {% elif header == 'currency' %}
+                                                        Currency of the price
+                                                    {% elif header == 'unit' %}
+                                                        Unit of measurement
+                                                    {% elif header == 'details' %}
+                                                        Product description
+                                                    {% elif header == 'specifications' %}
+                                                        Technical specifications
+                                                    {% elif header == 'brand' %}
+                                                        Product manufacturer
+                                                    {% elif header == 'images' %}
+                                                        Product image URL
+                                                    {% elif header == 'markup' %}
+                                                        Default markup percentage
+                                                    {% elif header == 'supplier' %}
+                                                        Source of the product
+                                                    {% elif header == 'cost' %}
+                                                        Product cost (same as price)
+                                                    {% else %}
+                                                        Additional product information
+                                                    {% endif %}
+                                                </td>
+                                            </tr>
+                                            {% endfor %}
+                                        </tbody>
+                                    </table>
+                                </div>
+
+                                <div class="d-flex justify-content-end mt-4">
+                                    <button type="button" class="btn btn-secondary" data-bs-toggle="collapse" data-bs-target="#csvHeadersCollapse">
+                                        <i class="fas fa-check me-2"></i> Apply Changes
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <div class="form-group text-center">
+                        <button type="submit" class="btn btn-primary btn-lg">Start Scraping</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function() {
+
+
+        // Show/hide search type options based on selection
+        function updateSearchTypeOptions() {
+            const searchType = $('#search-type').val();
+            $('.search-options').hide();
+
+            if (searchType === 'category') {
+                $('#category-options').show();
+            } else if (searchType === 'search_term') {
+                $('#search-term-options').show();
+            } else if (searchType === 'url_list') {
+                $('#url-list-options').show();
+                // Set default max products to 1 for URL search
+                $('#max-products').val('1');
+            }
+        }
+
+        // Initial update
+        updateSearchTypeOptions();
+
+        // Update on change
+        $('#search-type').change(updateSearchTypeOptions);
+
+        // Form submission
+        $('#scraper-form').submit(function(e) {
+            e.preventDefault();
+
+            // Collect form data
+            const formData = {
+                output_dir: 'data', // Use default output directory
+                search_type: $('#search-type').val(),
+                max_pages: parseInt($('#max-pages').val()),
+                max_products: parseInt($('#max-products').val())
+            };
+
+            // Add search type specific data
+            if (formData.search_type === 'category') {
+                formData.category_id = $('#category-id').val();
+            } else if (formData.search_type === 'search_term') {
+                formData.search_terms = $('#search-terms').val().split('\n').filter(term => term.trim() !== '');
+                formData.sort_by = $('#sort-by').val();
+            } else if (formData.search_type === 'url_list') {
+                formData.urls = $('#urls').val().split('\n').filter(url => url.trim() !== '');
+            }
+
+            // Collect all CSV headers (including standardized ones)
+            const csvHeaders = {};
+            $('#csv-headers input').each(function() {
+                const name = $(this).attr('name');
+                const value = $(this).val();
+
+                // Extract the original header name from the input name
+                const originalHeader = name.replace('csv_header_', '');
+
+                // Include all non-empty values
+                if (value) {
+                    csvHeaders[originalHeader] = value;
+                }
+            });
+
+            // Always include the headers in the form data
+            formData.csv_headers = csvHeaders;
+
+            // Submit the job
+            $.ajax({
+                url: '/api/start_job',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(formData),
+                success: function(response) {
+                    // Redirect to job details page
+                    window.location.href = '/job/' + response.job_id;
+                },
+                error: function(xhr, status, error) {
+                    alert('Error starting job: ' + (xhr.responseJSON?.error || error));
+                }
+            });
+        });
+    });
+</script>
+{% endblock %}

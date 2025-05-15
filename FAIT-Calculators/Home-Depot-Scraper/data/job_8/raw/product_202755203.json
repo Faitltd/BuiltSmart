@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13519,
+    "overage_used": 3519,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grip-Rite-9-x-2-1-2-in-Star-Drive-PrimeGuard-Plus-Pancake-Head-Composite-Deck-Screws-5-lb-Box-N212CST5/202755203"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:46:26.241Z",
+    "processed_at": "2025-05-01T16:46:30.862Z",
+    "total_time_taken": 4.62,
+    "homedepot_url": "https://www.homedepot.com/p/Grip-Rite-9-x-2-1-2-in-Star-Drive-PrimeGuard-Plus-Pancake-Head-Composite-Deck-Screws-5-lb-Box-N212CST5/202755203"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grip-Rite-9-x-2-1-2-in-Star-Drive-PrimeGuard-Plus-Pancake-Head-Composite-Deck-Screws-5-lb-Box-N212CST5/202755203",
+    "brand": "Grip-Rite",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/Grip-Rite/N-5yc1vZ2fkpe6aZ5kt",
+    "title": "Grip-Rite #9 x 2-1/2 in. Star Drive PrimeGuard Plus Pancake Head Composite Deck Screws 5 lb. Box",
+    "upc": "764666620155",
+    "item_id": "202755203",
+    "store_sku": "292045",
+    "model_number": "N212CST5",
+    "description": "Grip-Rite N212CST5 #9 x 2-1/2 in. Star Drive PrimeGuard Plus Pancake Head Composite Deck Screws are designed for attaching composite decking material to wood substrates. Coarse threads and T17 point ensure fast driving with no bulging in non-wood deck boards. Brown polymer coating blends in with many manufactured decking products and provides a barrier against corrosion from treated products.",
+    "aisle": "17",
+    "bay": "011",
+    "feature_bullets": [
+      "#9 x 2-1/2 in. pancake head composite deck screw",
+      "Hand drive fastener for attaching composite decking material",
+      "Made from steel for strength and durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used for deck building with composite deck materials",
+      "Durable steel construction",
+      "Polymer coating prevents corrosion",
+      "#9 x 2-1/2 in. deck screws",
+      "Star drive for a tighter tool-tip connection",
+      "T 17 self-driving tip removes the need for pre-drilling",
+      "5 lb. box includes around 375 #9 x 2-1/2 in. deck screws",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ebc425a6-5009-41ec-9988-84316c8df1bd/svn/grip-rite-composite-deck-screws-n212cst5-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0e3fe508-3bfa-4d62-a179-d27c26d88af4/svn/grip-rite-composite-deck-screws-n212cst5-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5db8dd34-ee3d-4081-b6ac-4c6921dc418e/svn/grip-rite-composite-deck-screws-n212cst5-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/810a68b3-3f79-4170-8b65-37ee4e69a9af/svn/grip-rite-composite-deck-screws-n212cst5-a0_1000.jpg",
+        "type": "image_top_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ebc425a6-5009-41ec-9988-84316c8df1bd/svn/grip-rite-composite-deck-screws-n212cst5-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 70,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish",
+        "value": "Other"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Bugle Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "375"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#9"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Thread Pitch (mm)",
+        "value": "9 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Threads Per Inch (TPI)",
+        "value": "0.1024"
+      }
+    ],
+    "size": "#9",
+    "keywords_list": [
+      "#9 x 2-1/2 in. Coarse Tan Polymer-Plated Steel Square-Drive Composite Deck Screws (5 lb. Pack)",
+      "N212CST5"
+    ],
+    "keywords": "#9 x 2-1/2 in. Coarse Tan Polymer-Plated Steel Square-Drive Composite Deck Screws (5 lb. Pack), N212CST5",
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 38.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 6
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

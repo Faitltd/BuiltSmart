@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13968,
+    "overage_used": 3968,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-11-16-in-x-96-in-White-Hardwood-Panel-Colonial-Moulding-40-8WHW/202534033"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:49:29.318Z",
+    "processed_at": "2025-05-01T17:49:33.621Z",
+    "total_time_taken": 4.3,
+    "homedepot_url": "https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-11-16-in-x-96-in-White-Hardwood-Panel-Colonial-Moulding-40-8WHW/202534033"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-11-16-in-x-96-in-White-Hardwood-Panel-Colonial-Moulding-40-8WHW/202534033",
+    "brand": "Ornamental Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/Ornamental-Mouldings/N-5yc1vZcbjjZ2js",
+    "title": "Ornamental Mouldings 5/16 in. x 11/16 in. x 96 in. White Hardwood Panel Colonial Moulding",
+    "upc": "009215000225",
+    "item_id": "202534033",
+    "parent_id": "327515256",
+    "store_sku": "745632",
+    "model_number": "40-8WHW",
+    "description": "Our White Hardwood Panel Colonial Moulding is ideal for small craft projects or for providing architectural detailing on a larger scale. Traditionally used as a panel moulding, this profile is also an ideal finishing trim for furniture or cabinetry. A wonderfully versatile little moulding with almost endless possibilities.",
+    "favorite_count": 370,
+    "feature_bullets": [
+      "Perfect for small craft projects or for architectural detailing",
+      "Use for finishing trim for furniture and cabinetry",
+      "Can be painted or stained for a custom look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from solid white hardwood",
+      "Great as an insert in either of our combination crown mouldings, see profiles 1788 and 712 for more information",
+      "Sold in convenient 8 ft. length",
+      "96 in. L",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/598f5f4e-06f4-44c0-b588-d72e59c86d67/svn/unfinished-ornamental-mouldings-chair-rail-40-8whw-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3bc77ca4-ffb8-430a-890d-c9eb89035b19/svn/unfinished-ornamental-mouldings-chair-rail-40-8whw-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/598f5f4e-06f4-44c0-b588-d72e59c86d67/svn/unfinished-ornamental-mouldings-chair-rail-40-8whw-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 47,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Panel Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "40"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.313 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.688 in"
+      }
+    ],
+    "keywords_list": [
+      "Ornamental Mouldings 8 ft. x 11/16 in. x 5/16 in. White Hardwood Colonial Moulding",
+      "40-8WHW"
+    ],
+    "keywords": "Ornamental Mouldings 8 ft. x 11/16 in. x 5/16 in. White Hardwood Colonial Moulding, 40-8WHW",
+    "variants": [
+      {
+        "title": "Unfinished~~8 ft",
+        "link": "https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-11-16-in-x-96-in-White-Hardwood-Panel-Colonial-Moulding-40-8WHW/202534033",
+        "item_id": "202534033"
+      },
+      {
+        "title": "Unfinished~~3.96 ft",
+        "link": "https://www.homedepot.com/p/Ornamental-Mouldings-40-4WHW-312in-D-X-687in-W-X-47-5-in-L-Unfinished-White-Hardwood-Colonial-Chair-Rail-Moulding-40-4WHW/325612853",
+        "item_id": "325612853"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Chair Rail",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/N-5yc1vZcbjj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.75,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 603,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 603,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14467,
+    "overage_used": 4467,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Face-Mount-Joist-Hanger-for-6x12-Nominal-Lumber-HU612/204842345"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:41:48.308Z",
+    "processed_at": "2025-05-01T18:41:54.697Z",
+    "total_time_taken": 6.39,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Face-Mount-Joist-Hanger-for-6x12-Nominal-Lumber-HU612/204842345"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-HU-Galvanized-Face-Mount-Joist-Hanger-for-6x12-Nominal-Lumber-HU612/204842345",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/Simpson-Strong-Tie/N-5yc1vZaqxbZ615",
+    "title": "Simpson Strong-Tie HU Galvanized Face-Mount Joist Hanger for 6x12 Nominal Lumber",
+    "upc": "044315413001",
+    "item_id": "204842345",
+    "model_number": "HU612",
+    "description": "Simpson Strong-Tie connectors make projects easier to build while making them stronger and safer. They are engineered and tested to perform and are manufactured to the highest quality standards. The HU is designed for structures requiring additional strength and safety factors. Some models of this heavy-duty, face-mount hanger can be special ordered with a skewable seat and a seat that slopes as far as up to 45-degrees.",
+    "feature_bullets": [
+      "Industry leader in structural hardware engineering since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line for DIY and residential"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Extra optional triangle holes for additional load",
+      "HU-series hangers are tested, load rated and code compliant",
+      "U design allows for flexibility of placement on the header",
+      "Nominal joist size: 6x12",
+      "Seat width: 5-1/2-in",
+      "Made from 14-Gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with 0.162 in. x 3-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">16DHDG</a>)"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fdbf1f24-e48f-4b9f-a723-c7537a8ce5d9/svn/simpson-strong-tie-joist-hangers-hu612-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/58a05a40-fb5c-41af-8d85-5a5e00e0f714/svn/simpson-strong-tie-joist-hangers-hu612-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e3092318-2b79-4faf-a36d-1de327baccbe/svn/simpson-strong-tie-joist-hangers-hu612-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-joist-hangers-hu612-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-joist-hangers-hu612-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fdbf1f24-e48f-4b9f-a723-c7537a8ce5d9/svn/simpson-strong-tie-joist-hangers-hu612-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/be551faa-1b46-408f-905b-a33f1135ef4e/5a4778d9-2b93-4c41-981c-0d542f6b37fe/main.mp4?fastly_token=NjgzODMwMGJfMGZjY2Y5NzJlN2M2OTAzYjY2M2EwMzllYzc3OGRiYjU4Njg5ZGFjNzlhZTgzYTc0YjgyMDBiNmIyZDVjYWJkNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iZTU1MWZhYS0xYjQ2LTQwOGYtOTA1Yi1hMzNmMTEzNWVmNGUvNWE0Nzc4ZDktMmI5My00YzQxLTk4MWMtMGQ1NDJmNmIzN2ZlL21haW4ubXA0&pubid=66036796001",
+        "title": "Build a Stronger Deck: Joist Connections",
+        "id": "6183648472001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/be551faa-1b46-408f-905b-a33f1135ef4e/cceca938-b06c-4399-b704-9117aa084d54/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Deck joists may terminate at a beam or ledger, rest on top of the beams, or terminate at the rim board. We highlight the available joist connection options to help you select what\u2019s best for your project."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/6ae74fd8-6deb-4b8f-96af-014cd4fa274a/faf21ee1-3732-4319-a9e4-115444544a25/main.mp4?fastly_token=NjgxMzlkZThfMDExOTI2YmNjODRkMGEwOTk3OWIyZDYwZDdjNGU3YmNlOTg4Mjk5NDUxMmRlYjdjMzNiNjQxZjcwNjA4N2QwZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNmFlNzRmZDgtNmRlYi00YjhmLTk2YWYtMDE0Y2Q0ZmEyNzRhL2ZhZjIxZWUxLTM3MzItNDMxOS1hOWU0LTExNTQ0NDU0NGEyNS9tYWluLm1wNA%3D%3D",
+        "title": "SimsponStrongTie_BRAND_AStrongerBuildingIndustry_External",
+        "id": "6308708159112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/6ae74fd8-6deb-4b8f-96af-014cd4fa274a/f33bc71d-81b9-4312-bcf9-b854c35fc08e/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "14"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Flange Type",
+        "value": "Face Mount Flange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Hanger Modifications",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.27 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Joist Hanger Size",
+        "value": "6x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "9.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "8 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Joist Hangers",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Joist-Hangers/N-5yc1vZaqxb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 28.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 50,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 50,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14931,
+    "overage_used": 4931,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-Not-Included-K-3817-0/203075708"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:43:50.858Z",
+    "processed_at": "2025-05-02T21:43:54.446Z",
+    "total_time_taken": 3.59,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-Not-Included-K-3817-0/203075708"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-Not-Included-K-3817-0/203075708",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/KOHLER/N-5yc1vZcb8nZ1qh",
+    "title": "KOHLER Memoirs 12 in. Rough In 2-Piece 1.28 GPF Single Flush Elongated Toilet in White Seat Not Included",
+    "upc": "650531997814",
+    "item_id": "203075708",
+    "parent_id": "333104336",
+    "model_number": "K-3817-0",
+    "description": "Featuring the elegant architectural look of the Memoirs collection with Stately design, this two-piece toilet combines water-saving flush performance with traditional style. A high-efficiency 1.28 Gal. flush offers up to 16,500 Gal. of water savings per year, compared to a 3.5 Gal. toilet, without compromising flush power. The elongated bowl is positioned at a convenient height for comfort and ease of use.",
+    "favorite_count": 4151,
+    "collection": {
+      "id": "Family-309097955",
+      "name": "Family-309097955",
+      "link": "https://www.homedepot.com/collection/Bath/Memoirs-Collection/Family-309097955?omsid=203075708"
+    },
+    "feature_bullets": [
+      "Made of vitreous, ADA comfort height, 1.28 GPF canister flush",
+      "AquaPiston canister provides powerful and effective flush",
+      "Seat and supply line sold separately"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Want it sooner? Check online for availability of individual components: <a href=\"https://www.homedepot.com/p/t/202982689 \" target=\"_blank\" style=\"color:#F96302;\">202982689</a>, <a href=\"https://www.homedepot.com/p/t/203006158 \" target=\"_blank\" style=\"color:#F96302;\">203006158</a>",
+      "2-piece toilet",
+      "Elongated bowl offers added room and comfort",
+      "Comfort height feature offers chair-height seating that makes sitting down and standing up easier for most adults",
+      "1.28 Gal. per flush (GPF)",
+      "Standard left-hand polished chrome trip lever included",
+      "Seat and supply line not included",
+      "Coordinates with other products in the Memoirs collection",
+      "Single-flush gravity uses the force of gravity and a precision-engineered tank, bowl, and trapway to create a strong siphon during flushing",
+      "AquaPiston canister allows water to flow into the bowl from all sides (360\u00b0), increasing the power and effectiveness of the flush",
+      "Flush valve's 3: 2 ratio harnesses the natural force of gravity and optimizes flush performance",
+      "Durable canister design has 90% less exposed seal material than a 3 in. flapper, for leak-free performance",
+      "Light-touch canister flush requires a lower actuation force than a flapper",
+      "Standard 12 in. rough-in",
+      "3-bolt installation",
+      "Watersense toilets meet strict EPA flushing guidelines, including using at least 20 % less water than 1.6 Gal. toilets",
+      "<img src=\"https://inlinecontent.thdstatic.com/29B/KOHLER COMPANY/zac29308_rgb A2.jpg\">",
+      "<a href=\"https://www.homedepot.com/c/the_best_toilets_for_bath_renovation_HT_BG_BA\" target=\"_blank\" style=\"color:#F96302;\">Features to consider when buying a toilet</a>",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/water-conservation/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Water Conservation</a>",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 20,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/cce5476f-5f14-4de5-a504-c1e5ff8d21df/svn/white-kohler-two-piece-toilets-k-3817-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/957fe4f9-7e9f-4f45-82e7-a33585d815c3/svn/white-kohler-two-piece-toilets-k-3817-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/28d4df29-2ed6-4a92-9f9e-ae49472f144f/svn/white-kohler-two-piece-toilets-k-3817-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4dc5c079-1c04-42c1-8155-84a90d79caa7/svn/white-kohler-two-piece-toilets-k-3817-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bc9a5034-4cbc-4b1d-8d3d-b8002adcda84/svn/white-kohler-two-piece-toilets-k-3817-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/050948f1-b91b-4b0f-bcdc-c34e37815969/svn/white-kohler-two-piece-toilets-k-3817-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3479baf5-300c-464f-9730-fdd05f4d16d7/svn/white-kohler-two-piece-toilets-k-3817-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2ac18179-3cc2-4e80-90b5-0218c564cabc/svn/white-kohler-two-piece-toilets-k-3817-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e7ae36a3-0ae2-4cf3-a349-b57941971ea6/svn/white-kohler-two-piece-toilets-k-3817-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9ae7dd9e-e646-4c77-b457-f9403e04662a/svn/white-kohler-two-piece-toilets-k-3817-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2b652bec-6742-4ce0-9922-42538d82bc10/svn/white-kohler-two-piece-toilets-k-3817-0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e3c999c6-7608-4b0c-a44b-17d4aaf6f3d5/svn/white-kohler-two-piece-toilets-k-3817-0-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b64d7c59-7a8a-4847-9587-67a600895703/svn/white-kohler-two-piece-toilets-k-3817-0-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fc6a0eb5-3d35-4f64-8433-7b238d989dec/svn/white-kohler-two-piece-toilets-k-3817-0-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/cce5476f-5f14-4de5-a504-c1e5ff8d21df/svn/white-kohler-two-piece-toilets-k-3817-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/20e98bc4-4e36-47d6-a784-b3a697c44b73/d409f868-f5ed-4739-ae25-49a1669e905a/main.mp4?fastly_token=NjgxNGU1MThfMjc3YjBiNjliNTZiMzIwNmYwY2FjZDliMzNmNGRjODNlZGM3ZTIwYzMwZWRlMDBkMjhlNWQ4YTdmMDdkODI1Nl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMjBlOThiYzQtNGUzNi00N2Q2LWE3ODQtYjNhNjk3YzQ0YjczL2Q0MDlmODY4LWY1ZWQtNDczOS1hZTI1LTQ5YTE2NjllOTA1YS9tYWluLm1wNA%3D%3D",
+        "title": "How to Replace or Install a Toilet",
+        "id": "110736491001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/20e98bc4-4e36-47d6-a784-b3a697c44b73/98f8effb-bf63-4fc1-bed6-06a21a1e01ce/160x90/match/image.jpg",
+        "description": "Update your bathroom by learning how to replace your toilet with one of many new and modern designs."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a2f528dd-59f8-4a91-8868-c8e828645d17/76c34478-eccd-4f87-b374-253788ce045e/main.mp4?fastly_token=NjgzOTYzMzNfOWRiNzk3MDViMzk3NWE1YmVhMGI2M2Y3NzUwNDFjNTE2OTQ1NGE1Nzc2ZGRmOWM0Yjc0NmM5MjYwOWMwM2IxZl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hMmY1MjhkZC01OWY4LTRhOTEtODg2OC1jOGU4Mjg2NDVkMTcvNzZjMzQ0NzgtZWNjZC00Zjg3LWIzNzQtMjUzNzg4Y2UwNDVlL21haW4ubXA0&pubid=66036796001",
+        "title": "Aqua Piston Flush Technology",
+        "id": "3579486583001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/a2f528dd-59f8-4a91-8868-c8e828645d17/2b14e00b-8c11-4644-b3f0-36509db0c9bc/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Describes Aqua Piston Flush technology by Kohler"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/be80e374-3b49-464a-b984-2c11c57d4b28/cb5f1ab8-31c6-41f3-85d0-87d283c7285d/main.mp4?fastly_token=NjgxNGU0NTlfNjdkZmMyMDdiNTFmYWQ4YjdhMGZhZjE0MzRhYTdiOTU3NGE2YzhiYTllYmMxMmI1MjkyOTg0Yjc0ZDY4ZjA5ZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYmU4MGUzNzQtM2I0OS00NjRhLWI5ODQtMmMxMWM1N2Q0YjI4L2NiNWYxYWI4LTMxYzYtNDFmMy04NWQwLTg3ZDI4M2M3Mjg1ZC9tYWluLm1wNA%3D%3D",
+        "title": "K23AU08165_HeroGreenVideo2MASTER_1920x1080.mp4",
+        "id": "6352544974112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/be80e374-3b49-464a-b984-2c11c57d4b28/main/160x90/7s541ms/match/image.jpg",
+        "description": "From Green, Beauty Blooms. Forever in Color Campaign\n"
+      }
+    ],
+    "ratings_total": 778,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "105 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "No Seat Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.125 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1-Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "30.375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "31.0625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18.875 in"
+      }
+    ],
+    "keywords_list": [
+      "KOHLER",
+      "Memoirs Stately Comfort Height 2-piece Elongated Toilet in White",
+      "K-3817-0"
+    ],
+    "keywords": "KOHLER, Memoirs Stately Comfort Height 2-piece Elongated Toilet in White, K-3817-0",
+    "variants": [
+      {
+        "title": "Black Black~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-Black-Black-Seat-Not-Included-K-3817-7/203075710",
+        "item_id": "203075710"
+      },
+      {
+        "title": "Ice Grey~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-Ice-Grey-Seat-Not-Included-K-3817-95/203075711",
+        "item_id": "203075711"
+      },
+      {
+        "title": "Black Black~~Round~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-in-Black-Black-Seat-Not-Included-K-3933-7/203310027",
+        "item_id": "203310027"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-Not-Included-K-3817-0/203075708",
+        "item_id": "203075708"
+      },
+      {
+        "title": "White~~Round~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-in-White-Seat-Not-Included-K-3933-0/203310025",
+        "item_id": "203310025"
+      },
+      {
+        "title": "Biscuit~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-Biscuit-Seat-Not-Included-K-3817-96/203075712",
+        "item_id": "203075712"
+      },
+      {
+        "title": "Biscuit~~Round~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Memoirs-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-in-Biscuit-Seat-Not-Included-K-3933-96/203310032",
+        "item_id": "203310032"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 342,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 402.99,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 58,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 58,
+          "price": 55,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

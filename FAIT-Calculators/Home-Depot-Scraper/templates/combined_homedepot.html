@@ -1,0 +1,533 @@
+{% extends "base.html" %}
+
+{% block title %}Home Depot Scraper{% endblock %}
+
+{% block styles %}
+<style>
+    .progress {
+        height: 30px;
+        border: 4px solid #000;
+    }
+    .progress-bar {
+        background-color: #f96302;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 0.8rem;
+        text-shadow: 1px 1px 0 #000;
+    }
+    .download-btn {
+        background-color: #f96302;
+        color: #fff;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 0.8rem;
+        border: 4px solid #000;
+        padding: 10px 20px;
+        text-shadow: 1px 1px 0 #000;
+        width: 100%;
+    }
+    .download-btn:hover {
+        background-color: #e55d02;
+        color: #fff;
+    }
+    .table-download-btn {
+        background-color: #f96302;
+        color: #fff;
+        font-family: 'Press Start 2P', cursive;
+        font-size: 0.6rem;
+        border: 2px solid #000;
+        padding: 5px 10px;
+        text-shadow: 1px 1px 0 #000;
+    }
+    .table-download-btn:hover {
+        background-color: #e55d02;
+        color: #fff;
+    }
+    .badge {
+        font-family: 'Press Start 2P', cursive;
+        font-size: 0.6rem;
+        padding: 8px;
+        border: 2px solid #000;
+    }
+    .welcome-message {
+        font-family: 'Press Start 2P', cursive;
+        font-size: 1.2rem;
+        text-align: center;
+        margin-bottom: 30px;
+        color: #f96302;
+        text-shadow: 1px 1px 0 #000;
+    }
+    .section-divider {
+        border-top: 4px dashed #f96302;
+        margin: 40px 0;
+    }
+    .jobs-title {
+        font-family: 'Press Start 2P', cursive;
+        font-size: 1.2rem;
+        color: #fff;
+        text-shadow: 1px 1px 0 #000;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="welcome-message">
+    <div class="d-flex justify-content-center align-items-center mb-3">
+        <div class="hd-logo me-3" style="width: 80px; height: 80px;"></div>
+        <span>WELCOME TO THE HOME DEPOT SCRAPER</span>
+    </div>
+</div>
+
+<!-- NEW JOB FORM SECTION -->
+<div class="row">
+    <div class="col-md-12">
+        <div class="card pixel-border">
+            <div class="card-header bg-primary text-white">
+                <div class="d-flex align-items-center">
+                    <div class="hd-logo me-3" style="width: 40px; height: 40px;"></div>
+                    <h2 class="mb-0" style="font-family: 'Press Start 2P', cursive; font-size: 1.2rem; text-shadow: 2px 2px 0 #000;">NEW SCRAPER JOB</h2>
+                </div>
+            </div>
+            <div class="card-body">
+                <form id="scraper-form">
+                    <div class="row mb-4">
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="search-type">Search Type</label>
+                                <select class="form-control" id="search-type" name="search_type">
+                                    <option value="category">Category</option>
+                                    <option value="search_term">Search Term</option>
+                                    <option value="url_list">URL List</option>
+                                </select>
+                                <small class="form-text text-muted">How to search for products</small>
+                            </div>
+
+                            <!-- Category Options -->
+                            <div id="category-options" class="search-options">
+                                <div class="form-group mb-3">
+                                    <label for="category-id">Category</label>
+                                    <select class="form-control" id="category-id" name="category_id">
+                                        <option value="N-5yc1vZaqns">Building Materials</option>
+                                        <option value="N-5yc1vZbm7n">Lumber & Composites</option>
+                                        <option value="N-5yc1vZbmic">Concrete, Cement & Masonry</option>
+                                        <option value="N-5yc1vZbt4l">Decking</option>
+                                        <option value="N-5yc1vZbt2g">Fencing</option>
+                                        <option value="N-5yc1vZbqm7">Moulding & Millwork</option>
+                                        <option value="N-5yc1vZbayj">Insulation</option>
+                                        <option value="N-5yc1vZbaqk">Drywall</option>
+                                        <option value="N-5yc1vZaq7r">Roofing</option>
+                                        <option value="N-5yc1vZaqar">Gutter Systems</option>
+                                        <option value="N-5yc1vZbqpk">Plywood</option>
+                                        <option value="N-5yc1vZbqm8">Boards, Planks & Panels</option>
+                                        <option value="N-5yc1vZaqb0">Siding</option>
+                                        <option value="N-5yc1vZc28t">Ladders</option>
+                                        <option value="N-5yc1vZc3sr">Dimensional Lumber</option>
+                                        <option value="N-5yc1vZc2v0">Building Hardware</option>
+                                        <option value="N-5yc1vZc5op">Ventilation</option>
+                                        <option value="N-5yc1vZc58i">Ceilings</option>
+                                        <option value="N-5yc1vZc2dp">Tools</option>
+                                    </select>
+                                    <small class="form-text text-muted">Select a category to scrape</small>
+                                </div>
+                            </div>
+
+                            <!-- Search Term Options -->
+                            <div id="search-term-options" class="search-options">
+                                <div class="form-group mb-3">
+                                    <label for="search-terms">Search Terms</label>
+                                    <textarea class="form-control" id="search-terms" name="search_terms" rows="5" placeholder="Enter one search term per line"></textarea>
+                                    <small class="form-text text-muted">Enter search terms, one per line</small>
+                                </div>
+
+                                <div class="form-group mb-3">
+                                    <label for="sort-by">Sort By</label>
+                                    <select class="form-control" id="sort-by" name="sort_by">
+                                        <option value="best_match">Best Match</option>
+                                        <option value="price_low">Price (Low to High)</option>
+                                        <option value="price_high">Price (High to Low)</option>
+                                        <option value="top_sellers">Top Sellers</option>
+                                        <option value="rating">Top Rated</option>
+                                    </select>
+                                    <small class="form-text text-muted">How to sort search results</small>
+                                </div>
+                            </div>
+
+                            <!-- URL List Options -->
+                            <div id="url-list-options" class="search-options">
+                                <div class="form-group mb-3">
+                                    <label for="urls">Product URLs</label>
+                                    <textarea class="form-control" id="urls" name="urls" rows="10" placeholder="Enter one URL per line"></textarea>
+                                    <small class="form-text text-muted">Enter Home Depot product URLs, one per line</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label for="max-pages">Maximum Pages</label>
+                                <select class="form-control" id="max-pages" name="max_pages">
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="5" selected>5</option>
+                                    <option value="10">10</option>
+                                    <option value="15">15</option>
+                                    <option value="20">20</option>
+                                    <option value="30">30</option>
+                                    <option value="50">50</option>
+                                </select>
+                                <small class="form-text text-muted">Maximum number of pages to scrape (for category and search term)</small>
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <label for="max-products">Maximum Products</label>
+                                <select class="form-control" id="max-products" name="max_products">
+                                    <option value="0">All Available</option>
+                                    <option value="10">10</option>
+                                    <option value="20">20</option>
+                                    <option value="50">50</option>
+                                    <option value="100" selected>100</option>
+                                    <option value="200">200</option>
+                                    <option value="500">500</option>
+                                    <option value="1000">1000</option>
+                                </select>
+                                <small class="form-text text-muted">Maximum number of products to scrape (0 = all available)</small>
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <label>CSV Headers</label>
+                                <div class="accordion" id="csvHeadersAccordion">
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingOne">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                                Customize CSV Headers
+                                            </button>
+                                        </h2>
+                                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#csvHeadersAccordion">
+                                            <div class="accordion-body">
+                                                <p class="text-muted">Customize the header names in the CSV output file.</p>
+                                                <div class="table-responsive">
+                                                    <table class="table">
+                                                        <thead class="table-dark">
+                                                            <tr>
+                                                                <th>Data Field</th>
+                                                                <th>Custom Header Name</th>
+                                                                <th>Description</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            {% for header in default_csv_headers %}
+                                                            <tr>
+                                                                <td style="font-family: 'Poppins', sans-serif; font-weight: 500;">{{ header }}</td>
+                                                                <td>
+                                                                    <input type="text" class="form-control" name="csv_header_{{ header }}"
+                                                                           value="{{ standard_csv_headers[header] }}"
+                                                                           placeholder="Custom name for {{ header }}">
+                                                                </td>
+                                                                <td class="text-muted" style="font-family: 'Poppins', sans-serif; font-weight: 300;">
+                                                                    {% if header == 'product_name' %}
+                                                                        The name of the product
+                                                                    {% elif header == 'sku' %}
+                                                                        Product SKU/ID from Home Depot
+                                                                    {% elif header == 'item_id' %}
+                                                                        Home Depot's internal item ID
+                                                                    {% elif header == 'url' %}
+                                                                        Product URL
+                                                                    {% elif header == 'price' %}
+                                                                        Current price
+                                                                    {% elif header == 'currency' %}
+                                                                        Currency code (e.g., USD)
+                                                                    {% elif header == 'brand' %}
+                                                                        Product brand/manufacturer
+                                                                    {% elif header == 'description' %}
+                                                                        Product description
+                                                                    {% elif header == 'specifications' %}
+                                                                        Technical specifications (JSON)
+                                                                    {% elif header == 'features' %}
+                                                                        Product features (JSON array)
+                                                                    {% elif header == 'images' %}
+                                                                        Image URLs (JSON array)
+                                                                    {% elif header == 'category' %}
+                                                                        Product category
+                                                                    {% elif header == 'rating' %}
+                                                                        Average customer rating
+                                                                    {% elif header == 'review_count' %}
+                                                                        Number of customer reviews
+                                                                    {% elif header == 'availability' %}
+                                                                        Product availability status
+                                                                    {% elif header == 'timestamp' %}
+                                                                        When the data was collected
+                                                                    {% else %}
+                                                                        Additional product data
+                                                                    {% endif %}
+                                                                </td>
+                                                            </tr>
+                                                            {% endfor %}
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+<!-- Add this button near the top of your form -->
+<div class="form-group">
+    <button type="button" id="test-api-btn" class="btn btn-info">
+        Test API Connection
+    </button>
+    <span id="api-test-result"></span>
+</div>
+
+<!-- Add this JavaScript at the end of your file -->
+<script>
+$(document).ready(function() {
+    // Test API connection
+    $('#test-api-btn').click(function() {
+        $('#api-test-result').html('<span class="text-info">Testing connection...</span>');
+        
+        $.ajax({
+            url: '/api/test_connection',
+            type: 'GET',
+            success: function(data) {
+                $('#api-test-result').html('<span class="text-success">✓ API connection successful! Credits remaining: ' + data.credits_remaining + '</span>');
+            },
+            error: function(xhr) {
+                let errorMsg = 'API connection failed';
+                if (xhr.responseJSON && xhr.responseJSON.message) {
+                    errorMsg = xhr.responseJSON.message;
+                }
+                $('#api-test-result').html('<span class="text-danger">✗ ' + errorMsg + '</span>');
+            }
+        });
+    });
+});
+</script>
+                            <div class="d-grid gap-2 mt-4">
+                                <button type="submit" class="btn download-btn">
+                                    <i class="fas fa-play-circle me-2"></i> START SCRAPING
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- DIVIDER -->
+<div class="section-divider"></div>
+
+<!-- RUNNING JOBS SECTION -->
+<div class="row">
+    <div class="col-md-12">
+        <div class="card pixel-border">
+            <div class="card-header bg-primary">
+                <h2 class="mb-0 jobs-title">Scraper Jobs</h2>
+            </div>
+            <div class="card-body">
+                {% if jobs %}
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <th>Job ID</th>
+                                <th>Search Type</th>
+                                <th>Status</th>
+                                <th>Start Time</th>
+                                <th>Progress</th>
+                                <th>Actions</th>
+                                <th>Download</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for job in jobs %}
+                            <tr>
+                                <td>{{ job.job_id }}</td>
+                                <td>{{ job.config.search_type if job.config and job.config.search_type else "N/A" }}</td>
+                                <td>
+                                    {% if job.status == 'pending' %}
+                                    <span class="badge bg-secondary">Pending</span>
+                                    {% elif job.status == 'running' %}
+                                    <span class="badge bg-primary">Running</span>
+                                    {% elif job.status == 'completed' %}
+                                    <span class="badge bg-success">Completed</span>
+                                    {% elif job.status == 'failed' %}
+                                    <span class="badge bg-danger">Failed</span>
+                                    {% elif job.status == 'cancelled' %}
+                                    <span class="badge bg-warning">Cancelled</span>
+                                    {% else %}
+                                    <span class="badge bg-info">{{ job.status }}</span>
+                                    {% endif %}
+                                </td>
+                                <td>{{ job.start_time }}</td>
+                                <td>
+                                    <div class="progress" style="height: 20px;">
+                                        <div class="progress-bar" role="progressbar"
+                                             style="width: {{ job.progress.percentage if job.progress and job.progress.percentage else 0 }}%;"
+                                             aria-valuenow="{{ job.progress.percentage if job.progress and job.progress.percentage else 0 }}"
+                                             aria-valuemin="0"
+                                             aria-valuemax="100">{{ job.progress.percentage if job.progress and job.progress.percentage else 0 }}%</div>
+                                    </div>
+                                    <p class="small mt-1 mb-0">
+                                        {% if job.progress and job.progress.current and job.progress.total %}
+                                            {{ job.progress.current }} of {{ job.progress.total }} items processed
+                                        {% else %}
+                                            0 of 0 items processed
+                                        {% endif %}
+                                    </p>
+                                </td>
+                                <td>
+                                    <div class="d-flex">
+                                        <a href="/job/{{ job.job_id }}" class="btn btn-sm btn-info me-1">Details</a>
+                                        {% if job.status == 'running' %}
+                                        <button class="btn btn-sm btn-warning me-1 stop-job" data-job-id="{{ job.job_id }}">Stop</button>
+                                        {% endif %}
+                                        {% if job.status == 'pending' or job.status == 'running' %}
+                                        <button class="btn btn-sm btn-danger cancel-job" data-job-id="{{ job.job_id }}">Cancel</button>
+                                        {% endif %}
+                                    </div>
+                                </td>
+                                <td>
+                                    {% if job.status == 'completed' and job.result_files and job.result_files|length > 0 %}
+                                    <a href="/api/download/{{ job.job_id }}/{{ job.result_files[0] }}" class="btn table-download-btn">DOWNLOAD</a>
+                                    {% endif %}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                {% else %}
+                <div class="alert alert-info pixel-border" style="border: 4px solid #000; background-color: #fff; padding: 20px;">
+                    <p style="font-family: 'Press Start 2P', cursive; font-size: 1rem; text-align: center; margin-bottom: 20px;">No jobs have been created yet.</p>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function() {
+        // Initially hide all search options
+        $('.search-options').hide();
+
+        // Show the appropriate options based on the selected search type
+        $('#search-type').change(function() {
+            $('.search-options').hide();
+            const searchType = $(this).val();
+
+            if (searchType === 'category') {
+                $('#category-options').show();
+            } else if (searchType === 'search_term') {
+                $('#search-term-options').show();
+            } else if (searchType === 'url_list') {
+                $('#url-list-options').show();
+            }
+        });
+
+        // Trigger the change event to show the appropriate options on page load
+        $('#search-type').trigger('change');
+
+        // Form submission
+        $('#scraper-form').submit(function(e) {
+            e.preventDefault();
+
+            // Collect form data
+            const formData = {
+                output_dir: 'data', // Use default output directory
+                search_type: $('#search-type').val(),
+                max_pages: parseInt($('#max-pages').val()),
+                max_products: parseInt($('#max-products').val())
+            };
+
+            // Add search type specific data
+            if (formData.search_type === 'category') {
+                formData.category_id = $('#category-id').val();
+            } else if (formData.search_type === 'search_term') {
+                formData.search_terms = $('#search-terms').val().split('\n').filter(term => term.trim() !== '');
+                formData.sort_by = $('#sort-by').val();
+            } else if (formData.search_type === 'url_list') {
+                formData.urls = $('#urls').val().split('\n').filter(url => url.trim() !== '');
+            }
+
+            // Collect custom CSV headers
+            const csvHeaders = {};
+            $('input[name^="csv_header_"]').each(function() {
+                const field = $(this).attr('name').replace('csv_header_', '');
+                const value = $(this).val();
+                if (value) {
+                    csvHeaders[field] = value;
+                }
+            });
+
+            // Always include the headers in the form data
+            formData.csv_headers = csvHeaders;
+
+            // Submit the job
+            $.ajax({
+                url: '/api/start_job',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(formData),
+                success: function(response) {
+                    // Reload the page to show the new job in the list
+                    window.location.reload();
+                },
+                error: function(xhr, status, error) {
+                    alert('Error starting job: ' + (xhr.responseJSON?.error || error));
+                }
+            });
+        });
+
+        // Cancel job button
+        $('.cancel-job').click(function() {
+            const jobId = $(this).data('job-id');
+
+            if (confirm('Are you sure you want to cancel this job?')) {
+                $.ajax({
+                    url: '/api/cancel_job/' + jobId,
+                    type: 'POST',
+                    success: function(response) {
+                        alert(response.message);
+                        location.reload();
+                    },
+                    error: function(xhr, status, error) {
+                        alert('Error cancelling job: ' + error);
+                    }
+                });
+            }
+        });
+
+        // Stop job button
+        $('.stop-job').click(function() {
+            const jobId = $(this).data('job-id');
+
+            if (confirm('Are you sure you want to stop this job? Partial results will be saved.')) {
+                $.ajax({
+                    url: '/api/stop_scraping/' + jobId,
+                    type: 'POST',
+                    success: function(response) {
+                        alert(response.message);
+                        location.reload();
+                    },
+                    error: function(xhr, status, error) {
+                        alert('Error stopping job: ' + error);
+                    }
+                });
+            }
+        });
+
+        // Auto-refresh the page every 10 seconds if there are running jobs
+        const hasRunningJobs = $('.badge.bg-primary').length > 0;
+        if (hasRunningJobs) {
+            setTimeout(function() {
+                location.reload();
+            }, 10000);
+        }
+    });
+</script>
+{% endblock %}

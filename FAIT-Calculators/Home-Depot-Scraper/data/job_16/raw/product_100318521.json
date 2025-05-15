@@ -1,0 +1,272 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14139,
+    "overage_used": 4139,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Quikrete-50-lb-Fast-Setting-Concrete-Mix-100450/100318521"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:58:05.601Z",
+    "processed_at": "2025-05-01T17:58:08.759Z",
+    "total_time_taken": 3.16,
+    "homedepot_url": "https://www.homedepot.com/p/Quikrete-50-lb-Fast-Setting-Concrete-Mix-100450/100318521"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Quikrete-50-lb-Fast-Setting-Concrete-Mix-100450/100318521",
+    "brand": "Quikrete",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Mix/Quikrete/N-5yc1vZcdptZ2kj",
+    "title": "Quikrete 50 lb. Fast-Setting Concrete Mix",
+    "upc": "039645100455",
+    "item_id": "100318521",
+    "parent_id": "308343715",
+    "store_sku": "842303",
+    "model_number": "100450",
+    "description": "Quikrete 50 lb. Fast-Setting Concrete Mix is a special blend of fast-setting cements, sand and gravel. Designed to set hard in 20-40 minutes. Concrete sets posts without mixing. Easy to use by simply adding water.",
+    "favorite_count": 8950,
+    "aisle": "26",
+    "bay": "EC2",
+    "feature_bullets": [
+      "Concrete mix sets hard in just 20-40 minutes",
+      "Ideal for setting post with no mixing required",
+      "4000 psi in 28 days"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Interested in purchasing a pallet, buy 64 bags",
+      "Used to set mailbox posts, fence posts and lamp posts without mixing",
+      "Pour dry mix into hole and soak with water",
+      "Also use for building steps, sidewalks and slabs where rapid set time is required",
+      "Exceeds the requirements of ASTM C387",
+      "4000 psi in 28 days",
+      "Each 50 lb. bag will yield approximately 0.375 cu. ft. of mixed concrete",
+      "Please be advised there could be a discrepancy regarding the pallet counts for certain Home Depot locations, if you are interested in purchasing pallet quantities, please reach out to your local Home Depot to confirm pallet counts.",
+      "Wondering how many bags of Concrete Mix to use in order to complete your project? Use the PIP calculator located to the right of the product images to accurately calculate how many bags are needed based on square footage or cubic feet.",
+      "<a href=\"https://www.homedepot.com/c/ab/how-to-find-the-right-concrete-mix/9ba683603be9fa5395fab901bbd3274\" target=\"_blank\" style=\"color:#F96302;\">Learn more about concrete and cement here in our Buying Guide</a>",
+      "Note: product may vary by store",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/Concrete_Cement/concrete_inline content_volume matrix.jpg\">",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/Concrete_Cement/concrete_inline content_volume matrix.jpg\">"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f7998d56-cc23-4239-a232-e2fd5a67d8eb/svn/Quikrete-50-lb-Fast-Setting-Concrete-Mix_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3a2aa9e0-dbef-457b-b678-6110aa536560/svn/Quikrete-50-lb-Fast-Setting-Concrete-Mix-Concrete-Calculator_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1ee71f52-fc7b-4ef3-9b97-f1b25ac805bb/svn/Quikrete-50-lb-Fast-Setting-Concrete-and-QUIK-Tube-to-be-used-for-posts_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/12f106e3-289c-4d38-9822-e67519d0d2c7/svn/Quikrete-50-lb-Fast-Setting-Concrete-Mix-for-setting-mailbox-posts-fence-posts-and-lamp-posts_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/26a9bdda-6db7-4cb3-8a23-679e5dfa6bef/svn/Quikrete-50-lb-Fast-Setting-Concrete-Mix-used-to-set-strong-concrete-posts_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ed5e35e5-76b8-40f1-85b3-d914ac48d3a7/svn/Quikrete-50-lb-Fast-Setting-Concrete-Mix-is-a-special-blend-of-cement-sand-and-gravel-used-to-set-posts_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f1913d2d-f99b-4c77-bba0-09763d4b421d/svn/Quikrete-50-lb-Fast-Setting-Concrete-Mix-is-easy-to-use-by-simply-adding-water-no-mixing-required_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b9ad2ef0-1abb-43d6-a7fb-1d5c18df2963/svn/gray-quikrete-concrete-mix-100450-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f7998d56-cc23-4239-a232-e2fd5a67d8eb/svn/Quikrete-50-lb-Fast-Setting-Concrete-Mix_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ca76dd77-6473-4cc2-a3e9-04af5ded7ede/43568ff4-d34d-42b1-a96e-8be4adb77d89/main.mp4?fastly_token=NjgzODI2ZjVfODVlMGZhNzZiMjg4ZDgyMTE4NmMyYjE4NWZjYzAwYTU1MjUwZDBmMTM5MjczZjNmYTk5YzQ3Y2Y2YzRhYzk3Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jYTc2ZGQ3Ny02NDczLTRjYzItYTNlOS0wNGFmNWRlZDdlZGUvNDM1NjhmZjQtZDM0ZC00MmIxLWE5NmUtOGJlNGFkYjc3ZDg5L21haW4ubXA0&pubid=66036796001",
+        "title": "50 lb. Fast-setting Concrete Mix",
+        "id": "3836523700001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/ca76dd77-6473-4cc2-a3e9-04af5ded7ede/c8c94cd4-001c-48a3-8e3f-34c07bac2763/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This video shows how easy it is to use QUIKRETE 50 lb. Fast-setting Concrete Mix for your concrete projects."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/268eedea-78a9-4576-bc49-1615741936dd/cb121318-eaaf-4827-8d4b-1da72fe99e05/main.mp4?fastly_token=NjgxMzkxOGZfMDQ0OGE4OWM3Y2JkYTMyYWE4MGEzMTg1ODIzYTZkZmJjNmQ2NTdiYWIyZmJlZDllYmNjNjdkMWEyYjZhMGExYl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMjY4ZWVkZWEtNzhhOS00NTc2LWJjNDktMTYxNTc0MTkzNmRkL2NiMTIxMzE4LWVhYWYtNDgyNy04ZDRiLTFkYTcyZmU5OWUwNS9tYWluLm1wNA%3D%3D",
+        "title": "Strong Deck Foundations Start with Fast-Setting Concrete Mix",
+        "id": "6258979321001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/268eedea-78a9-4576-bc49-1615741936dd/d89cee7c-b752-4ead-b4ac-11cc14fa1387/160x90/match/image.jpg",
+        "description": "Every deck starts with a strong foundation. The Quikrete Fast-Setting Concrete Mix is just the product you need to help you get started on a deck for your house that will last. \n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/0d75c962-d600-450c-ae45-0a29360486a5/77d71b17-0225-43f3-8e53-5d0599526b19/main.mp4?fastly_token=NjgxMzkyOGZfNzBiYWYyOGJkYTEyZTVjMmU0Y2JlNzAwODkwNjBiNzg4YTJlOGI4MWM3Y2FkNjVkNDIyM2Y1NDU4NWY3ODQ5MV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMGQ3NWM5NjItZDYwMC00NTBjLWFlNDUtMGEyOTM2MDQ4NmE1Lzc3ZDcxYjE3LTAyMjUtNDNmMy04ZTUzLTVkMDU5OTUyNmIxOS9tYWluLm1wNA%3D%3D",
+        "title": "How to use Quikrete Fast Setting Concrete Mix - The Home Depot",
+        "id": "876532335001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/0d75c962-d600-450c-ae45-0a29360486a5/caefa927-17ff-4244-b1a9-12074bfd4b85/160x90/match/image.jpg",
+        "description": "For fast setting concrete, watch this video to discover how to use Quikrete concrete mix that sets fast. No mixing needed as it will dry and set automatically."
+      }
+    ],
+    "ratings_total": 3165,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compression Strength (psi)",
+        "value": "4000 psi"
+      },
+      {
+        "group_name": "Details",
+        "name": "Concrete Mix Type",
+        "value": "Rapid Setting"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Fast Setting"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Max. Cure Time (Days)",
+        "value": "28 day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Max. Set Time (Hours)",
+        "value": "2.00 hr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Min. Cure Time (Days)",
+        "value": "1 day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Min. Set Time (Hours)",
+        "value": "1.0 hr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "50 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Use Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Working Time (min.)",
+        "value": "20 min"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See packaging"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (cu. ft.)",
+        "value": "0.37 cu ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "17 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "10 in"
+      }
+    ],
+    "keywords_list": [
+      "concrete",
+      "fast-set concrete",
+      "concretes",
+      "fast-set concretes",
+      "masonry concrete",
+      "masonry concretes",
+      "no-mix concrete",
+      "no-mix concretes"
+    ],
+    "keywords": "concrete, fast-set concrete, concretes, fast-set concretes, masonry concrete, masonry concretes, no-mix concrete, no-mix concretes",
+    "variants": [
+      {
+        "title": "50 lb",
+        "link": "https://www.homedepot.com/p/Quikrete-50-lb-Fast-Setting-Concrete-Mix-100450/100318521",
+        "item_id": "100318521"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Concrete, Cement & Masonry",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry/N-5yc1vZarlk"
+      },
+      {
+        "name": "Concrete Mix",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Mix/N-5yc1vZcdpt"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.91,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 183
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 1586,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

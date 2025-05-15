@@ -1,0 +1,317 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14906,
+    "overage_used": 4906,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-30-25-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-K-R23217-LA-0/311699619"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:40:39.352Z",
+    "processed_at": "2025-05-02T21:40:43.945Z",
+    "total_time_taken": 4.59,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-30-25-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-K-R23217-LA-0/311699619"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-30-25-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-K-R23217-LA-0/311699619",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bathtubs-Alcove-Bathtubs/KOHLER/N-5yc1vZcd0gZ1qh",
+    "title": "KOHLER Elmbrook 60 in. x 30.25 in. Soaking Bathtub with Left-Hand Drain in White",
+    "upc": "885612835048",
+    "item_id": "311699619",
+    "parent_id": "328403740",
+    "store_sku": "1004869199",
+    "model_number": "K-R23217-LA-0",
+    "description": "The Elmbrook 60 in. alcove bath is a simple, versatile design with timeless style. Defined by sleek lines and an integral apron, this easy-to-clean bath offers a polished look that complements traditional or contemporary bathroom decor. It comes with a lifetime limited warranty.",
+    "is_bestseller": true,
+    "is_exclusive": true,
+    "favorite_count": 2165,
+    "aisle": "36",
+    "bay": "014",
+    "collection": {
+      "id": "Family-309791479",
+      "name": "Family-309791479",
+      "link": "https://www.homedepot.com/collection/Bath/Elmbrook-Collection/Family-309791479?omsid=311699619"
+    },
+    "feature_bullets": [
+      "42 Gal. capacity with 9 in. soaking depth",
+      "Basin area: 45.5 in. L x 19.5 in. W with left-hand drain",
+      "Integral lumbar support and 22\u00b0 backrest for added comfort"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://www.homedepot.com/collection/Bath/Elmbrook-Collection/Family-309791479\" target=\"_blank\" style=\"color:#F96302;\">Get inspired by shopping the Kohler Elmbrook Bathroom</a>",
+      "Low stepover height allows easy entry and exit",
+      "Integral lumbar support",
+      "Integral apron creates a clean, finished look",
+      "Coordinates with other products in the Elm brook collection",
+      "<a href=\"https://www.homedepot.com/p/KOHLER-Clearflo-Cable-Bath-Drain-in-Polished-Chrome-K-7213-CP/100548753?keyword=100548753&amp;semanticToken=300b00r011320000_9b619ed79324d337848154928b0dac80_1594866277089+300b00r011320000+%3E++cnn%3A%7B0%3A0%7D+cnr%3A%7B7%3A0%7D+cnp%3A%7B10%3A0%7D+cnd%3A%7B4%3A0%7D+cne%3A%7B8%3A0%7D+cnb%3A%7B0%3A0%7D+cns%3A%7B5%3A0%7D+cnx%3A%7B3%3A0%7D+cnq%3A%7B0%3A0%7D+cnw%3A%7B0%3A0%7D+cnv%3A%7B0%3A0%7D+st%3A%7B100548753%7D%3Ast+oos%3A%7B0%3A1%7D+tgr%3A%7BNo+stage+info%7D+nf%3A%7B1%7D%3Anf+qu%3A%7B100548753%7D%3Aqu\" target=\"_blank\" style=\"color:#F96302;\">Recommend 100548753 drain (sold separately)</a>",
+      "Alcove",
+      "Integral flange",
+      "Left drain",
+      "Acrylic",
+      "22 Degree Backrest Angle",
+      "Shop more <a href=\"https://www.homedepot.com/b/Bath-Bathtubs/N-5yc1vZbzb7\" target=\"_blank\" style=\"color:#F96302;\">Bathtubs</a> at The Home Depot to find the best option for your home\u200b",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b208fca1-97ef-4ef4-ae6a-a712867c7398/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c853f4b1-0132-45f2-9b81-394fdea1cd3d/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/556b6c9c-5f9f-4793-bca7-911ee84aa981/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/254c2745-ee78-4b25-84e4-0bc955e91042/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cb0a6a9d-8b97-4dfd-b536-87569749d1ab/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/017cf2b4-f9f2-4b2a-8568-f52097413b6d/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/726f8a23-cfbb-4e14-a197-2255881e2b95/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4dbc7453-4604-4afb-bcf6-3a844556c547/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8dd3124e-cb34-4be9-8ef2-961a5d4873af/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5774aa10-4b19-4870-9b9f-1af8c1029092/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b208fca1-97ef-4ef4-ae6a-a712867c7398/svn/white-kohler-alcove-bathtubs-k-r23217-la-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxNGQ1NzlfMjMzY2Y1NjlhZDJiMjI3ZDEzMmY0NTdkZTkyOWNiNGZkODJiNDIwOTljZmExZjA4NDY5ZDY5N2IzMmQ3MGFmZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "ratings_total": 752,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bath Therapy Type",
+        "value": "Soaking"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drain Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Exterior bath shape",
+        "value": "Rectangular"
+      },
+      {
+        "group_name": "Details",
+        "name": "Faucet mount",
+        "value": "Variable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No additional components or accessories are included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Number of Occupants",
+        "value": "1 Person"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "75 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tub/Shower Features",
+        "value": "No additional features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water capacity (gallons)",
+        "value": "42"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant,CSA Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Basin Length (in.)",
+        "value": "45.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Basin Width (in.)",
+        "value": "19.5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Overall Height (in.)",
+        "value": "15.75"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Overall Length (in.)",
+        "value": "60"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Overall Width (in.)",
+        "value": "30.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Soaking Depth (in.)",
+        "value": "9"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~60 x 32~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-32-in-Soaking-Bathtub-with-Right-Hand-Drain-in-White-R25506-RA-0/327820814",
+        "item_id": "327820814"
+      },
+      {
+        "title": "White~~60 x 36~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-36-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-R25507-LA-0/327820815",
+        "item_id": "327820815"
+      },
+      {
+        "title": "White~~60 x 30~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-30-25-in-Soaking-Bathtub-with-Right-Hand-Drain-in-White-K-R23217-RA-0/311699666",
+        "item_id": "311699666"
+      },
+      {
+        "title": "White~~60 x 32~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-32-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-R25506-LA-0/327820813",
+        "item_id": "327820813"
+      },
+      {
+        "title": "White~~60 x 30~~Left",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-30-25-in-Soaking-Bathtub-with-Left-Hand-Drain-in-White-K-R23217-LA-0/311699619",
+        "item_id": "311699619"
+      },
+      {
+        "title": "White~~60 x 36~~Right",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-60-in-x-36-in-Soaking-Bathtub-with-Right-Hand-Drain-in-White-R25507-RA-0/327820816",
+        "item_id": "327820816"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bathtubs",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs/N-5yc1vZbzb7"
+      },
+      {
+        "name": "Alcove Bathtubs",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs-Alcove-Bathtubs/N-5yc1vZcd0g"
+      }
+    ],
+    "buybox_winner": {
+      "price": 439,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 5
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 25,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 48,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

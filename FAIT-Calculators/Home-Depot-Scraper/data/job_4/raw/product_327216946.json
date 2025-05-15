@@ -1,0 +1,199 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12839,
+    "overage_used": 2839,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Everbilt-0-3125-in-D-x-5-25-in-W-x-96-in-L-Glue-On-Tongue-and-Groove-White-PVC-Panel-Molding-Shiplap-Planks-Set-of-3-EB100001/327216946"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:33:01.868Z",
+    "processed_at": "2025-05-01T13:33:07.059Z",
+    "total_time_taken": 5.19,
+    "homedepot_url": "https://www.homedepot.com/p/Everbilt-0-3125-in-D-x-5-25-in-W-x-96-in-L-Glue-On-Tongue-and-Groove-White-PVC-Panel-Molding-Shiplap-Planks-Set-of-3-EB100001/327216946"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Everbilt-0-3125-in-D-x-5-25-in-W-x-96-in-L-Glue-On-Tongue-and-Groove-White-PVC-Panel-Molding-Shiplap-Planks-Set-of-3-EB100001/327216946",
+    "brand": "Everbilt",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/Everbilt/N-5yc1vZcbjjZ402",
+    "title": "Everbilt 0. 3125 in. D x 5.25 in. W x 96 in. L Glue-On Tongue and Groove White PVC Panel Molding Shiplap Planks (Set of 3)",
+    "upc": "637553003556",
+    "item_id": "327216946",
+    "store_sku": "1010313714",
+    "model_number": "EB100001",
+    "description": "Everbilt PVC Shiplap plank are beautiful and will work for any project whether it is residential, commercial or industrial settings. These waterproof panel are both paintable and durable. These panels are a low maintenance solution and will not harbor bacteria. They are mold and mildew resistant. Create an accent wall, add some flair to that wall or ceiling and use an environmentally friendly product while doing so.",
+    "feature_bullets": [
+      "Made of 100% waterproof PVC for durability",
+      "Tongue and groove design allows easy installation",
+      "Mold-resistant feature ensures long life"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "100% waterproof",
+      "Paintable",
+      "Easy to install",
+      "Highly durable"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/26417558-5259-42ab-b7a3-b1f156acc7cb/svn/white-smooth-everbilt-chair-rail-eb100001-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/26417558-5259-42ab-b7a3-b1f156acc7cb/svn/white-smooth-everbilt-chair-rail-eb100001-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 11,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White/Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Panel Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "NA"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": ".3125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Chair Rail",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/N-5yc1vZcbjj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 34.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 14,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

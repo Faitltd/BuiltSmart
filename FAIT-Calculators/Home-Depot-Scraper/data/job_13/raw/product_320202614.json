@@ -1,0 +1,203 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13766,
+    "overage_used": 3766,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NUVO-IRON-2-in-x-4-in-Stair-and-Deck-Rail-Connector-for-Standard-Rails-4-Pack-SDRC-ESP/320202614"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:58:22.094Z",
+    "processed_at": "2025-05-01T16:58:27.468Z",
+    "total_time_taken": 5.37,
+    "homedepot_url": "https://www.homedepot.com/p/NUVO-IRON-2-in-x-4-in-Stair-and-Deck-Rail-Connector-for-Standard-Rails-4-Pack-SDRC-ESP/320202614"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NUVO-IRON-2-in-x-4-in-Stair-and-Deck-Rail-Connector-for-Standard-Rails-4-Pack-SDRC-ESP/320202614",
+    "brand": "NUVO IRON",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/NUVO-IRON/N-5yc1vZaq9xZq5n",
+    "title": "NUVO IRON 2 in. x 4 in. Stair and Deck Rail Connector for Standard Rails (4-Pack)",
+    "upc": "664723442068",
+    "item_id": "320202614",
+    "store_sku": "1007832062",
+    "model_number": "SDRC-ESP",
+    "description": "Ultimately, the beauty of our stair and deck rail connectors lies in their ease-of-installation, functionality, and discreet elegance. Black and made of galvanized steel, they melt away into the design of your outdoor space. Their material compatibility, minimal design, and steel construction ensure they'll bring you safety for years to come, and that your back yard upgrade will be simple and intuitive. Stylish and long lasting, their minimal profile will seamlessly blend into any of your projects.",
+    "feature_bullets": [
+      "Steel connector provides sturdy and secure connection",
+      "Minimalist design makes it hardly noticable",
+      "Helps prevent the wood from warping and splitting"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Stair and deck rail connector for standard 2 in. x 4 in. rail",
+      "Long lasting surface mount stair and deck rail connector is made from tough, galvanized steel",
+      "Its elegant functionality and transitional neutral design will complement any project or space",
+      "Addition to the protection and functionality it offers, the installation process is quick and intuitive",
+      "Engineered to connect rails to posts or wall structures for a straight 90\u00b0 installation and stairs with a 9 \u00bc in. run over a 6 \u00be in. rise installation",
+      "Compatible materials include wood, vinyl, composite and more",
+      "UV-Protected - prevents fading and discoloring caused by the sun's harsh rays",
+      "Rust-Resistant - its durable galvanized steel construction and powder coated finish prevent peeling and blistering",
+      "One pack of four (4) stair and deck rail connectors comes included with twenty four (24) (No. 10) 2-1/4 in. stainless steel screws and completes one (1) section of railing"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3d948e06-9183-4a9e-a4c6-e366bb0804b8/svn/nuvo-iron-wood-connectors-sdrc-esp-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6bb6febf-4a75-45cd-8484-8d9ac6781402/svn/nuvo-iron-wood-connectors-sdrc-esp-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1fb68b32-20f8-4ecc-bebc-e07a63476066/svn/nuvo-iron-wood-connectors-sdrc-esp-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ef7b77d6-1373-4d79-956a-24f9e18f09a4/svn/nuvo-iron-wood-connectors-sdrc-esp-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab9a0f71-8b27-4375-92c9-138129f4540f/svn/nuvo-iron-wood-connectors-sdrc-esp-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7ffc681f-d809-4617-84d5-5922e6b3b91f/svn/nuvo-iron-wood-connectors-sdrc-esp-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ef8b6a2b-26aa-4bf8-80a1-b69472e22b46/svn/nuvo-iron-wood-connectors-sdrc-esp-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3d948e06-9183-4a9e-a4c6-e366bb0804b8/svn/nuvo-iron-wood-connectors-sdrc-esp-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 5,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Powder coated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Decorative"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.55 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Type",
+        "value": "Other"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Wood Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/N-5yc1vZaq9x"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 25,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-08"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 25,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

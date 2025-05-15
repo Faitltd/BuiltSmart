@@ -1,0 +1,199 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 36,
+    "credits_used_this_request": 1,
+    "credits_remaining": 464,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.lowes.com/pd/streamline-12-in-x-10-ft-copper-type-m-pipe/1000227967",
+    "_t": "20250506001348",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-06T06:13:48.354Z",
+    "processed_at": "2025-05-06T06:13:51.375Z",
+    "total_time_taken": 3.02,
+    "lowes_url": "https://www.lowes.com/pd/Mueller-Streamline-1-2-in-x-10-ft-Copper-M-Pipe/1000227967"
+  },
+  "product": {
+    "link": "https://www.lowes.com/pd/Mueller-Streamline-1-2-in-x-10-ft-Copper-M-Pipe/1000227967",
+    "brand": "Streamline",
+    "title": "Streamline 1/2-in x 10-ft Copper Type M Pipe",
+    "upc": "685768236504",
+    "item_id": "1000227967",
+    "item_number": "23786",
+    "model_number": "MH04010",
+    "description": "Copper Tube sets the standard for quality, consistency and service in the plumbing industries. With a full line of copper tube products to support most all plumbing supply and DWV applications, Streamline #174; Copper Tube is available in all common types including type K, type L, type M and DWV. Each piece of tube is incised marked and color coded for easy, long lasting identity. Manufactured in accordance with applicable standards, our ongoing commitment to quality continues to make Streamline Copper Tube the preferred and specified brand of industry professionals.",
+    "collection": {
+      "link": "https://www.lowes.com/collections/Streamline-Copper-Press-Collection/GR_12885",
+      "id": "GR_12885",
+      "type": "COLLECTION"
+    },
+    "feature_bullets": [
+      "Copper M construction offers a durable water system",
+      "For use in residential and commercial water applications",
+      "For use in above ground potable water supply systems"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Copper M construction offers a durable water system",
+      "For use in residential and commercial water applications",
+      "For use in above ground potable water supply systems",
+      "This product is lead free making the elements running through it safe for human consumption",
+      "Copper is recyclable, aiding in sustainability and reducing waste"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/3a9170f9-22de-4ec6-8b58-85ca799bb23b/65995898.jpeg"
+      },
+      {
+        "src": "Online Content Production",
+        "link": "https://mobileimages.lowes.com/productimages/2a04d489-b9b2-4c64-b6fd-97bf266b1b52/48687831.jpg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/525c01b0-0dfa-4569-9f74-a2b701d48cf5/65995900.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/e46deddf-ba22-495f-8fa3-a6e7d2f19b8d/65995901.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/57c4e0f4-9dfc-46ab-816c-7a66aa31f5ec/66529692.jpeg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/9d45c535-2e82-4620-bc41-3c0e843d2bfa/65995905.jpeg"
+      }
+    ],
+    "main_image": {
+      "src": "Vendor Provided",
+      "link": "https://mobileimages.lowes.com/productimages/3a9170f9-22de-4ec6-8b58-85ca799bb23b/65995898.jpeg"
+    },
+    "videos": [],
+    "has_360_view": false,
+    "ratings_total": 228,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "name": "Color/Finish Family",
+        "value": "Copper"
+      },
+      {
+        "name": "Sub Type",
+        "value": "M"
+      },
+      {
+        "name": "Type",
+        "value": "Pipe"
+      },
+      {
+        "name": "Diameter (End 1)",
+        "value": "1/2-in"
+      },
+      {
+        "name": "Diameter (End 2)",
+        "value": "1/2-in"
+      },
+      {
+        "name": "Pipe Diameter",
+        "value": "1/2-in"
+      },
+      {
+        "name": "Pipe Length",
+        "value": "10-ft"
+      },
+      {
+        "name": "Connection Type (End 1)",
+        "value": "Cup (Solder)"
+      },
+      {
+        "name": "Connection Type (End 2)",
+        "value": "Cup (Solder)"
+      },
+      {
+        "name": "Fitting Type",
+        "value": "Solder"
+      },
+      {
+        "name": "Material",
+        "value": "Copper"
+      },
+      {
+        "name": "Maximum Working Temperature (Fahrenheit)",
+        "value": "200"
+      },
+      {
+        "name": "Minimum Working Temperature (Fahrenheit)",
+        "value": "32"
+      },
+      {
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "name": "Permanent or Removable",
+        "value": "Permanent"
+      },
+      {
+        "name": "CA Residents: Prop 65 Warning(s)",
+        "value": "No"
+      },
+      {
+        "name": "Complies with Federal Lead Guidelines",
+        "value": "Yes"
+      },
+      {
+        "name": "Safety Listing",
+        "value": "NSF safety listing"
+      },
+      {
+        "name": "Warranty",
+        "value": "1-year limited"
+      },
+      {
+        "name": "UNSPSC",
+        "value": "40171500"
+      }
+    ],
+    "breadcrumbs": [],
+    "buybox_winner": {
+      "price": 24.59,
+      "symbol": "$",
+      "currency": "USD",
+      "unit": "EACH",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "1875",
+          "store_name": "Atlanta-Edgewood Lowe's",
+          "store_state": "GA",
+          "in_stock": true,
+          "stock_level": 58
+        },
+        "scheduled_delivery_info": {
+          "in_stock": true,
+          "stock_level": 62,
+          "lead_time": "05-06-2025-04:00 UTC",
+          "consolidation_date": "05-07-2025-04:00 UTC",
+          "availability_date": "05-06-2025-04:00 UTC"
+        },
+        "ship_to_home_info": {
+          "store_id": "1875",
+          "store_name": "Atlanta-Edgewood Lowe's",
+          "store_state": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        }
+      }
+    }
+  }
+}

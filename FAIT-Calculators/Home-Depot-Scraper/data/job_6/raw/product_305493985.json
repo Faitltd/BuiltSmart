@@ -1,0 +1,159 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13486,
+    "overage_used": 3486,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-Concordia-Symmetry-3-4-in-x-11-1-4-in-x-12-ft-Graphite-Capped-Composite-Decking-Fascia-Board-HCFAS-GRAPHITE-12/305493985"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:25:42.655Z",
+    "processed_at": "2025-05-01T14:26:34.053Z",
+    "total_time_taken": 51.4,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-Concordia-Symmetry-3-4-in-x-11-1-4-in-x-12-ft-Graphite-Capped-Composite-Decking-Fascia-Board-HCFAS-GRAPHITE-12/305493985"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-Concordia-Symmetry-3-4-in-x-11-1-4-in-x-12-ft-Graphite-Capped-Composite-Decking-Fascia-Board-HCFAS-GRAPHITE-12/305493985",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon Concordia Symmetry 3/4 in. x 11-1/4 in. x 12 ft. Graphite Capped Composite Decking Fascia Board",
+    "upc": "844219020615",
+    "item_id": "305493985",
+    "store_sku": "1003332311",
+    "model_number": "HCFAS GRAPHITE 12",
+    "description": "Fiberon Concordia Symmetry Decking offers the most natural look, feel, and color palette available today in luxury composite decking, all balanced with time-tested durability and performance. The low-gloss formulation and unique micro-texturing process creates a beautiful matte finish. Inspired by natural elements and pigments, the rich, earthy color palette is subdued yet striking. Varied grain patterns enhance the look and feel of the boards, plus ensure a usable surface on top and bottom. PermaTech, our bonded cap layer, ensures ironclad protection on all 4 sides against fading, staining, and just about anything Mother Nature sends your way.",
+    "feature_bullets": [
+      "Graphite composite fascia board with durable PE decking core",
+      "Fascia boards are pre-finished to match existing deck trim",
+      "Lifetime performance warranty, 5-year stain and fade warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Symmetry Collection features a low-gloss formula and micro-texturing, creating a wire-brushed finish.",
+      "Durable composite core helps resist splintering, rotting, cracking, insects and decay.",
+      "Four-sided PermaTech cap layer provides superior protection and fade resistance.",
+      "Premium PE composite deck boards include 94% recycled material.",
+      "The flat-profile bottom provides a sturdy feel, reminiscent of traditional lumber.",
+      "Finished surface on top and bottom is ideal for second-story decks.",
+      "Reversible boards help reduce waste, saving you time and money.",
+      "Matching fascia and risers available in all colors.",
+      "Fiberon Concordia decking is backed by a lifetime performance warranty and a 5-year stain and fade warranty."
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e1971a07-ab06-485f-8d3d-6ebad8d6b941/svn/graphite-fiberon-composite-decking-boards-hcfas-graphite-12-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e1971a07-ab06-485f-8d3d-6ebad8d6b941/svn/graphite-fiberon-composite-decking-boards-hcfas-graphite-12-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Graphite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Performance Warranty - 50 Year Stain & Fade Performance"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "58"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "11.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

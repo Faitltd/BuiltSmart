@@ -1,0 +1,214 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14253,
+    "overage_used": 4253,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-25E2-11-16-in-x-2-1-2-in-x-96-in-Craftsman-Primed-MDF-Casing-1-Piece-8-Total-Linear-Feet-10026964/302792237"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:22:16.313Z",
+    "processed_at": "2025-05-01T18:22:28.009Z",
+    "total_time_taken": 11.7,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-25E2-11-16-in-x-2-1-2-in-x-96-in-Craftsman-Primed-MDF-Casing-1-Piece-8-Total-Linear-Feet-10026964/302792237"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-25E2-11-16-in-x-2-1-2-in-x-96-in-Craftsman-Primed-MDF-Casing-1-Piece-8-Total-Linear-Feet-10026964/302792237",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork 25E2 11/16 in. x  2 1/2 in. x  96 in. Craftsman Primed MDF Casing (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "095624522854",
+    "item_id": "302792237",
+    "parent_id": "319216815",
+    "store_sku": "1002670622",
+    "model_number": "10026964",
+    "description": "The Woodgrain Millwork Timeless Craftsman 2-1/2 in. x 11/16 in. x 96 in. 25E2 MDF Eased Edge Casing is used around doors and windows to cover the gaps between the frames and walls. The Timeless Craftsman Casing is the finishing touch on any window and door. Use this casing to create the Timeless Craftsman look or you can combine casing with the Timeless Craftsman backband to create a bold one of kind look. Any of the patterns in the Timeless Craftsman Collection can be combined to create theme for a room or an entire house.",
+    "favorite_count": 331,
+    "feature_bullets": [
+      "Covers gaps between the frames and walls",
+      "Use around windows and doors for a finishing touch",
+      "Can be painted with any high quality latex based paint"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Beautiful wood grain with a rustic flair",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Can be used for a miter less installation",
+      "Can also be added to bookcases and shelving units for that finishing look",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ec1f64c0-9bc6-46b4-945d-f5a87249fb4d/svn/white-woodgrain-millwork-casing-10026964-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e7545a4d-18bc-4e59-b4a4-de688ee3c2f1/svn/white-woodgrain-millwork-casing-10026964-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/127a2d99-ee66-42c0-8b8e-0b99edfda172/svn/white-woodgrain-millwork-casing-10026964-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1dfe521b-7587-42a9-8e59-d38d31103ec7/svn/white-woodgrain-millwork-casing-10026964-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/303b58d8-eaa7-4764-81c7-ebdecb8deb49/svn/white-woodgrain-millwork-casing-10026964-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ec1f64c0-9bc6-46b4-945d-f5a87249fb4d/svn/white-woodgrain-millwork-casing-10026964-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 118,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-45E2-11-16-in-x-4-1-2-in-x-96-in-Craftsman-Primed-MDF-Casing-1-Piece-8-Total-Linear-Feet-10026966/302793244",
+        "item_id": "302793244"
+      },
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-25E2-11-16-in-x-2-1-2-in-x-96-in-Craftsman-Primed-MDF-Casing-1-Piece-8-Total-Linear-Feet-10026964/302792237",
+        "item_id": "302792237"
+      },
+      {
+        "title": "White~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Timeless-Craftsman-35E2-9-16-in-x-3-1-2-in-x-96-in-Primed-Finger-Jointed-Casing-Moulding-Door-Pack-5-Piece-10042563/306854153",
+        "item_id": "306854153"
+      },
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-3502-11-16-in-x-3-1-2-in-x-96-in-Craftsman-Primed-MDF-Casing-1-Piece-8-Total-Linear-Feet-10026965/302793296",
+        "item_id": "302793296"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 12.28,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3074,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3074,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

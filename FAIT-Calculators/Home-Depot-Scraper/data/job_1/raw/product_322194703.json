@@ -1,0 +1,306 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14918,
+    "overage_used": 4918,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Elmbrook-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-33201-0/322194703"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:42:12.675Z",
+    "processed_at": "2025-05-02T21:42:16.446Z",
+    "total_time_taken": 3.77,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Elmbrook-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-33201-0/322194703"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-33201-0/322194703",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/KOHLER/N-5yc1vZcb8nZ1qh",
+    "title": "KOHLER Elmbrook 12 in. Rough In 2-Piece 1.28 GFP Single Flush Elongated Chair Height Toilet in White with Soft Close Seat",
+    "upc": "195711003614",
+    "item_id": "322194703",
+    "store_sku": "1008431426",
+    "model_number": "33201-0",
+    "description": "A perfect blend of traditional and contemporary design, the Elmbrook toilet complements a full range of bathroom styles. Beveled edges and simple lines enhance its distinctive profile. An innovative 1.28 gpf setting provides significant water savings without sacrificing performance. The toilet features Revolution 360 swirl flushing technology that keeps your bowl clean longer than a conventional flush, and the innovative AquaPiston technology offers a patented flush engine that delivers a fast, powerful, and virtually plug-free flush. This Complete Solution package comes with all the necessary installation parts and a Quiet-Close seat for added convenience.",
+    "is_exclusive": true,
+    "aisle": "37",
+    "bay": "004",
+    "feature_bullets": [
+      "Made of vitreous, ADA comfort height 1.28 GPF 360 swirl flush",
+      "AquaPiston canister provides powerful and effective flush",
+      "Soft close toilet seat, wax ring, and hardware included"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "2-piece design",
+      "Elongated bowl offers added room and comfort",
+      "Comfort height feature offers chair-height seating that makes sitting down and standing up easier for most adults",
+      "1.28 GPF (4.8 LPF)",
+      "Left-hand polished chrome trip lever",
+      "2-1/8 in. (54 mm) fully glazed trapway",
+      "Revolution 360 flushing technology generates a forceful swirling motion to keep the bowl clean longer",
+      "Sanitary guard where bowl and tank meet for ease of cleaning",
+      "Quiet-close elongated lid and seat prevents slamming",
+      "Complete Solution toilets provide everything you need, including bowl, tank, seat, wax ring, and hardware",
+      "Coordinates with other products in the elmbrook collection",
+      "AquaPiston canister optimizes the flow out of the tank, harnessing gravity and the natural powerful reducing cascade of water to increase the power and effectiveness of the flush",
+      "Easy-to-flush canister design requires less force to actuate than a 3 in. (76 mm) flapper, and has 90% less exposed seal material which resists conditions that cause wear, tear, shrinkage and swelling",
+      "Three-bolt quick-connect installation",
+      "Standard 12 in. (305 mm) rough-in",
+      "Supply line sold separately",
+      "WaterSense",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 18,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b1e9146d-bd9d-4514-b29f-dd84f604db7c/svn/white-kohler-two-piece-toilets-33201-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8acec21f-075d-490f-b6ad-3d62d900db2e/svn/white-kohler-two-piece-toilets-33201-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/58eed2a4-a073-4953-9d72-0d7e88f31ade/svn/white-kohler-two-piece-toilets-33201-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bc17e2ed-dc27-4bfd-8c64-1befd4b68243/svn/white-kohler-two-piece-toilets-33201-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79b2c27f-70dc-4add-810f-615fe36da07d/svn/white-kohler-two-piece-toilets-33201-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/262630c8-d9e4-4bf4-96a3-95cee645014a/svn/white-kohler-two-piece-toilets-33201-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cbf5d7cd-6128-41d0-b754-ecd58bdc7db2/svn/white-kohler-two-piece-toilets-33201-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0bf9727a-cca8-49c9-9102-dfde4c6b772e/svn/white-kohler-two-piece-toilets-33201-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a52e983f-4e4d-4a2d-90c7-d2104486a146/svn/white-kohler-two-piece-toilets-33201-0-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d90df285-c902-4967-9478-0382fbba2adb/svn/white-kohler-two-piece-toilets-33201-0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b5d8525d-7a61-4972-9a38-a2e1873a7225/svn/white-kohler-two-piece-toilets-33201-0-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b1e9146d-bd9d-4514-b29f-dd84f604db7c/svn/white-kohler-two-piece-toilets-33201-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxNGQ1NzlfMjMzY2Y1NjlhZDJiMjI3ZDEzMmY0NTdkZTkyOWNiNGZkODJiNDIwOTljZmExZjA4NDY5ZDY5N2IzMmQ3MGFmZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "ratings_total": 3351,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Flapper/Piston"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Complete Kit"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "Not Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "103.66 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.125 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ANSI Certified,ASME Certified,CSA Certified,EPA Approved"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "29.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "30.875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18.3125 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 259,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 19
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 2.99,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 174,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

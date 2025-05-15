@@ -1,0 +1,196 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14330,
+    "overage_used": 4330,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TRIMFINITY-WM-127-3-4-in-x-7-16-in-x-192-in-EcoPoly-Interior-Polystyrene-Shoe-Moulding-10000958/204263859"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:27:05.517Z",
+    "processed_at": "2025-05-01T18:27:09.709Z",
+    "total_time_taken": 4.19,
+    "homedepot_url": "https://www.homedepot.com/p/TRIMFINITY-WM-127-3-4-in-x-7-16-in-x-192-in-EcoPoly-Interior-Polystyrene-Shoe-Moulding-10000958/204263859"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TRIMFINITY-WM-127-3-4-in-x-7-16-in-x-192-in-EcoPoly-Interior-Polystyrene-Shoe-Moulding-10000958/204263859",
+    "brand": "TRIMFINITY",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/TRIMFINITY/N-5yc1vZ2fkp9hdZ8s7",
+    "title": "TRIMFINITY WM 127 3/4 in. x 7/16 in. x 192 in. EcoPoly Interior Polystyrene Shoe Moulding",
+    "upc": "044021800041",
+    "item_id": "204263859",
+    "store_sku": "264520",
+    "model_number": "10000958",
+    "description": "The TRIMFINITY 7/16 in. x 3/4 in. Polystyrene 127 Base Shoe makes a great transition between base molding and flooring. Polystyrene 127 Base Shoe can also be used to cover gaps where flooring surfaces meet base molding. Base Shoe is also used to cover small alignment challenges where hard surface flooring meets the wall.",
+    "favorite_count": 196,
+    "aisle": "FW",
+    "bay": "023",
+    "feature_bullets": [
+      "Durable Polystyrene molding for easy cleaning and maintenance",
+      "Paintable for a customized look",
+      "Intended for indoor use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Insect resistant and moisture resistant product that will not warp, rot or crack",
+      "Interior use only"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/99354529-205d-4d40-b1ef-fb530e7d40dd/svn/white-trimfinity-shoe-moulding-10000958-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7e132426-7e85-4be1-938e-e8dbe9cb4893/svn/white-trimfinity-shoe-moulding-10000958-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/99354529-205d-4d40-b1ef-fb530e7d40dd/svn/white-trimfinity-shoe-moulding-10000958-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 208,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polystyrene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Shoe Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "127"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.438 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Shoe Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Shoe-Moulding/N-5yc1vZ2fkp9hd"
+      }
+    ],
+    "buybox_winner": {
+      "price": 0.76,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1074
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13743,
+    "overage_used": 3743,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Lombard-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-CXS-HDMLCL272RC/320438434"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:57:07.429Z",
+    "processed_at": "2025-05-01T16:58:43.099Z",
+    "total_time_taken": 95.67,
+    "homedepot_url": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Lombard-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-CXS-HDMLCL272RC/320438434"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Lombard-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-CXS-HDMLCL272RC/320438434",
+    "brand": "Malibu Wide Plank",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/Malibu-Wide-Plank/N-5yc1vZbzjzZg40",
+    "title": "Malibu Wide Plank French Oak Lombard 20 MIL 9.1 in. x 60 in. Click Lock Waterproof Luxury Vinyl Plank Flooring (30.5 sq. ft./case) CXS",
+    "upc": "810091950272",
+    "item_id": "320438434",
+    "parent_id": "329161955",
+    "store_sku": "1007748205",
+    "model_number": "HDMLCL272RC",
+    "description": "Welcome to the most beautiful and durable Waterproof Rigid Core Vinyl Flooring: Malibu Wide Plank Designer Rigid Core with ArmorCore Technology. Our French Oak Collection offers beauty, protection and performance at a price within reach. These gorgeous 9.13\" wide and 60\" length planks have perfect clarity and enhanced grain definition with an embossed hardwood surface texture with each plank featuring micro-bevel edges and ends. This flooring can be installed on, above, or below grade in your kitchen, living room, bathrooms, bedrooms or basement. The planks are an easy DIY or Pro installation as it features a Drop-and-Lock install system. Each plank features a 1mm thick pre-attached underlayment for a floor that is durable, quiet, comfortable, and warm to walk on. This collection features exceptional on trend color tones to suit any decor from traditional to modern. The days of worrying about water damage are over as these floors are 100% waterproof. These durable floors resist scratches, dents and staining, are very easy to clean and maintain and will perform exceptionally well in homes with Kids and Pets. Malibu Wide Plank Designer Rigid Core is phthalate and formaldehyde free and has achieved the highly coveted Floor Score certification which is the most recognized indoor air quality (IAQ) certification standard for flooring materials. This collection is backed by a Lifetime Residential and 12-Year Light Commercial Warranty and features a 20mil wear layer.",
+    "feature_bullets": [
+      "Waterproof rigid planks with scratch, stain and slip resistance",
+      "Attached 1mm underlayment offers an easy DIY click-lock install",
+      "Coordinating Hardwood Flooring - Internet #311152318 & 304066043"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Embossed; low gloss; authentic hardwood surface visuals",
+      "5.5mm thickness x 9.13 in. width x 60 in. length, wear layer thickness is 20 mil",
+      "100% waterproof and water resistant; can be installed in all rooms - Above, On or Below grade",
+      "Can be installed over most existing surfaces including tile, wood, concrete and vinyl",
+      "Residential and commercial use",
+      "Easy maintenance; simply clean with a dust mop, vacuum, or damp mop",
+      "Don't forget your coordinating trim and moldings, 3-in-1 reducer, T-mold, end-cap; quarter round or flush stair nose",
+      "1mm thick pre-attached underlayment included for a floor that is durable, quiet, comfortable and warm to walk on",
+      "Drop-lock installation system that is fast and easy for DIYers and pros to install",
+      "No acclimation required; you can install right away",
+      "For use indoors and in temperature-controlled environments only",
+      "Premium ArmorCore Technology provides better stability and overall performance and hides subfloor imperfections",
+      "30.45 sq. ft. per case; 8 planks per case; case weight is 58.64 lbs.",
+      "Flooring or sample color may vary from computer or device screen representation; recommended to order a sample and view it in room where flooring will be installed",
+      "<img src=\"https://inlinecontent.thdstatic.com/23F/EVOLUTIONS FLOORING INC/3059902.jpg\">"
+    ],
+    "descriptive_attributes_count": 15,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e5812cb4-284e-4913-be48-374e3b2d993d/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/370654ae-bc93-4c64-a3cc-842f98ed2862/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/181b8418-6878-4b4d-9f23-c7f5d7c18845/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/74d80de8-2f31-4e8a-bfcb-f743e60661b0/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ae3747b6-0807-4a28-8bb4-1bb5bfda4385/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a8e561bc-141e-44fb-a845-97eb7e28000e/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/37c17e66-bfef-4f4e-836d-b092b0be1d6e/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5ba5223e-b75b-4a72-9bdd-915ef89a0e90/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4bcfb374-2f4d-4320-8d43-2082323e751f/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4e563415-a400-4b31-8c76-e624c0ff245f/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/994d5168-1299-4c9e-8941-5d09fab59d4b/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cfddfcca-afec-4126-bfbd-5b44b48f4f24/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/994d5168-1299-4c9e-8941-5d09fab59d4b/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/22e4b1be-8a8d-4d6f-bef5-41056d2e3d1b/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e5812cb4-284e-4913-be48-374e3b2d993d/svn/lombard-malibu-wide-plank-vinyl-plank-flooring-hdmlcl272rc-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1585a270-bd87-4331-980e-342ffacea3c7/19f2ec1b-97eb-4907-be1e-de063ded592d/main.mp4?fastly_token=NjgzODI3OGVfMmRlNjNmZmM4NWY3ZWQxMjhkZDdmNzEyMTNkNGU0ODUwOTFkNGJiOWIzZjM2ZmY2NmNiOTRhMjk3MjYxZjRlOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xNTg1YTI3MC1iZDg3LTQzMzEtOTgwZS0zNDJmZmFjZWEzYzcvMTlmMmVjMWItOTdlYi00OTA3LWJlMWUtZGUwNjNkZWQ1OTJkL21haW4ubXA0&pubid=66036796001",
+        "title": "SPC Installation video",
+        "id": "6322286046112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/1585a270-bd87-4331-980e-342ffacea3c7/main/160x90/55s61ms/match/image.jpg?pubId=66036796001",
+        "description": "SPC Installation video"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/67e04d12-8257-43c3-b9f8-fca139bd11a0/20d20055-e59d-491d-a7be-b5231a87cf57/main.mp4?fastly_token=NjgzODI4OGFfZDNmZTJlMTExZmQ3MzQzMTYxNTAwYWFjOTI1NzU1YzlmYWU0MGM5MmM2ZGZiOTdjMDcxN2UxYTVhYjBmYzkxNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82N2UwNGQxMi04MjU3LTQzYzMtYjlmOC1mY2ExMzliZDExYTAvMjBkMjAwNTUtZTU5ZC00OTFkLWE3YmUtYjUyMzFhODdjZjU3L21haW4ubXA0&pubid=66036796001",
+        "title": "Hometalk Berkeley color",
+        "id": "6342544951112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/67e04d12-8257-43c3-b9f8-fca139bd11a0/main/160x90/1m44s618ms/match/image.jpg?pubId=66036796001",
+        "description": "Hometalk installation video with Berkeley color floor."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/abbae131-78f8-40e5-9cab-7b788f27327d/7951da0e-8889-450a-9a5f-281cd16a8a73/main.mp4?fastly_token=NjgzODI5NGZfYWE3YzI5ODE1NGZjNDVhZjRkMTcyYTczN2YwN2YwZjMwMjhhMTg5NDVhZjA2ZGQxZmY2YzhhZWM4YTBjNGU2Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hYmJhZTEzMS03OGY4LTQwZTUtOWNhYi03Yjc4OGYyNzMyN2QvNzk1MWRhMGUtODg4OS00NTBhLTlhNWYtMjgxY2QxNmE4YTczL21haW4ubXA0&pubid=66036796001",
+        "title": "MLCL272 Lombard Close up short video",
+        "id": "6367797392112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/abbae131-78f8-40e5-9cab-7b788f27327d/main/160x90/4s640ms/match/image.jpg?pubId=66036796001",
+        "description": "MLCL272 Lombard close up short video"
+      }
+    ],
+    "ratings_total": 176,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Antimicrobial",
+        "value": "Non-antimicrobial"
+      },
+      {
+        "group_name": "Details",
+        "name": "Application Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cases Per Pallet",
+        "value": "48"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Lombard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Micro Beveled"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Mark Resistant,Phthalate Free,Removable,Scratch Resistant,Skid Resistant,Stain Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Vinyl Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Wood Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gloss",
+        "value": "Low Gloss"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Click Lock"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installs Over Subfloor",
+        "value": "Concrete,Plywood,Tile,Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Kitchen"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "No Acclimation Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Look",
+        "value": "Straight Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pieces Per Case",
+        "value": "8"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Length",
+        "value": "Extra Long"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Width",
+        "value": "Wide plank (7+ in)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "58.64 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Species Look",
+        "value": "Oak Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Underlayment Options",
+        "value": "Underlayment Required - Pre-Attached"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Waterproof"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "FloorScore"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime limited residential, 12 years limited light commercial"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Plank Size (in.)",
+        "value": "60 x 9"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "60 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "5.5 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "9.13 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wear Layer Thickness (mil)",
+        "value": "20 MIL"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Crown~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Crown-20-MIL-9-1-in-W-x-60-in-L-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-CXS-HDMLCL401RC/320438571",
+        "item_id": "320438571"
+      },
+      {
+        "title": "Mavericks~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Mavericks-20-MIL-9-1-in-W-x-60-in-L-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sqft-case-CXS-HDMLCL953RC/322181490",
+        "item_id": "322181490"
+      },
+      {
+        "title": "Steinhart~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Steinhart-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-CXS-HDMLCL388RC/320438544",
+        "item_id": "320438544"
+      },
+      {
+        "title": "Tunitas~~60 x 7~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Tunitas-20-MIL-7-2-in-W-x-60-in-L-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-23-9-sq-ft-case-CXS-HDMVCL950RC/324817317",
+        "item_id": "324817317"
+      },
+      {
+        "title": "Lombard~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Lombard-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-CXS-HDMLCL272RC/320438434",
+        "item_id": "320438434"
+      },
+      {
+        "title": "Astoria~~60 x 9~~20 MIL~~Case",
+        "link": "https://www.homedepot.com/p/Malibu-Wide-Plank-French-Oak-Astoria-20-MIL-9-1-in-x-60-in-Click-Lock-Waterproof-Luxury-Vinyl-Plank-Flooring-30-5-sq-ft-case-CXS-HDMLCL364RC/320438518",
+        "item_id": "320438518"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Vinyl Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring/N-5yc1vZapwr"
+      },
+      {
+        "name": "Vinyl Plank Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/N-5yc1vZbzjz"
+      }
+    ],
+    "buybox_winner": {
+      "price": 91.05,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 112.36,
+      "unit": "case"
+    }
+  }
+}

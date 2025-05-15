@@ -1,0 +1,20 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13291,
+    "overage_used": 3291,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FastenMaster-Collated-Cortex-Hidden-Fastening-System-for-AZEK-Trim-2-inch-Cortex-screws-and-plugs-Traditional-50-LF-FMCTXTCL-AZ50TDHD/315576915"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:52:09.781Z",
+    "processed_at": "2025-05-01T13:52:15.592Z",
+    "total_time_taken": 5.81,
+    "homedepot_url": "https://www.homedepot.com/p/FastenMaster-Collated-Cortex-Hidden-Fastening-System-for-AZEK-Trim-2-inch-Cortex-screws-and-plugs-Traditional-50-LF-FMCTXTCL-AZ50TDHD/315576915"
+  }
+}

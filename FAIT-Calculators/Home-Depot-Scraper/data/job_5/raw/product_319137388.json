@@ -1,0 +1,170 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13229,
+    "overage_used": 3229,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Falken-Design-1-2-in-x-2-ft-x-8-ft-A2-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-1-2-2496/319137388"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:49:35.046Z",
+    "processed_at": "2025-05-01T13:49:41.831Z",
+    "total_time_taken": 6.79,
+    "homedepot_url": "https://www.homedepot.com/p/Falken-Design-1-2-in-x-2-ft-x-8-ft-A2-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-1-2-2496/319137388"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Falken-Design-1-2-in-x-2-ft-x-8-ft-A2-Birch-Plywood-Project-Panel-FALKENDESIGN-PW-Birch-A2-1-2-2496/319137388",
+    "brand": "Falken Design",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Falken-Design/N-5yc1vZc7hmZogx",
+    "title": "Falken Design 1/2 in. x 2 ft. x 8 ft. A2 Birch Plywood Project Panel",
+    "upc": "810078683186",
+    "item_id": "319137388",
+    "store_sku": "1007964683",
+    "model_number": "FALKENDESIGN-PW-Birch-A2-1/2-2496",
+    "description": "Plywood it is an economical and readily available alternative to solid wood. Plywood is a more stable and a lot less expensive alternative to solid lumber. Most cabinet and furniture makers use plywood with solid wood trimming to create beautiful cabinetry and furniture. Plywood is manufactured with different thickness of veneers. The multi-ply structure provide a steady, stable, strong and excellent panel at an affordable price.",
+    "feature_bullets": [
+      "Durable, rigid and resistant",
+      "Great for arts & crafts projects or DIY project work",
+      "Surfaces provide excellent holding power"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Excellent durable, rigid and resistant",
+      "Grade A2 - quality grading the surface of the material will be consistent in appearance with no large variations in color small pin knots are allowed",
+      "7-ply for core plus face and back",
+      "Surfaces provide excellent holding power for glue and screws",
+      "Excellent for arts and crafts, school projects and DIY projects, drawing, painting, wood engraving, wood burning and laser projects",
+      "EPA CARB certified"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/8fdee48b-ef21-40f5-93c4-936b6dd82751/svn/falken-design-project-panels-falkendesign-pw-birch-a2-1-2-2496-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/8fdee48b-ef21-40f5-93c4-936b6dd82751/svn/falken-design-project-panels-falkendesign-pw-birch-a2-1-2-2496-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Hardwood Plywood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "95.937 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".472 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "23.9375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 77.11,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 100,
+          "price": 55,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

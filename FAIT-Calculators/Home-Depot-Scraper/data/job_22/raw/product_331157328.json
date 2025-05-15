@@ -1,0 +1,174 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14499,
+    "overage_used": 4499,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Signature-Composite-Deck-Board-Ocracoke-Grooved-Actual-Size-94-in-W-x-5-1-2-in-OC010620NG01-OC010620NG01/331157328"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:45:07.558Z",
+    "processed_at": "2025-05-01T18:45:53.518Z",
+    "total_time_taken": 45.96,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Signature-Composite-Deck-Board-Ocracoke-Grooved-Actual-Size-94-in-W-x-5-1-2-in-OC010620NG01-OC010620NG01/331157328"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Signature-Composite-Deck-Board-Ocracoke-Grooved-Actual-Size-94-in-W-x-5-1-2-in-OC010620NG01-OC010620NG01/331157328",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 x 6-20 Cu. Ft. Trex Signature Composite Deck Board Ocracoke Grooved Actual Size: .94 in. W. x 5-1/2 in. OC010620NG01",
+    "upc": "652835231731",
+    "item_id": "331157328",
+    "parent_id": "331943116",
+    "store_sku": "1009730234",
+    "model_number": "OC010620NG01",
+    "description": "Whatever your vision, Signature decking invites you to put your personal stamp on the great outdoors, transforming your backyard into a haven of natural beauty and relaxation. With distinct durability, Signature decking is crafted with the beauty of nature in mind. Immerse yourself in the mist of Whidbey, where salt-kissed cliffs meet the rolling fog in a seamless embrace. Or, find solace in the serene seclusion of Ocracoke, where sandy dunes and marshy shores create an oasis of tranquility. Trex Signature decking is setting a new standard in outdoor living. Explore Signature railing; the finishing touch to complement and complete your look.",
+    "descriptive_attributes": [
+      "Distinctively durable and luxuriously crafted with eco-friendly composite made from recycled and reclaimed materials",
+      "Escape to a secluded island sheltered by the brown hues of sandy dunes and marshy shores",
+      "High-performance, low-maintenance boards clean easily with soap and water and never need sanding, staining, or painting",
+      "Unmatched high-performance shell: fade, stain, scratch, and mold-resistance",
+      "Backed by 50-year limited residential and fade and stain warranties",
+      "Grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Altogether new design material for those who find joy at home and inspiration in nature",
+      "Made of 95% recycled materials in the USA"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b6913374-57be-49f8-a5df-e2d380a4f917/svn/ocracoke-trex-composite-decking-boards-oc010620ng01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0b668eac-c5e3-4302-a90a-86820181b775/svn/ocracoke-trex-composite-decking-boards-oc010620ng01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b6913374-57be-49f8-a5df-e2d380a4f917/svn/ocracoke-trex-composite-decking-boards-oc010620ng01-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Ocracoke"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 50-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "54"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Ocracoke~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-16-Cu-Ft-Trex-Signature-Composite-Deck-Board-Ocracoke-Grooved-Actual-Size-94-in-W-x-5-1-2-in-OC010616NG01-OC010616NG01/331157276",
+        "item_id": "331157276"
+      },
+      {
+        "title": "Ocracoke~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-12-Cu-Ft-Trex-Signature-Composite-Deck-Board-Ocracoke-Grooved-Actual-Size-94-in-W-x-5-1-2-in-OC010612NG01-OC010612NG01/331157240",
+        "item_id": "331157240"
+      },
+      {
+        "title": "Ocracoke~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-20-Cu-Ft-Trex-Signature-Composite-Deck-Board-Ocracoke-Grooved-Actual-Size-94-in-W-x-5-1-2-in-OC010620NG01-OC010620NG01/331157328",
+        "item_id": "331157328"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

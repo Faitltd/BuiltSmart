@@ -1,0 +1,296 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13988,
+    "overage_used": 3988,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-F-150-1-in-x-4-ft-x-8-ft-SSE-R-5-XPS-Rigid-Foam-Board-Insulation-20WENGX/315197840"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:40.248Z",
+    "processed_at": "2025-05-01T17:50:43.771Z",
+    "total_time_taken": 3.52,
+    "homedepot_url": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-F-150-1-in-x-4-ft-x-8-ft-SSE-R-5-XPS-Rigid-Foam-Board-Insulation-20WENGX/315197840"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-F-150-1-in-x-4-ft-x-8-ft-SSE-R-5-XPS-Rigid-Foam-Board-Insulation-20WENGX/315197840",
+    "brand": "Owens Corning",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Insulation-Foam-Board-Insulation/Owens-Corning/N-5yc1vZbaxxZ3q5",
+    "title": "Owens Corning FOAMULAR NGX F-150 1 in. x 4 ft. x 8 ft. SSE R-5 XPS Rigid Foam Board Insulation",
+    "upc": "047563721522",
+    "item_id": "315197840",
+    "parent_id": "320953449",
+    "store_sku": "1006240747",
+    "model_number": "20WENGX",
+    "description": "Owens Corning FOAMULAR NGX (Next Generation Extruded) insulation, is produced with a proprietary blowing agent that delivers a 90% reduction to Global Warming Potential (100 year) compared to current FOAMULAR. The new formulation and production process meets or exceeds new, more stringent regulatory standards without sacrificing product performance and offers a comprehensive line of products in a wide choice of sizes, thicknesses and edges with a Lifetime limited warranty for the life of the home or building. Foam insulation boards are easy to handle, score, cut and install & no special tools are needed. Foam insulation products can be used on wood, steel framing or concrete walls. FOAMULAR NGX resists moisture and retains R-value even after exposure to standing water and wet soil. Owens Corning FOAMULAR NGX insulation offers all the physical properties and ease-of-use you expect from Owens Corning FOAMULAR insulation with industry-leading sustainability.",
+    "aisle": "26",
+    "bay": "022",
+    "collection": {
+      "id": "Family-311813934",
+      "name": "Family-311813934",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Owens-Corning-Exterior-Insulation/Family-311813934?omsid=315197840"
+    },
+    "feature_bullets": [
+      "Versatile XPS insulation for a variety of applications",
+      "Exceptional moisture resistance",
+      "Mildew resistant; easy to cut and install"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Insulation Application: basement and crawl space walls, OSB insulating sheathing, garage walls, attic walls",
+      "Strong, lightweight pink foam panels don't require special tools",
+      "Excellent energy efficiency in the form of a high R-5 per inch. R means the resistance to heat flow, the higher the value, the greater the insulation power. This insulation must be installed properly to get the marked R-value. Follow the manufacturer's instructions carefully. If a manufacturer's fact sheet is not provided with the material shipment, request this and review it carefully. The U.S.FTC requires the R-value of home insulation to be measured at 75\u00baF mean temperature. R-value claims should always be compared at the same mean temperature.",
+      "Low water absorption potential, delivering outstanding R-value retention in the presence of water",
+      "XPS with a limited lifetime warranty has a minimum 90% of R-value for the life of the product. See actual warranty for complete details, limitations and requirements.",
+      "Manufactured with a blowing agent that delivers a greater than 80% reduction in global warming potential as compared to legacy FOAMULAR(R) XPS Insulation.",
+      "Listed in the Energy Star Seals and Insulates program.",
+      "Tested by a third party certification body to ensure product performance and Code acceptance.",
+      "GREENGUARD Certified products are certified to GREENGUARD standards for low chemical emissions into indoor air during product usage.",
+      "Wide range of compressive strengths - up to 100 psi - to handle heavy loads",
+      "Completely eliminates use of HFC (hydrofluorocarbon) 134a",
+      "FOAMULAR NGX is available in two edge configurations: Square Edge - designed to fit flush next to adjoining boards; Scored Square Edge - comes with 3 factory scores, so that you can take a 4' sheet, break it in two and have two, 2' wide sheets (middle score), or you can break it into three 16\" wide pieces by snapping at the left and right score.",
+      "FOAMULAR NGX 150 and 250 are available in various thicknesses and R-values, the difference is the compressive strength. FOAMULAR 150 has a compressive strength of 15 psi and FOAMULAR 250 is 25 psi",
+      "When using FOAMULAR NGX, always verify the moisture vapor flow and dew point characteristics of the wall system, please check your local building codes for vapor retarder/barrier information",
+      "FOAMULAR NGX is not rated for STC (sound transmission) and does not have any soundproofing properties. Owens Corning fiberglass batts and rolls are great options for acoustic applications.",
+      "FOAMULAR NGX cannot be left exposed and will need to be covered by a 15-minute thermal barrier such as drywall",
+      "If being used for crafts, acrylic or latex based paints can be used with FOAMULAR NGX products",
+      "If you're looking to insulate your garage door, <a href=\"https://www.homedepot.com/p/owens-corning-garage-door-fiberglass-insulation-Kit-22-in-x-54-in-8-Panels-GD01/202257272\" target=\"_blank\" style=\"color:#F96302,\">owens corning garage door insulation Kit</a> is an easy, fast and affordable way to keep your garage warm in winter and cool in the summer",
+      "Click here to shop <a href=\"https://www.homedepot.com/b/Building-Materials-Insulation-Foam-Board-Insulation/Owens-Corning/N-5yc1vZbaxxZ3q5\" target=\"_blank\" style=\"color:#F96302;\">Owens Corning Foam Board Insulation</a> styles",
+      "Click here to shop <a href=\"https://www.homedepot.com/p/Loctite-PL-300-10-fl-oz-foamboard-adhesive-1421941/202020476\" target=\"_blank\" style=\"color:#F96302,\">loctite foamboard adhesive</a>",
+      "Click here to learn more about <a href=\"https://www.homedepot.com/c/ab/insulation-r-values/9ba683603be9fa5395fab9091a9131f\" target=\"_blank\" style=\"color:#F96302;\">Insulation R-Values</a>"
+    ],
+    "descriptive_attributes_count": 21,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d08a08d4-66bc-4c52-8739-8fd4bef7dc9a/svn/owens-corning-foam-board-insulation-20wengx-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab2497f3-686a-461c-b214-59c69d22b7e1/svn/owens-corning-foam-board-insulation-20wengx-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/343676bf-4b98-466d-a79d-f586aad77c09/svn/owens-corning-foam-board-insulation-20wengx-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e83e5753-faff-49d8-bd06-a92eae738802/svn/owens-corning-foam-board-insulation-20wengx-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1187a651-20b4-4af1-a768-1f438949a799/svn/owens-corning-foam-board-insulation-20wengx-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b601077f-b1fb-4b6f-afcc-11cffe06c087/svn/owens-corning-foam-board-insulation-20wengx-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0bc1983a-db54-494b-947e-e12288bde8ba/svn/owens-corning-foam-board-insulation-20wengx-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c318333-5d55-4703-8f7f-2c031376613e/svn/owens-corning-foam-board-insulation-20wengx-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d08a08d4-66bc-4c52-8739-8fd4bef7dc9a/svn/owens-corning-foam-board-insulation-20wengx-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/81d2467f-fb30-4247-bdaf-24851406cf5f/c14ca0c4-a4c8-402c-986e-50aade2f7936/main.mp4?fastly_token=NjgzODI3MGRfNjAxNjhkNDMyYjdmY2Q3OTBjMTRkNjY1OTNkZWNjNDY2NWZlY2UxMjU0MmEyNjc2ZDk3NDFjM2JmOTQ5Y2ZlOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS84MWQyNDY3Zi1mYjMwLTQyNDctYmRhZi0yNDg1MTQwNmNmNWYvYzE0Y2EwYzQtYTRjOC00MDJjLTk4NmUtNTBhYWRlMmY3OTM2L21haW4ubXA0&pubid=66036796001",
+        "title": "FOAMULAR - Exterior Walls",
+        "id": "5816298842001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/81d2467f-fb30-4247-bdaf-24851406cf5f/c5ae34ff-71a3-43f7-9877-a71ddb82b9d4/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Watch this video to learn how Foamular can insulate your exterior walls."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/3247f797-ecc0-49ba-a2f6-64d2e518cce0/7cd91142-9673-4855-98aa-8534f1db5ad1/main.mp4?fastly_token=NjgzODI3MjVfNWEyOTU5MGZkOGI2YjBlMjc0NTg3NjNmZDdhMjMwYjkxYzYyZmY5MmViYjg3MTIyZGJmZTFhMjY2OWNiNzBjYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zMjQ3Zjc5Ny1lY2MwLTQ5YmEtYTJmNi02NGQyZTUxOGNjZTAvN2NkOTExNDItOTY3My00ODU1LTk4YWEtODUzNGYxZGI1YWQxL21haW4ubXA0&pubid=66036796001",
+        "title": "FOAMULAR - Basement Walls",
+        "id": "5816308122001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/3247f797-ecc0-49ba-a2f6-64d2e518cce0/ddd342cf-674e-4619-97b3-a3877ec0ba94/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Watch this video to learn how Foamular can insulate your basement walls."
+      }
+    ],
+    "ratings_total": 920,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Compatible Install Surface",
+        "value": "Concrete,Plywood,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Faced or Unfaced",
+        "value": "Unfaced"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Features",
+        "value": "Formaldehyde Free,Moisture Retardant,Mold Resistant,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Location",
+        "value": "Basement,Crawlspace,Exterior Sheathing,Exterior Wall,Exterior Wall Foundation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value",
+        "value": "R5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Type",
+        "value": "Foam Board Insulation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior/Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "4.41 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sheathing Size",
+        "value": "8 ft. x 1 in. x 48 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Sheathing Type",
+        "value": "XPS"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Warranty Information",
+        "value": "Limited Lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cover Area Per Bag (sq. ft.)",
+        "value": "0 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "32 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "48 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1~~8 ft. x 2 in. x 48 in.",
+        "link": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-F-250-2-in-x-4-ft-x-8-ft-SSE-R-10-XPS-Rigid-Foam-Board-Insulation-52DDNGX/315197962",
+        "item_id": "315197962"
+      },
+      {
+        "title": "1~~8 ft. x 3 in. x 48 in.",
+        "link": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-F-250-3-in-x-4-ft-x-8-ft-Scored-Square-Edge-XPS-R-15-Rigid-Foam-Board-Insulation-9GBNGX/316462139",
+        "item_id": "316462139"
+      },
+      {
+        "title": "1~~8 ft. x 1.5 in. x 48 in.",
+        "link": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-F-150-1-5-in-x-4-ft-x-8-ft-SSE-R-7-5-XPS-Rigid-Foam-Board-Insulation-88WDNGX/315197857",
+        "item_id": "315197857"
+      },
+      {
+        "title": "1~~2 ft. x 1 in. x 24 in.",
+        "link": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-1-in-x-2-ft-x-2-ft-R-5-Project-Panel-XPS-Rigid-Foam-Board-Insulation-9WE/315401957",
+        "item_id": "315401957"
+      },
+      {
+        "title": "1~~8 ft. x 1 in. x 48 in.",
+        "link": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-F-150-1-in-x-4-ft-x-8-ft-SSE-R-5-XPS-Rigid-Foam-Board-Insulation-20WENGX/315197840",
+        "item_id": "315197840"
+      },
+      {
+        "title": "1~~8 ft. x 0.5 in. x 48 in.",
+        "link": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-Insulating-Sheathing-0-5-in-x-4-ft-x-8-ft-SE-R-3-XPS-Rigid-Foam-Board-Insulation-13NGX/315193939",
+        "item_id": "315193939"
+      },
+      {
+        "title": "1~~8.0 ft. x 2 in. x 48.00 in.",
+        "link": "https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-150-2-in-x-4-ft-x-8-ft-R10-Unfaced-Foam-Board-Scored-Square-XPS-Extruded-Insulation-32-sq-ft-87WDNG-87WDNGX/316462145",
+        "item_id": "316462145"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation/N-5yc1vZasbs"
+      },
+      {
+        "name": "Foam Board Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation-Foam-Board-Insulation/N-5yc1vZbaxx"
+      }
+    ],
+    "buybox_winner": {
+      "price": 31.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 45
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 3154,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

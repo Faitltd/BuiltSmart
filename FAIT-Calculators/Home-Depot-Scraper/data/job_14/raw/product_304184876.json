@@ -1,0 +1,179 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13951,
+    "overage_used": 3951,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/OWT-Ornamental-Wood-Ties-Laredo-Sunset-Lite-6-in-x-6-in-Bulk-Galvanized-Steel-Elevated-Post-Base-54208/304184876"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:12:25.403Z",
+    "processed_at": "2025-05-01T17:13:04.110Z",
+    "total_time_taken": 38.71,
+    "homedepot_url": "https://www.homedepot.com/p/OWT-Ornamental-Wood-Ties-Laredo-Sunset-Lite-6-in-x-6-in-Bulk-Galvanized-Steel-Elevated-Post-Base-54208/304184876"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/OWT-Ornamental-Wood-Ties-Laredo-Sunset-Lite-6-in-x-6-in-Bulk-Galvanized-Steel-Elevated-Post-Base-54208/304184876",
+    "brand": "Unbranded",
+    "title": "Unbranded OWT (Ornamental Wood Ties) Laredo Sunset Lite 6 in. x 6 in. Bulk Galvanized Steel Elevated Post Base",
+    "upc": "848166008184",
+    "item_id": "304184876",
+    "parent_id": "309902021",
+    "store_sku": "1002943111",
+    "model_number": "54208",
+    "description": "Like the OWT Post base, the new OWT Lite by OZCO is beautifully designed and features some of the same patented features as the Original. It also features a 1 in. offset to meet international residential building code for installation using non rot-resistant lumber. The OWT Lite products are simplified versions of the original OWT products designed to meet the minimum load requirements and offered at a lower price point. The main differences between OWT Lite and Original is that the OWT Lite version has plates on 2-sides instead of all 4 and is fabricated with steel that is 40% thinner. OWT Lite Bases are made of galvanized steel, then black powder coated for an attractive finish. OWT Lite can be combined with the entire line of OWT connectors for a uniform and professional look throughout your whole project. Like the original OWT Post base, OWT Lite features individually adjustable plates that allow them to fit tightly against each side of the post every time depending on species or market.",
+    "favorite_count": 48,
+    "feature_bullets": [
+      "Adjustable plates fit tightly on all standard 6 in. x 6 in. posts",
+      "Black powder-coated finish ensures resistance to corrosion",
+      "Made from galvanized steel for strength and durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Kit includes: 1-base, 2-compression plates, 4-hex cap nuts, 4-3/8 in. H-bolts and 4-1-3/4 in. OWT timber screws",
+      "Adjustable to fit all standard 6 in. x 6 in. posts (5-1/2 in. to 6 in.)",
+      "All hardware included",
+      "OWT lite - OZCO style and strength at a great price",
+      "Easy installation",
+      "Available in sizes: 4 in. x 4 in., 6 in. x 6 in. and 8 in. x 8 in.",
+      "Beautiful black powder-coated finish for long-lasting, non-corrosive wear",
+      "Approved for use with ACQ treated lumber"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/eda91cf1-b2a4-4557-9a34-76067317f456/svn/post-bases-54208-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2769bf1a-ebb0-4d72-9560-a216c844a850/svn/post-bases-54208-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/eda91cf1-b2a4-4557-9a34-76067317f456/svn/post-bases-54208-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 37,
+    "rating": 4.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Adjustable Post Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Powder coated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Decorative"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "4.9 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "6x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "7.48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Powder coated",
+        "link": "https://www.homedepot.com/p/OWT-Ornamental-Wood-Ties-Laredo-Sunset-Lite-6-in-x-6-in-Bulk-Galvanized-Steel-Elevated-Post-Base-54208/304184876",
+        "item_id": "304184876"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 51.52,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

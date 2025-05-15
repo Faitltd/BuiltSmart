@@ -1,0 +1,216 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14856,
+    "overage_used": 4856,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-12-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2265-24/318033455"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:54:12.048Z",
+    "processed_at": "2025-05-01T19:55:06.988Z",
+    "total_time_taken": 54.94,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-12-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2265-24/318033455"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-12-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2265-24/318033455",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 12 in. x 24 ft. GDF #2 Standard Grade Dimensional Lumber",
+    "upc": "761542005372",
+    "item_id": "318033455",
+    "parent_id": "320454959",
+    "store_sku": "1006805694",
+    "model_number": "2265-24",
+    "description": "Every piece meets the highest grading standards for strength and appearance. Dimensional lumber is ideal for a wide range of structural and nonstructural applications including framing of houses, barns, sheds, and commercial construction. It can also be used for projects such as furniture and hobbies, and comes in a variety of widths and lengths. Dimensional lumber can also be used in exterior applications as long as it is properly primed and painted or sealed and stained.",
+    "feature_bullets": [
+      "Great for strength where appearance is not as important",
+      "Straight #2 Grade. May contain splits, wane and holes to grade.",
+      "Easy to cut, fasten and paint, perfect for many building projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from douglas fir for quality and strength",
+      "Can be primed and painted or sealed and stained",
+      "Smooth texture and appearance",
+      "Prime-quality #2 grade lumber for interior or exterior use",
+      "Can also be used for projects such as furniture and hobbies, and comes in a variety of widths and lengths"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/271d0477-e775-4c50-aba8-63faea4048c7/svn/framing-lumber-2265-24-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9a3b6a26-64bf-4052-99cd-c800b86ca6f4/svn/framing-lumber-2265-24-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c17c2f35-4e16-47fc-9d14-f10cf5c4870a/svn/framing-lumber-2265-24-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dba65f46-c9af-446d-ac00-586393dc3eac/svn/framing-lumber-2265-24-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/50120c10-1a87-47b1-a792-c59696b02b3a/svn/framing-lumber-2265-24-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/271d0477-e775-4c50-aba8-63faea4048c7/svn/framing-lumber-2265-24-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 6,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable,Untreated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Fir"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Douglas Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "24 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.562 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "24 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "24 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2263-24/318033428",
+        "item_id": "318033428"
+      },
+      {
+        "title": "26 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-26-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2262-26/318286136",
+        "item_id": "318286136"
+      },
+      {
+        "title": "24 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2264-24/318033446",
+        "item_id": "318033446"
+      },
+      {
+        "title": "22 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-22-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2263-22/318287595",
+        "item_id": "318287595"
+      },
+      {
+        "title": "28 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-28-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2264-28/318287547",
+        "item_id": "318287547"
+      },
+      {
+        "title": "24 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2262-24/318033411",
+        "item_id": "318033411"
+      },
+      {
+        "title": "24 ft~~2x2",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-26-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2263-26/318287600",
+        "item_id": "318287600"
+      },
+      {
+        "title": "24 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2265-24/318033455",
+        "item_id": "318033455"
+      },
+      {
+        "title": "28 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-28-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2263-28/318287603",
+        "item_id": "318287603"
+      },
+      {
+        "title": "28 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-28-ft-GDF-2-Standard-Grade-Dimensional-Lumber-2262-28/318286151",
+        "item_id": "318286151"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

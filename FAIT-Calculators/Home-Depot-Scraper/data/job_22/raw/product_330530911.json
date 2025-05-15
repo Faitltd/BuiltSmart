@@ -1,0 +1,170 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14628,
+    "overage_used": 4628,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1x6-20-Trex-Transcend-Lineage-Composite-Deck-Board-Island-Mist-Square-Edge-Actual-Size-94-x-5-5-IM010620TLS01-IM010620TLS01/330530911"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:57:40.213Z",
+    "processed_at": "2025-05-01T18:58:21.818Z",
+    "total_time_taken": 41.6,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1x6-20-Trex-Transcend-Lineage-Composite-Deck-Board-Island-Mist-Square-Edge-Actual-Size-94-x-5-5-IM010620TLS01-IM010620TLS01/330530911"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1x6-20-Trex-Transcend-Lineage-Composite-Deck-Board-Island-Mist-Square-Edge-Actual-Size-94-x-5-5-IM010620TLS01-IM010620TLS01/330530911",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1x6-20' Trex Transcend Lineage Composite Deck Board - Island Mist Square Edge (Actual Size: .94\"x 5.5\") IM010620TLS01",
+    "upc": "652835379259",
+    "item_id": "330530911",
+    "store_sku": "1011502079",
+    "model_number": "IM010620TLS01",
+    "description": "Elevate your outdoor space with Trex Transcend Lineage decking, where luxury meets durability. With five exquisite color options including Island Mist, Rainier, Carmel, Biscayne, and Jasper, you can effortlessly craft a serene retreat that reflects your personal style. But beauty isn't the only feature; our decking is engineered to stay cooler under the sun, ensuring your comfort even on the hottest days.* Plus, with its robust shell protection, Transcend Lineage decking resists fading and staining, offering long-lasting beauty with minimal maintenance. Enjoy peace of mind with our 50-year Limited Residential Warranty, knowing your deck will remain a stunning centerpiece for years to come. Experience the pinnacle of outdoor living with Trex Transcend Lineage decking.",
+    "feature_bullets": [
+      "Island Mist Composite Deck Board is 5.5 in. L x 6 in W",
+      "20-foot length of decking provides extra space",
+      "Trex hidden fasteners allow for easy installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Trex composite decking is a durable, beautiful and eco-friendly alternative to traditional wood",
+      "A cool medley of calming silver tones and refined grain pattern",
+      "High-performance, low-maintenance boards clean easily with soap and water and never need sanding, staining or painting",
+      "Made of quality composite for durability; won't rot or splinter",
+      "Backed by 50-Year Limited Residential and Fade and Stain warranties",
+      "Use grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Transcend Lineage is engineered to keep your deck cooler, even on the hottest days",
+      "Made of 95% recycled materials in the USA"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ae04a9dc-2530-41c4-98a9-fd9a41f007c0/svn/island-mist-trex-composite-decking-boards-im010620tls01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/33775226-1513-4a7e-90f4-674f7298eb7a/svn/island-mist-trex-composite-decking-boards-im010620tls01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6ec5b6e0-7a52-4736-8fea-cebe0b21aeef/svn/island-mist-trex-composite-decking-boards-im010620tls01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2d301ae1-092a-4199-8cbf-309a3a4e4fe4/svn/island-mist-trex-composite-decking-boards-im010620tls01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ae04a9dc-2530-41c4-98a9-fd9a41f007c0/svn/island-mist-trex-composite-decking-boards-im010620tls01-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Island Mist"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 50-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "54"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

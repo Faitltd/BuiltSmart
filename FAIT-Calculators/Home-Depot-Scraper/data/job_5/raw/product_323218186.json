@@ -1,0 +1,205 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13168,
+    "overage_used": 3168,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-11-16-in-x-3-1-2-in-Craftsman-FEMDF-Casing-FE38C-E6192C/323218186"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:46:12.002Z",
+    "processed_at": "2025-05-01T13:46:21.159Z",
+    "total_time_taken": 9.16,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-11-16-in-x-3-1-2-in-Craftsman-FEMDF-Casing-FE38C-E6192C/323218186"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-11-16-in-x-3-1-2-in-Craftsman-FEMDF-Casing-FE38C-E6192C/323218186",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/FINISHED-ELEGANCE/N-5yc1vZclf5Zr98",
+    "title": "FINISHED ELEGANCE 11/16 in. x 3-1/2 in. Craftsman FEMDF Casing",
+    "upc": "095624524193",
+    "item_id": "323218186",
+    "store_sku": "1005929294",
+    "model_number": "FE38C-E6192C",
+    "description": "Add character and lasting value to your home with Finished Elegance prefinished casing. Featuring a smooth factory-finished white surface, our Craftsman-style base moulding is ready to take home and install - no sanding, priming, and waiting for paint to dry required. MDF casing is a great way to update your room and highlight the special care that has gone into your property. Mouldings can increase the value of your home or business estate and are an inexpensive way to add character and flair. Casings work great to cover the gap between the drywall and the door or window frame and can easily be combined with other Finished Elegance profiles for a custom build-up to turn up the elegance of any room.",
+    "aisle": "19",
+    "bay": "011",
+    "feature_bullets": [
+      "Premium MDF build ensures durability",
+      "Craftsman profile complements various home decor",
+      "Pre-cut length offers easy installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Premium MDF for enhanced appearance and durability",
+      "Perfect to upgrade entrances/exits in your home",
+      "Pre-applied beautiful crisp white finish",
+      "Craftsman profile complements a variety of home styles",
+      "Combine 2 or more profiles for unique build-up designs",
+      "Best for indoor and low-moisture applications",
+      "Pre-cut length for easy handling and installation"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ed10e4e5-3467-4da1-8d20-5446e2fad036/svn/white-finished-elegance-casing-fe38c-e6192c-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46c2035a-792d-4ee5-af09-be9a2090650d/svn/white-finished-elegance-casing-fe38c-e6192c-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19c454b9-3fdc-4a81-907c-ab45a6107f5d/svn/white-finished-elegance-casing-fe38c-e6192c-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ed10e4e5-3467-4da1-8d20-5446e2fad036/svn/white-finished-elegance-casing-fe38c-e6192c-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "0"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.29,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 962
+        }
+      }
+    }
+  }
+}

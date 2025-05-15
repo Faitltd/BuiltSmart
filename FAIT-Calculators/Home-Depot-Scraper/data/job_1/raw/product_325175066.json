@@ -1,0 +1,313 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14908,
+    "overage_used": 4908,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:40:55.686Z",
+    "processed_at": "2025-05-02T21:41:00.979Z",
+    "total_time_taken": 5.29,
+    "homedepot_url": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+    "brand": "HOROW",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/HOROW/N-5yc1vZbzacZv6d",
+    "title": "HOROW Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash",
+    "upc": "732829111086",
+    "item_id": "325175066",
+    "parent_id": "327622812",
+    "store_sku": "1009818314",
+    "model_number": "T03",
+    "description": "The HOROW Smart Toilet Bidet System gives your bathroom an upgrade that's easy to install. It features auto flush, a heated seat, an air dryer, massage washing, auto wash and antibiosis nozzle, night light and 6 level safety protection. This luxurious bidet system is designed with a wireless remote so you can change the settings exactly to your liking.",
+    "is_bestseller": true,
+    "collection": {
+      "id": "Family-323256004",
+      "name": "Family-323256004",
+      "link": "https://www.homedepot.com/collection/Bath/Smart-Bidet-Toilet/Family-323256004?omsid=325175066"
+    },
+    "feature_bullets": [
+      "Water spray gets you cleaner than wiping",
+      "Heated seat and warm air dryer for comfortable experience",
+      "ADA compliant comfortable height"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Bidet Toilet Combo: The bathroom toilet built-in bidet seat, and the washing position, water temperature, and water pressure can all be adjusted. Choose the wash that suits you",
+      "Heated Seat Toilet: Set the right temperature, then sit down and enjoy the warmth of the toilet seat",
+      "Automatic Flush Toilet: When you stand from the toilet seat, the machine will send commands to control the flushing. Also, the flush can be controlled by a remote or knob. 1.27GPF",
+      "Smart Toilet for Bathroom: Water temperature, seat temperature, and drying temperature are visible. The night light can navigate you in the dark",
+      "Considerate Service: If you encounter any problems, please feel free to contact us, and we will reply to you as soon as possible within 24 hours. We promise to provide a 12-Month Replacement Warranty",
+      "Adjustable to your preference, dryer, water temperature and pressure are adjustable for your comfort",
+      "Remote control easy-to-use remote control for touchless control of features",
+      "The glow of LED night light is perfect for kids, seniors or anyone who needs to use bathroom in the middle of th night",
+      "Emergency battery back-up system so you can use your toilet even when power is out (battery included)",
+      "Efficient tankless design uses water only as you need it",
+      "Uses less water per flush than standard toilet with no loss of flush strength",
+      "Quiet and powerful Tornado dual flushing with average 1.28GPF bringing a super-quiet and efficiency flush",
+      "Reduces wasteful toilet paper usage",
+      "Tankless direct connection",
+      "Innovative DIY installation"
+    ],
+    "descriptive_attributes_count": 15,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f58c6853-8412-4b68-81b7-c8bb99dbed05/svn/gray-horow-bidet-toilets-t03-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/55838c8e-b3b8-4d38-9b4a-16a63bb4d24f/svn/gray-horow-bidet-toilets-t03-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dbad42e9-b36f-44e8-846f-b72685ed6be0/svn/gray-horow-bidet-toilets-t03-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1f675901-c923-49f6-a192-549af0928168/svn/gray-horow-bidet-toilets-t03-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/53ec975c-161a-4db7-9aef-41d5fac9e95d/svn/gray-horow-bidet-toilets-t03-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a38645a9-b8c7-4df2-9afe-70c45524ac0a/svn/gray-horow-bidet-toilets-t03-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe118555-bb27-4d80-b823-a85ca70c6011/svn/gray-horow-bidet-toilets-t03-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8ccbabf7-f747-4ac5-829d-8368337a4245/svn/gray-horow-bidet-toilets-t03-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/514b56a7-a0ce-4947-8b67-13dabc85ad46/svn/gray-horow-bidet-toilets-t03-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b9af8312-6af3-47f0-bf45-71c69ff0f21c/svn/gray-horow-bidet-toilets-t03-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5f73961b-6d21-402f-b6aa-fc471c12fbdd/svn/gray-horow-bidet-toilets-t03-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0bb1c6f1-4433-4aac-8c8c-c238c0646b9f/svn/gray-horow-bidet-toilets-t03-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5272904e-51a9-4834-875b-58848f0575ae/svn/gray-horow-bidet-toilets-t03-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f58c6853-8412-4b68-81b7-c8bb99dbed05/svn/gray-horow-bidet-toilets-t03-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ea73eed7-31ee-4372-ab7f-6924611e3ad6/804fb245-ccde-419a-a084-b0a96b5f0742/main.mp4?fastly_token=NjgzOTdhZTdfNDY5NDc0ZTIwNmFiMjI3OTBmOTZhNmZjZTU3M2E4NDJiYjBmYjJmOTA5M2UwZWEzYmE3ODk3MGY4OTEyZGI2Y18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lYTczZWVkNy0zMWVlLTQzNzItYWI3Zi02OTI0NjExZTNhZDYvODA0ZmIyNDUtY2NkZS00MTlhLWEwODQtYjBhOTZiNWYwNzQyL21haW4ubXA0&pubid=66036796001",
+        "title": "T03 Product Demo",
+        "id": "6362676889112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ea73eed7-31ee-4372-ab7f-6924611e3ad6/main/160x90/2m35s481ms/match/image.jpg?pubId=66036796001",
+        "description": "HOROW Tankless Elongated Smart Toilet Bidet in White with Auto Flush, Heated Seat, Warm Air Dryer, Bubble Infusion Wash"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 333,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bidet Power Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bidet Spray Type",
+        "value": "Over the rim"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Adjustable Aerated Wash Spray,Adjustable Nozzle,Adjustable Sprayer Settings,Adjustable Water Pressure,Antimicrobial,Battery Operated Flushing System,Concealed Trapway,Control Panel,Fade Resistant,Flushing Rim,Heated,In-Wall Tank,Insulated Tank,Integrated Bidet,Motion Sensing,Nozzle Sterilization,Posterior Wash,Remote Control Operation,Self-Cleaning,Side Control Operated,Skirted Design,Soft Close,Stainless Steel Nozzle,Touchless,Warm Air Dryer,Warm Water Wash"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.27"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Right"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Complete Kit,Hardware,Remote Control,Supply Lines,T Valve Connector,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Through-the-floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Faucet Holes",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "92 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "26.9 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "19 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "15 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Golden~~Elongated~~12 inch Rough In",
+        "link": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-Golden-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T3/325847741",
+        "item_id": "325847741"
+      },
+      {
+        "title": "Black~~Elongated~~12 inch Rough In",
+        "link": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Bidet-Toilet-1-27-GPF-in-White-with-Black-Backlid-Auto-Flush-Warm-Air-Dryer-Bubble-Infusion-Wash-T03B/329981560",
+        "item_id": "329981560"
+      },
+      {
+        "title": "Gray~~Elongated~~12 inch Rough In",
+        "link": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-in-White-with-Auto-Flush-Heated-Seat-Warm-Air-Dryer-Bubble-Infusion-Wash-T03/325175066",
+        "item_id": "325175066"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In",
+        "link": "https://www.homedepot.com/p/HOROW-Tankless-Elongated-Smart-Toilet-Bidet-1-27-GPF-in-White-with-Rose-Gold-Backlid-Warm-Air-Dryer-Bubble-Infusion-Wash-T03RG/329982112",
+        "item_id": "329982112"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Bidet Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/N-5yc1vZbzac"
+      }
+    ],
+    "buybox_winner": {
+      "price": 699,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 809,
+      "unit": "carton",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 975,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 975,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

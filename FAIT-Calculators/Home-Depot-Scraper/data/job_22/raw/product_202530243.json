@@ -1,0 +1,238 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14752,
+    "overage_used": 4752,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-ft-x-8-ft-UltraLight-Drywall-14113411708/202530243"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:10:30.209Z",
+    "processed_at": "2025-05-01T19:10:33.815Z",
+    "total_time_taken": 3.61,
+    "homedepot_url": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-ft-x-8-ft-UltraLight-Drywall-14113411708/202530243"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-ft-x-8-ft-UltraLight-Drywall-14113411708/202530243",
+    "brand": "USG Sheetrock Brand",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Sheets/USG-Sheetrock-Brand/N-5yc1vZbb52Zomd",
+    "title": "USG Sheetrock Brand 1/2 in. x 4 ft. x 8 ft. UltraLight Drywall",
+    "upc": "081099027833",
+    "item_id": "202530243",
+    "parent_id": "202938937",
+    "store_sku": "893749",
+    "model_number": "14113411708",
+    "description": "USG Sheetrock Brand UltraLight Panels are the industry's first lightweight 1/2 in. drywall panel. Engineered to have superior sag resistance, they eliminate the need for traditional sag-resistant ceiling panels. Ends of the panels are cut square and even, while the long edges are tapered for easy finishing, allowing joints to be reinforced and concealed with Sheetrock Brand joint treatment systems. Lighter than standard drywall and easy to install, USG Sheetrock Brand UltraLight Panels are the perfect choice for your walls and ceilings.",
+    "is_bestseller": true,
+    "favorite_count": 12641,
+    "aisle": "24",
+    "bay": "001",
+    "collection": {
+      "id": "Family-313327274",
+      "name": "Family-313327274",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Drywall-Project-Collection/Family-313327274?omsid=202530243"
+    },
+    "feature_bullets": [
+      "Ultralightweight drywall for interior walls and ceilings",
+      "Easier to lift, carry and install, saving time and money",
+      "Superior score and snap, sag resistant"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Easy score and snap allows for cleaner edge and faster installation",
+      "Intended for non-fire rated applications: multi-family residential and condos, single-family residential",
+      "Comply with ASTM C1396, Standard Specification for Gypsum Board",
+      "UL Classification as to fire resistance, surface-burning characteristics and noncombustibility",
+      "GREENGUARD Gold certified for low-emitting performance",
+      "Sold by single drywall panel"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4c196209-3eae-4983-b4bf-fdb1afa5ca42/svn/usg-sheetrock-brand-drywall-sheets-14113411708-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f96537a1-ebd7-4574-af54-b4773430206c/svn/usg-sheetrock-brand-drywall-sheets-14113411708-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab898304-1a40-4e90-a4a0-3bc92a45833e/svn/usg-sheetrock-brand-drywall-sheets-14113411708-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0ecdc26f-1d4a-4163-9808-3800d6c204a8/svn/usg-sheetrock-brand-drywall-sheets-14113411708-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9fa8d7cd-bd46-4835-b608-a8577ba16d3f/svn/usg-sheetrock-brand-drywall-sheets-14113411708-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4c7d3abe-ff58-4910-9950-5679030c39b6/svn/usg-sheetrock-brand-drywall-sheets-14113411708-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fbb43e58-09eb-4c5a-bdfa-16d23e14126f/svn/usg-sheetrock-brand-drywall-sheets-14113411708-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0bf4e108-c985-4f18-a7b1-e79110214ed8/svn/usg-sheetrock-brand-drywall-sheets-14113411708-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/da3b7126-81e1-440c-b250-80757f945de5/svn/usg-sheetrock-brand-drywall-sheets-14113411708-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dd921893-a1dc-499e-b1c0-4b7253d89bd2/svn/usg-sheetrock-brand-drywall-sheets-14113411708-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4fee5be9-7625-4e61-9b63-b1e3df053809/svn/usg-sheetrock-brand-drywall-sheets-14113411708-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/611e8712-963e-43a6-8187-4a1d64954107/svn/usg-sheetrock-brand-drywall-sheets-14113411708-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4c196209-3eae-4983-b4bf-fdb1afa5ca42/svn/usg-sheetrock-brand-drywall-sheets-14113411708-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/3fb3b000-7c8c-4fb4-b185-f8b23a2ebbe5/3444fd30-9e2d-4ec1-a6d0-c7fe1970521a/main.mp4?fastly_token=NjgzODI4NTZfMDUzMWRiZmYyNzhlYWQ1ZWU4MWI1Y2IyZjc4ZDRlNDUwOGY4MjRjODhjZGQ1YjgxYTc1Yzg1N2JiNGMxZGI0Yl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zZmIzYjAwMC03YzhjLTRmYjQtYjE4NS1mOGIyM2EyZWJiZTUvMzQ0NGZkMzAtOWUyZC00ZWMxLWE2ZDAtYzdmZTE5NzA1MjFhL21haW4ubXA0&pubid=66036796001",
+        "title": "USG Sheetrock UltraLight Gypsum Panels",
+        "id": "4434683467001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/3fb3b000-7c8c-4fb4-b185-f8b23a2ebbe5/ed63d53e-ccf2-4375-af27-d21983710851/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Product demo for USG Sheetrock UltraLight Gypsum Panels"
+      }
+    ],
+    "ratings_total": 7173,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Alt. Pricing_Product Length (ft.) x Product Width (ft.)",
+        "value": "32"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Sag Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "39.2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Drywall Product Thickness (in.)",
+        "value": "1/2 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Width (ft) x Length (ft)",
+        "value": "4x8"
+      }
+    ],
+    "keywords_list": [
+      "SHEETROCK Brand",
+      "UltraLight 48 in. x 8 ft. x 1/2 in. Gypsum Panel",
+      "14113411708"
+    ],
+    "keywords": "SHEETROCK Brand, UltraLight 48 in. x 8 ft. x 1/2 in. Gypsum Panel, 14113411708",
+    "variants": [
+      {
+        "title": "4x12~~1/2 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-ft-x-12-ft-UltraLight-Drywall-14113411712/202530306",
+        "item_id": "202530306"
+      },
+      {
+        "title": "4x8~~1/2 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-ft-x-8-ft-UltraLight-Drywall-14113411708/202530243",
+        "item_id": "202530243"
+      },
+      {
+        "title": "4x10~~1/2 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-ft-x-10-ft-UltraLight-Drywall-14113411710/202530304",
+        "item_id": "202530304"
+      },
+      {
+        "title": "4.5x12~~1/2 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-5-ft-x-12-ft-UltraLight-Drywall-14113511712/202530336",
+        "item_id": "202530336"
+      },
+      {
+        "title": "4x9~~1/2 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-ft-x-9-ft-UltraLight-Drywall-14113409/202530292",
+        "item_id": "202530292"
+      },
+      {
+        "title": "4.5x10~~1/2 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-1-2-in-x-4-5-ft-x-10-ft-UltraLight-Drywall-14113510/306192588",
+        "item_id": "306192588"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Drywall",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall/N-5yc1vZar3d"
+      },
+      {
+        "name": "Drywall Sheets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Sheets/N-5yc1vZbb52"
+      }
+    ],
+    "buybox_winner": {
+      "price": 16.68,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1062
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 11085,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

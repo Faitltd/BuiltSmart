@@ -1,0 +1,250 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14587,
+    "overage_used": 4587,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Avant-Collection-5-in-x-9-3-4-in-ZMAX-Black-Powder-Coated-Strap-for-6x-Lumber-APVST610/312991855"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:53:20.385Z",
+    "processed_at": "2025-05-01T18:53:27.828Z",
+    "total_time_taken": 7.44,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Avant-Collection-5-in-x-9-3-4-in-ZMAX-Black-Powder-Coated-Strap-for-6x-Lumber-APVST610/312991855"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Avant-Collection-5-in-x-9-3-4-in-ZMAX-Black-Powder-Coated-Strap-for-6x-Lumber-APVST610/312991855",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Metal-Straps/Simpson-Strong-Tie/N-5yc1vZaqtaZ615",
+    "title": "Simpson Strong-Tie Outdoor Accents Avant Collection 5 in. x 9-3/4 in. ZMAX, Black Powder-Coated Strap for 6x Lumber",
+    "upc": "707392008248",
+    "item_id": "312991855",
+    "store_sku": "1005453427",
+    "model_number": "APVST610",
+    "description": "The Outdoor Accents decorative hardware product line features connectors and fasteners that bring beauty and strength to custom outdoor living structures. The APVST flat strap works for lumber in both nominal and rough sizes. It can be used to connect two beams together or added to any project as a decorative accent. Part of the Avant Collection.",
+    "favorite_count": 12,
+    "collection": {
+      "id": "Family-320411489",
+      "name": "Family-320411489",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Avant/Family-320411489?omsid=312991855"
+    },
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "The Avant Collection features straight edges and chamfered corners for a clean, timeless design",
+      "Installs with the Outdoor Accents structural screw and hex-head washer",
+      "Nominal joist size: 6x",
+      "Width: 5-in",
+      "Length: 11-1/4-in",
+      "Made from 12-Gauge steel",
+      "ZMAX galvanized with black powder-coat offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with Outdoor Accents hex-head washer (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Black-Powder-Coated-Hex-Head-Washer-8-Pack-STN22-R8/300068846\" target=\"_blank\" style=\"color:#F96302;\">STN22</a>) and structural wood screws (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">SDWS22312DBB</a>)"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f9acfa59-8763-4c4b-8b6d-151a4918566a/svn/simpson-strong-tie-metal-straps-apvst610-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6799c757-0873-4d98-a07d-0d51a087f031/svn/simpson-strong-tie-metal-straps-apvst610-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/72da549a-05af-40cd-93de-51abcdd67bbf/svn/simpson-strong-tie-metal-straps-apvst610-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/db940f64-6ef5-4085-aa14-9528e05f5599/svn/simpson-strong-tie-metal-straps-apvst610-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/21f5574e-03a6-4801-982c-8ad6cf4d46b3/svn/simpson-strong-tie-metal-straps-apvst610-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0e3ba355-e3aa-47b3-97ea-db9f37f55301/svn/simpson-strong-tie-metal-straps-apvst610-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ccc46bbb-acc8-4bad-8cd4-b23811c09342/svn/simpson-strong-tie-metal-straps-apvst610-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-metal-straps-apvst610-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f69ba8e8-34da-4ebd-a26d-f871589b3f26/svn/simpson-strong-tie-metal-straps-apvst610-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-metal-straps-apvst610-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f9acfa59-8763-4c4b-8b6d-151a4918566a/svn/simpson-strong-tie-metal-straps-apvst610-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 11,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Powder coated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector recommendation",
+        "value": "6x Nominal Lumber"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Decorative"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.45 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Staggered Nail Pattern",
+        "value": "Not Staggered"
+      },
+      {
+        "group_name": "Details",
+        "name": "Strap Type",
+        "value": "Tie"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "9.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Metal Straps",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Metal-Straps/N-5yc1vZaqta"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0111",
+          "in_stock": true,
+          "stock_level": 23,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 259,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

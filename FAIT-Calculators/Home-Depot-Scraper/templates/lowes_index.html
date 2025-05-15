@@ -1,0 +1,119 @@
+{% extends "lowes_base.html" %}
+
+{% block title %}Lowe's Scraper{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>Lowes Building Materials Scraper</h1>
+    
+    <form action="/lowes/submit" method="post" class="scraper-form">
+        <div class="form-section">
+            <h2>Search Type</h2>
+            <div class="radio-group">
+                <div class="radio-option">
+                    <input type="radio" id="search-type-category" name="search_type" value="category" checked>
+                    <label for="search-type-category">Category</label>
+                </div>
+                <div class="radio-option">
+                    <input type="radio" id="search-type-search" name="search_type" value="search">
+                    <label for="search-type-search">Search Term</label>
+                </div>
+                <div class="radio-option">
+                    <input type="radio" id="search-type-url" name="search_type" value="url">
+                    <label for="search-type-url">URL List</label>
+                </div>
+            </div>
+        </div>
+        
+        <div class="form-section" id="category-section">
+            <h2>Categories</h2>
+            <div class="checkbox-grid">
+                {% for category in categories %}
+                <div class="checkbox-option">
+                    <input type="checkbox" id="category-{{ loop.index }}" name="categories" value="{{ category }}" checked>
+                    <label for="category-{{ loop.index }}">{{ category }}</label>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="select-buttons">
+                <button type="button" id="select-all-categories">Select All</button>
+                <button type="button" id="deselect-all-categories">Deselect All</button>
+            </div>
+        </div>
+        
+        <div class="form-section hidden" id="search-section">
+            <h2>Search Terms</h2>
+            <div class="input-group">
+                <textarea name="search_terms" rows="5" placeholder="Enter search terms, one per line"></textarea>
+            </div>
+        </div>
+        
+        <div class="form-section hidden" id="url-section">
+            <h2>URL List</h2>
+            <div class="input-group">
+                <textarea name="urls" rows="5" placeholder="Enter URLs, one per line"></textarea>
+            </div>
+        </div>
+        
+        <div class="form-section">
+            <h2>Options</h2>
+            <div class="input-group">
+                <label for="max-pages">Maximum Pages per Category/Search:</label>
+                <input type="number" id="max-pages" name="max_pages" value="3" min="1" max="100">
+            </div>
+            <div class="input-group">
+                <label for="max-products">Maximum Products per Category/Search:</label>
+                <input type="number" id="max-products" name="max_products" value="100" min="1" max="1000">
+            </div>
+        </div>
+        
+        <!-- Hidden input to maintain backend compatibility -->
+        <input type="hidden" name="output_format" value="csv">
+        
+        <div class="form-actions">
+            <button type="submit" class="submit-button">Start Scraping</button>
+        </div>
+    </form>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const searchTypeRadios = document.querySelectorAll('input[name="search_type"]');
+        const categorySection = document.getElementById('category-section');
+        const searchSection = document.getElementById('search-section');
+        const urlSection = document.getElementById('url-section');
+        
+        // Handle search type change
+        searchTypeRadios.forEach(radio => {
+            radio.addEventListener('change', function() {
+                categorySection.classList.add('hidden');
+                searchSection.classList.add('hidden');
+                urlSection.classList.add('hidden');
+                
+                if (this.value === 'category') {
+                    categorySection.classList.remove('hidden');
+                } else if (this.value === 'search') {
+                    searchSection.classList.remove('hidden');
+                } else if (this.value === 'url') {
+                    urlSection.classList.remove('hidden');
+                }
+            });
+        });
+        
+        // Select/deselect all categories
+        document.getElementById('select-all-categories').addEventListener('click', function() {
+            document.querySelectorAll('input[name="categories"]').forEach(checkbox => {
+                checkbox.checked = true;
+            });
+        });
+        
+        document.getElementById('deselect-all-categories').addEventListener('click', function() {
+            document.querySelectorAll('input[name="categories"]').forEach(checkbox => {
+                checkbox.checked = false;
+            });
+        });
+    });
+</script>
+{% endblock %}

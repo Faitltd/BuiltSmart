@@ -1,0 +1,170 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13494,
+    "overage_used": 3494,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-5-1-4-in-x-16-ft-Cottage-Square-Edge-Capped-Composite-Decking-Board-BRDGDL-CT-16/309534395"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:31:26.403Z",
+    "processed_at": "2025-05-01T14:32:13.553Z",
+    "total_time_taken": 47.15,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-5-1-4-in-x-16-ft-Cottage-Square-Edge-Capped-Composite-Decking-Board-BRDGDL-CT-16/309534395"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-5-1-4-in-x-16-ft-Cottage-Square-Edge-Capped-Composite-Decking-Board-BRDGDL-CT-16/309534395",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon Good Life 1 in. x 5-1/4 in. x 16 ft. Cottage Square Edge Capped Composite Decking Board",
+    "upc": "844219016922",
+    "item_id": "309534395",
+    "store_sku": "1004418631",
+    "model_number": "BRDGDL CT 16",
+    "description": "Wood decks are susceptible to mold, decay and insects, and have a shorter lifespan. Fiberon composite decking retains its good looks year after year because it's formulated to last. The composite core combines recycled wood with the resilience of recycled plastic, while our proprietary PermaTech cap layer provides superior stain and fade resistance. The result is durable decking that resists splintering, rotting, cracking, insects and decay, with warranties up to 50 years.",
+    "feature_bullets": [
+      "Made of recycled wood and plastic for durability",
+      "Solid color offers an authentic look"
+    ],
+    "feature_bullets_count": 2,
+    "descriptive_attributes": [
+      "Weekender Collection features solid colors for a traditional stained deck look.",
+      "Authentic wood look features distinct grain patterns.",
+      "Composite construction helps resist splintering, cracking and decay.",
+      "Three-sided cap layer helps resist staining and fading.",
+      "Contains 96% recycled content.",
+      "Low maintenance and easy to clean.",
+      "A Fire-rated version of Good Life decking (excluding Cabana) is also availableand approved for use in all Wildland Urban Interface (WUI) zones.",
+      "Good Life Weekender Collection is backed by a 25-year stain and fade limited warranty and a lifetime performance limited warranty."
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4b01742b-fbb0-45cf-8450-ce70318b4201/svn/cottage-fiberon-composite-decking-boards-brdgdl-ct-16-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe938f8d-3e6d-4f0f-8fc2-d95136325443/svn/cottage-fiberon-composite-decking-boards-brdgdl-ct-16-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eb19105d-db1c-4385-afce-158d4e7cf502/svn/cottage-fiberon-composite-decking-boards-brdgdl-ct-16-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/82d841c8-7c0d-417b-9e02-f40e91d68bf9/svn/cottage-fiberon-composite-decking-boards-brdgdl-ct-16-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4b01742b-fbb0-45cf-8450-ce70318b4201/svn/cottage-fiberon-composite-decking-boards-brdgdl-ct-16-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Cottage"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Composite Deck Screw"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Stain & Fade"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".93 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "33"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

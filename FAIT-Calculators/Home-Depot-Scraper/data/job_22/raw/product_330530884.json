@@ -1,0 +1,174 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14563,
+    "overage_used": 4563,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1x6-16-Trex-Transcend-Lineage-Composite-Deck-Board-Biscayne-Grooved-Edge-Actual-Size-94-x5-1-2-BC010616TLG01-BC010616TLG01/330530884"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:50:54.161Z",
+    "processed_at": "2025-05-01T18:51:34.867Z",
+    "total_time_taken": 40.71,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1x6-16-Trex-Transcend-Lineage-Composite-Deck-Board-Biscayne-Grooved-Edge-Actual-Size-94-x5-1-2-BC010616TLG01-BC010616TLG01/330530884"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1x6-16-Trex-Transcend-Lineage-Composite-Deck-Board-Biscayne-Grooved-Edge-Actual-Size-94-x5-1-2-BC010616TLG01-BC010616TLG01/330530884",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1x6-16' Trex Transcend Lineage Composite Deck Board - Biscayne Grooved Edge (Actual Size: .94\"x5-1/2\") BC010616TLG01",
+    "upc": "652835343618",
+    "item_id": "330530884",
+    "store_sku": "1008172931",
+    "model_number": "BC010616TLG01",
+    "description": "Elevate your outdoor space with Trex Transcend Lineage decking, where luxury meets durability. With five exquisite color options including Island Mist, Rainier, Carmel, Biscayne, and Jasper, you can effortlessly craft a serene retreat that reflects your personal style. But beauty isn't the only feature; our decking is engineered to stay cooler under the sun, ensuring your comfort even on the hottest days.* Plus, with its robust shell protection, Transcend Lineage decking resists fading and staining, offering long-lasting beauty with minimal maintenance. Enjoy peace of mind with our 50-year Limited Residential Warranty, knowing your deck will remain a stunning centerpiece for years to come. Experience the pinnacle of outdoor living with Trex Transcend Lineage decking.",
+    "feature_bullets": [
+      "Brown Composite Deck Board has a light coastal brown tone",
+      "Water-resistant, fade and stain resistant board",
+      "Low maintenance with minimal upkeep"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Trex composite decking is a durable, beautiful and eco-friendly alternative to traditional wood",
+      "A light coastal brown with delicate, natural streaks",
+      "High-performance, low-maintenance boards clean easily with soap and water and never need sanding, staining or painting",
+      "Tranquil tones that stand up to the elements: won't rot, warp or splinter",
+      "Backed by 25-Year Limited Residential and Fade and Stain warranties",
+      "Unyielding shell protection: fade, stain, scratch and mold-resistant",
+      "Made of 95% recycled materials in the USA"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e91d87a6-8643-43c5-b561-2ccf99745cf5/svn/biscayne-trex-composite-decking-boards-bc010616tlg01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7d203364-b601-49b5-84b1-a0b63ce860ed/svn/biscayne-trex-composite-decking-boards-bc010616tlg01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4379da76-0cd9-4f54-b590-c0e49eae30f8/svn/biscayne-trex-composite-decking-boards-bc010616tlg01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c1814428-ad1c-4465-a925-0428b3b3cac2/svn/biscayne-trex-composite-decking-boards-bc010616tlg01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3dc677d4-775d-4017-8604-729bc89e38fb/svn/biscayne-trex-composite-decking-boards-bc010616tlg01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e91d87a6-8643-43c5-b561-2ccf99745cf5/svn/biscayne-trex-composite-decking-boards-bc010616tlg01-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Biscayne"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 50-Year Limited Residential Warranty and Trex 50-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "41"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 89.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

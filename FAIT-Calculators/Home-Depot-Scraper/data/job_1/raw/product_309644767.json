@@ -1,0 +1,256 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14971,
+    "overage_used": 4971,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Highline-Elongated-Grip-Tight-Bumpers-Soft-Close-Front-Toilet-Seat-in-White-K-22203-0/309644767"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:48:04.530Z",
+    "processed_at": "2025-05-02T21:48:08.619Z",
+    "total_time_taken": 4.09,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Highline-Elongated-Grip-Tight-Bumpers-Soft-Close-Front-Toilet-Seat-in-White-K-22203-0/309644767"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Highline-Elongated-Grip-Tight-Bumpers-Soft-Close-Front-Toilet-Seat-in-White-K-22203-0/309644767",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Toilet-Seats/KOHLER/N-5yc1vZceq5Z1qh",
+    "title": "KOHLER Highline Elongated Grip Tight Bumpers, Soft Close Front Toilet Seat in White",
+    "upc": "885612787934",
+    "item_id": "309644767",
+    "parent_id": "316137297",
+    "store_sku": "1004392394",
+    "model_number": "K-22203-0",
+    "description": "Engineered to fit 1- and 2-piece round-front toilets, this Highline plastic seat features a single-hinge design that makes for easier cleaning. Innovative Quiet-Close technology prevents noisy slamming. Unique Grip-Tight bumpers hold the seat firmly in place and prevent shifting.",
+    "is_exclusive": true,
+    "favorite_count": 1065,
+    "aisle": "37",
+    "bay": "001",
+    "feature_bullets": [
+      "Quiet-close lid prevents slamming",
+      "Concealed hinge designed for easy cleaning",
+      "Grip-tight bumpers prevent the seat from shifting"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Plastic",
+      "Grip-Tight bumpers hold seat firmly in place",
+      "Single-hinge cover simplifies cleaning",
+      "Quick-Attach hardware for fast and secure installation",
+      "Color-matched plastic hinges",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/213e6398-22a4-4b49-b5bf-72a2e3317ff4/svn/white-kohler-toilet-seats-k-22203-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5397c63b-c86a-484e-8406-0e35f9a0cb2e/svn/white-kohler-toilet-seats-k-22203-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6d4a638a-3ec4-4737-b2a5-b5cf5734c6ac/svn/white-kohler-toilet-seats-k-22203-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/140c9e31-6e61-461b-8b98-b58cdccfe04b/svn/white-kohler-toilet-seats-k-22203-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c3ffdba3-b5df-4877-846d-877f5efcdad1/svn/white-kohler-toilet-seats-k-22203-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/20629338-6a9b-4c16-898d-662db4782488/svn/white-kohler-toilet-seats-k-22203-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bd782d57-1fa0-402c-a6da-4fba58119f0e/svn/white-kohler-toilet-seats-k-22203-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7822721d-b96a-4c47-a2fa-0fba3e97fa3b/svn/white-kohler-toilet-seats-k-22203-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/213e6398-22a4-4b49-b5bf-72a2e3317ff4/svn/white-kohler-toilet-seats-k-22203-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxNGQ1NzlfMjMzY2Y1NjlhZDJiMjI3ZDEzMmY0NTdkZTkyOWNiNGZkODJiNDIwOTljZmExZjA4NDY5ZDY5N2IzMmQ3MGFmZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "ratings_total": 3536,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Grip Tight Bumpers,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Hinge,Toilet Seat"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "3.8 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Seat Type",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "18.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": ".875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "14.1875 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Round~~3 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Quiet-Close-Round-Closed-Front-Toilet-Seat-in-White-3-Pack-K-22204-22204-3/315703664",
+        "item_id": "315703664"
+      },
+      {
+        "title": "White~~Round~~2 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Quiet-Close-Round-Closed-Front-Toilet-Seat-in-White-2-Pack-K-22204-22204-2/315703668",
+        "item_id": "315703668"
+      },
+      {
+        "title": "White~~Elongated~~3 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Quiet-Close-Elongated-Closed-Front-Toilet-Seat-in-White-3-Pack-K-22203-0-22203-3/315703670",
+        "item_id": "315703670"
+      },
+      {
+        "title": "White~~Elongated~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Elongated-Grip-Tight-Bumpers-Soft-Close-Front-Toilet-Seat-in-White-K-22203-0/309644767",
+        "item_id": "309644767"
+      },
+      {
+        "title": "White~~Elongated~~2 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Quiet-Close-Elongated-Closed-Front-Toilet-Seat-in-White-2-Pack-K-22203-0-22203-2/315703658",
+        "item_id": "315703658"
+      },
+      {
+        "title": "White~~Round~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Round-Grip-Tight-Bumpers-Soft-Close-Front-Toilet-Seat-in-White-K-22204-0/309644777",
+        "item_id": "309644777"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Toilet Seats",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Toilet-Seats/N-5yc1vZceq5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 34.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 25
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 25,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 130,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

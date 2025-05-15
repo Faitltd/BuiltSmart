@@ -1,0 +1,364 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14914,
+    "overage_used": 4914,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Glacier-Bay-12-inch-Rough-In-Two-Piece-1-1-GPF-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-N2316/100676582"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:41:46.211Z",
+    "processed_at": "2025-05-02T21:41:49.799Z",
+    "total_time_taken": 3.59,
+    "homedepot_url": "https://www.homedepot.com/p/Glacier-Bay-12-inch-Rough-In-Two-Piece-1-1-GPF-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-N2316/100676582"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Glacier-Bay-12-inch-Rough-In-Two-Piece-1-1-GPF-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-N2316/100676582",
+    "brand": "Glacier Bay",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/Glacier-Bay/N-5yc1vZcb8nZn7",
+    "title": "Glacier Bay 12 inch Rough In Two-Piece 1.1 GPF/1.6 GPF Dual Flush Elongated Toilet in White Seat Included",
+    "upc": "732291231619",
+    "item_id": "100676582",
+    "parent_id": "331194133",
+    "store_sku": "215583",
+    "model_number": "N2316",
+    "description": "The Glacier Bay 2-Piece High-Efficiency Dual-Flush Complete Elongated Toilet in White delivers powerful 1.1 or 1.6 GPF performance and features a WaterSense certified design to help conserve water. This toilet's vitreous china construction offers resistance to acid, abrasion and staining. The all-in-one product contains the toilet bowl, tank and seat along with a wax ring and floor bolts with caps. It's backed by a limited lifetime warranty.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "favorite_count": 39629,
+    "aisle": "37",
+    "bay": "014",
+    "feature_bullets": [
+      "ADA comfort height with 1.1/ 1.6 GPF dual flush performance",
+      "QuickConnect easy installation system, no tools required",
+      "Includes toilet seat, wax ring and floor mounting bolt set"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "2-piece design features a separate tank and bowl",
+      "16.5 in. chair height (without seat) elongated bowl offers superior comfort",
+      "WaterSense certified product meets high-efficiency toilet (HET) standards",
+      "Vitreous China resists stains, acid and abrasion",
+      "Dual-flush (1.1 or 1.6 GPF) design provides superb flushing performance of solids and liquids to help prevent clogs",
+      "White toilet with a chrome-plated, top-mounted flush button complements many bathroom decors",
+      "Backed by a lifetime limited warranty",
+      "<a href=\"https://www.homedepot.com/b/Glacier-Bay/N-5yc1vZn7\" target=\"_blank\" style=\"color:#F96302;\">Click here to learn more about exclusive Glacier Bay products</a>",
+      "<a href=\"https://www.homedepot.com/c/ab/glacier-bay-customer-service/9ba683603be9fa5395fab9010bd62f1d\" target=\"_blank\" style=\"color:#F96302;\">Click here to learn more about Glacier Bay customer service</a>",
+      "<a href=\"https://players.brightcove.net/66036796001/default_default/index.html?videoId=6097839149001\" target=\"_blank\" style=\"color:#F96302;\">How-To connect a toilet to the copper water supply using a BrassCraft push connect 1 piece supply line</a>",
+      "<a href=\"https://players.brightcove.net/66036796001/default_default/index.html?videoId=6097836936001\" target=\"_blank\" style=\"color:#F96302;\">How-To connect a toilet to the copper water supply using a BrassCraft 1/4 turn compression stop and supply line </a>",
+      "<img src=\"https://inlinecontent.thdstatic.com/29K/NIAGARA CONSERVATION/834202.jpg\">",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/water-conservation/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Water Conservation</a>"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6fe20a93-2ab3-453c-b589-a96123a18b20/svn/white-glacier-bay-two-piece-toilets-n2316-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7766513f-9b33-42ff-a8ca-24086b2909bc/svn/white-glacier-bay-two-piece-toilets-n2316-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bde1a4d9-4c14-474b-985a-d0cf74cfb164/svn/white-glacier-bay-two-piece-toilets-n2316-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/56b7974b-aaf2-4b21-b9ce-eb3a432b6d64/svn/white-glacier-bay-two-piece-toilets-n2316-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9ad1caf5-a929-4edc-93de-34860d904c1e/svn/white-glacier-bay-two-piece-toilets-n2316-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d7acd43-5e94-41c1-9654-a4a3153e0d25/svn/white-glacier-bay-two-piece-toilets-n2316-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c35e2e7d-3a5f-45f9-8981-502e22d6613e/svn/white-glacier-bay-two-piece-toilets-n2316-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fdfb62a3-9979-4559-b1e5-8af7c3c742bb/svn/white-glacier-bay-two-piece-toilets-n2316-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19901555-e7d5-425a-b81b-e4bb2d45c257/svn/white-glacier-bay-two-piece-toilets-n2316-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7654a902-5efc-4c04-80d7-52508a64ae0a/svn/white-glacier-bay-two-piece-toilets-n2316-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/84155976-e0c5-43a9-9775-792b82599dc6/svn/white-glacier-bay-two-piece-toilets-n2316-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bf2164ae-1363-47b0-b6b1-a671e898c837/svn/white-glacier-bay-two-piece-toilets-n2316-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e1eef359-571b-4b24-b259-8110e08f0c91/svn/white-glacier-bay-two-piece-toilets-n2316-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/add45dc1-3c9e-4977-a98c-d7a51ef9bdcc/svn/white-glacier-bay-two-piece-toilets-n2316-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0ce83a1e-66e7-4005-aea6-e7c4fc55b4e3/svn/white-glacier-bay-two-piece-toilets-n2316-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6fe20a93-2ab3-453c-b589-a96123a18b20/svn/white-glacier-bay-two-piece-toilets-n2316-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/651158f9-354f-4a7f-a430-bd3a82da3eb7/afdc9acd-3778-45d6-8fb5-71e513ceb64b/main.mp4?fastly_token=NjgzOTc4YTlfMmRjYmE5ODc3OTdjYWQyMjE0ODU1ZGVlNmI4N2UwYzM2MDFkYzE5YWJkMzlmOGY2OTdlMjM2YTZlZTcxMjEyZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82NTExNThmOS0zNTRmLTRhN2YtYTQzMC1iZDNhODJkYTNlYjcvYWZkYzlhY2QtMzc3OC00NWQ2LThmYjUtNzFlNTEzY2ViNjRiL21haW4ubXA0&pubid=66036796001",
+        "title": "INV - 2-piece High Efficiency Dual Flush Elongated Toilet in Biscuit",
+        "id": "4245159455001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/651158f9-354f-4a7f-a430-bd3a82da3eb7/c9593e30-e4fd-472c-a796-ebeab83b0666/160x90/match/image.jpg?pubId=66036796001",
+        "description": "The Glacier Bay 2-Piece High-Efficiency Dual-Flush Elongated Toilet in Biscuit has a color that blends with the decor of many bathrooms."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/c915b3b5-a12f-47ca-92af-750f032f76c8/c9eaa2d8-a229-4acf-b77e-b013b1f4cd1d/main.mp4?fastly_token=NjgxNGQwMmJfNWZjNTYzNzU0OTIyZGMyMzcwNDRlZGI3YWY1MmNlMjRlNmY4MDcyYThhNmY2ZWVjMjZkNDI0MTU5YTYwNDZmOF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYzkxNWIzYjUtYTEyZi00N2NhLTkyYWYtNzUwZjAzMmY3NmM4L2M5ZWFhMmQ4LWEyMjktNGFjZi1iNzdlLWIwMTNiMWY0Y2QxZC9tYWluLm1wNA%3D%3D",
+        "title": "The Best Toilet for Your Home",
+        "id": "4297324121001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/c915b3b5-a12f-47ca-92af-750f032f76c8/657a7f1b-4673-4ac3-8aae-34309e693558/160x90/match/image.jpg",
+        "description": "Here is an overview of some of the things to consider when searching for a new toilet including flush power, bowl shape, toilet height, and toilet design."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/01c910c1-570a-4d21-a8aa-620e573e3a9c/3a72f204-67bb-44cb-a6d0-2255ad9f52c1/main.mp4?fastly_token=NjgxNGUzMTVfOTg1MDg0ZjVmYjI4M2IyY2RiOGNhOWEzZTE0YzIxOGUwZDIxM2Q0MGFlMWY5Nzc2MTI2NjcxMjE1MzQ4NzIyZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMDFjOTEwYzEtNTcwYS00ZDIxLWE4YWEtNjIwZTU3M2UzYTljLzNhNzJmMjA0LTY3YmItNDRjYi1hNmQwLTIyNTVhZDlmNTJjMS9tYWluLm1wNA%3D%3D",
+        "title": "202862164 Toilet Installation Video",
+        "id": "6093792630001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/01c910c1-570a-4d21-a8aa-620e573e3a9c/bb7766b3-762e-4d2f-948a-b4b3ce07ff73/600x338/match/image.jpg",
+        "description": "Glacier Bay Toilet Bilt Installation Video\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/cfa7566a-204c-4e26-90ce-f1a150a61306/ee928d5d-20cc-457a-a8bc-e265c3a1a6e7/main.mp4?fastly_token=NjgxNGRkMTlfMzhmZjllMTM4MWQ0NmIyMWFmMzJhMzJiMDYyOTJmYzU3Nzk0YTBmNTQ2YjllYWY2ODc5ZmQ3Y2U2M2Q0ZmI2MF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvY2ZhNzU2NmEtMjA0Yy00ZTI2LTkwY2UtZjFhMTUwYTYxMzA2L2VlOTI4ZDVkLTIwY2MtNDU3YS1hOGJjLWUyNjVjM2ExYTZlNy9tYWluLm1wNA%3D%3D",
+        "title": "Glacier Bay Toilet Sizzle 203076918",
+        "id": "6251122410001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/cfa7566a-204c-4e26-90ce-f1a150a61306/main/160x90/43s498ms/match/image.jpg"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 7037,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Dual Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Dual Flush: 1.1/1.6"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Complete Kit,Hardware,Toilet Seat"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Ceramic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "87 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Top"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "29.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "33.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18 in"
+      }
+    ],
+    "keywords_list": [
+      "Find the Glacier Bay 2-Piece High-Efficiency Dual-Flush Elongated Toilet in White N2316",
+      "with chrome-plated flush button contains the toilet bowl",
+      "tank and seat along with a wax ring and floor bolts with caps from The Home Depot"
+    ],
+    "keywords": "Find the Glacier Bay 2-Piece High-Efficiency Dual-Flush Elongated Toilet in White N2316, with chrome-plated flush button contains the toilet bowl, tank and seat along with a wax ring and floor bolts with caps from The Home Depot",
+    "variants": [
+      {
+        "title": "Bone~~Elongated~~12 inch Rough In~~Dual Flush: 1.1/1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/Glacier-Bay-2-Piece-1-1-GPF-1-6-GPF-High-Efficiency-Dual-Flush-Elongated-Toilet-in-Bone-Seat-Included-N2316-BNE/206056956",
+        "item_id": "206056956"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Dual Flush: 1.1/1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/Glacier-Bay-12-inch-Rough-In-Two-Piece-1-1-GPF-1-6-GPF-Dual-Flush-Elongated-Toilet-in-White-Seat-Included-N2316/100676582",
+        "item_id": "100676582"
+      },
+      {
+        "title": "Black~~Elongated~~12 inch Rough In~~Dual Flush: 1.1/1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/Glacier-Bay-12-inch-Rough-In-Two-Piece-1-1-GPF-1-6-GPF-Dual-Flush-Elongated-Toilet-in-Black-Seat-Included-N2316-BLK/204364950",
+        "item_id": "204364950"
+      },
+      {
+        "title": "Biscuit~~Elongated~~12 inch Rough In~~Dual Flush: 1.1/1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/Glacier-Bay-2-piece-1-1-GPF-1-6-GPF-High-Efficiency-Dual-Flush-Elongated-Toilet-in-Biscuit-Seat-Included-N2316-bisc/202641038",
+        "item_id": "202641038"
+      },
+      {
+        "title": "White~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/Glacier-Bay-12-in-Rough-in-2-Piece-1-1-GPF-1-6-GPF-Dual-Flush-Round-Toilet-in-White-Seat-Included-N2428R-DF/329463567",
+        "item_id": "329463567"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 109,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 69
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 355,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

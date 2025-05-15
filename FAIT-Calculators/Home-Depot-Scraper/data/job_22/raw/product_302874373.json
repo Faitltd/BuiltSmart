@@ -1,0 +1,139 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14262,
+    "overage_used": 4262,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Swaner-Hardwood-18-mm-x-4-ft-x-8-ft-HPL-White-Plywood-BPI6WUV2I/302874373"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:22:40.739Z",
+    "processed_at": "2025-05-01T18:23:21.698Z",
+    "total_time_taken": 40.96,
+    "homedepot_url": "https://www.homedepot.com/p/Swaner-Hardwood-18-mm-x-4-ft-x-8-ft-HPL-White-Plywood-BPI6WUV2I/302874373"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Swaner-Hardwood-18-mm-x-4-ft-x-8-ft-HPL-White-Plywood-BPI6WUV2I/302874373",
+    "brand": "Swaner Hardwood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/Swaner-Hardwood/N-5yc1vZc7r1Zots",
+    "title": "Swaner Hardwood 18 mm x 4 ft. x 8 ft. HPL White Plywood",
+    "upc": "728927030336",
+    "item_id": "302874373",
+    "store_sku": "1002705533",
+    "model_number": "BPI6WUV2I",
+    "description": "This plywood is perfect for interior use from a practical as well as an aesthetic point of view. It can be used for a wide variety of applications including some cabinet components, furniture, and much more. This plywood has been prefinished with a UV White coating on both sides and is ready to use immediately. It is much lighter in weight than melamine and has a veneer core unlike a particle board core with melamine. It is also much more durable.",
+    "favorite_count": 64,
+    "feature_bullets": [
+      "Made with Birch veneers and a calibrated core for stability",
+      "Great for use as table tops",
+      "UV Prefinished 1 side for easy maintenance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "18 mm x 4 x 8; +\\- 0.5 mm tolerance",
+      "CARB Phase 2-certified",
+      "Ready to use UV prefinished 2 sides",
+      "For Interior use only",
+      "Calibrated hardwood core"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/47d8ad88-b5bb-4e81-958a-6de61e45da3f/svn/swaner-hardwood-hardwood-plywood-bpi6wuv2i-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/47d8ad88-b5bb-4e81-958a-6de61e45da3f/svn/swaner-hardwood-hardwood-plywood-bpi6wuv2i-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 56,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "C2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Sanded,UV Prefinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "na"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "23/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Hardwood Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/N-5yc1vZc7r1"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

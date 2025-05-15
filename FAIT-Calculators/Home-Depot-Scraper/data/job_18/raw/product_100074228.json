@@ -1,0 +1,224 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13980,
+    "overage_used": 3980,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-5165-1-in-x-1-in-x-8-ft-PVC-Composite-White-Colonial-Outside-Corner-Base-Molding-MLDP01X01BOCWH/100074228"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:18.794Z",
+    "processed_at": "2025-05-01T17:50:24.645Z",
+    "total_time_taken": 5.85,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-5165-1-in-x-1-in-x-8-ft-PVC-Composite-White-Colonial-Outside-Corner-Base-Molding-MLDP01X01BOCWH/100074228"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-5165-1-in-x-1-in-x-8-ft-PVC-Composite-White-Colonial-Outside-Corner-Base-Molding-MLDP01X01BOCWH/100074228",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Royal-Mouldings/N-5yc1vZcbjpZ8ui",
+    "title": "Royal Mouldings 5165 1 in. x 1 in. x 8 ft. PVC Composite White Colonial Outside Corner Base Molding",
+    "upc": "070673528385",
+    "item_id": "100074228",
+    "store_sku": "890811",
+    "model_number": "MLDP01X01BOCWH",
+    "description": "The Colonial 8 ft. x 1 in. x 1 in. Outside Corner Base Molding offers a prefinished piece of molding for use on any outside corner to protect and transition. The bone white hue of the molding easily coordinates with existing color schemes and can be re-painted if necessary. When you add molding to your room it adds value and a nice finishing touch.",
+    "favorite_count": 358,
+    "aisle": "19",
+    "bay": "009",
+    "feature_bullets": [
+      "Prefinished molding designed for use on outside corners",
+      "White color offers a clean, complementary look to your space",
+      "Moisture-resistant and rot-resistant design for lasting use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Polymer extrusion offers a material that cuts and installs like wood and won't split or crack",
+      "Pre-finished in bone white and ready to install",
+      "Moisture, termite and rot-resistant for a long lasting accent",
+      "Easily installs using nails or construction adhesive",
+      "96 in. Length"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/383c6f67-fb5f-486c-aaa1-e0d855b6df9c/svn/white-royal-mouldings-baseboard-mldp01x01bocwh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3337792c-dc5c-4d09-9d90-7ec2cf11b35d/svn/white-royal-mouldings-baseboard-mldp01x01bocwh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/383c6f67-fb5f-486c-aaa1-e0d855b6df9c/svn/white-royal-mouldings-baseboard-mldp01x01bocwh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 208,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "5165"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Interior Water Proof Material"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1 in"
+      }
+    ],
+    "keywords_list": [
+      "base moulding",
+      "outside corner base moulding",
+      "white base moulding",
+      "polymer base moulding"
+    ],
+    "keywords": "base moulding, outside corner base moulding, white base moulding, polymer base moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.74,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 32
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 65,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 753,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

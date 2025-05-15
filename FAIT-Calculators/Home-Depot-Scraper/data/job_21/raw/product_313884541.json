@@ -1,0 +1,270 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14607,
+    "overage_used": 4607,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Black-Decorative-Post-Cap-for-4x4-Nominal-Post-APDPC4/313884541"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:55:27.807Z",
+    "processed_at": "2025-05-01T18:55:33.136Z",
+    "total_time_taken": 5.33,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Black-Decorative-Post-Cap-for-4x4-Nominal-Post-APDPC4/313884541"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Black-Decorative-Post-Cap-for-4x4-Nominal-Post-APDPC4/313884541",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Cap-Connectors/Simpson-Strong-Tie/N-5yc1vZc8huZ615",
+    "title": "Simpson Strong-Tie Outdoor Accents Black Decorative Post Cap for 4x4 Nominal Post",
+    "upc": "707392012849",
+    "item_id": "313884541",
+    "parent_id": "331032671",
+    "store_sku": "1005542501",
+    "model_number": "APDPC4",
+    "description": "The Simpson Strong-Tie Outdoor Accents line of decorative hardware features connectors and fasteners that bring beauty and strength to custom outdoor living structures. The APDPC decorative post cap is an Outdoor Accents accessory that provides moisture protection and a decorative appearance to wooden post tops. Available in sizes for nominal 4x4 and 6x6 wood posts.",
+    "favorite_count": 6,
+    "aisle": "FW",
+    "bay": "006",
+    "collection": {
+      "id": "Family-320411489",
+      "name": "Family-320411489",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Avant/Family-320411489?omsid=313884541"
+    },
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Black textured composite material has UV protection",
+      "Decorative, square design",
+      "Provides moisture protection",
+      "Designed to fit a nominal 4x4 wood post",
+      "Install with 0.131-in x 2-1/2-in or 0.148-in x 3-in nails",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/8823107f-1c4d-4d77-af15-37fc4f07aa21/svn/simpson-strong-tie-post-cap-connectors-apdpc4-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/44ff311e-6e9e-4821-892d-8d58f76919ab/svn/simpson-strong-tie-post-cap-connectors-apdpc4-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b5044dec-f14d-4f1d-910d-9f21780b19c4/svn/simpson-strong-tie-post-cap-connectors-apdpc4-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6b47b20b-dfee-4d8b-b86e-8b8b6dad1d14/svn/simpson-strong-tie-post-cap-connectors-apdpc4-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/890e2130-2666-41f6-a7be-78e28e5166d8/svn/simpson-strong-tie-post-cap-connectors-apdpc4-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-cap-connectors-apdpc4-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/8823107f-1c4d-4d77-af15-37fc4f07aa21/svn/simpson-strong-tie-post-cap-connectors-apdpc4-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 80,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Cap Type",
+        "value": "Post Cap"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Decorative"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "25"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.08 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Beam Width",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "4x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "3.63 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "1.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.63 in"
+      }
+    ],
+    "keywords_list": [
+      "post cap",
+      "black post cap",
+      "post caps",
+      "black post caps",
+      "post top",
+      "black post top",
+      "post tops",
+      "black post tops",
+      "plastic post cap",
+      "plastic post caps",
+      "plastic post top",
+      "plastic post tops",
+      "beveled post cap",
+      "beveled post caps",
+      "beveled post top",
+      "beveled post tops"
+    ],
+    "keywords": "post cap, black post cap, post caps, black post caps, post top, black post top, post tops, black post tops, plastic post cap, plastic post caps, plastic post top, plastic post tops, beveled post cap, beveled post caps, beveled post top, beveled post tops",
+    "variants": [
+      {
+        "title": "6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Black-Decorative-Post-Cap-for-6x6-Nominal-Post-APDPC6/313884547",
+        "item_id": "313884547"
+      },
+      {
+        "title": "4",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Black-Decorative-Post-Cap-for-4x4-Nominal-Post-APDPC4/313884541",
+        "item_id": "313884541"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Cap Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Cap-Connectors/N-5yc1vZc8hu"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 39
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 73,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 326,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

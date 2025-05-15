@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13173,
+    "overage_used": 3173,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-205-1-in-x-1-in-Finished-MDF-Outside-Corner-Moulding-Sold-by-Linear-Foot-10005651/207046803"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:46:28.047Z",
+    "processed_at": "2025-05-01T13:46:32.145Z",
+    "total_time_taken": 4.1,
+    "homedepot_url": "https://www.homedepot.com/p/FINISHED-ELEGANCE-205-1-in-x-1-in-Finished-MDF-Outside-Corner-Moulding-Sold-by-Linear-Foot-10005651/207046803"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/FINISHED-ELEGANCE-205-1-in-x-1-in-Finished-MDF-Outside-Corner-Moulding-Sold-by-Linear-Foot-10005651/207046803",
+    "brand": "FINISHED ELEGANCE",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/FINISHED-ELEGANCE/N-5yc1vZcbjfZr98",
+    "title": "FINISHED ELEGANCE 205 1 in. x  1 in. Finished MDF Outside Corner Moulding (Sold by Linear Foot)",
+    "upc": "095624522250",
+    "item_id": "207046803",
+    "store_sku": "1001836592",
+    "model_number": "10005651",
+    "description": "The Finished Elegance 1 in. x 1 in. 205 FE Medium Density Fiberboard outside corner molding is used to protect and cover corners where walls form outside corners or where wall coverings and painted surfaces meet. The molding is sometimes referred to as outside corner guards. The FE Medium Density Fiberboard 205 outside corner can also be used on shelving boards to prevent items from sliding off. Finished Elegance molding and trim is completely finished with no painting required, so you can simply cut and install your new molding - saving time and money. The superior durability of Finished Elegance molding and trim also allows it to withstand years of wear and tear in your home. Use the complete solution of the color matched touch-up kit and caulk with your Finished Elegance installation to create a lasting impression for your entire room.",
+    "is_top_rated": true,
+    "favorite_count": 68,
+    "aisle": "19",
+    "bay": "011",
+    "feature_bullets": [
+      "White finish brings a classy vibe to your decor",
+      "MDF construction for strength and durability",
+      "Intended for indoor use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is factory finished for easy installation",
+      "Simply nail to the wall and fill the holes for a perfect installation",
+      "Durable finish is resistant to scratches and dents",
+      "Don't forget the color matched caulk and fill stick",
+      "Use to protect corners where wall paper meets a painted wall",
+      "Use to protect outside corners from dents and scratches in high traffic areas",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/44006f9f-a087-410a-acd6-c1520b6ff208/svn/white-finished-elegance-corner-moulding-10005651-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-finished-elegance-corner-moulding-10005651-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b382ef09-4f2e-4293-a92d-496aa1a2fdcb/svn/white-finished-elegance-corner-moulding-10005651-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/44006f9f-a087-410a-acd6-c1520b6ff208/svn/white-finished-elegance-corner-moulding-10005651-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 115,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Corner Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "205"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Corner Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/N-5yc1vZcbjf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 3.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1782
+        }
+      }
+    }
+  }
+}

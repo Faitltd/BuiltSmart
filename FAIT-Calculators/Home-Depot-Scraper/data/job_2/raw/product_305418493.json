@@ -1,0 +1,267 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13093,
+    "overage_used": 3093,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Star-Flat-Head-Wood-Deck-Screws-25-lbs-box-1543-pcs-3DMR25BK/305418493"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:42:03.228Z",
+    "processed_at": "2025-05-01T13:42:11.988Z",
+    "total_time_taken": 8.76,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Star-Flat-Head-Wood-Deck-Screws-25-lbs-box-1543-pcs-3DMR25BK/305418493"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Red-Torx-Flat-Head-Wood-Deck-Screws-25-lb-1543-Piece-3DMR25BK/305418493",
+    "brand": "DECKMATE",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/DECKMATE/N-5yc1vZ2fkpe61Zrkz",
+    "title": "DECKMATE #9 x 3 in. Red Torx Flat-Head Wood Deck Screws (25 lb./1543-Piece)",
+    "upc": "764666733190",
+    "item_id": "305418493",
+    "parent_id": "325508417",
+    "store_sku": "1003274856",
+    "model_number": "3DMR25BK",
+    "description": "Designed to make the most out of your outdoor project. Use the Deckmate brand exterior screws for all treated lumber and all exterior projects to connect wood to wood. A lifetime polymer coating provides extra corrosion resistance. Deckmate is guaranteed for the life of your outdoor project.",
+    "favorite_count": 17,
+    "aisle": "17",
+    "bay": "009",
+    "feature_bullets": [
+      "Use for all treated lumber and exterior wood to wood projects",
+      "Designed with under head nibs that allow for countersink",
+      "Features a corrosion-resistant finish"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Star drive head helps transfer torque and prevent cam outs",
+      "Nibs under head allow screw to countersink better for a smoother finish",
+      "Type-17 point with flute creates its own pilot hole limiting the need for pre-drilling",
+      "Includes T-25 driver bit in the box"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6a9bba9b-2ac3-4f55-99ba-f03fd95c943e/svn/deckmate-deck-screws-3dmr25bk-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79d9d792-03c5-4330-a2c7-77a38ea378ca/svn/deckmate-deck-screws-3dmr25bk-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7dbe0a21-6484-4ab4-97b7-2a0e7d2545e2/svn/deckmate-deck-screws-3dmr25bk-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1337e89d-6f6f-40e3-a5db-15e2b70e6efb/svn/deckmate-deck-screws-3dmr25bk-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/df3b34ab-a831-4db9-855c-7eb933c74822/svn/deckmate-deck-screws-3dmr25bk-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7012b623-92f6-4d03-851f-f56e511eeb95/svn/deckmate-deck-screws-3dmr25bk-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d251a9e2-846d-4c1e-bcc9-0f82cbc023d5/svn/deckmate-deck-screws-3dmr25bk-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5bf1b620-9724-4aa4-9540-39afa98d5bdb/svn/deckmate-deck-screws-3dmr25bk-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6a9bba9b-2ac3-4f55-99ba-f03fd95c943e/svn/deckmate-deck-screws-3dmr25bk-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/75b85dbc-ffd3-4bcf-9ecf-ffdcbc2368ca/c0a9a601-314c-4264-92b1-b2f1000237b9/main.mp4?fastly_token=NjgxMzg1YTBfZDQ1ZjQxYzkzNjRhZmQwMGFiMDZmNzM3NjdjZWFjMzRhNjY1NmRhZWU1NmJiZmNmN2IyYWVhNDMxNDYyZGNjNV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNzViODVkYmMtZmZkMy00YmNmLTllY2YtZmZkY2JjMjM2OGNhL2MwYTlhNjAxLTMxNGMtNDI2NC05MmIxLWIyZjEwMDAyMzdiOS9tYWluLm1wNA%3D%3D",
+        "title": "Deck Mate III",
+        "id": "6025427519001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/75b85dbc-ffd3-4bcf-9ecf-ffdcbc2368ca/0aab207f-7270-4b06-9002-2f324955efbc/160x90/match/image.jpg",
+        "description": "The newest screw in decking.\n"
+      }
+    ],
+    "ratings_total": 117,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Red"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Ceramic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1543"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "25 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "9 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#9"
+      }
+    ],
+    "size": "#9",
+    "variants": [
+      {
+        "title": "3 in~~#9~~Red~~25 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Red-Torx-Flat-Head-Wood-Deck-Screws-25-lb-1543-Piece-3DMR25BK/305418493",
+        "item_id": "305418493"
+      },
+      {
+        "title": "3 in~~#9~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-3-in-Red-Exterior-Self-Starting-Star-Flat-Head-Wood-Deck-Screws-9-1-lb-73-pcs-3DMR1/305418735",
+        "item_id": "305418735"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 114,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 7
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 7,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

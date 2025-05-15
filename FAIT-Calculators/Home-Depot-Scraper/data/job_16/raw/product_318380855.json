@@ -1,0 +1,178 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14121,
+    "overage_used": 4121,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Propack-1-2-in-x-5-1-2-in-x-144-in-Primed-Pine-Base-Moulding-6-pack-206PRPK72/318380855"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:56:34.646Z",
+    "processed_at": "2025-05-01T17:57:19.140Z",
+    "total_time_taken": 44.49,
+    "homedepot_url": "https://www.homedepot.com/p/Propack-1-2-in-x-5-1-2-in-x-144-in-Primed-Pine-Base-Moulding-6-pack-206PRPK72/318380855"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Propack-1-2-in-x-5-1-2-in-x-144-in-Primed-Pine-Base-Moulding-6-pack-206PRPK72/318380855",
+    "brand": "Unbranded",
+    "title": "Unbranded Propack 1/2 in. x 5-1/2 in. x 144 in. Primed Pine Base Moulding(6-pack)",
+    "upc": "099443054879",
+    "item_id": "318380855",
+    "store_sku": "1006854968",
+    "model_number": "206PRPK72",
+    "description": "Base moulding is applied on the ground, where the wall meets the wall. It covers the flooring edges to make a completed look. Many bases are available to suit your style.",
+    "feature_bullets": [
+      "Made of fingerjoined pine resisting twisting and warping",
+      "Hides any gaps and edges after flooring installation",
+      "Pre-primed white to be painted with your choice of color"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from fingerjointed pine",
+      "Resists warping and twisting",
+      "Pre-primed and ready for paint",
+      "Sold 6-pieces in a pack"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fe7417f0-5cf4-4096-9611-d949a6cc42b5/svn/white-baseboard-206prpk72-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a253397a-e840-4b99-84bf-be76aa7fa9be/svn/white-baseboard-206prpk72-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7e54feba-79ff-4b3d-9787-3241c2d867ca/svn/white-baseboard-206prpk72-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fe7417f0-5cf4-4096-9611-d949a6cc42b5/svn/white-baseboard-206prpk72-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 9,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "6"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "206"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

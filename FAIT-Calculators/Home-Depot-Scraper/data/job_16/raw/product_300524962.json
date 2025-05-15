@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14115,
+    "overage_used": 4115,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/ProWood-2-in-x-4-in-x-4-ft-2-Premium-Grade-Dimensional-Lumber-271736/300524962"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:56:10.545Z",
+    "processed_at": "2025-05-01T17:56:17.431Z",
+    "total_time_taken": 6.89,
+    "homedepot_url": "https://www.homedepot.com/p/ProWood-2-in-x-4-in-x-4-ft-2-Premium-Grade-Dimensional-Lumber-271736/300524962"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/ProWood-2-in-x-4-in-x-4-ft-2-Premium-Grade-Dimensional-Lumber-271736/300524962",
+    "brand": "ProWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/ProWood/N-5yc1vZc55wZn9a",
+    "title": "ProWood 2 in. x 4 in. x 4 ft. #2 Premium Grade Dimensional Lumber",
+    "upc": "090489487546",
+    "item_id": "300524962",
+    "parent_id": "322219072",
+    "store_sku": "1002185331",
+    "model_number": "271736",
+    "description": "This premium 2 in. x 4 in. is surfaced on four sides and meets the highest grading standards for strength and appearance. Each board is easy to paint or stain. This makes it ideal for a wide range of structural and nonstructural applications including DIY projects. When used for exterior applications, wood protector sealant is recommended.",
+    "favorite_count": 882,
+    "aisle": "24",
+    "bay": "EC1",
+    "feature_bullets": [
+      "Use for interior and exterior applications",
+      "Board can be left unfinished or can be primed, painted or stained",
+      "Dimensionally stable"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Paint, stain or leave unfinished",
+      "Perfect for a variety of DIY projects",
+      "Uniform thickness, density and appearance for stable and long lasting performance",
+      "Easy to cut and nail",
+      "Untreated premium lumber",
+      "When used for exterior applications, wood protector sealant is recommended"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6e8167f9-7bdc-4fdf-b0b2-2a5c8fbb2f75/svn/prowood-framing-lumber-271736-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/730c928c-b3ea-4801-b0ad-e4e800b5605d/svn/prowood-framing-lumber-271736-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/730c928c-b3ea-4801-b0ad-e4e800b5605d/svn/prowood-framing-lumber-271736-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/97ef786b-14bf-417c-8e27-a3bc6e5d5354/svn/prowood-framing-lumber-271736-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/76c1c6dc-eb66-488e-9195-980ea406a317/svn/prowood-framing-lumber-271736-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b65ca15c-8914-4feb-a40b-67f2226d44f5/svn/prowood-framing-lumber-271736-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/59fdaa05-451b-42dc-850d-82ecf4de79e0/svn/prowood-framing-lumber-271736-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6e8167f9-7bdc-4fdf-b0b2-2a5c8fbb2f75/svn/prowood-framing-lumber-271736-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/60c6f0d8-6d6c-4313-bc15-c51a30a14ca0/main.mp4?fastly_token=NjgzODI1YzlfNTY0MTNlZjhmY2RlNzhiMmZjMGEwYWUyOTM5OWUzYTgwZmI2Y2UyYjEzZmYwMjk4NjdlZTI1Y2MyNDVkZTBjM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNTA4NDE5ZS1hNzlmLTQwMmEtOGRiZC02ODQyNDdjMGU3OWIvNjBjNmYwZDgtNmQ2Yy00MzEzLWJjMTUtYzUxYTMwYTE0Y2EwL21haW4ubXA0&pubid=66036796001",
+        "title": "Handprint Overview",
+        "id": "6298378923001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/main/160x90/15s40ms/match/image.jpg?pubId=66036796001",
+        "description": "Brand Overview"
+      }
+    ],
+    "ratings_total": 1243,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Screws,Standard Nails"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Premium"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Southern Pine"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "4 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "4 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "8 ft~~2x4",
+        "link": "https://www.homedepot.com/p/2-in-x-4-in-x-92-5-8-in-2-Premium-Grade-Whitewood-Stud-6091/318685722",
+        "item_id": "318685722"
+      },
+      {
+        "title": "3 ft~~2x4",
+        "link": "https://www.homedepot.com/p/ProWood-2-in-x-4-in-x-3-ft-2-Premium-Grade-Dimensional-Lumber-271736/300524956",
+        "item_id": "300524956"
+      },
+      {
+        "title": "4 ft~~2x6",
+        "link": "https://www.homedepot.com/p/ProWood-2-in-x-6-in-x-4-ft-2-Premium-Grade-Dimensional-Lumber-271737/300524991",
+        "item_id": "300524991"
+      },
+      {
+        "title": "2 ft~~2x4",
+        "link": "https://www.homedepot.com/p/ProWood-2-in-x-4-in-x-2-ft-2-Premium-Grade-Dimensional-Lumber-271736/300524945",
+        "item_id": "300524945"
+      },
+      {
+        "title": "10 ft~~2x4",
+        "link": "https://www.homedepot.com/p/ProWood-2-in-x-4-in-x-10-ft-S1S2E-Spruce-Dimensional-Lumber-4717-10/100002991",
+        "item_id": "100002991"
+      },
+      {
+        "title": "4 ft~~2x4",
+        "link": "https://www.homedepot.com/p/ProWood-2-in-x-4-in-x-4-ft-2-Premium-Grade-Dimensional-Lumber-271736/300524962",
+        "item_id": "300524962"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 42
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 107,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

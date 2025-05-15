@@ -1,0 +1,244 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14214,
+    "overage_used": 4214,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CBSQ-Hot-Dip-Galvanized-Standoff-Column-Base-for-4x4-Nominal-Lumber-with-SDS-Screws-CBSQ44-SDS2HDG/202270759"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:35.783Z",
+    "processed_at": "2025-05-01T18:20:41.313Z",
+    "total_time_taken": 5.53,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CBSQ-Hot-Dip-Galvanized-Standoff-Column-Base-for-4x4-Nominal-Lumber-with-SDS-Screws-CBSQ44-SDS2HDG/202270759"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-CBSQ-Hot-Dip-Galvanized-Standoff-Column-Base-for-4x4-Nominal-Lumber-with-SDS-Screws-CBSQ44-SDS2HDG/202270759",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Simpson-Strong-Tie/N-5yc1vZc8hsZ615",
+    "title": "Simpson Strong-Tie CBSQ Hot-Dip Galvanized Standoff Column Base for 4x4 Nominal Lumber with SDS Screws",
+    "upc": "707392213208",
+    "item_id": "202270759",
+    "store_sku": "761669",
+    "model_number": "CBSQ44-SDS2HDG",
+    "description": "Post and column bases secure the bottom of posts or columns to concrete and are perfect for decks or patio covers. Models are available for attaching to existing hardened concrete, wet concrete, as well as wood. The CBSQ series provides a connection between a post (or column) for decks, patio covers and other top-supported structures.",
+    "favorite_count": 27,
+    "feature_bullets": [
+      "Hot-dip galvanized for enhanced corrosion resistance",
+      "Designed for standoff installation to prevent moisture damage",
+      "Includes Strong-Drive SDS heavy duty connector screws"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Uses Strong-Drive screws, which allow for fast installation, reduced reveal and high capacity",
+      "Provides a 1-in standoff between post and concrete that meets code requirements",
+      "Embeds in wet concrete at time of pour",
+      "The standoff base reduces the potential for decay at post and column ends",
+      "Shipped with base plate assembled",
+      "Nominal column size: 4x4",
+      "Steel gauge: Base 12; strap 10",
+      "Hot-dip galvanization (HDG) offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with 1/4 in. x 2 in. Strong-Drive SDS Heavy-Duty Connector screws (included)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6e33d5aa-531c-4bfc-8411-09f0b04971eb/svn/simpson-strong-tie-post-bases-cbsq44-sds2hdg-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7771a1b5-6ca4-4116-b4e5-c6db9b483f30/svn/simpson-strong-tie-post-bases-cbsq44-sds2hdg-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3f489b04-315a-4a2b-8fb4-f691d089248e/svn/simpson-strong-tie-post-bases-cbsq44-sds2hdg-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/621d41e2-0e0b-494c-9351-dac95227bb3f/svn/simpson-strong-tie-post-bases-cbsq44-sds2hdg-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-bases-cbsq44-sds2hdg-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-bases-cbsq44-sds2hdg-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6e33d5aa-531c-4bfc-8411-09f0b04971eb/svn/simpson-strong-tie-post-bases-cbsq44-sds2hdg-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2c58f979-7adc-4b78-94f7-ef6b8d17ecc8/main.mp4?fastly_token=NjgxM2FkMzVfMTQ0MGI4NmVlNjgxNGRiOTBkMWYzODliMzJiNjBiOWYyMjZjZDI4ZDc4ZDg5NWNkNDkzNjkyMGU0NjA0YzI1NF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZGI5NmMzMzktYjc5NS00ZTI2LWI2OGMtMjMxNTQ3YjliMmMxLzJjNThmOTc5LTdhZGMtNGI3OC05NGY3LWVmNmI4ZDE3ZWNjOC9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_Post Base",
+        "id": "6167359517001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2155f829-f919-4d62-bd12-1abcbcf1ff3b/160x90/match/image.jpg",
+        "description": "Promo of Post Base\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/1adf0153-2df3-44f6-a355-35c757fd411a/main.mp4?fastly_token=NjgxM2JkMjBfZWM2ZjI4OGE1ZGZiNzNlMWY2YTIxN2QxYjlkOWJjNWJlZDQ3NDNlNWQ2NDlmNzA5YjAyZWQzODg1MGYzOTkxOV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMmY4NzNjNDktOTI4OS00ZmViLWIzMjAtOWJkYjM3NTMyYTcwLzFhZGYwMTUzLTJkZjMtNDRmNi1hMzU1LTM1Yzc1N2ZkNDExYS9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_DeckLedger",
+        "id": "6167359672001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/8da517f9-0535-4182-9759-04f15b64b115/600x338/match/image.jpg",
+        "description": "Promo of Deck Ledger\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxM2FhYThfMmE2MzkzNzdjNTk0OGVjZWQzZmM1NmQxNWI2YTYyYzQxNTU4NTkyYTg4YTc3Yjg3MDU4NGMyMmVkN2M5ZWEyZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 8,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Standoff Column Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Hot dip galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "4.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "4x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "16.6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "keywords_list": [
+      "Simpson Strong-Tie",
+      "CBSQ44-SDS2HDG 4 in. x 4 in. Standoff Column Base",
+      "CBSQ44-SDS2HDG"
+    ],
+    "keywords": "Simpson Strong-Tie, CBSQ44-SDS2HDG 4 in. x 4 in. Standoff Column Base, CBSQ44-SDS2HDG",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 70.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 68,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 68,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

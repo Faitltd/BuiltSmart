@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BigBox API Diagnostics</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .card {
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .card-header {
+            background-color: #f96302;
+            color: white;
+            font-weight: bold;
+            border-radius: 10px 10px 0 0;
+        }
+        pre {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            white-space: pre-wrap;
+            word-break: break-all;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .result-box {
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .result-success {
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+        }
+        .result-error {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+        }
+        .result-warning {
+            background-color: #fff3cd;
+            border: 1px solid #ffeeba;
+        }
+        .spinner-border {
+            width: 1rem;
+            height: 1rem;
+            margin-right: 5px;
+        }
+        .api-key-container {
+            position: relative;
+        }
+        .toggle-password {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            border: none;
+            background: none;
+            cursor: pointer;
+        }
+        .troubleshooting-tip {
+            background-color: #e7f5ff;
+            border-left: 4px solid #0d6efd;
+            padding: 10px 15px;
+            margin-bottom: 10px;
+        }
+        .hidden {
+            display: none;
+        }
+        .api-key-input {
+            font-family: monospace;
+        }
+        .status-indicator {
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 5px;
+        }
+        .status-success {
+            background-color: #28a745;
+        }
+        .status-warning {
+            background-color: #ffc107;
+        }
+        .status-error {
+            background-color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>BigBox API Diagnostics</h1>
+        <p class="lead">Use this tool to test your BigBox API connection and troubleshoot issues.</p>
+        
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5>API Connection Test</h5>
+            </div>
+            <div class="card-body">
+                <form id="apiTestForm">
+                    <div class="mb-3">
+                        <label for="apiKey" class="form-label">API Key</label>
+                        <div class="api-key-container">
+                            <input type="password" class="form-control api-key-input" id="apiKey" placeholder="Enter your BigBox API key">
+                            <button type="button" class="toggle-password" id="toggleApiKey">
+                                <i class="bi bi-eye"></i> Show
+                            </button>
+                        </div>
+                        <div class="form-text">Your API key will not be stored or logged.</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="searchTerm" class="form-label">Search Term</label>
+                        <input type="text" class="form-control" id="searchTerm" value="pipe" placeholder="Enter a search term">
+                        <div class="form-text">A simple term to test the API with.</div>
+                    </div>
+                    <button type="submit" class="btn btn-primary" id="testButton">
+                        <span class="spinner-border spinner-border-sm hidden" id="testSpinner" role="status" aria-hidden="true"></span>
+                        Test Connection
+                    </button>
+                </form>
+            </div>
+        </div>
+        
+        <div id="resultsCard" class="card mb-4 hidden">
+            <div class="card-header">
+                <h5>Test Results</h5>
+            </div>
+            <div class="card-body">
+                <div id="statusOverview" class="mb-3">
+                    <h6>Status Overview</h6>
+                    <div class="d-flex flex-column">
+                        <div class="mb-2">
+                            <span class="status-indicator" id="connectionStatus"></span>
+                            <span id="connectionStatusText">API Connection: </span>
+                        </div>
+                        <div class="mb-2">
+                            <span class="status-indicator" id="authStatus"></span>
+                            <span id="authStatusText">Authentication: </span>
+                        </div>
+                        <div class="mb-2">
+                            <span class="status-indicator" id="creditsStatus"></span>
+                            <span id="creditsStatusText">Credits: </span>
+                        </div>
+                        <div class="mb-2">
+                            <span class="status-indicator" id="resultsStatus"></span>
+                            <span id="resultsStatusText">Search Results: </span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="recommendations" class="mb-3 hidden">
+                    <h6>Recommendations</h6>
+                    <ul id="recommendationsList" class="list-group">
+                    </ul>
+                </div>
+                
+                <div id="sampleProduct" class="mb-3 hidden">
+                    <h6>Sample Product</h6>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 id="productTitle" class="card-title">Product Title</h5>
+                            <p id="productPrice" class="card-text">Price: $0.00</p>
+                            <p id="productSku" class="card-text">SKU: N/A</p>
+                            <p id="productModel" class="card-text">Model: N/A</p>
+                            <a id="productLink" href="#" target="_blank" class="btn btn-sm btn-outline-primary">View on Home Depot</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <h6>Raw Response</h6>
+                    <pre id="rawResponse">No data available</pre>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5>Troubleshooting Guide</h5>
+            </div>
+            <div class="card-body">
+                <h6>Common Issues</h6>
+                <ul>
+                    <li><strong>Invalid API Key</strong> - Make sure your API key is correct and active.</li>
+                    <li><strong>No Credits</strong> - Check if you have available credits in your BigBox account.</li>
+                    <li><strong>No Results</strong> - Try different search terms or check if the API is working correctly.</li>
+                    <li><strong>Connection Issues</strong> - Check your internet connection or if the API service is down.</li>
+                </ul>
+                
+                <h6>Setting Up Your API Key</h6>
+                <ol>
+                    <li>Sign up for a BigBox API account at <a href="https://bigboxapi.com" target="_blank">bigboxapi.com</a></li>
+                    <li>Purchase credits if needed</li>
+                    <li>Copy your API key from your account dashboard</li>
+                    <li>Set the BIGBOX_API_KEY environment variable or enter it in the form above</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const apiTestForm = document.getElementById('apiTestForm');
+            const testButton = document.getElementById('testButton');
+            const testSpinner = document.getElementById('testSpinner');
+            const resultsCard = document.getElementById('resultsCard');
+            const rawResponse = document.getElementById('rawResponse');
+            const recommendations = document.getElementById('recommendations');
+            const recommendationsList = document.getElementById('recommendationsList');
+            const sampleProduct = document.getElementById('sampleProduct');
+            
+            // Status indicators
+            const connectionStatus = document.getElementById('connectionStatus');
+            const connectionStatusText = document.getElementById('connectionStatusText');
+            const authStatus = document.getElementById('authStatus');
+            const authStatusText = document.getElementById('authStatusText');
+            const creditsStatus = document.getElementById('creditsStatus');
+            const creditsStatusText = document.getElementById('creditsStatusText');
+            const resultsStatus = document.getElementById('resultsStatus');
+            const resultsStatusText = document.getElementById('resultsStatusText');
+            
+            // Sample product elements
+            const productTitle = document.getElementById('productTitle');
+            const productPrice = document.getElementById('productPrice');
+            const productSku = document.getElementById('productSku');
+            const productModel = document.getElementById('productModel');
+            const productLink = document.getElementById('productLink');
+            
+            // Toggle API key visibility
+            const toggleApiKey = document.getElementById('toggleApiKey');
+            const apiKeyInput = document.getElementById('apiKey');
+            
+            toggleApiKey.addEventListener('click', function() {
+                if (apiKeyInput.type === 'password') {
+                    apiKeyInput.type = 'text';
+                    toggleApiKey.innerHTML = '<i class="bi bi-eye-slash"></i> Hide';
+                } else {
+                    apiKeyInput.type = 'password';
+                    toggleApiKey.innerHTML = '<i class="bi bi-eye"></i> Show';
+                }
+            });
+            
+            apiTestForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                // Get form values
+                const apiKey = document.getElementById('apiKey').value;
+                const searchTerm = document.getElementById('searchTerm').value || 'pipe';
+                
+                if (!apiKey) {
+                    alert('Please enter an API key');
+                    return;
+                }
+                
+                // Show spinner
+                testButton.disabled = true;
+                testSpinner.classList.remove('hidden');
+                
+                // Make API request
+                fetch('/api/test', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        api_key: apiKey,
+                        search_term: searchTerm
+                    })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Hide spinner
+                    testButton.disabled = false;
+                    testSpinner.classList.add('hidden');
+                    
+                    // Show results
+                    resultsCard.classList.remove('hidden');
+                    
+                    // Update status indicators
+                    updateStatusIndicators(data);
+                    
+                    // Show recommendations if needed
+                    updateRecommendations(data);
+                    
+                    // Show sample product if available
+                    updateSampleProduct(data);
+                    
+                    // Show raw response
+                    rawResponse.textContent = data.raw_response || JSON.stringify(data, null, 2);
+                })
+                .catch(error => {
+                    // Hide spinner
+                    testButton.disabled = false;
+                    testSpinner.classList.add('hidden');
+                    
+                    // Show error
+                    resultsCard.classList.remove('hidden');
+                    rawResponse.textContent = `Error: ${error.message}`;
+                    
+                    // Update status indicators
+                    connectionStatus.className = 'status-indicator status-error';
+                    connectionStatusText.textContent = 'API Connection: Failed';
+                    
+                    // Show recommendations
+                    recommendations.classList.remove('hidden');
+                    recommendationsList.innerHTML = `
+                        <li class="list-group-item list-group-item-danger">
+                            Check your internet connection and try again.
+                        </li>
+                    `;
+                });
+            });
+            
+            function updateStatusIndicators(data) {
+                // Connection status
+                if (data.success) {
+                    connectionStatus.className = 'status-indicator status-success';
+                    connectionStatusText.textContent = 'API Connection: Successful';
+                } else {
+                    connectionStatus.className = 'status-indicator status-error';
+                    connectionStatusText.textContent = `API Connection: Failed (${data.status_code || 'Error'})`;
+                }
+                
+                // Authentication status
+                if (data.api_success) {
+                    authStatus.className = 'status-indicator status-success';
+                    authStatusText.textContent = 'Authentication: Successful';
+                } else {
+                    authStatus.className = 'status-indicator status-error';
+                    authStatusText.textContent = 'Authentication: Failed';
+                }
+                
+                // Credits status
+                if (data.credits_remaining && data.credits_remaining !== 'unknown') {
+                    creditsStatus.className = 'status-indicator status-success';
+                    creditsStatusText.textContent = `Credits: ${data.credits_remaining} remaining`;
+                } else {
+                    creditsStatus.className = 'status-indicator status-warning';
+                    creditsStatusText.textContent = 'Credits: Unknown';
+                }
+                
+                // Results status
+                if (data.product_count && data.product_count > 0) {
+                    resultsStatus.className = 'status-indicator status-success';
+                    resultsStatusText.textContent = `Search Results: ${data.product_count} found`;
+                } else {
+                    resultsStatus.className = 'status-indicator status-warning';
+                    resultsStatusText.textContent = 'Search Results: None found';
+                }
+                
+                // Generate recommendations based on results
+                generateRecommendations(data);
+            }
+            
+            function generateRecommendations(data) {
+                const recs = [];
+                
+                // Check for connection issues
+                if (!data.success) {
+                    recs.push({
+                        type: 'danger',
+                        message: `Connection failed with status code ${data.status_code}. Check your internet connection and try again.`
+                    });
+                }
+                
+                // Check for authentication issues
+                if (data.success && !data.api_success) {
+                    recs.push({
+                        type: 'danger',
+                        message: 'API key authentication failed. Verify your API key is correct and active.'
+                    });
+                }
+                
+                // Check for credit issues
+                if (data.credits_remaining === 0) {
+                    recs.push({
+                        type: 'warning',
+                        message: 'You have no credits remaining. Purchase more credits to continue using the API.'
+                    });
+                }
+                
+                // Check for no results
+                if (data.api_success && data.product_count === 0) {
+                    recs.push({
+                        type: 'warning',
+                        message: 'No products found for this search term. Try a different search term.'
+                    });
+                }
+                
+                // Display warning if present
+                if (data.warning) {
+                    recs.push({
+                        type: 'warning',
+                        message: data.warning
+                    });
+                }
+                
+                // Display error if present
+                if (data.error) {
+                    recs.push({
+                        type: 'danger',
+                        message: data.error
+                    });
+                }
+                
+                // Display recommendations
+                if (recs.length > 0) {
+                    recommendations.classList.remove('hidden');
+                    recommendationsList.innerHTML = '';
+                    
+                    recs.forEach(rec => {
+                        const li = document.createElement('li');
+                        li.className = `list-group-item list-group-item-${rec.type}`;
+                        li.textContent = rec.message;
+                        recommendationsList.appendChild(li);
+                    });
+                } else if (data.success && data.api_success) {
+                    // Everything looks good
+                    recommendations.classList.remove('hidden');
+                    recommendationsList.innerHTML = `
+                        <li class="list-group-item list-group-item-success">
+                            API connection successful! Your API key is working correctly.
+                        </li>
+                    `;
+                } else {
+                    recommendations.classList.add('hidden');
+                }
+            }
+            
+            function updateSampleProduct(data) {
+                if (data.sample_product) {
+                    sampleProduct.classList.remove('hidden');
+                    productTitle.textContent = data.sample_product.title || 'Product Title';
+                    productPrice.textContent = `Price: ${data.sample_product.price || '0.00'}`;
+                    productSku.textContent = `SKU: ${data.sample_product.sku || 'N/A'}`;
+                    productModel.textContent = `Model: ${data.sample_product.model_number || 'N/A'}`;
+                    productLink.href = data.sample_product.link || '#';
+                    productLink.textContent = 'View on Home Depot';
+                } else {
+                    sampleProduct.classList.add('hidden');
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+</html>

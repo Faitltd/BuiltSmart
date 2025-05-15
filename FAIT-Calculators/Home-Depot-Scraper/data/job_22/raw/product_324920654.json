@@ -1,0 +1,194 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14785,
+    "overage_used": 4785,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-12-ft-Timber-Brown-Square-Edge-Capped-Composite-Decking-Board-BRDVCD-B-12/324920654"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:27:10.542Z",
+    "processed_at": "2025-05-01T19:27:51.514Z",
+    "total_time_taken": 40.97,
+    "homedepot_url": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-12-ft-Timber-Brown-Square-Edge-Capped-Composite-Decking-Board-BRDVCD-B-12/324920654"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-12-ft-Timber-Brown-Square-Edge-Capped-Composite-Decking-Board-BRDVCD-B-12/324920654",
+    "brand": "Veranda",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Veranda/N-5yc1vZc5mbZ1ko",
+    "title": "Veranda 15/16 in. x 5-1/4 in. x 12 ft. Timber Brown Square Edge Capped Composite Decking Board",
+    "upc": "844219033639",
+    "item_id": "324920654",
+    "parent_id": "327565290",
+    "store_sku": "1009454572",
+    "model_number": "BRDVCD B 12",
+    "description": "Veranda PE composite decking by Fiberon is available in two versatile solid colors with realistic, wood-grained embossing - Timber Brown and Stone Gray. Making it even easier for you to find the perfect look for your outdoor living space. Whether you're adding a brand-new deck or upgrading your worn-out wood decking, Veranda by Fiberon helps you create a look that lasts.",
+    "is_top_rated": true,
+    "feature_bullets": [
+      "Realistic wood-grained embossing offers a natural look",
+      "Prefinished and UV protected for lasting beauty",
+      "Low maintenance composite material resists mold, mildew"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Veranda PE composite decking offers great performance at an exceptional value",
+      "Veranda deck boards are prefinished, and feature a durable, protective cap",
+      "Unlike wood, Veranda deck boards never need to be painted or refinished",
+      "The low-maintenance composite material is easy to clean, and resists mold and mildew",
+      "16 ft. and 20 ft. grooved deck boards are available for hidden fastener installation.",
+      "Complementary fascia colors are available for purchase"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fa27e0e3-8158-47fa-b2f6-76ef476cd0be/svn/timber-brown-veranda-composite-decking-boards-brdvcd-b-12-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/37e27deb-6472-4429-bb0d-f0875449cfa6/svn/timber-brown-veranda-composite-decking-boards-brdvcd-b-12-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46b87fe8-6158-425d-9566-e7634931265e/svn/timber-brown-veranda-composite-decking-boards-brdvcd-b-12-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab0d1c0c-baa2-46fb-856c-3948b42e27a7/svn/timber-brown-veranda-composite-decking-boards-brdvcd-b-12-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fa27e0e3-8158-47fa-b2f6-76ef476cd0be/svn/timber-brown-veranda-composite-decking-boards-brdvcd-b-12-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 175,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Timber Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Fiberon\u00ae / Starborn\u00ae Cap-Tor\u00ae Epoxy-Coated Carbon Steel Face Decking Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Backed by a 25-year stain, fade and performance warranty."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".93 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "26"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Timber Brown~~Square~~12 ft",
+        "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-12-ft-Timber-Brown-Square-Edge-Capped-Composite-Decking-Board-BRDVCD-B-12/324920654",
+        "item_id": "324920654"
+      },
+      {
+        "title": "Timber Brown~~Square~~20 ft",
+        "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-20-ft-Timber-Brown-Squared-Edge-Capped-Composite-Decking-Board-BRDVCD-B-20/324920743",
+        "item_id": "324920743"
+      },
+      {
+        "title": "Stone Gray~~Square~~20 ft",
+        "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-20-ft-Stone-Gray-Squared-Edge-Capped-Composite-Decking-Board-BRDVCD-G-20/324920742",
+        "item_id": "324920742"
+      },
+      {
+        "title": "Stone Gray~~Square~~12 ft",
+        "link": "https://www.homedepot.com/p/Veranda-15-16-in-x-5-1-4-in-x-12-ft-Stone-Gray-Square-Edge-Capped-Composite-Decking-Board-BRDVCD-G-12/324920736",
+        "item_id": "324920736"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

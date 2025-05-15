@@ -1,0 +1,193 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13694,
+    "overage_used": 3694,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/MUDMIXER-Continuous-Concrete-Mixer-with-Hopper-Extension-and-Chute-Extension-Included-MMXR-3221-HCE/334769639"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:54:33.589Z",
+    "processed_at": "2025-05-01T16:54:38.762Z",
+    "total_time_taken": 5.17,
+    "homedepot_url": "https://www.homedepot.com/p/MUDMIXER-Continuous-Concrete-Mixer-with-Hopper-Extension-and-Chute-Extension-Included-MMXR-3221-HCE/334769639"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/MUDMIXER-Continuous-Concrete-Mixer-with-Hopper-Extension-and-Chute-Extension-Included-MMXR-3221-HCE/334769639",
+    "brand": "MUDMIXER",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Mixers/MUDMIXER/N-5yc1vZc7qbZzc1",
+    "title": "MUDMIXER Continuous Concrete Mixer with Hopper Extension and Chute Extension Included",
+    "upc": "850069199067",
+    "item_id": "334769639",
+    "store_sku": "1013886704",
+    "model_number": "MMXR-3221-HCE",
+    "description": "Introducing the MUDMIXER: your ultimate solution for fast, efficient mixing in construction projects. Designed to handle concrete, mortar, or stucco with ease, this multi-use mixer boasts adjustable water flow for consistent results every time. Crafted for durability, its heavy-duty steel body and flat-free tires ensure reliability on any job site. Equipped with a 2-phase infusion system, the MUDMIXER combines an auger and water to deliver a seamless flow of mixture, customizable via a fully adjustable water dial. Its patented auger effortlessly handles various mixtures, facilitating swift and precise delivery, reducing labor costs, and increasing productivity. The adjustable water dial customizes the water flow for the desired mixture. Powered by an electric drivetrain with a forward and reverse directional switch, the MUDMIXER can handle over 40-bags per hour, with an integrated bag opener for seamless loading. Compact in size, it easily maneuvers through yard gates for accessibility, while an integrated secondary hose simplifies cleanup. Featuring a 330\u00b0 pivot system, this mixer offers precision and versatility on any work site. Constructed from 14-Gauge high-strength steel, it is built to withstand rigorous demands. The all-electric, water-sealed motor ensures reliable performance. Comes with the hopper extension and chute extension accessories. \u0192 Experience the MUDMIXER difference today.",
+    "is_bestseller": true,
+    "is_top_rated": true,
+    "feature_bullets": [
+      "Fastest, easiest, multi-use cement mixer on the market",
+      "Chute extension included - adds 18\" of reach, increasing accuracy",
+      "Hopper Extension included - increases capacity to 300lbs of mix"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Includes hopper extension and chute extension.",
+      "MUDMIXER is the fastest, easiest, multi-use cement mixer on the market.",
+      "Featuring a fully adjustable water input designed to be used with concrete, mortar, or stucco mix.",
+      "Electric drivetrain could chew through over 40 - 80 lbs. bags an hour.",
+      "1/2 HP water-sealed electric motor with forward and reverse operation.",
+      "330\u00b0 swivel movement allows for precision placement of cement.",
+      "35 in. stand-over height means you will never lift another bag above the belt.",
+      "Integrated bag opener makes it easy to drop-and-fold the bagged cement.",
+      "Revolutionary fully adjustable water dial allows for customized water flow for use with concrete, mortar, stucco mix, pool krete and much more",
+      "Fits through a gate opening at only 27.5 in. wide",
+      "Built on a heavy-duty 14-Gauge steel frame set on marathon flat-free wheels",
+      "Attached hose and nozzle allows for easy cleanup",
+      "No more batch mixing with MUDMIXER continuous mixing technology",
+      "Quickly and effortlessly provides reliable cement mix consistency wherever it is needed",
+      "No more batch mixing with the MUDMIXER continuous mixing technology",
+      "Turn 3 to 4-man jobs into 1-man jobs",
+      "Enables reliable material consistency, put an end to too soupy or too dry mixes"
+    ],
+    "descriptive_attributes_count": 17,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3a2d335c-d270-4918-b817-f96aecda93dc/svn/mudmixer-concrete-mixers-mmxr-3221-hce-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9c335fd1-d6ec-4208-bb83-d7149bf35776/svn/mudmixer-concrete-mixers-mmxr-3221-hce-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fe916f78-a32d-45d6-99ed-13cf76567a7a/svn/mudmixer-concrete-mixers-mmxr-3221-hce-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/176a1f1e-0732-4ca8-9f51-7d9b25c0b286/svn/mudmixer-concrete-mixers-mmxr-3221-hce-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e3ba8869-3e08-46a9-b377-9537655ff21e/svn/mudmixer-concrete-mixers-mmxr-3221-hce-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0f64103b-44f4-4342-8004-ba4036c4bc15/svn/mudmixer-concrete-mixers-mmxr-3221-hce-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3a2d335c-d270-4918-b817-f96aecda93dc/svn/mudmixer-concrete-mixers-mmxr-3221-hce-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/c83da0df-220c-45e2-8e64-95e5de0f0c96/21efcec5-7257-4aee-9920-3f24ff6f1f96/main.mp4?fastly_token=NjgzODI4NWNfNDZiY2UzZTJhYzMzN2ZmOGNkOGI4YTY4ZGI0NzQ0MzVkYWI2YTI3ODZhMDRmYjczZTk3OWQ0MTU3ZjBmOTYyMF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jODNkYTBkZi0yMjBjLTQ1ZTItOGU2NC05NWU1ZGUwZjBjOTYvMjFlZmNlYzUtNzI1Ny00YWVlLTk5MjAtM2YyNGZmNmYxZjk2L21haW4ubXA0&pubid=66036796001",
+        "title": "MudMixer Promo Video",
+        "id": "6370336116112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/c83da0df-220c-45e2-8e64-95e5de0f0c96/main/160x90/38s80ms/match/image.jpg?pubId=66036796001",
+        "description": "Video showing the MudMixer in action using the hopper and chute extension."
+      }
+    ],
+    "ratings_total": 290,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Assembly Required",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Details",
+        "name": "Concrete Tool Type",
+        "value": "Mixer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Power Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "177 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1-year warrranty against factory defects for any unit used for any purpose including personal, family, or household use, rental, or commercial."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Depth (in.)",
+        "value": "66.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Height (in.)",
+        "value": "41.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Width (in.)",
+        "value": "27.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Concrete, Cement & Masonry",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry/N-5yc1vZarlk"
+      },
+      {
+        "name": "Concrete Mixers",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Mixers/N-5yc1vZc7qb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 3905,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 367,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 367,
+          "price": 55,
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-14",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

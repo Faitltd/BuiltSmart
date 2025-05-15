@@ -1,0 +1,178 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14682,
+    "overage_used": 4682,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Foggy-Wharf-Square-Edge-Grey-Composite-Deck-Board-FW010616E2S56/309911892"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:03:16.057Z",
+    "processed_at": "2025-05-01T19:03:58.874Z",
+    "total_time_taken": 42.82,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Foggy-Wharf-Square-Edge-Grey-Composite-Deck-Board-FW010616E2S56/309911892"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Foggy-Wharf-Square-Edge-Grey-Composite-Deck-Board-FW010616E2S56/309911892",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Enhance Naturals 1 in. x 6 in. x 16 ft. Foggy Wharf Square Edge Grey Composite Deck Board",
+    "upc": "652835289572",
+    "item_id": "309911892",
+    "store_sku": "1006541072",
+    "model_number": "FW010616E2S56",
+    "description": "Choose Trex Enhance Naturals as a worry-free alternative to traditional lumber. Designed with contemporary, multi-tonal streaking, Trex Enhance Naturals offers an authentic wood-grain pattern engineered to last. Available in 5 colors for design and budget-minded homes.",
+    "feature_bullets": [
+      "Authentic wood grain appearance in 5 colors",
+      "Splinter-free boards resist mold and stain better than composites",
+      "Easy installation with no special tools required"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Simple installation. no specialty tools necessary",
+      "Engineered to offer a durable, low-maintenance decking solution",
+      "Comes with a 25-year limited residential fade and stain warranty",
+      "Authentic wood grain appearance in a range of versatile colors",
+      "Splinter-free boards resist stains and mold better than traditional composites",
+      "Use traditional deck screws with square-edge boards"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b2c3724e-c637-48d5-b1b9-d76b7d6bccee/svn/foggy-wharf-trex-composite-decking-boards-fw010616e2s56-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/efb4fd63-ce57-4f2b-aaf2-072eee005a47/svn/foggy-wharf-trex-composite-decking-boards-fw010616e2s56-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9105157c-714b-4461-96a3-25ae01a2ffdc/svn/foggy-wharf-trex-composite-decking-boards-fw010616e2s56-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a500784-a093-4e36-af4b-f7b802642d4e/svn/foggy-wharf-trex-composite-decking-boards-fw010616e2s56-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39647155-635a-42eb-a6fe-b65d8ae15f85/svn/foggy-wharf-trex-composite-decking-boards-fw010616e2s56-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39483d00-8767-4ae6-a98e-a887b403467e/svn/foggy-wharf-trex-composite-decking-boards-fw010616e2s56-66_1000.jpg",
+        "type": "image_back_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b2c3724e-c637-48d5-b1b9-d76b7d6bccee/svn/foggy-wharf-trex-composite-decking-boards-fw010616e2s56-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 41,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Foggy Wharf"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex approved fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Limited Residential"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

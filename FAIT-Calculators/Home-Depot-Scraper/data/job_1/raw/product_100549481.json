@@ -1,0 +1,246 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12887,
+    "overage_used": 2887,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Custom-Building-Products-OmniGrip-3-5-Gal-14-qt-Premium-Lightweight-Adhesive-for-Tile-and-Stone-OGA3/100549481"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:34:13.508Z",
+    "processed_at": "2025-05-01T13:34:18.508Z",
+    "total_time_taken": 5,
+    "homedepot_url": "https://www.homedepot.com/p/Custom-Building-Products-OmniGrip-3-5-Gal-14-qt-Premium-Lightweight-Adhesive-for-Tile-and-Stone-OGA3/100549481"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Custom-Building-Products-OmniGrip-3-5-Gal-14-qt-Premium-Lightweight-Adhesive-for-Tile-and-Stone-OGA3/100549481",
+    "brand": "Custom Building Products",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Adhesives-Tile-Adhesives/Custom-Building-Products/N-5yc1vZcduoZef",
+    "title": "Custom Building Products OmniGrip 3.5 Gal. (14 qt.) Premium Lightweight Adhesive for Tile and Stone",
+    "upc": "010186765310",
+    "item_id": "100549481",
+    "parent_id": "321888076",
+    "store_sku": "484883",
+    "model_number": "OGA3",
+    "description": "OmniGrip Adhesive is a flexible, lightweight, high-polymer adhesive for tile and stone installation. Designed to resist intermittent water exposure and has 33% less shrinkage than traditional adhesives, as well as sag resistance. Ideal for small format for ceramic, mosaic, quarry, pavers, gauged slate, porcelain and gauged stone tile installations on walls, floors or countertops. Recommended for tile up to 12 in. (30.5 cm) on any side. Can be used with tile up to 15 in. (38.1 cm) on any side but dry time significantly increases. For tile with any side greater than 15 in. (38.1 cm) CUSTOM recommends using a polymer modified cement mortar specifically for large format tile.",
+    "favorite_count": 902,
+    "aisle": "47",
+    "bay": "001",
+    "feature_bullets": [
+      "High flexibility and bond strength",
+      "33% less shrinkage than traditional adhesives",
+      "Sag and slip resistant - immediately holds wall tiles in place"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "For use over concrete, cement backerboards, drywall, exterior grade plywood, existing ceramic tile, vinyl flooring and plastic laminates",
+      "Sag and slip resistant - immediately holds wall tiles in place",
+      "Ideal for small format tile",
+      "Great for tub surrounds or shower walls",
+      "Flexible for increased crack resistance",
+      "Covers up to 175 sq. ft. depending on installation practices and jobsite conditions",
+      "Recommended for interior use only. Do not use for steam rooms, shower&nbsp;floors&nbsp;or&nbsp;underwater",
+      "Minimum&nbsp;dry&nbsp;time&nbsp;for&nbsp;8\u201d&nbsp;x&nbsp;8\u201d&nbsp;(20.3&nbsp;cm&nbsp;x&nbsp;20.3&nbsp;cm)&nbsp;tile&nbsp;is&nbsp;24\u00ad72&nbsp;hours before applying grout",
+      "Great for ceramic, quarry, pavers, gauged slate, porcelain, and gauged stone tile",
+      "Ideal for installation on walls, floors, and countertops"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/863bc5fe-fce7-4efa-9b17-b1a5acb80217/svn/custom-building-products-tile-adhesives-oga3-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e3b1e089-a3f3-40ef-916c-f20f98798601/svn/custom-building-products-tile-adhesives-oga3-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1a6074a0-53c8-4285-9716-63d636dd3f5f/svn/custom-building-products-tile-adhesives-oga3-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ac54535d-c2c9-45b3-9e80-f33f82becf9c/svn/custom-building-products-tile-adhesives-oga3-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a1a2d458-44c1-41e7-a3af-705eb367b218/svn/custom-building-products-tile-adhesives-oga3-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0edcdd22-30e8-4bb2-a5c1-bdb20251829b/svn/custom-building-products-tile-adhesives-oga3-66_1000.jpg",
+        "type": "image_back_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/863bc5fe-fce7-4efa-9b17-b1a5acb80217/svn/custom-building-products-tile-adhesives-oga3-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d94ba477-4934-4cf6-8ce9-b7c80631c582/8576c383-104a-4bba-8bf4-1c2535794a84/main.mp4?fastly_token=NjgzODQ2NDlfMzBiZTYxYjM4YzUzNjJmM2RlZWQ5OGNmODZhYzJhZGRjZjZlNjA4ZTUxN2FmZjI3NGFlMmM2OGYyYTljYTYxNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kOTRiYTQ3Ny00OTM0LTRjZjYtOGNlOS1iN2M4MDYzMWM1ODIvODU3NmMzODMtMTA0YS00YmJhLThiZjQtMWMyNTM1Nzk0YTg0L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install Tile Using a Premixed Tile Adhesive",
+        "id": "4865712028001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/d94ba477-4934-4cf6-8ce9-b7c80631c582/fe787a4b-3c89-42ef-9e3f-01d1665eb2e8/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Instructions and tips for installing tile using Custom Building Products premixed tile adhesive mastics."
+      }
+    ],
+    "ratings_total": 962,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Adhesive Type",
+        "value": "Tile & Stone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry time (hours)",
+        "value": "72"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Crack resistant,No mixing required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Tile & Stone Adhesive"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Cement,Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Basement,Bathroom,Countertop,Floor,Interior wall,Kitchen Backsplash,Shower,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "33 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Lifetime Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Product"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Container size (qt.)",
+        "value": "14"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Coverage Area (sq. ft.)",
+        "value": "175 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7.71 in"
+      }
+    ],
+    "keywords_list": [
+      "adhesive",
+      "pre-mixed adhesive",
+      "grout",
+      "pre-mixed grout",
+      "resistant adhesive",
+      "resistant grout",
+      "easy-spreading adhesive",
+      "easy-spreading grout"
+    ],
+    "keywords": "adhesive, pre-mixed adhesive, grout, pre-mixed grout, resistant adhesive, resistant grout, easy-spreading adhesive, easy-spreading grout",
+    "variants": [
+      {
+        "title": "14",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-OmniGrip-3-5-Gal-14-qt-Premium-Lightweight-Adhesive-for-Tile-and-Stone-OGA3/100549481",
+        "item_id": "100549481"
+      },
+      {
+        "title": "4",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-OmniGrip-1-Gal-4-qt-Premium-Lightweight-Adhesive-for-Tile-and-Stone-OGA1/100284548",
+        "item_id": "100284548"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Flooring Adhesives",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Adhesives/N-5yc1vZcduk"
+      },
+      {
+        "name": "Tile Adhesives",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Adhesives-Tile-Adhesives/N-5yc1vZcduo"
+      }
+    ],
+    "buybox_winner": {
+      "price": 59.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 7
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 15,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

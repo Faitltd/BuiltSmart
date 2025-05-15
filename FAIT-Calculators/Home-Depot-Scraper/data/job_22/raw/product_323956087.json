@@ -1,0 +1,297 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14742,
+    "overage_used": 4742,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TuffBilt-Dillon-2-Rail-Flat-Top-4-ft-H-x-6-ft-Black-Aluminum-Pre-Assembled-Flat-Top-Spaced-Picket-Fence-Panel-73055196/323956087"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:08:14.401Z",
+    "processed_at": "2025-05-01T19:08:23.566Z",
+    "total_time_taken": 9.16,
+    "homedepot_url": "https://www.homedepot.com/p/TuffBilt-Dillon-2-Rail-Flat-Top-4-ft-H-x-6-ft-Black-Aluminum-Pre-Assembled-Flat-Top-Spaced-Picket-Fence-Panel-73055196/323956087"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TuffBilt-Dillon-2-Rail-Flat-Top-4-ft-H-x-6-ft-Black-Aluminum-Pre-Assembled-Flat-Top-Spaced-Picket-Fence-Panel-73055196/323956087",
+    "brand": "TuffBilt",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Metal-Fencing-Metal-Fence-Panels/TuffBilt/N-5yc1vZc3ojZgu8",
+    "title": "TuffBilt Dillon 2 Rail Flat Top 4 ft. H x 6 ft. Black Aluminum Pre-Assembled Flat Top Spaced Picket Fence Panel",
+    "upc": "040933551965",
+    "item_id": "323956087",
+    "store_sku": "1009015767",
+    "model_number": "73055196",
+    "description": "Pre-Assembled Aluminum fence panels are an economical solution to the classic look of wrought iron fence and easily complement any home or landscape. Additionally, aluminum fence products resist rust and corrosion. Backed by a transferable limited lifetime warranty.",
+    "collection": {
+      "id": "Family-325313058",
+      "name": "Family-325313058",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Dillon-2-Rail-Flat-Top-4-ft-H-x-6-ft-Black-Aluminum-Pre-Assembled-Flat-Top-Spaced-Picket-Fence-Panel/Family-325313058?omsid=323956087"
+    },
+    "feature_bullets": [
+      "Premium powder coat for maximum durability",
+      "Rackable to follow variations in terrain",
+      "Pool code approved"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Pre-Assembled for easy installation",
+      "Coordinating posts sold separately: <a href=\"https://www.homedepot.com/p/TuffBilt-2-in-x-2-in-x-70-in-Black-Aluminum-Fence-Line-Post-73055197/323956145\" target=\"_blank\" style=\"color:#F96302;\">line post</a>, <a href=\"https://www.homedepot.com/p/TuffBilt-2-in-x-2-in-x-70-in-Black-Aluminum-Fence-Corner-Post-73055198/323956137\" target=\"_blank\" style=\"color:#F96302;\">corner post</a>, and <a href=\"https://www.homedepot.com/p/TuffBilt-2-in-x-2-in-x-70-in-Black-Aluminum-Fence-End-Post-73055165/323956132\" target=\"_blank\" style=\"color:#F96302;\">end post</a>",
+      "Coordinating 4x4 <a href=\"https://www.homedepot.com/p/TuffBilt-2-Rail-Flat-Top-4-ft-W-x-4-ft-H-Black-Aluminum-Straight-Pre-Assembled-Fence-Gate-73055122/319353074\" target=\"_blank\" style=\"color:#F96302;\">Gate Kit</a> sold separately",
+      "Panel will adjust to the slope of your yard at a rate of 18 in. over 6 ft. panel",
+      "Panel can be cut down to your desired size",
+      "Made from powder coated aluminum that resists rust, corrosion and discoloration",
+      "Pool code approved - always check local guidelines for specific pool fencing regulations in your area",
+      "Transferable limited lifetime warranty"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ecc2f71a-b349-4b1e-b31a-853e957993a5/svn/black-tuffbilt-metal-fence-panels-73055196-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ccc4c0b3-799e-4700-ba12-d3403abe11b0/svn/black-tuffbilt-metal-fence-panels-73055196-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ffd9f3b7-5902-4941-a0e1-fde07019bc4e/svn/black-tuffbilt-metal-fence-panels-73055196-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/da001266-b883-499d-a5ec-92f64624064a/svn/black-tuffbilt-metal-fence-panels-73055196-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8678006e-4497-4a6d-aa6f-1f8be26790cf/svn/black-tuffbilt-metal-fence-panels-73055196-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/18e65619-7edb-494c-b7a4-959adf4b353e/svn/black-tuffbilt-metal-fence-panels-73055196-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7a695d2d-6147-40f0-98a1-ad22d321b021/svn/black-tuffbilt-metal-fence-panels-73055196-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ecc2f71a-b349-4b1e-b31a-853e957993a5/svn/black-tuffbilt-metal-fence-panels-73055196-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/59c98e5c-5e6e-49fd-a419-05890fd1615f/01ed3e47-6be0-4703-a5ee-3bd1dcce5b39/main.mp4?fastly_token=NjgzODI3M2VfZWVhODE2YzQwZjc2ZGEyNjExMTBmYzM1OWRhYzQ3YThkOTdlYThiOTY2MTQ2MGIxZGYwZGQyYTcyMjY1MTJmMV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81OWM5OGU1Yy01ZTZlLTQ5ZmQtYTQxOS0wNTg5MGZkMTYxNWYvMDFlZDNlNDctNmJlMC00NzAzLWE1ZWUtM2JkMWRjY2U1YjM5L21haW4ubXA0&pubid=66036796001",
+        "title": "TuffBilt Aluminum Fencing",
+        "id": "6344685148112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/59c98e5c-5e6e-49fd-a419-05890fd1615f/main/160x90/17s205ms/match/image.jpg?pubId=66036796001",
+        "description": "TuffBilt Aluminum Fencing"
+      }
+    ],
+    "ratings_total": 58,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Contact Type Allowed",
+        "value": "Above Ground"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Pool"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fencing Installation Type",
+        "value": "Dig"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fencing Product Type",
+        "value": "Ornamental Metal Fence Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "15"
+      },
+      {
+        "group_name": "Details",
+        "name": "Includes",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of rails for panels",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel Assembly",
+        "value": "Assembled Panel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel Design",
+        "value": "Spaced Picket"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel Pack Size",
+        "value": "1 Panel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel Top Shape",
+        "value": "Flat"
+      },
+      {
+        "group_name": "Details",
+        "name": "Picket Top Style",
+        "value": "Flat Top"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "11 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Structure Type",
+        "value": "Permanent"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Transferable Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual panel height (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual panel thickness (in.)",
+        "value": "1.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual panel width (in.)",
+        "value": "72.54 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Picket Distance (in.)",
+        "value": "4.47 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal panel depth (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal panel height (ft.)",
+        "value": "4 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal panel width (ft.)",
+        "value": "6 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Picket Spacing (in.)",
+        "value": "4.47 in"
+      }
+    ],
+    "keywords_list": [
+      "Yardsmart",
+      "Cascade Select 6 ft. x 4 ft. Black Aluminum 3-Rail Fence Panel",
+      "73002210"
+    ],
+    "keywords": "Yardsmart, Cascade Select 6 ft. x 4 ft. Black Aluminum 3-Rail Fence Panel, 73002210",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Fencing & Gates",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates/N-5yc1vZbrk7"
+      },
+      {
+        "name": "Metal Fencing",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Metal-Fencing/N-5yc1vZc3le"
+      },
+      {
+        "name": "Metal Fence Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Metal-Fencing-Metal-Fence-Panels/N-5yc1vZc3oj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 76.47,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 1,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3247,
+          "price": 0,
+          "start_date": "2025-05-15",
+          "end_date": "2025-05-16",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

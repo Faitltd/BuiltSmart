@@ -1,0 +1,155 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13714,
+    "overage_used": 3714,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Huber-5-8-in-x-4-ft-x-8-ft-Advantech-T-G-Sheathing-636093/202089163"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:55:30.681Z",
+    "processed_at": "2025-05-01T16:56:20.094Z",
+    "total_time_taken": 49.41,
+    "homedepot_url": "https://www.homedepot.com/p/Huber-5-8-in-x-4-ft-x-8-ft-Advantech-T-G-Sheathing-636093/202089163"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Huber-5-8-in-x-4-ft-x-8-ft-Advantech-T-G-Sheathing-636093/202089163",
+    "brand": "Huber",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/Huber/N-5yc1vZc7q5Z7ay",
+    "title": "Huber 5/8 in. x 4 ft. x 8 ft. Advantech T&G Sheathing",
+    "upc": "099167794358",
+    "item_id": "202089163",
+    "store_sku": "636093",
+    "model_number": "636093",
+    "description": "With an industry-leading warranty and unmatched 300-day no-sanding guarantee, Advantech flooring is the flooring panel that more builders trust. It's engineered for superior strength, moisture resistance and quality so you can build the quiet, stiff floor your homeowners demand. Advantech flooring has won the #1 quality brand leader from builder magazine for 8 consecutive years and studies show that 9 out of 10 builders who try Advantech flooring stick with it for good.",
+    "favorite_count": 24,
+    "feature_bullets": [
+      "High-density engineered wood",
+      "Superb fastener-holding power helps keep floors flat and quiet",
+      "Provides a quiet, stiff floor"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Industry-leading 300-Day no sanding guarantee",
+      "Transferrable 50-year limited warranty for homeowner peace of mind",
+      "High surface quality for improved finished floor installation",
+      "Fully sanded on both sides for unmatched consistency",
+      "Exceptional nail holding power to minimize floor squeaks",
+      "Self-spacing tongue and groove",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b156787f-533a-477e-88ac-878358a389ea/svn/huber-sheathing-plywood-636093-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b156787f-533a-477e-88ac-878358a389ea/svn/huber-sheathing-plywood-636093-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmJfNzRmYTg1NGQ0OTZmNWZkZjE4OGNkYTQwMzk1YWNlMTA0ZDM4MTlkNjhmOTdmOTY5NzNhMGQ3MzNhM2Q3MDVmMl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 4,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "OSB"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "16 oc."
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Backed by industry leading 50-year limited warranties. Limitations and restrictions apply - see warranty for details."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "5/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "5/8 in. x 4 ft. x 8 ft. Advantech Oriented Strand Board Underlayment",
+      "1000220"
+    ],
+    "keywords": "5/8 in. x 4 ft. x 8 ft. Advantech Oriented Strand Board Underlayment, 1000220",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sheathing Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/N-5yc1vZc7q5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

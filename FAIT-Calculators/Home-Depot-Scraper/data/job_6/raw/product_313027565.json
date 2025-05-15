@@ -1,0 +1,159 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13164,
+    "overage_used": 3164,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiber-Composites-LLC-dba-Fiberon-1x6-16-Fiberon-Concordia-Symmetry-Capped-Composite-Deck-Board-Burnt-Umber-Square-Edge-Actual-Size-935-x-5-4-BRD-BRDSYM-BRU-16/313027565"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:46:00.041Z",
+    "processed_at": "2025-05-01T13:46:43.082Z",
+    "total_time_taken": 43.04,
+    "homedepot_url": "https://www.homedepot.com/p/Fiber-Composites-LLC-dba-Fiberon-1x6-16-Fiberon-Concordia-Symmetry-Capped-Composite-Deck-Board-Burnt-Umber-Square-Edge-Actual-Size-935-x-5-4-BRD-BRDSYM-BRU-16/313027565"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiber-Composites-LLC-dba-Fiberon-1x6-16-Fiberon-Concordia-Symmetry-Capped-Composite-Deck-Board-Burnt-Umber-Square-Edge-Actual-Size-935-x-5-4-BRD-BRDSYM-BRU-16/313027565",
+    "brand": "Fiber Composites, LLC dba Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiber-Composites-LLC-dba-Fiberon/N-5yc1vZc5mbZrbz",
+    "title": "Fiber Composites, LLC dba Fiberon 1x6-16' Fiberon Concordia Symmetry Capped Composite Deck Board-Burnt Umber Square Edge (Actual Size:. 935\" x 5.4\") BRD",
+    "upc": "844219018247",
+    "item_id": "313027565",
+    "store_sku": "1005357008",
+    "model_number": "BRDSYM BRU 16",
+    "description": "Wood decks are susceptible to mold, decay and insects, and have a shorter lifespan. Fiberon composite decking retains its good looks year after year because it's formulated to last. The composite core combines recycled wood with the resilience of recycled plastic, while our proprietary PermaTech cap layer provides superior stain and fade resistance. The result is durable decking that resists splintering, rotting, cracking, insects and decay, with warranties up to 50 years.",
+    "feature_bullets": [
+      "Burnt Umber finish adds a rustic charm to your home",
+      "Made of high-quality PE composite for lasting use",
+      "Includes stain and fade warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Symmetry Collection features a low-gloss formula and micro-texturing, creating a wire-brushed finish.",
+      "Durable composite core helps resist splintering, rotting, cracking, insects and decay.",
+      "Four-sided PermaTech cap layer provides superior protection and fade resistance.",
+      "Premium PE composite deck boards include 94% recycled material.",
+      "The flat-profile bottom provides a sturdy feel, reminiscent of traditional lumber.",
+      "Finished surface on top and bottom is ideal for second-story decks.",
+      "Reversible boards help reduce waste, saving you time and money.",
+      "Matching fascia and risers available in all colors.",
+      "Fiberon Concordia decking is backed by a lifetime performance warranty and a 5-year stain and fade warranty."
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/809aff58-8506-4fb5-99c4-81b7881de288/svn/burnt-umber-fiber-composites-llc-dba-fiberon-composite-decking-boards-brdsym-bru-16-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/809aff58-8506-4fb5-99c4-81b7881de288/svn/burnt-umber-fiber-composites-llc-dba-fiberon-composite-decking-boards-brdsym-bru-16-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Burnt Umber"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Fiberon Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "40 Year Stain, Fade and Performance"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.925 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "39"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

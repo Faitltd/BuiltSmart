@@ -1,0 +1,194 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13962,
+    "overage_used": 3962,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Building-Products-5-8-in-D-x-1-1-2-in-W-x-8-ft-L-PVC-Vinyl-White-Trimplank-Composite-S4S-Molding-0215008015/334887733"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:49:14.078Z",
+    "processed_at": "2025-05-01T17:49:18.085Z",
+    "total_time_taken": 4.01,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Building-Products-5-8-in-D-x-1-1-2-in-W-x-8-ft-L-PVC-Vinyl-White-Trimplank-Composite-S4S-Molding-0215008015/334887733"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Building-Products-5-8-in-D-x-1-1-2-in-W-x-8-ft-L-PVC-Vinyl-White-Trimplank-Composite-S4S-Molding-0215008015/334887733",
+    "brand": "Royal Building Products",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Royal-Building-Products/N-5yc1vZcbj5Zgkn",
+    "title": "Royal Building Products 5/8 in. D x 1-1/2 in. W x 8 ft. L PVC Vinyl White Trimplank Composite S4S Molding",
+    "upc": "070673881817",
+    "item_id": "334887733",
+    "store_sku": "1002278446",
+    "model_number": "0215008015",
+    "description": "100% PVC window, door and garage surrounds, trim, fascia and decorative molding provide a beautiful durable option to costly wood trim products. Whether you're building a new home or remodeling an existing 1,there are Royal Molding trim products to suit virtually any taste and style to give every home a unique look. Adding molding to your home adds value and a nice finishing touch.",
+    "aisle": "19",
+    "bay": "009",
+    "feature_bullets": [
+      "Made of 100% PVC for durability",
+      "Moisture-proof and termite-resistant to ensure long-term use",
+      "Easy installation with standard woodworking tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "PVC has superior nailing and gluing",
+      "Installing PVC saves time and labor",
+      "Installs easily using standard wood working tools",
+      "PVC is moisture proof, termite proof and does not promote mold and mildew"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/68e43b3f-b89c-4bb3-ada1-7cc9ca35d39a/svn/white-royal-building-products-general-purpose-moulding-0215008015-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c14f0bc2-bb3b-4f5e-9af8-c1cdd821845d/svn/white-royal-building-products-general-purpose-moulding-0215008015-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/68e43b3f-b89c-4bb3-ada1-7cc9ca35d39a/svn/white-royal-building-products-general-purpose-moulding-0215008015-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "S4S Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2150"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.84,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 67
+        }
+      }
+    }
+  }
+}

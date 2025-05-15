@@ -1,0 +1,202 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14305,
+    "overage_used": 4305,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-376-11-16-in-x-2-1-4-in-x-84-in-Primed-Finger-Jointed-Casing-Molding-Door-Pack-10001394/202086609"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:25:32.397Z",
+    "processed_at": "2025-05-01T18:26:09.983Z",
+    "total_time_taken": 37.59,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-376-11-16-in-x-2-1-4-in-x-84-in-Primed-Finger-Jointed-Casing-Molding-Door-Pack-10001394/202086609"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-376-11-16-in-x-2-1-4-in-x-84-in-Primed-Finger-Jointed-Casing-Molding-Door-Pack-10001394/202086609",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork WM 376 - 11/16 in. x 2-1/4 in. x 84 in. Primed Finger-Jointed Casing Molding Door Pack",
+    "upc": "095624151634",
+    "item_id": "202086609",
+    "store_sku": "712578",
+    "model_number": "10001394",
+    "description": "The Woodgrain Millwork 2-1/4 in. x 11/16 in. WM 376 Primed Finger-Jointed Casing Door Pack includes five 84 inch sides which is enough material to finish both sides of a door. Casing is used around doors and windows to cover the gaps between the frames and walls. Primed Finger-Jointed WM 376 Casing Door Pack is the finishing touch on any window and door. You can combine casing with a backband to create a bold one of kind look.",
+    "favorite_count": 306,
+    "feature_bullets": [
+      "Includes five 84 inch sides to finish both sides of a door",
+      "Use around doors and windows to cover gaps between frame and wall",
+      "Combine casing with a backband to create a bold look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Installs with common woodworking tools",
+      "Contains 5 pieces at 84 in.",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ff409bd9-6284-4d1c-83ba-d90fad2524bb/svn/white-woodgrain-millwork-casing-10001394-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-casing-10001394-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ff409bd9-6284-4d1c-83ba-d90fad2524bb/svn/white-woodgrain-millwork-casing-10001394-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 92,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "376"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.25 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "pine moulding",
+      "mouldings",
+      "pine mouldings",
+      "casing",
+      "pine casing",
+      "casings",
+      "pine casings",
+      "wood moulding",
+      "wood mouldings",
+      "wood casing",
+      "wood casings"
+    ],
+    "keywords": "moulding, pine moulding, mouldings, pine mouldings, casing, pine casing, casings, pine casings, wood moulding, wood mouldings, wood casing, wood casings",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

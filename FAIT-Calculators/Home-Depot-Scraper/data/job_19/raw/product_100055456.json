@@ -1,0 +1,192 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14132,
+    "overage_used": 4132,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Sanded-Plywood-Common-19-32-in-x-4-ft-x-8-ft-Actual-0-578-in-x-48-in-x-96-in-578861/100055456"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:57:30.029Z",
+    "processed_at": "2025-05-01T17:58:23.136Z",
+    "total_time_taken": 53.11,
+    "homedepot_url": "https://www.homedepot.com/p/Sanded-Plywood-Common-19-32-in-x-4-ft-x-8-ft-Actual-0-578-in-x-48-in-x-96-in-578861/100055456"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-19-32-in-x-4-ft-x-8-ft-Actual-0-578-in-x-48-in-x-96-in-578861/100055456",
+    "brand": "Unbranded",
+    "title": "Unbranded Sanded Plywood (Common: 19/32 in. x 4 ft. x 8 ft.; Actual: 0.578 in. x 48 in. x 96 in.)",
+    "upc": "053608006677",
+    "item_id": "100055456",
+    "parent_id": "327080191",
+    "store_sku": "578861",
+    "model_number": "578861",
+    "description": "From yard art to wainscoting, this panel offers the strength and durability to last. Roseburg sanded plywood is an excellent option for your next project. The high grade of sanded plywood face veneers provides a beautiful finish-quality surface for all kinds of applications, from cabinets and built-ins to soffits and paneling. And since it is sanded at the mill, little or no additional sanding is required for most applications.",
+    "favorite_count": 276,
+    "feature_bullets": [
+      "Appearance grade softwood plywood",
+      "Can be painted, stained, or overlaid with a decorative material",
+      "Can be used in exterior applications when properly finished"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "An affordable craft and project panel.",
+      "Easier on tools than composite panels, no pre-drilling/pilot holes required.",
+      "Recommended applications include built-ins, furniture, soffits, storage, shelving, work benches, cabinets, porch ceilings, wainscoting, and do-it-yourself projects.",
+      "NAUF (no added urea formaldehyde) water-resistant phenolic resin.",
+      "Manufactured to construction and workmanship requirements for grade, veneer and panel thickness, as outlined in the (APA) - The Engineered Wood Association's Product Standard 1-19,",
+      "Not recommended for structural applications",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/sustainable-forestry/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Sustainable Forestry</a>",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/166ebf7d-f8ec-405d-826f-a1a077e14662/svn/sanded-plywood-578861-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/166ebf7d-f8ec-405d-826f-a1a077e14662/svn/sanded-plywood-578861-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGNfY2U1OWU2MDY2NGU0YWQwODE2NzE4ODMxYjNjODQwMzViNTIxZjdlOWQ3ZTM5ZjkzNzQ3ZjZmYTIxODY3NTg1Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e9678127-3d11-451c-a474-ffd7fa12d331/22807477-123e-4d24-b847-40da22fb38a2/main.mp4?fastly_token=NjgzODMwYTVfYzA5ZDU3ZjhiMDc0NDlmNDBiYTc1M2JhMDhlODUyY2QzYzIxODZiOTdlOTZmOTAxODJlMGU5NTIwMDhiMzdmZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lOTY3ODEyNy0zZDExLTQ1MWMtYTQ3NC1mZmQ3ZmExMmQzMzEvMjI4MDc0NzctMTIzZS00ZDI0LWI4NDctNDBkYTIyZmIzOGEyL21haW4ubXA0&pubid=66036796001",
+        "title": "Roseburg Sanded Plywood",
+        "id": "6013064363001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/e9678127-3d11-451c-a474-ffd7fa12d331/689e2d7d-9e01-44f2-b049-796b44f091fd/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn more how about Roseburg Sanded Panels; uses and how they are made."
+      }
+    ],
+    "ratings_total": 772,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "5-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "ACX"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.594 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "19/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "WeatherShield",
+      "19/32 In. or 5/8 In. x 4 Ft. x 8 Ft. 5-Ply Sanded Plywood",
+      "16075",
+      "Plywood"
+    ],
+    "keywords": "WeatherShield, 19/32 In. or 5/8 In. x 4 Ft. x 8 Ft. 5-Ply Sanded Plywood, 16075, Plywood",
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~23/32",
+        "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-23-32-in-x-4-ft-x-8-ft-Actual-0-703-in-x-48-in-x-96-in-578994/100000837",
+        "item_id": "100000837"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~11/32",
+        "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-11-32-in-x-4-ft-x-8-ft-Actual-0-322-in-x-48-in-x-96-in-577138/100053860",
+        "item_id": "100053860"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~19/32",
+        "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-19-32-in-x-4-ft-x-8-ft-Actual-0-578-in-x-48-in-x-96-in-578861/100055456",
+        "item_id": "100055456"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~15/32",
+        "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-15-32-in-x-4-ft-x-8-ft-Actual-0-451-in-x-48-in-x-96-in-577278/100097501",
+        "item_id": "100097501"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~1/4",
+        "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-1-4-in-x-4-ft-x-8-ft-Actual-0-225-in-x-48-in-x-96-in-562941/100062425",
+        "item_id": "100062425"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sanded Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/N-5yc1vZc7qk"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "api_success": true,
+  "status_code": 200,
+  "message": "API connection successful",
+  "credits_remaining": 950,
+  "product_count": 25,
+  "sample_product": {
+    "title": "PVC Pipe 1-1/2 in. x 10 ft. Schedule 40",
+    "price": "$9.98",
+    "link": "https://www.homedepot.com/p/1-1-2-in-x-10-ft-PVC-Schedule-40-Plain-End-Pipe-531194/100161954"
+  },
+  "response_data": {
+    "request_info": {
+      "success": true,
+      "credits_used": 1,
+      "credits_remaining": 950
+    },
+    "search_results": [
+      {
+        "product": {
+          "title": "PVC Pipe 1-1/2 in. x 10 ft. Schedule 40",
+          "price": "$9.98",
+          "item_id": "100161954"
+        }
+      }
+    ]
+  }
+}

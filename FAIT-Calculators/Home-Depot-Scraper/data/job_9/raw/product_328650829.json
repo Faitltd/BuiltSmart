@@ -1,0 +1,158 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13535,
+    "overage_used": 3535,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Hampton-2-in-x-8-in-x-18-ft-GDF-2-Standard-Grade-Dimensional-Lumber-1009714202/328650829"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:48:26.671Z",
+    "processed_at": "2025-05-01T16:49:14.153Z",
+    "total_time_taken": 47.48,
+    "homedepot_url": "https://www.homedepot.com/p/Hampton-2-in-x-8-in-x-18-ft-GDF-2-Standard-Grade-Dimensional-Lumber-1009714202/328650829"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Hampton-2-in-x-8-in-x-18-ft-GDF-2-Standard-Grade-Dimensional-Lumber-1009714202/328650829",
+    "brand": "Hampton",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/Hampton/N-5yc1vZc55wZ8k2",
+    "title": "Hampton 2 in. x 8 in. x 18 ft. GDF #2 Standard Grade Dimensional Lumber",
+    "upc": "761542804050",
+    "item_id": "328650829",
+    "store_sku": "1009714202",
+    "model_number": "1009714202",
+    "description": "Every piece meets the highest grading standards for strength and appearance. Dimensional lumber is ideal for a wide range of structural and nonstructural applications including framing of houses, barns, sheds and commercial construction. It can also be used for projects such as furniture and hobbies and comes in a variety of widths and lengths. Dimensional lumber can also be used in exterior applications as long as it is properly primed and painted or sealed and stained.",
+    "feature_bullets": [
+      "Ideal for framing houses, barns and sheds",
+      "Can be painted or stained to match your home's decor",
+      "Made from high-grade green lumber"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Can be painted",
+      "Can be stained",
+      "Interior or exterior",
+      "Green lumber",
+      "Smooth surface"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/53711040-c2b2-4a31-ad52-1fc4561650e4/svn/hampton-framing-lumber-1009714202-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/422abc92-635f-43e4-9123-bf2322e88be9/svn/hampton-framing-lumber-1009714202-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9c713450-7fad-4596-aab5-8f68e279b6c6/svn/hampton-framing-lumber-1009714202-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8932de32-d80b-4bdc-b3e8-2a4dcd3139ed/svn/hampton-framing-lumber-1009714202-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/53711040-c2b2-4a31-ad52-1fc4561650e4/svn/hampton-framing-lumber-1009714202-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "18 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.562 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "7.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "18 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "8 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14967,
+    "overage_used": 4967,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Tall-Toilets-for-Seniors-21-in-2-Piece-1-28-GPF-Single-Flush-Elongated-Raised-Toilet-in-White-Soft-Close-Seat-Included-HD-US-HT-140-06/330813606"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:47:40.562Z",
+    "processed_at": "2025-05-02T21:47:46.359Z",
+    "total_time_taken": 5.8,
+    "homedepot_url": "https://www.homedepot.com/p/Tall-Toilets-for-Seniors-21-in-2-Piece-1-28-GPF-Single-Flush-Elongated-Raised-Toilet-in-White-Soft-Close-Seat-Included-HD-US-HT-140-06/330813606"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Tall-Toilets-for-Seniors-21-in-2-Piece-1-28-GPF-Single-Flush-Elongated-Raised-Toilet-in-White-Soft-Close-Seat-Included-HD-US-HT-140-06/330813606",
+    "title": "Tall Toilets for Seniors 21 in 2-Piece 1.28 GPF Single Flush Elongated Raised Toilet in White, Soft Close Seat Included",
+    "upc": "717967988219",
+    "item_id": "330813606",
+    "parent_id": "334015724",
+    "store_sku": "1011952545",
+    "model_number": "HD-US-HT-140-06",
+    "description": "The main function of the 21 in. H toilet is to provide a more comfortable sitting posture, making using the toilet easier and more convenient. This kind of modern toilet design is usually suitable for the elderly, people with physical disabilities or taller people, because regular height toilets are not comfortable or convenient enough to use. In addition, high toilets can also help reduce knee and joint pressure when squatting, which may be more popular for people recovering from joint diseases or sports injuries.",
+    "feature_bullets": [
+      "The 21-inch toilet suits tall, disabled, & pregnant users.",
+      "Soft-closing cover: stable, quiet, easy install/remove.",
+      "360-degree siphon flush cleans all angles, no dead spots."
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Elevated toilet seats may contribute to improved bowel posture, potentially reducing occurrences of constipation or gastrointestinal discomfort",
+      "For individuals with mobility challenges, a extra tall toilets seat may offer greater ease of use, providing increased seating support or facilitating smoother transitions between sitting and standing positions",
+      "Experience luxury and convenience with our soft-close seat feature, say goodbye to noisy slamming seats and hello to gentle, quiet closures every time",
+      "Our elongated toilet adds extra comfort, providing ample space and support for users of all sizes",
+      "Our toilet for seniors feature a 1.28 gallon-per-flush (GPF) single-flush system designed to efficiently conserve water without sacrificing performance, making them both environmentally friendly and cost-effective",
+      "Includes toilet bowl, tank, soft-close toilet seat, wax ring and hardware required for installation"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2e3f676f-2724-45ae-9d08-9f9bc5c2b5bb/svn/white-two-piece-toilets-hd-us-ht-140-06-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/adf195a9-27f5-48f5-b2bc-854abc5409d2/svn/white-two-piece-toilets-hd-us-ht-140-06-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d84773fd-f067-4963-8351-2401588e5a34/svn/white-two-piece-toilets-hd-us-ht-140-06-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/32395b1f-703f-436e-a9a7-110b282834f8/svn/white-two-piece-toilets-hd-us-ht-140-06-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c3c3d016-800b-4c44-a4aa-74711b7e86bf/svn/white-two-piece-toilets-hd-us-ht-140-06-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2c38d2c8-2892-4b8c-8392-1c5fe0c7dfed/svn/white-two-piece-toilets-hd-us-ht-140-06-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0b814f19-198b-4ba3-bfbb-3e6d3f167711/svn/white-two-piece-toilets-hd-us-ht-140-06-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9be3faa6-359f-47a6-843e-0cc88e865bde/svn/white-two-piece-toilets-hd-us-ht-140-06-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ce09ddfb-b636-4fab-b245-a72c897d578c/svn/white-two-piece-toilets-hd-us-ht-140-06-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/11540363-9cc5-4791-85b6-be389d570ff6/svn/white-two-piece-toilets-hd-us-ht-140-06-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2e3f676f-2724-45ae-9d08-9f9bc5c2b5bb/svn/white-two-piece-toilets-hd-us-ht-140-06-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/5ae01cf6-3567-42ce-b3e6-7762834cc847/1d722c59-5695-4f08-a8d7-ecaf9cb48164/main.mp4?fastly_token=NjgzOTc5ODhfYTExNzcxNmY4MGE3NTdhMmQ2MTU2NjY1YTgwYjQyNjQ2N2ZkYTUxYmIxMTEzNDhkZGY3NjI3Zjc2MjI4ZjA1MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81YWUwMWNmNi0zNTY3LTQyY2UtYjNlNi03NzYyODM0Y2M4NDcvMWQ3MjJjNTktNTY5NS00ZjA4LWE4ZDctZWNhZjljYjQ4MTY0L21haW4ubXA0&pubid=66036796001",
+        "title": "Two Piece Toilet Installation Video",
+        "id": "6361623994112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/5ae01cf6-3567-42ce-b3e6-7762834cc847/main/160x90/1m19s541ms/match/image.jpg?pubId=66036796001",
+        "description": "Two Piece Toilet Installation Video"
+      }
+    ],
+    "ratings_total": 104,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Extra Tall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Siphonic Jet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Complete Kit,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "Not Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Porcelain"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "95 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Open"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.6 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "EPA Approved,cUPC"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1-Year warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "29.3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "35.2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "14.7 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Black~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Extra Tall",
+        "link": "https://www.homedepot.com/p/Simple-Project-21-in-2-Piece-High-Toilets-for-Seniors-1-28-GPF-Single-Flush-Elongated-Toilet-with-Soft-Close-Cover-in-Black-HDUSHT140B/334015864",
+        "item_id": "334015864"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Extra Tall",
+        "link": "https://www.homedepot.com/p/Tall-Toilets-for-Seniors-21-in-2-Piece-1-28-GPF-Single-Flush-Elongated-Raised-Toilet-in-White-Soft-Close-Seat-Included-HD-US-HT-140-06/330813606",
+        "item_id": "330813606"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Dual Flush: 0.8/1.28~~Extra Tall",
+        "link": "https://www.homedepot.com/p/Simple-Project-High-Toilet-2-piece-0-8-1-28GPF-Dual-Flush-Elongated-21-in-Toilet-in-White-Map-Flush-1000g-with-Soft-Close-Seat-HDHT1402-02/332349306",
+        "item_id": "332349306"
+      },
+      {
+        "title": "Biscuit~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Extra Tall",
+        "link": "https://www.homedepot.com/p/Simple-Project-21in-2-piece-Raised-Elongated-Toilet-1-28-GPF-Single-Flush-Tall-Toilet-for-Seniors-with-Soft-Closing-Cover-in-Biscuit-HDUSHT140Y/334186956",
+        "item_id": "334186956"
+      },
+      {
+        "title": "White~~Round~~12 inch Rough In~~Single Flush: 1.28~~Extra Tall",
+        "link": "https://www.homedepot.com/p/Simple-Project-21-in-2-Piece-Toilet-Single-Flush-1-28-GPF-Round-12-in-Rough-In-Height-Toilet-in-White-Tall-Toilets-for-Seniors-HDUSHT140R/332422605",
+        "item_id": "332422605"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 280,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 327,
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 224,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-08"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 224,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

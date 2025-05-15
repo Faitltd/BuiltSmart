@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scraper Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            padding-top: 2rem;
+        }
+        .card {
+            margin-bottom: 1.5rem;
+        }
+        .btn-primary {
+            background-color: #ff6b35;
+            border-color: #ff6b35;
+        }
+        .btn-primary:hover {
+            background-color: #e55a2b;
+            border-color: #e55a2b;
+        }
+        .btn-outline-primary {
+            color: #ff6b35;
+            border-color: #ff6b35;
+        }
+        .btn-outline-primary:hover {
+            background-color: #ff6b35;
+            border-color: #ff6b35;
+        }
+        .credits-display {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #ff6b35;
+        }
+        .api-key-display {
+            font-family: monospace;
+            background-color: #f8f9fa;
+            padding: 0.5rem;
+            border-radius: 0.25rem;
+            border: 1px solid #dee2e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <h1>Scraper Dashboard</h1>
+            </div>
+            <div class="col-md-6 text-end">
+                <button id="logoutButton" class="btn btn-outline-secondary">Logout</button>
+            </div>
+        </div>
+        
+        <div id="loginContainer" style="display: none;">
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5 class="card-title mb-0">Login</h5>
+                        </div>
+                        <div class="card-body">
+                            <form id="loginForm">
+                                <div class="mb-3">
+                                    <label for="loginEmail" class="form-label">Email</label>
+                                    <input type="email" class="form-control" id="loginEmail" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="loginApiKey" class="form-label">API Key</label>
+                                    <input type="password" class="form-control" id="loginApiKey" required>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Login</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="dashboardContainer">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5 class="card-title mb-0">Credits</h5>
+                        </div>
+                        <div class="card-body text-center">
+                            <div class="credits-display" id="creditsDisplay">0</div>
+                            <p class="text-muted">Available credits</p>
+                            <a href="/checkout" class="btn btn-primary">Buy More Credits</a>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-header">
+                            <h5 class="card-title mb-0">API Key</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="mb-3">
+                                <div class="api-key-display" id="apiKeyDisplay">••••••••••••••••••••••••••••••••</div>
+                            </div>
+                            <div class="d-flex justify-content-between">
+                                <button id="showApiKeyButton" class="btn btn-sm btn-outline-secondary">Show</button>
+                                <button id="regenerateApiKeyButton" class="btn btn-sm btn-outline-danger">Regenerate</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-8">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5 class="card-title mb-0">Transaction History</h5>
+                        </div>
+                        <div class="card-body">
+                            <div id="transactionHistory">
+                                <p class="text-muted">Loading transactions...</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-header">
+                            <h5 class="card-title mb-0">API Usage</h5>
+                        </div>
+                        <div class="card-body">
+                            <h6>Example API Request</h6>
+                            <pre><code>curl -X POST https://api.scraper-service.com/api/scrape/product \
+  -H "Content-Type: application/json" \
+  -H "X-API-Key: YOUR_API_KEY" \
+  -d '{"url": "https://www.homedepot.com/p/123456", "source": "homedepot"}'</code></pre>
+                            
+                            <h6 class="mt-4">Credit Costs</h6>
+                            <table class="table table-sm">
+                                <thead>
+                                    <tr>
+                                        <th>Operation</th>
+                                        <th>Credits</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Product Scrape</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Search Query</td>
+                                        <td>5</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Category Scrape</td>
+                                        <td>10</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Replace with your actual API URL
+        const API_URL = 'https://api.scraper-service.com';
+        
+        // User state
+        let currentUser = null;
+        let apiKeyVisible = false;
+        
+        // Check if user is logged in
+        function checkLogin() {
+            const userData = localStorage.getItem('userData');
+            
+            if (userData) {
+                try {
+                    currentUser = JSON.parse(userData);
+                    document.getElementById('loginContainer').style.display = 'none';
+                    document.getElementById('dashboardContainer').style.display = 'block';
+                    loadUserData();
+                } catch (error) {
+                    console.error('Error parsing user data:', error);
+                    logout();
+                }
+            } else {
+                document.getElementById('loginContainer').style.display = 'block';
+                document.getElementById('dashboardContainer').style.display = 'none';
+            }
+        }
+        
+        // Load user data
+        async function loadUserData() {
+            if (!currentUser) return;
+            
+            // Update credits display
+            document.getElementById('creditsDisplay').textContent = currentUser.credits || 0;
+            
+            // Update API key display
+            updateApiKeyDisplay();
+            
+            // Load transactions
+            loadTransactions();
+        }
+        
+        // Update API key display
+        function updateApiKeyDisplay() {
+            const apiKeyDisplay = document.getElementById('apiKeyDisplay');
+            
+            if (apiKeyVisible && currentUser && currentUser.api_key) {
+                apiKeyDisplay.textContent = currentUser.api_key;
+            } else if (currentUser && currentUser.api_key_masked) {
+                apiKeyDisplay.textContent = currentUser.api_key_masked;
+            } else {
+                apiKeyDisplay.textContent = '••••••••••••••••••••••••••••••••';
+            }
+        }
+        
+        // Load transactions
+        async function loadTransactions() {
+            if (!currentUser || !currentUser.id) return;
+            
+            const transactionHistoryElement = document.getElementById('transactionHistory');
+            
+            try {
+                const response = await fetch(`${API_URL}/api/user/${currentUser.id}/transactions`, {
+                    method: 'GET',
+                    headers: {
+                        'X-API-Key': currentUser.api_key
+                    }
+                });
+                
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    if (data.transactions.length === 0) {
+                        transactionHistoryElement.innerHTML = '<p class="text-muted">No transactions found</p>';
+                        return;
+                    }
+                    
+                    let html = '<div class="table-responsive"><table class="table table-striped">';
+                    html += '<thead><tr><th>Date</th><th>Type</th><th>Amount</th><th>Description</th></tr></thead>';
+                    html += '<tbody>';
+                    
+                    data.transactions.forEach(transaction => {
+                        const date = transaction.created_at ? new Date(transaction.created_at._seconds * 1000).toLocaleString() : 'N/A';
+                        const type = transaction.type === 'purchase' ? 'Purchase' : 'Usage';
+                        const amount = transaction.amount;
+                        const description = transaction.description;
+                        
+                        html += `<tr>
+                            <td>${date}</td>
+                            <td>${type}</td>
+                            <td>${amount}</td>
+                            <td>${description}</td>
+                        </tr>`;
+                    });
+                    
+                    html += '</tbody></table></div>';
+                    transactionHistoryElement.innerHTML = html;
+                } else {
+                    transactionHistoryElement.innerHTML = `<p class="text-danger">Error: ${data.message}</p>`;
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                transactionHistoryElement.innerHTML = '<p class="text-danger">An error occurred while loading transactions</p>';
+            }
+        }
+        
+        // Login form submission
+        document.getElementById('loginForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const email = document.getElementById('loginEmail').value;
+            const apiKey = document.getElementById('loginApiKey').value;
+            
+            try {
+                // Verify API key by checking credits
+                const response = await fetch(`${API_URL}/api/user/credits`, {
+                    method: 'GET',
+                    headers: {
+                        'X-API-Key': apiKey
+                    }
+                });
+                
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    // Get user details
+                    const userResponse = await fetch(`${API_URL}/api/user/email/${encodeURIComponent(email)}`, {
+                        method: 'GET',
+                        headers: {
+                            'X-API-Key': apiKey
+                        }
+                    });
+                    
+                    const userData = await userResponse.json();
+                    
+                    if (userData.status === 'success') {
+                        // Store user data
+                        currentUser = userData.user;
+                        currentUser.api_key = apiKey;
+                        localStorage.setItem('userData', JSON.stringify(currentUser));
+                        
+                        // Show dashboard
+                        checkLogin();
+                    } else {
+                        alert('Invalid email or API key');
+                    }
+                } else {
+                    alert('Invalid API key');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('An error occurred. Please try again.');
+            }
+        });
+        
+        // Show/hide API key
+        document.getElementById('showApiKeyButton').addEventListener('click', () => {
+            apiKeyVisible = !apiKeyVisible;
+            updateApiKeyDisplay();
+            document.getElementById('showApiKeyButton').textContent = apiKeyVisible ? 'Hide' : 'Show';
+        });
+        
+        // Regenerate API key
+        document.getElementById('regenerateApiKeyButton').addEventListener('click', async () => {
+            if (!currentUser || !currentUser.id) return;
+            
+            if (!confirm('Are you sure you want to regenerate your API key? Your current key will no longer work.')) {
+                return;
+            }
+            
+            try {
+                const response = await fetch(`${API_URL}/api/user/${currentUser.id}/regenerate-api-key`, {
+                    method: 'POST',
+                    headers: {
+                        'X-API-Key': currentUser.api_key
+                    }
+                });
+                
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    alert('API key regenerated successfully. You will need to log in again with your new key.');
+                    logout();
+                } else {
+                    alert(`Error: ${data.message}`);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('An error occurred. Please try again.');
+            }
+        });
+        
+        // Logout
+        document.getElementById('logoutButton').addEventListener('click', logout);
+        
+        function logout() {
+            localStorage.removeItem('userData');
+            currentUser = null;
+            apiKeyVisible = false;
+            checkLogin();
+        }
+        
+        // Initialize
+        checkLogin();
+    </script>
+</body>
+</html>

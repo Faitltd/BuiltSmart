@@ -1,0 +1,368 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13739,
+    "overage_used": 3739,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Ivy-Hill-Tile-Montgomery-Ribbon-Maple-24-in-x-48-in-Matte-Porcelain-Floor-and-Wall-Tile-15-49-sq-ft-Case-EXT3RD101072/313982178"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:56:59.263Z",
+    "processed_at": "2025-05-01T16:57:05.509Z",
+    "total_time_taken": 6.25,
+    "homedepot_url": "https://www.homedepot.com/p/Ivy-Hill-Tile-Montgomery-Ribbon-Maple-24-in-x-48-in-Matte-Porcelain-Floor-and-Wall-Tile-15-49-sq-ft-Case-EXT3RD101072/313982178"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Ivy-Hill-Tile-Montgomery-Ribbon-Maple-24-in-x-48-in-Matte-Porcelain-Floor-and-Wall-Tile-15-49-sq-ft-Case-EXT3RD101072/313982178",
+    "brand": "Ivy Hill Tile",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Tile-Porcelain-Tile/Ivy-Hill-Tile/N-5yc1vZb97mZo92",
+    "title": "Ivy Hill Tile Montgomery Ribbon Maple 24 in. x 48 in. Matte Porcelain Floor and Wall Tile (15.49 sq. ft. /Case)",
+    "upc": "841497134638",
+    "item_id": "313982178",
+    "parent_id": "313979035",
+    "store_sku": "1005568914",
+    "model_number": "EXT3RD101072",
+    "description": "With a beaded body, the Montgomery Ribbon Porcelain Tile is a unique 3-dimensional, wood-look that will add a distinctive touch to a design. This matte, 24 in. x 48 in. tile mimics real maple wood with the appearance of a slight, grainy texture and pale color. Use on walls or floors, indoors or out.",
+    "is_bestseller": true,
+    "is_top_rated": true,
+    "favorite_count": 30,
+    "collection": {
+      "id": "Family-319739715",
+      "name": "Family-319739715",
+      "link": "https://www.homedepot.com/collection/Flooring/Moze/Family-319739715?omsid=313982178"
+    },
+    "feature_bullets": [
+      "Features a unique three-dimensional fluted wood look",
+      "Perfect for kitchen, bathroom and shower walls, and backsplashes",
+      "Made for indoor and outdoor commercial and residential use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "15.49 square feet per case, each case contains 2 pieces. Case weight equals 50 lbs.",
+      "Grade 1, first-quality porcelain tile for floor and wall use",
+      "24 in. width x 48 in. length x 10.5mm thick",
+      "Matte glazed finish with a medium sheen and moderate variation in tone",
+      "P.E.I. Rating IV has high resistance to abrasion and is suitable for heavy-duty residential and commercial floor installations such as entrances, commercial kitchens, hotels, exhibition and sales rooms with some dirt conditions",
+      "Impervious flooring has water absorption of less than 0.5% for indoor or outdoor use and is frost proof",
+      "Completely frost resistant for indoor or outdoor applications",
+      "Residential and commercial use",
+      "Don't forget your coordinating trim pieces, grout, backerboard, thinset, and installation tools",
+      "All online orders for this item ship via parcel ground and may arrive in multiple boxes",
+      "It is recommended you purchase a minimum of 10% overage to account for design cuts and patterns.",
+      "With a range of formats from an uncommon fluted body to a classic chevron, leaving behind traditional wood options will never be easier; available in 3 formats, 2 colors, and 2 sizes"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/84598131-4334-4adb-a381-37bb48a81cb2/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b77fbe6a-f151-444d-ad65-cc5945910018/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c00b689b-e377-4ece-901f-fa53325a3adb/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/092445ef-a439-40a8-a86c-6df004f67840/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fc824e1f-5028-4f85-bdf6-e4f48cf81388/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bf634c5e-8086-47f2-ad63-a838e30888b1/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1d5e5bc1-0e2e-4388-b875-b1c480d876d6/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9e672582-a782-431b-9fba-406d5cc0d08d/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a28ddbcb-3cb7-470d-a341-95bfcbd0daa5/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cdbf72d5-385a-4b6a-8c28-639c275d47c5/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a328d06d-c20d-4407-9bac-6e061c48c3d5/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/71e956a9-4f86-4a23-812c-3c856bb755a7/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/68d3ece0-e3cf-46f9-bc23-a5d5b14c758a/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/84598131-4334-4adb-a381-37bb48a81cb2/svn/maple-ivy-hill-tile-porcelain-tile-ext3rd101072-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/53ee72e7-ccf0-4721-a31f-a3e8b39fed53/c7f97a97-c36a-447b-87ed-9b61d787e099/main.mp4?fastly_token=NjgzODI2ZjJfN2UyNWUwMTI4OWVmNGIxYWJkOTc0MGQ4MjJjNzQ1ZmIzMTc4ZDE2NDNhNGQwZGE5YTIyYzFjMGRjMzBjOGFkZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81M2VlNzJlNy1jY2YwLTQ3MjEtYTMxZi1hM2U4YjM5ZmVkNTMvYzdmOTdhOTctYzM2YS00NDdiLTg3ZWQtOWI2MWQ3ODdlMDk5L21haW4ubXA0&pubid=66036796001",
+        "title": "Montgomery Video",
+        "id": "6265333003001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/53ee72e7-ccf0-4721-a31f-a3e8b39fed53/main/160x90/32s661ms/match/image.jpg?pubId=66036796001",
+        "description": "The Montgomery Collection consists of superb wood-look porcelain tiles that evoke an organic sense in any design they're placed."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/c70271c2-98a8-4aba-a622-34dec9611ecb/b702756e-c565-4f46-a888-0d8a467a54c1/main.mp4?fastly_token=NjgzODI3NzdfOWYxNjRhMmVjZjY2OTIwNmU5NzdhZGRlYWExYWYyZjdhNTUzYTRkNjg1NmZlNjkzZDZiYjg0ZDVmOGE3NTljYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jNzAyNzFjMi05OGE4LTRhYmEtYTYyMi0zNGRlYzk2MTFlY2IvYjcwMjc1NmUtYzU2NS00ZjQ2LWE4ODgtMGQ4YTQ2N2E1NGMxL21haW4ubXA0&pubid=66036796001",
+        "title": "Montgomery",
+        "id": "6342608618112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/c70271c2-98a8-4aba-a622-34dec9611ecb/main/160x90/33s34ms/match/image.jpg?pubId=66036796001",
+        "description": "The architectural essence of wood finds a new voice in the porcelain stylings of the Montgomery Collection."
+      }
+    ],
+    "ratings_total": 133,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Location",
+        "value": "Backsplash,Floor,Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Break Strength (lb.)",
+        "value": "1000 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Maple"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "DCOF Rating",
+        "value": "Greater than or equal to 0.42"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Rectified"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Porcelain Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Wood Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor,Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Mortar"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Entry Way,Fireplace,Garage,Kitchen,Patio,Pool,Shower"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "No Acclimation Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pool Location",
+        "value": "Interior Pool, Surrounding Pool"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pool PEI Rating",
+        "value": "Inside Pool, Surrounding Pool"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shade Variation",
+        "value": "V0 - No Variation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shower Floor Compatibility",
+        "value": "Compatible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tile Features",
+        "value": "Chemical Resistant,Frost Resistant,Rectified Edge"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tile Finish",
+        "value": "Matte"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tile Format",
+        "value": "Large Format"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tile Material",
+        "value": "Porcelain"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Tile Size",
+        "value": "24x48"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "10.5 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Suggested Grout Line Size",
+        "value": "1/16"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Maple~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Ivy-Hill-Tile-Montgomery-Ribbon-Maple-24-in-x-48-in-Matte-Porcelain-Floor-and-Wall-Tile-15-49-sq-ft-Case-EXT3RD101072/313982178",
+        "item_id": "313982178"
+      },
+      {
+        "title": "Gray~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Ivy-Hill-Tile-Montgomery-Ribbon-Gray-24-in-x-48-in-Matte-Porcelain-Floor-and-Wall-Tile-15-49-sq-ft-Case-EXT3RD101071/313982179",
+        "item_id": "313982179"
+      },
+      {
+        "title": "White~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Ivy-Hill-Tile-Montgomery-Ribbon-White-24-in-x-48-in-Matte-Porcelain-Floor-and-Wall-Tile-15-49-sq-ft-Case-EXT3RD107414/319614757",
+        "item_id": "319614757"
+      },
+      {
+        "title": "Black~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Ivy-Hill-Tile-Montgomery-Ribbon-Black-24-in-x-48-in-Matte-Porcelain-Floor-and-Wall-Tile-15-49-sq-ft-Case-EXT3RD107413/319614755",
+        "item_id": "319614755"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Tile",
+        "link": "https://www.homedepot.com/b/Flooring-Tile/N-5yc1vZar0y"
+      },
+      {
+        "name": "Porcelain Tile",
+        "link": "https://www.homedepot.com/b/Flooring-Tile-Porcelain-Tile/N-5yc1vZb97m"
+      }
+    ],
+    "buybox_winner": {
+      "price": 185,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 30
+        },
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 435,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-09"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 44,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 435,
+          "price": 65,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 28,
+    "credits_used_this_request": 1,
+    "credits_remaining": 472,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "search",
+    "search_term": "toilet",
+    "page": "1",
+    "_t": "20250505235542",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-06T05:55:42.795Z",
+    "processed_at": "2025-05-06T05:55:47.470Z",
+    "total_time_taken": 4.67,
+    "lowes_url": "https://www.lowes.com/search?view=List&searchTerm=toilet"
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "product": {
+        "title": "Project Source Pro-Flush White Elongated Chair height 2-piece Toilet 12-in Rough-In WaterSense 1.28 GPFProject Source Pro-Flush White Round Chair height 2-piece Toilet 12-in Rough-In WaterSense 1.28 GPFEridanus Tucson Crisp White Dual Flush Elongated Standard height Soft Close 1-piece Toilet 12-in Rough-In 1.6 GPFKOHLER Highline White Elongated Chair height Soft Close 2-piece Toilet 12-in Rough-In WaterSense 1.28 GPF",
+        "link": "https://www.lowes.com/pd/Eridanus-Tucson-Crisp-White-Dual-Flush-Elongated-Standard-Height-WaterSense-Soft-Close-Toilet-12-in-Rough-In-1-1-GPF/5014719441",
+        "ratings_total": 23352175132615,
+        "rating": 4.5
+      },
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false
+      },
+      "offers": {
+        "primary": {
+          "discount": 33.48,
+          "promotion_raw": [
+            "Save $33.48"
+          ]
+        }
+      }
+    },
+    {
+      "position": 2,
+      "product": {
+        "title": "Project Source Pro-Flush White Dual Flush Elongated Chair height 2-piece Toilet 12-in Rough-In WaterSense 1.6 GPFKOHLER Elliston Tall White Elongated Tall height Soft Close 2-piece Toilet 12-in Rough-In WaterSense 1.28 GPFKOHLER Elliston White Elongated Chair height Soft Close 2-piece Toilet 12-in Rough-In WaterSense 1.28 GPFAmerican Standard Edgemere White Elongated Chair height Soft Close 2-piece Toilet 12-in Rough-In WaterSense 1.28 GPF",
+        "link": "https://www.lowes.com/pd/Project-Source-Pro-Flush-White-Dual-Flush-Elongated-Chair-Height-2-Piece-WaterSense-Toilet-12-in-Rough-In-Size-ADA-Compliant/5006032707",
+        "ratings_total": 140158411862172,
+        "rating": 4.5
+      },
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false
+      },
+      "offers": {
+        "primary": {
+          "discount": 30,
+          "promotion_raw": [
+            "Save $30.00",
+            "Save $50.00",
+            "Save $30.00"
+          ]
+        }
+      }
+    }
+  ],
+  "facets": [
+    {
+      "name": "Special Offers",
+      "display_name": "Special Offers",
+      "values": [
+        {
+          "display_name": "On Sale",
+          "value": "2",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2",
+          "count": 42,
+          "active": false
+        },
+        {
+          "display_name": "Bulk Savings",
+          "value": "982555939",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=982555939",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "Instant Savings",
+          "value": "982555943",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=982555943",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Installations & Services",
+      "display_name": "Installations & Services",
+      "values": [
+        {
+          "display_name": "Installation Available",
+          "value": "1512145587698",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1512145587698",
+          "count": 449,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Bowl Shape",
+      "display_name": "Bowl Shape",
+      "values": [
+        {
+          "display_name": "Elongated",
+          "value": "2795156766",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2795156766",
+          "count": 449,
+          "active": false
+        },
+        {
+          "display_name": "Round",
+          "value": "2113854780",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2113854780",
+          "count": 74,
+          "active": false
+        },
+        {
+          "display_name": "Square",
+          "value": "3850246341",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3850246341",
+          "count": 23,
+          "active": false
+        },
+        {
+          "display_name": "Compact elongated",
+          "value": "1967319632",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1967319632",
+          "count": 16,
+          "active": false
+        },
+        {
+          "display_name": "D-shape",
+          "value": "799536211",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=799536211",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "Elongated square",
+          "value": "1310718905606",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1310718905606",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Bowl Height",
+      "display_name": "Bowl Height",
+      "values": [
+        {
+          "display_name": "Chair height",
+          "value": "4294722895",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294722895",
+          "count": 248,
+          "active": false
+        },
+        {
+          "display_name": "Custom height",
+          "value": "4294482930",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294482930",
+          "count": 22,
+          "active": false
+        },
+        {
+          "display_name": "Standard height",
+          "value": "4294722902",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294722902",
+          "count": 368,
+          "active": false
+        },
+        {
+          "display_name": "Tall height",
+          "value": "1311760372422",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1311760372422",
+          "count": 19,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Brand",
+      "display_name": "Brand",
+      "values": [
+        {
+          "display_name": "KOHLER",
+          "value": "4294927394",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294927394",
+          "count": 105,
+          "active": false
+        },
+        {
+          "display_name": "American Standard",
+          "value": "4294964535",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294964535",
+          "count": 19,
+          "active": false
+        },
+        {
+          "display_name": "TOTO",
+          "value": "3317228611",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3317228611",
+          "count": 161,
+          "active": false
+        },
+        {
+          "display_name": "Mansfield",
+          "value": "4294960941",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294960941",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "Project Source",
+          "value": "4294820748",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294820748",
+          "count": 33,
+          "active": false
+        },
+        {
+          "display_name": "Alpcour",
+          "value": "710701969002",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=710701969002",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "ANZZI",
+          "value": "3206219727",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3206219727",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Convenient Height",
+          "value": "1310860204164",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1310860204164",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "CRAFT + MAIN",
+          "value": "1121170998062",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1121170998062",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "DeerValley",
+          "value": "711337818417",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=711337818417",
+          "count": 41,
+          "active": false
+        },
+        {
+          "display_name": "DELUXE LIVING",
+          "value": "1010646554382",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1010646554382",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Duravit",
+          "value": "720671031075",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=720671031075",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "EAGO",
+          "value": "3324100162",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3324100162",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "Eridanus",
+          "value": "820502340009",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=820502340009",
+          "count": 14,
+          "active": false
+        },
+        {
+          "display_name": "Forclover",
+          "value": "921754430718",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=921754430718",
+          "count": 38,
+          "active": false
+        },
+        {
+          "display_name": "Kingsman Hardware",
+          "value": "808322143",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=808322143",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Lift Assure",
+          "value": "910629065560",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=910629065560",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Lordear",
+          "value": "711962328957",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=711962328957",
+          "count": 17,
+          "active": false
+        },
+        {
+          "display_name": "Miseno",
+          "value": "3429635343",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3429635343",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Mondawe",
+          "value": "821448831917",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=821448831917",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "Niagara",
+          "value": "4294729623",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294729623",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Niagara Conservation",
+          "value": "4294613396",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294613396",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "OVE Decors",
+          "value": "4294412343",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294412343",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "Playberg",
+          "value": "810249031472",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=810249031472",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "PROFLO",
+          "value": "721374057536",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=721374057536",
+          "count": 12,
+          "active": false
+        },
+        {
+          "display_name": "SANIFLO",
+          "value": "2202362958",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2202362958",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "Signature Hardware",
+          "value": "1320623419468",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1320623419468",
+          "count": 18,
+          "active": false
+        },
+        {
+          "display_name": "Sterling",
+          "value": "4294965475",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294965475",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "Sun-Mar",
+          "value": "4294621552",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294621552",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "Swiss Madison",
+          "value": "1554127919",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1554127919",
+          "count": 98,
+          "active": false
+        },
+        {
+          "display_name": "Transolid",
+          "value": "4294892435",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294892435",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "WELLFOR",
+          "value": "711896671351",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=711896671351",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Winado",
+          "value": "721151462252",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=721151462252",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Woodbridge",
+          "value": "912071590842",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=912071590842",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "WS Bath Collections",
+          "value": "4294696165",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294696165",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Zurn",
+          "value": "4294821221",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294821221",
+          "count": 12,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Color/Finish Family",
+      "display_name": "Color/Finish Family",
+      "values": [
+        {
+          "display_name": "White",
+          "value": "4294820092",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294820092",
+          "count": 555,
+          "active": false
+        },
+        {
+          "display_name": "Black",
+          "value": "4294820005",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294820005",
+          "count": 41,
+          "active": false
+        },
+        {
+          "display_name": "Off-white",
+          "value": "4294539904",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294539904",
+          "count": 33,
+          "active": false
+        },
+        {
+          "display_name": "Gray",
+          "value": "4294819678",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294819678",
+          "count": 14,
+          "active": false
+        },
+        {
+          "display_name": "Brown",
+          "value": "4294819227",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294819227",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "Multiple colors/finishes",
+          "value": "4294539905",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294539905",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Clear",
+          "value": "4294819895",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294819895",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Pink",
+          "value": "4294614762",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294614762",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Silver",
+          "value": "4294813605",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294813605",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Rough-In Size",
+      "display_name": "Rough-In Size",
+      "values": [
+        {
+          "display_name": "4-in",
+          "value": "4294621811",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294621811",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "10-in",
+          "value": "4294621828",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294621828",
+          "count": 45,
+          "active": false
+        },
+        {
+          "display_name": "11-1/2-in",
+          "value": "1010167214676",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1010167214676",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "12-in",
+          "value": "4294621883",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294621883",
+          "count": 551,
+          "active": false
+        },
+        {
+          "display_name": "14-in",
+          "value": "4294621825",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294621825",
+          "count": 15,
+          "active": false
+        },
+        {
+          "display_name": "Wall-hung",
+          "value": "4294636655",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294636655",
+          "count": 12,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Flush Type",
+      "display_name": "Flush Type",
+      "values": [
+        {
+          "display_name": "Single",
+          "value": "4294722896",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294722896",
+          "count": 376,
+          "active": false
+        },
+        {
+          "display_name": "Dual",
+          "value": "4294722821",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294722821",
+          "count": 221,
+          "active": false
+        },
+        {
+          "display_name": "Touchless",
+          "value": "4294533128",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294533128",
+          "count": 58,
+          "active": false
+        },
+        {
+          "display_name": "Dual flush with sensor",
+          "value": "1321268788433",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1321268788433",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Type",
+      "display_name": "Type",
+      "values": [
+        {
+          "display_name": "1-piece",
+          "value": "4294723885",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294723885",
+          "count": 331,
+          "active": false
+        },
+        {
+          "display_name": "2-piece",
+          "value": "4294723887",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294723887",
+          "count": 306,
+          "active": false
+        },
+        {
+          "display_name": "1-piece back-to-wall",
+          "value": "1321586264407",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1321586264407",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "Waterless",
+          "value": "720886518901",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=720886518901",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "Composting",
+          "value": "4294570494",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294570494",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "3-piece",
+          "value": "721867974641",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=721867974641",
+          "count": 2,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "For Commercial Use",
+      "display_name": "For Commercial Use",
+      "values": [
+        {
+          "display_name": "No",
+          "value": "1320030521696",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1320030521696",
+          "count": 345,
+          "active": false
+        },
+        {
+          "display_name": "Yes",
+          "value": "3833860923",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3833860923",
+          "count": 308,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Price",
+      "display_name": "Price",
+      "active_range": false,
+      "values": [
+        {
+          "display_name": "$15 - $25",
+          "value": "3050296020",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3050296020",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "$25 - $50",
+          "value": "1210125883",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1210125883",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "$50 - $100",
+          "value": "2104441257",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2104441257",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "$100 - $200",
+          "value": "4053879751",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4053879751",
+          "count": 36,
+          "active": false
+        },
+        {
+          "display_name": "$200 - $400",
+          "value": "1224133687",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1224133687",
+          "count": 206,
+          "active": false
+        },
+        {
+          "display_name": "$400 - $600",
+          "value": "1287754666",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1287754666",
+          "count": 169,
+          "active": false
+        },
+        {
+          "display_name": "$600 - $800",
+          "value": "2823642578",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2823642578",
+          "count": 80,
+          "active": false
+        },
+        {
+          "display_name": "$800 - $1000",
+          "value": "2738894007",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2738894007",
+          "count": 37,
+          "active": false
+        },
+        {
+          "display_name": "$1000 - $2000",
+          "value": "3043313500",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3043313500",
+          "count": 112,
+          "active": false
+        },
+        {
+          "display_name": "$2000 - $3000",
+          "value": "2665191283",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2665191283",
+          "count": 15,
+          "active": false
+        },
+        {
+          "display_name": "$3000 - $4000",
+          "value": "342505339",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=342505339",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Maximum Flush Rate",
+      "display_name": "Maximum Flush Rate",
+      "values": [
+        {
+          "display_name": "0.8 GPF (3.03 LPF)",
+          "value": "4046056111",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4046056111",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "1.0 GPF (3.79 LPF)",
+          "value": "4294390689",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294390689",
+          "count": 19,
+          "active": false
+        },
+        {
+          "display_name": "1.1 GPF (4.16 LPF)",
+          "value": "4294391613",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294391613",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "1.28 GPF (4.85 LPF)",
+          "value": "4294392659",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294392659",
+          "count": 384,
+          "active": false
+        },
+        {
+          "display_name": "1.4 GPF (5.3 LPF)",
+          "value": "1811659397530",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1811659397530",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "1.6 GPF (6.06 LPF)",
+          "value": "4294392400",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294392400",
+          "count": 67,
+          "active": false
+        },
+        {
+          "display_name": "1.6; 0.8 GPF (6.06; 3.03 LPF)",
+          "value": "4294391824",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294391824",
+          "count": 20,
+          "active": false
+        },
+        {
+          "display_name": "1.6; 1.0 GPF (6.06; 3.79 LPF)",
+          "value": "1595606197",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1595606197",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "1.6; 1.1 GPF (6.06; 4.16 LPF)",
+          "value": "1636169067",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1636169067",
+          "count": 124,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Bidet Function",
+      "display_name": "Bidet Function",
+      "values": [
+        {
+          "display_name": "No",
+          "value": "3629642495",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3629642495",
+          "count": 529,
+          "active": false
+        },
+        {
+          "display_name": "Yes",
+          "value": "114166564",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=114166564",
+          "count": 127,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "display_name": "Features",
+      "values": [
+        {
+          "display_name": "ADA Compliant",
+          "value": "811952430335",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=811952430335",
+          "count": 366,
+          "active": false
+        },
+        {
+          "display_name": "Skirted",
+          "value": "3157405501",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3157405501",
+          "count": 337,
+          "active": false
+        },
+        {
+          "display_name": "Slow Close Feature",
+          "value": "4294799746",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294799746",
+          "count": 449,
+          "active": false
+        },
+        {
+          "display_name": "High Efficiency",
+          "value": "4294865888",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294865888",
+          "count": 525,
+          "active": false
+        },
+        {
+          "display_name": "WaterSense Labeled",
+          "value": "4294636879",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294636879",
+          "count": 338,
+          "active": false
+        },
+        {
+          "display_name": "Corner Installation",
+          "value": "4294518432",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294518432",
+          "count": 17,
+          "active": false
+        },
+        {
+          "display_name": "Deodorizing",
+          "value": "202037004",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=202037004",
+          "count": 115,
+          "active": false
+        },
+        {
+          "display_name": "Heated Seat",
+          "value": "780335049",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=780335049",
+          "count": 127,
+          "active": false
+        },
+        {
+          "display_name": "Insulated",
+          "value": "4294868135",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294868135",
+          "count": 55,
+          "active": false
+        },
+        {
+          "display_name": "Lined Tank",
+          "value": "811593179152",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=811593179152",
+          "count": 101,
+          "active": false
+        },
+        {
+          "display_name": "Lowe's Exclusive",
+          "value": "4294791438",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294791438",
+          "count": 73,
+          "active": false
+        },
+        {
+          "display_name": "Macerating/Upflush",
+          "value": "911782413791",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=911782413791",
+          "count": 26,
+          "active": false
+        },
+        {
+          "display_name": "Night Light",
+          "value": "1947240342",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1947240342",
+          "count": 97,
+          "active": false
+        },
+        {
+          "display_name": "Portable",
+          "value": "4294859871",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294859871",
+          "count": 19,
+          "active": false
+        },
+        {
+          "display_name": "Requires Electricity",
+          "value": "4294739795",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294739795",
+          "count": 126,
+          "active": false
+        },
+        {
+          "display_name": "Rimless",
+          "value": "2238703832",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2238703832",
+          "count": 52,
+          "active": false
+        },
+        {
+          "display_name": "Self-Cleaning",
+          "value": "4294728589",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294728589",
+          "count": 72,
+          "active": false
+        },
+        {
+          "display_name": "Smart Compatible",
+          "value": "4246655709",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4246655709",
+          "count": 136,
+          "active": false
+        },
+        {
+          "display_name": "Tankless",
+          "value": "720248462759",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=720248462759",
+          "count": 129,
+          "active": false
+        },
+        {
+          "display_name": "Toilet Kit",
+          "value": "4294722900",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294722900",
+          "count": 337,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Flush Technology",
+      "display_name": "Flush Technology",
+      "values": [
+        {
+          "display_name": "Gravity fed",
+          "value": "287232493",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=287232493",
+          "count": 377,
+          "active": false
+        },
+        {
+          "display_name": "Flush valve",
+          "value": "2789670627",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2789670627",
+          "count": 199,
+          "active": false
+        },
+        {
+          "display_name": "Pressure assist",
+          "value": "603599042",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=603599042",
+          "count": 47,
+          "active": false
+        },
+        {
+          "display_name": "Canister",
+          "value": "1709307041",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1709307041",
+          "count": 32,
+          "active": false
+        },
+        {
+          "display_name": "Flapper",
+          "value": "1671237449",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1671237449",
+          "count": 2,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Includes",
+      "display_name": "Includes",
+      "values": [
+        {
+          "display_name": "Flush Lever Included",
+          "value": "4294410347",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294410347",
+          "count": 579,
+          "active": false
+        },
+        {
+          "display_name": "Mounting Bolts Included",
+          "value": "4069133921",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4069133921",
+          "count": 367,
+          "active": false
+        },
+        {
+          "display_name": "Remote Control Included",
+          "value": "4294867912",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294867912",
+          "count": 123,
+          "active": false
+        },
+        {
+          "display_name": "Rubber Bumpers Included",
+          "value": "2156075391",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2156075391",
+          "count": 238,
+          "active": false
+        },
+        {
+          "display_name": "Seat Included",
+          "value": "2063162537",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=2063162537",
+          "count": 527,
+          "active": false
+        },
+        {
+          "display_name": "Supply Lines Included",
+          "value": "4294398821",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294398821",
+          "count": 72,
+          "active": false
+        },
+        {
+          "display_name": "Wax Ring Included",
+          "value": "853629584",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=853629584",
+          "count": 325,
+          "active": false
+        },
+        {
+          "display_name": "Power Cord",
+          "value": "3398029321",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=3398029321",
+          "count": 127,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Material",
+      "display_name": "Material",
+      "values": [
+        {
+          "display_name": "Vitreous china",
+          "value": "4294862554",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294862554",
+          "count": 334,
+          "active": false
+        },
+        {
+          "display_name": "Ceramic",
+          "value": "4294926044",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294926044",
+          "count": 207,
+          "active": false
+        },
+        {
+          "display_name": "Plastic",
+          "value": "4294965728",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294965728",
+          "count": 80,
+          "active": false
+        },
+        {
+          "display_name": "Porcelain",
+          "value": "4294883408",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294883408",
+          "count": 31,
+          "active": false
+        },
+        {
+          "display_name": "Fiberglass",
+          "value": "4294964908",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294964908",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Polyethylene",
+          "value": "4294930534",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=4294930534",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Rating",
+      "display_name": "Rating",
+      "values": [
+        {
+          "display_name": "4",
+          "value": "5005561",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=5005561",
+          "count": 315,
+          "active": false
+        },
+        {
+          "display_name": "5",
+          "value": "5007197",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=5007197",
+          "count": 109,
+          "active": false
+        },
+        {
+          "display_name": "3",
+          "value": "5005562",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=5005562",
+          "count": 378,
+          "active": false
+        },
+        {
+          "display_name": "2",
+          "value": "5005559",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=5005559",
+          "count": 395,
+          "active": false
+        },
+        {
+          "display_name": "1",
+          "value": "5005558",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=5005558",
+          "count": 410,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Availability",
+      "display_name": "Availability",
+      "values": [
+        {
+          "display_name": "Show Out of Stock",
+          "value": "1",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=toilet&refinement=1",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": {
+      "page": 1,
+      "link": "https://www.lowes.com/search?view=List&searchTerm=toilet"
+    }
+  }
+}

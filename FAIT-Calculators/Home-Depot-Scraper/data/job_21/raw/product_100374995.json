@@ -1,0 +1,252 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14354,
+    "overage_used": 4354,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-ECC-Hot-Dip-Galvanized-End-Column-Cap-for-6x-Beam-6x-Post-ECC66HDG/100374995"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:28:19.225Z",
+    "processed_at": "2025-05-01T18:28:28.288Z",
+    "total_time_taken": 9.06,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-ECC-Hot-Dip-Galvanized-End-Column-Cap-for-6x-Beam-6x-Post-ECC66HDG/100374995"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-ECC-Hot-Dip-Galvanized-End-Column-Cap-for-6x-Beam-6x-Post-ECC66HDG/100374995",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Cap-Connectors/Simpson-Strong-Tie/N-5yc1vZc8huZ615",
+    "title": "Simpson Strong-Tie ECC Hot-Dip Galvanized End Column Cap for 6x Beam, 6x Post",
+    "upc": "044315340406",
+    "item_id": "100374995",
+    "parent_id": "309902030",
+    "store_sku": "669270",
+    "model_number": "ECC66HDG",
+    "description": "The ECC is designed to provide strong column-beam connections in end-of-beam applications in wood construction. The seat of the column cap provides an additional surface area of bearing that extends beyond the one side of the column. The ECC helps to distribute the load from the beam and provide support for the connection.",
+    "favorite_count": 9,
+    "feature_bullets": [
+      "Hot-dip galvanized for superior corrosion resistance",
+      "Designed for secure beam-to-post connections in structures",
+      "Pre-drilled holes for fast and easy installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Certified welds for confidence in strength and loading",
+      "Uplift loads increased for earthquake or wind loading",
+      "Bolt spacing that meets NDS code requirements to ensure optimal performance",
+      "Diamond holes to provide temporary fastening",
+      "Nominal beam width: 6x",
+      "Nominal post size: 6x",
+      "Made from 7-Gauge steel",
+      "Hot-dip galvanization (HDG) offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with (4) 5/8 in. Dia machine bolts",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/07fea8e6-32ed-4707-b94b-0d3385bdb2db/svn/simpson-strong-tie-post-cap-connectors-ecc66hdg-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/75c7722b-26ed-4b78-a69f-a074750b6244/svn/simpson-strong-tie-post-cap-connectors-ecc66hdg-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b682c435-29f7-4b74-a80c-8bb9ce1336d6/svn/simpson-strong-tie-post-cap-connectors-ecc66hdg-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-cap-connectors-ecc66hdg-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-cap-connectors-ecc66hdg-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/07fea8e6-32ed-4707-b94b-0d3385bdb2db/svn/simpson-strong-tie-post-cap-connectors-ecc66hdg-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 2,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Cap Type",
+        "value": "Column Cap"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Hot dip galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "7"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "9.65 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Beam Width",
+        "value": "6x"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "6x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "5.88 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "15 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "8.5 in"
+      }
+    ],
+    "keywords_list": [
+      "caps",
+      "hot dipped galvanized steel caps",
+      "connectors",
+      "hot dipped galvanized steel connectors",
+      "6 in. x 6 in. caps",
+      "6 in. x 6 in. connectors"
+    ],
+    "keywords": "caps, hot dipped galvanized steel caps, connectors, hot dipped galvanized steel connectors, 6 in. x 6 in. caps, 6 in. x 6 in. connectors",
+    "variants": [
+      {
+        "title": "4x4",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-ECC-Hot-Dip-Galvanized-End-Column-Cap-for-4x-Beam-4x-Post-ECC44HDG/100374907",
+        "item_id": "100374907"
+      },
+      {
+        "title": "4x6",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-ECC-Hot-Dip-Galvanized-End-Column-Cap-for-4x-Beam-6x-Post-ECC46HDG/100374908",
+        "item_id": "100374908"
+      },
+      {
+        "title": "6x",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-ECC-Hot-Dip-Galvanized-End-Column-Cap-for-6x-Beam-6x-Post-ECC66HDG/100374995",
+        "item_id": "100374995"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Cap Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Cap-Connectors/N-5yc1vZc8hu"
+      }
+    ],
+    "buybox_winner": {
+      "price": 176,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 6,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 6,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13493,
+    "overage_used": 3493,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-5-1-4-in-x-16-ft-Bungalow-Square-Edge-Capped-Composite-Deck-Board-BRDGDL-BU-16/310510972"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:30:46.542Z",
+    "processed_at": "2025-05-01T14:31:25.205Z",
+    "total_time_taken": 38.66,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-5-1-4-in-x-16-ft-Bungalow-Square-Edge-Capped-Composite-Deck-Board-BRDGDL-BU-16/310510972"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-5-1-4-in-x-16-ft-Bungalow-Square-Edge-Capped-Composite-Deck-Board-BRDGDL-BU-16/310510972",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon Good Life 1 in. x 5-1/4 in. x 16 ft. Bungalow Square Edge Capped Composite Deck Board",
+    "upc": "844219022756",
+    "item_id": "310510972",
+    "model_number": "BRDGDL BU 16",
+    "description": "Wood decks are susceptible to mold, decay and insects, and have a shorter lifespan. Fiberon composite decking retains its good looks year after year because it's formulated to last. The composite core combines recycled wood with the resilience of recycled plastic, while our proprietary PermaTech cap layer provides superior stain and fade resistance. The result is durable decking that resists splintering, rotting, cracking, insects and decay, with warranties up to 50 years.",
+    "feature_bullets": [
+      "Composite decking is splinter and crack resistant",
+      "Stain-resistant composite board with PermaTech cap layer",
+      "Easy to install, low maintenance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Escapes Collection features multi-tonal colors that resemble exotic hardwoods.",
+      "Authentic wood look features distinct grain patterns.",
+      "Composite construction helps resist splintering, cracking and decay.",
+      "Contains 96% recycled content.",
+      "Low maintenance and easy to clean.",
+      "A Fire-rated version of Good Life decking (excluding Cabana) is also available and approved for use in all Wildland Urban Interface (WUI) zones.",
+      "Good Life Escapes Collection is backed by a 3-year stain and fade limited warranty and a lifetime performance limited warranty."
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6cb2d01d-4368-4d94-a12f-ad43734ff78e/svn/bungalow-fiberon-composite-decking-boards-brdgdl-bu-16-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6cb2d01d-4368-4d94-a12f-ad43734ff78e/svn/bungalow-fiberon-composite-decking-boards-brdgdl-bu-16-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Bungalow"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Cortex Hidden Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25-year Residential Stain and Fade Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".93 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "33"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

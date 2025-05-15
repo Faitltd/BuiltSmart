@@ -1,0 +1,207 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14247,
+    "overage_used": 4247,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-180-1-3-16-in-x-2-in-Primed-Finger-Jointed-Wood-Brickmould-Moulding-Sold-by-Linear-Foot-10000506/206004317"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:21:57.765Z",
+    "processed_at": "2025-05-01T18:22:01.988Z",
+    "total_time_taken": 4.22,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-180-1-3-16-in-x-2-in-Primed-Finger-Jointed-Wood-Brickmould-Moulding-Sold-by-Linear-Foot-10000506/206004317"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-180-1-3-16-in-x-2-in-Primed-Finger-Jointed-Wood-Brickmould-Moulding-Sold-by-Linear-Foot-10000506/206004317",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Woodgrain-Millwork/N-5yc1vZclf5Z7c8",
+    "title": "Woodgrain Millwork 180 1\u22123/16 in. x  2 in. Primed Finger Jointed Wood Brickmould Moulding (Sold by Linear Foot)",
+    "upc": "095624816786",
+    "item_id": "206004317",
+    "store_sku": "252677",
+    "model_number": "10000506",
+    "description": "The Woodgrain Millwork 1-3/16 in. x 2 in. WM 180 Prime Finger-Jointed Brick Mold is used to seal around exterior doors and windows. Prime Finger-Jointed WM 180 Brick Mold helps shield your exterior openings from the elements while providing protection from water infiltration. Brick Mold always adds an element of visual interest to any window or door.",
+    "favorite_count": 69,
+    "aisle": "FW",
+    "bay": "020",
+    "feature_bullets": [
+      "Primed white finish brings a classy vibe to your decor",
+      "Durable wood construction for long-lasting use",
+      "Paintable for a customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Simple profile that eases the transition between siding and doors/windows",
+      "A traditional pattern that creates a classic style for your doors and windows",
+      "Installs with common woodworking tools",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5c17171e-8422-4296-99f8-71f82662171b/svn/white-woodgrain-millwork-casing-10000506-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-casing-10000506-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c466fc85-bec2-42cb-8308-fc5ec97f8e33/svn/white-woodgrain-millwork-casing-10000506-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5c17171e-8422-4296-99f8-71f82662171b/svn/white-woodgrain-millwork-casing-10000506-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 146,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Brickmould Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "180"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.188 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "168 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2675
+        }
+      }
+    }
+  }
+}

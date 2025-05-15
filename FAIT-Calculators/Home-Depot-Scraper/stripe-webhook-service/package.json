@@ -1,0 +1,33 @@
+{
+  "name": "scraper-webhook-service",
+  "version": "1.0.0",
+  "description": "Webhook service for processing Stripe payments and managing credits",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "dev:prod": "NODE_ENV=production nodemon index.js",
+    "setup:stripe": "node setup-stripe.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:server": "node test-server.js",
+    "test:webhook": "./stripe-cli-test.sh",
+    "get:webhook-secret": "./get-webhook-secret.sh"
+  },
+  "keywords": [
+    "stripe",
+    "webhook",
+    "credits",
+    "scraper"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^6.6.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "stripe": "^12.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

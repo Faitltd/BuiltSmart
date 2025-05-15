@@ -1,0 +1,207 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13684,
+    "overage_used": 3684,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-Sierra-9-16-in-x-5-1-4-in-MDF-Baseboard-Molding-MDF217A/100321847"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:54:06.344Z",
+    "processed_at": "2025-05-01T16:54:41.916Z",
+    "total_time_taken": 35.57,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-Sierra-9-16-in-x-5-1-4-in-MDF-Baseboard-Molding-MDF217A/100321847"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-Sierra-9-16-in-x-5-1-4-in-MDF-Baseboard-Molding-MDF217A/100321847",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Kelleher/N-5yc1vZcbjpZ4z5",
+    "title": "Kelleher Sierra 9/16 in. x 5-1/4 in. MDF Baseboard Molding",
+    "upc": "099443775606",
+    "item_id": "100321847",
+    "parent_id": "325326220",
+    "store_sku": "371135",
+    "model_number": "MDF217A",
+    "description": "The Kelleher 5-1/4 in. x 9/16 in. Sierra Base Molding is installed where the floor meets the wall. It covers any gaps that remain after flooring installation. And gives a distinctive finished look to any room.",
+    "favorite_count": 56,
+    "feature_bullets": [
+      "MDF material makes it easy to customize as per need",
+      "Easy to install as it is compatible with common woodworking tools",
+      "Pre-primed finish allows you to color it to your desired tint"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from Medium Density Fiberboard (MDF)",
+      "Pre-primed to save a step in installation",
+      "Ready to paint to match your decor",
+      "Sold by the linear ft.",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4cd436ad-a64f-4a3d-85e2-2fc95717e91a/svn/primed-kelleher-baseboard-mdf217a-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fb9a3ed2-7529-4453-ae36-57b352425eab/svn/primed-kelleher-baseboard-mdf217a-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4cd436ad-a64f-4a3d-85e2-2fc95717e91a/svn/primed-kelleher-baseboard-mdf217a-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 101,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "217"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "keywords_list": [
+      "building supply",
+      "MDF building supply",
+      "building supplies",
+      "MDF building supplies",
+      "base moulding",
+      "MDF base moulding",
+      "primed building supply",
+      "primed building supplies",
+      "primed base moulding"
+    ],
+    "keywords": "building supply, MDF building supply, building supplies, MDF building supplies, base moulding, MDF base moulding, primed building supply, primed building supplies, primed base moulding",
+    "variants": [
+      {
+        "title": "Primed~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Vintage-9-16-in-x-5-1-4-in-MDF-Base-Moulding-MDF26A/202310183",
+        "item_id": "202310183"
+      },
+      {
+        "title": "Primed~~12 ft~~Medium Density Fiberboard (MDF)~~6",
+        "link": "https://www.homedepot.com/p/Kelleher-Propack-Sierra-9-16-in-x-5-1-4-in-x-12-ft-MDF-Baseboard-Molding-6-Pack-MDF217PK72/202071603",
+        "item_id": "202071603"
+      },
+      {
+        "title": "Primed~~16 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Sierra-9-16-in-x-5-1-4-in-MDF-Baseboard-Molding-MDF217A/100321847",
+        "item_id": "100321847"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

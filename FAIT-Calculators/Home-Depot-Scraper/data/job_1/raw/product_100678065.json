@@ -1,0 +1,309 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12893,
+    "overage_used": 2893,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-382-Bone-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC38210S/100678065"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:34:19.729Z",
+    "processed_at": "2025-05-01T13:34:25.212Z",
+    "total_time_taken": 5.48,
+    "homedepot_url": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-382-Bone-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC38210S/100678065"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-382-Bone-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC38210S/100678065",
+    "brand": "Custom Building Products",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting-Grout-Caulk/Custom-Building-Products/N-5yc1vZcdtfZef",
+    "title": "Custom Building Products Polyblend #382 Bone 10.5 oz. Sanded Ceramic Tile Caulk",
+    "upc": "010186773186",
+    "item_id": "100678065",
+    "parent_id": "203901455",
+    "store_sku": "779779",
+    "model_number": "PC38210S",
+    "description": "Polyblend 10.5 fl. oz. Sanded Ceramic Tile Caulk features a siliconized, latex-based formula for caulking around sinks, tubs and showers and where tile meets tile or another surface. Also adheres bath fixtures and loose tiles. Formula offers great durability and bond strengths.",
+    "favorite_count": 783,
+    "aisle": "47",
+    "bay": "003",
+    "feature_bullets": [
+      "Siliconized, matches grout colors - #382 Bone",
+      "Use around tubs, showers and sinks",
+      "Use where horizontal and vertical surfaces meet"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Matches polyblend grout colors where available (grout sold separately)",
+      "Excellent crack resistant",
+      "Do not use in areas with constant water exposure",
+      "Do not use to install grab bars",
+      "For joint up to 1/4 in. wide and deep",
+      "Sample colors shown may vary from actual grout; final installed shade can differ based on tile type, porosity, job site conditions and finishing techniques",
+      "Stain resistant",
+      "Offers great durability and bond strengths."
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c942e0a3-af35-4645-8141-865d644dff79/svn/custom-building-products-grout-caulk-pc38210s-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d4961984-ba98-4088-a9a8-f5a37490bf9e/svn/custom-building-products-grout-caulk-pc38210s-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f95c7689-7dfa-46c7-9fb6-6610e90162eb/svn/custom-building-products-grout-caulk-pc38210s-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f3345869-92f5-4267-99b4-bd570d8cbdf2/svn/custom-building-products-grout-caulk-pc38210s-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fba1dc14-71a3-4d74-8e64-a254c2760fe4/svn/custom-building-products-grout-caulk-pc38210s-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4491a382-6ae5-4877-a405-03372e2dcbc5/svn/custom-building-products-grout-caulk-pc38210s-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4fe9b574-17a5-48c3-9526-92399f975d88/svn/custom-building-products-grout-caulk-pc38210s-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d4961984-ba98-4088-a9a8-f5a37490bf9e/svn/custom-building-products-grout-caulk-pc38210s-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c942e0a3-af35-4645-8141-865d644dff79/svn/custom-building-products-grout-caulk-pc38210s-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 3545,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color",
+        "value": "Bone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Crack resistant,Latex based,Moisture resistant,Mold/mildew resistant,No mixing required,Paintable/Stainable,Sanded,Stain resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Countertop,Floor,Interior wall,Kitchen Backsplash,Shower,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Lifetime Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Product"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Coverage Area (sq. ft.)",
+        "value": "24"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.2 in"
+      }
+    ],
+    "color": "Bone",
+    "keywords_list": [
+      "Polyblend",
+      "10.5 fl. oz. Bone Ceramic Tile Caulk",
+      "PC38210S"
+    ],
+    "keywords": "Polyblend, 10.5 fl. oz. Bone Ceramic Tile Caulk, PC38210S",
+    "variants": [
+      {
+        "title": "Pewter",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-19-Pewter-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC1910S/202520306",
+        "item_id": "202520306"
+      },
+      {
+        "title": "Charcoal",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-60-Charcoal-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC6010S/202520343",
+        "item_id": "202520343"
+      },
+      {
+        "title": "Delorean Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-165-Delorean-Gray-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC16510S/100678056",
+        "item_id": "100678056"
+      },
+      {
+        "title": "Oyster Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-386-Oyster-Gray-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC38610S/204984830",
+        "item_id": "204984830"
+      },
+      {
+        "title": "Linen",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-122-Linen-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC12210S/100678059",
+        "item_id": "100678059"
+      },
+      {
+        "title": "Natural Gray",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-09-Natural-Gray-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC0910S/100678060",
+        "item_id": "100678060"
+      },
+      {
+        "title": "Rolling Fog",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-544-10-5-oz-Rolling-Fog-Sanded-Ceramic-Tile-Caulk-PC54410S/205959499",
+        "item_id": "205959499"
+      },
+      {
+        "title": "Haystack",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-380-Haystack-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC38010S/100678064",
+        "item_id": "100678064"
+      },
+      {
+        "title": "Bone",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-382-Bone-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC38210S/100678065",
+        "item_id": "100678065"
+      },
+      {
+        "title": "Snow White",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-11-Snow-White-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC1110S/100678066",
+        "item_id": "100678066"
+      },
+      {
+        "title": "Brown Velvet",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-647-10-5-oz-Brown-Velvet-Sanded-Ceramic-Tile-Caulk-PC64710S/313017373",
+        "item_id": "313017373"
+      },
+      {
+        "title": "Bright White",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-381-Bright-White-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC38110S/202520295",
+        "item_id": "202520295"
+      },
+      {
+        "title": "Coffee Bean",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-646-10-5-oz-Coffee-Bean-Sanded-Ceramic-Tile-Caulk-PC64610S/313017374",
+        "item_id": "313017374"
+      },
+      {
+        "title": "Arctic White",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-640-10-5-oz-Arctic-White-Sanded-Ceramic-Tile-Caulk-PC64010S/313017375",
+        "item_id": "313017375"
+      },
+      {
+        "title": "Platinum",
+        "link": "https://www.homedepot.com/p/Custom-Building-Products-Polyblend-115-Platinum-10-5-oz-Sanded-Ceramic-Tile-Caulk-PC11510S/204984846",
+        "item_id": "204984846"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Tile Setting",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting/N-5yc1vZcdut"
+      },
+      {
+        "name": "Grout Caulk",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Tile-Setting-Grout-Caulk/N-5yc1vZcdtf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 11.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 270,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 476,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

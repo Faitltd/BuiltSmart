@@ -1,0 +1,178 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13496,
+    "overage_used": 3496,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-6-in-x-16-ft-Tuscan-Villa-Grooved-Edge-Capped-Composite-Deck-Board-BRDGDLG-TV-16/309382841"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:33:20.834Z",
+    "processed_at": "2025-05-01T14:34:06.470Z",
+    "total_time_taken": 45.64,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-6-in-x-16-ft-Tuscan-Villa-Grooved-Edge-Capped-Composite-Deck-Board-BRDGDLG-TV-16/309382841"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-Good-Life-1-in-x-6-in-x-16-ft-Tuscan-Villa-Grooved-Edge-Capped-Composite-Deck-Board-BRDGDLG-TV-16/309382841",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon Good Life 1 in. x 6 in. x 16 ft. Tuscan Villa Grooved Edge Capped Composite Deck Board",
+    "upc": "844219023951",
+    "item_id": "309382841",
+    "store_sku": "1004299562",
+    "model_number": "BRDGDLG TV 16",
+    "description": "The Fiberon Good Life Capped Composite Deck Board has an attractive Tuscan villa finish that goes seamlessly well with your existing outdoor decor. Its composite construction ensures that the board does not crack, splinter, or decay. This board features a three-sided cap layer that resists stains and allows for worry-free cleaning.",
+    "feature_bullets": [
+      "Composite construction resists cracking, splintering and decay",
+      "Three-sided cap layer for worry-free cleaning",
+      "Features distinct grain patterns"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Escapes Collection features multi-tonal colors that resemble exotic hardwoods.",
+      "Authentic wood look features distinct grain patterns.",
+      "Composite construction helps resist splintering, cracking and decay.",
+      "Contains 96% recycled content.",
+      "Low maintenance and easy to clean.",
+      "A Fire-rated version of Good Life decking (excluding Cabana) is also available and approved for use in all Wildland Urban Interface (WUI) zones.",
+      "Good Life Escapes Collection is backed by a 3-year stain and fade limited warranty and a lifetime performance limited warranty.",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302,\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3be21b6f-cbeb-41df-bbd2-840ae292590c/svn/tuscan-villa-fiberon-composite-decking-boards-brdgdlg-tv-16-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dfb27114-e244-4b5c-b1cd-d9e49009735d/svn/tuscan-villa-fiberon-composite-decking-boards-brdgdlg-tv-16-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9397ec0c-e19d-4eef-b7a3-a4fe47c09d48/svn/tuscan-villa-fiberon-composite-decking-boards-brdgdlg-tv-16-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fa941266-94ef-4a71-a61f-394a759d1512/svn/tuscan-villa-fiberon-composite-decking-boards-brdgdlg-tv-16-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b300fc0f-dd6a-415d-a9d2-faa9fdef8aef/svn/tuscan-villa-fiberon-composite-decking-boards-brdgdlg-tv-16-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3be21b6f-cbeb-41df-bbd2-840ae292590c/svn/tuscan-villa-fiberon-composite-decking-boards-brdgdlg-tv-16-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxM2I5YjNfMWI3YmY4MTQxNzNiZDg4ZDQzMmY0OGFlMGU0MWZkMDI1NDBmNDQwMjFmMDdmYmI3ZjQxOWM3ZWQ5MjI4MmI2Yl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Tuscan Villa"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Fiberon Phantom Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Stain & Fade - 35 Year Performance Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".93 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "33"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ]
+  }
+}

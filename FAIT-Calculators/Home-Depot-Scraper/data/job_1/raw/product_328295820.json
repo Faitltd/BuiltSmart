@@ -1,0 +1,287 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14986,
+    "overage_used": 4986,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Sterling-Traverse-60-in-L-x-30-in-W-x-60-in-H-Left-Hand-Drain-Rectangular-Tub-Shower-Combo-Unit-in-White-71171710-0-T/328295820"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:50:43.158Z",
+    "processed_at": "2025-05-02T21:50:48.815Z",
+    "total_time_taken": 5.66,
+    "homedepot_url": "https://www.homedepot.com/p/Sterling-Traverse-60-in-L-x-30-in-W-x-60-in-H-Left-Hand-Drain-Rectangular-Tub-Shower-Combo-Unit-in-White-71171710-0-T/328295820"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Sterling-Traverse-60-in-L-x-30-in-W-x-60-in-H-Left-Hand-Drain-Rectangular-Tub-Shower-Combo-Unit-in-White-71171710-0-T/328295820",
+    "brand": "Sterling",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bathtubs-Tub-Shower-Combos/Sterling/N-5yc1vZcd0lZ95k",
+    "title": "Sterling Traverse 60 in. L x 30 in. W x 60 in. H Left-Hand Drain Rectangular Tub Shower Combo Unit in White",
+    "upc": "195711156587",
+    "item_id": "328295820",
+    "parent_id": "328753777",
+    "store_sku": "1010678809",
+    "model_number": "71171710-0-T",
+    "description": "Update your bathing routine with the traverse subway tile wall set and tub combo. Featuring contemporary subway tile design with a sleek shelf, it has ample storage space for your shampoo bottles. Built of solid vikrell for material strength, durability, and lasting beauty, it features a durable, smooth, high gloss finish that easy to clean. Tongue-and-groove modular design allows for easy installation during any phase of construction. The innovative dry-block seal and channeled water containment system forms watertight seams.",
+    "collection": {
+      "id": "Family-326800079",
+      "name": "Family-326800079",
+      "link": "https://www.homedepot.com/collection/Bath/Traverse-Bath-Collection/Family-326800079?omsid=328295820"
+    },
+    "feature_bullets": [
+      "Fully caulkless, direct to stud installation",
+      "Durable, easy to clean vikrell material",
+      "Includes bathtub and Wall set"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Want it today? Check your local store for individual components (SKU #s: <a href=\"https://www.homedepot.com/p/302568786\" target=\"_blank\" style=\"color:#F96302;\">Want it today? Check your local store for individual components (SKU #s: 1002637722,</a> , <a href=\"https://www.homedepot.com/p/326257452\" target=\"_blank\" style=\"color:#F96302;\">1010035746)</a>",
+      "Bathtub measures 60 in. x 30 in. x 16 in., left-hand drain",
+      "Bathtub design provides maximum soaking comfort and a deep bathing well",
+      "Designed with a 16 in. apron",
+      "Gently sloping bath, provides lumbar support, with integral apron",
+      "2 in. wainscot allows tile-down installation above bath deck",
+      "Conforms to ANSI Z124.1.2 and CSA B45.1 national consensus standards",
+      "Tongue-and-groove modular design allows for easyinstallation during any phase of construction",
+      "Easy-to-clean, durable high-gloss finish",
+      "Shop more <a href=\"https://www.homedepot.com/b/Bath-Bathtubs/N-5yc1vZbzb7\" target=\"_blank\" style=\"color:#F96302;\">Bathtubs</a> at The Home Depot to find the best option for your home\u200b",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6442de50-e98b-4ec8-9ab6-a31e350cd0a3/svn/white-sterling-tub-shower-combos-71171710-0-t-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f6cd13b9-08a2-4f93-be9e-8ee806395953/svn/white-sterling-tub-shower-combos-71171710-0-t-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2bac0bf3-f4dd-46e2-949f-13a69833e4a5/svn/white-sterling-tub-shower-combos-71171710-0-t-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3abc39c8-1156-4236-8166-dbaead8ae2cd/svn/white-sterling-tub-shower-combos-71171710-0-t-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1e0719f9-abc0-418c-8394-ea69dad9566d/svn/white-sterling-tub-shower-combos-71171710-0-t-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b372c766-a65a-4608-ab1a-6ba1bdd0b26b/svn/white-sterling-tub-shower-combos-71171710-0-t-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/387ab596-59a3-4492-9f2a-08935185c63c/svn/white-sterling-tub-shower-combos-71171710-0-t-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6442de50-e98b-4ec8-9ab6-a31e350cd0a3/svn/white-sterling-tub-shower-combos-71171710-0-t-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxNGYxOWFfYThhYWVlMjBhNjU3NmJmODYxY2I2MGI1M2UzZWNhYjVjNzA2MGFiOGJhNWQ5ODU5NzJmMWQ5NTYyOTgzZDY0OF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "ratings_total": 25,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Construction",
+        "value": "Two piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drain Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Exterior bath shape",
+        "value": "Rectangular"
+      },
+      {
+        "group_name": "Details",
+        "name": "Faucet mount",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No additional components or accessories are included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Number of Occupants",
+        "value": "1 Person"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Shelves",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "68 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Minimalist,Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Type",
+        "value": "Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tub/Shower Features",
+        "value": "No additional features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wall Installation Type",
+        "value": "Direct-to-stud"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water capacity (gallons)",
+        "value": "44"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10-Year Residential/3-Year Commercial Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Basin Length (in.)",
+        "value": "60"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Basin Width (in.)",
+        "value": "30"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Height from Floor (in.)",
+        "value": "79"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Shower Depth (in.)",
+        "value": "11.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Height (in.)",
+        "value": "60"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Width (in.)",
+        "value": "30"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Right~~30 x 11",
+        "link": "https://www.homedepot.com/p/Sterling-Traverse-60-in-L-x-30-in-W-x-60-in-H-Right-Hand-Drain-Rectangular-Tub-Shower-Combo-Unit-in-White-71171720-0-T/328295850",
+        "item_id": "328295850"
+      },
+      {
+        "title": "White~~Left~~30 x 11",
+        "link": "https://www.homedepot.com/p/Sterling-Traverse-60-in-L-x-30-in-W-x-60-in-H-Left-Hand-Drain-Rectangular-Tub-Shower-Combo-Unit-in-White-71171710-0-T/328295820",
+        "item_id": "328295820"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bathtubs",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs/N-5yc1vZbzb7"
+      },
+      {
+        "name": "Tub & Shower Combos",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs-Tub-Shower-Combos/N-5yc1vZcd0l"
+      }
+    ],
+    "buybox_winner": {
+      "price": 868,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 26,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 26,
+          "price": 55,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

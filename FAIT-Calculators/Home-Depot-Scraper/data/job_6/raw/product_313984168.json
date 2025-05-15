@@ -1,0 +1,160 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13452,
+    "overage_used": 3452,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-1x6-16-Sanctuary-Fire-Rated-Composite-Deck-Board-Latte-Square-Edge-Actual-Size-925-x-5-25-BRDSAN2FR-LT-BRDSAN2FR-LT-16/313984168"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:07:22.343Z",
+    "processed_at": "2025-05-01T14:08:23.451Z",
+    "total_time_taken": 61.11,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-1x6-16-Sanctuary-Fire-Rated-Composite-Deck-Board-Latte-Square-Edge-Actual-Size-925-x-5-25-BRDSAN2FR-LT-BRDSAN2FR-LT-16/313984168"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-1x6-16-Sanctuary-Fire-Rated-Composite-Deck-Board-Latte-Square-Edge-Actual-Size-925-x-5-25-BRDSAN2FR-LT-BRDSAN2FR-LT-16/313984168",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon 1x6-16' Sanctuary Fire Rated Composite Deck Board-Latte Square Edge (Actual Size:. 925\" x 5.25\") BRDSAN2FR LT",
+    "upc": "844219028222",
+    "item_id": "313984168",
+    "store_sku": "1005580272",
+    "model_number": "BRDSAN2FR LT 16",
+    "description": "Make your backyard a place to stay. Beautiful and easy to maintain, Sanctuary decking features bold, multi-tonal colors and rustic embossing. Fiberon products are nearly maintenance free and retain their beauty for years to come, meaning you can enjoy the quiet moments without spending precious time on maintenance and upkeep.",
+    "feature_bullets": [
+      "Stain and fade resistant with PermaTech cap layer",
+      "Made from high quality composite material"
+    ],
+    "feature_bullets_count": 2,
+    "descriptive_attributes": [
+      "A Fire-rated version of Sanctuary decking approved for use in all Wildland Urban Interface (WUI) zones.",
+      "Sanctuary decking is beautiful and easy to maintain, featuring bold, multi-tonal colors and rustic embossing.",
+      "Strong composite construction helps resist splintering, rotting, cracking, insects and decay.",
+      "Features a three-sided PermaTech cap layer for superior stain and fade resistance.",
+      "The flat-profile bottom provides a sturdy feel, reminiscent of traditional lumber.",
+      "Contains 95% recycled content."
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6db6b2e0-8c50-4f73-b04a-981e8d35a337/svn/latte-fiberon-composite-decking-boards-brdsan2fr-lt-16-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6db6b2e0-8c50-4f73-b04a-981e8d35a337/svn/latte-fiberon-composite-decking-boards-brdsan2fr-lt-16-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Latte"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Screws or hidden fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "40 year Stain, Fade and Performance"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".925"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "38"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

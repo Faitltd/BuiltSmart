@@ -1,0 +1,165 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14850,
+    "overage_used": 4850,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Standard-Grade-GDF-Dimensional-Lumber-00169/310242193"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:49:20.020Z",
+    "processed_at": "2025-05-01T19:50:06.491Z",
+    "total_time_taken": 46.47,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Standard-Grade-GDF-Dimensional-Lumber-00169/310242193"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Standard-Grade-GDF-Dimensional-Lumber-00169/310242193",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 12 in. x 16 ft. #2 Standard Grade GDF Dimensional Lumber",
+    "upc": "073291001698",
+    "item_id": "310242193",
+    "parent_id": "330800996",
+    "store_sku": "200492",
+    "model_number": "00169",
+    "description": "Green Doug Fir is a straight grained and resilient timber with high strength to weight ratio as well as quick availability and ease of use. Its light rosy color is set off by a remarkably straight grain pattern making it a premium building product specified by architects, engineers and builders for a wide range of construction applications. Weyerhaeuser's precision manufacturing, process control and mill direct supply give you consistent, reliable lumber, delivered when you need it, where you want it.",
+    "feature_bullets": [
+      "Straight grain pattern offers a premium look",
+      "Made of Douglas Fir wood to ensure durability",
+      "Measures 2 in. H x 12 in"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Precision-graded for consistent appearance and minimal waste",
+      "Valued for its dimensional stability",
+      "Provides excellent nail-holding capability",
+      "Log procurement adheres to SFI certified sourcing standards",
+      "Harvested from sustainable timberlands"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6cf6424d-f600-4c4a-aa4a-e9a8a4036f99/svn/framing-lumber-00169-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6cf6424d-f600-4c4a-aa4a-e9a8a4036f99/svn/framing-lumber-00169-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Screws,Standard Nails"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Douglas Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "12 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-12-ft-2-Standard-Grade-GDF-Dimensional-Lumber-00167/310242124",
+        "item_id": "310242124"
+      },
+      {
+        "title": "16 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Standard-Grade-GDF-Dimensional-Lumber-00169/310242193",
+        "item_id": "310242193"
+      },
+      {
+        "title": "20 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-20-ft-GDF-2-Standard-Grade-Dimensional-Lumber-00171/310242081",
+        "item_id": "310242081"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

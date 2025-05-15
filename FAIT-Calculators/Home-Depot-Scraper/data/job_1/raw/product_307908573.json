@@ -1,0 +1,357 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14923,
+    "overage_used": 4923,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Round-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-78253-0/307908573"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:42:48.002Z",
+    "processed_at": "2025-05-02T21:42:53.581Z",
+    "total_time_taken": 5.58,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Round-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-78253-0/307908573"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Round-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-78253-0/307908573",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/KOHLER/N-5yc1vZcb8nZ1qh",
+    "title": "KOHLER Highline Arc 12 in. Rough In 2-Piece 1.28 GFP Single Flush Round Chair Height Toilet in White with Soft Close Seat",
+    "upc": "885612760692",
+    "item_id": "307908573",
+    "parent_id": "331018435",
+    "store_sku": "1003951329",
+    "model_number": "K-78253-0",
+    "description": "Trusted for years by professionals, Highline toilets are KOHLER bestselling toilet family. A brilliant blend of style and water efficiency, this Highline Arc toilet is distinguished by an elegant flared tank. Coupled with KOHLER powerful canister flush valve, there's no sacrificing performance for design. An innovative 1.28 Gal. flush setting provides significant water savings of up to 16,500 Gal. per year, compared to an old 3.5 Gal. toilet. This Complete Solution package includes everything necessary for installation and is available exclusively at The Home Depot.",
+    "is_exclusive": true,
+    "favorite_count": 11145,
+    "aisle": "37",
+    "bay": "006",
+    "collection": {
+      "id": "Family-312127200",
+      "name": "Family-312127200",
+      "link": "https://www.homedepot.com/collection/Bath/Highline-Collection-White/Family-312127200?omsid=307908573"
+    },
+    "feature_bullets": [
+      "Made of vitreous, ADA comfort height, 1.28 GPF canister flush",
+      "Class Five canister provides powerful and effective flush",
+      "Soft close toilet seat, wax ring, and hardware included"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "2-piece toilet",
+      "Round-front bowl offers an ideal solution for smaller baths and powder rooms",
+      "Comfort height feature offers chair-height seating that makes sitting down and standing up easier for most adults",
+      "1.28 Gallons Per Flush (GPF)",
+      "Standard left-hand polished chrome trip lever included",
+      "Complete solution toilets provide everything you need in 1 box, including bowl, tank, slow-close toilet seat, cover, wax ring and floor hardware",
+      "Single-flush gravity uses the force of gravity and a precision-engineered tank, bowl and trap way to create a strong siphon during flushing",
+      "Class 5 flushing technology offers virtually plug-free performance and rinsing power for a clean bowl",
+      "Standard 12 in. rough-in",
+      "3-bolt installation",
+      "Supply line not included",
+      "WaterSense",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3d37543e-894c-4fd1-9103-51262047a884/svn/white-kohler-two-piece-toilets-k-78253-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/be09db51-575d-4527-a985-5607aeab35be/svn/white-kohler-two-piece-toilets-k-78253-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f91373ab-97b6-4c39-ac13-fcea7e3f7726/svn/white-kohler-two-piece-toilets-k-78253-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/02e40d29-d010-4706-a150-53f2781fccf3/svn/white-kohler-two-piece-toilets-k-78253-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/486f158c-2cbe-4735-ab0b-10b6db43741f/svn/white-kohler-two-piece-toilets-k-78253-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5a4e8034-24d5-400a-ab95-d7d32e7091eb/svn/white-kohler-two-piece-toilets-k-78253-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d2d9d169-8c73-48a3-95a8-8a1d43d047ed/svn/white-kohler-two-piece-toilets-k-78253-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c740c6f-42a3-4322-89b2-1209c26546d2/svn/white-kohler-two-piece-toilets-k-78253-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a37fd13c-a484-4f7f-b84e-455a924e4e53/svn/white-kohler-two-piece-toilets-k-78253-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/96871c35-be4f-4072-86d7-02944804bdc1/svn/white-kohler-two-piece-toilets-k-78253-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3d37543e-894c-4fd1-9103-51262047a884/svn/white-kohler-two-piece-toilets-k-78253-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/6e3f3885-f01f-420c-8ef5-eceebe724e7b/633c93b9-a586-413b-9f44-92bf714c0a66/main.mp4?fastly_token=NjgxNGUyMGNfMzBmNjQ5NmFkMTMwYzgxMjcyMTAzYjFlNzQxZWU0YjQ2OGZjY2NjNzJkMGY5MDYyMjBlMzkyY2YzN2E4NmRiOV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNmUzZjM4ODUtZjAxZi00MjBjLThlZjUtZWNlZWJlNzI0ZTdiLzYzM2M5M2I5LWE1ODYtNDEzYi05ZjQ0LTkyYmY3MTRjMGE2Ni9tYWluLm1wNA%3D%3D",
+        "title": "K22BN6234_HighlineArc_computer",
+        "id": "6307482785112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/6e3f3885-f01f-420c-8ef5-eceebe724e7b/main/160x90/31s754ms/match/image.jpg",
+        "description": "HighlineArc Flushing\n"
+      }
+    ],
+    "ratings_total": 12099,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Complete Kit"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "Not Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "98.70 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.125 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ASME Certified,CSA Certified,EPA Approved"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "27.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "30.375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18.0625 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-78279-0/307908571",
+        "item_id": "307908571"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Dual Flush: 1.1/1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-1-1-6-GFP-Dual-Flush-Elongated-Chair-Height-Toilet-in-White-Soft-Close-Seat-27983-0/324890543",
+        "item_id": "324890543"
+      },
+      {
+        "title": "White~~Elongated~~10 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-10-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-78206-0/317148498",
+        "item_id": "317148498"
+      },
+      {
+        "title": "White~~Round~~10 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-10-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Round-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-78306-0/323095972",
+        "item_id": "323095972"
+      },
+      {
+        "title": "Biscuit~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Chair-Height-Toilet-in-Biscuit-with-Soft-Close-Seat-K-78279-96/307908572",
+        "item_id": "307908572"
+      },
+      {
+        "title": "White~~Round~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Round-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-K-78253-0/307908573",
+        "item_id": "307908573"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.0~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-GPF-Single-Flush-Elongated-Chair-Height-Toilet-in-White-with-Soft-Close-Seat-27985-0/324890564",
+        "item_id": "324890564"
+      },
+      {
+        "title": "White~~Round~~12 inch Rough In~~Dual Flush: 1.1/1.6~~Chair Height",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-12-in-Rough-In-2-Piece-1-1-1-6-GFP-Dual-Flush-Round-Chair-Height-Toilet-in-White-Seat-Not-Included-27984-0/324890561",
+        "item_id": "324890561"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Extra Tall",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-Extra-Tall-12-in-Rough-In-2-Piece-1-28-GFP-Single-Flush-Elongated-Toilet-in-White-with-Soft-Close-Seat-78305-0/320422533",
+        "item_id": "320422533"
+      },
+      {
+        "title": "White~~Round~~12 inch Rough In~~Single Flush: 1.28~~Extra Tall",
+        "link": "https://www.homedepot.com/p/KOHLER-Highline-Arc-Extra-Tall-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-in-White-with-Soft-Close-Seat-35706-0/331238017",
+        "item_id": "331238017"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 199,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 229,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 38
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 140,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 157,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

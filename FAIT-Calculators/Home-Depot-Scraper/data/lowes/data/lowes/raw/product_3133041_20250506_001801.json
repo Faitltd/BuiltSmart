@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 39,
+    "credits_used_this_request": 1,
+    "credits_remaining": 461,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.lowes.com/pd/charlotte-pipe-2-in-x-10-ft-280-psi-schedule-40-pvc-pipe/3133041",
+    "_t": "20250506001759",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-06T06:17:59.780Z",
+    "processed_at": "2025-05-06T06:18:01.132Z",
+    "total_time_taken": 1.35,
+    "lowes_url": "https://www.lowes.com/pd/Charlotte-Pipe-2-in-x-10-ft-280-Sch-40-Solidcore-PVC-DWV-Pipe/3133041"
+  },
+  "product": {
+    "link": "https://www.lowes.com/pd/Charlotte-Pipe-2-in-x-10-ft-280-Sch-40-Solidcore-PVC-DWV-Pipe/3133041",
+    "brand": "Charlotte Pipe",
+    "title": "Charlotte Pipe 2-in x 10-ft 280 Psi Schedule 40 PVC Pipe",
+    "upc": "611942039494",
+    "item_id": "3133041",
+    "item_number": "23832",
+    "model_number": "PVC 07200  0600",
+    "description": "White pipe and fittings with red print",
+    "feature_bullets": [
+      "Dual marked for DWV and Pressure applications",
+      "For use where systems will not exceed 140\u00b0 F",
+      "PVC Schedule 40 Pipe is used in irrigation, underground sprinkler systems, swim pools, outdoor aplications and cold water supply lines"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Dual marked for DWV and Pressure applications",
+      "For use where systems will not exceed 140\u00b0 F",
+      "PVC Schedule 40 Pipe is used in irrigation, underground sprinkler systems, swim pools, outdoor aplications and cold water supply lines",
+      "Gradual sloping fittings are used for DWV applications and sharply angled pressure fittings must be used for pressure",
+      "Conforms to meet Standards:  ASTM D 1784, ASTM D 1785, ASTM D 2665 and NSF STANDARD 14 AND NSF STANDARD 61",
+      "Require no special tools for cutting",
+      "Made in the USA"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/434bcc0d-8e46-4171-9f3a-8b158cbf509b/00678556.jpg"
+      },
+      {
+        "src": "Online Content Production",
+        "link": "https://mobileimages.lowes.com/productimages/a29b6f89-f574-4f11-8423-ec9040aa9513/48968582.jpg"
+      },
+      {
+        "src": "Online Content Production",
+        "link": "https://mobileimages.lowes.com/productimages/82d0abca-7aac-4713-b45c-c76339845479/48968197.jpg"
+      },
+      {
+        "src": "Online Content Production",
+        "link": "https://mobileimages.lowes.com/productimages/f58c7d67-afdc-4c28-9352-f872156103b5/48968199.jpg"
+      },
+      {
+        "src": "Online Content Production",
+        "link": "https://mobileimages.lowes.com/productimages/35cb6a95-1fe7-407c-99c4-9d2b2ca2ff76/48687791.jpg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/a261a5fd-7bcb-4fe0-a256-63a49039ab08/60872153.jpg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/7609ca31-6412-45ca-ada5-88c388f41a81/62980304.jpg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/3b31e1fd-3db8-403a-89aa-ed8a860dc4da/62676222.jpg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/3ccc41d4-ae21-45ba-9351-db29b5b57f83/62563796.jpg"
+      },
+      {
+        "src": "Vendor Provided",
+        "link": "https://mobileimages.lowes.com/productimages/6715fff4-fe37-4f62-bfe9-eb64c7730773/68310288.jpeg"
+      }
+    ],
+    "main_image": {
+      "src": "Vendor Provided",
+      "link": "https://mobileimages.lowes.com/productimages/434bcc0d-8e46-4171-9f3a-8b158cbf509b/00678556.jpg"
+    },
+    "videos": [
+      {
+        "link": "https://cdnapisec.kaltura.com/p/4215793/sp/421579300/playManifest/entryId/1_i00wb9w5/format/applehttp/protocol/https",
+        "title": "Product Marketing Video"
+      },
+      {
+        "link": "https://cdnapisec.kaltura.com/p/4215793/sp/421579300/playManifest/entryId/1_qolv1pkv/format/applehttp/protocol/https",
+        "title": "Product Demo Video"
+      },
+      {
+        "link": "https://cdnapisec.kaltura.com/p/4215793/sp/421579300/playManifest/entryId/1_o85bvusk/format/applehttp/protocol/https",
+        "title": "Product Installation Video"
+      }
+    ],
+    "has_360_view": false,
+    "ratings_total": 743,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "name": "Series Name",
+        "value": "PVC Pipe"
+      },
+      {
+        "name": "Type",
+        "value": "Pipe"
+      },
+      {
+        "name": "Diameter (End 1)",
+        "value": "2-in"
+      },
+      {
+        "name": "Pipe Diameter",
+        "value": "2-in"
+      },
+      {
+        "name": "Pipe Length",
+        "value": "10-ft"
+      },
+      {
+        "name": "Cellcore",
+        "value": "No"
+      },
+      {
+        "name": "Code Approvals",
+        "value": "ASTM D 1784; ASTM D 1785; ASTM D 2665"
+      },
+      {
+        "name": "Common Use",
+        "value": "Non-potable water"
+      },
+      {
+        "name": "Connection Type (End 1)",
+        "value": "Plain end"
+      },
+      {
+        "name": "Fitting or Connection Type ",
+        "value": "Pipe plug"
+      },
+      {
+        "name": "For Use with RVs",
+        "value": "No"
+      },
+      {
+        "name": "LA Pattern",
+        "value": "No"
+      },
+      {
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "name": "Maximum Working Pressure (PSI)",
+        "value": "280"
+      },
+      {
+        "name": "Maximum Working Temperature (Fahrenheit)",
+        "value": "140"
+      },
+      {
+        "name": "Minimum Working Temperature (Fahrenheit)",
+        "value": "32"
+      },
+      {
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "name": "Pipe Schedule",
+        "value": "Schedule 40"
+      },
+      {
+        "name": "Plastic Nut Included",
+        "value": "No"
+      },
+      {
+        "name": "Washer Included",
+        "value": "No"
+      },
+      {
+        "name": "CA Residents: Prop 65 Warning(s)",
+        "value": "Yes"
+      },
+      {
+        "name": "Safety Listing",
+        "value": "NSF safety listing"
+      },
+      {
+        "name": "Warranty",
+        "value": "5-year limited"
+      },
+      {
+        "name": "UNSPSC",
+        "value": "40171600"
+      }
+    ],
+    "breadcrumbs": [],
+    "buybox_winner": {
+      "price": 13.68,
+      "symbol": "$",
+      "currency": "USD",
+      "unit": "EACH",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "1875",
+          "store_name": "Atlanta-Edgewood Lowe's",
+          "store_state": "GA",
+          "in_stock": true,
+          "stock_level": 219
+        },
+        "scheduled_delivery_info": {
+          "in_stock": true,
+          "stock_level": 435,
+          "lead_time": "05-06-2025-04:00 UTC",
+          "consolidation_date": "05-07-2025-04:00 UTC",
+          "availability_date": "05-06-2025-04:00 UTC"
+        },
+        "ship_to_home_info": {
+          "store_id": "1875",
+          "store_name": "Atlanta-Edgewood Lowe's",
+          "store_state": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        }
+      }
+    }
+  }
+}

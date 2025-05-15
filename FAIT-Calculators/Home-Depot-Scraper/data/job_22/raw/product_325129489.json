@@ -1,0 +1,218 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14373,
+    "overage_used": 4373,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TimberTech-Prime-1-in-x-6-in-x-16-ft-Dark-Cocoa-Grooved-Edge-Composite-Decking-Board-ESGV5416DC/325129489"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:29:33.055Z",
+    "processed_at": "2025-05-01T18:30:20.362Z",
+    "total_time_taken": 47.31,
+    "homedepot_url": "https://www.homedepot.com/p/TimberTech-Prime-1-in-x-6-in-x-16-ft-Dark-Cocoa-Grooved-Edge-Composite-Decking-Board-ESGV5416DC/325129489"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TimberTech-Prime-1-in-x-6-in-x-16-ft-Dark-Cocoa-Grooved-Edge-Composite-Decking-Board-ESGV5416DC/325129489",
+    "brand": "TimberTech",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/TimberTech/N-5yc1vZc5mbZ7u7",
+    "title": "TimberTech Prime+ 1 in. x 6 in. x 16 ft. Dark Cocoa Grooved Edge Composite Decking Board",
+    "upc": "683531049559",
+    "item_id": "325129489",
+    "parent_id": "327512654",
+    "store_sku": "1009540926",
+    "model_number": "ESGV5416DC",
+    "description": "Leave the maintenance of wood behind, without giving up the look you love. Our TimberTech Prime+ Collection delivers capped composite deck boards with subtle nuances of color for an attractive real wood aesthetic. No sanding, staining or sealing required.",
+    "feature_bullets": [
+      "Real wood look with elegant color blending & a straight grain.",
+      "Superior moisture resistance with 3-sided polymer capping.",
+      "Protected by 25-Year Product and Fade & Stain Warranties"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Covered by a 25-year product warranty and 25-year fade &amp; stain warranty",
+      "Designed with advanced materials science for superior durability compared with traditional wood",
+      "Doesn't look fake or plastic-y, but features elegantly blended colors and a subtle straight grain pattern for an authentic wood visual",
+      "Features a 100% polymer, 3-sided cap that extends inside the grooves of grooved-shoulder boards for enhanced protection against moisture",
+      "Sustainably made with up to 85% recycled material, including 100% recycled wood fibers, plus discarded plastics like bags, milk jugs, etc",
+      "Fade- and stain-resistant technology locks in rich color and prevents discoloration, ensuring your capped composite deck boards look beautiful for decades to come",
+      "Extremely low maintenance, needing only an occasional scrub and rinse with the appropriate brush and cleaner (see care &amp; cleaning guide for details)",
+      "Hidden clip fasteners for grooved-shoulder composite deck boards provide a clean, fastener-free surface (fasteners sold separately)",
+      "Color-matched top-down fasteners for square-shoulder composite deck boards provide a subtle blended-in look (fasteners sold separately)",
+      "Requires no special tools for installation, regardless of fastener choice (see decking installation guide for more details)",
+      "<a href=\"https://www.homedepot.com/p/TimberTech-EDGELoc-for-Composite-55-sq-ft-96-EdgeLoc-Glass-Filled-Nylon-Fasteners-with-96-Preset-305SS-Screws-and-T15-Drive-Bit-ELOC55/324324096\" target=\"_blank\" style=\"color:#F96302;\">Get Your Fastener Here!</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Deck-Board-Samples/TimberTech/N-5yc1vZc6ljZ7u7\" target=\"_blank\" style=\"color:#F96302;\">Shop All TimberTech Deck Board Color Samples</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Fascia-Boards/TimberTech/N-5yc1vZcd5kZ7u7 \" target=\"_blank\" style=\"color:#F96302;\">Shop TimberTech Fascia Boards</a>"
+    ],
+    "descriptive_attributes_count": 13,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/8772aa88-a462-4549-8cab-34e535bbc4b4/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5e707423-d1af-4866-ad43-f8059c609c56/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3be51147-44fb-4627-8154-855bb3c96deb/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5a605d8b-baf9-43bf-a495-d1c72cc97193/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/260479f6-87c7-455d-82c1-2c218772fca6/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7d7c4792-edc5-4808-9591-08236699526a/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3ac4958a-9f99-46a7-acc9-e276927c7c7e/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f4b1c15b-3951-40f5-97a3-441b126a4de2/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b9a86239-a929-4aaf-8d2d-23e741239335/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d749631-9de8-4960-8297-11bb546aa523/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19c74a4c-e340-4abb-8d15-5d42e829cd83/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/8772aa88-a462-4549-8cab-34e535bbc4b4/svn/dark-cocoa-timbertech-composite-decking-boards-esgv5416dc-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 31,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Dark Cocoa"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "CONCEALoc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25-Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "34"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Dark Cocoa~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/TimberTech-Prime-1-in-x-6-in-x-16-ft-Dark-Cocoa-Grooved-Edge-Composite-Decking-Board-ESGV5416DC/325129489",
+        "item_id": "325129489"
+      },
+      {
+        "title": "Dak Cocoa~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/TimberTech-Prime-1-in-x-6-in-x-12-ft-Dark-Cocoa-Grooved-Edge-Composite-Decking-Board-ESGV5412DC/325100109",
+        "item_id": "325100109"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

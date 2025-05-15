@@ -1,0 +1,198 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13665,
+    "overage_used": 3665,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Shoreside-1-in-x-5-4-in-x-20-ft-Groove-Capped-Composite-Decking-10-Piece-H-Pack-3550941P/331836920"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:13.677Z",
+    "processed_at": "2025-05-01T16:53:19.603Z",
+    "total_time_taken": 5.93,
+    "homedepot_url": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Shoreside-1-in-x-5-4-in-x-20-ft-Groove-Capped-Composite-Decking-10-Piece-H-Pack-3550941P/331836920"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Shoreside-1-in-x-5-4-in-x-20-ft-Groove-Capped-Composite-Decking-10-Piece-H-Pack-3550941P/331836920",
+    "brand": "MoistureShield",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/MoistureShield/N-5yc1vZc5mbZfn1",
+    "title": "MoistureShield Meridian CoolDeck Shoreside 1 in. x 5.4 in. x 20 ft. Groove Capped Composite Decking 10-Piece H-Pack",
+    "upc": "742786925800",
+    "item_id": "331836920",
+    "parent_id": "334162940",
+    "store_sku": "1012539918",
+    "model_number": "3550941P",
+    "description": "Create the perfect escape. Get a natural look without all the upkeep. Our resilient, color-enriched Meridian deck boards feature TruTexture Surface. This capped composite decking with a low-profile wood grain pattern and reduced pattern repetition evokes the look and feel of realwood and is combined with all the protection and performance of the Solid Core Difference. Experience the beauty of a sanctuary that can be enjoyed for a lifetime.",
+    "descriptive_attributes": [
+      "Find additional defense against the elements with moisture shield's solid core technology which maintains its leading performance with zero structural field failures even on the ground, in the ground and in the water",
+      "Backed by a 50-year structural warranty plus a 40-year fade and stain warranty",
+      "Cool deck technology to help reduce heat transfer and surface temperature",
+      "Full 1 in solid profile for a traditional deck look and enhance design opportunities",
+      "Moisture shield meridian's tru texture coating utilizes advanced techniques to deliver lower pattern repetition, rich color variegation and a realistic wood grain texture in each composite decking board",
+      "Sustainability matters, that's why all moisture shield decking products are made with an environmentally friendly 95% recycled content",
+      "Easy to clean, just use soapy water",
+      "Actual dimension 1 in. x 5.4 in.",
+      "Pack of 10 deck boards",
+      "For custom quantities please visit your local pro desk"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/504b3bfc-4661-4d81-b321-3d3dda3824e1/svn/brown-moistureshield-composite-decking-boards-3550941p-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/85638fec-310d-4eb0-8668-d6e20605f166/svn/brown-moistureshield-composite-decking-boards-3550941p-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/504b3bfc-4661-4d81-b321-3d3dda3824e1/svn/brown-moistureshield-composite-decking-boards-3550941p-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Composite Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Pool,Prefinished,UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "200"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "50-year Structural Warranty plus 40-year Fade & Stain"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "562"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Brown~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Shoreside-1-in-x-5-4-in-x-16-ft-Groove-Capped-Composite-Decking-10-Piece-H-Pack-3550939P/331836915",
+        "item_id": "331836915"
+      },
+      {
+        "title": "Brown~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Shoreside-1-in-x-5-4-in-x-12-ft-Groove-Capped-Composite-Decking-10-Piece-H-Pack-3550937P/331836910",
+        "item_id": "331836910"
+      },
+      {
+        "title": "Brown~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/MoistureShield-Meridian-CoolDeck-Shoreside-1-in-x-5-4-in-x-20-ft-Groove-Capped-Composite-Decking-10-Piece-H-Pack-3550941P/331836920",
+        "item_id": "331836920"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 956.67,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "bundle",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 0,
+          "start_date": "2025-05-14",
+          "end_date": "2025-05-19"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{% extends "lowes_base.html" %}
+
+{% block title %}Lowe's Scraper - Job {{ job.job_id }}{% endblock %}
+
+{% block content %}
+<div class="job-details-page" data-job-id="{{ job.job_id }}">
+<div class="row">
+    <div class="col-md-12 mb-4">
+        <a href="/lowes/jobs" class="btn download-btn" style="width: auto !important; display: inline-block !important;">&laquo; BACK TO JOBS</a>
+    </div>
+
+    <div class="col-md-12">
+        <div class="card pixel-border mb-4">
+            <div class="card-header bg-primary">
+                <div class="d-flex align-items-center">
+                    <div class="lowes-logo me-3" style="width: 40px; height: 40px;"></div>
+                    <h2 class="mb-0 jobs-title">Job #{{ job.job_id }} Details</h2>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3 class="mb-3" style="font-family: 'Press Start 2P', cursive; font-size: 1rem; color: #0052cc;">Job Information</h3>
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <th>Status</th>
+                                    <td>
+                                        <span class="badge {% if job.status == 'RUNNING' %}bg-primary{% elif job.status == 'COMPLETED' %}bg-success{% elif job.status == 'FAILED' %}bg-danger{% elif job.status == 'STOPPED' %}bg-warning{% endif %}">
+                                            {{ job.status }}
+                                            {% if job.status == 'RUNNING' %}
+                                                <span class="blink">●</span>
+                                            {% endif %}
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>Search Type</th>
+                                    <td>{{ job.search_type }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Started</th>
+                                    <td>{{ job.start_time }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Completed</th>
+                                    <td>{{ job.end_time if job.end_time else 'In Progress' }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Products Collected</th>
+                                    <td>{{ job.products_collected }}/{{ job.max_products if job.max_products > 0 else 'ALL' }}</td>
+                                </tr>
+                                <tr>
+                                    <th>Output Format</th>
+                                    <td>{{ job.output_format }}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="col-md-6">
+                        <h3 class="mb-3" style="font-family: 'Press Start 2P', cursive; font-size: 1rem; color: #0052cc;">Job Progress</h3>
+                        <div class="progress mb-3" style="height: 30px;">
+                            <div class="progress-bar" role="progressbar" style="width: {{ job.progress }}%;" aria-valuenow="{{ job.progress }}" aria-valuemin="0" aria-valuemax="100">{{ job.progress }}%</div>
+                        </div>
+
+                        <div id="live-status" class="mb-4">
+                            <h4 class="mb-3" style="font-family: 'Press Start 2P', cursive; font-size: 0.9rem; color: #0052cc;">Status</h4>
+                            <div class="status-line">{{ job.status_message }}</div>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            {% if job.status == 'RUNNING' %}
+                                <button id="stop-job" class="btn btn-danger">Stop Job</button>
+                            {% endif %}
+
+                            {% if job.status == 'COMPLETED' or job.status == 'STOPPED' %}
+                                <a href="/lowes/api/download/{{ job.job_id }}" class="btn download-btn">
+                                    <i class="fas fa-download me-2"></i> DOWNLOAD
+                                </a>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-md-12">
+                        <h3 class="mb-3" style="font-family: 'Press Start 2P', cursive; font-size: 1rem; color: #0052cc;">Detailed Process Log</h3>
+                        <div id="detailed-live-log" style="max-height: 500px; overflow-y: auto; background-color: #000; color: #0052cc; padding: 15px; border: 4px solid #0052cc; font-family: monospace; font-size: 0.9rem; line-height: 1.4;">
+                            <div id="detailed-log-content">
+                                {% for message in log_messages %}
+                                    {% if not 'API key' in message and not 'password' in message and not 'secret' in message and not 'token' in message %}
+                                        <div class="detailed-log-line">{{ message }}</div>
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card pixel-border">
+            <div class="card-header bg-primary">
+                <div class="d-flex align-items-center">
+                    <div class="lowes-logo me-3" style="width: 30px; height: 30px;"></div>
+                    <h3 class="mb-0 jobs-title">Log Messages</h3>
+                </div>
+            </div>
+            <div class="card-body">
+                <div id="log-container" style="max-height: 400px; overflow-y: auto; background-color: #000; color: #0052cc; padding: 15px; border: 4px solid #0052cc; font-family: 'Press Start 2P', cursive; font-size: 0.7rem;">
+                    {% for message in log_messages %}
+                        {% if not 'API key' in message and not 'password' in message and not 'secret' in message and not 'token' in message %}
+                            <div class="log-message">{{ message }}</div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    $(document).ready(function() {
+        // Auto-refresh the page every 5 seconds if the job is running
+        const isRunning = {{ 'true' if job.status == 'RUNNING' else 'false' }};
+
+        if (isRunning) {
+            const refreshInterval = setInterval(function() {
+                // Fetch updated job status
+                $.getJSON('/lowes/api/job/{{ job.job_id }}', function(data) {
+                    // Update progress
+                    $('.progress-bar').css('width', data.progress + '%').attr('aria-valuenow', data.progress).text(data.progress + '%');
+
+                    // Update status message
+                    $('.status-line').text(data.status_message);
+
+                    // Update log messages
+                    $('#log-container').empty();
+                    data.log_messages.forEach(function(message) {
+                        if (!message.includes('API key') && !message.includes('password') && !message.includes('secret') && !message.includes('token')) {
+                            $('#log-container').append('<div class="log-message">' + message + '</div>');
+                        }
+                    });
+
+                    // Update detailed log
+                    const detailedLogContent = $('#detailed-log-content');
+                    detailedLogContent.empty();
+
+                    if (data.log_messages.length > 0) {
+                        data.log_messages.forEach(function(log) {
+                            // Skip sensitive information
+                            if (log.includes('API key') ||
+                                log.includes('password') ||
+                                log.includes('secret') ||
+                                log.includes('token')) {
+                                return;
+                            }
+
+                            // Format the log message for better readability
+                            let formattedLog = log;
+
+                            // Enhanced color-coding for different types of log messages
+                            // Success messages
+                            if (log.includes('Successfully') || log.includes('successfully') || log.includes('Success') || log.includes('success')) {
+                                formattedLog = '<span style="color: #00ff00; font-weight: bold;">' + log + '</span>';
+                            }
+                            // Error messages
+                            else if (log.includes('ERROR') || log.includes('Error') || log.includes('error') || log.includes('failed') || log.includes('Failed')) {
+                                formattedLog = '<span style="color: #ff0000; font-weight: bold;">' + log + '</span>';
+                            }
+                            // Warning messages
+                            else if (log.includes('WARNING') || log.includes('Warning') || log.includes('warning')) {
+                                formattedLog = '<span style="color: #ffff00; font-weight: bold;">' + log + '</span>';
+                            }
+                            // Product data extraction
+                            else if (log.includes('Found SKU') || log.includes('Found price') || log.includes('Found description') ||
+                                     log.includes('product data') || log.includes('Product data') || log.includes('extracted')) {
+                                formattedLog = '<span style="color: #00ffff;">' + log + '</span>';
+                            }
+                            // Processing activities
+                            else if (log.includes('Processing') || log.includes('processing')) {
+                                formattedLog = '<span style="color: #ff9d7d;">' + log + '</span>';
+                            }
+                            // Product URLs
+                            else if (log.includes('product URL') || log.includes('Product URL')) {
+                                formattedLog = '<span style="color: #fd67a3;">' + log + '</span>';
+                            }
+                            // Page scraping activities - highlighted prominently
+                            else if (log.includes('Scraping page') || log.includes('page') || log.includes('Page')) {
+                                formattedLog = '<span style="color: #00ffff; font-weight: bold; text-decoration: underline;">' + log + '</span>';
+                            }
+                            // URLs being processed
+                            else if (log.includes('URL:') || log.includes('url:') || log.includes('http')) {
+                                formattedLog = '<span style="color: #ff9d7d; font-weight: bold;">' + log + '</span>';
+                            }
+                            // Fetching operations
+                            else if (log.includes('Fetching') || log.includes('fetching') || log.includes('Downloading') || log.includes('downloading')) {
+                                formattedLog = '<span style="color: #fd67a3; font-weight: bold;">' + log + '</span>';
+                            }
+
+                            detailedLogContent.append('<div class="detailed-log-line">' + formattedLog + '</div>');
+                        });
+                    } else {
+                        // If no detailed logs found, show a message
+                        detailedLogContent.append('<div class="detailed-log-line">Waiting for scraper logs...</div>');
+                    }
+
+                    // Scroll to bottom of logs
+                    $('#log-container').scrollTop($('#log-container')[0].scrollHeight);
+                    $('#detailed-live-log').scrollTop($('#detailed-live-log')[0].scrollHeight);
+
+                    // If job is no longer running, reload the page to show download button
+                    if (data.status !== 'RUNNING') {
+                        clearInterval(refreshInterval);
+                        window.location.reload();
+                    }
+                });
+            }, 1000);
+        }
+
+        // Stop job button
+        $('#stop-job').click(function() {
+            if (confirm('Are you sure you want to stop this job? Partial results will be saved.')) {
+                $.post('/lowes/api/stop_job/{{ job.job_id }}', function(data) {
+                    if (data.success) {
+                        window.location.reload();
+                    } else {
+                        alert('Error stopping job: ' + data.error);
+                    }
+                });
+            }
+        });
+
+        // Scroll to bottom of logs on page load
+        $('#log-container').scrollTop($('#log-container')[0].scrollHeight);
+        $('#detailed-live-log').scrollTop($('#detailed-live-log')[0].scrollHeight);
+    });
+</script>
+{% endblock %}

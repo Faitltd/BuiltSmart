@@ -1,0 +1,198 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14851,
+    "overage_used": 4851,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-12-in-x-20-ft-2-Premium-Grade-Fir-Dimensional-Lumber-714771/202094204"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:50:07.699Z",
+    "processed_at": "2025-05-01T19:51:02.115Z",
+    "total_time_taken": 54.42,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-12-in-x-20-ft-2-Premium-Grade-Fir-Dimensional-Lumber-714771/202094204"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-12-in-x-20-ft-2-Premium-Grade-Fir-Dimensional-Lumber-714771/202094204",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 12 in. x 20 ft. #2 Premium Grade Fir Dimensional Lumber",
+    "upc": "073291332204",
+    "item_id": "202094204",
+    "parent_id": "300151939",
+    "store_sku": "714771",
+    "model_number": "714771",
+    "description": "Every piece of 2 in. x 12 in. x 20 ft. Premium #2 and Better  Fir Lumber meets high grading standards for strength and appearance, and is easy to cut, fasten and paint, making this the best choice for many building projects. This product is third-party certified, signifying sourcing from renewable and environmentally managed forests.",
+    "favorite_count": 232,
+    "feature_bullets": [
+      "Meets high grading standards for strength and appearance",
+      "Easy to cut, fasten and paint, perfect for many building projects",
+      "Renewable resource from environmentally managed forests"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "A dimensionally stable product known for its strength and excellent nail-holding capabilities",
+      "Precision-graded for consistent appearance and minimal waste",
+      "A square-edge appearance with minimal wane and warp for a bright and clean appearance",
+      "1.5 in. x 11.25 in. x 20 ft.",
+      "Perfect for framing, floor joists, wall panels, roof trusses and stair components",
+      "Note: Product may vary by store.",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bc27550b-6f70-4911-8e60-3f7c8f0aed7a/svn/framing-lumber-714771-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bc27550b-6f70-4911-8e60-3f7c8f0aed7a/svn/framing-lumber-714771-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzlkOGRfMDc5ODAxMTE2MzhmMDlhODFhYjA1ZDUzMDVmNTA3NzgzODJkMDUxODIxMTdlNjVkNWI1NzM5ODBjOWVlMWJkZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 503,
+    "rating": 3.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "No. 2 & Btr S4S"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "keywords_list": [
+      "lumber",
+      "untreated lumber",
+      "wood",
+      "untreated wood",
+      "douglas fir lumber",
+      "douglas fir wood",
+      "2 in. x 12 in. x 20 ft. lumber",
+      "2 in. x 12 in. x 20 ft. wood"
+    ],
+    "keywords": "lumber, untreated lumber, wood, untreated wood, douglas fir lumber, douglas fir wood, 2 in. x 12 in. x 20 ft. lumber, 2 in. x 12 in. x 20 ft. wood",
+    "variants": [
+      {
+        "title": "14 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-14-ft-2-Premium-Grade-Fir-Dimensional-Lumber-553135/202094266",
+        "item_id": "202094266"
+      },
+      {
+        "title": "10 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-10-ft-2-Premium-Grade-Fir-Dimensional-Lumber-707231/202094202",
+        "item_id": "202094202"
+      },
+      {
+        "title": "8 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-8-ft-2-Premium-Grade-Fir-Dimensional-Lumber-707195/202094201",
+        "item_id": "202094201"
+      },
+      {
+        "title": "20 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-20-ft-2-Premium-Grade-Fir-Dimensional-Lumber-714771/202094204",
+        "item_id": "202094204"
+      },
+      {
+        "title": "16 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-16-ft-2-Premium-Grade-Fir-Dimensional-Lumber-33215/202094192",
+        "item_id": "202094192"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

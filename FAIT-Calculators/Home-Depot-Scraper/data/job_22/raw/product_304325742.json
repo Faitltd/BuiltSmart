@@ -1,0 +1,204 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14746,
+    "overage_used": 4746,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/ULTRASTOCK-3-4-in-x-4-ft-x-8-ft-MDF-Panel-D11612490970000/304325742"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:08:42.790Z",
+    "processed_at": "2025-05-01T19:08:47.573Z",
+    "total_time_taken": 4.78,
+    "homedepot_url": "https://www.homedepot.com/p/ULTRASTOCK-3-4-in-x-4-ft-x-8-ft-MDF-Panel-D11612490970000/304325742"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/ULTRASTOCK-3-4-in-x-4-ft-x-8-ft-MDF-Panel-D11612490970000/304325742",
+    "brand": "ULTRASTOCK",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/ULTRASTOCK/N-5yc1vZbtn1Zzqp",
+    "title": "ULTRASTOCK 3/4 in. x 4 ft. x 8 ft. MDF Panel",
+    "upc": "081999562809",
+    "item_id": "304325742",
+    "parent_id": "329046509",
+    "store_sku": "201566",
+    "model_number": "D11612490970000",
+    "description": "MDF is valued for its defect-free composition and highly uniform density that allow it to cut, rout, shape and drill cleanly, holding intricate detail with a minimum of waste and tool wear. Panel for panel, it's hard to beat for material efficiency, machining performance and productivity. MDF also finishes beautifully and consistently. Its flat, smooth surface delivers exceptional results whether laminated, direct printed or painted. Sanded with a range of available grits, it performs well even with very thin overlays and dark paint colors. Dimensional stability is another important benefit. That means swelling and thickness variations are virtually eliminated when using this product. The precision craftsmen machine into their component parts during production will be maintained in the assembled product they produce. Fasteners will draw tight and end users will enjoy the accurate fit and clean appearance.",
+    "is_bestseller": true,
+    "favorite_count": 3207,
+    "aisle": "20",
+    "bay": "014",
+    "feature_bullets": [
+      "Smooth and completely defect free",
+      "Perfect for painting, staining, veneers with excellent results",
+      "No assembly required"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Offers a smooth, consistent face that is completely defect free",
+      "High-quality, high-energy-refined fibers and consistent densities of Ultrastock select provide the ideal characteristics to cut and route clean",
+      "Smooth surface polished with a final 150 grit finish",
+      "Perfectly suited for paints, stains, veneers or laminates-all with excellent results",
+      "Note: Product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a10c7bdd-f6c7-403c-b28b-eb9b2ea4f1c5/svn/ultrastock-mdf-d11612490970000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a72e590c-6593-477b-8def-c46c226583f3/svn/ultrastock-mdf-d11612490970000-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7ec00e59-8eed-4123-bf82-a70f66777fe7/svn/ultrastock-mdf-d11612490970000-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/04381c21-17e3-4858-ac90-c5b41267277a/svn/ultrastock-mdf-d11612490970000-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d10641c2-ad6a-49c0-ab16-b244c1e6db01/svn/ultrastock-mdf-d11612490970000-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/396808c5-a0d5-47ed-9d39-f9e3964bdac1/svn/ultrastock-mdf-d11612490970000-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a10c7bdd-f6c7-403c-b28b-eb9b2ea4f1c5/svn/ultrastock-mdf-d11612490970000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 680,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "MDF"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "na"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "97.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "49 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "Temple-Inland",
+      "3/4 in. x 49 in. x 97 in. Medium Density Fiberboard",
+      "M11161249097000000A"
+    ],
+    "keywords": "Temple-Inland, 3/4 in. x 49 in. x 97 in. Medium Density Fiberboard, M11161249097000000A",
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~1/2",
+        "link": "https://www.homedepot.com/p/ULTRASTOCK-1-2-in-x-4-ft-x-8-ft-MDF-Panel-M31240849097000000A/202332602",
+        "item_id": "202332602"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~3/4",
+        "link": "https://www.homedepot.com/p/ULTRASTOCK-3-4-in-x-4-ft-x-8-ft-MDF-Panel-D11612490970000/304325742",
+        "item_id": "304325742"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "MDF",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-MDF/N-5yc1vZbtn1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 48.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 18
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 546,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

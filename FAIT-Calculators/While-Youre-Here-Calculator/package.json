@@ -1,0 +1,15 @@
+{
+  "name": "handyman-cost-calculator",
+  "version": "1.0.0",
+  "description": "Handyman Cost Calculator",
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "npm run setup && http-server . -p 8083",
+    "test": "cypress open",
+    "test:headless": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0",
+    "http-server": "^14.1.1"
+  }
+}

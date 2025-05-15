@@ -1,0 +1,288 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13678,
+    "overage_used": 3678,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Henry-587-Dura-Brite-White-100-Acrylic-Elastomeric-Reflective-Roof-Coating-0-90-gal-HE587146/202091035"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:48.780Z",
+    "processed_at": "2025-05-01T16:53:54.356Z",
+    "total_time_taken": 5.58,
+    "homedepot_url": "https://www.homedepot.com/p/Henry-587-Dura-Brite-White-100-Acrylic-Elastomeric-Reflective-Roof-Coating-0-90-gal-HE587146/202091035"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Henry-587-Dura-Brite-White-100-Acrylic-Elastomeric-Reflective-Roof-Coating-0-90-gal-HE587146/202091035",
+    "brand": "Henry",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Coatings/Henry/N-5yc1vZaqu6Z2wn",
+    "title": "Henry 587 Dura-Brite White 100% Acrylic Elastomeric Reflective Roof Coating 0.90 gal.",
+    "upc": "081725043350",
+    "item_id": "202091035",
+    "parent_id": "327828538",
+    "store_sku": "665579",
+    "model_number": "HE587146",
+    "description": "Henry 587 100% Acrylic Dura-Brite White Elastomeric Roof Coating is a premium, high solids, reflective roof coating. Its elongation, peel strength and solar reflectance values offer weather protection, high solar reflectivity and superior longevity when compared to economy grade reflective roof coatings. When cured, it allows moisture vapor to vent or breathe out of underlying substrate.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "favorite_count": 249,
+    "aisle": "25",
+    "bay": "021",
+    "feature_bullets": [
+      "100% acrylic, energy efficient, reflective roof coating",
+      "Lowers interior temps and saves money on energy costs",
+      "Extends roof life and is backed by a 10 year warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Bright white with excellent hiding power",
+      "Reflects greater than 73% of sun's heat and UV rays after 3-years; prolongs roof life",
+      "Lowers roof and interior temperatures; reduces air conditioning costs",
+      "Elastomeric water-based 100% acrylic latex coating expands and contracts without cracking",
+      "Mildew and stain resistant",
+      "Meets the requirements of California energy commission (CEC) title 24-section 118(i)3",
+      "Bonds to most roof surfaces including mobile homes, motor homes, old tar, asphalt, metal, concrete, roll roofing and modified rolls",
+      "Apply with a brush, sprayer or 3/4 in. pile paint roller to cover 100 sq. ft. per gal. on already white roofs",
+      "10-year limited warranty with 1-time application",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/energy-efficiency/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Energy Efficiency</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/42b07cd8-8108-44e7-8e83-a17b550b894b/svn/henry-roof-coatings-he587146-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab31185a-db09-4231-b27c-54352ae2627a/svn/henry-roof-coatings-he587146-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/900a26e2-99e7-4ae5-a217-e738f70cd951/svn/henry-roof-coatings-he587146-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6db65d08-668a-47ff-afe5-5ce2ec22185a/svn/henry-roof-coatings-he587146-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/953cfd63-78d2-4b66-b972-91327f9f7e14/svn/henry-roof-coatings-he587146-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/361141c3-4a6e-4b3d-a0ed-2458f5fbba62/svn/henry-roof-coatings-he587146-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3a61449c-b1fa-47ef-81c1-e1a1f4b10292/svn/henry-roof-coatings-he587146-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/179c8310-9e6e-4c61-9044-37a7c63f5959/svn/henry-roof-coatings-he587146-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/42b07cd8-8108-44e7-8e83-a17b550b894b/svn/henry-roof-coatings-he587146-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/b7011e34-2bb8-44f8-9f0f-1455f8ce4060/14749f0b-04ec-47b5-b359-c12d39f4ca1c/main.mp4?fastly_token=NjgzODI3NjZfYmFlN2M4NmEyNjI4MzhiZTU0MTliMjRkY2JmZGU3NDhjNzIwNjE4MTM4MGM3NDRjZGNiMTFlOTYwOTcwZTA5ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iNzAxMWUzNC0yYmI4LTQ0ZjgtOWYwZi0xNDU1ZjhjZTQwNjAvMTQ3NDlmMGItMDRlYy00N2I1LWIzNTktYzEyZDM5ZjRjYTFjL21haW4ubXA0&pubid=66036796001",
+        "title": "Why use a Henry White Roof Coating on your flat or low slope roof",
+        "id": "4679032077001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/e7229205-4819-421a-9b36-9b1bd4169ffb/8535d294-d432-441e-8003-239abb5790ee/160x90/match/image.jpg",
+        "description": "How-to Video on why use a Henry White Roof Coating on your flat or low slope roof. "
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/85793d7f-4c92-4dc4-8497-e81266298d5f/2081b696-0c06-4ea5-aa6c-c9fdd41b18a9/main.mp4?fastly_token=NjgzODI5ZDFfY2I4NmIzZDBlNmNmNmExY2ViZDEzNTg0NjZhZmU4Njk5NDY1NjRmNTdhN2UxZWI1MWI3ODBkZWJmNWQxZTMxN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS84NTc5M2Q3Zi00YzkyLTRkYzQtODQ5Ny1lODEyNjYyOThkNWYvMjA4MWI2OTYtMGMwNi00ZWE1LWFhNmMtYzlmZGQ0MWIxOGE5L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Choose the Best Henry\u00ae Elastomeric White Roof Coating",
+        "id": "6163949295001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/85fdb0fe-4c07-4701-a2c4-0c997c649de2/9193d340-fd8f-4311-b87c-24faaa53bbd8/160x90/match/image.jpg",
+        "description": "How to Choose the Best Henry\u00ae Elastomeric White Roof Coating - Acrylic White Roof Coatings"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/381d0d83-6246-45e2-a932-95d22e6b4335/89cb371b-b7c2-4559-abb9-56eea957ab22/main.mp4?fastly_token=NjgzODI3YTBfYzgyODZlMmE5NTZkNTFhYTRiOGRlY2RhZTE0MWY0MjY0NWNmNWZiMTY0NjVjMDc1N2RmZmUyODI1ZTVlNjRjOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8zODFkMGQ4My02MjQ2LTQ1ZTItYTkzMi05NWQyMmU2YjQzMzUvODljYjM3MWItYjdjMi00NTU5LWFiYjktNTZlZWE5NTdhYjIyL21haW4ubXA0&pubid=66036796001",
+        "title": "Henry\u00ae 687 100% Acrylic Enviro-White\u2122 Extreme Elastomeric Roof Coating",
+        "id": "6316763463112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/0171576c-71c2-48f1-8b00-71d2712edef4/3223ecf4-9746-445c-b741-f27720e7e5af/160x90/match/image.jpg",
+        "description": "Henry 687 Enviro-White is a cost-effective, energy-efficient, premium, high solids, white reflective, elastomeric roof coating that reflects most of the sun's heat and amazing UV rays, and save money by lowering AC bills and extending roof life."
+      }
+    ],
+    "ratings_total": 921,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Brush On,Roll On,Spray On"
+      },
+      {
+        "group_name": "Details",
+        "name": "Approximate Coverage Per Gallon (sq. ft)",
+        "value": "100"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coating Base",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cold Applied",
+        "value": "Cold Applied"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Cool Roof Certified,Corrosion Resistant,Extreme Heat,High Reflectivity,Mildew Resistant,Rust Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "No Rating Available"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number per Package",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package size (gallons)",
+        "value": "0.9 gal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Reflectivity Rating (%)",
+        "value": "84"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Reflective Roof Coating"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Recommended",
+        "value": "Coated Roofs,Metal,Metal Roofs,Rubberrized-Asphalt,Rubberrized-Mastic"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10-year limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "6.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "7.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size (oz.)",
+        "value": "115.2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6.5 in"
+      }
+    ],
+    "keywords_list": [
+      "roof coating",
+      "commercial roof coating",
+      "white roof coating",
+      "commercial white roof coating",
+      "residential roof coating",
+      "residential white roof coating"
+    ],
+    "keywords": "roof coating, commercial roof coating, white roof coating, commercial white roof coating, residential roof coating, residential white roof coating",
+    "variants": [
+      {
+        "title": "White~~0.9 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-587-Dura-Brite-White-100-Acrylic-Elastomeric-Reflective-Roof-Coating-0-90-gal-HE587146/202091035",
+        "item_id": "202091035"
+      },
+      {
+        "title": "White~~4.75 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-587-Dura-Brite-White-100-Acrylic-Elastomeric-Reflective-Roof-Coating-4-75-gal-HE587871/202091022",
+        "item_id": "202091022"
+      },
+      {
+        "title": "White~~55 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-587-Dura-Brite-White-100-Acrylic-Elastomeric-Reflective-Roof-Coating-55-gal-HE587093/205924368",
+        "item_id": "205924368"
+      },
+      {
+        "title": "White~~4.75 gal~~24",
+        "link": "https://www.homedepot.com/p/Henry-587-Dura-Brite-White-100-Acrylic-Elastomeric-Reflective-Roof-Coating-4-75-gal-24-Piece-HE587072/202220929",
+        "item_id": "202220929"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Commercial Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing/N-5yc1vZapzz"
+      },
+      {
+        "name": "Roof Coatings",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Coatings/N-5yc1vZaqu6"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 22,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

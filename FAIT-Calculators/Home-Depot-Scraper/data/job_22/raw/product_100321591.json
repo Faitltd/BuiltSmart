@@ -1,0 +1,230 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14756,
+    "overage_used": 4756,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-ft-x-8-ft-Firecode-X-Drywall-14211011308/100321591"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:10:53.891Z",
+    "processed_at": "2025-05-01T19:11:00.922Z",
+    "total_time_taken": 7.03,
+    "homedepot_url": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-ft-x-8-ft-Firecode-X-Drywall-14211011308/100321591"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-ft-x-8-ft-Firecode-X-Drywall-14211011308/100321591",
+    "brand": "USG Sheetrock Brand",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Sheets/USG-Sheetrock-Brand/N-5yc1vZbb52Zomd",
+    "title": "USG Sheetrock Brand 5/8 in. x 4 ft. x 8 ft. Firecode X Drywall",
+    "upc": "081099000362",
+    "item_id": "100321591",
+    "parent_id": "308052146",
+    "store_sku": "419109",
+    "model_number": "14211011308",
+    "description": "USG Sheetrock Brand Firecode X Panels are fire-resistant Type X gypsum panels that feature a noncombustible gypsum core. Long edges of the panels are tapered for easy finishing, allowing joints to be reinforced and concealed with Sheetrock Brand joint treatment systems. UL Classified for fire resistance, they can be used in any UL Design in which Type SCX panels are listed. The UL Type Designation is printed on the face along the long edge of each panel for easy identification by building inspectors.",
+    "is_top_rated": true,
+    "favorite_count": 3134,
+    "collection": {
+      "id": "Family-313327274",
+      "name": "Family-313327274",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Drywall-Project-Collection/Family-313327274?omsid=100321591"
+    },
+    "feature_bullets": [
+      "Fire-resistant gypsum drywall for interior applications",
+      "The original, most-trusted 5/8 in. Type X drywall",
+      "Scores and snaps easily; quick installation and decoration"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Resistant to cracking and warping",
+      "Ideal for commercial or residential applications where 5/8 in. Type X panels are required, including load-bearing and nonload-bearing wood- or steel-framed fire-rated walls and ceilings; repair and remodel construction",
+      "Comply with ASTM C1396, Standard Specification for Gypsum Board",
+      "UL Classification as to fire resistance, surface-burning characteristics and noncombustibility",
+      "GREENGUARD Gold certified for low-emitting performance",
+      "Sold by single drywall panel"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2dbf550b-1f1e-4c40-bbed-5ef189af36a2/svn/usg-sheetrock-brand-drywall-sheets-14211011308-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f96537a1-ebd7-4574-af54-b4773430206c/svn/usg-sheetrock-brand-drywall-sheets-14211011308-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/328de17d-4976-437a-94b9-48502bd3cee0/svn/usg-sheetrock-brand-drywall-sheets-14211011308-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/08b0341f-6eb6-4d96-96ee-f114e3d43771/svn/usg-sheetrock-brand-drywall-sheets-14211011308-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2fb4f2fd-cae6-4c4e-86cb-1bb945539f44/svn/usg-sheetrock-brand-drywall-sheets-14211011308-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c5354c03-9892-4479-af0f-278adad0cc0f/svn/usg-sheetrock-brand-drywall-sheets-14211011308-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e54e6a19-e662-49b6-8477-cc233cdd4cd6/svn/usg-sheetrock-brand-drywall-sheets-14211011308-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eb40ef35-121e-4d28-8b68-d9992cb914d1/svn/usg-sheetrock-brand-drywall-sheets-14211011308-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/81499973-120a-4fe8-b701-69e7c8eca105/svn/usg-sheetrock-brand-drywall-sheets-14211011308-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9e124926-130c-4792-9814-0d56cd2cc786/svn/usg-sheetrock-brand-drywall-sheets-14211011308-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/65b27d7a-5246-41b9-879d-a48baefb1999/svn/usg-sheetrock-brand-drywall-sheets-14211011308-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3abe0e54-c667-4344-b7f2-b0e648bf15b5/svn/usg-sheetrock-brand-drywall-sheets-14211011308-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2dbf550b-1f1e-4c40-bbed-5ef189af36a2/svn/usg-sheetrock-brand-drywall-sheets-14211011308-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 970,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Alt. Pricing_Product Length (ft.) x Product Width (ft.)",
+        "value": "32"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Fire Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "70.4 lb"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Drywall Product Thickness (in.)",
+        "value": "5/8 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Width (ft) x Length (ft)",
+        "value": "4x8"
+      }
+    ],
+    "keywords_list": [
+      "drywall",
+      "wallboard",
+      "fire-resistant drywall",
+      "fire-resistant wallboard",
+      "SHEETROCK Brand drywall",
+      "SHEETROCK Brand wallboard"
+    ],
+    "keywords": "drywall, wallboard, fire-resistant drywall, fire-resistant wallboard, SHEETROCK Brand drywall, SHEETROCK Brand wallboard",
+    "variants": [
+      {
+        "title": "4x12~~5/8 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-ft-x-12-ft-Firecode-X-Drywall-14211011312/100321595",
+        "item_id": "100321595"
+      },
+      {
+        "title": "4x10~~5/8 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-ft-x-10-ft-Firecode-X-Drywall-14211011310/202329691",
+        "item_id": "202329691"
+      },
+      {
+        "title": "4.5x12~~5/8 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-5-ft-x-12-ft-Firecode-X-Drywall-14222011312/302778549",
+        "item_id": "302778549"
+      },
+      {
+        "title": "4x8~~5/8 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-ft-x-8-ft-Firecode-X-Drywall-14211011308/100321591",
+        "item_id": "100321591"
+      },
+      {
+        "title": "4x9~~5/8 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-ft-x-9-ft-Firecode-X-Drywall-14211011309/202329713",
+        "item_id": "202329713"
+      },
+      {
+        "title": "4x6~~5/8 in.",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-5-8-in-x-4-ft-x-6-ft-Firecode-X-Drywall-14211011306/202329697",
+        "item_id": "202329697"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Drywall",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall/N-5yc1vZar3d"
+      },
+      {
+        "name": "Drywall Sheets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Sheets/N-5yc1vZbb52"
+      }
+    ],
+    "buybox_winner": {
+      "price": 17.78,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 868,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

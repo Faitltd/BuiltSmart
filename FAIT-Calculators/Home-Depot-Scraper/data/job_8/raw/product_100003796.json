@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13542,
+    "overage_used": 3542,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-3-in-x-84-in-Unfinished-Hardwood-Fluted-Door-Casing-Kit-5-Pieces-4000/100003796"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:48:57.464Z",
+    "processed_at": "2025-05-01T16:49:05.569Z",
+    "total_time_taken": 8.11,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-3-in-x-84-in-Unfinished-Hardwood-Fluted-Door-Casing-Kit-5-Pieces-4000/100003796"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-3-in-x-84-in-Unfinished-Hardwood-Fluted-Door-Casing-Kit-5-Pieces-4000/100003796",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Window-Door-Kits/HOUSE-OF-FARA/N-5yc1vZclg3Zucc",
+    "title": "HOUSE OF FARA 3/4 in. x  3 in. x  84 in. Unfinished Hardwood Fluted Door Casing Kit (5-Pieces)",
+    "upc": "043559040004",
+    "item_id": "100003796",
+    "store_sku": "356824",
+    "model_number": "4000",
+    "description": "The House of Fara 3/4 in. x 3 in. x 7 ft. Hardwood Fluted Door Trim Casing Set contains both the Moulding and rosettes that you will need for trimming any door size up to 40 in. wide and 7 feet tall. No miter cuts are required, so with a straight cut, you can be sure each corner will look neat, clean and professional. This traditional fluted casing set will add both a unique detail and architectural touch to any room or project. Its clean wood grain is perfect for clear coating, staining or painting to match your decor.",
+    "is_top_rated": true,
+    "favorite_count": 434,
+    "feature_bullets": [
+      "Includes moulding and rosettes needed for trimming door",
+      "Fluted casing adds architectural style to your room",
+      "Apply clear coat, stain or paint on wood grain to match decor"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Includes two 7 ft. sides, one 40 in. top piece and 2 rosette blocks",
+      "Perfect for clear coating, staining or painting",
+      "Constructed from solid Basswood",
+      "No mitre cuts required and easy to install",
+      "Hardwood fluted door trim set casing (up to 40 in. wide openings)"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1fc541b8-08bc-4e8d-8a73-2f4c551ab5ee/svn/natural-house-of-fara-window-door-kits-4000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79aca583-14a4-423b-bdfb-00bdbb750cd8/svn/natural-house-of-fara-window-door-kits-4000-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d487a598-c25c-47f2-b1b9-dbcd7fe511ad/svn/natural-house-of-fara-window-door-kits-4000-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/adaa94bc-c253-4fc8-a361-b1b228d77498/svn/natural-house-of-fara-window-door-kits-4000-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1fc541b8-08bc-4e8d-8a73-2f4c551ab5ee/svn/natural-house-of-fara-window-door-kits-4000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d6a00112-2a9d-415d-87b9-3b0f9f58d658/ce70335a-ca70-440b-bcad-92aa3f0d947a/main.mp4?fastly_token=NjgzODM4ZjhfMTdmMTFmOTg3MjZlYTM3NmIyYThhYTg2OGZiNzU4ZTM2MTVkNTc0N2ZhMWRjNzgxNmVlNDBmMmZkYzEwMmM2OF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kNmEwMDExMi0yYTlkLTQxNWQtODdiOS0zYjBmOWY1OGQ2NTgvY2U3MDMzNWEtY2E3MC00NDBiLWJjYWQtOTJhYTNmMGQ5NDdhL21haW4ubXA0&pubid=66036796001",
+        "title": "HouseOfFara",
+        "id": "5283968848001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/d6a00112-2a9d-415d-87b9-3b0f9f58d658/9dbf5d0c-5abf-4740-b6a0-2b61a4c2b327/160x90/match/image.jpg?pubId=66036796001",
+        "description": "How to install Base Blocks and Base Moulding"
+      }
+    ],
+    "ratings_total": 69,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Natural"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "4000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Satisfaction Guaranteed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "fluted moulding",
+      "casing set",
+      "fluted casing set",
+      "casing sets",
+      "fluted casing sets",
+      "wood moulding",
+      "wood casing set",
+      "wood casing sets",
+      "House of Fara moulding",
+      "House of Fara casing set",
+      "House of Fara casing sets"
+    ],
+    "keywords": "moulding, fluted moulding, casing set, fluted casing set, casing sets, fluted casing sets, wood moulding, wood casing set, wood casing sets, House of Fara moulding, House of Fara casing set, House of Fara casing sets",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Window & Door Kits",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Window-Door-Kits/N-5yc1vZclg3"
+      }
+    ],
+    "buybox_winner": {
+      "price": 64.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1999,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1999,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

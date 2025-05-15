@@ -1,0 +1,233 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14304,
+    "overage_used": 4304,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CPS-Composite-Plastic-Standoff-for-8x8-Nominal-Lumber-CPS7/204842291"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:25:29.004Z",
+    "processed_at": "2025-05-01T18:25:34.805Z",
+    "total_time_taken": 5.8,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CPS-Composite-Plastic-Standoff-for-8x8-Nominal-Lumber-CPS7/204842291"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-CPS-Composite-Plastic-Standoff-for-8x8-Nominal-Lumber-CPS7/204842291",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Simpson-Strong-Tie/N-5yc1vZc8hsZ615",
+    "title": "Simpson Strong-Tie CPS Composite Plastic Standoff for 8x8 Nominal Lumber",
+    "upc": "707392618706",
+    "item_id": "204842291",
+    "parent_id": "309902008",
+    "store_sku": "1000061811",
+    "model_number": "CPS7",
+    "description": "The CPS is a composite plastic standoff base that lifts the end of the post off the concrete to help prevent rot. It is designed for use with hollow or solid wood columns, both indoors and outdoors. The line includes bases for 4x4, 4x6, 5x5, 6x6, 8x8, 10x10 and 12x12 columns. All sizes are tested and load rated.",
+    "favorite_count": 31,
+    "feature_bullets": [
+      "Resists moisture and decay for enhanced durability",
+      "Designed for use with nominal lumber sizes for perfect fit",
+      "Lightweight and easy to install with minimal tools needed"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Use with nominal 8x8 post or column",
+      "Corrosion resistant",
+      "Provides code-required 1-in standoff",
+      "Engineered composite plastic",
+      "Install with 0.148 in. x 3 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-in-x-0-148-in-SCN-Smooth-Shank-HDG-Connector-Nail-50-Pack-10DHDG-R/206101773\" target=\"_blank\" style=\"color:#F96302;\">10DHDG</a>) and 5/8 in. diameter bolt",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0a04448e-57cb-43e4-97f0-f00425c0eed6/svn/simpson-strong-tie-post-bases-cps7-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6f150489-0499-42f6-85f9-3fd1221abee0/svn/simpson-strong-tie-post-bases-cps7-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ea9edd83-a62e-4e9f-8f5d-2593c64704b7/svn/simpson-strong-tie-post-bases-cps7-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-bases-cps7-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/64a2fc21-ba34-4b97-859e-fd386260098c/svn/simpson-strong-tie-post-bases-cps7-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-bases-cps7-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0a04448e-57cb-43e4-97f0-f00425c0eed6/svn/simpson-strong-tie-post-bases-cps7-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 42,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Standoff Post Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "None"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "8x8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "7.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "1.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "None",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-CPS-Composite-Plastic-Standoff-for-8x8-Nominal-Lumber-CPS7/204842291",
+        "item_id": "204842291"
+      },
+      {
+        "title": "None",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-CPS-Composite-Plastic-Standoff-for-4x6-Nominal-Lumber-CPS46/204842290",
+        "item_id": "204842290"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.59,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 465,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 465,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

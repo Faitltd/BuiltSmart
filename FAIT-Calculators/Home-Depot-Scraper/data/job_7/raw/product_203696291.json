@@ -1,0 +1,346 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13349,
+    "overage_used": 3349,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grabber-8-3-in-Philips-Bugle-Head-Wood-Deck-Screws-23955/203696291"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:54:37.826Z",
+    "processed_at": "2025-05-01T13:54:47.591Z",
+    "total_time_taken": 9.77,
+    "homedepot_url": "https://www.homedepot.com/p/Grabber-8-3-in-Philips-Bugle-Head-Wood-Deck-Screws-23955/203696291"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grabber-8-3-in-Philips-Bugle-Head-Wood-Deck-Screws-23955/203696291",
+    "brand": "Grabber",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Grabber/N-5yc1vZ2fkpe61Zbsg",
+    "title": "Grabber #8 3 in. Philips Bugle-Head Wood Deck Screws",
+    "upc": "045622034620",
+    "item_id": "203696291",
+    "parent_id": "322081639",
+    "store_sku": "952618",
+    "model_number": "23955",
+    "description": "GrabberGard exterior grade finish is a high-grade proprietary metal surface processing technology designed to reduce corrosion. An encapsulated substrate is bonded with the surface coating through a thermal fusion process. The result is a coating that provides superior corrosion resistance. GrabberGard is also ACQ approved for use with pressure treated lumber. GrabberGard is recommended for use in non-coastal areas.",
+    "favorite_count": 645,
+    "feature_bullets": [
+      "Coated finish for added protection",
+      "Steel construction for durability and strength",
+      "Intended for both indoor and outdoor use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Consistent head design and recess provides optimum customer experience",
+      "Extra sharp threads improve drivability",
+      "ICC, ISO 9001 and ISO 14001, ASTM certified",
+      "Extra sharp points improve penetration into all materials"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/429bbd54-bf3b-40ca-abc7-6919e109daac/svn/grabber-deck-screws-23955-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a5c6d21-c376-4d0c-9f59-f08e112c2a27/svn/grabber-deck-screws-23955-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0d140592-c51a-4298-b594-3834e41484ef/svn/grabber-deck-screws-23955-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/429bbd54-bf3b-40ca-abc7-6919e109daac/svn/grabber-deck-screws-23955-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 642,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Phillips"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Epoxy"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Bugle Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASME"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "8 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#8"
+      }
+    ],
+    "size": "#8",
+    "variants": [
+      {
+        "title": "3 in~~#8~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-x-3-in-Bugle-Head-Phillips-Wood-Deck-Screws-25-Pack-21615/302442247",
+        "item_id": "302442247"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-10-3-1-2-in-Philips-Bugle-Head-Wood-Deck-Screw-23905/203696256",
+        "item_id": "203696256"
+      },
+      {
+        "title": "1-5/8 in~~#6~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-6-1-5-8-in-Philips-Bugle-Head-Wood-Deck-Screws-1-lb-Pack-23865/203696226",
+        "item_id": "203696226"
+      },
+      {
+        "title": "1-1/4 in~~#6~~Red~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-6-x-1-1-4-in-Bugle-Head-Phillips-Wood-Deck-Screws-50-Pack-21295/302442273",
+        "item_id": "302442273"
+      },
+      {
+        "title": "3 in~~#8~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-3-in-Philips-Bugle-Head-Wood-Deck-Screws-23955/203696291",
+        "item_id": "203696291"
+      },
+      {
+        "title": "1-1/4 in~~#6~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-6-1-1-4-in-Philips-Bugle-Head-Wood-Deck-Screws-23915/203696271",
+        "item_id": "203696271"
+      },
+      {
+        "title": "2-1/2 in~~#8~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-x-2-1-2-in-Bugle-Head-Phillips-Wood-Deck-Screws-25-Pack-21605/302442251",
+        "item_id": "302442251"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-10-x-3-1-2-in-Bugle-Head-Phillips-Wood-Deck-Screws-25-Pack-21555/302442249",
+        "item_id": "302442249"
+      },
+      {
+        "title": "2-1/2 in~~#8~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-2-1-2-in-Philips-Bugle-Head-Wood-Deck-Screws-1-lb-Pack-X900RG/203696244",
+        "item_id": "203696244"
+      },
+      {
+        "title": "2 in~~#7~~Red~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-7-x-2-in-Bugle-Head-Phillips-Wood-Deck-Screws-25-Pack-21315/302442262",
+        "item_id": "302442262"
+      },
+      {
+        "title": "1-5/8 in~~#6~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-6-x-1-5-8-in-Bugle-Head-Phillips-Wood-Deck-Screws-50-Pack-21535/302442231",
+        "item_id": "302442231"
+      },
+      {
+        "title": "1-5/8 in~~#6~~Red~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-6-x-1-5-8-in-Bugle-Head-Phillips-Wood-Deck-Screws-50-Pack-21305/302442260",
+        "item_id": "302442260"
+      },
+      {
+        "title": "2 in~~#7~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-7-2-in-Philips-Bugle-Head-Wood-Deck-Screws-23935/203696279",
+        "item_id": "203696279"
+      },
+      {
+        "title": "2 in~~#7~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-7-2-in-Philips-Bugle-Head-Wood-Deck-Screw-X500RG/203696240",
+        "item_id": "203696240"
+      },
+      {
+        "title": "1-1/4 in~~#6~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-6-x-1-1-4-in-Bugle-Head-Phillips-Wood-Deck-Screws-50-Pack-21525/302442259",
+        "item_id": "302442259"
+      },
+      {
+        "title": "1-5/8 in~~#6~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-6-1-5-8-in-Philips-Bugle-Head-Wood-Deck-Screws-23925/203696275",
+        "item_id": "203696275"
+      },
+      {
+        "title": "1-1/4 in~~#6~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-6-1-1-4-in-Philips-Bugle-Head-Wood-Deck-Screw-X300RG/203696222",
+        "item_id": "203696222"
+      },
+      {
+        "title": "2-1/2 in~~#8~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-2-1-2-in-Philips-Bugle-Head-Wood-Deck-Screws-23945/203696286",
+        "item_id": "203696286"
+      },
+      {
+        "title": "3 in~~#8~~Red~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-x-3-in-Bugle-Head-Phillips-Wood-Deck-Screws-25-Pack-21335/302442268",
+        "item_id": "302442268"
+      },
+      {
+        "title": "2 in~~#7~~Gray~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-7-x-2-in-Bugle-Head-Phillips-Wood-Deck-Screws-25-Pack-21545/302442234",
+        "item_id": "302442234"
+      },
+      {
+        "title": "2-1/2 in~~#8~~Red~~0.01 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-x-2-1-2-in-Bugle-Head-Phillips-Wood-Deck-Screws-25-Pack-21325/302442266",
+        "item_id": "302442266"
+      },
+      {
+        "title": "3 in~~#8~~Gray~~1 lb",
+        "link": "https://www.homedepot.com/p/Grabber-8-3-in-Philips-Bugle-Head-Wood-Deck-Screws-1-lb-Pack-23895/203696250",
+        "item_id": "203696250"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 43.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 13,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 23,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

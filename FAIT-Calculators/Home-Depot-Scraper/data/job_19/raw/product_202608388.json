@@ -1,0 +1,241 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14144,
+    "overage_used": 4144,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-16-ft-5-in-Waterproofing-Membrane-KERDI200-5M/202608388"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:58:24.309Z",
+    "processed_at": "2025-05-01T17:58:28.512Z",
+    "total_time_taken": 4.2,
+    "homedepot_url": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-16-ft-5-in-Waterproofing-Membrane-KERDI200-5M/202608388"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-16-ft-5-in-Waterproofing-Membrane-KERDI200-5M/202608388",
+    "brand": "Schluter",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/Schluter/N-5yc1vZcdtwZ7fo",
+    "title": "Schluter Kerdi 3 ft. 3 in. x 16 ft. 5 in. Waterproofing Membrane",
+    "upc": "4011832038341",
+    "item_id": "202608388",
+    "parent_id": "317965169",
+    "store_sku": "571918",
+    "model_number": "KERDI200/5M",
+    "description": "Kerdi is a sheet-applied polyethylene waterproofing membrane and vapor retarder. Kerdi200/5M covers 54 sq. ft. and is ideal for waterproofing tiled tub surrounds and showers. This membrane features an anchoring fleece on both sides to anchor it in thin-set mortar. Kerdi eliminates water damage which can lead to mold and mildew.",
+    "is_top_rated": true,
+    "favorite_count": 1296,
+    "feature_bullets": [
+      "Waterproofing membrane for tile showers and bathtub surrounds",
+      "Helps prevent mold and mildew",
+      "Tile over membrane immediately, no wait time required"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Roll dimensions are 3 ft. 3 in. x 16 ft. 5 in.",
+      "For commercial and residential use",
+      "Installs easily with unmodified thin-set mortar (sold separately)",
+      "Waterproofing for tiled shower walls and floors",
+      "Covers 54 sq. ft."
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/aaa52ec4-c8f9-4f98-9bc0-ef84460b9019/svn/schluter-underlayment-kerdi200-5m-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bd44853f-3c8e-4178-97cc-7c79a5815f4e/svn/schluter-underlayment-kerdi200-5m-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/793a072c-d41b-4324-8203-90e495652641/svn/schluter-underlayment-kerdi200-5m-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/aaa52ec4-c8f9-4f98-9bc0-ef84460b9019/svn/schluter-underlayment-kerdi200-5m-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 132,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Material Features",
+        "value": "Mold/mildew resistant,Waterproofing membrane"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Shower,Tub surround"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Rolls Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package coverage (sq. ft.)",
+        "value": "54"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Subflooring type",
+        "value": "Concrete"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Area Coverage Per Roll (sq. ft. for each roll)",
+        "value": "54"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product thickness (mil)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Recommended overlap (in.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Roll Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Roll width (in.)",
+        "value": "39"
+      }
+    ],
+    "keywords_list": [
+      "KERDI 3 ft. 3 in. x 16 ft. 5 in. Waterproofing Membrane",
+      "KERDI200/5M"
+    ],
+    "keywords": "KERDI 3 ft. 3 in. x 16 ft. 5 in. Waterproofing Membrane, KERDI200/5M",
+    "variants": [
+      {
+        "title": "215",
+        "link": "https://www.homedepot.com/p/Schluter-Kerdi-215-sq-ft-39-in-W-x-65-ft-L-x-8-mm-T-Waterproofing-Membrane-Underlayment-for-Tile-KERDI200-20M/202608387",
+        "item_id": "202608387"
+      },
+      {
+        "title": "108",
+        "link": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-33-ft-Waterproofing-Membrane-KERDI200-10M/202608386",
+        "item_id": "202608386"
+      },
+      {
+        "title": "323",
+        "link": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-98-ft-5-in-Waterproofing-Membrane-KERDI200/202608385",
+        "item_id": "202608385"
+      },
+      {
+        "title": "54",
+        "link": "https://www.homedepot.com/p/Schluter-Kerdi-3-ft-3-in-x-16-ft-5-in-Waterproofing-Membrane-KERDI200-5M/202608388",
+        "item_id": "202608388"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Underlayment",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Underlayment/N-5yc1vZcdtw"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 45,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5860",
+          "in_stock": true,
+          "stock_level": 45,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 45,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

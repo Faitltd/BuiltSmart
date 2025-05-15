@@ -1,0 +1,148 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14863,
+    "overage_used": 4863,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-4-in-x-117-in-SPF-2-Standard-Grade-Dimensional-Lumber-226419/329584174"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T20:00:00.265Z",
+    "processed_at": "2025-05-01T20:00:57.903Z",
+    "total_time_taken": 57.64,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-4-in-x-117-in-SPF-2-Standard-Grade-Dimensional-Lumber-226419/329584174"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-4-in-x-117-in-SPF-2-Standard-Grade-Dimensional-Lumber-226419/329584174",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 4 in. x 117 in. SPF #2 Standard Grade Dimensional Lumber",
+    "upc": "098945076716",
+    "item_id": "329584174",
+    "store_sku": "1011162953",
+    "model_number": "226419",
+    "description": "Every piece of 2 in. x 4 in. x 117 in. Kiln-Dried Heat Treated Dimensional Lumber meets the grading standards for strength and appearance. This high quality lumber is ideal for a wide range of structural and nonstructural applications including framing of houses, barns, sheds and commercial construction. Perfect for projects that require structural dimensional lumber that meets building codes. It can also be used for furniture and hobbies. As long as lumber is properly primed and painted or sealed and stained it can be used in exterior applications.",
+    "descriptive_attributes": [
+      "Untreated 2 and better grade",
+      "Lumber can be primed and painted or sealed and stained",
+      "For interior or exterior use",
+      "Common: 2 in. x 4 in. x 10 ft. actual: 1.5 in. x 3.5 in. x 117 in.",
+      "Dimensional lumber meets the grading standards for strength and appearance",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/712f88b9-407a-4dc4-942f-09ccdf813fd3/svn/framing-lumber-226419-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/30baf73a-05d2-4bfa-8ec3-074bf3263977/svn/framing-lumber-226419-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f252ad9d-6cab-4e79-a9bc-40a0be7dc21a/svn/framing-lumber-226419-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/712f88b9-407a-4dc4-942f-09ccdf813fd3/svn/framing-lumber-226419-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Spruce/Pine/Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "10 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "10 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

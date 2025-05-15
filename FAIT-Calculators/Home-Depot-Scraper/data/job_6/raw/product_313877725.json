@@ -1,0 +1,157 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13414,
+    "overage_used": 3414,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-1x6-16-Sanctuary-Composite-Deck-Board-Espresso-Square-Edge-Actual-Size-925-x-5-25-BRDSAN-ESPRESSO-16-BRDSAN-ESPRESSO-16/313877725"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:58:53.984Z",
+    "processed_at": "2025-05-01T13:59:40.156Z",
+    "total_time_taken": 46.17,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-1x6-16-Sanctuary-Composite-Deck-Board-Espresso-Square-Edge-Actual-Size-925-x-5-25-BRDSAN-ESPRESSO-16-BRDSAN-ESPRESSO-16/313877725"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-1x6-16-Sanctuary-Composite-Deck-Board-Espresso-Square-Edge-Actual-Size-925-x-5-25-BRDSAN-ESPRESSO-16-BRDSAN-ESPRESSO-16/313877725",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon 1x6-16' Sanctuary Composite Deck Board-Espresso Square Edge (Actual Size:. 925 x 5.25\") BRDSAN ESPRESSO 16",
+    "upc": "844219012610",
+    "item_id": "313877725",
+    "store_sku": "1005568235",
+    "model_number": "BRDSAN ESPRESSO 16",
+    "description": "Wood decks are susceptible to mold, decay and insects, and have a shorter lifespan. Fiberon composite decking retains its good looks year after year because it's formulated to last. The composite core combines recycled wood with the resilience of recycled plastic, while our proprietary PermaTech cap layer provides superior stain and fade resistance. The result is durable decking that resists splintering, rotting, cracking, insects and decay, with warranties up to 50 years.",
+    "feature_bullets": [
+      "Composite decking is splinter, crack, stain and fade resistant",
+      "Espresso color with bold multi-tonal colors and rustic embossing",
+      "Made from recycled wood for long lasting durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Sanctuary decking is beautiful and easy to maintain, featuring bold, multi-tonal colors and rustic embossing.",
+      "Strong composite construction helps resist splintering, rotting, cracking, insects and decay.",
+      "Features a three-sided PermaTech cap layer for superior stain and fade resistance.",
+      "The flat-profile bottom provides a sturdy feel, reminiscent of traditional lumber.",
+      "Contains 95% recycled content.",
+      "A Fire-rated version of Sanctuary decking is also available and approved for use in all Wildland Urban Interface (WUI) zones.",
+      "Sanctuary decking is backed by a 4-year performance, stain and fade warranty."
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7aa240ed-8106-4da0-98f6-d60d6890a94a/svn/espresso-fiberon-composite-decking-boards-brdsan-espresso-16-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7aa240ed-8106-4da0-98f6-d60d6890a94a/svn/espresso-fiberon-composite-decking-boards-brdsan-espresso-16-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Espresso"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Screws or hidden fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "40 year Stain, Fade and Performance"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.925 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "38"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

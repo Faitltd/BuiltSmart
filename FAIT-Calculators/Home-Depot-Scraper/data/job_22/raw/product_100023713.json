@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14807,
+    "overage_used": 4807,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/WeatherShield-2-in-x-2-in-x-8-ft-1-Pressure-Treated-Southern-Pine-Lumber-302477/100023713"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:31:19.546Z",
+    "processed_at": "2025-05-01T19:31:23.233Z",
+    "total_time_taken": 3.69,
+    "homedepot_url": "https://www.homedepot.com/p/WeatherShield-2-in-x-2-in-x-8-ft-1-Pressure-Treated-Southern-Pine-Lumber-302477/100023713"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-2-in-x-8-ft-1-Pressure-Treated-Southern-Pine-Lumber-302477/100023713",
+    "brand": "WeatherShield",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Stairs-Outdoor-Handrails/WeatherShield/N-5yc1vZc3h0Z4l6",
+    "title": "WeatherShield 2 in. x 2 in. x 8 ft. #1 Pressure-Treated Southern Pine Lumber",
+    "upc": "098168711104",
+    "item_id": "100023713",
+    "store_sku": "302477",
+    "model_number": "302477",
+    "description": "Every piece meets the highest grading standards for strength and appearance. This lumber is pressure treated in order to protect it from termites, fungal decay, and rot. Ideal for a variety of applications, including decks, playsets, landscaping, stair support, walkways and other outdoor projects where lumber is exposed to the elements. This lumber can be painted or stained. When used properly, it is both safe and environmentally friendly.",
+    "is_bestseller": true,
+    "favorite_count": 2140,
+    "aisle": "22",
+    "bay": "004",
+    "feature_bullets": [
+      "Pressure-treated to prevent damage from termites, decay and rot",
+      "Great for decks, landscaping, gardens and other outdoor projects",
+      "Can be painted/stained to match your exterior decor"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Every piece meets the highest grading standards for strength and appearance",
+      "Use for decks, play structures, raised beds, planter boxes, retaining walls, walkways, outdoor furniture, landscaping and other outdoor projects where lumber is exposed to the elements",
+      "Effective against termites, rot and fungal decay",
+      "Lifetime limited residential warranty",
+      "Can be painted or stained",
+      "For decks, play structures, raised beds, planter boxes, retaining walls, walkways and other outdoor applications",
+      "Hot-dipped galvanized or stainless steel fasteners recommended (not included)",
+      "Grade 1 lumber",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/28cca3e4-bd41-4e14-820d-ac9d00959cd3/svn/wood-weathershield-outdoor-handrails-302477-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/28cca3e4-bd41-4e14-820d-ac9d00959cd3/svn/wood-weathershield-outdoor-handrails-302477-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 515,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chemical retention (lb./cu. ft.)",
+        "value": "0.06 lb/ft3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Hot Dipped Galvanized or Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Pressure Treated,Primed,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Includes",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pressure Treatment Chemical",
+        "value": "MCA - Micronized Copper Azole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "6 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Stair Part Type",
+        "value": "Accessory"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "1.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.25 in"
+      }
+    ],
+    "keywords_list": [
+      "lumber",
+      "wood lumber",
+      "dimensional",
+      "wood dimensional",
+      "pine lumber",
+      "pine dimensional",
+      "pressure treated lumber",
+      "pressure treated dimensional"
+    ],
+    "keywords": "lumber, wood lumber, dimensional, wood dimensional, pine lumber, pine dimensional, pressure treated lumber, pressure treated dimensional",
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Stairs",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Stairs/N-5yc1vZbqks"
+      },
+      {
+        "name": "Outdoor Handrails",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Stairs-Outdoor-Handrails/N-5yc1vZc3h0"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 400
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 1596,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

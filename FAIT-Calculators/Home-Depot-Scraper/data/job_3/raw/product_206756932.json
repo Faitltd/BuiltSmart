@@ -1,0 +1,205 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13068,
+    "overage_used": 3068,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DeckLok-10-x-2-3-4-in-Star-Drive-Self-Countersinking-Flat-Head-ACQ-Compatible-Rustic-Bark-Composite-Deck-Screws-75-per-Pack-CD234RB75/206756932"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:40:38.961Z",
+    "processed_at": "2025-05-01T13:41:31.876Z",
+    "total_time_taken": 52.91,
+    "homedepot_url": "https://www.homedepot.com/p/DeckLok-10-x-2-3-4-in-Star-Drive-Self-Countersinking-Flat-Head-ACQ-Compatible-Rustic-Bark-Composite-Deck-Screws-75-per-Pack-CD234RB75/206756932"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DeckLok-10-x-2-3-4-in-Star-Drive-Self-Countersinking-Flat-Head-ACQ-Compatible-Rustic-Bark-Composite-Deck-Screws-75-per-Pack-CD234RB75/206756932",
+    "brand": "DeckLok",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/DeckLok/N-5yc1vZ2fkpe6aZfzv",
+    "title": "DeckLok #10 x 2-3/4 in. Star Drive Self-Countersinking Flat Head ACQ Compatible Rustic Bark Composite Deck Screws (75 per Pack)",
+    "upc": "675454002483",
+    "item_id": "206756932",
+    "store_sku": "1001676647",
+    "model_number": "CD234RB75",
+    "description": "Our C-Deck Composite Deck Screws are designed to deliver professional results for interior and exterior use with wood, composites, PVC, and other plastic materials. These screws are specially designed to eliminate the mushrooming and blemishes that can occur on composite materials. Our e-coated screws are available in 17 colors that will match most common deck colors on the market and has shown over 1000 hours of resistance in salt spray tests. Our screws are also available in stainless steel. DeckLok - The Ultimate Composite Deck Screw.",
+    "favorite_count": 13,
+    "feature_bullets": [
+      "Designed for use with wood, composites and PVC",
+      "Features deep threads to cut cleanly and easily",
+      "Includes T-20 drive bit"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Deep, wide, sharp threads cut cleanly and easily, providing maximum holding power",
+      "Excellent performance in all plastic composite, PVC and wood decking",
+      "Does not produce secondary lumps around the head",
+      "Leaves a smooth, flush, countersunk finish",
+      "Starts easily and drives with less torque",
+      "Pressure treated lumber compatible",
+      "Eliminates composite mushrooming",
+      "T-20 drive bit included",
+      "0.26 in. head diameter"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/566abc7f-1e4f-4c5d-8a02-205cc47df4d2/svn/decklok-composite-deck-screws-cd234rb75-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e206a325-f81b-48fa-8e60-359b1eecaf57/svn/decklok-composite-deck-screws-cd234rb75-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/566abc7f-1e4f-4c5d-8a02-205cc47df4d2/svn/decklok-composite-deck-screws-cd234rb75-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Epoxy"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated,Self Tapping"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "USS"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "75"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Reverse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "12 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Six months from date of purchase"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-3/4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 10.47,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package"
+    }
+  }
+}

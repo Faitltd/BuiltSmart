@@ -1,0 +1,200 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14179,
+    "overage_used": 4179,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Building-Products-2018-1-4-in-D-x-1-1-2-in-W-x-96-in-Primed-PVC-Lattice-Moulding-1-Piece-8-Total-Linear-Feet-0201808013/334906587"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:00:52.301Z",
+    "processed_at": "2025-05-01T18:01:32.715Z",
+    "total_time_taken": 40.41,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Building-Products-2018-1-4-in-D-x-1-1-2-in-W-x-96-in-Primed-PVC-Lattice-Moulding-1-Piece-8-Total-Linear-Feet-0201808013/334906587"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Building-Products-2018-1-4-in-D-x-1-1-2-in-W-x-96-in-Primed-PVC-Lattice-Moulding-1-Piece-8-Total-Linear-Feet-0201808013/334906587",
+    "brand": "Royal Building Products",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Royal-Building-Products/N-5yc1vZcbj5Zgkn",
+    "title": "Royal Building Products 2018 1/4 in. D x 1-1/2 in. W x 96 in. Primed PVC Lattice Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "070673842139",
+    "item_id": "334906587",
+    "store_sku": "1001690001",
+    "model_number": "0201808013",
+    "description": "An affordable, attractive option to wood trim, this 100% PVC window, door and garage surrounds, trim, fascia and decorative molding is a terrific solution. Whether you're building a new home or remodeling and existing, there are Royal Molding trim products to suit virtually any taste or style to give every home a unique look all its own. Add molding to your home adds value and a nice finishing touch to any room.",
+    "feature_bullets": [
+      "PVC construction resists moisture, termites and mold",
+      "Ideal for building a new home or remodeling existing one",
+      "Easy to install with standard wood working tools"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "PVC has superior nailing and gluing",
+      "Product finish: primed",
+      "Product is moisture proof, termite proof and does not promote mold and mildew",
+      "Installing PVC saves time and labor",
+      "Product installs easily with standard wood working tools"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/faeced2f-6a11-486f-8801-7c237d1cffe2/svn/white-royal-building-products-general-purpose-moulding-0201808013-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/170c8d31-84eb-4ba0-8b03-863e9c1796e8/svn/white-royal-building-products-general-purpose-moulding-0201808013-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/40363ed3-4b13-4354-bb09-5c9ae7005f1d/svn/white-royal-building-products-general-purpose-moulding-0201808013-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1f90163d-c076-4ec0-91c3-f8abdb23876c/svn/white-royal-building-products-general-purpose-moulding-0201808013-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/94b97864-4fa1-43cd-b2c2-0a22d1bdf0ce/svn/white-royal-building-products-general-purpose-moulding-0201808013-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c909e1cf-a5b1-40d9-974e-c6f5065ec286/svn/white-royal-building-products-general-purpose-moulding-0201808013-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/868419eb-8547-41ee-84c4-c56feb63beda/svn/white-royal-building-products-general-purpose-moulding-0201808013-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/faeced2f-6a11-486f-8801-7c237d1cffe2/svn/white-royal-building-products-general-purpose-moulding-0201808013-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Lattice Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2018"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 9.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

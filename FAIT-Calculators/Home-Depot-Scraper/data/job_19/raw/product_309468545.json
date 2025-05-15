@@ -1,0 +1,160 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14183,
+    "overage_used": 4183,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Schluter-Kerdi-Tubkit-Bathtub-Surround-Waterproofing-Kit-KKB7/309468545"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:01:25.048Z",
+    "processed_at": "2025-05-01T18:01:30.523Z",
+    "total_time_taken": 5.47,
+    "homedepot_url": "https://www.homedepot.com/p/Schluter-Kerdi-Tubkit-Bathtub-Surround-Waterproofing-Kit-KKB7/309468545"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Schluter-Kerdi-Tubkit-Bathtub-Surround-Waterproofing-Kit-KKB7/309468545",
+    "brand": "Schluter",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools-Floor-Installation-Kits/Schluter/N-5yc1vZcduaZ7fo",
+    "title": "Schluter Kerdi-Tubkit Bathtub Surround Waterproofing Kit",
+    "upc": "4011832161964",
+    "item_id": "309468545",
+    "store_sku": "1004324291",
+    "model_number": "KKB7",
+    "description": "The Kerdi-Tubkit is a complete kit for tiled bathtub surrounds. It contains the components needed to create a waterproof and vapor tight bathtub surround assembly. The kit includes Kerdi waterproofing membrane, Kerdi waterproofing strip, pipe seal, mixing valve seal, and sealing and bonding compound.",
+    "favorite_count": 48,
+    "feature_bullets": [
+      "Create a waterproof enclosure for tiled bathtub surrounds",
+      "Helps prevent mold and mildew",
+      "Kerdi waterproofing membrane covers 75 sq. ft."
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Designed to create a fully waterproof and vapor-tight enclosure for tiled bathtub surrounds",
+      "Covers 75 sq. ft.",
+      "For commercial and residential use",
+      "Installs easily with unmodified thin-set mortar (sold separately)",
+      "Kit contains: waterproofing membrane, waterproofing strip, pipe seal, mixing valve seal, and sealing and bonding compound"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1d482fcf-1ae1-4112-b474-ae4552081f59/svn/schluter-floor-installation-kits-kkb7-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1d482fcf-1ae1-4112-b474-ae4552081f59/svn/schluter-floor-installation-kits-kkb7-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 3,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Accessory"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "8.05 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Diameter (in.)",
+        "value": "0 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "39 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Flooring Tools",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools/N-5yc1vZcdtv"
+      },
+      {
+        "name": "Floor Installation Kits",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools-Floor-Installation-Kits/N-5yc1vZcdua"
+      }
+    ],
+    "buybox_winner": {
+      "price": 241.79,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 14,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 14,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

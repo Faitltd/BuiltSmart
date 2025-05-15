@@ -1,0 +1,247 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14740,
+    "overage_used": 4740,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trim-Board-Primed-Finger-Joint-Common-1-in-x-4-in-x-12-ft-Actual-719-in-x-3-5-in-x-144-in-590599/202105909"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:07:57.247Z",
+    "processed_at": "2025-05-01T19:08:02.880Z",
+    "total_time_taken": 5.63,
+    "homedepot_url": "https://www.homedepot.com/p/Trim-Board-Primed-Finger-Joint-Common-1-in-x-4-in-x-12-ft-Actual-719-in-x-3-5-in-x-144-in-590599/202105909"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trim-Board-Primed-Finger-Joint-Common-1-in-x-4-in-x-12-ft-Actual-719-in-x-3-5-in-x-144-in-590599/202105909",
+    "brand": "Unbranded",
+    "title": "Unbranded Trim Board Primed Finger-Joint (Common: 1 in. x 4 in. x 12 ft.; Actual: .719 in. x 3.5 in. x 144 in.)",
+    "upc": "099167219462",
+    "item_id": "202105909",
+    "parent_id": "332790172",
+    "store_sku": "590599",
+    "model_number": "590599",
+    "description": "Every piece meets the highest grading standards for strength and appearance. This lumber is for a wide range of uses from framing of houses to basic interior finishing applications. Boards can also be used for carpentry, hobbies, furniture, shelving, and general finish work. This lumber can also be used in exterior finishing applications as long as it is properly primed and painted or stained. Interior or Exterior use.",
+    "favorite_count": 343,
+    "aisle": "20",
+    "bay": "008",
+    "feature_bullets": [
+      "Ideal for carpentry, furniture, shelving and general finish work",
+      "For interior or exterior use - can be painted or stained",
+      "Dimensionally stable & easy to handle."
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Each piece of this lumber meets the highest quality grading standards for strength and appearance",
+      "Boards can also be used for carpentry, hobbies, furniture, shelving, and general finish work",
+      "Lumber can be primed and painted or stained",
+      "Interior or exterior use",
+      "Note: product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3de2413e-b895-4318-a4c3-818805e850b2/svn/primed-softwood-boards-590599-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cecbebe5-1c12-415d-b760-b73de11bb332/svn/primed-softwood-boards-590599-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b01c5eda-c10b-415d-b949-e9bce5cfe5b5/svn/primed-softwood-boards-590599-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/12ec2de8-8609-4b91-b32e-1953b8ea5ea1/svn/primed-softwood-boards-590599-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3de2413e-b895-4318-a4c3-818805e850b2/svn/primed-softwood-boards-590599-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 155,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Board Joint Type",
+        "value": "Square Edge"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "n/a"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Fingerjoint"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Boards Per Pack",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Pine"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.719 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "4 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "keywords_list": [
+      "appearance board",
+      "fingerjoint pine appearance board",
+      "lumber",
+      "fingerjoint pine lumber",
+      "pine appearance board",
+      "pine lumber",
+      "kiln dried appearance board"
+    ],
+    "keywords": "appearance board, fingerjoint pine appearance board, lumber, fingerjoint pine lumber, pine appearance board, pine lumber, kiln dried appearance board",
+    "variants": [
+      {
+        "title": "Primed~~5.5 sq ft~~6 in. X 12 ft.",
+        "link": "https://www.homedepot.com/p/Trim-Board-Primed-Finger-Joint-Common-1-in-x-6-in-x-12-ft-Actual-719-in-x-5-5-in-x-144-in-0029212/202105910",
+        "item_id": "202105910"
+      },
+      {
+        "title": "Primed~~4 sq ft~~4 in. X 12 ft.",
+        "link": "https://www.homedepot.com/p/Trim-Board-Primed-Finger-Joint-Common-1-in-x-4-in-x-12-ft-Actual-719-in-x-3-5-in-x-144-in-590599/202105909",
+        "item_id": "202105909"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Boards & Planks",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Boards-Planks/N-5yc1vZ1z18h41"
+      },
+      {
+        "name": "Wood Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Boards-Planks-Wood-Boards/N-5yc1vZbqmc"
+      },
+      {
+        "name": "Softwood Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Boards-Planks-Wood-Boards-Softwood-Boards/N-5yc1vZchzn"
+      }
+    ],
+    "buybox_winner": {
+      "price": 15.72,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 106
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 10931,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

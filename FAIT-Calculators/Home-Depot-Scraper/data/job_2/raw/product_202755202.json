@@ -1,0 +1,257 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12924,
+    "overage_used": 2924,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Coarse-Tan-Polymer-Plated-Steel-Star-Drive-Composite-Deck-Screws-1-lb-per-Box-N212CST1/202755202"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:35:06.219Z",
+    "processed_at": "2025-05-01T13:35:23.747Z",
+    "total_time_taken": 17.53,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Coarse-Tan-Polymer-Plated-Steel-Star-Drive-Composite-Deck-Screws-1-lb-per-Box-N212CST1/202755202"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Tan-Coarse-Polymer-Plated-Steel-Torx-Pan-Head-Composite-Deck-Screws-1-lb-75-Piece-N212CST1/202755202",
+    "brand": "DECKMATE",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/DECKMATE/N-5yc1vZ2fkpe6aZrkz",
+    "title": "DECKMATE #9 x 2-1/2 in. Tan Coarse Polymer-Plated Steel Torx Pan-Head Composite Deck Screws (1 lb./75-Piece)",
+    "upc": "764666619906",
+    "item_id": "202755202",
+    "parent_id": "319064016",
+    "store_sku": "291485",
+    "model_number": "N212CST1",
+    "description": "For the most comprehensive selection of nails and screws, look for Grip-Rite, the most popular brand of fasteners in America. No matter what the project or what size the job, Grip-Rite has the optimal fastening solution. As construction materials and techniques evolve, fastener design keeps pace with the Changing technology. Fastener needs vary from project to project and the safety and life expectancy of the project can be extended or compromised based upon the fastener used. Fasteners have been designed to meet the special needs of projects such as roofing or drywall and in many cases are known by the application for which they are intended. The #9 x 2-1/2 in. Coarse Tan Polymer-Plated Steel Star-Drive Composite Deck Screws (1 lb. Pack) provide a smooth finish when fastening composite and polymer lumber.",
+    "aisle": "17",
+    "bay": "011",
+    "feature_bullets": [
+      "Designed for outdoor applications",
+      "Polymer-plated steel construction",
+      "Self-starting tip eliminates need for pre-drill"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "For use with polymer or composite lumber",
+      "Steel construction",
+      "2-1/2 in. L",
+      "Polymer-plated tan finish",
+      "Pancake head",
+      "Dual-thread design",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/261a71cc-32f9-4ac3-b134-8725b113ce3e/svn/deckmate-composite-deck-screws-n212cst1-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ebc425a6-5009-41ec-9988-84316c8df1bd/svn/deckmate-composite-deck-screws-n212cst1-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5db8dd34-ee3d-4081-b6ac-4c6921dc418e/svn/deckmate-composite-deck-screws-n212cst1-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0e3fe508-3bfa-4d62-a179-d27c26d88af4/svn/deckmate-composite-deck-screws-n212cst1-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39f7334d-9b9c-4550-886e-16cafeee7954/svn/deckmate-composite-deck-screws-n212cst1-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7527f060-b851-43b5-8a8d-0863f882bc43/svn/deckmate-composite-deck-screws-n212cst1-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/261a71cc-32f9-4ac3-b134-8725b113ce3e/svn/deckmate-composite-deck-screws-n212cst1-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 131,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Ceramic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Pan Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "75"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Dual Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "10 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#9"
+      }
+    ],
+    "size": "#9",
+    "keywords_list": [
+      "#9 x 2-1/2 in. Coarse Tan Polymer-Plated Steel Square-Drive Composite Deck Screws (1 lb. Pack)",
+      "N212CST1"
+    ],
+    "keywords": "#9 x 2-1/2 in. Coarse Tan Polymer-Plated Steel Square-Drive Composite Deck Screws (1 lb. Pack), N212CST1",
+    "variants": [
+      {
+        "title": "3 in~~#9~~Brown~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Brown-Self-Starting-Torx-Bugle-Head-Composite-Deck-Screws-1-lb-65-Piece-N3CSB1/202755205",
+        "item_id": "202755205"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Tan-Coarse-Polymer-Plated-Steel-Torx-Pan-Head-Composite-Deck-Screws-1-lb-75-Piece-N212CST1/202755202",
+        "item_id": "202755202"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 11.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 10
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 34,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

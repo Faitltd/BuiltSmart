@@ -1,0 +1,265 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13575,
+    "overage_used": 3575,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-583-3-4-in-x-3-in-x-8-ft-Basswood-Wood-Fluted-Casing-Molding-583/100082924"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:50:16.817Z",
+    "processed_at": "2025-05-01T16:50:21.208Z",
+    "total_time_taken": 4.39,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-583-3-4-in-x-3-in-x-8-ft-Basswood-Wood-Fluted-Casing-Molding-583/100082924"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-583-3-4-in-x-3-in-x-8-ft-Basswood-Wood-Fluted-Casing-Molding-583/100082924",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/HOUSE-OF-FARA/N-5yc1vZclf5Zucc",
+    "title": "HOUSE OF FARA 583 - 3/4 in. x 3 in. x 8 ft. Basswood Wood Fluted Casing Molding",
+    "upc": "043559805832",
+    "item_id": "100082924",
+    "parent_id": "328892389",
+    "store_sku": "355712",
+    "model_number": "583",
+    "description": "Use this House of Fara 3/4 in. x 3 in. x 8 ft. Hardwood Fluted Casing around doors and windows to achieve that finished, professional look you're after. The fluting offers a classic shape to accent many decorating styles. Manufactured from solid Basswood, it may be clear coated, stained or painted to match your existing decor. Its unique detail will add an architectural touch to any room or project.",
+    "favorite_count": 217,
+    "feature_bullets": [
+      "Manufactured from solid basswood that is durable, soft, and light",
+      "Sustainable, renewable and have virtually no carbon footprint",
+      "Can be coated, stained or painted to match any decor"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Solid basswood",
+      "Suitable for clear-coat, stain or paint",
+      "Excellent as casing or chair rail; matches well with rosettes and plinth blocks",
+      "Easy installation",
+      "Satisfaction guaranteed"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/78962616-3abc-40b4-8a54-b87595ce990c/svn/natural-house-of-fara-casing-583-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/87430037-7d5d-424a-b3ec-f294fbe9aa97/svn/natural-house-of-fara-casing-583-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0f855467-327b-447f-bd69-8cb8cebefced/svn/natural-house-of-fara-casing-583-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d487a598-c25c-47f2-b1b9-dbcd7fe511ad/svn/natural-house-of-fara-casing-583-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c44c70e1-37c8-401f-b57d-1fac5e49dbca/svn/natural-house-of-fara-casing-583-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/78962616-3abc-40b4-8a54-b87595ce990c/svn/natural-house-of-fara-casing-583-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d6a00112-2a9d-415d-87b9-3b0f9f58d658/ce70335a-ca70-440b-bcad-92aa3f0d947a/main.mp4?fastly_token=NjgzODczOTVfODE2ZTI5MjQwMmQ4NjRhNDQwYTk0YjczN2FjODZmYTVjMDZhYTNkMTNkZmZkMzM1NzgyNzBhNTg3YmU3MGU0ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kNmEwMDExMi0yYTlkLTQxNWQtODdiOS0zYjBmOWY1OGQ2NTgvY2U3MDMzNWEtY2E3MC00NDBiLWJjYWQtOTJhYTNmMGQ5NDdhL21haW4ubXA0&pubid=66036796001",
+        "title": "HouseOfFara",
+        "id": "5283968848001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/d6a00112-2a9d-415d-87b9-3b0f9f58d658/9dbf5d0c-5abf-4740-b6a0-2b61a4c2b327/160x90/match/image.jpg?pubId=66036796001",
+        "description": "How to install Base Blocks and Base Moulding"
+      }
+    ],
+    "ratings_total": 141,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Natural"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Fluted"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "583"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Satisfaction Guaranteed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "fluted moulding",
+      "casing",
+      "fluted casing",
+      "decorative moulding",
+      "decorative casing",
+      "wood moulding",
+      "wood casing",
+      "House of Fara moulding",
+      "House of Fara casing"
+    ],
+    "keywords": "moulding, fluted moulding, casing, fluted casing, decorative moulding, decorative casing, wood moulding, wood casing, House of Fara moulding, House of Fara casing",
+    "variants": [
+      {
+        "title": "White~~8 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-8583-3-4-in-x-3-in-x-96-in-Primed-MDF-Fluted-Casing-1-Piece-8-Total-Linear-Feet-8583/202087597",
+        "item_id": "202087597"
+      },
+      {
+        "title": "Natural~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-583-3-4-in-x-3-in-x-8-ft-Basswood-Wood-Fluted-Casing-Molding-583/100082924",
+        "item_id": "100082924"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 24.28,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2000,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2000,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

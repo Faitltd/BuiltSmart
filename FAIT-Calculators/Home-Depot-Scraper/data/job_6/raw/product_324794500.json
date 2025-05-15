@@ -1,0 +1,227 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13482,
+    "overage_used": 3482,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fiberon-ArmorGuard-15-16-in-x-5-1-4-in-x-20-ft-Forest-Brown-Square-Edge-Capped-Composite-Decking-Board-BRDAG-FBR-20/324794500"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:24:31.169Z",
+    "processed_at": "2025-05-01T14:24:36.541Z",
+    "total_time_taken": 5.37,
+    "homedepot_url": "https://www.homedepot.com/p/Fiberon-ArmorGuard-15-16-in-x-5-1-4-in-x-20-ft-Forest-Brown-Square-Edge-Capped-Composite-Decking-Board-BRDAG-FBR-20/324794500"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fiberon-ArmorGuard-15-16-in-x-5-1-4-in-x-20-ft-Forest-Brown-Square-Edge-Capped-Composite-Decking-Board-BRDAG-FBR-20/324794500",
+    "brand": "Fiberon",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Fiberon/N-5yc1vZc5mbZ4to",
+    "title": "Fiberon ArmorGuard 15/16 in. x 5-1/4 in. x 20 ft. Forest Brown Square Edge Capped Composite Decking Board",
+    "upc": "844219033004",
+    "item_id": "324794500",
+    "parent_id": "327565272",
+    "store_sku": "1009492414",
+    "model_number": "BRDAG FBR 20",
+    "description": "Fiberon ArmorGuard PE composite decking is found exclusively at The Home Depot. It provides an authentic wood look for your outdoor living space without the upkeep, allowing you to spend less time worrying about maintenance and more time enjoying beautiful backyard views. Choose from 3 distinct, multi-tonal colors that pair well with classic, subtle neutrals or bold pops of color.",
+    "feature_bullets": [
+      "Easily install composite boards, no special tools required",
+      "Beautiful and durable surface with realistic wood grains",
+      "Resistant to fading, staining, mold, termites and rot"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "The ArmorGuard Designer's Choice Collection features multi-tonal streaking, realistic wood grains and an elegant matte finish, for a more authentic look",
+      "Choose from three distinct hues that pair well with classic, subtle neutrals or bold pops of color",
+      "Low-maintenance composite deck board are mold- and mildew-resistant",
+      "No sanding, staining or sealing required",
+      "Three-sided PermaTech protective surface provides superior stain, fade and weather resistance",
+      "Made with premium recycled wood and polymers",
+      "Coordinating fascia available",
+      "Backed by a 25-year stain, fade and performance warranty"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/785af9a0-ccab-4935-aeed-7deb3807d80a/svn/forest-brown-fiberon-composite-decking-boards-brdag-fbr-20-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/be226135-d241-4ef3-b285-3b41ed80c4a7/svn/forest-brown-fiberon-composite-decking-boards-brdag-fbr-20-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc14228f-30c6-4a88-8823-2b9751c5a625/svn/forest-brown-fiberon-composite-decking-boards-brdag-fbr-20-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c004b9de-22f1-4f38-a401-25c59d3cfad0/svn/forest-brown-fiberon-composite-decking-boards-brdag-fbr-20-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b6cca1f2-5e3c-4db5-8773-d84ddbee0d6a/svn/forest-brown-fiberon-composite-decking-boards-brdag-fbr-20-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/785af9a0-ccab-4935-aeed-7deb3807d80a/svn/forest-brown-fiberon-composite-decking-boards-brdag-fbr-20-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 127,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Forest Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Fiberon\u00ae / Starborn\u00ae Cap-Tor\u00ae Epoxy-Coated Carbon Steel Face Decking Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Prefinished,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Stain, Fade, Performance Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.93 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "43"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Forest Brown~~Square~~20 ft",
+        "link": "https://www.homedepot.com/p/Fiberon-ArmorGuard-15-16-in-x-5-1-4-in-x-20-ft-Forest-Brown-Square-Edge-Capped-Composite-Decking-Board-BRDAG-FBR-20/324794500",
+        "item_id": "324794500"
+      },
+      {
+        "title": "Coastal Gray~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Fiberon-ArmorGuard-15-16-in-x-5-1-4-in-x-12-ft-Coastal-Gray-Grooved-Edge-Capped-Composite-Decking-Board-BRDAGG-CSTG-12/324794505",
+        "item_id": "324794505"
+      },
+      {
+        "title": "Coastal Gray~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Fiberon-ArmorGuard-15-16-in-x-5-1-4-in-x-16-ft-Coastal-Gray-Grooved-Edge-Capped-Composite-Decking-Board-BRDAGG-CSTG-16/324794504",
+        "item_id": "324794504"
+      },
+      {
+        "title": "Coastal Gray~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/Fiberon-ArmorGuard-15-16-in-x-5-1-4-in-x-8-ft-Coastal-Gray-Square-Edge-Capped-Composite-Decking-Board-BRDAG-CSTG-8/324794510",
+        "item_id": "324794510"
+      },
+      {
+        "title": "Coastal Gray~~Square~~20 ft",
+        "link": "https://www.homedepot.com/p/Fiberon-ArmorGuard-15-16-in-x-5-1-4-in-x-20-ft-Coastal-Gray-Square-Edge-Capped-Composite-Decking-Board-BRDAG-CSTG-20/324794508",
+        "item_id": "324794508"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 44.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 266,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

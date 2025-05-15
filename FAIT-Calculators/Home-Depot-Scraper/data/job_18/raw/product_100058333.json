@@ -1,0 +1,214 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13971,
+    "overage_used": 3971,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-5093-3-4-in-x-3-4-in-x-96-in-Finished-PVC-White-Inside-Corner-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM93WH/100058333"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:49:42.402Z",
+    "processed_at": "2025-05-01T17:49:49.470Z",
+    "total_time_taken": 7.07,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-5093-3-4-in-x-3-4-in-x-96-in-Finished-PVC-White-Inside-Corner-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM93WH/100058333"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-5093-3-4-in-x-3-4-in-x-96-in-Finished-PVC-White-Inside-Corner-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM93WH/100058333",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/Royal-Mouldings/N-5yc1vZcbjfZ8ui",
+    "title": "Royal Mouldings 5093 3/4 in. x 3/4 in. x 96 in. Finished PVC White Inside Corner Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "070673528187",
+    "item_id": "100058333",
+    "store_sku": "901516",
+    "model_number": "MLDP01X01WM93WH",
+    "description": "The Royal Moldings 8 ft. x 3/4 in. x 3/4 in. PVC Inside-Corner Molding can be painted with both oil- and latex-based paints. It cuts like wood and installs with nails or adhesives while resisting cracking or splintering. Adding molding to any room adds value and a nice finishing touch.",
+    "favorite_count": 1584,
+    "aisle": "19",
+    "bay": "009",
+    "feature_bullets": [
+      "Provides a soft, welcoming look",
+      "Polymer construction for lightweight durability",
+      "Arrives primed and ready to finish with a trim paint"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Extruded polymer construction",
+      "Paintable white finish for easy color matching",
+      "Easy to clean for low maintenance",
+      "Termite- and moisture-resistant construction resists rotting and splitting",
+      "Softens edges of 90\u00b0 angles on inside corners",
+      "96 in. Length",
+      "Manufactured by Royal Moldings"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ee657556-ebd4-4458-8d45-dcbb80ccd71d/svn/white-royal-mouldings-corner-moulding-mldp01x01wm93wh-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ee657556-ebd4-4458-8d45-dcbb80ccd71d/svn/white-royal-mouldings-corner-moulding-mldp01x01wm93wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 262,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Corner Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "5093"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Interior water proof material"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "keywords_list": [
+      "inside-corner moulding",
+      "polymer inside-corner moulding",
+      "moulding",
+      "polymer moulding",
+      "paintable inside-corner moulding",
+      "paintable moulding"
+    ],
+    "keywords": "inside-corner moulding, polymer inside-corner moulding, moulding, polymer moulding, paintable inside-corner moulding, paintable moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Corner Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/N-5yc1vZcbjf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.34,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 63
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 63,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14435,
+    "overage_used": 4435,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-20-ft-Enhance-Naturals-Foggy-Wharf-Composite-Groove-Deck-Board-FW010620E2G01/309490299"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:38:42.008Z",
+    "processed_at": "2025-05-01T18:38:48.913Z",
+    "total_time_taken": 6.91,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-20-ft-Enhance-Naturals-Foggy-Wharf-Composite-Groove-Deck-Board-FW010620E2G01/309490299"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-20-ft-Enhance-Naturals-Foggy-Wharf-Composite-Groove-Deck-Board-FW010620E2G01/309490299",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 in. x 6 in. to 20 ft. Enhance Naturals Foggy Wharf Composite Groove Deck Board",
+    "upc": "652835289497",
+    "item_id": "309490299",
+    "parent_id": "327512602",
+    "store_sku": "1006541058",
+    "model_number": "FW010620E2G01",
+    "description": "Trex Decking offers homeowners high-performance, low-maintenance composite decking at a value that makes it an attractive option for any project. Trex is a perfect choice for those who want to enjoy the look of real wood without the time-consuming maintenance. Made of recycled materials, so you can feel good about a deck that is earth-friendly and a 'green' option. Trex is also available in various color options and is engineered to be curve able for endless design possibilities.",
+    "feature_bullets": [
+      "Made of recycled materials for eco-friendly use",
+      "Resistant to stains, scratches and fades for prolonged usage",
+      "Splinter free design allows easy maintenance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Scratch resistance",
+      "Fade resistance",
+      "Stain resistance",
+      "25-year limited residential warranty",
+      "Splinter free",
+      "No sanding"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c9365791-8b18-433a-b6d8-5ea04e4d0575/svn/foggy-wharf-trex-composite-decking-boards-fw010620e2g01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9105157c-714b-4461-96a3-25ae01a2ffdc/svn/foggy-wharf-trex-composite-decking-boards-fw010620e2g01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a500784-a093-4e36-af4b-f7b802642d4e/svn/foggy-wharf-trex-composite-decking-boards-fw010620e2g01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39647155-635a-42eb-a6fe-b65d8ae15f85/svn/foggy-wharf-trex-composite-decking-boards-fw010620e2g01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39483d00-8767-4ae6-a98e-a887b403467e/svn/foggy-wharf-trex-composite-decking-boards-fw010620e2g01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a3531561-f9e6-4fb6-9944-811740350a77/svn/foggy-wharf-trex-composite-decking-boards-fw010620e2g01-66_1000.jpg",
+        "type": "image_back_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c9365791-8b18-433a-b6d8-5ea04e4d0575/svn/foggy-wharf-trex-composite-decking-boards-fw010620e2g01-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 38,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Foggy Wharf"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Approved Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Limited Residential Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Foggy Wharf~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/1-in-x-6-in-x-16-ft-Enhance-Naturals-Foggy-Wharf-Composite-Groove-Deck-Board-FW010616E2G01/309490532",
+        "item_id": "309490532"
+      },
+      {
+        "title": "Foggy Wharf~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/1-in-x-6-in-x-12-ft-Enhance-Naturals-Foggy-Wharf-Composite-Groove-Deck-Board-FW010612E2G01/309490538",
+        "item_id": "309490538"
+      },
+      {
+        "title": "Foggy Wharf~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-20-ft-Enhance-Naturals-Foggy-Wharf-Composite-Groove-Deck-Board-FW010620E2G01/309490299",
+        "item_id": "309490299"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 51.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 48,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

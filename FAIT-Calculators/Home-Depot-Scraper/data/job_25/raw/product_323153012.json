@@ -1,0 +1,224 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14854,
+    "overage_used": 4854,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-12-in-x-22-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108522/323153012"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:52:26.922Z",
+    "processed_at": "2025-05-01T19:53:20.001Z",
+    "total_time_taken": 53.08,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-12-in-x-22-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108522/323153012"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-12-in-x-22-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108522/323153012",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 12 in. x 22 ft. FIR #2 Standard Grade Dimensional Lumber",
+    "upc": "099167247137",
+    "item_id": "323153012",
+    "parent_id": "310483684",
+    "store_sku": "1010839669",
+    "model_number": "0108522",
+    "description": "Every-piece meets the highest grading standards for strength and appearance. Dimensional lumber is ideal for a wide range of structural and nonstructural applications including framing of houses, barns, sheds, and commercial construction. Dimensional lumber comes in a variety of widths and lengths to meet all your construction needs.",
+    "feature_bullets": [
+      "Made of Douglas fir or Hem-Fir for durability",
+      "Smooth texture and KDHT moisture content ensures longevity",
+      "Ideal to be used in framing houses, barns, sheds"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of douglas fir or hem-fir",
+      "Smooth texture",
+      "No. 2 and BTR S4S grade",
+      "KDHT moisture content",
+      "Paintable",
+      "Stainable"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/880cca39-c8df-4f12-a0aa-b48636f46c42/svn/framing-lumber-0108522-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/880cca39-c8df-4f12-a0aa-b48636f46c42/svn/framing-lumber-0108522-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Standard Nails"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "No. 2 & Btr S4S"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Douglas Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "22 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "22 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "36 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-36-ft-Finger-Joint-SPF-2-Standard-Grade-Dimensional-Lumber-0148136/330992122",
+        "item_id": "330992122"
+      },
+      {
+        "title": "30 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-30-ft-Finger-Joint-SPF-2-Standard-Grade-Dimensional-Lumber-0148130/330991962",
+        "item_id": "330991962"
+      },
+      {
+        "title": "18 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-18-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0122218/329441156",
+        "item_id": "329441156"
+      },
+      {
+        "title": "14 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-14-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108414/328988370",
+        "item_id": "328988370"
+      },
+      {
+        "title": "28 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-28-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0124228/329235474",
+        "item_id": "329235474"
+      },
+      {
+        "title": "24 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-24-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108324/323153008",
+        "item_id": "323153008"
+      },
+      {
+        "title": "32 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-32-ft-Finger-Joint-SPF-2-Standard-Grade-Dimensional-Lumber-0148132/330991048",
+        "item_id": "330991048"
+      },
+      {
+        "title": "24 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-24-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108224/323153009",
+        "item_id": "323153009"
+      },
+      {
+        "title": "20 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-20-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0122320/330817123",
+        "item_id": "330817123"
+      },
+      {
+        "title": "22 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-22-ft-FIR-2-Standard-Grade-Dimensional-Lumber-0108522/323153012",
+        "item_id": "323153012"
+      },
+      {
+        "title": "20 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-20-ft-2-Standard-Grade-Fir-Lumber-0122520/309191482",
+        "item_id": "309191482"
+      },
+      {
+        "title": "28 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-28-ft-Finger-Joint-FIR-2-Standard-Grade-Dimensional-Lumber-0124128/330992419",
+        "item_id": "330992419"
+      },
+      {
+        "title": "12 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-12-ft-2-Premium-Grade-Hem-Fir-Dimensional-Lumber-187362/202088722",
+        "item_id": "202088722"
+      },
+      {
+        "title": "10 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-8-ft-2-Premium-Grade-Fir-Dimensional-Lumber-300193/202088721",
+        "item_id": "202088721"
+      },
+      {
+        "title": "14 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-x-8-14-ft-HF-2-Standard-Grade-Dimensional-0122314/332470798",
+        "item_id": "332470798"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

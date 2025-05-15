@@ -1,0 +1,196 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13672,
+    "overage_used": 3672,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-Round-Edge-9-16-in-x-3-1-2-in-Double-Primed-Pine-Baseboard-Moulding-CAL830PPR/202715506"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:28.295Z",
+    "processed_at": "2025-05-01T16:54:05.180Z",
+    "total_time_taken": 36.88,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-Round-Edge-9-16-in-x-3-1-2-in-Double-Primed-Pine-Baseboard-Moulding-CAL830PPR/202715506"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-Round-Edge-9-16-in-x-3-1-2-in-Double-Primed-Pine-Baseboard-Moulding-CAL830PPR/202715506",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Kelleher/N-5yc1vZcbjpZ4z5",
+    "title": "Kelleher Round Edge 9/16 in. x 3-1/2 in. Double Primed Pine Baseboard Moulding",
+    "upc": "099443039166",
+    "item_id": "202715506",
+    "parent_id": "327768268",
+    "store_sku": "415506",
+    "model_number": "CAL830PPR",
+    "description": "The Kelleher California Collection 3-1/2 in. x 9/16 in. Round Edge Base Moulding is installed where the floor meets the wall. It covers any gaps that remain after flooring installation. And gives a dinstinctive finished look to any room.",
+    "favorite_count": 57,
+    "feature_bullets": [
+      "Primed finish and ready to paint feature ensure convenient use",
+      "Made of finger joint pine wood for durability",
+      "Designed to be installed where the floor meets the wall"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of fingerjoint pine",
+      "Triple prime process for an ultra-smooth, primed finish, ready to paint",
+      "Reversible design features a beaded side and a grooved side for use as wainscot/paneling",
+      "Sold by the linear feet",
+      "Sold by the lineal foot"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ecdb07c8-1ae3-492d-b036-dbe2358db405/svn/primed-kelleher-baseboard-cal830ppr-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6f4b5197-3ac0-49ae-b711-9d4febb297c7/svn/primed-kelleher-baseboard-cal830ppr-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ecdb07c8-1ae3-492d-b036-dbe2358db405/svn/primed-kelleher-baseboard-cal830ppr-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 19,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "830"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.56 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "keywords_list": [
+      "California Collection",
+      "CAL830PPR 1 ft. x 3-1/2 in. x 9/16 in. Primed Pine Round Edge Base Moulding",
+      "CAL830PPR"
+    ],
+    "keywords": "California Collection, CAL830PPR 1 ft. x 3-1/2 in. x 9/16 in. Primed Pine Round Edge Base Moulding, CAL830PPR",
+    "variants": [
+      {
+        "title": "Primed~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Round-Edge-9-16-in-x-4-1-2-in-Double-Primed-Pine-Base-Molding-CAL831PPR/313011994",
+        "item_id": "313011994"
+      },
+      {
+        "title": "Primed~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Round-Edge-9-16-in-x-3-1-2-in-Double-Primed-Pine-Baseboard-Moulding-CAL830PPR/202715506",
+        "item_id": "202715506"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

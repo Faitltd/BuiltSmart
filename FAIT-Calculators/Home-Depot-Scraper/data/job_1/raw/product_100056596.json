@@ -1,0 +1,314 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14963,
+    "overage_used": 4963,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-16-in-Braided-Polymer-Faucet-Supply-Line-B1-16A-F/100056596"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:47:16.617Z",
+    "processed_at": "2025-05-02T21:47:22.566Z",
+    "total_time_taken": 5.95,
+    "homedepot_url": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-16-in-Braided-Polymer-Faucet-Supply-Line-B1-16A-F/100056596"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-16-in-Braided-Polymer-Faucet-Supply-Line-B1-16A-F/100056596",
+    "brand": "BrassCraft",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Supply-Lines/BrassCraft/N-5yc1vZbqjnZa4",
+    "title": "BrassCraft 3/8 in. Compression x 1/2 in. FIP x 16 in. Braided Polymer Faucet Supply Line",
+    "upc": "026613966151",
+    "item_id": "100056596",
+    "parent_id": "324487271",
+    "store_sku": "405140",
+    "model_number": "B1-16A F",
+    "description": "BrassCraft Speedi Plumb Plus 3/8 in. Compression inlet x 1/2 in. Female Iron Pipe outlet x 16 in. of length flexible braided polymer water connector is corrosion resistant inside and out. Used to connect the water supply to your faucet, this connector features a high tenacity, multi-filament yarn, protected by a special polymer coating for optimum corrosion resistance and durability. On the inside, our tough PVC tubing resists attack by chlorine, chloramines and other corrosive elements. The braided polymer fibers are designed to bend freely without kinking or crimping. Use to hookup cold or hot water supply.",
+    "favorite_count": 865,
+    "aisle": "09",
+    "bay": "013",
+    "feature_bullets": [
+      "Bends freely without flattening, kinking or crimping",
+      "Corrosion resistant to common household, tile and glass cleaners",
+      "Resistant to harsh water conditions"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "16 in. of length connector with 3/8 in. compression connection to water shut-off valve",
+      "Use with faucets with 1/2 in. MIP water connection; metal nut",
+      "Bends freely, without kinking or crimping, installation is easier, especially in cramped quarters",
+      "External corrosion resistance to common household, tile and glass cleaners",
+      "Internal corrosion resistance to harsh water conditions",
+      "8-sided pneumatic crimp for greater dependability and reliable nut-to-hose connections",
+      "Temperature rating: 40 Degree to 140 Degree F, intermittent to 180 Degree F",
+      "Pressure rating: 125 psi maximum",
+      "IAPMO and CSA listed to ASME A112.18.6/CSA B125.6, no-lead certified",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a153a3ed-a8bf-4339-ab85-819e2345f4e5/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16a-f-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6af20427-c487-4958-bd3e-cdf29dc88aed/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16a-f-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9baee003-967c-4acd-b805-30a0078d86ab/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16a-f-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7cf337d6-7028-4c2c-a743-9e51fa0562e9/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16a-f-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a153a3ed-a8bf-4339-ab85-819e2345f4e5/svn/silver-braided-polymer-brasscraft-supply-lines-b1-16a-f-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/2416b8bf-6b10-4d46-aa60-7b82b13d581a/87ab5a25-0e60-4d3d-a358-d5849b964eb6/main.mp4?fastly_token=NjgzOTZlMDdfNjQ3MzZjMTZlYzhiZDY4ODA1NWY3ODMxNTA2ZDkyNGM4MzA4ZWNjMmI0YjVkZjY0MzQxNjk5YzVmNTVhMWMzOF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yNDE2YjhiZi02YjEwLTRkNDYtYWE2MC03YjgyYjEzZDU4MWEvODdhYjVhMjUtMGU2MC00ZDNkLWEzNTgtZDU4NDliOTY0ZWI2L21haW4ubXA0&pubid=66036796001",
+        "title": "How to Select a Water Connection for your Faucet or Toilet",
+        "id": "4598225126001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/2416b8bf-6b10-4d46-aa60-7b82b13d581a/995e74dd-1631-49d8-890b-ff190d848e68/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn How to Select a Water Connection for your Faucet or Toilet"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 6643,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application",
+        "value": "Potable Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Silver, Braided Polymer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fitting Material",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Inlet Fitting End Type",
+        "value": "Compression"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Pressure (PSI)",
+        "value": "125"
+      },
+      {
+        "group_name": "Details",
+        "name": "Outlet Fitting End Type",
+        "value": "FIP"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Supply Line"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "CSA Certified,IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Manufacturer Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Inlet Diameter (In.)",
+        "value": "3/8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Outlet Diameter (In.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "16 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Tube Diameter (in.)",
+        "value": "0.550 in"
+      }
+    ],
+    "keywords_list": [
+      "faucet connector",
+      "braided faucet connector",
+      "supply line",
+      "braided supply line",
+      "16 in. faucet connector",
+      "16 in. supply line",
+      "BrassCraft faucet connector"
+    ],
+    "keywords": "faucet connector, braided faucet connector, supply line, braided supply line, 16 in. faucet connector, 16 in. supply line, BrassCraft faucet connector",
+    "variants": [
+      {
+        "title": "Silver, Braided Polymer~~16 in~~3/8 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-16-in-Braided-Polymer-Faucet-Supply-Line-B1-16A-F/100056596",
+        "item_id": "100056596"
+      },
+      {
+        "title": "Gray~~20.50 in~~3/8 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-Braided-Polymer-Faucet-Connector-20-in-Contractor-Pack-B1-20A-FC/325745835",
+        "item_id": "325745835"
+      },
+      {
+        "title": "Silver, Braided Polymer~~30 in~~1/2 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-x-1-2-in-FIP-x-30-in-Braided-Polymer-Faucet-Supply-Line-B3-30A-F/100181242",
+        "item_id": "100181242"
+      },
+      {
+        "title": "Gray~~19.80 in~~3/8 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-Braided-Polymer-Faucet-Connector-16-in-Contractor-Pack-B1-16A-FC/325745836",
+        "item_id": "325745836"
+      },
+      {
+        "title": "Silver, Braided Polymer~~20 in~~3/8 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-20-in-Braided-Polymer-Faucet-Supply-Line-B1-20A-F/100459572",
+        "item_id": "100459572"
+      },
+      {
+        "title": "Silver, Braided Polymer~~12 in~~3/8 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-12-in-Braided-Polymer-Faucet-Supply-Line-B1-12A-F/100068479",
+        "item_id": "100068479"
+      },
+      {
+        "title": "Silver, Braided Polymer~~36 in~~3/8 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-36-in-Braided-Polymer-Faucet-Supply-Line-B1-36A-F/205214581",
+        "item_id": "205214581"
+      },
+      {
+        "title": "Silver, Braided Polymer~~12 in~~1/2 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-x-1-2-in-FIP-x-12-in-Braided-Polymer-Faucet-Supply-Line-B3-12A-F/100143862",
+        "item_id": "100143862"
+      },
+      {
+        "title": "Silver, Braided Polymer~~34 in~~3/8 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-24-in-Braided-Polymer-Faucet-Supply-Line-B1-24A-F/205214580",
+        "item_id": "205214580"
+      },
+      {
+        "title": "Silver, Braided Polymer~~30 in~~3/8 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-3-8-in-Compression-x-1-2-in-FIP-x-30-in-Braided-Polymer-Faucet-Supply-Line-B1-30A-F/100186760",
+        "item_id": "100186760"
+      },
+      {
+        "title": "Silver, Braided Polymer~~20 in~~1/2 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-x-1-2-in-FIP-x-20-in-Braided-Polymer-Faucet-Supply-Line-B3-20A-F/100581480",
+        "item_id": "100581480"
+      },
+      {
+        "title": "Silver, Braided Polymer~~20 in~~7/16 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/7-16-in-Compression-x-1-2-in-FIP-x-20-in-Braided-Polymer-Faucet-Supply-Line-B2-20A-F/100120141",
+        "item_id": "100120141"
+      },
+      {
+        "title": "Silver, Braided Polymer~~16 in~~1/2 in. Compression~~1/2 in. FIP",
+        "link": "https://www.homedepot.com/p/BrassCraft-1-2-in-Compression-x-1-2-in-FIP-x-16-in-Braided-Polymer-Faucet-Supply-Line-B3-16A-F/100148838",
+        "item_id": "100148838"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Supply Lines",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Supply-Lines/N-5yc1vZbqjn"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 158
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 454,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 754,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

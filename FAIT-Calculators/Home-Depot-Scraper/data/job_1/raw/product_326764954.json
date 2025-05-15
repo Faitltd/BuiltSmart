@@ -1,0 +1,253 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14887,
+    "overage_used": 4887,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/BEMIS-Affinity-Mr-Clean-Antimicrobial-Elongated-Soft-Close-Plastic-Closed-Toilet-Seat-in-White-Removes-for-Easy-Cleaning-1203MSLEC-000/326764954"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T06:17:24.619Z",
+    "processed_at": "2025-05-02T06:17:30.345Z",
+    "total_time_taken": 5.73,
+    "homedepot_url": "https://www.homedepot.com/p/BEMIS-Affinity-Mr-Clean-Antimicrobial-Elongated-Soft-Close-Plastic-Closed-Toilet-Seat-in-White-Removes-for-Easy-Cleaning-1203MSLEC-000/326764954"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/BEMIS-Affinity-Mr-Clean-Antimicrobial-Elongated-Soft-Close-Plastic-Closed-Toilet-Seat-in-White-Removes-for-Easy-Cleaning-1203MSLEC-000/326764954",
+    "brand": "BEMIS",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Toilet-Seats/BEMIS/N-5yc1vZceq5Z7f",
+    "title": "BEMIS Affinity Mr. Clean Antimicrobial Elongated Soft Close Plastic Closed Toilet Seat in White Removes for Easy Cleaning",
+    "upc": "073088163707",
+    "item_id": "326764954",
+    "parent_id": "328021268",
+    "store_sku": "1010139532",
+    "model_number": "1203MSLEC 000",
+    "description": "Mr. Clean elongated closed front toilet seat is made from plastic, which is smooth, easy to clean and long lasting and features an antimicrobial property built into the toilet seat to inhibit the growth of bacteria. With the stay-title seat fastening system, the seat does not shift around and stays firmly attached to the toilet. The whisper close feature prevents both the ring and cover from slamming and easy clean and change allows the seat to be easily removed for cleaning. This stylish seat also features front to back adjustability for the perfect bowl fit every time. Made with eco-friendly materials and processes.* Contains an antimicrobial agent that protects the toilet seat from odor and stain-causing bacteria, mold and mildew. This product does not protect users or others against bacteria, viruses, germs or other disease organisms. Always clean this product thoroughly. Mr. Clean and Mr. Clean M Net. are used under license from The Procter & Gamble Company or its affiliates.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "aisle": "37",
+    "bay": "001",
+    "feature_bullets": [
+      "Bemis + Mr. Clean = The perfect fusion of clean and comfort",
+      "Soft close with whisper close and never loosens with STAY\u00b7TITE",
+      "Durable solid plastic that is easy to clean"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Antimicrobial property built in to the toilet seat to inhibit the growth of bacteria",
+      "Stay, tite seat fastening system never loosens, installs with ease",
+      "Easy clean hinge allows for quick removal of seat for easy cleaning",
+      "Whisper close hinge slowly and quietly closes with a tap eliminating slamming and pinched fingers",
+      "Precision seat fit provides adjustability for the perfect bowl fit",
+      "Super, grip bumpers prevents the seat from shifting on the toilet and provides greater stability",
+      "Solid resilient plastic with molded-in color resists wear, chips and stains",
+      "Fits most manufacturers elongated toilets",
+      "Made with eco-friendly materials and processes"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c756f743-8442-4571-834f-73e73db4c6c1/svn/white-bemis-toilet-seats-1203mslec-000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/35bafb14-42f9-43e9-b609-6fd084828435/svn/white-bemis-toilet-seats-1203mslec-000-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3558a781-3e6f-4f96-9b92-c843de78fffc/svn/white-bemis-toilet-seats-1203mslec-000-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/24493a7f-2e93-569b-a89a-33bc7b8fe1ee/svn/white-bemis-toilet-seats-1203mslec-000-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bf126448-5ad5-5ab7-a2d9-f7c6a3be9383/svn/white-bemis-toilet-seats-1203mslec-000-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/75525f5f-41e6-56fc-a5d1-0a42eab39bc6/svn/white-bemis-toilet-seats-1203mslec-000-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/03e12632-239c-415d-84e0-8e19e82c7458/svn/white-bemis-toilet-seats-1203mslec-000-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0ac159a4-5c4d-4fc0-9045-5f66ccdcc60f/svn/white-bemis-toilet-seats-1203mslec-000-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c756f743-8442-4571-834f-73e73db4c6c1/svn/white-bemis-toilet-seats-1203mslec-000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a500b819-8190-4468-86e9-ed674a0d4167/1a562f00-c263-44fd-bd67-7ac623b152cd/main.mp4?fastly_token=NjgzODIxNWZfOTQ4YzBlY2E2NTFlZGU3NzFiYTdhMGYzNGUwMmRmMDc2YTVlZWM3NmZhN2JlNWRiZTlhZjM5YTdlOWMxN2UxNV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNTAwYjgxOS04MTkwLTQ0NjgtODZlOS1lZDY3NGEwZDQxNjcvMWE1NjJmMDAtYzI2My00NGZkLWJkNjctN2FjNjIzYjE1MmNkL21haW4ubXA0&pubid=66036796001",
+        "title": "E4 Installation Video",
+        "id": "6094679953001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/a500b819-8190-4468-86e9-ed674a0d4167/cba078bf-d459-43d5-9563-04d2da1f2608/160x90/match/image.jpg?pubId=66036796001",
+        "description": "How to install your toilet seat with the E4 hinge series."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e7521648-d8b7-4b9d-b093-2c7a64310d99/1f3fe72d-af63-409f-9b65-3cf26402b8aa/main.mp4?fastly_token=NjgzODJhN2JfZmE1MzliM2IxZjEzYTFmMDExNmE4OTczZmVhM2E0NDhkOTE2NGVkMjE3NGNmNDc1YzJlMWM1NWFmMWMyOTA4Ml8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lNzUyMTY0OC1kOGI3LTRiOWQtYjA5My0yYzdhNjQzMTBkOTkvMWYzZmU3MmQtYWY2My00MDlmLTliNjUtM2NmMjY0MDJiOGFhL21haW4ubXA0&pubid=66036796001",
+        "title": "Easy Clean F&B",
+        "id": "6248316437001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/e7521648-d8b7-4b9d-b093-2c7a64310d99/main/160x90/8s192ms/match/image.jpg?pubId=66036796001",
+        "description": "Easy Clean hinge allows for quick removal of seat for easy cleaning"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/9eee5b45-210c-4627-9908-d5ba80e27b1e/2c36bea6-cf5b-46ef-a1b7-bb260e7edf83/main.mp4?fastly_token=NjgzODE3ZDJfNGJhOGFkMTRmZGMxZjEyN2M0YmJiOGMxZTIwZjg5M2Y2YzgyNGU3NjY4ZDNkNGRhYWU3OTM1MWI1ZmE0Y2MxMV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS85ZWVlNWI0NS0yMTBjLTQ2MjctOTkwOC1kNWJhODBlMjdiMWUvMmMzNmJlYTYtY2Y1Yi00NmVmLWExYjctYmIyNjBlN2VkZjgzL21haW4ubXA0&pubid=66036796001",
+        "title": "Toilet Seat Size Guide",
+        "id": "6248798572001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/9eee5b45-210c-4627-9908-d5ba80e27b1e/main/160x90/23s264ms/match/image.jpg?pubId=66036796001",
+        "description": "What size toilet seat do I need? How to measure."
+      }
+    ],
+    "ratings_total": 748,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Easy Release,Grip Tight Bumpers,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5.62 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Seat Type",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "18.56 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "2.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "14.0 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Elongated~~1 Pack",
+        "link": "https://www.homedepot.com/p/BEMIS-Affinity-Mr-Clean-Antimicrobial-Elongated-Soft-Close-Plastic-Closed-Toilet-Seat-in-White-Removes-for-Easy-Cleaning-1203MSLEC-000/326764954",
+        "item_id": "326764954"
+      },
+      {
+        "title": "White~~Round~~1 Pack",
+        "link": "https://www.homedepot.com/p/BEMIS-Affinity-Mr-Clean-Antimicrobial-Round-Soft-Close-Plastic-Toilet-Seat-in-White-Removes-for-Easy-Cleaning-203MSLEC-000/326764960",
+        "item_id": "326764960"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Toilet Seats",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Toilet-Seats/N-5yc1vZceq5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 39.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 11
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 2.99,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 41,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

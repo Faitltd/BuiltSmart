@@ -1,0 +1,327 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14073,
+    "overage_used": 4073,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-3-in-T25-6-Lobe-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-770-Pack-DSVT3R770/321563369"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:53:48.985Z",
+    "processed_at": "2025-05-01T17:53:54.888Z",
+    "total_time_taken": 5.9,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-3-in-T25-6-Lobe-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-770-Pack-DSVT3R770/321563369"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-3-in-T25-6-Lobe-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-770-Pack-DSVT3R770/321563369",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Simpson-Strong-Tie/N-5yc1vZ2fkpe61Z615",
+    "title": "Simpson Strong-Tie #10 x 3 in. T25 6-Lobe, Flat Head, Deck-Drive DSV Wood Screw, Quik Guard, Tan (770-Pack)",
+    "upc": "707392010326",
+    "item_id": "321563369",
+    "parent_id": "330099211",
+    "store_sku": "1008412477",
+    "model_number": "DSVT3R770",
+    "description": "The Deck-Drive DSV Wood screw is a powerful fastening solution for preservative-treated decking applications. With its underhead nibs and fast-start tip, the DSV is ideally suited to be driven and countersunk into todays wood deck boards. The shank is designed to withstand the swelling and shrinkage that is common with fast-growth lumber. DSV screws are also offered in a variety of sizes to fasten fascia and trim.",
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Low-torque threads allow up to 35% more screws to be driven on a battery charge",
+      "Ribbed-head design countersinks easily and provides a clean, finished appearance",
+      "High-low tip provides fast starts",
+      "Optimized threads for dimensional lumber",
+      "T25 6-lobe driver bit included (replacement driver bit BIT25T-2)",
+      "Meets the performance requirements of AC257 exposure conditions 1 and 3",
+      "Dimensions: #10 x 3 in.",
+      "Quik guard coating for use in pressure-treated lumber and provides a level of corrosion resistance that is equivalent to hot-dip galvanization (ASTM A153, class D) in some exposures",
+      "Color: tan",
+      "Quantity: 770"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ed66a41e-550a-57b9-92a5-b2970a3402bd/svn/simpson-strong-tie-deck-screws-dsvt3r770-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4fa8f854-bc16-4f06-9c58-660f47695b2b/svn/simpson-strong-tie-deck-screws-dsvt3r770-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b74f3104-259f-4049-8581-526c86924e20/svn/simpson-strong-tie-deck-screws-dsvt3r770-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0df868ac-25c3-4017-81d1-a000ce34a600/svn/simpson-strong-tie-deck-screws-dsvt3r770-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e9654251-970e-4548-a5b0-4b20d158d704/svn/simpson-strong-tie-deck-screws-dsvt3r770-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e051f8e4-4835-4364-b1f4-4c478e3d4afe/svn/simpson-strong-tie-deck-screws-dsvt3r770-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/212bc4ef-4ce1-4fed-b920-a0282762ef4c/svn/simpson-strong-tie-deck-screws-dsvt3r770-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/84525847-b234-4ffc-bb9d-79d0c1c3a878/svn/simpson-strong-tie-deck-screws-dsvt3r770-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b74f3104-259f-4049-8581-526c86924e20/svn/simpson-strong-tie-deck-screws-dsvt3r770-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-deck-screws-dsvt3r770-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ed66a41e-550a-57b9-92a5-b2970a3402bd/svn/simpson-strong-tie-deck-screws-dsvt3r770-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 52,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Electro Galvanized Zinc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "770"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "11.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Hi-Lo Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "N/A - Metric Fastener"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "3 in~~#10~~Tan~~1.1 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-3-in-T25-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-70-Pack-DSVT3R70/321563400",
+        "item_id": "321563400"
+      },
+      {
+        "title": "3 in~~#10~~Tan~~11.5 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-3-in-T25-6-Lobe-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-770-Pack-DSVT3R770/321563369",
+        "item_id": "321563369"
+      },
+      {
+        "title": "4 in~~#10~~Tan~~1.1 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-4-in-T25-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-50-Pack-DSVT4R50/321563390",
+        "item_id": "321563390"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Tan~~1.1 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-3-1-2-in-T25-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-60-Pack-DSVT312R60/321563343",
+        "item_id": "321563343"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Tan~~1.1 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-2-1-2-in-T25-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-80-Pack-DSVT212R80/321563372",
+        "item_id": "321563372"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Tan~~3.3 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-2-1-2-in-T25-6-Lobe-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-240-Pack-DSVT212R240/321563362",
+        "item_id": "321563362"
+      },
+      {
+        "title": "2 in~~#10~~Tan~~1.1 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-2-in-T25-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-110-Pack-DSVT2R110/321563346",
+        "item_id": "321563346"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Tan~~1.1 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-8-x-1-5-8-in-T25-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-160-Pack-DSVT158R160/321563347",
+        "item_id": "321563347"
+      },
+      {
+        "title": "3 in~~#10~~Tan~~3.3 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-3-in-T25-6-Lobe-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-210-Pack-DSVT3R210/321563382",
+        "item_id": "321563382"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Tan~~11.5 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-2-1-2-in-T25-6-Lobe-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-880-Pack-DSVT212R880/321563335",
+        "item_id": "321563335"
+      },
+      {
+        "title": "2 in~~#10~~Tan~~3.3 lb",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-10-x-2-in-T25-6-Lobe-Flat-Head-Deck-Drive-DSV-Wood-Screw-Quik-Guard-Tan-330-Pack-DSVT2R330/321563397",
+        "item_id": "321563397"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 59.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 93,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 93,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

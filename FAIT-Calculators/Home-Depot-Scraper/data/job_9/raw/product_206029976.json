@@ -1,0 +1,293 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13688,
+    "overage_used": 3688,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Henry-887-Tropi-Cool-White-100-Silicone-Reflective-Roof-Coating-0-90-gal-HE887HS142/206029976"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:54:13.444Z",
+    "processed_at": "2025-05-01T16:54:20.293Z",
+    "total_time_taken": 6.85,
+    "homedepot_url": "https://www.homedepot.com/p/Henry-887-Tropi-Cool-White-100-Silicone-Reflective-Roof-Coating-0-90-gal-HE887HS142/206029976"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Henry-887-Tropi-Cool-White-100-Silicone-Reflective-Roof-Coating-0-90-gal-HE887HS142/206029976",
+    "brand": "Henry",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Coatings/Henry/N-5yc1vZaqu6Z2wn",
+    "title": "Henry 887 Tropi-Cool White 100% Silicone Reflective Roof Coating 0.90 gal.",
+    "upc": "081725251106",
+    "item_id": "206029976",
+    "parent_id": "332535577",
+    "store_sku": "1001358540",
+    "model_number": "HE887HS142",
+    "description": "Henry 887 Tropi-Cool 100% Silicone White Roof Coating is a premium, 100% silicone, moisture-cure coating designed to reflect the sun's heat and UV rays as well as protect many types of roofs. Now with Dirt Pick-Up Resistance (DPR) Technology, it will keep your roof whiter and brighter longer. While suitable for use in all climates, the 100% silicone chemistry is especially suited for extreme tropical environments, which are exposed to some of the hottest and wettest weather with intense UV exposure. It is specially designed to maintain maximum reflectivity of heat and UV rays as it ages. Its moisture-cure chemistry creates a very aggressive chemical bond with the roof, which allows for permanent ponding water resistance, extreme durability, and superior capabilities of sealing and protection.",
+    "is_exclusive": true,
+    "favorite_count": 443,
+    "aisle": "25",
+    "bay": "021",
+    "feature_bullets": [
+      "100% WATERPROOF SILICONE - Energy efficient & rain-safe in 15 min",
+      "VERSATILE - Can be used on rolled roofing, RV's and more",
+      "Extends roof life and is backed by a lifetime warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "100% Waterproof",
+      "Lifetime limited warranty",
+      "Dirt Pick-Up Resistance (DPR) technology formula - Stays whiter and brighter longer",
+      "Delivers longest lasting reflectivity and energy savings",
+      "Helps prevent dirt and dust buildup",
+      "Rain\u2010safe in 15\u2010minutes",
+      "1-coat application",
+      "Wide application temperature range from 35 \u00b0F to 120 \u00b0F (2 \u00b0C to 49 \u00b0C)",
+      "Permanent ponding water resistant",
+      "Superior UV resistance and weathering performance",
+      "VOC compliant - solvent\u2010free",
+      "Mold and mildew resistant",
+      "Chemically bonds with roof substrates as it cures",
+      "Easy to apply by spray, roller, or brush",
+      "Excellent adhesion and flexibility"
+    ],
+    "descriptive_attributes_count": 15,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1859f2c0-6b23-4ed7-aab0-2cc404880a95/svn/henry-roof-coatings-he887hs142-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5a0fb909-90d0-40ef-987e-72e3b92a35f9/svn/henry-roof-coatings-he887hs142-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3214c500-8027-470e-89e7-72e4063bb09c/svn/henry-roof-coatings-he887hs142-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3855346d-68f3-488e-a5aa-0a07db301b76/svn/henry-roof-coatings-he887hs142-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c8f1e4b1-c65e-40af-a525-b363ebd0fcb1/svn/henry-roof-coatings-he887hs142-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f16ca920-5cef-4c77-87aa-1e1d4a1886e3/svn/henry-roof-coatings-he887hs142-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0b03b5af-9439-4bb2-b388-7f3552b0c55f/svn/henry-roof-coatings-he887hs142-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/179c8310-9e6e-4c61-9044-37a7c63f5959/svn/henry-roof-coatings-he887hs142-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1859f2c0-6b23-4ed7-aab0-2cc404880a95/svn/henry-roof-coatings-he887hs142-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e2c1c527-2ed0-494f-9080-b67084325b0d/e20d8fa1-c3ce-4a6f-b4db-e8fcaf9e9dee/main.mp4?fastly_token=NjgzODI3NmVfMTY2OGE4YjMyYjJkZDNjMTI2NGU0ZmU2MDg5NGZlY2VmMDkwZmEzZjEwYjUzMGExNGY0OGI2NWMwMWE0YzQ5N18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lMmMxYzUyNy0yZWQwLTQ5NGYtOTA4MC1iNjcwODQzMjViMGQvZTIwZDhmYTEtYzNjZS00YTZmLWI0ZGItZThmY2FmOWU5ZGVlL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Apply Henry\u00ae Elastomeric White Roof Coatings for Energy Savings",
+        "id": "6164024739001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ff1f8910-6cdc-4626-a1fb-215a3a63488e/d97777ee-9c60-42e0-bb8f-4d50ee23fcd9/160x90/match/image.jpg",
+        "description": "How to Apply Henry\u00ae Elastomeric White Roof Coatings for Energy Savings"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/854c1099-109d-4f8a-bc37-5b8cd0b173bb/4bb78ec7-ba6b-4a21-bb57-b566535e7819/main.mp4?fastly_token=NjgzODI3NTFfZmIzNmEyNjE5NmQ0YjYyOGFkY2YzNDZlZjhhYmY1MzE3ODg5ZWRmY2QxNWU5MDUyNWNkNmI1OGY5OGIxZjk2YV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS84NTRjMTA5OS0xMDlkLTRmOGEtYmMzNy01YjhjZDBiMTczYmIvNGJiNzhlYzctYmE2Yi00YTIxLWJiNTctYjU2NjUzNWU3ODE5L21haW4ubXA0&pubid=66036796001",
+        "title": "Tropicool DPR Product Demo",
+        "id": "6309167033112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/d2a7458b-cc73-4699-86a0-4bb0ca3b2bee/d0d8633b-d694-475d-860e-196d4a185c63/160x90/match/image.jpg",
+        "description": "Henry 8-87 Tropi-Cool 100% Silicone White Roof Coating now comes with our DPR Technology \u2013 that\u2019s Dirt Pick-Up Resistance Technology."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/d0dbfcdd-2d4e-4090-a180-d4a5ea7fe53e/2ebddac7-bab2-4bd7-9ab3-c17c1119db0e/main.mp4?fastly_token=NjgxMzkyZTZfOWNhODk2NmIwYTRmZThmNDIzMWFlY2Y4Yzk3Zjg3M2Y4NjBiYTFhY2UzNDQ5OWFlZDQzODcxODU5MDlmZDEyZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZDBkYmZjZGQtMmQ0ZS00MDkwLWExODAtZDRhNWVhN2ZlNTNlLzJlYmRkYWM3LWJhYjItNGJkNy05YWIzLWMxN2MxMTE5ZGIwZS9tYWluLm1wNA%3D%3D",
+        "title": "Henry 887 Tropi-cool \u2013 100% Silicone Reflective White Roof Coating",
+        "id": "6311704766112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/d0dbfcdd-2d4e-4090-a180-d4a5ea7fe53e/0b6ef262-1d73-475c-a5a8-49929b4203eb/160x90/match/image.jpg",
+        "description": "Henry 887 Tropi-cool \u2013 100% Silicone Reflective White Roof Coating\n"
+      }
+    ],
+    "ratings_total": 1702,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Brush On,Roll On,Spray On"
+      },
+      {
+        "group_name": "Details",
+        "name": "Approximate Coverage Per Gallon (sq. ft)",
+        "value": "67"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coating Base",
+        "value": "Silicone"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cold Applied",
+        "value": "Cold Applied"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Algae Resistant,Cool Roof Certified,Extreme Heat,High Impact/Hail Resistant,High Reflectivity,High Wind Resistant,Ice and Water Shield,Impact Resistant,Mildew Resistant,Quick Dry,Waterproof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "No Rating Available"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number per Package",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package size (gallons)",
+        "value": "0.9 gal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Reflectivity Rating (%)",
+        "value": "88"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Reflective Roof Coating"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Recommended",
+        "value": "Coated Roofs,Concrete Roofs,Concrete/Masonry,Metal,Metal Roofs,Mobile Home Roof,PVC Membrane,Rubberrized-Asphalt,Rubberrized-Mastic,Rv Roof,TPO Membrane,Trailer Roof"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime limited warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "13 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "7.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size (oz.)",
+        "value": "115.2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "13 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~4.75 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-887-Tropi-Cool-White-100-Silicone-Reflective-Roof-Coating-4-75-gal-HE887HS018/205049553",
+        "item_id": "205049553"
+      },
+      {
+        "title": "Tan~~4.75 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-887T-Tropi-Cool-Tan-100-Silicone-Reflective-Roof-Coating-4-75-gal-HE887T018/302862583",
+        "item_id": "302862583"
+      },
+      {
+        "title": "Silver~~4.75 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-887G-Tropi-Cool-Gray-100-Silicone-Reflective-Roof-Coating-4-75-gal-HE887G018/302865617",
+        "item_id": "302865617"
+      },
+      {
+        "title": "White~~0.9 gal~~1",
+        "link": "https://www.homedepot.com/p/Henry-887-Tropi-Cool-White-100-Silicone-Reflective-Roof-Coating-0-90-gal-HE887HS142/206029976",
+        "item_id": "206029976"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Commercial Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing/N-5yc1vZapzz"
+      },
+      {
+        "name": "Roof Coatings",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Commercial-Roofing-Roof-Coatings/N-5yc1vZaqu6"
+      }
+    ],
+    "buybox_winner": {
+      "price": 119,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 10
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 52,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 63,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

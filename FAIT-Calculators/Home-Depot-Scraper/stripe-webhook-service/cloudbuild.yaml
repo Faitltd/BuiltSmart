@@ -1,0 +1,45 @@
+# Cloud Build configuration file for Stripe webhook service
+
+steps:
+  # Step 1: Create a temporary directory for the db module
+  - name: 'gcr.io/cloud-builders/bash'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        mkdir -p db
+        cp -r ../db/* db/ || echo "No db module found in parent directory"
+
+  # Step 2: Build the container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/scraper-webhook', '.']
+
+  # Step 3: Push the container image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/scraper-webhook']
+
+  # Step 4: Deploy container image to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'scraper-webhook'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/scraper-webhook'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars'
+      - 'STRIPE_MASTER_API_KEY=${_STRIPE_MASTER_API_KEY},STRIPE_WEBHOOK_SECRET=${_STRIPE_WEBHOOK_SECRET},GOOGLE_CLOUD_PROJECT=${PROJECT_ID}'
+
+# Substitution variables
+substitutions:
+  _STRIPE_MASTER_API_KEY: 'sk_test_your_secret_key'  # Replace with your actual key or use Cloud Build substitutions
+  _STRIPE_WEBHOOK_SECRET: 'whsec_your_webhook_secret'  # Replace with your actual secret or use Cloud Build substitutions
+
+# Images to be pushed to Container Registry
+images:
+  - 'gcr.io/$PROJECT_ID/scraper-webhook'

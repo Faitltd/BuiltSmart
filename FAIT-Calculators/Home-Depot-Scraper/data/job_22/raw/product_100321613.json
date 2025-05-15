@@ -1,0 +1,211 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14754,
+    "overage_used": 4754,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/USG-Sheetrock-Brand-2-1-16-in-x-250-ft-Paper-Drywall-Joint-Tape-382175/100321613"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:10:40.288Z",
+    "processed_at": "2025-05-01T19:10:44.781Z",
+    "total_time_taken": 4.49,
+    "homedepot_url": "https://www.homedepot.com/p/USG-Sheetrock-Brand-2-1-16-in-x-250-ft-Paper-Drywall-Joint-Tape-382175/100321613"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-2-1-16-in-x-250-ft-Paper-Drywall-Joint-Tape-382175/100321613",
+    "brand": "USG Sheetrock Brand",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tape/USG-Sheetrock-Brand/N-5yc1vZc7qeZomd",
+    "title": "USG Sheetrock Brand 2-1/16 in. x 250 ft. Paper Drywall Joint Tape",
+    "upc": "081099221644",
+    "item_id": "100321613",
+    "parent_id": "306903079",
+    "store_sku": "258423",
+    "model_number": "382175",
+    "description": "From the originator of modern joint finishing, USG Sheetrock Brand Paper Joint Tape adds strength and crack resistance for smooth concealment at flat joints and inside corners of drywall panels. Manufactured with a unique, strong, cross-fibered tape, it is ideal with both drying- and setting-type compounds, as it reinforces the joint compound in compression, bending and shear, and will prevent visible cracking. The roughened surface ensures a strong bond and features a positive crease that simplifies corner applications.",
+    "is_bestseller": true,
+    "favorite_count": 19757,
+    "aisle": "24",
+    "bay": "018",
+    "collection": {
+      "id": "Family-313326940",
+      "name": "Family-313326940",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Drywall-Finishing-Solutions/Family-313326940?omsid=100321613"
+    },
+    "feature_bullets": [
+      "High tensile drywall tape resists tearing, stretching, wrinkling",
+      "Wafer-thin for easier joint treatment",
+      "Superior center-creasing for trouble-free corner finishing"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Resists tearing, stretching and distortion",
+      "Roughened surface for superior bond",
+      "Wafer-thin paper for easier joint treatment",
+      "Accurately center-creased to improve corner treatment"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/829e538e-4bb6-4ec5-a953-cd7c95241c17/svn/usg-sheetrock-brand-drywall-tape-382175-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2d798814-e293-41ed-b7f2-3f2a30e26bd4/svn/usg-sheetrock-brand-drywall-tape-382175-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/08b0341f-6eb6-4d96-96ee-f114e3d43771/svn/usg-sheetrock-brand-drywall-tape-382175-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ee6cff3f-ffd8-4d0f-adf5-52788d3a6221/svn/usg-sheetrock-brand-drywall-tape-382175-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/106b5055-7335-4214-b5ad-7691bf28eb88/svn/usg-sheetrock-brand-drywall-tape-382175-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3cf03b9a-4e1e-4405-9046-e445fa536416/svn/usg-sheetrock-brand-drywall-tape-382175-77_1000.jpg",
+        "type": "image_open_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/829e538e-4bb6-4ec5-a953-cd7c95241c17/svn/usg-sheetrock-brand-drywall-tape-382175-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1ea7deb3-3398-4b15-ad4c-1919a4a34a72/a1cc219e-4990-4a46-9768-b86b2e346145/main.mp4?fastly_token=NjgzODI0ZGVfZTdmNTc2NGQ5NDc2ZGQ2ZGFjMzZiNWI3ZmVhMGFhZWI4NDVjMjIwZDVmODg3OTViMDNhZjEwMmM2N2FhNTNhZl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xZWE3ZGViMy0zMzk4LTRiMTUtYWQ0Yy0xOTE5YTRhMzRhNzIvYTFjYzIxOWUtNDk5MC00YTQ2LTk3NjgtYjg2YjJlMzQ2MTQ1L21haW4ubXA0&pubid=66036796001",
+        "title": "Drywall Joint Tape - Paper vs Fiberglass",
+        "id": "4102747774001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/1ea7deb3-3398-4b15-ad4c-1919a4a34a72/cfe698b2-1ea7-4f04-b16b-457f7014ced8/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Video explains the difference between paper and fiberglass joint tape and the applications for each."
+      }
+    ],
+    "ratings_total": 1165,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Paper"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Rolls Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.25 lb"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "0.0085"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.065 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Tape Length (ft.)",
+        "value": "250"
+      }
+    ],
+    "keywords_list": [
+      "tape",
+      "drywall tape",
+      "tapes",
+      "drywall tapes",
+      "joint tape",
+      "drywall joint tape",
+      "joint tapes",
+      "drywall joint tapes",
+      "SHEETROCK Brand tape",
+      "SHEETROCK Brand tapes",
+      "SHEETROCK Brand joint tape",
+      "SHEETROCK Brand joint tapes"
+    ],
+    "keywords": "tape, drywall tape, tapes, drywall tapes, joint tape, drywall joint tape, joint tapes, drywall joint tapes, SHEETROCK Brand tape, SHEETROCK Brand tapes, SHEETROCK Brand joint tape, SHEETROCK Brand joint tapes",
+    "variants": [
+      {
+        "title": "500",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-2-1-16-in-x-500-ft-Heavy-Paper-Drywall-Joint-Tape-382199010/100392701",
+        "item_id": "100392701"
+      },
+      {
+        "title": "75",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-2-1-16-in-x-75-ft-Paper-Drywall-Joint-Tape-380041/100321612",
+        "item_id": "100321612"
+      },
+      {
+        "title": "250",
+        "link": "https://www.homedepot.com/p/USG-Sheetrock-Brand-2-1-16-in-x-250-ft-Paper-Drywall-Joint-Tape-382175/100321613",
+        "item_id": "100321613"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Drywall",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall/N-5yc1vZar3d"
+      },
+      {
+        "name": "Drywall Tape",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tape/N-5yc1vZc7qe"
+      }
+    ],
+    "buybox_winner": {
+      "price": 4.57,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 282
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 2652,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

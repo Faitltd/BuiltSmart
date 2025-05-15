@@ -1,0 +1,234 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12837,
+    "overage_used": 2837,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Eurotec-7-32-in-x-2-3-4-in-Stainless-Steel-Torx25-Cylinder-Head-Hardwood-Deck-Screw-500-Pack-with-Predrill-Tool-INC905541/309049076"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:32:56.118Z",
+    "processed_at": "2025-05-01T13:33:00.702Z",
+    "total_time_taken": 4.58,
+    "homedepot_url": "https://www.homedepot.com/p/Eurotec-7-32-in-x-2-3-4-in-Stainless-Steel-Torx25-Cylinder-Head-Hardwood-Deck-Screw-500-Pack-with-Predrill-Tool-INC905541/309049076"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Eurotec-7-32-in-x-2-3-4-in-Stainless-Steel-Torx25-Cylinder-Head-Hardwood-Deck-Screw-500-Pack-with-Predrill-Tool-INC905541/309049076",
+    "brand": "Eurotec",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Eurotec/N-5yc1vZ2fkpe61Zlx5",
+    "title": "Eurotec 7/32 in. x 2-3/4 in. Stainless Steel Torx25 Cylinder-Head Hardwood Deck Screw (500-Pack with Predrill Tool)",
+    "upc": "4251314729682",
+    "item_id": "309049076",
+    "parent_id": "322081681",
+    "store_sku": "1004196306",
+    "model_number": "INC905541",
+    "description": "The Terrassotec Trilobular screw is used in the visible attachment of decking as wood-wood joints. It is only partially rust-resistant, not acid-resistant, relatively soft and not suitable for atmospheres containing chlorine. Advantages of Terrassotec Trilobular: Special screw geometry Drive thread ensures quick screwing Reinforced shank reduces risk of breaking or shearing off Under-head thread provides additional hold for deck boards. Trilobular base geometry Reduced screwing torque Reduced risk of screw breaking during screwing. 2-step head with under-head toothing Reduced splintering Reduced risk of timber splitting. Reinforced shank Suitable for many tropical woods Reduced risk of screw shearing off.",
+    "favorite_count": 1,
+    "descriptive_attributes": [
+      "Special screw geometry",
+      "Trilobular base geometry",
+      "2-step head with under-head toothing",
+      "Reinforced shank",
+      "Including tool for pre-drilling",
+      "Material #304"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/796f2945-9d95-4677-b46a-2d41dcc4f4eb/svn/eurotec-deck-screws-inc905541-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c9ddaf2f-4297-431a-83c0-2cf52d818c3f/svn/eurotec-deck-screws-inc905541-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4515ab56-d335-4993-85bd-5d8ba87498f1/svn/eurotec-deck-screws-inc905541-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/796f2945-9d95-4677-b46a-2d41dcc4f4eb/svn/eurotec-deck-screws-inc905541-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Clear Zinc"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "18-8 Stainless"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ISO"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Metric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "500"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.00002 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "2.2 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "11 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "warranty against manufacturer defects"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-3/4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "7/32 in"
+      }
+    ],
+    "size": "7/32 in",
+    "variants": [
+      {
+        "title": "2-1/2 in~~7/32 in~~Silver~~0.00002 lb",
+        "link": "https://www.homedepot.com/p/Eurotec-7-32-in-x-2-1-2-in-Stainless-Steel-Torx25-Cylinder-Head-Hardwood-Deck-Screw-500-Pack-with-Predrill-Tool-INC905540/309048787",
+        "item_id": "309048787"
+      },
+      {
+        "title": "2-3/4 in~~7/32 in~~Silver~~0.00002 lb",
+        "link": "https://www.homedepot.com/p/Eurotec-7-32-in-x-2-3-4-in-Stainless-Steel-Torx25-Cylinder-Head-Hardwood-Deck-Screw-500-Pack-with-Predrill-Tool-INC905541/309049076",
+        "item_id": "309049076"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 158.41,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 103,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-08"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 103,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

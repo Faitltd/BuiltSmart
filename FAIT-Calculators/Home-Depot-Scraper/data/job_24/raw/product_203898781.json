@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14274,
+    "overage_used": 4274,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-206-11-16-in-x-11-16-in-x-96-in-Solid-Pine-Outside-Corner-Moulding-10001949/203898781"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:44.179Z",
+    "processed_at": "2025-05-01T18:23:49.896Z",
+    "total_time_taken": 5.72,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-206-11-16-in-x-11-16-in-x-96-in-Solid-Pine-Outside-Corner-Moulding-10001949/203898781"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-206-11-16-in-x-11-16-in-x-96-in-Solid-Pine-Outside-Corner-Moulding-10001949/203898781",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/Woodgrain-Millwork/N-5yc1vZcbjfZ7c8",
+    "title": "Woodgrain Millwork WM 206 11/16 in. x 11/16 in. x 96 in. Solid Pine Outside Corner Moulding",
+    "upc": "095624517669",
+    "item_id": "203898781",
+    "store_sku": "1000374438",
+    "model_number": "10001949",
+    "description": "The Woodgrain Distribution 11/16 in. x 11/16 in. x 96 in. WM206 Pine outside corner moulding is used to protect and cover corners where walls form outside corners or where wall coverings and painted surfaces meet. The moulding is sometimes refered too as outside corner guards. The Pine WM206 outside corner can also be used on shelving boards to prevent items from sliding off.",
+    "favorite_count": 424,
+    "feature_bullets": [
+      "Solid pine molding for strength and performance",
+      "Paintable and stainable for a customized look",
+      "Intended for indoor use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted or faux finished with any high quality latex or oil based paint to create a unique look",
+      "Can be stained or painted with any high quality latex or oil based paint/stain",
+      "Use to protect corners where wall paper meets a painted wall",
+      "Use to protect outside corners from dents and scratches in high traffic areas",
+      "Installs with common woodworking tools"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/6ca34032-786c-4e23-bfe5-d54deaeb97cd/svn/unfinished-woodgrain-millwork-corner-moulding-10001949-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/unfinished-woodgrain-millwork-corner-moulding-10001949-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/6ca34032-786c-4e23-bfe5-d54deaeb97cd/svn/unfinished-woodgrain-millwork-corner-moulding-10001949-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 57,
+    "rating": 3.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Corner Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "206"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.688 in"
+      }
+    ],
+    "keywords_list": [
+      "Woodgrain Millwork",
+      "WM 206 11/16 in. x 11/16 in. x 96 in. Wood Pine Corner Moulding",
+      "109610"
+    ],
+    "keywords": "Woodgrain Millwork, WM 206 11/16 in. x 11/16 in. x 96 in. Wood Pine Corner Moulding, 109610",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Corner Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/N-5yc1vZcbjf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 9.68,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1363,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 1363,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

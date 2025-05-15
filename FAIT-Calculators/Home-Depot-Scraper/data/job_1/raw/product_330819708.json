@@ -1,0 +1,281 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14932,
+    "overage_used": 4932,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-with-Slow-Close-Seat-in-White-726DA101-020/330819708"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:43:55.616Z",
+    "processed_at": "2025-05-02T21:43:59.833Z",
+    "total_time_taken": 4.22,
+    "homedepot_url": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-with-Slow-Close-Seat-in-White-726DA101-020/330819708"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-with-Slow-Close-Seat-in-White-726DA101-020/330819708",
+    "brand": "American Standard",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/American-Standard/N-5yc1vZcb8nZ5a",
+    "title": "American Standard Reliant 12 in. Rough In 2-Piece 1.28 GPF Single Flush Round Toilet with Slow Close Seat in White",
+    "upc": "193406306156",
+    "item_id": "330819708",
+    "parent_id": "331943002",
+    "store_sku": "1011861000",
+    "model_number": "726DA101.020",
+    "description": "The Reliant Two-Piece Round Front Toilet from American Standard offers the worry-free reliability you expect from one of the industry's most trusted names for more than 140 years. This low-consumption toilet uses 20% less water than a regular toilet and is WaterSense certified for high efficiency. The Reliant toilet is easy to install and features a round front bowl. Backed by an industry-leading warranty that includes lifetime on chinaware plus 2 years on mechanical parts, twice the industry standard of one year, you can be confident Reliant will stand the test of time.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "aisle": "37",
+    "bay": "008",
+    "collection": {
+      "id": "Family-318049238",
+      "name": "Family-318049238",
+      "link": "https://www.homedepot.com/collection/Plumbing/Reliant-Toilets/Family-318049238?omsid=330819708"
+    },
+    "feature_bullets": [
+      "Round front design is ideal for bathrooms where space is limited",
+      "Easy to install and features a slow-close seat and lid",
+      "WaterSense certified, uses 20% less water than regular toilets"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "High-efficiency toilet (HET): powerful and efficient toilet uses 1.28 gpf/4.8 lpf",
+      "Powerful flush: equipped with a 3-in. (7.6 cm) flush valve to deliver the force needed to clear the bowl",
+      "WaterSense certified: uses less water while maintaining great performance",
+      "Toilet seat included: slow-close seat and lid eliminates sudden slamming",
+      "Complete toilet: includes chrome trip lever, wax ring, t-bolts and caps",
+      "<a href=\"https://www.homedepot.com/c/ab/the-best-toilet-for-your-home/9ba683603be9fa5395fab903b4a0dc1\" target=\"_blank\" style=\"color:#F96302;\">The Best Toilet For Your Home</a>",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/water-conservation/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Water Conservation</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4c92ea18-0671-4d42-aa42-86413290c52c/svn/white-american-standard-two-piece-toilets-726da101-020-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/88b9a104-94d8-4053-9003-34059b3d0a4c/svn/white-american-standard-two-piece-toilets-726da101-020-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/77e0b60b-3af4-4162-af66-964dbea27ab5/svn/white-american-standard-two-piece-toilets-726da101-020-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fa9189d7-b15e-435b-b75e-834b79076d38/svn/white-american-standard-two-piece-toilets-726da101-020-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c085dc18-1908-445d-a19a-7bedd8cd33bc/svn/white-american-standard-two-piece-toilets-726da101-020-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5809b29f-8362-46ab-9081-a87becc4b940/svn/white-american-standard-two-piece-toilets-726da101-020-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4c92ea18-0671-4d42-aa42-86413290c52c/svn/white-american-standard-two-piece-toilets-726da101-020-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 271,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Flushing Rim,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Siphonic Jet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Handle,Hardware,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "600"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "70 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ANSI Compliant,EPA Approved"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited lifetime warranty on chinaware, 2 year warranty on all mechanical parts, 1 year warranty on seat"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "27 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "28.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Round~~12 inch Rough In~~Single Flush: 1.28~~Standard",
+        "link": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Round-Toilet-with-Slow-Close-Seat-in-White-726DA101-020/330819708",
+        "item_id": "330819708"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/American-Standard-Reliant-12-in-Rough-In-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-Slow-Close-Seat-in-White-726AA101-020/330819690",
+        "item_id": "330819690"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 139,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 10
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 10,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

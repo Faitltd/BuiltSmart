@@ -1,0 +1,274 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14649,
+    "overage_used": 4649,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-PB-ZMAX-Galvanized-Non-Standoff-Post-Base-for-4x4-Nominal-Lumber-PB44Z/100375031"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:00:13.337Z",
+    "processed_at": "2025-05-01T19:00:19.310Z",
+    "total_time_taken": 5.97,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-PB-ZMAX-Galvanized-Non-Standoff-Post-Base-for-4x4-Nominal-Lumber-PB44Z/100375031"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-PB-ZMAX-Galvanized-Non-Standoff-Post-Base-for-4x4-Nominal-Lumber-PB44Z/100375031",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Simpson-Strong-Tie/N-5yc1vZc8hsZ615",
+    "title": "Simpson Strong-Tie PB ZMAX Galvanized Non-Standoff Post Base for 4x4 Nominal Lumber",
+    "upc": "707392414209",
+    "item_id": "100375031",
+    "parent_id": "309902013",
+    "store_sku": "209715",
+    "model_number": "PB44Z",
+    "description": "Post and column bases secure the bottom of posts or columns to concrete and are perfect for decks or patio covers. Models are available for attaching to existing hardened concrete, wet concrete, as well as wood. The PB series provides a connection between a post (or column) for decks, patio covers and other top-supported structures.",
+    "favorite_count": 314,
+    "aisle": "FW",
+    "bay": "006",
+    "collection": {
+      "id": "Family-313424218",
+      "name": "Family-313424218",
+      "link": "https://www.homedepot.com/collection/Building-Materials/ZMAX-Collection/Family-313424218?omsid=100375031"
+    },
+    "feature_bullets": [
+      "Supports nominal lumber sizes for 4x4 and 6x6 posts",
+      "ZMAX galvanized coating provides corrosion resistance",
+      "Designed for non-standoff post base applications"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Embeds in wet concrete after pour and is made to install flush with the concrete surface",
+      "Embossment in the seat of the base gives increased strength",
+      "Stress relief holes under the base resist tearing during loading",
+      "Nominal post size: 4x4",
+      "Made from 12-gauge steel",
+      "ZMAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with 0.162 in. x 3-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">16DHDG</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b14f1587-35a8-4b2c-9748-33d82a79ec4f/svn/simpson-strong-tie-post-bases-pb44z-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/37db27ce-3f97-42cb-b573-dbb505db8b79/svn/simpson-strong-tie-post-bases-pb44z-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7fe2a8c5-b6ea-4af7-b419-ac1551a41cbd/svn/simpson-strong-tie-post-bases-pb44z-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-bases-pb44z-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ec685123-6adc-4f7e-9441-f6041830cc95/svn/simpson-strong-tie-post-bases-pb44z-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-bases-pb44z-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b14f1587-35a8-4b2c-9748-33d82a79ec4f/svn/simpson-strong-tie-post-bases-pb44z-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2c58f979-7adc-4b78-94f7-ef6b8d17ecc8/main.mp4?fastly_token=NjgxM2FkMzVfMTQ0MGI4NmVlNjgxNGRiOTBkMWYzODliMzJiNjBiOWYyMjZjZDI4ZDc4ZDg5NWNkNDkzNjkyMGU0NjA0YzI1NF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZGI5NmMzMzktYjc5NS00ZTI2LWI2OGMtMjMxNTQ3YjliMmMxLzJjNThmOTc5LTdhZGMtNGI3OC05NGY3LWVmNmI4ZDE3ZWNjOC9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_Post Base",
+        "id": "6167359517001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2155f829-f919-4d62-bd12-1abcbcf1ff3b/160x90/match/image.jpg",
+        "description": "Promo of Post Base\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/1adf0153-2df3-44f6-a355-35c757fd411a/main.mp4?fastly_token=NjgxM2JkMjBfZWM2ZjI4OGE1ZGZiNzNlMWY2YTIxN2QxYjlkOWJjNWJlZDQ3NDNlNWQ2NDlmNzA5YjAyZWQzODg1MGYzOTkxOV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMmY4NzNjNDktOTI4OS00ZmViLWIzMjAtOWJkYjM3NTMyYTcwLzFhZGYwMTUzLTJkZjMtNDRmNi1hMzU1LTM1Yzc1N2ZkNDExYS9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_DeckLedger",
+        "id": "6167359672001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/8da517f9-0535-4182-9759-04f15b64b115/600x338/match/image.jpg",
+        "description": "Promo of Deck Ledger\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxM2FhYThfMmE2MzkzNzdjNTk0OGVjZWQzZmM1NmQxNWI2YTYyYzQxNTU4NTkyYTg4YTc3Yjg3MDU4NGMyMmVkN2M5ZWEyZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 193,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Standoff Post Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G185 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.2 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "4x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "8.63 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "3.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.56 in"
+      }
+    ],
+    "keywords_list": [
+      "post base",
+      "steel post base",
+      "connector",
+      "steel connector",
+      "z-max post base",
+      "z-max connector",
+      "SIMPSON STRONG-TIE post base",
+      "SIMPSON STRONG-TIE connector"
+    ],
+    "keywords": "post base, steel post base, connector, steel connector, z-max post base, z-max connector, SIMPSON STRONG-TIE post base, SIMPSON STRONG-TIE connector",
+    "variants": [
+      {
+        "title": "G185 Galvanized",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-PB-ZMAX-Galvanized-Non-Standoff-Post-Base-for-6x6-Nominal-Lumber-PB66Z/100374936",
+        "item_id": "100374936"
+      },
+      {
+        "title": "G185 Galvanized",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-PB-ZMAX-Galvanized-Non-Standoff-Post-Base-for-4x4-Nominal-Lumber-PB44Z/100375031",
+        "item_id": "100375031"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.67,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 41,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 82,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

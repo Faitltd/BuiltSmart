@@ -1,0 +1,55 @@
+steps:
+  # Build the backend image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/fait-444705/buildsmart-backend:$COMMIT_SHA', './backend']
+
+  # Build the frontend image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/fait-444705/buildsmart-frontend:$COMMIT_SHA', './frontend']
+
+  # Push the backend image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/fait-444705/buildsmart-backend:$COMMIT_SHA']
+
+  # Push the frontend image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/fait-444705/buildsmart-frontend:$COMMIT_SHA']
+
+  # Deploy backend to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'buildsmart-backend'
+      - '--image=gcr.io/fait-444705/buildsmart-backend:$COMMIT_SHA'
+      - '--region=us-central1'
+      - '--platform=managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars=NODE_ENV=production,PORT=4001,MONGODB_URI=${_MONGODB_URI},POSTGRES_USER=${_POSTGRES_USER},POSTGRES_PASSWORD=${_POSTGRES_PASSWORD},POSTGRES_HOST=${_POSTGRES_HOST},POSTGRES_PORT=${_POSTGRES_PORT},POSTGRES_DB=${_POSTGRES_DB},JWT_SECRET=${_JWT_SECRET},OPENAI_API_KEY=${_OPENAI_API_KEY}'
+
+  # Deploy frontend to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'buildsmart-frontend'
+      - '--image=gcr.io/fait-444705/buildsmart-frontend:$COMMIT_SHA'
+      - '--region=us-central1'
+      - '--platform=managed'
+      - '--allow-unauthenticated'
+
+images:
+  - 'gcr.io/fait-444705/buildsmart-backend:$COMMIT_SHA'
+  - 'gcr.io/fait-444705/buildsmart-frontend:$COMMIT_SHA'
+
+substitutions:
+  _MONGODB_URI: mongodb://localhost:27017/buildsmart
+  _POSTGRES_USER: postgres
+  _POSTGRES_PASSWORD: postgres
+  _POSTGRES_HOST: localhost
+  _POSTGRES_PORT: '5432'
+  _POSTGRES_DB: buildsmart
+  _JWT_SECRET: buildsmart_jwt_secret_key_for_production
+  _OPENAI_API_KEY: your_openai_api_key_here

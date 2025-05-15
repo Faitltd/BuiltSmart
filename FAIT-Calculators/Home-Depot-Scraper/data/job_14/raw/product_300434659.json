@@ -1,0 +1,226 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13891,
+    "overage_used": 3891,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-16-ft-Peruvian-Teak-Solid-with-Groove-Composite-Decking-Board-49-Pack-US01-16-N-TK-49/300434659"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:06:31.202Z",
+    "processed_at": "2025-05-01T17:07:16.485Z",
+    "total_time_taken": 45.28,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-16-ft-Peruvian-Teak-Solid-with-Groove-Composite-Decking-Board-49-Pack-US01-16-N-TK-49/300434659"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-16-ft-Peruvian-Teak-Solid-with-Groove-Composite-Decking-Board-49-Pack-US01-16-N-TK-49/300434659",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/NewTechWood/N-5yc1vZc5mbZbzg",
+    "title": "NewTechWood UltraShield Naturale Magellan 1 in. x 6 in. x 16 ft. Peruvian Teak Solid with Groove Composite Decking Board (49-Pack)",
+    "upc": "859515006515",
+    "item_id": "300434659",
+    "parent_id": "326067545",
+    "store_sku": "1002037740",
+    "model_number": "US01-16-N-TK-49",
+    "description": "We are proud to introduce our new Naturale Decking Line. It is the most realistic composite to date. We have spent many hours studying how to get the look of wood just right. The outcome is this new Naturale Line. This is the most realistic grain pattern out on the market with just the right amount of texture even your guests will be fooled into thinking it is real wood. The board still has the great stain, fade and scratch resistance of our original line. The board has 2 different sides one with a wood grain and one without. This is the solid board with groove in it. We highly suggest you order a sample before you order as settings on monitor are different for everyone. This is a 49-Pack.",
+    "favorite_count": 30,
+    "feature_bullets": [
+      "Talk to a live NewTechWood expert at 855-592-8088",
+      "Grains, patterns, and textures offer an aesthetic touch",
+      "Tough outer shell provides long-lasting beauty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://www.newtechwood.com/free-take-offs?from=homedepot\" target=\"_blank\" style=\"color:#F96302;\">Need help doing a take-off? Click here and let us do the work for you!</a>",
+      "New Naturale line gives the board the most realistic wood looks in the industry",
+      "UltraShield coating gives the decking board ultra-stain, scratch and fades resistance",
+      "25-Year warranty",
+      "Tough outer shell will keep the color and beauty of your deck for years to come",
+      "Easy to clean",
+      "We highly suggest you order a sample before you order as settings on monitor are different for everyone",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/844750cf-80f1-4b3b-9834-9319ad8ee8bd/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/81b78658-3977-40e6-bb44-1e799d3c3fdc/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7afb33c8-087a-4e3d-b9b8-35b291e3767e/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2f98742c-7bba-4cbf-8685-a18e77fb0c4f/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/abd273e8-51c1-429c-93c3-14bdcda1f2d2/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3dcb2921-0a47-4e85-8f9c-fa35f3cffbb7/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/51b69b98-7e06-4ca1-9535-47f9303a305d/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/96b38d22-5434-4d60-a977-262396e39abf/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/844750cf-80f1-4b3b-9834-9319ad8ee8bd/svn/peruvian-teak-newtechwood-composite-decking-boards-us01-16-n-tk-49-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/2c3444dd-38f5-4b74-99d3-17ff705c405f/main.mp4?fastly_token=NjgzODgyMTVfNWE1MmZkZjdhMDAxOTIwNzZhMWY2YWI0Y2MyZjIxY2E0NDI5YzZhODY0ZDcxNjRhZjRhZTg4NjZjZjI4MzEyYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lODUyMWU2ZC0wODUwLTQwMWItODdkOC1lMWY5Mzg1MzE1MmIvMmMzNDQ0ZGQtMzhmNS00Yjc0LTk5ZDMtMTdmZjcwNWM0MDVmL21haW4ubXA0&pubid=66036796001",
+        "title": " NewtTechWood - Introducing Ultrashield Naturale",
+        "id": "5483624160001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/05aa5e3d-faab-4d93-8c3e-ff6d5d3abb3c/160x90/match/image.jpg?pubId=66036796001",
+        "description": "An introduction into our NewTechWood Ultrashield Naturale Product line. It shows the technology, the inspiration and the beauty of our products. Sit back and enjoy!"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/ee093faf-51ae-4064-bc2f-23c9210b5d9d/main.mp4?fastly_token=NjgzODk0ZjZfZjQwMWJkMjMwMjBiZmQ2OGE3OGVjNDYxNWIxYTc5NGYyYmFlMjJlM2JjYjhlNWJlYmMwM2M3ZTcyNjM1OTBkOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xYWIzOGZkOC1lZjUwLTQ1ZjQtYWEyYS0zMjk5OWI0ZGMwYjIvZWUwOTNmYWYtNTFhZS00MDY0LWJjMmYtMjNjOTIxMGI1ZDlkL21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Decking Installation Guide",
+        "id": "5748602797001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/2d459e9f-3b60-4318-b23d-ca181c2048c0/160x90/match/image.jpg?pubId=66036796001",
+        "description": "All the info you need to install your NewTechWood Decking and enjoy it for years to come."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/0580fa2b-8c6b-42b4-9fe3-559fb2d8b9f7/main.mp4?fastly_token=NjgzODkyMmFfNGRmMDM5MWRjYmY3MjVmYjIwNjY3M2U1NWVkM2EwOTlmMzBjOTBjNjQwMTAzNTFjZmIwMTNiOTc3OWU1Y2M1MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hY2U2MjRkOS05NTBlLTRmODktYTgzZi1kNzUzMTkyYjExMmUvMDU4MGZhMmItOGM2Yi00MmI0LTlmZTMtNTU5ZmIyZDhiOWY3L21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Composite Decking Deep Dive",
+        "id": "6299851835001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/main/160x90/5m43s104ms/match/image.jpg?pubId=66036796001",
+        "description": "In this video we take a deep dive into NewTechWood Composite Decking to show you the different profiles and their use cases as well as the clips."
+      }
+    ],
+    "ratings_total": 5,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Peruvian Teak"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "784"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".9 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "1884"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Westminster Gray~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Magellan-1-in-x-6-in-x-16-ft-Westminster-Gray-Solid-w-Groove-Composite-Decking-Board-49-Pack-US01-16-N-LG-49/300434656",
+        "item_id": "300434656"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13719,
+    "overage_used": 3719,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Magic-1-5-8-in-x-11-ft-Tub-and-Wall-Peel-and-Stick-Caulk-Strip-in-White-3016/205188853"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:55:49.109Z",
+    "processed_at": "2025-05-01T16:55:56.370Z",
+    "total_time_taken": 7.26,
+    "homedepot_url": "https://www.homedepot.com/p/Magic-1-5-8-in-x-11-ft-Tub-and-Wall-Peel-and-Stick-Caulk-Strip-in-White-3016/205188853"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Magic-1-5-8-in-x-11-ft-Tub-and-Wall-Peel-and-Stick-Caulk-Strip-in-White-3016/205188853",
+    "brand": "Magic",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Sealants/Magic/N-5yc1vZcibvZadd",
+    "title": "Magic 1-5/8 in. x 11 ft. Tub and Wall, Peel and Stick Caulk Strip in White",
+    "upc": "070048133404",
+    "item_id": "205188853",
+    "store_sku": "973408",
+    "model_number": "3016",
+    "description": "Magic Bath Tub and Wall Peel and Stick Caulk is pre-shaped, flexible trim with pre-applied butyl adhesive. Simply peel and stick to the surface, even over existing caulk. The molded-in score line assures uniform positioning against the surface. It's the perfect finishing touch to refresh or update your bathtub or wall trim. Magic offers a line of quick fixes for your bathroom, some of the things we offer are Tub and Floor Peel and Stick Caulk, Tub and Wall Peel and Stick Caulk, Tile and Grout Coating Pen and more. Recaulking your tub and wall doesn't have to be a pain with Magic Tub and Wall Peel and Stick Caulk. It's designed to provide a flush seal without the usual mess of caulking. Hide stubborn grout stains instantly with the Magic Tile and Grout Coating Pen. This easy-to-use marker makes covering up grout stains a breeze.",
+    "favorite_count": 522,
+    "aisle": "37",
+    "bay": "SC2",
+    "feature_bullets": [
+      "Simply peel and stick to the surface, even over existing caulk",
+      "Molded-In score line assures uniform positioning against surface",
+      "Quick and easy alternative to regular caulk"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Protect - peel and stick caulk is mildew resistant and seals out moisture",
+      "Flexible - adheres to any angle and surface to form a tight seal",
+      "Protection - can be used over existing caulk for the finishing touch",
+      "Simple - no tools required for easy installation",
+      "No mess, no tools - simple peel and stick application",
+      "Molded-in score line assures uniform positioning",
+      "Long lasting and durable",
+      "White, wide width, 1-5/8 in. x 11 ft."
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/af02a66f-50e4-49a5-8272-a345cee5e073/svn/white-magic-sealants-3016-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/44c4d5da-1824-49a8-81d1-ceb6e6888a18/svn/white-magic-sealants-3016-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5118d4d0-3011-4a74-b8d7-5f5f3ad98e44/svn/white-magic-sealants-3016-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/369eae3d-6676-42af-91d2-783996ebf5cf/svn/white-magic-sealants-3016-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45d95fa6-4cfd-4c1a-b8fd-4aa6cdfb8a35/svn/white-magic-sealants-3016-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/84beaeff-9eba-412c-98df-4c6e3fe1952b/svn/white-magic-sealants-3016-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/af02a66f-50e4-49a5-8272-a345cee5e073/svn/white-magic-sealants-3016-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4c1507bf-4db4-4b48-837d-150f483c5bcb/3060565a-9480-4b7f-8a9a-fe03e3e54b8b/main.mp4?fastly_token=NjgzODE4NmRfYWFmOTE4NjA2N2E0ZmYzMmE1MGNlZTg0YWY0MDA4MzVjNDE1NTcxMzBhMjc0NjgwMDRmMjczNWYwYWIyMTIwMl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80YzE1MDdiZi00ZGI0LTRiNDgtODM3ZC0xNTBmNDgzYzViY2IvMzA2MDU2NWEtOTQ4MC00YjdmLThhOWEtZmUwM2UzZTU0YjhiL21haW4ubXA0&pubid=66036796001",
+        "title": "Magic Caulk Strips",
+        "id": "5776869283001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee79b922-5742-4fa2-97b8-a32a4604d81a/69e8c8b7-aeab-4071-a6ab-f3f6eccd39af/160x90/match/image.jpg",
+        "description": "How to apply and use Magic caulk strips (all sizes)"
+      }
+    ],
+    "ratings_total": 655,
+    "rating": 3.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Tub & Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Synthetic Rubber"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "11"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "0 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Tape"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sealant Form",
+        "value": "Tape"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Product satisfaction guaranteed for a period of one year from date of purchase when used as directed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "0 oz"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Sealants/N-5yc1vZcibv"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 21
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 49,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 29,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

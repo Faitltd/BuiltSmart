@@ -1,0 +1,254 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13749,
+    "overage_used": 3749,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/James-Hardie-Hardie-Backer-with-HydroDefense-Technology-1-2-in-x-3-ft-x-5-ft-Waterproof-Cement-Backer-Board-50ct-9000556P/312460211"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:57:19.514Z",
+    "processed_at": "2025-05-01T16:58:00.871Z",
+    "total_time_taken": 41.36,
+    "homedepot_url": "https://www.homedepot.com/p/James-Hardie-Hardie-Backer-with-HydroDefense-Technology-1-2-in-x-3-ft-x-5-ft-Waterproof-Cement-Backer-Board-50ct-9000556P/312460211"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/James-Hardie-Hardie-Backer-with-HydroDefense-Technology-1-2-in-x-3-ft-x-5-ft-Waterproof-Cement-Backer-Board-50ct-9000556P/312460211",
+    "brand": "James Hardie",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Backer-Boards/James-Hardie/N-5yc1vZcduqZ4qr",
+    "title": "James Hardie Hardie Backer with HydroDefense Technology 1/2 in. x 3 ft. x 5 ft. Waterproof Cement Backer Board 50ct",
+    "upc": "195898342438",
+    "item_id": "312460211",
+    "parent_id": "325047612",
+    "store_sku": "1013797059",
+    "model_number": "9000556P",
+    "description": "Hardie Backer Cement Board with HydroDefense Technology is a waterproof cement backerboard designed for use on walls, floors and countertops. Use on walls in moisture prone areas, as a tile backerboard and as an underlayment for all tile, vinyl and wood flooring applications. Formulated with MoldBlock Technology to protect the board against damage from mold. Works great in wet areas such as bathrooms, kitchens and laundry rooms. Provides strength, ease of use and excellent tile adhesion creating a solid base for projects. Waterproof composition throughout entire board saves cost by eliminating the need to apply a separate waterproof coating across the surface of the board.",
+    "is_top_rated": true,
+    "collection": {
+      "id": "Family-316330049",
+      "name": "Family-316330049",
+      "link": "https://www.homedepot.com/collection/Building-Materials/HardieBacker-Cement-Backerboard-Collection/Family-316330049?omsid=312460211"
+    },
+    "feature_bullets": [
+      "100% Waterproof cement backer board for tile floor and walls",
+      "Tile backer board for shower, countertop and floor installations",
+      "Floor underlayment for laminate, vinyl, wood and more"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Protect projects with confidence, waterproof cement board provides the ultimate barrier to moisture on walls and flooring",
+      "Contains no fillers or abrasive aggregate, made with 90% Portland cement and sand for strength, creating a strong foundation for projects",
+      "Fully waterproof composition throughout the board saves time by eliminating the need to waterproof entire surface",
+      "Skip the step of waterproofing entire board - just waterproof joints and fasteners",
+      "Score and snap - easily perform quick and clean cuts indoors using a scoring knife or a utility knife",
+      "Strong enough for use in commercial or residential applications",
+      "3 ft. x 5 ft. board is 0.42 in. deep and works on floor, wall, countertop or backsplash applications",
+      "Pallet of cement backer board with 50 pieces",
+      "Shop the <a href=\"https://www.homedepot.com/collection/Building-Materials/HardieBacker-Cement-Backerboard-Collection/Family-316330049\" target=\"_blank\" style=\"color:#F96302;\">HardieBacker Cement Backerboard Collection </a>",
+      "<a href=\"https://images.homedepot-static.com/catalog/pdfImages/bb/bb159fe8-0ea7-4c68-ad33-bcfdccd12395.pdf\" target=\"_blank\" style=\"color:#F96302;\">James Hardie Buying Guide</a>",
+      "Additional waterproofing may be required, consult local building codes before beginning<img src=\"https://inlinecontent.thdstatic.com/23F/JAMES HARDIE BLDG PRODUC/1432891.jpg\">"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/cd6ffff9-f16a-47c4-b8dc-31062bff304c/svn/james-hardie-backer-boards-9000556p-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c8859398-e4b0-487c-860a-e81b3dc3c75b/svn/james-hardie-backer-boards-9000556p-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2f6af43c-e9e5-48d0-9c8e-ba1e4cef41b4/svn/james-hardie-backer-boards-9000556p-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/87dbbb15-f99e-41bb-8101-1e9ba793133d/svn/james-hardie-backer-boards-9000556p-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3f951ea2-1ed4-4ec6-b274-92b066869d3e/svn/james-hardie-backer-boards-9000556p-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/11e0ffda-dae0-4d42-b86c-68c9fafd7925/svn/james-hardie-backer-boards-9000556p-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/477a2f1f-e672-4a7f-8674-c99efaedc72b/svn/james-hardie-backer-boards-9000556p-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/08ca5d5f-b08c-41f5-b95f-c82d1b33051a/svn/james-hardie-backer-boards-9000556p-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cc580212-3c97-4e36-96e3-10a65fa7a509/svn/james-hardie-backer-boards-9000556p-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4af7e4e0-cc80-4fed-9f11-939f612140c2/svn/james-hardie-backer-boards-9000556p-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/20dc6f14-74f7-4501-9de3-9c9729a3b607/svn/james-hardie-backer-boards-9000556p-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a618275-4c44-46d8-895c-fa854bfda28b/svn/james-hardie-backer-boards-9000556p-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e503b5ea-7df9-4dd9-b129-5e9f19e18318/svn/james-hardie-backer-boards-9000556p-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/cd6ffff9-f16a-47c4-b8dc-31062bff304c/svn/james-hardie-backer-boards-9000556p-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/c8e968eb-3ce7-4834-9660-d5bdc80ea17d/d8e54775-c963-44a1-8247-c0886e98784a/main.mp4?fastly_token=NjgzODVmYzJfNzcyNjllMDk5MDc5NzYxMWYyODM4N2FlNDY2ODZkZDQxODQwMmVmMzU0MmE5NjA4MmYxZDI5NDE3ZWU1OWJmNV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jOGU5NjhlYi0zY2U3LTQ4MzQtOTY2MC1kNWJkYzgwZWExN2QvZDhlNTQ3NzUtYzk2My00NGExLTgyNDctYzA4ODZlOTg3ODRhL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Cut James Hardie Cement Backerboard",
+        "id": "6128636865001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/c8e968eb-3ce7-4834-9660-d5bdc80ea17d/2ed78731-ef9b-4052-9874-29115324c616/160x90/match/image.jpg?pubId=66036796001",
+        "description": "How to Cut Cement Backerboard"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/10115484-3d3c-4645-b8b4-cfba5fd3c646/68401561-1948-4afa-a6ea-cda753ee6813/main.mp4?fastly_token=NjgzODRkN2RfNjFlOGI3ZWY4YzEzOWFlMGM1Y2ZhMzhhZDFjYjEwNTQ4M2VjNGM0ZTNhMDMzMzE2ODk3MWE0YjhhMDg0NTU4Nl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xMDExNTQ4NC0zZDNjLTQ2NDUtYjhiNC1jZmJhNWZkM2M2NDYvNjg0MDE1NjEtMTk0OC00YWZhLWE2ZWEtY2RhNzUzZWU2ODEzL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install James Hardie Cement Backerboards On Walls",
+        "id": "6128643278001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/10115484-3d3c-4645-b8b4-cfba5fd3c646/cdd142ad-e30e-4bf7-90e5-2c564bb10c89/160x90/match/image.jpg?pubId=66036796001",
+        "description": "How to Install Backerboard on Walls"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4e979a20-2c9d-41f8-af8b-d02f7c234de2/04378c94-c042-46f1-9c6b-cc40cc5bdc9f/main.mp4?fastly_token=NjgzODVmMTRfZTc4MjQ3YmU1OWMxNTc1MzEyMWUwNzU5ODVjYzczYjIwNWQ2OWNiN2M2NDhjMmFjMDE3YjI2MzFlZjNhZjFjNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80ZTk3OWEyMC0yYzlkLTQxZjgtYWY4Yi1kMDJmN2MyMzRkZTIvMDQzNzhjOTQtYzA0Mi00NmYxLTljNmItY2M0MGNjNWJkYzlmL21haW4ubXA0&pubid=66036796001",
+        "title": "HydroDefense WaterProof Video",
+        "id": "6237594367001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/e360bc8a-7bbe-46ef-ba8c-7711d74fe97f/4425f502-451c-4ea6-b3b3-6fad6fb18d7c/160x90/match/image.jpg",
+        "description": "Video for HardieBacker with HydroDefense Technology demonstrating waterproof nature of the board."
+      }
+    ],
+    "ratings_total": 256,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Alt. Pricing_Multiply Total SqFt by Quantity (Total Eaches)",
+        "value": "750"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Environmentally Sustainable,Fire Resistant,Waterproof"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Depth (IN)",
+        "value": "60"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Height (IN)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Weight (LB)",
+        "value": "2227"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Width (IN)",
+        "value": "36"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet/Pack Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "44.55 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Drywall Product Thickness (in.)",
+        "value": "1/2 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "5 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "0.42 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (ft.)",
+        "value": "3 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Width (ft) x Length (ft)",
+        "value": "3ftx5ft"
+      }
+    ],
+    "variants": [
+      {
+        "title": "3ftx5ft~~0.42 in~~Full-Truckload",
+        "link": "https://www.homedepot.com/p/James-Hardie-HardieBacker-with-HydroDefense-Technology-1-2-in-x-3-ft-x-5-ft-Waterproof-Cement-Backer-Board-1000-Sheets-9000556PAL/324671247",
+        "item_id": "324671247"
+      },
+      {
+        "title": "3ftx5ft~~0.42 in~~Each",
+        "link": "https://www.homedepot.com/p/James-Hardie-HardieBacker-with-HydroDefense-Technology-1-2-in-x-3-ft-x-5-ft-Waterproof-Cement-Backer-Board-9000556/311573721",
+        "item_id": "311573721"
+      },
+      {
+        "title": "3ftx5ft~~0.42 in~~Pallet",
+        "link": "https://www.homedepot.com/p/James-Hardie-Hardie-Backer-with-HydroDefense-Technology-1-2-in-x-3-ft-x-5-ft-Waterproof-Cement-Backer-Board-50ct-9000556P/312460211",
+        "item_id": "312460211"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Surface Prep",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep/N-5yc1vZcduv"
+      },
+      {
+        "name": "Backer Boards",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Surface-Prep-Backer-Boards/N-5yc1vZcduq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1125,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "pallet(unit load)"
+    }
+  }
+}

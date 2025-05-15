@@ -1,0 +1,267 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13674,
+    "overage_used": 3674,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Big-Gaps-Spray-Foam-Bright-White-12-oz-Can-Insulating-Spray-Foam-Sealant-2839291/305120190"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:38.877Z",
+    "processed_at": "2025-05-01T16:53:45.002Z",
+    "total_time_taken": 6.13,
+    "homedepot_url": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Big-Gaps-Spray-Foam-Bright-White-12-oz-Can-Insulating-Spray-Foam-Sealant-2839291/305120190"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Big-Gaps-Spray-Foam-Bright-White-12-oz-Can-Insulating-Spray-Foam-Sealant-2839291/305120190",
+    "brand": "Loctite",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/Loctite/N-5yc1vZbaxjZ4ck",
+    "title": "Loctite TITE FOAM Big Gaps Spray Foam, Bright White, 12 oz. Can, Insulating Spray Foam Sealant",
+    "upc": "079340652385",
+    "item_id": "305120190",
+    "parent_id": "331049307",
+    "store_sku": "1003163646",
+    "model_number": "2839291",
+    "description": "Loctite TITE FOAM Big Gaps is a new generation of polyurethane-based insulating foam sealant that expands to fill, seal, and effectively insulate gaps and cracks up to 3 in. in size, inside and out! Loctite TITE FOAM Big Gaps is a bright white color and offers premium durability with its high density, flexibility, strong adhesion and UV resistance. Use to seal out air, moisture and pests in basements or crawlspaces, attic hatches and plumbing, HVAC or electrical penetrations. Quick and convenient to use and apply TITE FOAM Big Gaps offers an easy insulating spray foam option. It is recommended for use in both interior and exterior environments and is sandable and paintable.",
+    "favorite_count": 501,
+    "aisle": "26",
+    "bay": "014",
+    "collection": {
+      "id": "Family-312949805",
+      "name": "Family-312949805",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Loctite-Tite-Foam/Family-312949805?omsid=305120190"
+    },
+    "feature_bullets": [
+      "Seals and insulates gaps up to 3 in.",
+      "Suitable for indoor/outdoor applications",
+      "Offers premium durability and bright white color"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Polymer-based foam that delivers premium durability and insulation that withstands the elements",
+      "Expands to fill, seal, and insulate effectively around gaps and cracks up to 3 in. in size",
+      "High density foam with a uniform cell structure for durability and overall insulation for your remodeling needs",
+      "Superior flexibility withstands building and material movement without compromising its seal",
+      "Strong adhesion and bonds to most building materials like wood, concrete, brick, stone, metal, pvc, and more",
+      "Excellent UV resistance that reduces brittleness and darking for long-lasting results",
+      "Tack free in 8 minutes, trims in 50 to 70 minutes and cures to a bright white finish",
+      "For application simply use the attached straw applicator for a quick solution"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e7c5a87d-a8bb-4bb3-b9af-4ae1b6c2c2fc/svn/loctite-spray-foam-insulation-2839291-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bed54d42-c974-4c15-91de-a182766fac75/svn/loctite-spray-foam-insulation-2839291-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/998bc93f-09e6-405b-87a2-7f74fa752853/svn/loctite-spray-foam-insulation-2839291-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c4619ecc-1c9c-4bc0-949a-4a0939aebedd/svn/loctite-spray-foam-insulation-2839291-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/973e207f-84c0-47fb-a6a4-0d38d644b050/svn/loctite-spray-foam-insulation-2839291-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/907eabb7-722c-4d7c-b2b5-530558a40fa6/svn/loctite-spray-foam-insulation-2839291-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/48390ee7-a295-45ca-a7ed-c6488c45e069/svn/loctite-spray-foam-insulation-2839291-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8ac941fc-dcf7-4e0c-ab4b-7530af31e694/svn/loctite-spray-foam-insulation-2839291-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/87aef8d6-0759-4438-ae95-1162f4f15e34/svn/loctite-spray-foam-insulation-2839291-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/994f575d-9a65-4f2e-a84e-b04d8040d1ea/svn/loctite-spray-foam-insulation-2839291-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/56907e91-2983-4e92-858f-5898e29fa31f/svn/loctite-spray-foam-insulation-2839291-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/88f294ff-cc05-41d6-a6ae-fc7f0a6312e4/svn/loctite-spray-foam-insulation-2839291-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e7c5a87d-a8bb-4bb3-b9af-4ae1b6c2c2fc/svn/loctite-spray-foam-insulation-2839291-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/f95cdbb7-3ea2-4b4f-b24d-2b5dd3bb769b/5ebaf490-efb6-4993-b5ac-d15bbe7a8385/main.mp4?fastly_token=NjgxMzkyMjdfY2VhNzM0ZTZmMGI3OTYyYTJjMmJiYzYwZDk5Njc3NWMyMjgwZjUxM2QwOWU4N2MwYjBkZjk1MTRlYWVlNTYwYV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZjk1Y2RiYjctM2VhMi00YjRmLWIyNGQtMmI1ZGQzYmI3NjliLzVlYmFmNDkwLWVmYjYtNDk5My1iNWFjLWQxNWJiZTdhODM4NS9tYWluLm1wNA%3D%3D",
+        "title": "Loctite Tite Foam Big Gaps",
+        "id": "6252389837001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/f95cdbb7-3ea2-4b4f-b24d-2b5dd3bb769b/main/160x90/37s301ms/match/image.jpg",
+        "description": "short video showing product in use & description\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/76f936f4-9792-4fb4-b415-0f17ef419dc7/0ecc2e8c-fce0-4716-a219-7603dd28d776/main.mp4?fastly_token=NjgxMzkyNjJfNTBkODliYmZmOTA0MDY2MDFjNDIxOWY1NWYzNDZkMmU3YzczZDhjMWI2YThjMTJlZDVkNDhhMjVkNTRiZmNlZl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNzZmOTM2ZjQtOTc5Mi00ZmI0LWI0MTUtMGYxN2VmNDE5ZGM3LzBlY2MyZThjLWZjZTAtNDcxNi1hMjE5LTc2MDNkZDI4ZDc3Ni9tYWluLm1wNA%3D%3D",
+        "title": "Insulation Weatherizing",
+        "id": "6280130656001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/76f936f4-9792-4fb4-b415-0f17ef419dc7/e3d521d6-d7fe-4bd0-88b9-8073b0533ba7/160x90/match/image.jpg",
+        "description": "How to and product informational\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/67022f83-4394-4310-956a-2a01570997ba/ccb9cf8c-24ff-46b4-a786-eb121754507c/main.mp4?fastly_token=NjgxMzkwNzlfOTI3ZjMyMzZkOTFhMGVlM2I0ZDI0NWQ2YmQzYmI3OGNjYWQxYzY3NmMwYTA0ZTkwMDlkY2MzMWMxYThlMjNhYV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjcwMjJmODMtNDM5NC00MzEwLTk1NmEtMmEwMTU3MDk5N2JhL2NjYjljZjhjLTI0ZmYtNDZiNC1hNzg2LWViMTIxNzU0NTA3Yy9tYWluLm1wNA%3D%3D",
+        "title": "Loctite-2nd-Chance-2023-Campaign---Attic-15sec-Regular-Pro-Res.mp4.mp4",
+        "id": "6340242072112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/67022f83-4394-4310-956a-2a01570997ba/main/160x90/7s541ms/match/image.jpg",
+        "description": "Say Yes to 2nd Chance\n"
+      }
+    ],
+    "ratings_total": 598,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Compatible Install Surface",
+        "value": "Cement,Concrete,Copper Pipes,Existing Drywall,Existing Insulation,Fiberglass,Metal,PVC/CPVC Pipes,Pex Pipes,Plywood,Tile Flooring,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "60 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Install Temperature (F)",
+        "value": "23-95"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value",
+        "value": "R4.5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value per Inch",
+        "value": "R4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Type",
+        "value": "Spray Can"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.61 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (oz.)",
+        "value": "12 oz"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Warranty Information",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cover Area Per Bag (sq. ft.)",
+        "value": "12 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "12 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "7.87 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "2.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "1",
+        "link": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Big-Gaps-Spray-Foam-Bright-White-12-oz-Can-Insulating-Spray-Foam-Sealant-2839291/305120190",
+        "item_id": "305120190"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation/N-5yc1vZasbs"
+      },
+      {
+        "name": "Spray Foam Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/N-5yc1vZbaxj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 49
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 61,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

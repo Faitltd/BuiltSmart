@@ -1,0 +1,328 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14976,
+    "overage_used": 4976,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/American-Standard-Cadet-3-Decor-Tall-Height-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-Seat-in-White-Seat-Included-715AA-001-020/203027677"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:48:40.594Z",
+    "processed_at": "2025-05-02T21:48:44.912Z",
+    "total_time_taken": 4.32,
+    "homedepot_url": "https://www.homedepot.com/p/American-Standard-Cadet-3-Decor-Tall-Height-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-Seat-in-White-Seat-Included-715AA-001-020/203027677"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/American-Standard-Cadet-3-Decor-Tall-Height-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-with-Seat-in-White-Seat-Included-715AA-001-020/203027677",
+    "brand": "American Standard",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/American-Standard/N-5yc1vZcb8nZ5a",
+    "title": "American Standard Cadet 3 Decor Tall Height 2-Piece 1.28 GPF Single Flush Elongated Toilet with Seat in White, Seat Included",
+    "upc": "791556006010",
+    "item_id": "203027677",
+    "store_sku": "537484",
+    "model_number": "715AA.001.020",
+    "description": "The Cadet 3 Decor Skirted Right Height Elongated Toilet from American Standard features a sleek, concealed trapway that obscures the traditional curves and crevices for easier cleaning. This contemporary design, with telescoping lid that conceals the seat, presents a clean, seamless look in today's bathroom. Comfortable, elongated chair height bowl ensures effortless sitting and standing. The Cadet 3 Decor is a high-efficiency, ultra-low consumption toilet that uses 20% less water than conventional toilets without sacrificing performance.",
+    "is_exclusive": true,
+    "favorite_count": 5028,
+    "collection": {
+      "id": "Family-314720003",
+      "name": "Family-314720003",
+      "link": "https://www.homedepot.com/collection/Bath/Cadet-Toilet-Collection/Family-314720003?omsid=203027677"
+    },
+    "feature_bullets": [
+      "Includes telescoping slow-close seat and wax ring",
+      "Skirted design conceals trapway for easy cleaning",
+      "EverClean inhibits the growth of stain and odor causing mildew"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Slow-close seat and lid for silent, no-slam convenience",
+      "Telescoping lid hides seat edge for a seamless look",
+      "Skirted base conceals trapway for easy cleaning",
+      "EverClean surface helps to keep the bowl fresher longer",
+      "Cadet 3 Flushing System features 2-1/16 in. glazed trapway, large 3 in. flush valve and PowerWash rim to ensure a thorough, powerful flush",
+      "Uses 1.28 Gal. per flush (4.8 Lpf) and is WaterSense certified",
+      "12 in. rough-in",
+      "<a href=\"https://www.homedepot.com/services/c/toilet-installation/55af3b94a\" target=\"_blank\" style=\"color:#F96302;\">For installation offer details click here or see an associate</a>",
+      "<a href=\"https://www.homedepot.com/b/American-Standard/N-5yc1vZ5a\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop more American Standard products</a>",
+      "<a href=\"https://www.homedepot.com/c/the_best_toilets_for_bath_renovation_HT_BG_BA\" target=\"_blank\" style=\"color:#F96302;\">Features to consider when buying a toilet</a>",
+      "Features:<img src=\"https://inlinecontent.thdstatic.com/pre/040715/26B/Combo_1.jpg \">",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/water-conservation/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Water Conservation</a>"
+    ],
+    "descriptive_attributes_count": 12,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b2e540a7-0f3b-4eac-b64b-f9fe95e00fa2/svn/white-american-standard-two-piece-toilets-715aa-001-020-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a4e2b3c3-9858-455d-992a-94728fa4c761/svn/white-american-standard-two-piece-toilets-715aa-001-020-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e5ae9911-233a-40b7-a531-6f2e7c00c6d9/svn/white-american-standard-two-piece-toilets-715aa-001-020-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c43c783-640d-42ad-aa1d-3fa2f5f5b1ff/svn/white-american-standard-two-piece-toilets-715aa-001-020-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a2354f6f-bee7-431a-80f7-27a8d16703fa/svn/white-american-standard-two-piece-toilets-715aa-001-020-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/62aca821-a49b-4065-a797-552ff0779caf/svn/white-american-standard-two-piece-toilets-715aa-001-020-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ace6ff1b-1875-408e-9c3d-c75e909b2437/svn/white-american-standard-two-piece-toilets-715aa-001-020-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c0c0a91a-00c1-4670-b4f6-721a49021dc9/svn/white-american-standard-two-piece-toilets-715aa-001-020-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e5ae9911-233a-40b7-a531-6f2e7c00c6d9/svn/white-american-standard-two-piece-toilets-715aa-001-020-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6ad984bb-9b0b-414b-8ef7-0feb24fd7a3d/svn/white-american-standard-two-piece-toilets-715aa-001-020-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/56855fae-094f-4d3a-b872-3a4206b5a212/svn/white-american-standard-two-piece-toilets-715aa-001-020-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/59fdd7b9-c6d6-4584-b670-d6610f085e4d/svn/white-american-standard-two-piece-toilets-715aa-001-020-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/87f0d935-2bb7-42b0-bd99-017c366dc81a/svn/white-american-standard-two-piece-toilets-715aa-001-020-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e72c8aa0-a69f-449a-ba49-1a433366c775/svn/white-american-standard-two-piece-toilets-715aa-001-020-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b2e540a7-0f3b-4eac-b64b-f9fe95e00fa2/svn/white-american-standard-two-piece-toilets-715aa-001-020-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/97fff737-e610-4d3c-a687-8596da7aa96c/83914035-5ae3-4757-b97f-89b399b2bc99/main.mp4?fastly_token=NjgzOTc4MDRfNmI2Y2YyMmU1YjE0NDM0NDkyNDk2MjU1ZDBlOTI0NWE4ZmVhOTA5ZTc5ZDI5ZDlmYjZhNzEzMGJkZDNhNzJmZF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS85N2ZmZjczNy1lNjEwLTRkM2MtYTY4Ny04NTk2ZGE3YWE5NmMvODM5MTQwMzUtNWFlMy00NzU3LWI5N2YtODliMzk5YjJiYzk5L21haW4ubXA0&pubid=66036796001",
+        "title": "American Standard | Cadet 3 Toilet Collection",
+        "id": "6094079233001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/97fff737-e610-4d3c-a687-8596da7aa96c/0307a619-0db8-47b1-9749-b4f828b4732b/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn about how our Cadet 3 performs and looks!"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/65a22b03-2cbb-40eb-9d2a-d42478f7030b/e7a7d2e8-3904-49a9-bef1-a031d4f02fab/main.mp4?fastly_token=NjgzOTc4MWNfNGRmNTVmMWVjZTBmYWFhNTNmMWM3NjgxNTg2ZWIxMGI2MzBjZTlkODY4YmZhMGE0ZmY2MjA3NzA4YTQxZTlhYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82NWEyMmIwMy0yY2JiLTQwZWItOWQyYS1kNDI0NzhmNzAzMGIvZTdhN2QyZTgtMzkwNC00OWE5LWJlZjEtYTAzMWQ0ZjAyZmFiL21haW4ubXA0&pubid=66036796001",
+        "title": "American Standard | How to Install a 2 Piece Toilet",
+        "id": "6095349876001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/65a22b03-2cbb-40eb-9d2a-d42478f7030b/82a4e427-c35d-4b3e-ae05-fcd5695ebbc3/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Learn how to install your 2 piece American Standard toilet."
+      }
+    ],
+    "ratings_total": 763,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Antimicrobial,Concealed Trapway,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Handle,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "115 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Modern,Traditional"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.06 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ASME Certified,CSA Certified,IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 5-year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "30.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "31 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "17.87 in"
+      }
+    ],
+    "keywords_list": [
+      "Cadet 3 Decor 2-Piece Elongated Toilet in White",
+      "715AA.001.020"
+    ],
+    "keywords": "Cadet 3 Decor 2-Piece Elongated Toilet in White, 715AA.001.020",
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 264,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 279,
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 50,
+          "price": 0,
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-15"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 50,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

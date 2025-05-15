@@ -1,0 +1,312 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13957,
+    "overage_used": 3957,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/PRO-FIT-10-x-3-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-25-lbs-1400-Count-0297199/326205836"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:48:53.270Z",
+    "processed_at": "2025-05-01T17:49:01.858Z",
+    "total_time_taken": 8.59,
+    "homedepot_url": "https://www.homedepot.com/p/PRO-FIT-10-x-3-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-25-lbs-1400-Count-0297199/326205836"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/PRO-FIT-10-x-3-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-25-lbs-1400-Count-0297199/326205836",
+    "brand": "PRO-FIT",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/PRO-FIT/N-5yc1vZ2fkpe61Zu5l",
+    "title": "PRO-FIT #10 x 3-1/2 in. T25 Star Drive Bugle Head Grey Wood Deck Screws 25 lbs. (1400-Count)",
+    "upc": "042928175408",
+    "item_id": "326205836",
+    "parent_id": "327387728",
+    "store_sku": "1010104326",
+    "model_number": "0297199",
+    "description": "PRO-FIT ceramic coated deck screws are used for wood-to-wood construction. The coarse thread gives superior holding power when attaching to wood. The ceramic coating protects the screw against high temperatures and is highly resistant to corrosive compounds. PRO-FIT deck screws come in a wide range of sizes, giving you options for any project.",
+    "feature_bullets": [
+      "Bugle head that compresses material for a clean finish",
+      "Ceramic coated for high corrosion resistance in outdoor projects",
+      "Course thread for superior holding power fastening to wood"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Coating: ceramic coating to protect against high temperatures and is resistance to corrosive compounds",
+      "Drive: star drive reduces cam-outs",
+      "Thread: coarse threads drive fast and give superior holding power",
+      "Application: used for decking and wood-wood construction",
+      "Head style: bugle head design allows the fastener to sit flush with the board for a smooth finish",
+      "Point type: sharp for a fast start and reduces splitting"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/47d8388e-2868-4f67-8185-34f98946ecf5/svn/pro-fit-deck-screws-0297199-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/03c54a5a-970a-48f7-a04a-f5ad10da2b34/svn/pro-fit-deck-screws-0297199-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fc80a10c-20c3-4beb-b49e-3ee258f88683/svn/pro-fit-deck-screws-0297199-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19125fd8-0b33-4272-89f9-e00d62144307/svn/pro-fit-deck-screws-0297199-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79320104-ff3f-49d2-aebc-fa48a19cc1c5/svn/pro-fit-deck-screws-0297199-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/97a1a403-2101-4d2c-aab3-4dc41a72121a/svn/pro-fit-deck-screws-0297199-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/47d8388e-2868-4f67-8185-34f98946ecf5/svn/pro-fit-deck-screws-0297199-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/be7f9d6a-734c-433c-a20f-649d99c714d9/9c748cf9-46c7-4e26-85fa-f7c0f5f27cb9/main.mp4?fastly_token=NjgzODQ2NWNfMTg2NTI4ODRhNDJhN2M5YzBiMDgwNWM1MDFkMjllYmUzNzIxZWJkMjI5YWUyZWM1YzA4ZjdiMGQ0YzBiYmU5Ml8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iZTdmOWQ2YS03MzRjLTQzM2MtYTIwZi02NDlkOTljNzE0ZDkvOWM3NDhjZjktNDZjNy00ZTI2LTg1ZmEtZjdjMGY1ZjI3Y2I5L21haW4ubXA0&pubid=66036796001",
+        "title": "PRO-FIT Hype Video",
+        "id": "6329420637112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/be7f9d6a-734c-433c-a20f-649d99c714d9/main/160x90/13s34ms/match/image.jpg?pubId=66036796001",
+        "description": "Hype video around the PRO-FIT brand and it's product categories"
+      }
+    ],
+    "ratings_total": 6,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Ceramic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Bugle Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1400"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "25.0000 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "8 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3-1/2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "2 in~~#8~~Gray~~25.0000 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-8-x-2-in-T20-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-25-lbs-3175-Count-0297139/326205841",
+        "item_id": "326205841"
+      },
+      {
+        "title": "3 in~~#9~~Gray~~25 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-9-x-3-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-25-lbs-1800-Count-0297179/326205843",
+        "item_id": "326205843"
+      },
+      {
+        "title": "2 in~~#8~~Gray~~24 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-8-x-2-in-T20-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-3500-Count-0297132/326205842",
+        "item_id": "326205842"
+      },
+      {
+        "title": "2 in~~#8~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-8-x-2-in-T20-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-5-lbs-635-Count-0297134/326205844",
+        "item_id": "326205844"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Gray~~15 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-10-x-3-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-1000-Count-0297192/326205846",
+        "item_id": "326205846"
+      },
+      {
+        "title": "3 in~~#9~~Gray~~5 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-9-x-3-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-5-lbs-360-Count-0297174/326205832",
+        "item_id": "326205832"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Gray~~25.0000 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-9-x-2-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-25-lbs-2350-0297159/326205835",
+        "item_id": "326205835"
+      },
+      {
+        "title": "3 in~~#9~~Gray~~24 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-9-x-3-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-2000-Count-0297172/326205834",
+        "item_id": "326205834"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Gray~~28 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-9-x-2-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-2500-Count-0297152/326205837",
+        "item_id": "326205837"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Gray~~25.0000 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-10-x-3-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-25-lbs-1400-Count-0297199/326205836",
+        "item_id": "326205836"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Gray~~5.0000 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-10-x-3-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-5-lbs-280-Count-0297194/326205839",
+        "item_id": "326205839"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Gray~~5.0000 lb",
+        "link": "https://www.homedepot.com/p/PRO-FIT-9-x-2-1-2-in-T25-Star-Drive-Bugle-Head-Grey-Wood-Deck-Screws-5-lbs-470-Count-0297154/326205838",
+        "item_id": "326205838"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 78.38,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 99,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 99,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

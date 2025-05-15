@@ -1,0 +1,296 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14907,
+    "overage_used": 4907,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/ZEP-32-fl-oz-Grout-Cleaner-and-Brightener-ZU104632/100619266"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:40:45.130Z",
+    "processed_at": "2025-05-02T21:40:54.529Z",
+    "total_time_taken": 9.4,
+    "homedepot_url": "https://www.homedepot.com/p/ZEP-32-fl-oz-Grout-Cleaner-and-Brightener-ZU104632/100619266"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/ZEP-32-fl-oz-Grout-Cleaner-and-Brightener-ZU104632/100619266",
+    "brand": "ZEP",
+    "brand_link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Bathroom-Cleaners-Grout-Tile-Cleaners/ZEP/N-5yc1vZcba0Z1n9",
+    "title": "ZEP 32 fl. oz. Grout Cleaner and Brightener",
+    "upc": "021709009897",
+    "item_id": "100619266",
+    "parent_id": "317701718",
+    "store_sku": "256508",
+    "model_number": "ZU104632",
+    "description": "Deep cleaning grout is a tough job, even for Pros. Zep 32 oz. Grout Cleaner and Brightener contains strong but safe acids that act as a stain remover for grout lines. This professional strength formula quickly restores stained grout lines on tile floors without the need for heavy scrubbing. The formula is not abrasive to tile surfaces.",
+    "is_bestseller": true,
+    "is_top_rated": true,
+    "favorite_count": 1950,
+    "aisle": "53",
+    "bay": "014",
+    "collection": {
+      "id": "Family-325947957",
+      "name": "Family-325947957",
+      "link": "https://www.homedepot.com/collection/Cleaning/Zep-Plus-Spring-Cleaning-Bathroom-Collection/Family-325947957?omsid=100619266"
+    },
+    "feature_bullets": [
+      "Restores Stained Tile Floor Grout Lines without Heavy Scrubbing",
+      "Cleaning Formula Keeps Colors Intact and is Not Abrasive to Tile",
+      "Professional Strength for Commercial or Residential Use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "For use on: white or colored grout lines on tile floors",
+      "Not for use on: marble, terrazzo, travertine, natural stone, chrome, stainless steel, brass or Corian",
+      "Strong formula great for commercial and residential use",
+      "Deep cleans grout lines and lifts stains",
+      "Trusted to remove tough old stains from grout and keep color intact",
+      "Product is not to be used to remove mold, mildew, calcium or limescale and rust"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4b5aee92-f52c-4d83-87ec-fe4102637f37/svn/zep-grout-tile-cleaners-zu104632-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/07b4e3e2-9978-4668-a35a-614fd03b14cb/svn/zep-grout-tile-cleaners-zu104632-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5a0cee90-ad2e-423e-90c7-db47190e45d6/svn/zep-grout-tile-cleaners-zu104632-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/209175be-7999-48ff-8e47-ed3d5c6a6b98/svn/zep-grout-tile-cleaners-zu104632-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/02013640-4cd9-41e8-8066-8b5a5f371e88/svn/zep-grout-tile-cleaners-zu104632-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/57282ee6-1796-4851-a77b-02064ddb2a21/svn/zep-grout-tile-cleaners-zu104632-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7d5bc53a-f150-4b8c-b0cb-4eea427f8383/svn/zep-grout-tile-cleaners-zu104632-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/33de67cb-b48a-47fd-acfd-837f512d14e4/svn/zep-grout-tile-cleaners-zu104632-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0ea9ada5-a0d9-4cd4-8172-a5a05e3dbf69/svn/zep-grout-tile-cleaners-zu104632-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2895ae01-1c5b-43fd-8754-54db08d6b205/svn/zep-grout-tile-cleaners-zu104632-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/aa9ccdb5-5ea9-4580-afbf-87f5c21dfe20/svn/zep-grout-tile-cleaners-zu104632-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b03fff49-8276-4c74-b808-27aaaed068d5/svn/zep-grout-tile-cleaners-zu104632-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3d818404-6211-49fd-86a9-418db6c1ff76/svn/zep-grout-tile-cleaners-zu104632-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/563e6204-7003-4853-8d90-f1c2ee8f86c9/svn/zep-grout-tile-cleaners-zu104632-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4b5aee92-f52c-4d83-87ec-fe4102637f37/svn/zep-grout-tile-cleaners-zu104632-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/0f3f54de-2981-4104-b148-9995037eb0ed/463edf1c-5c83-4ef2-8fd8-aaa853d1d608/main.mp4?fastly_token=NjgxNGUyZjZfMGEwMWJjMTdiZDI1MGFhZDVhYzBhNjZmOTJhMmE5MzlkNTljNjFhNDc2Y2FjYzI2MzdhNTVlMTU3ZjNhMmU3Nl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMGYzZjU0ZGUtMjk4MS00MTA0LWIxNDgtOTk5NTAzN2ViMGVkLzQ2M2VkZjFjLTVjODMtNGVmMi04ZmQ4LWFhYTg1M2QxZDYwOC9tYWluLm1wNA%3D%3D",
+        "title": "Floor Grout Cleaner & Brightener",
+        "id": "6056687564001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/0f3f54de-2981-4104-b148-9995037eb0ed/98b874c0-cec9-4454-97ae-17ffa53cf28e/600x338/match/image.jpg",
+        "description": "This video showcases the uses and power of the Zep cleaner featured\n"
+      }
+    ],
+    "ratings_total": 1913,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Concentrated or Ready to Use",
+        "value": "Concentrated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Helps Remove",
+        "value": "Rust"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Form",
+        "value": "Liquid"
+      },
+      {
+        "group_name": "Details",
+        "name": "Recommended Surfaces",
+        "value": "Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Where to Use",
+        "value": "Bathroom,Kitchen"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Size",
+        "value": "32 OZ-Ounce"
+      }
+    ],
+    "keywords_list": [
+      "cleaner",
+      "grout cleaner",
+      "cleaners",
+      "grout cleaners",
+      "whitener",
+      "grout whitener",
+      "whiteners",
+      "grout whiteners",
+      "tile cleaner",
+      "tile cleaners",
+      "tile whitener",
+      "tile whiteners",
+      "floor cleaner",
+      "floor cleaners",
+      "floor whitener",
+      "floor whiteners",
+      "ZEP cleaner",
+      "ZEP cleaners"
+    ],
+    "keywords": "cleaner, grout cleaner, cleaners, grout cleaners, whitener, grout whitener, whiteners, grout whiteners, tile cleaner, tile cleaners, tile whitener, tile whiteners, floor cleaner, floor cleaners, floor whitener, floor whiteners, ZEP cleaner, ZEP cleaners",
+    "variants": [
+      {
+        "title": "4~~32 OZ-Ounce~~Starter Kit",
+        "link": "https://www.homedepot.com/p/ZEP-32-oz-Grout-Cleaner-and-Brightener-Pack-of-4-ZU1046324/320190277",
+        "item_id": "320190277"
+      },
+      {
+        "title": "12~~32 OZ-Ounce~~Starter Kit",
+        "link": "https://www.homedepot.com/p/ZEP-32-fl-oz-Grout-Cleaner-and-Brightener-12-Pack-ZU104632/202751157",
+        "item_id": "202751157"
+      },
+      {
+        "title": "3~~32 OZ-Ounce~~Starter Kit",
+        "link": "https://www.homedepot.com/p/ZEP-32-fl-oz-Grout-Cleaner-and-Brightener-3-Pack-ZU104632/319306527",
+        "item_id": "319306527"
+      },
+      {
+        "title": "6~~32 OZ-Ounce~~Starter Kit",
+        "link": "https://www.homedepot.com/p/ZEP-32-fl-oz-Liquid-Grout-Cleaner-and-Brightener-6-pack-ZU104632/319306529",
+        "item_id": "319306529"
+      },
+      {
+        "title": "2~~32 OZ-Ounce~~Starter Kit",
+        "link": "https://www.homedepot.com/p/ZEP-32-fl-oz-Grout-Cleaner-and-Brightener-Pack-of-2-ZU1046322/317208611",
+        "item_id": "317208611"
+      },
+      {
+        "title": "1~~32 OZ-Ounce~~Starter Kit",
+        "link": "https://www.homedepot.com/p/ZEP-32-fl-oz-Grout-Cleaner-and-Brightener-ZU104632/100619266",
+        "item_id": "100619266"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Cleaning",
+        "link": "https://www.homedepot.com/b/Cleaning/N-5yc1vZbqsi"
+      },
+      {
+        "name": "Cleaning Products",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products/N-5yc1vZcb33"
+      },
+      {
+        "name": "Bathroom Cleaners",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Bathroom-Cleaners/N-5yc1vZcb45"
+      },
+      {
+        "name": "Grout & Tile Cleaners",
+        "link": "https://www.homedepot.com/b/Cleaning-Cleaning-Products-Bathroom-Cleaners-Grout-Tile-Cleaners/N-5yc1vZcba0"
+      }
+    ],
+    "buybox_winner": {
+      "price": 10.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 21
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 36,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2374,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

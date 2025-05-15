@@ -1,0 +1,232 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14018,
+    "overage_used": 4018,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-6624-1-in-x-3-1-2-in-x-96-in-Finished-PVC-Composite-White-Casing-1-Piece-8-Total-Linear-Feet-MLDP01X03WM523WH/100092588"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:39.455Z",
+    "processed_at": "2025-05-01T17:51:45.441Z",
+    "total_time_taken": 5.99,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-6624-1-in-x-3-1-2-in-x-96-in-Finished-PVC-Composite-White-Casing-1-Piece-8-Total-Linear-Feet-MLDP01X03WM523WH/100092588"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-6624-1-in-x-3-1-2-in-x-96-in-Finished-PVC-Composite-White-Casing-1-Piece-8-Total-Linear-Feet-MLDP01X03WM523WH/100092588",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Royal-Mouldings/N-5yc1vZclf5Z8ui",
+    "title": "Royal Mouldings 6624 1 in. x 3 1/2 in. x 96 in. Finished PVC Composite White Casing (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "070673745348",
+    "item_id": "100092588",
+    "store_sku": "245819",
+    "model_number": "MLDP01X03WM523WH",
+    "description": "The RB3 8 ft. x 3-1/2 in. x 1 in. Polymer Casing offers an attractive, prefinished casing to enhance the area around doors and windows where the frame meets drywall in order to hide gaps. The bone white finish and moisture-, termite- and rot-resistant polymer construction affords ideal durability and style. Adding molding to your home adds value and nice finishing touch.",
+    "favorite_count": 470,
+    "feature_bullets": [
+      "Durable PVC construction for easy cleaning and maintenance",
+      "Intended for indoor use",
+      "Moisture-, rot-, termite-resistant for lasting performance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Polymer extrusion offers a material that cuts and installs like wood and won't split or crack",
+      "Pre-finished in bone white and ready to install",
+      "Moisture, termite and rot-resistant for a long lasting accent",
+      "Won't split or crack and can be easily installed using nails or construction adhesive",
+      "96 in. Length",
+      "Manufactured by Royal Moldings"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f17c9513-6640-4bed-9cd9-41cf8d8952ad/svn/white-royal-mouldings-casing-mldp01x03wm523wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4061b532-3cc1-45ea-9ff7-d55a1e893f3a/svn/white-royal-mouldings-casing-mldp01x03wm523wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f17c9513-6640-4bed-9cd9-41cf8d8952ad/svn/white-royal-mouldings-casing-mldp01x03wm523wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 187,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "6624"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Interior water proof material"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "keywords_list": [
+      "casing",
+      "polymer casing",
+      "white casing",
+      "8 ft. casing"
+    ],
+    "keywords": "casing, polymer casing, white casing, 8 ft. casing",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 24.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "1749",
+          "in_stock": true,
+          "stock_level": 7,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 700,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

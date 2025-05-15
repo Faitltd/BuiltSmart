@@ -1,0 +1,225 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14325,
+    "overage_used": 4325,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-DTT-ZMAX-Galvanized-Deck-Tension-Tie-for-2x-Nominal-Lumber-DTT1Z/206006177"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:26:44.340Z",
+    "processed_at": "2025-05-01T18:27:26.299Z",
+    "total_time_taken": 41.96,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-DTT-ZMAX-Galvanized-Deck-Tension-Tie-for-2x-Nominal-Lumber-DTT1Z/206006177"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-DTT-ZMAX-Galvanized-Deck-Tension-Tie-for-2x-Nominal-Lumber-DTT1Z/206006177",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Metal-Straps/Simpson-Strong-Tie/N-5yc1vZaqtaZ615",
+    "title": "Simpson Strong-Tie DTT ZMAX Galvanized Deck Tension Tie for 2x Nominal Lumber",
+    "upc": "707392398592",
+    "item_id": "206006177",
+    "store_sku": "1001338209",
+    "model_number": "DTT1Z",
+    "description": "DTT tension ties are safe, cost-effective connectors designed to meet or exceed code requirements for deck construction. These versatile DTT connectors are also load rated as a holdown for light-duty shearwalls and braced wall panel applications. The DTT1Z deck tension tie provides a less invasive approach for attaching a new deck to a home or retrofitting an existing deck to current code standards.",
+    "is_top_rated": true,
+    "favorite_count": 135,
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Eliminates the need to access the floor joists inside the house",
+      "Ties the guardrail post into deck framing",
+      "Stronger and safer than nails, lag screws or bolts",
+      "Ties the deck into the house for a stronger, safer ledger connection",
+      "Helps prevent a common type of deck failure",
+      "Made from 14-Gauge steel",
+      "ZMAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with Strong-Drive SD Connector screws or nails and accepts a 3/8 in. machine bolt, anchor bolt, or lag screw (washer required) or can be installed with the new Strong-Drive SDWH Timber-Hex HDG screw with an integral washer",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b91bed08-1cbe-4ce1-b52f-d5c6d9dfea79/svn/simpson-strong-tie-metal-straps-dtt1z-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecedd04e-add6-4669-8f22-2884dc040344/svn/simpson-strong-tie-metal-straps-dtt1z-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7e8d214b-f1da-4e22-be58-4f4ca464c583/svn/simpson-strong-tie-metal-straps-dtt1z-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/22da15c6-ac95-4f74-9ee7-5459c0ad448d/svn/simpson-strong-tie-metal-straps-dtt1z-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8040f5fb-91c7-47b9-b551-2911676afd6c/svn/simpson-strong-tie-metal-straps-dtt1z-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/083b62d6-bb6a-497a-a57f-afe54e11d87a/svn/simpson-strong-tie-metal-straps-dtt1z-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-metal-straps-dtt1z-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5f2c3398-02ab-4e7f-a3d0-3d0696dc8fcf/svn/simpson-strong-tie-metal-straps-dtt1z-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-metal-straps-dtt1z-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b91bed08-1cbe-4ce1-b52f-d5c6d9dfea79/svn/simpson-strong-tie-metal-straps-dtt1z-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f83c3e4a-fb05-4d06-bace-70ee08af4f0e/9d96f730-0f86-4cff-a4d8-4fffae6d998d/main.mp4?fastly_token=NjgzODI5MzZfMjhkZjJiOTE0YTNhYWE5NmU4OTRkMzM5Mjc4YWVmM2RlYmE5ZDZlNDNkM2RkNDI2MmNjMmUxYzBkZGI3YjlmN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mODNjM2U0YS1mYjA1LTRkMDYtYmFjZS03MGVlMDhhZjRmMGUvOWQ5NmY3MzAtMGY4Ni00Y2ZmLWE0ZDgtNGZmZmFlNmQ5OThkL21haW4ubXA0&pubid=66036796001",
+        "title": "Simpson Strong-Tie_DTT1Z",
+        "id": "5294833592001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/f83c3e4a-fb05-4d06-bace-70ee08af4f0e/59d1effd-4d66-4dd9-9a4c-b88dcb66846f/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Simpson Strong-Tie_DTT1Z"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2c58f979-7adc-4b78-94f7-ef6b8d17ecc8/main.mp4?fastly_token=NjgxMzkxOGRfMTQwYThiNTM3NTVkODk5NjMyM2E3OTU0NGE1OTYzZTVjOTU2MzIxYzQxMzNmYmY2NzJkM2NmZmU0YTgxMWJiYl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZGI5NmMzMzktYjc5NS00ZTI2LWI2OGMtMjMxNTQ3YjliMmMxLzJjNThmOTc5LTdhZGMtNGI3OC05NGY3LWVmNmI4ZDE3ZWNjOC9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_Post Base",
+        "id": "6167359517001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/db96c339-b795-4e26-b68c-231547b9b2c1/2155f829-f919-4d62-bd12-1abcbcf1ff3b/160x90/match/image.jpg",
+        "description": "Promo of Post Base\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/1adf0153-2df3-44f6-a355-35c757fd411a/main.mp4?fastly_token=NjgxMzhiNjZfMDQxN2EwOTgzYTRhMjg3MmZkYzc2MWRhOGE2NWI4MDJkYjY2YzEyYWJmZDk2NmIxZjY4ODVmNDVhN2QzNzBjM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMmY4NzNjNDktOTI4OS00ZmViLWIzMjAtOWJkYjM3NTMyYTcwLzFhZGYwMTUzLTJkZjMtNDRmNi1hMzU1LTM1Yzc1N2ZkNDExYS9tYWluLm1wNA%3D%3D",
+        "title": "DeckVideoSeries_Promo_DeckLedger",
+        "id": "6167359672001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/2f873c49-9289-4feb-b320-9bdb37532a70/8da517f9-0535-4182-9759-04f15b64b115/600x338/match/image.jpg",
+        "description": "Promo of Deck Ledger\n"
+      }
+    ],
+    "ratings_total": 43,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G185 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector recommendation",
+        "value": "Tie"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "14"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.3 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Staggered Nail Pattern",
+        "value": "Not Staggered"
+      },
+      {
+        "group_name": "Details",
+        "name": "Strap Type",
+        "value": "Tie"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.47 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "7.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Metal Straps",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Metal-Straps/N-5yc1vZaqta"
+      }
+    ],
+    "buybox_winner": {
+      "price": 3.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

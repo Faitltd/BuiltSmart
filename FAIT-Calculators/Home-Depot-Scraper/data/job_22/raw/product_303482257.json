@@ -1,0 +1,250 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14378,
+    "overage_used": 4378,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Titebond-10-1-oz-Gray-Radon-Sealant-12-Pack-3251A/303482257"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:30:37.107Z",
+    "processed_at": "2025-05-01T18:30:41.922Z",
+    "total_time_taken": 4.82,
+    "homedepot_url": "https://www.homedepot.com/p/Titebond-10-1-oz-Gray-Radon-Sealant-12-Pack-3251A/303482257"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Titebond-10-1-oz-Gray-Radon-Sealant-12-Pack-3251A/303482257",
+    "brand": "Titebond",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Sealants/Titebond/N-5yc1vZcibvZ2mn",
+    "title": "Titebond 10.1 oz. Gray Radon Sealant (12-Pack)",
+    "upc": "037083032512",
+    "item_id": "303482257",
+    "store_sku": "1002809917",
+    "model_number": "3251A",
+    "description": "Titebond Professional Radon Sealant is a non-chemically curing sealant that combines the superior flexibility and durability of a silicone and allows joint movement capability of at least \u00b1 25% with 100% recovery. It should be used on foundation cracks, joints and penetrations, around foundation coatings normally used for damp proofing and membranes surrounding the foundation. Note: According to the EPA, sealants can help limit the entry of radon through the foundation. It is also recommended that a professionally installed radon mitigation or fan based system be used in conjunction with this sealant. The mold and mildew resistant formula dries quickly and contains no added ozone-depleting chemicals, making it safer for you and the environment.",
+    "favorite_count": 29,
+    "descriptive_attributes": [
+      "IDEAL FOR: REDUCING THE ENTRY OF RADON THROUGH THE FOUNDATION.",
+      "SEALS: CONCRETE, GALVANIZED STEEL, WOOD AND MOST COMMON BUILDING MATERIALS.",
+      "REDUCES RADON ENTRY",
+      "SEALS FOUNDATION GAPS",
+      "EFFECTIVE BARRIER TO AIR, DIRT, INSECTS AND RADON",
+      "SUPERIOR FLEXIBILITY WITH ENHANCED DURABILITY",
+      "EASY PAINTABILITY AND CLEANUP OF AN ACRYLIC",
+      "Clean-up with soap and water"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/85a10e39-9177-4f50-8c35-3fdda6caa42f/svn/gray-titebond-sealants-3251a-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0b3d48e2-46ec-4611-b048-fc5be418fc17/svn/gray-titebond-sealants-3251a-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7dc8e07f-26f7-40e9-aaa9-186990e15732/svn/gray-titebond-sealants-3251a-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7409f812-f897-48ad-a18b-3a0bf5b8e488/svn/gray-titebond-sealants-3251a-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4326a78c-a434-4e73-9d74-2f55d2ef5af8/svn/gray-titebond-sealants-3251a-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79fd6e29-b442-451f-96a4-d3752664616c/svn/gray-titebond-sealants-3251a-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0b3d48e2-46ec-4611-b048-fc5be418fc17/svn/gray-titebond-sealants-3251a-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7dc8e07f-26f7-40e9-aaa9-186990e15732/svn/gray-titebond-sealants-3251a-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7409f812-f897-48ad-a18b-3a0bf5b8e488/svn/gray-titebond-sealants-3251a-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4326a78c-a434-4e73-9d74-2f55d2ef5af8/svn/gray-titebond-sealants-3251a-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/695a01c5-e6ab-443b-8851-cbe9e6cc2ca3/svn/gray-titebond-sealants-3251a-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/695a01c5-e6ab-443b-8851-cbe9e6cc2ca3/svn/gray-titebond-sealants-3251a-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/85a10e39-9177-4f50-8c35-3fdda6caa42f/svn/gray-titebond-sealants-3251a-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/c13987f6-2a09-4d1c-99cb-d667fe144d25/fbac1acd-9da6-4897-987b-54ec00017d47/main.mp4?fastly_token=NjgzODUxMDBfNDIyYTdhMTliYjhlY2MxNDAwYTFmZjdkMTRmMjM0M2ZkZTRiZTIxNThmOTJmNWJiZWViNDA3MWY3ZWZmYzMwY18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9jMTM5ODdmNi0yYTA5LTRkMWMtOTljYi1kNjY3ZmUxNDRkMjUvZmJhYzFhY2QtOWRhNi00ODk3LTk4N2ItNTRlYzAwMDE3ZDQ3L21haW4ubXA0&pubid=66036796001",
+        "title": "Titebond Sealants Informational",
+        "id": "6204219349001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/c13987f6-2a09-4d1c-99cb-d667fe144d25/12564352-b354-484a-9aed-5f4d7cd706eb/160x90/match/image.jpg?pubId=66036796001",
+        "description": "About Titebond sealants"
+      }
+    ],
+    "ratings_total": 42,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Specialty"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Acrylic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "31"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "72"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "120 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Mold and Mildew Resistant,Paintable,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sealant Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Transparency",
+        "value": "Solid"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Since the use of this product is beyond the control of the manufacturer there is no guarantee or warranty."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10.1 oz"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Sealants/N-5yc1vZcibv"
+      }
+    ],
+    "buybox_winner": {
+      "price": 71.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12616,
+    "overage_used": 2616,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-2-ft-x-4-ft-PureBond-Maple-Plywood-Project-Panel-Free-Custom-Cut-Available-6029/327733813"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:26:27.270Z",
+    "processed_at": "2025-05-01T13:26:39.750Z",
+    "total_time_taken": 12.48,
+    "homedepot_url": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-2-ft-x-4-ft-PureBond-Maple-Plywood-Project-Panel-Free-Custom-Cut-Available-6029/327733813"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-2-ft-x-4-ft-PureBond-Maple-Plywood-Project-Panel-Free-Custom-Cut-Available-6029/327733813",
+    "brand": "Columbia Forest Products",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Columbia-Forest-Products/N-5yc1vZc7hmZ5uf",
+    "title": "Columbia Forest Products 5/32 in. x 2 ft. x 4 ft. PureBond Maple Plywood Project Panel (Free Custom Cut Available)",
+    "upc": "730232006029",
+    "item_id": "327733813",
+    "parent_id": "328153545",
+    "store_sku": "1010569324",
+    "model_number": "6029",
+    "description": "Use this 5/32 in. x 2 ft. x 4 ft. PureBond Maple Plywood Project Panel for your next cabinetry or furniture project and never worry about it releasing airborne contaminants, as formaldehyde-laden products are prone to do. A decorative maple veneer graces the face of this 3-ply panel, assembled on top of two other veneers with a soy-based PureBond technology that is environmentally friendly and won't off-gas toxic fumes like UF plywood. The natural warmth and beauty of real maple gives the decorative face veneer a splendid appearance that forms the foundation for impressive DIY creations, such as serving trays, end tables, pet food centers, footstools, wall pockets, shelves and more. It's a cost-competitive alternative to products that may degrade indoor air quality over time and its water resistance further strengthens its endurance for lasting performance.",
+    "feature_bullets": [
+      "Free custom cut available - See details below",
+      "Maple plywood strength, performance and durability",
+      "Maple veneer on both sides of plywood"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "PureBond hardwood plywood is an environmentally friendly, cost-competitive alternative to panels manufactured with urea formaldehyde (UF), which may degrade air quality over time",
+      "Contains 100% natural wood bonded with a food-grade soy-based adhesive that does not emit toxic air contaminants",
+      "Decorative top veneer, measuring approximately 1/42 in. thick, exhibits the beauty and timeless quality of natural hardwood and is suitable for painting or staining",
+      "Water-resistant composition has a higher moisture tolerance than UF panels and is less likely to warp than solid wood",
+      "Allow panel to acclimate to interior climate conditions for several days before customizing - for interior applications only",
+      "For best cutting results, use an 80-tooth (or greater) table saw blade intended for sheet goods or a carbide-tipped circular saw plywood blade",
+      "Common: 5/32 in. x 2 ft. x 4 ft.; actual: 0.141 in. x 24 in. x 48 in.",
+      "Direction of the grain is the length of panel",
+      "Each panel weighs approximately 5 lbs.",
+      "Grade: b-1 - see grading guide for additional information"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4e806701-44c2-4bde-a616-b46b9bd97237/svn/columbia-forest-products-project-panels-6029-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25c47d5c-7a2c-410e-8a29-22f7b5bf46ea/svn/columbia-forest-products-project-panels-6029-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9289ebcb-29c9-408b-ac0c-cdf640d784ce/svn/columbia-forest-products-project-panels-6029-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/10e4c5e8-cca0-45ce-a462-336c0e4c186d/svn/columbia-forest-products-project-panels-6029-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/67ef0eb6-7b82-45a7-a686-f133b3b43121/svn/columbia-forest-products-project-panels-6029-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/be351770-772f-4d36-9901-f9942bfbabed/svn/columbia-forest-products-project-panels-6029-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9d29b39a-4e04-49eb-9ca9-59683b841c27/svn/columbia-forest-products-project-panels-6029-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cab1c211-120c-494a-ad5c-089a6e7a6d1a/svn/columbia-forest-products-project-panels-6029-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f14dfee4-476d-4b5f-a106-9d9ebc3a9cfa/svn/columbia-forest-products-project-panels-6029-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/38a49c9e-5800-4169-9f26-070d27092aee/svn/columbia-forest-products-project-panels-6029-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0f2c6cb0-79c2-4c0f-ba33-579333c4e2a3/svn/columbia-forest-products-project-panels-6029-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/103d0cb2-5f4e-4ae5-9eed-6023d8b26ad2/svn/columbia-forest-products-project-panels-6029-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0b4eecad-3453-42dd-acff-094cba4c168d/svn/columbia-forest-products-project-panels-6029-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4e806701-44c2-4bde-a616-b46b9bd97237/svn/columbia-forest-products-project-panels-6029-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 8,
+    "rating": 3.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Hardwood Plywood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Product warranted against glue or bond failure. Product replacement provided."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "48.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.141 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "5/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "variants": [
+      {
+        "title": "4 ft. x 4 ft.~~5/32~~Maple",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-4-ft-x-4-ft-PureBond-Maple-Plywood-Project-Panel-Free-Custom-Cut-Available-6043/327738891",
+        "item_id": "327738891"
+      },
+      {
+        "title": "2 ft. x 8 ft.~~5/32~~Maple",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-2-ft-x-8-ft-PureBond-Maple-Plywood-Project-Panel-Free-Custom-Cut-Available-6036/327736288",
+        "item_id": "327736288"
+      },
+      {
+        "title": "2 ft. x 2 ft.~~5/32~~Maple",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-2-ft-x-2-ft-PureBond-Maple-Plywood-Project-Panel-Free-Custom-Cut-Available-6012/327736017",
+        "item_id": "327736017"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~5/32~~Maple",
+        "link": "https://www.homedepot.com/p/Columbia-Forest-Products-5-32-in-x-2-ft-x-4-ft-PureBond-Maple-Plywood-Project-Panel-Free-Custom-Cut-Available-6029/327733813",
+        "item_id": "327733813"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 26,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 93,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 93,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

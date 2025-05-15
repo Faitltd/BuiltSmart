@@ -1,0 +1,188 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13156,
+    "overage_used": 3156,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fypon-3-4-in-x-3-4-in-x-96-in-Polyurethane-Ogee-Moulding-MLD633-8/203279940"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:45:47.534Z",
+    "processed_at": "2025-05-01T13:46:30.598Z",
+    "total_time_taken": 43.06,
+    "homedepot_url": "https://www.homedepot.com/p/Fypon-3-4-in-x-3-4-in-x-96-in-Polyurethane-Ogee-Moulding-MLD633-8/203279940"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fypon-3-4-in-x-3-4-in-x-96-in-Polyurethane-Ogee-Moulding-MLD633-8/203279940",
+    "brand": "Fypon",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Fypon/N-5yc1vZcbj5Za19",
+    "title": "Fypon 3/4 in. x 3/4 in. x 96 in. Polyurethane Ogee Moulding",
+    "upc": "740227168717",
+    "item_id": "203279940",
+    "store_sku": "1000242259",
+    "model_number": "MLD633-8",
+    "description": "Take the ordinary and make it magnificent with more than 100 architectural styles - from massive cornice mouldings and dentil profiles to delicate trim and chair rails. Whether you want a simple, elegant design or something more elaborate, Fypon's variety of styles, sizes and combinations allow you to create a look like no other. Primed and ready to paint.",
+    "favorite_count": 22,
+    "feature_bullets": [
+      "Ranks low in maintenance to facilitate better convenience of use",
+      "Pre-primed finish for easy painting",
+      "Makes your walls look satin and striking"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Limited lifetime warranty for homeowners",
+      "Low-maintenance",
+      "Quick and easy installation",
+      "Resist insects",
+      "Resists moisture",
+      "Weather resistant",
+      "Pre-primed, ready to paint or stain",
+      "Exterior grade 100% acrylic latex paint"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0cd5fa91-7695-4a4a-be17-0f7f3b8772aa/svn/white-fypon-general-purpose-moulding-mld633-8-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0cd5fa91-7695-4a4a-be17-0f7f3b8772aa/svn/white-fypon-general-purpose-moulding-mld633-8-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 3,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Rot Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Screw"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyurethane"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "S4S Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited Warranty for Homeowners"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "keywords_list": [
+      "Fypon",
+      "3/4 in. x 3/4 in. x 96 in. Primed Polyurethane Ogee Moulding",
+      "MLD633-8"
+    ],
+    "keywords": "Fypon, 3/4 in. x 3/4 in. x 96 in. Primed Polyurethane Ogee Moulding, MLD633-8",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 23.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13964,
+    "overage_used": 3964,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Ornamental-Mouldings-41-8-1-4-in-x-13-32-in-x-96-in-White-Hardwood-Colonial-Trim-Moulding-41-8WHW/202841960"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:49:17.063Z",
+    "processed_at": "2025-05-01T17:49:22.131Z",
+    "total_time_taken": 5.07,
+    "homedepot_url": "https://www.homedepot.com/p/Ornamental-Mouldings-41-8-1-4-in-x-13-32-in-x-96-in-White-Hardwood-Colonial-Trim-Moulding-41-8WHW/202841960"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Ornamental-Mouldings-41-8-1-4-in-x-13-32-in-x-96-in-White-Hardwood-Colonial-Trim-Moulding-41-8WHW/202841960",
+    "brand": "Ornamental Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/Ornamental-Mouldings/N-5yc1vZcbjjZ2js",
+    "title": "Ornamental Mouldings 41-8 1/4 in. x 13/32 in. x 96 in. White Hardwood Colonial Trim Moulding",
+    "upc": "009215000423",
+    "item_id": "202841960",
+    "parent_id": "327515272",
+    "store_sku": "745663",
+    "model_number": "41-8WHW",
+    "description": "The Ornamental Mouldings 8 ft. x 13/32 in. x 1/4 in. Natural White Hardwood Colonial Moulding can be used to add decorative panel or trim effects to your home. The durable hardwood moulding features a classic Colonial design. It is sized to suit using as shelf edges and also miters well to aid in creating panel effects on walls. It is especially effective when used in panel effects along with Ornamental Mouldings 40-8WHW Colonial trim moulding and OML43-8FTWHW Colonial Chair Rail Moulding.",
+    "favorite_count": 427,
+    "feature_bullets": [
+      "Designed in classic style for a traditional elegance",
+      "Hardwood construction free of knots for a smooth finish",
+      "Ideal as a finishing touch to shelves"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "An exceptional colonial moulding trim that can be used in any project or as part of your room design",
+      "Made from unfinished solid white hardwood",
+      "Recommended for paint finishes but if staining follow stain manufacturers recommendations to seal the product first",
+      "Use as a shelf edge or panel effect on walls to add an elegant architectural detail to your home",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d7a871bd-df5a-4252-ad2d-6efe27c935ba/svn/unfinished-ornamental-mouldings-chair-rail-41-8whw-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/04c3cc55-6fb6-4ba1-b0c8-836c791f43f3/svn/unfinished-ornamental-mouldings-chair-rail-41-8whw-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/12ff2af7-f436-41a6-b224-453b013dbcdc/svn/unfinished-ornamental-mouldings-chair-rail-41-8whw-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d7a871bd-df5a-4252-ad2d-6efe27c935ba/svn/unfinished-ornamental-mouldings-chair-rail-41-8whw-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 22,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Chair Rail Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "41"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.406 in"
+      }
+    ],
+    "keywords_list": [
+      "8 ft. x 13/32 in. x 1/4 in. Natural Hardwood Colonial Moulding",
+      "41-8WHW"
+    ],
+    "keywords": "8 ft. x 13/32 in. x 1/4 in. Natural Hardwood Colonial Moulding, 41-8WHW",
+    "variants": [
+      {
+        "title": "Unfinished~~3.96 ft",
+        "link": "https://www.homedepot.com/p/Ornamental-Mouldings-41-4WHW-25-in-D-X-406-in-W-X-47-5-in-L-Unfinished-White-Hardwood-Colonial-Chair-Rail-Moulding-41-4WHW/325612923",
+        "item_id": "325612923"
+      },
+      {
+        "title": "Unfinished~~8 ft",
+        "link": "https://www.homedepot.com/p/Ornamental-Mouldings-41-8-1-4-in-x-13-32-in-x-96-in-White-Hardwood-Colonial-Trim-Moulding-41-8WHW/202841960",
+        "item_id": "202841960"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Chair Rail",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Chair-Rail/N-5yc1vZcbjj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 988,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 988,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

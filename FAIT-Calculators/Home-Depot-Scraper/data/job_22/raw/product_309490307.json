@@ -1,0 +1,207 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14433,
+    "overage_used": 4433,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-16-ft-Enhance-Basics-Saddle-Composite-Groove-Deck-Board-SD010616E2G01/309490307"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:38:30.047Z",
+    "processed_at": "2025-05-01T18:38:40.835Z",
+    "total_time_taken": 10.79,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-16-ft-Enhance-Basics-Saddle-Composite-Groove-Deck-Board-SD010616E2G01/309490307"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-16-ft-Enhance-Basics-Saddle-Composite-Groove-Deck-Board-SD010616E2G01/309490307",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 in. x 6 in. to 16 ft. Enhance Basics Saddle Composite Groove Deck Board",
+    "upc": "652835286915",
+    "item_id": "309490307",
+    "parent_id": "327512597",
+    "store_sku": "1006541074",
+    "model_number": "SD010616E2G01",
+    "description": "Trex Decking offers homeowners high-performance, low-maintenance composite decking at a value that makes it an attractive option for any project. Trex is a perfect choice for those who want to enjoy the look of real wood without the time-consuming maintenance. Made of recycled materials, so you can feel good about a deck that is earth-friendly and a 'green' option. Trex is also available in various color options and is engineered to be curve able for endless design possibilities.",
+    "feature_bullets": [
+      "Made of high-performance composite for durability",
+      "Low-maintenance material; cleans easily with soap and water",
+      "Backed by a 25-year limited residential warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Scratch resistance",
+      "Fade resistance",
+      "Stain resistance",
+      "25-year limited residential warranty",
+      "Splinter free",
+      "No sanding"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/36661132-192e-4f2c-a9f4-28716432eefa/svn/enhance-basics-saddle-trex-composite-decking-boards-sd010616e2g01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/665f7307-eb58-4080-8769-cbfb38230b6c/svn/enhance-basics-saddle-trex-composite-decking-boards-sd010616e2g01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/028c864d-2c1e-44ab-aa01-d413daab4b5a/svn/enhance-basics-saddle-trex-composite-decking-boards-sd010616e2g01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d635634d-c78a-4708-be96-eec931667b51/svn/enhance-basics-saddle-trex-composite-decking-boards-sd010616e2g01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d201a90c-57ef-4048-b2c3-9d6e8f51c221/svn/enhance-basics-saddle-trex-composite-decking-boards-sd010616e2g01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2ae2a705-4c81-4a28-87e7-7cc932c985a7/svn/enhance-basics-saddle-trex-composite-decking-boards-sd010616e2g01-66_1000.jpg",
+        "type": "image_back_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/36661132-192e-4f2c-a9f4-28716432eefa/svn/enhance-basics-saddle-trex-composite-decking-boards-sd010616e2g01-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 43,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Enhance Basics Saddle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Approved Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Enhance Basics Saddle~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-16-ft-Enhance-Basics-Saddle-Composite-Groove-Deck-Board-SD010616E2G01/309490307",
+        "item_id": "309490307"
+      },
+      {
+        "title": "Enhance Basics Saddle~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/1-in-x-6-in-x-20-ft-Enhance-Basics-Saddle-Composite-Groove-Deck-Board-SD010620E2G01/309490315",
+        "item_id": "309490315"
+      },
+      {
+        "title": "Enhance Basics Saddle~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-to-12-ft-Enhance-Basics-Saddle-Composite-Groove-Deck-Board-SD010612E2G01/309490281",
+        "item_id": "309490281"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 31.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 113,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

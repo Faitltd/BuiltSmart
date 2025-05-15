@@ -1,0 +1,215 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13545,
+    "overage_used": 3545,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-Bevel-5-8-in-D-x-1-5-8-in-W-Primed-Pine-Wood-Casing-P256PR/202071673"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:49:08.041Z",
+    "processed_at": "2025-05-01T16:49:52.113Z",
+    "total_time_taken": 44.07,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-Bevel-5-8-in-D-x-1-5-8-in-W-Primed-Pine-Wood-Casing-P256PR/202071673"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-Bevel-5-8-in-D-x-1-5-8-in-W-Primed-Pine-Wood-Casing-P256PR/202071673",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/Kelleher/N-5yc1vZclf5Z4z5",
+    "title": "Kelleher Bevel 5/8 in. D x 1-5/8 in. W Primed Pine Wood Casing",
+    "upc": "099443282241",
+    "item_id": "202071673",
+    "parent_id": "328892380",
+    "store_sku": "833975",
+    "model_number": "P256PR",
+    "description": "The Kelleher 1-5/8 in. x 5/8 in. Bevel Casing is installed around a doorway or window. It covers the gap where the door frame meets the wall. Creating a distinctive finished look.",
+    "favorite_count": 49,
+    "feature_bullets": [
+      "Made from finger joint pine for long-lasting durability",
+      "Used to conceal gaps between door frames and drywall",
+      "Ready to be painted for customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Fingerjoint Pine construction",
+      "Pre-primed to save a step in installation",
+      "Ready to paint to match your decor",
+      "Sold by the linear ft.",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ed69d70f-f723-4c87-8426-8354892f1a1c/svn/white-kelleher-casing-p256pr-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7fee35c2-11d9-414b-9bf9-0a13491e5e1d/svn/white-kelleher-casing-p256pr-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ed69d70f-f723-4c87-8426-8354892f1a1c/svn/white-kelleher-casing-p256pr-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 60,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "256"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "204 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.625 in"
+      }
+    ],
+    "keywords_list": [
+      "casing",
+      "pine casing",
+      "building supply",
+      "pine building supply",
+      "building supplies",
+      "pine building supplies",
+      "door casing",
+      "door building supply",
+      "door building supplies",
+      "window casing",
+      "window building supply",
+      "window building supplies",
+      "Kelleher casing"
+    ],
+    "keywords": "casing, pine casing, building supply, pine building supply, building supplies, pine building supplies, door casing, door building supply, door building supplies, window casing, window building supply, window building supplies, Kelleher casing",
+    "variants": [
+      {
+        "title": "White~~17 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Bevel-5-8-in-D-x-1-5-8-in-W-Primed-Pine-Wood-Casing-P256PR/202071673",
+        "item_id": "202071673"
+      },
+      {
+        "title": "White~~7 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-Bevel-5-8-in-x-1-5-8-in-x-7-ft-Primed-Pine-Casing-PT256PR-1/100321804",
+        "item_id": "100321804"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

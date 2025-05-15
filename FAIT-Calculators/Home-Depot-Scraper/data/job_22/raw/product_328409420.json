@@ -1,0 +1,205 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14385,
+    "overage_used": 4385,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Tomahawk-Power-Tomahawk-36-in-Concrete-Power-Trowel-Walk-Behind-Fast-Pitch-9-HP-Honda-Finishing-Trowel-with-Blades-Float-Pan-TPT36FXH-270/328409420"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:31:33.654Z",
+    "processed_at": "2025-05-01T18:31:38.701Z",
+    "total_time_taken": 5.05,
+    "homedepot_url": "https://www.homedepot.com/p/Tomahawk-Power-Tomahawk-36-in-Concrete-Power-Trowel-Walk-Behind-Fast-Pitch-9-HP-Honda-Finishing-Trowel-with-Blades-Float-Pan-TPT36FXH-270/328409420"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Tomahawk-Power-Tomahawk-36-in-Concrete-Power-Trowel-Walk-Behind-Fast-Pitch-9-HP-Honda-Finishing-Trowel-with-Blades-Float-Pan-TPT36FXH-270/328409420",
+    "brand": "Tomahawk Power",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Tools-Concrete-Trowels-Finishing-Trowels/Tomahawk-Power/N-5yc1vZcdpzZg9h",
+    "title": "Tomahawk Power Tomahawk 36 in. Concrete Power Trowel Walk Behind Fast Pitch 9 HP Honda Finishing Trowel with Blades Float Pan",
+    "upc": "850051459193",
+    "item_id": "328409420",
+    "parent_id": "328853654",
+    "store_sku": "1010695730",
+    "model_number": "TPT36FXH-270",
+    "description": "The Tomahawk Power fast pitch power trowel is an advanced concrete finishing tool that is designed to deliver top-of-the-line performance and speed. This trowel is equipped with a powerful engine and advanced technology that allows it to achieve superior concrete finishing results in less time. With its adjustable pitch control system, the fast pitch power trowel can easily adapt to different concrete finishing applications, including smoothing, troweling and finishing. The trowel's precision controls allow for accurate adjustments, ensuring a consistent finish every time.",
+    "feature_bullets": [
+      "Powered by Honda GX270 engine for reliable, efficient finishing",
+      "Fast pitch blades for quick, efficient concrete finishing",
+      "Combo blade and float pan for a smooth, uniform concrete finish"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Honda GX270 engine- equipped with a high-performance Honda engine, delivering reliable and efficient power for smooth concrete finishing",
+      "Fast pitch- allows for quick angling of the blades for more efficient concrete finishing",
+      "Easy to use- with a 36 in. working width, operate close to walls, edges and corners with independent rotating flywheel",
+      "Combo blade- allows for a smooth transition from floating to finishing without the need for blade changes, this ensures a consistent and high-quality finish on concrete surfaces",
+      "Float pan: achieve a smoother and more uniform finish, while distributing weight evenly - reducing the risk of creating unwanted ridges or marks",
+      "3-year engine warranty and 1-year product warranty"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0b5de627-7928-4839-b106-e7a8a74084dc/svn/tomahawk-power-finishing-trowels-tpt36fxh-270-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a01ee1b-4002-4a77-91be-2f5e44a4def0/svn/tomahawk-power-finishing-trowels-tpt36fxh-270-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/aec63ef8-603b-4917-bdab-7d98f03c6ee2/svn/tomahawk-power-finishing-trowels-tpt36fxh-270-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/42cfa452-6b9b-4205-a73c-81e5886698d4/svn/tomahawk-power-finishing-trowels-tpt36fxh-270-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/71487bef-fe9f-4b9e-8d12-1c060d0463fa/svn/tomahawk-power-finishing-trowels-tpt36fxh-270-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0b5de627-7928-4839-b106-e7a8a74084dc/svn/tomahawk-power-finishing-trowels-tpt36fxh-270-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/2ac033b2-4e71-4051-8903-0de443ca51c7/68aa902a-aece-479a-9c11-8b743c048be1/main.mp4?fastly_token=NjgzOGFiZDBfODliNjM3ZTQ3YjkxOTI4N2M5Y2NhNjFkYWJjNWQ0MmNiMjdkMzcxNzRkNTQ1MmVhODhhMzA4MWM2ZDg2ZDY5NV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yYWMwMzNiMi00ZTcxLTQwNTEtODkwMy0wZGU0NDNjYTUxYzcvNjhhYTkwMmEtYWVjZS00NzlhLTljMTEtOGI3NDNjMDQ4YmUxL21haW4ubXA0&pubid=66036796001",
+        "title": "Tomahawk Concrete Power Trowel Fast PitchTrowel",
+        "id": "6362341362112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/2ac033b2-4e71-4051-8903-0de443ca51c7/main/160x90/30s151ms/match/image.jpg?pubId=66036796001",
+        "description": "The Tomahawk Power fast pitch power trowel is an advanced concrete finishing tool that is designed to deliver top-of-the-line performance and speed. This trowel is equipped with a powerful engine and advanced technology that allows it to achieve supe"
+      }
+    ],
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Blade Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Concrete Tool Type",
+        "value": "Trowel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Material",
+        "value": "Rubber"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "30-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trowel Type",
+        "value": "Finishing Trowel"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "3 Year Engine Warranty & 1 Year Product Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Blade Length (in.)",
+        "value": "36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Blade Width (in.)",
+        "value": "5"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "37 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "36 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "46 in~~5",
+        "link": "https://www.homedepot.com/p/Tomahawk-Power-46-in-Concrete-Power-Trowel-Walk-Behind-Fast-Pitch-13-HP-Honda-Finishing-Trowel-with-Blades-Float-Pan-TPT46FXH-390/328409426",
+        "item_id": "328409426"
+      },
+      {
+        "title": "36 in~~5",
+        "link": "https://www.homedepot.com/p/Tomahawk-Power-Tomahawk-36-in-Concrete-Power-Trowel-Walk-Behind-Fast-Pitch-9-HP-Honda-Finishing-Trowel-with-Blades-Float-Pan-TPT36FXH-270/328409420",
+        "item_id": "328409420"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Concrete, Cement & Masonry",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry/N-5yc1vZarlk"
+      },
+      {
+        "name": "Concrete Tools",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Tools/N-5yc1vZarh8"
+      },
+      {
+        "name": "Concrete Trowels",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Tools-Concrete-Trowels/N-5yc1vZaq1d"
+      },
+      {
+        "name": "Finishing Trowels",
+        "link": "https://www.homedepot.com/b/Building-Materials-Concrete-Cement-Masonry-Concrete-Tools-Concrete-Trowels-Finishing-Trowels/N-5yc1vZcdpz"
+      }
+    ],
+    "buybox_winner": {
+      "price": 3499.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 5,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 5,
+          "price": 55,
+          "start_date": "2025-05-12",
+          "end_date": "2025-05-13",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

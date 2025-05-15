@@ -1,0 +1,237 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14064,
+    "overage_used": 4064,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/SKYSHALO-Staircase-Metal-Balusters-29-5-x-1-in-Flat-Aluminum-Alloy-Decorative-Banister-Spindles-51-Pack-Deck-Baluster-BPKLGZ51G295RCF96V0-0920/332744563"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:53:15.582Z",
+    "processed_at": "2025-05-01T17:53:21.677Z",
+    "total_time_taken": 6.09,
+    "homedepot_url": "https://www.homedepot.com/p/SKYSHALO-Staircase-Metal-Balusters-29-5-x-1-in-Flat-Aluminum-Alloy-Decorative-Banister-Spindles-51-Pack-Deck-Baluster-BPKLGZ51G295RCF96V0-0920/332744563"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/SKYSHALO-Staircase-Metal-Balusters-29-5-x-1-in-Flat-Aluminum-Alloy-Decorative-Banister-Spindles-51-Pack-Deck-Baluster-BPKLGZ51G295RCF96V0-0920/332744563",
+    "brand": "SKYSHALO",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings-Balusters-Spindles/SKYSHALO/N-5yc1vZc5q0Zzi5",
+    "title": "SKYSHALO Staircase Metal Balusters,29.5 x 1 in. Flat Aluminum Alloy Decorative Banister Spindles,51 Pack Deck Baluster",
+    "upc": "197988099185",
+    "item_id": "332744563",
+    "parent_id": "332221531",
+    "store_sku": "1012854756",
+    "model_number": "BPKLGZ51G295RCF96V0-0920",
+    "description": "Upgrade Your Space with it's Fashionable Baluster Shafts.Durable aluminum baluster shafts with powder finish offer style and resilience. Rust-Resistant and wear-resistant, they complement various railing frameworks indoors or outdoors, ensuring safety and security.",
+    "feature_bullets": [
+      "It includes 51 baluster shafts and 102 screws for installation",
+      "Installation is easy with adjustable lengths",
+      "Baluster shafts feature a stylish flat design with a matte finish"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Robust and Durable: Crafted from 0.03in./0.8mm thick aluminum tubing, our baluster shafts boast unrivaled strength and durability. Coated with a matte powder finish, they exude a sleek, scratch-resistant surface that withstands wear and tear with ease. Supported by steel pipes, they offer superior stability, ensuring they remain firm and steadfast over prolonged use",
+      "51-Piece Set: This comprehensive kit includes 51 baluster shafts, 102 screws, and a detailed instruction manual. Each shaft measures 29.5in. in length and features a 1in. width, perfectly suited for most railing frameworks available on the market",
+      "Stylish Appeal: Sporting a timeless flat design, our baluster shafts epitomize sophistication and elegance. Adorned with a premium matte finish coating that adheres to the AAMA-2604 standard, they showcase impeccable craftsmanship and meticulous attention to detail. With a smooth texture and fashionable allure, they elevate the aesthetics of any space",
+      "Effortless installation: equipped with an array of installation accessories, including flat head screws, installation is a breeze, simply drill and secure with an electric drill, ensuring a baluster spacing of no more than 4 in. for optimal results, the hollow aluminum tubing is easily trimmable, allowing for hassle-free adjustments to suit varying installation lengths",
+      "Versatile application: these chic and minimalist baluster shafts find versatile application both indoors and outdoors. Whether adorning staircases, porches, yards, balconies, fences or decks, they offer reliable safety and protection while adding a touch of contemporary elegance to any setting",
+      "Specifications:Model: BP-29.5in-51,Quantity: 51 pieces,Primary Material: Aluminum,Structure: Hollow,Color: Matte Black,Net Weight: 10.1lbs./4.58kg,Product Dimensions(per piece): 1x0.2x29.5in./25x5.5x750mm",
+      "Package content:Metal Balusters x 51,M3.5x30 Screws x 102,Instruction Manual x 1"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d8ebe978-306b-56b2-bae9-61a313eb5750/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bb1ec2f9-516d-48a8-aae5-a577ebc47ce0/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d2d5eeeb-0fb0-5abe-9a37-5148f5564c76/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f13149c9-211d-5e7c-948c-93ef993ec04b/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4a613e11-01be-57b1-b08d-c86ad322fa05/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/977c9d55-59c9-5660-bb62-5492fbe368bc/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/310281a3-6d78-4883-970f-abebb7b22efb/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a0af60fb-a43c-5633-b003-4dc1ec87a171/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d8ebe978-306b-56b2-bae9-61a313eb5750/svn/matte-black-skyshalo-balusters-spindles-bpklgz51g295rcf96v0-0920-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 6,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Matte Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Core Type",
+        "value": "Hollow Core"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Adjustable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of balusters included",
+        "value": "51"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "10.1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Stair Part Type",
+        "value": "Baluster"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1-Year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "29.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.2 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Matte Black~~29.5 in",
+        "link": "https://www.homedepot.com/p/SKYSHALO-Staircase-Metal-Balusters-29-5-x-1-in-Flat-Aluminum-Alloy-Decorative-Banister-Spindles-51-Pack-Deck-Baluster-BPKLGZ51G295RCF96V0-0920/332744563",
+        "item_id": "332744563"
+      },
+      {
+        "title": "Matte Black~~29.53 in",
+        "link": "https://www.homedepot.com/p/VEVOR-Staircase-Metal-Balusters-29-53-in-H-x-0-22-in-W-Flat-Black-Aluminum-Alloy-Stair-Railing-Kit-Deck-Baluster-51-Pack-BPKLGZ51G295RCF96V0/329922259",
+        "item_id": "329922259"
+      },
+      {
+        "title": "Matte Black~~38 in",
+        "link": "https://www.homedepot.com/p/SKYSHALO-Staircase-Metal-Balusters-38-x-1-in-Flat-Aluminum-Alloy-Decorative-Banister-Spindles-72-Pack-Deck-Baluster-with-Screw-BPKLGZ38YC72HC6XOV0-0920/332744633",
+        "item_id": "332744633"
+      },
+      {
+        "title": "Matte Black~~32.28 in",
+        "link": "https://www.homedepot.com/p/VEVOR-Staircase-Metal-Balusters-32-28-in-H-x-0-22-in-W-Flat-Black-Aluminum-Alloy-Stair-Railing-Kit-Deck-Baluster-51-Pack-BPKLGZ51G322DLHBFV0/329922260",
+        "item_id": "329922260"
+      },
+      {
+        "title": "Matte Black~~37.99 in",
+        "link": "https://www.homedepot.com/p/VEVOR-Staircase-Balusters-37-99-in-H-x-0-22-in-W-Flat-Black-Aluminum-Alloy-Stair-Railing-Kit-Deck-Baluster-72-Pack-BPKLGZ38YC72HC6XOV0/329922261",
+        "item_id": "329922261"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Railings",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings/N-5yc1vZc5i7"
+      },
+      {
+        "name": "Balusters & Spindles",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings-Balusters-Spindles/N-5yc1vZc5q0"
+      }
+    ],
+    "buybox_winner": {
+      "price": 100.99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "box",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 22,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 22,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

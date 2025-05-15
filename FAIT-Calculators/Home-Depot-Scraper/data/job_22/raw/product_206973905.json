@@ -1,0 +1,233 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14803,
+    "overage_used": 4803,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/WeatherShield-1-in-x-4-in-x-12-ft-Ground-Contact-Pressure-Treated-Board-Southern-Yellow-Pine-Lumber-253915/206973905"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:30:48.715Z",
+    "processed_at": "2025-05-01T19:30:58.026Z",
+    "total_time_taken": 9.31,
+    "homedepot_url": "https://www.homedepot.com/p/WeatherShield-1-in-x-4-in-x-12-ft-Ground-Contact-Pressure-Treated-Board-Southern-Yellow-Pine-Lumber-253915/206973905"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/WeatherShield-1-in-x-4-in-x-12-ft-Ground-Contact-Pressure-Treated-Board-Southern-Yellow-Pine-Lumber-253915/206973905",
+    "brand": "WeatherShield",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/WeatherShield/N-5yc1vZc3srZ4l6",
+    "title": "WeatherShield 1 in. x 4 in. x 12 ft. Ground Contact Pressure-Treated Board Southern Yellow Pine Lumber",
+    "upc": "090489440398",
+    "item_id": "206973905",
+    "parent_id": "304672966",
+    "store_sku": "1001753958",
+    "model_number": "253915",
+    "description": "Pressure-Treated Pine meets the highest grading standards for strength and appearance. Treated for protection against fungal decay, rot and termites, it is ideal for ground contact and a variety of general uses including exposed structures, sill plates, decks, docks, ramps and other outdoor applications. Responsibly manufactured from renewable southern yellow pine, this lumber is both safe and environmentally friendly when used as directed in appropriate applications.Treated wood is typically still wet when it's delivered to The Home Depot or job site. As it dries, you should expect slight changes in width and length. As lumber dries, it may split, cup and warp. This is more likely to occur to occur in lower-grade boards, where knots and uneven grains are already present. Each piece of lumber is unique and carries physical characteristics that may include the following: knots, warping, shrinkage, swelling and/or splitting.",
+    "favorite_count": 701,
+    "aisle": "22",
+    "bay": "004",
+    "feature_bullets": [
+      "2X the protection compared to Above Ground treatment",
+      "Treated for protection against fungal decay, rot and termites",
+      "Use for decks, walkways, landscaping and other outdoor projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of pine",
+      "Ground Contact treated lumber can be used in both Above Ground and Ground Contact exterior applications",
+      "Backed by a lifetime limited warranty against termite infestation and rot",
+      "1 in. x 4 in. x 12 ft.",
+      "Must use Ground Contact pressure treated lumber where lumber is at risk for poor air circulation, less than six inches from the ground, or has poor or no water drainage below the structure",
+      "Uniform thickness, density and appearance with a smooth surface",
+      "Ideal for a variety of general uses including exposed structures, sill plates, decks, docks, ramps and other outdoor applications",
+      "Uniform thickness, density and appearance for stable and long lasting performance",
+      "Hot-dip galvanized fasteners are recommended",
+      "Individual pieces of pressure treated lumber will reference Ground Contact on the end tag",
+      "WeatherShield includes water repellant in the treatment process",
+      "No two pieces of lumber are the same.",
+      "Color, grain pattern and texture will vary as well.",
+      "<a href=\"https://www.homedepot.com/b/Featured-Products-Complete-the-Project-Decking/N-5yc1vZ2fkotch\" target=\"_blank\" style=\"color:#F96302;\">Find everything you need to complete your decking project here</a>",
+      "Note: product may vary by store",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/UNIVERSAL FOREST PRODUCT/PT_Wood End Use Guide Poster 36x24 1_191.jpg\">"
+    ],
+    "descriptive_attributes_count": 16,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f42cf152-58b5-400c-9f31-2b7f3934d633/svn/brown-weathershield-pressure-treated-lumber-253915-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e3a165c3-9e70-4896-b76d-c129dfdee139/svn/brown-weathershield-pressure-treated-lumber-253915-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/03991d21-4daf-4ccc-a450-6b55445f290b/svn/brown-weathershield-pressure-treated-lumber-253915-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/693ef310-af96-4401-b5ed-a84f5005a389/svn/brown-weathershield-pressure-treated-lumber-253915-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d8582bc6-4f71-4fd4-acb0-5e0c9b0b523b/svn/brown-weathershield-pressure-treated-lumber-253915-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/59fdaa05-451b-42dc-850d-82ecf4de79e0/svn/brown-weathershield-pressure-treated-lumber-253915-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f42cf152-58b5-400c-9f31-2b7f3934d633/svn/brown-weathershield-pressure-treated-lumber-253915-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 791,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chemical retention (lb./cu. ft.)",
+        "value": "0.15 lb/ft3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Galvanized Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Pressure Treated,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Appearance Grade"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Southern Yellow Pine"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pressure Treatment Chemical",
+        "value": "MCA - Micronized Copper Azole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Southern Pine"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "12 ft~~Brown",
+        "link": "https://www.homedepot.com/p/WeatherShield-1-in-x-4-in-x-12-ft-Ground-Contact-Pressure-Treated-Board-Southern-Yellow-Pine-Lumber-253915/206973905",
+        "item_id": "206973905"
+      },
+      {
+        "title": "8 ft~~Brown",
+        "link": "https://www.homedepot.com/p/WeatherShield-1-in-x-4-in-x-8-ft-Ground-Contact-Pressure-Treated-Board-Southern-Yellow-Pine-Lumber-253915/206973928",
+        "item_id": "206973928"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Pressure Treated Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/N-5yc1vZc3sr"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 289
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 1336,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

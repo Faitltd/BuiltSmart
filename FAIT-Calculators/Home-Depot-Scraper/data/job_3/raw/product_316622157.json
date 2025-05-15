@@ -1,0 +1,308 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12725,
+    "overage_used": 2725,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Dearborn-Brass-1-1-2-in-x-1-1-2-in-Chrome-Brass-Solvent-Cemented-Trap-P-trap-with-Cleanout-HDC704-1/316622157"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:29:34.028Z",
+    "processed_at": "2025-05-01T13:29:38.330Z",
+    "total_time_taken": 4.3,
+    "homedepot_url": "https://www.homedepot.com/p/Dearborn-Brass-1-1-2-in-x-1-1-2-in-Chrome-Brass-Solvent-Cemented-Trap-P-trap-with-Cleanout-HDC704-1/316622157"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Dearborn-Brass-1-1-2-in-x-1-1-2-in-Chrome-Brass-Solvent-Cemented-Trap-P-trap-with-Cleanout-HDC704-1/316622157",
+    "brand": "Dearborn Brass",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Pipe-Fittings-Fittings-Brass-Fittings/Dearborn-Brass/N-5yc1vZ1z18i42Z6gz",
+    "title": "Dearborn Brass 1-1/2 in. x 1-1/2 in. Chrome Brass Solvent Cemented Trap P-trap with Cleanout",
+    "upc": "041193500007",
+    "item_id": "316622157",
+    "store_sku": "1000049483",
+    "model_number": "HDC704-1",
+    "description": "1-1/2 in. Polished Chrome P-Trap connects into your wall-connected sink drain system to work as a kitchen sink waste outlet. The trap prevents sewer gas from escaping. Dearborn is known for providing superior quality plumbing products designed with the plumber in mind.",
+    "aisle": "09",
+    "bay": "017",
+    "feature_bullets": [
+      "P-trap used to keep sewer gases from coming up sink drain",
+      "Included reducing washer transitions from 1-1/4 to 1-1/2 in. pipe",
+      "Constructed with brass for long-lasting strength"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "17-Gauge brass construction with a chrome-plated finish",
+      "Slip joint connections",
+      "Designed to prevent sewer gas from escaping from a plumbing fixture or drain",
+      "Dependable high-quality construction",
+      "Easy installation",
+      "Includes required hardware",
+      "<img src=\"https://inlinecontent.thdstatic.com/26P/OATEY SUPPLY CHAIN SERVI/inline 2708563/OA_THD_TubularInlineBrandImages-Dearborn.jpeg\">",
+      "Click <a href=\"https://www.homedepot.com/c/ah/how-to-replace-a-sink-trap/9ba683603be9fa5395fab9073a2f1a5\" target=\"_blank\" style=\"color:#F96302,font-weight: bold,\">here</a> to learn more about how to replace a sink drain trap."
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/8478a25a-81a1-48a9-8b5f-0b451173799a/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c9d0818e-2c6c-4af6-a33b-37adecb5886f/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b2dd150d-e944-4bba-a742-965d294e3a6b/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/976c0efd-7cfa-47fd-ace1-16eb754c8002/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4742cb51-d26c-43d9-8712-c3a30df137c5/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5a9b22f0-c0f8-483e-b01b-58595533fb77/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cdcdc9ef-310f-45a0-8859-06460b13eede/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5bf9b240-5847-4d00-9dc5-6913e5fd19fe/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/16717895-c20b-4451-bb68-15b12cf4ef9b/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/8478a25a-81a1-48a9-8b5f-0b451173799a/svn/chrome-dearborn-brass-brass-fittings-hdc704-1-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/968b4841-3f5a-4d16-9f45-72240c7c01c1/a7ed7628-e9df-411f-9a25-09bf4c7eb985/main.mp4?fastly_token=NjgxM2E4ZDdfYzY1MWMyZmI2MmU5M2NjZDZjYjYwNmIzZWJhNTE0YzE4NjRmZGE5NTYwMTM3ZTI3OWY5N2E0ZmI5NmU2MTI3YV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvOTY4YjQ4NDEtM2Y1YS00ZDE2LTlmNDUtNzIyNDBjN2MwMWMxL2E3ZWQ3NjI4LWU5ZGYtNDExZi05YTI1LTA5YmY0YzdlYjk4NS9tYWluLm1wNA%3D%3D",
+        "title": "Dearborn Brass Tubular Kitchen",
+        "id": "6305337238112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/968b4841-3f5a-4d16-9f45-72240c7c01c1/a5455f9b-7d67-4c43-b34d-a815de20ffbe/160x90/match/image.jpg",
+        "description": "Video higlighting tubular kitchen p trap\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/dc1d1efd-fc81-4bdd-bdcc-7b605a82c4c5/9d31152a-9332-410e-b8bb-9eccb96f0ab8/main.mp4?fastly_token=NjgxM2E2MzNfNmJiMDEyYWY1ZjcxYTJmODAwZDI2ZTIyMGFhNjA1OTk0YzQzODY0NThhNDFiNjA4Y2FmZjlmYjZkYzI3YWM5OV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZGMxZDFlZmQtZmM4MS00YmRkLWJkY2MtN2I2MDVhODJjNGM1LzlkMzExNTJhLTkzMzItNDEwZS1iOGJiLTllY2NiOTZmMGFiOC9tYWluLm1wNA%3D%3D",
+        "title": "How to Select Tubular - Dearborn",
+        "id": "6317299066112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/dc1d1efd-fc81-4bdd-bdcc-7b605a82c4c5/3e6649fe-0f4a-4bd5-87ae-7a4e1b0581a9/160x90/match/image.jpg",
+        "description": "How to select Tubular products for a project on HomeDepot.com\n"
+      }
+    ],
+    "ratings_total": 140,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application",
+        "value": "Non-Potable Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Chrome"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Chrome"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Pipe Material",
+        "value": "Copper"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connection 1",
+        "value": "Slip-Joint"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connection 2",
+        "value": "Slip-Joint"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connectivity",
+        "value": "Solvent Cemented"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Cleanout"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fitting or Connector Type",
+        "value": "P-Trap"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fitting/ Connector Collection",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum Working Temperature (F)",
+        "value": "120"
+      },
+      {
+        "group_name": "Details",
+        "name": "Maximum working pressure (psi)",
+        "value": "15"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pipe or Fitting Product Type",
+        "value": "Fittings & Connectors"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.14 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Reducing Fitting",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trap style",
+        "value": "P-trap"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1 year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Double Fitting Size",
+        "value": "1-1/2\" x 1-1/2\""
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Fitting 1 size",
+        "value": "1-1/2\""
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Fitting 2 size",
+        "value": "1-1/2\""
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Fitting Size Dimensions",
+        "value": "1-1/2\" x 1-1/2\""
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "8.50 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "2.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Single Fitting Size",
+        "value": "1-1/2\""
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Pipe & Fittings",
+        "link": "https://www.homedepot.com/b/Plumbing-Pipe-Fittings/N-5yc1vZbqpf"
+      },
+      {
+        "name": "Fittings",
+        "link": "https://www.homedepot.com/b/Plumbing-Pipe-Fittings-Fittings/N-5yc1vZ1z18i3t"
+      },
+      {
+        "name": "Brass Fittings",
+        "link": "https://www.homedepot.com/b/Plumbing-Pipe-Fittings-Fittings-Brass-Fittings/N-5yc1vZ1z18i42"
+      }
+    ],
+    "buybox_winner": {
+      "price": 49.53,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 13
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 25,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 88,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

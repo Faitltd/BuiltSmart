@@ -1,0 +1,276 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14978,
+    "overage_used": 4978,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Glacier-Bay-10-in-Rough-in-2-Piece-1-28-GPF-Single-Flush-Round-Front-Toilet-in-White-Seat-Included-N2428R-10/330316133"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:48:51.293Z",
+    "processed_at": "2025-05-02T21:48:55.848Z",
+    "total_time_taken": 4.55,
+    "homedepot_url": "https://www.homedepot.com/p/Glacier-Bay-10-in-Rough-in-2-Piece-1-28-GPF-Single-Flush-Round-Front-Toilet-in-White-Seat-Included-N2428R-10/330316133"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Glacier-Bay-10-in-Rough-in-2-Piece-1-28-GPF-Single-Flush-Round-Front-Toilet-in-White-Seat-Included-N2428R-10/330316133",
+    "brand": "Glacier Bay",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/Glacier-Bay/N-5yc1vZcb8nZn7",
+    "title": "Glacier Bay 10 in. Rough in. 2-Piece 1.28 GPF Single Flush Round Front Toilet in White, Seat Included",
+    "upc": "732291004459",
+    "item_id": "330316133",
+    "parent_id": "332353502",
+    "store_sku": "1011648736",
+    "model_number": "N2428R-10",
+    "description": "The Glacier Bay 10 in. rough-in 2-piece 1.28 GPF high-efficiency round front toilet in white is manufactured from durable vitreous China which is resistant to stains, acid and abrasions for long-lasting beauty. This 2-piece toilet comes with a chair-height bowl for maximum comfort and has a white porcelain finish that blends with a wide range of bath or powder room decor styles. High-performance with plenty of flush power, this 2-piece toilet is easy to install and includes a toilet seat, wax ring and floor mounting bolt seat. Limited lifetime warranty.",
+    "is_exclusive": true,
+    "feature_bullets": [
+      "ADA comfort height with 1.28 GPF powerful flush performance",
+      "10 in. Rough-in",
+      "Includes toilet seat, wax ring and floor mounting bolt set"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "10 in. rough-in",
+      "High performance bowl design for superior flush power",
+      "2 in. fully glazed trap-way",
+      "Chair height bowl for superior comfort",
+      "Features the quick connect easy installation system",
+      "Water sense",
+      "<a href=\"https://www.homedepot.com/c/ab/the-best-toilet-for-your-home/9ba683603be9fa5395fab903b4a0dc1\" target=\"_blank\" style=\"color:#F96302;\">The Best Toilet For Your Home</a>",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/water-conservation/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Water Conservation</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/da5e0e81-9787-4b7d-bb01-8fc43183e007/svn/white-glacier-bay-two-piece-toilets-n2428r-10-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/81afa356-9143-450c-a8f5-dab7a4995cf4/svn/white-glacier-bay-two-piece-toilets-n2428r-10-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/94cb2a06-13cd-49da-9009-e3a6ace25f3f/svn/white-glacier-bay-two-piece-toilets-n2428r-10-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c404aa42-e76c-415e-a664-bb6dd54bbcdf/svn/white-glacier-bay-two-piece-toilets-n2428r-10-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c9a6a036-bd04-4441-ba59-fc2ebb2f088e/svn/white-glacier-bay-two-piece-toilets-n2428r-10-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6ac2548e-1988-43f7-ac0e-93844a859fd3/svn/white-glacier-bay-two-piece-toilets-n2428r-10-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a916941c-be4a-4bd6-9173-7457bf18a99d/svn/white-glacier-bay-two-piece-toilets-n2428r-10-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/facc199b-096d-438c-9d21-5f7b2832234a/svn/white-glacier-bay-two-piece-toilets-n2428r-10-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/da5e0e81-9787-4b7d-bb01-8fc43183e007/svn/white-glacier-bay-two-piece-toilets-n2428r-10-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 54,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Siphonic Jet"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "78.35 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "10 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Classic,Contemporary,Minimalist,Transitional"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Side"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "27.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "32.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "18 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Elongated~~10 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/Glacier-Bay-10-in-Rough-in-2-Piece-1-28-GPF-Single-Flush-Elongated-Toilet-in-White-Seat-Included-N2428E-10/330316134",
+        "item_id": "330316134"
+      },
+      {
+        "title": "White~~Round~~10 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/Glacier-Bay-10-in-Rough-in-2-Piece-1-28-GPF-Single-Flush-Round-Front-Toilet-in-White-Seat-Included-N2428R-10/330316133",
+        "item_id": "330316133"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 179,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 6,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14265,
+    "overage_used": 4265,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-106-11-16-in-x-11-16-in-x-96-in-Solid-Pine-Quarter-Round-Moulding-10001830/203369741"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:12.193Z",
+    "processed_at": "2025-05-01T18:23:17.296Z",
+    "total_time_taken": 5.1,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-106-11-16-in-x-11-16-in-x-96-in-Solid-Pine-Quarter-Round-Moulding-10001830/203369741"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-106-11-16-in-x-11-16-in-x-96-in-Solid-Pine-Quarter-Round-Moulding-10001830/203369741",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/Woodgrain-Millwork/N-5yc1vZ2fkp9hcZ7c8",
+    "title": "Woodgrain Millwork WM 106 11/16 in. x 11/16 in. x 96 in. Solid Pine Quarter Round Moulding",
+    "upc": "095624516679",
+    "item_id": "203369741",
+    "parent_id": "327768421",
+    "store_sku": "1000368533",
+    "model_number": "10001830",
+    "description": "The Woodgrain Millwork 11/16 in. x 11/16 in. x 96 in. WM106 Pine Quarter Round makes a great transition between base moulding and flooring. Pine WM106 Quarter Round can also be used to cover gaps where flooring surfaces meet base moulding. Quarter round is also used to cover small alignment challlenges where hard surface flooring meets the wall.",
+    "favorite_count": 262,
+    "feature_bullets": [
+      "Easy to install with basic tools, accepts either paint or stain",
+      "Rated highly for quality and value (see reviews)",
+      "Versatile, can be used in multiple locations"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be stained or painted with any high quality latex or oil based paint/stain",
+      "Classic small profile moulding useful in covering small gaps",
+      "Can also be used to accent shelving, cabinets or any other interior elements",
+      "Installs with common woodworking tools",
+      "For interior use only"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/65beba89-859e-4964-ac75-76309864daf9/svn/unfinished-woodgrain-millwork-quarter-round-10001830-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1dd1260b-0176-4679-9934-64f193cb55eb/svn/unfinished-woodgrain-millwork-quarter-round-10001830-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/65beba89-859e-4964-ac75-76309864daf9/svn/unfinished-woodgrain-millwork-quarter-round-10001830-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 593,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Quarter Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "106"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.688 in"
+      }
+    ],
+    "keywords_list": [
+      "Moulding",
+      "Quarter Round Moulding",
+      "Pine Primed Quarter Round Moulding",
+      "Natural Pine Primed Quarter Round Moulding",
+      "",
+      "WM 106 11/16 in. x 11/16 in. x 96 in. Pine Primed Quarter Round Moulding",
+      "109435",
+      "PNE0106-08"
+    ],
+    "keywords": "Moulding, Quarter Round Moulding, Pine Primed Quarter Round Moulding, Natural Pine Primed Quarter Round Moulding, , WM 106 11/16 in. x 11/16 in. x 96 in. Pine Primed Quarter Round Moulding, 109435, PNE0106-08",
+    "variants": [
+      {
+        "title": "White~~8 ft~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-106-11-16-in-x-11-16-in-x-96-in-Primed-Finger-Jointed-Quarter-Round-Moulding-1-Piece-8-Total-Linear-Feet-10000489/203209424",
+        "item_id": "203209424"
+      },
+      {
+        "title": "White~~1 ft~~0.687 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-106-11-16-in-x-11-16-in-Primed-Finger-Jointed-Quarter-Round-Moulding-10000487/206001701",
+        "item_id": "206001701"
+      },
+      {
+        "title": "Unfinished~~8 ft~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-106-11-16-in-x-11-16-in-x-96-in-Solid-Pine-Quarter-Round-Moulding-10001830/203369741",
+        "item_id": "203369741"
+      },
+      {
+        "title": "White~~8 ft~~0.75 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-105-3-4-in-x-3-4-in-x-96-in-Primed-Finger-Jointed-Quarter-Round-Moulding-10004780/206674101",
+        "item_id": "206674101"
+      },
+      {
+        "title": "Green~~14 ft~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM106-11-16-in-x-11-16-in-Pressure-Treated-Pine-Quarter-Round-Moulding-10004503/206178864",
+        "item_id": "206178864"
+      },
+      {
+        "title": "White~~1 ft~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-106-11-16-in-x-11-16-in-x-192-in-Primed-Finger-Jointed-Quarter-Round-10000487/100321367",
+        "item_id": "100321367"
+      },
+      {
+        "title": "White~~12 ft~~0.688 in",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-106-11-16-in-x-11-16-in-x-144-in-Primed-Finger-Jointed-Quarter-Round-Pro-Pack-Molding-10032137/304653127",
+        "item_id": "304653127"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/N-5yc1vZ2fkp9hc"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 232,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 232,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

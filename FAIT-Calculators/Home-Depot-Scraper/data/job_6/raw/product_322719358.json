@@ -1,0 +1,150 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13512,
+    "overage_used": 3512,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fire-Retardant-3-4-in-x-4-ft-x-8-ft-5-Ply-Douglas-Fir-Pressure-Treated-Rated-Sheathing-Sanded-Plywood-CDX34FDHD/322719358"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T14:44:21.328Z",
+    "processed_at": "2025-05-01T14:45:16.017Z",
+    "total_time_taken": 54.69,
+    "homedepot_url": "https://www.homedepot.com/p/Fire-Retardant-3-4-in-x-4-ft-x-8-ft-5-Ply-Douglas-Fir-Pressure-Treated-Rated-Sheathing-Sanded-Plywood-CDX34FDHD/322719358"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fire-Retardant-3-4-in-x-4-ft-x-8-ft-5-Ply-Douglas-Fir-Pressure-Treated-Rated-Sheathing-Sanded-Plywood-CDX34FDHD/322719358",
+    "brand": "Unbranded",
+    "title": "Unbranded Fire-Retardant 3/4 in. x 4 ft. x 8 ft. 5-Ply Douglas Fir Pressure-Treated Rated Sheathing Sanded Plywood",
+    "upc": "054699573123",
+    "item_id": "322719358",
+    "parent_id": "327080069",
+    "store_sku": "1008549654",
+    "model_number": "CDX34FDHD",
+    "description": "D-Blaze treated lumber is designed for interior wood framing and sheathing applications where fire retardant construction materials are specified. D-Blaze is highly effective at slowing down the spread of flame and reducing smoke development. as a result of fire, giving you and your family more time to escape.",
+    "feature_bullets": [
+      "D-Blaze is a fire retardant construction material",
+      "Use in interior wood framing and sheathing applications.",
+      "Low corrosivity, lower than industry standards"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "D-Blaze wood should not be installed where it will be exposed to precipitation, direct wetting or in contact with the ground",
+      "Corrosivity of D-Blaze FRTW is lower than the maximum allowed by industry and governmental standards",
+      "Hot-dipped galvanized steel fasteners or stainless-steel fasteners are recommended and all fasteners should meet or exceed local code requirements",
+      "3/4 in. x 4 ft. x 8 ft.",
+      "D-Blaze FRTW must be kept dry during transit and on the job-site by covering the top of the bundle, storing the material under shelter, elevating the bundle from ground contact and allowing for air circulation around the wood",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302,\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e0b3eeca-795b-4bd3-a4a4-9db1b22d6f9a/svn/sanded-plywood-cdx34fdhd-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e0b3eeca-795b-4bd3-a4a4-9db1b22d6f9a/svn/sanded-plywood-cdx34fdhd-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 0,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "5-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "CDX"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Pressure Treated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~3/4",
+        "link": "https://www.homedepot.com/p/Fire-Retardant-3-4-in-x-4-ft-x-8-ft-5-Ply-Douglas-Fir-Pressure-Treated-Rated-Sheathing-Sanded-Plywood-CDX34FDHD/322719358",
+        "item_id": "322719358"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~1/2",
+        "link": "https://www.homedepot.com/p/Fire-Retardant-1-2-in-x-4-ft-x-8-ft-5-Ply-Douglas-Fir-Pressure-Treated-Rated-Sheathing-Sanded-Plywood-CDX12FDHD/322719354",
+        "item_id": "322719354"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sanded Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/N-5yc1vZc7qk"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13065,
+    "overage_used": 3065,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-9-x-2-in-Tan-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-207-Piece-115979/306587147"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:40:30.971Z",
+    "processed_at": "2025-05-01T13:40:36.701Z",
+    "total_time_taken": 5.73,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-9-x-2-in-Tan-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-207-Piece-115979/306587147"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-in-Tan-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-207-Piece-115979/306587147",
+    "brand": "DECKMATE",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/DECKMATE/N-5yc1vZ2fkpe61Zrkz",
+    "title": "DECKMATE #9 x 2 in. Tan Torx Flat-Head Wood Deck Screw (5 lbs. / 207-Piece)",
+    "upc": "038902169433",
+    "item_id": "306587147",
+    "parent_id": "327671816",
+    "store_sku": "1003274851",
+    "model_number": "115979",
+    "description": "DeckMate Exterior Screws offer a comprehensive finishing system & are ideal for deck, fence & exterior wood projects. Star drive head provides better torque transfer and will not strip or cam-out. T-25 star drive bit included.",
+    "favorite_count": 5,
+    "aisle": "17",
+    "bay": "011",
+    "feature_bullets": [
+      "Flat head screw great for outdoor and wood to wood projects",
+      "Star drive head provides more control and reduces splitting",
+      "Driver bit included and ACQ rated"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "NO PRE-DRILLING: Type 17 point &amp; sharp threads require no pre-drilling",
+      "FLAT HEAD with NIBS: Provides a clean countersink",
+      "UNIQUE THREAD DESIGN: Bumps within thread help reduce drive torque",
+      "STAR DRIVE: Designed to reduce slippage and camout when tightening the screw",
+      "Reinforced neck prevents head from snapping",
+      "Specifically designed to drive fast and reduce splitting",
+      "Recommended for use with ACQ, CA, and CCA treated lumber",
+      "T25 Star Bit Included",
+      "Tan color designed to match decking"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d5173f83-56ed-493e-a443-e6a820061438/svn/deckmate-deck-screws-115979-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/10b91225-510f-4546-b87d-5f00af1b66ff/svn/deckmate-deck-screws-115979-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/da3bfcc7-04bb-40eb-96ca-fef2763474f8/svn/deckmate-deck-screws-115979-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7e1b38bf-fe57-4b6a-9341-b4f77debe333/svn/deckmate-deck-screws-115979-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eec3b0a9-e2db-4f65-9f94-245de094adb0/svn/deckmate-deck-screws-115979-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/278616ee-0458-488d-b929-b3673e33d9e9/svn/deckmate-deck-screws-115979-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a085f5c-aefe-4b8f-80ce-462799d860ab/svn/deckmate-deck-screws-115979-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9f541797-b6bb-48fb-bedd-5dd04fa09fbd/svn/deckmate-deck-screws-115979-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d5173f83-56ed-493e-a443-e6a820061438/svn/deckmate-deck-screws-115979-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 4214,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Phosphate"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "207"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Coarse Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "N/A - Metric Fastener"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#9"
+      }
+    ],
+    "size": "#9",
+    "variants": [
+      {
+        "title": "3 in~~#9~~Tan~~10 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Tan-Star-Flat-Head-Wood-Deck-Screw-10-lbs-Box-730-Piece-115986/306587143",
+        "item_id": "306587143"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-5-8-in-Tan-Star-Flat-Head-Wood-Deck-Screw-1-lbs-Box-124-Piece-115976/306587141",
+        "item_id": "306587141"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Tan~~10 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Tan-Star-Flat-Head-Wood-Deck-Screw-10-lbs-Box-870-Piece-115982/306587138",
+        "item_id": "306587138"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-3-1-2-in-Tan-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-280-Piece-115989/306587139",
+        "item_id": "306587139"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Red~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Red-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-435-Piece-115966/306587136",
+        "item_id": "306587136"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-3-1-2-in-Red-Star-Flat-Head-Wood-Deck-Screw-1-lb-Box-56-Piece-115973/306587150",
+        "item_id": "306587150"
+      },
+      {
+        "title": "1-1/4 in~~#8~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-1-4-in-Red-Star-Flat-Head-Wood-Deck-Screw-1-lb-Pack-115960/306587151",
+        "item_id": "306587151"
+      },
+      {
+        "title": "3-1/2 in~~#10~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-3-1-2-in-Tan-Star-Flat-Head-Wood-Deck-Screw-1-lb-Box-56-Piece-115988/306587146",
+        "item_id": "306587146"
+      },
+      {
+        "title": "2 in~~#9~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-in-Tan-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-207-Piece-115979/306587147",
+        "item_id": "306587147"
+      },
+      {
+        "title": "3 in~~#9~~Red~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Red-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-309-Piece-115970/306587144",
+        "item_id": "306587144"
+      },
+      {
+        "title": "2 in~~#9~~Red~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-in-Red-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-630-Piece-115964/306717339",
+        "item_id": "306717339"
+      },
+      {
+        "title": "3 in~~#9~~Black~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Black-Exterior-Self-Starting-Star-Drive-Flat-Head-Deck-Screw-1-lb-Box-73-Piece-115925/313358329",
+        "item_id": "313358329"
+      },
+      {
+        "title": "2 in~~#8~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-2-in-Tan-Star-Flat-Head-Wood-Deck-Screws-1lb-Box-126-Piece-115978/306587154",
+        "item_id": "306587154"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Red~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-5-8-in-Red-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-735-Piece-115962/306717340",
+        "item_id": "306717340"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-5-8-in-Tan-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-735-Piece-115977/306587155",
+        "item_id": "306587155"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Black~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-2-1-2-in-Black-Exterior-Self-Starting-Torx-Drive-Flat-Head-Deck-Screw-5-lbs-435-Piece-115924/313358328",
+        "item_id": "313358328"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Red-Star-Flat-Head-Wood-Deck-Screw-1-lb-Pack-115965/306717343",
+        "item_id": "306717343"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Black~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-1-5-8-in-Black-Exterior-Self-Starting-Torx-Drive-Flat-Head-Deck-Screw-5-lbs-735-Piece-115922/313358324",
+        "item_id": "313358324"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Black~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-1-5-8-in-Black-Exterior-Self-Starting-Star-Drive-Flat-Head-Deck-Screw-1-lb-Box-124-Piece-115921/313358327",
+        "item_id": "313358327"
+      },
+      {
+        "title": "3 in~~#9~~Black~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-3-in-Black-Exterior-Self-Starting-Torx-Drive-Flat-Head-Deck-Screw-5-lbs-365-Piece-115926/313358326",
+        "item_id": "313358326"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Black~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-2-1-2-in-Black-Exterior-Self-Starting-Star-Drive-Flat-Head-Deck-Screw-1-lb-Box-87-Piece-115923/313358323",
+        "item_id": "313358323"
+      },
+      {
+        "title": "2 in~~#9~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-in-Red-Torx-Star-Flat-Head-Wood-Deck-Screw-1-lb-Box-91-Piece-115963/306573798",
+        "item_id": "306573798"
+      },
+      {
+        "title": "4 in~~#10~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-4-in-Tan-Star-Flat-Head-Square-Drive-Deck-Screw-1-lb-Box-44-Piece-115927/313573845",
+        "item_id": "313573845"
+      },
+      {
+        "title": "4 in~~#10~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-4-in-Tan-Torx-Drive-Flat-Head-Deck-Screw-5-lbs-237-Piece-115928/313573846",
+        "item_id": "313573846"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Red~~10 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Red-Star-Flat-Head-Wood-Deck-Screw-10-lbs-Box-870-Piece-115967/306587119",
+        "item_id": "306587119"
+      },
+      {
+        "title": "3-1/2 in~~#9~~Red~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-1-2-in-Red-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-280-Piece-115974/306587948",
+        "item_id": "306587948"
+      },
+      {
+        "title": "1-5/8 in~~#8~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-5-8-in-Red-Star-Flat-Head-Wood-Deck-Screw-1-lb-Box-147-Piece-115961/306587117",
+        "item_id": "306587117"
+      },
+      {
+        "title": "3 in~~#9~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Red-Star-Flat-Head-Wood-Deck-Screw-1-lb-Box-73-Piece-115969/306587125",
+        "item_id": "306587125"
+      },
+      {
+        "title": "1-1/4 in~~#8~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-8-x-1-1-4-in-Tan-Star-Flat-Head-Wood-Deck-Screw-1-lb-Box-186-Piece-115975/306587122",
+        "item_id": "306587122"
+      },
+      {
+        "title": "3 in~~#9~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Tan-Star-Flat-Head-Wood-Deck-Screw-5-lbs-Box-365-Piece-115985/306587120",
+        "item_id": "306587120"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Tan-Star-Flat-Head-Wood-Deck-Screw-1-lb-Box-87-Piece-115980/306587134",
+        "item_id": "306587134"
+      },
+      {
+        "title": "3 in~~#9~~Tan~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-3-in-Tan-Star-Flat-Head-Wood-Deck-Screw-1-lb-Box-73-Piece-115984/306587131",
+        "item_id": "306587131"
+      },
+      {
+        "title": "2-1/2 in~~#9~~Tan~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-9-x-2-1-2-in-Tan-Torx-Flat-Head-Wood-Deck-Screw-5-lbs-435-Piece-115981/306587128",
+        "item_id": "306587128"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 35.57,
+      "unit": "package",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 58
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 59,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 86,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

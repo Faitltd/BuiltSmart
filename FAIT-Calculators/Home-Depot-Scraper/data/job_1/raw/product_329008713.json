@@ -1,0 +1,309 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14962,
+    "overage_used": 4962,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/American-Standard-Cadet-10-in-Antimicrobial-2-Piece-1-28-GPF-Single-Flush-Chair-Height-Round-Front-Toilet-with-Slow-Close-Seat-in-White-788AB104-020/329008713"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:47:10.180Z",
+    "processed_at": "2025-05-02T21:47:15.449Z",
+    "total_time_taken": 5.27,
+    "homedepot_url": "https://www.homedepot.com/p/American-Standard-Cadet-10-in-Antimicrobial-2-Piece-1-28-GPF-Single-Flush-Chair-Height-Round-Front-Toilet-with-Slow-Close-Seat-in-White-788AB104-020/329008713"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/American-Standard-Cadet-10-in-Antimicrobial-2-Piece-1-28-GPF-Single-Flush-Chair-Height-Round-Front-Toilet-with-Slow-Close-Seat-in-White-788AB104-020/329008713",
+    "brand": "American Standard",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/American-Standard/N-5yc1vZcb8nZ5a",
+    "title": "American Standard Cadet 10 in. Antimicrobial 2-Piece 1.28 GPF Single Flush Chair Height Round Front Toilet with Slow Close Seat in White",
+    "upc": "193406305197",
+    "item_id": "329008713",
+    "parent_id": "331979080",
+    "store_sku": "1011059351",
+    "model_number": "788AB104.020",
+    "description": "The Cadet Chair Height Elongated Toilet from American Standard is a high-efficiency, ultra-low consumption toilet that uses 20% less water than conventional toilets without sacrificing performance. Combining power and convenience, this Cadet has a 10 in. rough-in and stands at a comfortable height for ease of use. Features exclusive EverClean antimicrobial surface on the toilet and seat, and PowerWash rim for a longer-lasting clean.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "collection": {
+      "id": "Family-314720003",
+      "name": "Family-314720003",
+      "link": "https://www.homedepot.com/collection/Bath/Cadet-Toilet-Collection/Family-314720003?omsid=329008713"
+    },
+    "feature_bullets": [
+      "Right height elongated bowl for effortless sitting and standing",
+      "Ever Clean surface keeps the toilet fresher longer",
+      "Slow-close seat and lid ensure silent, no-slam convenience"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Antimicrobial surface: everlean helps to prevent the growth of bacteria, mold and mildew on the toilet and seat",
+      "Chair-height comfort: elongated bowl measures 17 in. high with seat for easy accessibility, sitting and standing, and is ADA compliant",
+      "Powerful performance: Features a 3-in. flush valve and 2 1/8-in. trapway to effectively clear the bowl",
+      "Easy to keep clean: powerwash rim scrubs the bowl with every flush",
+      "Highly efficient: Uses 1.28 gpf/4.8 Lpf to conserve water",
+      "Trip lever options: Chrome trip lever is included with toilet; additional finishes are available and sold separately",
+      "<a href=\"https://www.homedepot.com/b/Bath-Toilets-Toilet-Seats-Bidets/American-Standard/N-5yc1vZbzaeZ5a?NCNI-5&amp;searchRedirect=american+standard+toilets&amp;semanticToken=2004000+++%3E++++st%3A%7Bamerican+standard+toilets%7D%3Ast++cn%3A%7B0%3A0%7D++cn%3A%7B0%3A0%7D++american+standard+toilets+%7Bredirect%7D+qu%3A%7Bamerican+standard+toilets%7D\" target=\"_blank\">See our full collection of American Standard Toilets to choose the best option for you</a>",
+      "<a href=\"https://www.homedepot.com/c/ab/the-best-toilet-for-your-home/9ba683603be9fa5395fab903b4a0dc1\" target=\"_blank\" style=\"color:#F96302;\">The Best Toilet For Your Home</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b757dc05-e5ea-464c-a733-601628b9f363/svn/white-american-standard-two-piece-toilets-788ab104-020-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/854f3c0f-56fe-441f-b9eb-2bff43db035b/svn/white-american-standard-two-piece-toilets-788ab104-020-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1d380cd6-b324-4893-95a7-0578d3cdf8d2/svn/white-american-standard-two-piece-toilets-788ab104-020-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c004675e-f702-4881-a2d9-65fab44ed473/svn/white-american-standard-two-piece-toilets-788ab104-020-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d4e55a3e-0516-42f4-9615-23de8bde9993/svn/white-american-standard-two-piece-toilets-788ab104-020-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4b0a961f-5ea0-4c20-bf39-1f4e01528965/svn/white-american-standard-two-piece-toilets-788ab104-020-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2efbadc2-f5d8-477b-a660-38461d31977e/svn/white-american-standard-two-piece-toilets-788ab104-020-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b757dc05-e5ea-464c-a733-601628b9f363/svn/white-american-standard-two-piece-toilets-788ab104-020-64_1000.jpg",
+      "type": "primary"
+    },
+    "has_360_view": true,
+    "ratings_total": 523,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Chair Height"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Antimicrobial,Flushing Rim,Soft Close"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Technology",
+        "value": "Gravity Fed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flushing Type",
+        "value": "Single Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.28"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Left"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Bolts,Complete Kit,Hardware,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "MaP Performance Rating",
+        "value": "1000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Mount Location",
+        "value": "Floor Mount"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "88 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "10 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Minimalist,Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Type",
+        "value": "Two-Piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trapway Diameter (in.)",
+        "value": "2.12 in."
+      },
+      {
+        "group_name": "Details",
+        "name": "Trip Lever Location",
+        "value": "Left Front"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ADA Compliant,ANSI Compliant,ASME Certified,CSA Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited lifetime warranty on chinaware,5-year warranty on mechanical parts, 1-year warranty on seat"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "28.1875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "30.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "17.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~Elongated~~10 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/American-Standard-Cadet-10-in-Antimicrobial-2-Piece-1-28-GPF-Single-Flush-Chair-Height-Round-Front-Toilet-with-Slow-Close-Seat-in-White-788AB104-020/329008713",
+        "item_id": "329008713"
+      },
+      {
+        "title": "White~~Round~~10 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/American-Standard-Cadet-10-in-Antimicrobial-2-Piece-1-28-GPF-Single-Flush-Chair-Height-Round-Toilet-with-Slow-Close-Seat-in-White-788BB104-020/329008715",
+        "item_id": "329008715"
+      },
+      {
+        "title": "White~~Elongated~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/American-Standard-Cadet-12-in-Antimicrobial-2-Piece-1-28-GPF-Single-Flush-Chair-Height-Elongated-Toilet-with-Slow-Close-Seat-in-White-788AA104-020/329008699",
+        "item_id": "329008699"
+      },
+      {
+        "title": "White~~Round~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/American-Standard-Cadet-12-in-Antimicrobial-2-Piece-1-28-GPF-Single-Flush-Chair-Height-Round-Toilet-with-Slow-Close-Seat-in-White-788BA104-020/329008710",
+        "item_id": "329008710"
+      },
+      {
+        "title": "Bone~~Round~~12 inch Rough In~~Single Flush: 1.28~~Chair Height",
+        "link": "https://www.homedepot.com/p/American-Standard-Cadet-12-in-Antimicrobial-2-Piece-1-28-GPF-Single-Flush-Chair-Height-Round-Toilet-in-Bone-with-Slow-Close-Seat-788BA104-021/329008711",
+        "item_id": "329008711"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Two Piece Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Two-Piece-Toilets/N-5yc1vZcb8n"
+      }
+    ],
+    "buybox_winner": {
+      "price": 219,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "1749",
+          "in_stock": true,
+          "stock_level": 1,
+          "price": 35,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 75,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12378,
+    "overage_used": 2378,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-4-in-x-8-ft-Prime-Whitewood-Stud-058449/312528776"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T08:10:04.705Z",
+    "processed_at": "2025-05-01T08:10:11.141Z",
+    "total_time_taken": 6.44,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-4-in-x-8-ft-Prime-Whitewood-Stud-058449/312528776"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-4-in-x-96-in-2-Premium-Grade-KD-HT-Stud-058449/312528776",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 4 in. x 96 in. #2 Premium Grade KD-HT Stud",
+    "upc": "4005014730277",
+    "item_id": "312528776",
+    "store_sku": "161640",
+    "model_number": "058449",
+    "description": "Every stud meets the stamped grading standards for strength and highest quality in appearance. Framing studs are ideal for a wide range of uses from framing of houses to basic interior structural applications. Studs come in several widths for structural framing, structural walls, interior and protected exterior walls or can be used for a variety of craft and non-structural projects.",
+    "favorite_count": 7121,
+    "aisle": "23",
+    "bay": "002",
+    "feature_bullets": [
+      "Suitable for new home construction, renovation projects, and more",
+      "Can be primed and painted for customized use",
+      "Meets the stamped grading standards for high strength and quality"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Use studs for new home construction, renovation projects of craft projects",
+      "Every piece meets the stamped grading standards for strength and high quality appearance",
+      "Ideal for framing, houses, barns, sheds and other structures",
+      "Lumber can be primed and painted or sealed and stained",
+      "Untreated premium lumber",
+      "Common: 2 in. x 4 in. x 8 ft., actual: 1.5 in. x 3.5 in. x 96 in."
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/46ab3cfb-6093-435d-a6f0-c991006f05c3/svn/framing-studs-058449-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/88d1edae-4ecd-4815-a810-9a485286d2cd/svn/framing-studs-058449-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7b29cee5-6fca-4e5b-a5ee-fd225b675311/svn/framing-studs-058449-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c0ad706-52e5-4052-917d-aadc091258c7/svn/framing-studs-058449-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/46ab3cfb-6093-435d-a6f0-c991006f05c3/svn/framing-studs-058449-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 5120,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Standard Nails"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Heat Treated,Paintable,Stainable,Untreated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Spruce/Pine/Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Studs",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Studs/N-5yc1vZc562"
+      }
+    ],
+    "buybox_winner": {
+      "price": 3.75,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2599
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 202037,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

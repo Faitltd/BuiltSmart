@@ -1,0 +1,339 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12644,
+    "overage_used": 2644,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-5-5-oz-Clear-Advanced-Siliconized-Kitchen-and-Bath-Caulk-18902/206046688"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:27:25.356Z",
+    "processed_at": "2025-05-01T13:27:30.564Z",
+    "total_time_taken": 5.21,
+    "homedepot_url": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-5-5-oz-Clear-Advanced-Siliconized-Kitchen-and-Bath-Caulk-18902/206046688"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-5-5-oz-Clear-Advanced-Siliconized-Kitchen-and-Bath-Caulk-18902/206046688",
+    "brand": "DAP",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/DAP/N-5yc1vZcibhZ1wf",
+    "title": "DAP Kwik Seal Ultra 5.5 oz. Clear Advanced Siliconized Kitchen and Bath Caulk",
+    "upc": "070798188952",
+    "item_id": "206046688",
+    "parent_id": "317314480",
+    "store_sku": "1001392600",
+    "model_number": "18902",
+    "description": "Dap Kwik Seal Ultra is a high-performance siliconized kitchen and bath sealant that repels water, stains and dirt and has a lifetime mold and mildew resistance guarantee so  the sealant stays looking fresh and new. Kwik Seal Ultra Sealant applies white and dries clear in 7 to 14 days depending on joint depth, temperature and humidity. Sealant is 100% waterproof and crack proof and can be exposed to water in as little as 4 hours after application without washing out. It is easy to apply and tool and cleans up easily with water. Seal out water and moisture around sinks, tubs, showers, faucets, vanities, counter tops and fixtures.  Works great for caulking and sealing in bathrooms or kitchens.  Kwik Seal Ultra is not paintable but may be exposed to water in as little as 4 hours following application without washing out.  DAP caulk and sealants provide durable performance for a variety of projects including bathroom caulk projects.",
+    "favorite_count": 530,
+    "aisle": "50",
+    "bay": "014",
+    "feature_bullets": [
+      "Sealant with ultra-hydrophobic technology repels water and stains",
+      "Crackproof and 100% waterproof- use as kitchen and bathroom caulk",
+      "Cured sealant with lifetime mold and mildew resistance guarantee"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Kwik Seal Ultra is a kitchen and bathroom sealant that may be exposed to water in as little as 4 hours, is crackproof and has a 100% waterproof seal to protect from moisture",
+      "Works on many surfaces including granite, marble, ceramic, porcelain, most metals, stone and glass",
+      "Top applications for this sealant include kitchen caulk, bath caulk, shower caulk, tub caulk and around fixtures",
+      "For interior application, is low in odor and cleans up with water",
+      "Ultra-hydrophobic formula contains technology that repels water, dirt, soap scum and stains",
+      "Applies white and dries clear 7 to 14 days after application, Kwik Seal Ultra is not paintable",
+      "Ultra-hydrophobic repels water and stains with a lifetime mold and mildew resistance guarantee to keep sealant looking fresh",
+      "Ready for water exposure in as little as 4 hours",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">How to Caulk Like a Professional</a>",
+      "<a href=\"https://www.homedepot.com/c/ab/best-caulks-and-sealants-for-your-home-improvement-projects/9ba683603be9fa5395fab90d0b119c3\" target=\"_blank\" style=\"color:#F96302;\">Best Caulks and Sealants for Your Home Improvement Projects</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/59d20302-f6e0-48a0-8407-5e109eb485c3/svn/clear-dap-caulk-18902-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/41925312-36e4-48cd-9aa5-12dc54afd8d8/svn/clear-dap-caulk-18902-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34dcfa77-757f-4151-acee-94bf88d7ee06/svn/clear-dap-caulk-18902-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6edd8742-66e0-4c22-991f-4f3c301c1ff5/svn/clear-dap-caulk-18902-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0df65bca-24ac-484d-84ec-36e2c6c69fd2/svn/clear-dap-caulk-18902-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/af47940c-90ef-42c6-978e-73eac9b17871/svn/clear-dap-caulk-18902-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d09f9570-893b-4dd1-8272-9e22faa6e03c/svn/clear-dap-caulk-18902-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f6138d6c-4244-4857-85d2-7407d4e4ad54/svn/clear-dap-caulk-18902-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/42680cfc-1803-46d3-8c29-9cf6b3c2589b/svn/clear-dap-caulk-18902-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e2035325-e1fa-47d0-a5f1-681a50845291/svn/clear-dap-caulk-18902-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9f3e76a9-8017-427b-af69-be6debe7437c/svn/clear-dap-caulk-18902-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/59d20302-f6e0-48a0-8407-5e109eb485c3/svn/clear-dap-caulk-18902-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/54e8b9bd-6f49-440c-9dac-2c39bb432dd5/09252913-d179-48fd-9faf-08b613b948ab/main.mp4?fastly_token=NjgzODJmOWVfZTMyZmZmZTFhM2FlZTFmNWQ5Y2ZmOGMwMzRjNmQxM2RkZjE4ZTNiZDVhZmYzNjJhOWQyMjVkNDQ2ZDNhMjhiYV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81NGU4YjliZC02ZjQ5LTQ0MGMtOWRhYy0yYzM5YmI0MzJkZDUvMDkyNTI5MTMtZDE3OS00OGZkLTlmYWYtMDhiNjEzYjk0OGFiL21haW4ubXA0&pubid=66036796001",
+        "title": "Kwik Seal Ultra",
+        "id": "4773607187001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/54e8b9bd-6f49-440c-9dac-2c39bb432dd5/6d5168b4-dc4c-4daf-9010-4152e58cc55b/160x90/match/image.jpg?pubId=66036796001",
+        "description": "DAP Kwik Seal Ultra is a high performance siliconized Kitchen and Bath Sealant that repels water, stains and dirt. It has a lifetime mold and mildew guarantee so the sealant stays looking fresh and new. It is 100% waterproof and crack proof."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/85db6a8c-2b14-443b-947e-faf39432904c/ede93f76-7007-4594-a6fc-7b4367aab9b2/main.mp4?fastly_token=NjgzODI4MzNfNmNmYTBkYmI3NDhjZGVmZDliNTNmNmZjZjQzZjAwY2EwYjIzZWExZDJiZTMwMmYxMmJkOGNmNjgzYzIyM2QzM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS84NWRiNmE4Yy0yYjE0LTQ0M2ItOTQ3ZS1mYWYzOTQzMjkwNGMvZWRlOTNmNzYtNzAwNy00NTk0LWE2ZmMtN2I0MzY3YWFiOWIyL21haW4ubXA0&pubid=66036796001",
+        "title": "Kwik Seal Ultra Bathtub Fix ",
+        "id": "5045287790001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/85db6a8c-2b14-443b-947e-faf39432904c/55cc1be0-2702-46db-b6db-d3f6d88b6da3/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Kwik Seal Ultra product demonstration on a bathtub"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/63f54086-628d-4f56-bce9-889e8ba8450c/1b8ff7bc-f9ad-4f60-b500-4e425a371755/main.mp4?fastly_token=NjgzODI4MmNfYTdjNTZlMzAzNmJhMDkxN2QyMDIyMDdlMzBmODEzZGY5ZWU3N2E1MThjMTQ2Mzc0OWVhOTc3NWMyYjcwZjcwY18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS82M2Y1NDA4Ni02MjhkLTRmNTYtYmNlOS04ODllOGJhODQ1MGMvMWI4ZmY3YmMtZjlhZC00ZjYwLWI1MDAtNGU0MjVhMzcxNzU1L21haW4ubXA0&pubid=66036796001",
+        "title": "Kwik Seal Ultra Kitchen Fix",
+        "id": "5045291214001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/63f54086-628d-4f56-bce9-889e8ba8450c/03ffecc1-a220-48c5-8866-3c070d6ba14b/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Kwik Seal Ultra demonstration used to fix kitchen."
+      }
+    ],
+    "ratings_total": 3907,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk Form",
+        "value": "Squeeze Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Kitchen & Bathroom"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Latex"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "30"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "10 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Tool Product Type",
+        "value": "Caulk"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Series",
+        "value": "Kwik Seal Ultra"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Warranty Information: If you are not satisfied with this product\u2019s performance when used as directed, return used container and sales receipt to DAP Inc., Technical Customer Service, 2400 Boston Street, Suite 200, Baltimore, MD 21224 for product replacement or sales price refund. DAP will not be liable for incidental or consequential damages."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "5.5 oz"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Biscuit~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-10-1-oz-Biscuit-Advanced-Siliconized-Kitchen-and-Bath-Caulk-2-Pack-7079818899/319661452",
+        "item_id": "319661452"
+      },
+      {
+        "title": "Clear~~5.5 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-5-5-oz-Clear-Advanced-Siliconized-Kitchen-and-Bath-Caulk-2-Pack-7079818902/319661243",
+        "item_id": "319661243"
+      },
+      {
+        "title": "Clear~~5.5 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-5-5-oz-Clear-Advanced-Siliconized-Kitchen-and-Bath-Caulk-18902/206046688",
+        "item_id": "206046688"
+      },
+      {
+        "title": "White~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-10-1-oz-White-Advanced-Siliconized-Kitchen-and-Bath-Caulk-18897/206046690",
+        "item_id": "206046690"
+      },
+      {
+        "title": "Clear~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-10-1-oz-Clear-Advanced-Siliconized-Kitchen-and-Bath-Caulk-18898/206046691",
+        "item_id": "206046691"
+      },
+      {
+        "title": "Biscuit~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-10-1-oz-Biscuit-Advanced-Siliconized-Kitchen-and-Bath-Caulk-18899/206046692",
+        "item_id": "206046692"
+      },
+      {
+        "title": "White~~5.5 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-5-5-oz-White-Advanced-Siliconized-Kitchen-and-Bath-Caulk-2-Pack-7079818901/319661281",
+        "item_id": "319661281"
+      },
+      {
+        "title": "Biscuit~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-10-1-oz-Biscuit-Advanced-Siliconized-Kitchen-and-Bath-Caulk-12-Pack-7079818899/206471042",
+        "item_id": "206471042"
+      },
+      {
+        "title": "White~~5.5 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-5-5-oz-White-Advanced-Siliconized-Kitchen-and-Bath-Caulk-18901/206046677",
+        "item_id": "206046677"
+      },
+      {
+        "title": "White~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-10-1-oz-White-Advanced-Siliconized-Kitchen-and-Bath-Caulk-12-Pack-7079818897/206471040",
+        "item_id": "206471040"
+      },
+      {
+        "title": "Clear~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Kwik-Seal-Ultra-10-1-oz-Clear-Advanced-Siliconized-Kitchen-and-Bath-Caulk-12-Pack-7079818898/206471041",
+        "item_id": "206471041"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Caulk",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Caulk/N-5yc1vZcibh"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 39
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 48,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 33,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

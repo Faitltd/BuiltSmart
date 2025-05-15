@@ -1,0 +1,394 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14393,
+    "overage_used": 4393,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TrafficMaster-Alberta-Spruce-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-821958/304993943"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:32:04.936Z",
+    "processed_at": "2025-05-01T18:32:57.263Z",
+    "total_time_taken": 52.33,
+    "homedepot_url": "https://www.homedepot.com/p/TrafficMaster-Alberta-Spruce-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-821958/304993943"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TrafficMaster-Alberta-Spruce-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-821958/304993943",
+    "brand": "TrafficMaster",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/TrafficMaster/N-5yc1vZbzjzZ5bx",
+    "title": "TrafficMaster Alberta Spruce 4 MIL x 6 in. W x 36 in. L Grip Strip Water Resistant Luxury Vinyl Plank Flooring (24 sqft/case)",
+    "upc": "088969821959",
+    "item_id": "304993943",
+    "parent_id": "333705217",
+    "store_sku": "1003531638",
+    "model_number": "821958",
+    "description": "TrafficMASTER features a patented GripStrip installation method - easily install with pre-attached adhesive strips to create a beautiful floating floor. No additional adhesive or heavy tools required. TrafficMASTER is water resistant and can be installed almost anywhere including basements, kitchens, bathrooms, and high traffic areas. Concerned about wear and tear? Our product is protected by a 30-year residential warranty and features a ceramic bead surface coating that resists everyday scratches and stains. This flooring is both phthalate-free and formaldehyde-free to ensure product safety. Enjoy your newly installed floor within hours! Achieve a natural wood look at an affordable price.",
+    "is_exclusive": true,
+    "favorite_count": 1759,
+    "aisle": "44",
+    "bay": "011",
+    "feature_bullets": [
+      "Ceramic bead surface coating resists scratches and stains",
+      "Water resistant flooring installs easily using GripStrip design",
+      "Can be installed over Concrete, tile, vinyl or wood"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Embossed; low gloss; authentic design",
+      "3.8 mm thickness x 6 in. width x 36 in. length; 4 mil wear layer",
+      "Water-resistant; can be installed in most rooms of your home - above, on or below grade",
+      "Can be installed over most existing surfaces including tile, wood, concrete and vinyl",
+      "Residential use",
+      "Easy to maintain, no-wax flooring - simply clean with a dust mop, vacuum or pH neutral cleaner",
+      "Don't forget your coordinating trim and installation accessories - available on homedepot.com and shipped directly to your home or to your local Home Depot store; your choice",
+      "All online orders for this item may ship in multiple parcel packages or on a pallet via truckline carrier depending on order quantity",
+      "Easy to install; Patented GripStrip Installation Method",
+      "For use indoors and in temperature-controlled environments only",
+      "Planks per carton: 16 planks; sq. ft. per carton: 24",
+      "Actual item color may vary from device screen representation; we recommend that you order a sample and view it in the room where your flooring will be installed",
+      "<a href=\"https://www.homedepot.com/b/Flooring/TrafficMaster/N-5yc1vZaq7rZ5bx\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop for more TrafficMaster Flooring</a>",
+      "<a href=\"https://www.homedepot.com/b/Flooring/PERFORMANCE-ACCESSORIES/Flint-Grey/N-5yc1vZaq7rZtjkZ1z0mi9i\" target=\"_blank\" style=\"color:#F96302;\">Don't forget your coordinating trim and moldings</a> - shop Performance Accessories in the 'You Might Also Need' section below."
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f642220a-0c31-4078-9af3-a266f45eec6a/svn/alberta-spruce-trafficmaster-vinyl-plank-flooring-821958-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/71c88e9b-b2b1-4457-9cc1-73af71cf294c/svn/alberta-spruce-trafficmaster-vinyl-plank-flooring-821958-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f86e11e7-9a88-457f-8199-d16673c8237b/svn/alberta-spruce-trafficmaster-vinyl-plank-flooring-821958-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b4eb78f2-af81-41d4-9604-db743fabbe6f/svn/alberta-spruce-trafficmaster-vinyl-plank-flooring-821958-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0bbbd0d0-b2de-410c-ba45-d3aaccf51329/svn/alberta-spruce-trafficmaster-vinyl-plank-flooring-821958-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b8371ff0-f998-4488-bc64-fde28156598b/svn/alberta-spruce-trafficmaster-vinyl-plank-flooring-821958-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/907813f1-37c1-4fbb-948c-fc3e495b6088/svn/alberta-spruce-trafficmaster-vinyl-plank-flooring-821958-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f642220a-0c31-4078-9af3-a266f45eec6a/svn/alberta-spruce-trafficmaster-vinyl-plank-flooring-821958-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/f17a5f60-e09f-488f-9150-f3cd09dc2241/be5f5c82-fb2b-4dd0-adce-13452ba344f5/main.mp4?fastly_token=NjgzODIzNDVfZDkxY2I2MGE2ZGFlMDNhMzk3ZGQ1MjIwOTM1NTVkNmZmMzA5ODRjNmM3ZjhmMGYxYWQ4ODM3NzY2NTI1Zjg1ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9mMTdhNWY2MC1lMDlmLTQ4OGYtOTE1MC1mM2NkMDlkYzIyNDEvYmU1ZjVjODItZmIyYi00ZGQwLWFkY2UtMTM0NTJiYTM0NGY1L21haW4ubXA0&pubid=66036796001",
+        "title": "Allure GripStrip Overview and Install July 2015",
+        "id": "4372454121001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/f17a5f60-e09f-488f-9150-f3cd09dc2241/9c2eac55-0e2a-4836-b3a0-203db96b2bd7/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This is an overview of the vinyl flooring category and a step-by-step installation guide for Allure products with GripStrip Installation technology."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 9915,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Antimicrobial",
+        "value": "Non-antimicrobial"
+      },
+      {
+        "group_name": "Details",
+        "name": "Application Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cases Per Pallet",
+        "value": "20"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Alberta Spruce"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Straight Edge"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Mark Resistant,Phthalate Free,Removable,Scratch Resistant,Skid Resistant,Stain Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Vinyl Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Wood Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gloss",
+        "value": "Low Gloss"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Grip Strip"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installs Over Subfloor",
+        "value": "Concrete,Plywood,Tile,Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Entry Way,Kitchen"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vinyl"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "2 Days"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Look",
+        "value": "Straight Plank"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pieces Per Case",
+        "value": "16"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Length",
+        "value": "Standard Length"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plank Width",
+        "value": "Medium plank (5.1 in - 6.9 in)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "38 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Species Look",
+        "value": "Hybrid Species Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Classic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Underlayment Options",
+        "value": "Underlayment Not Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 year residential warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Plank Size (in.)",
+        "value": "36 x 6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "3.8 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wear Layer Thickness (mil)",
+        "value": "4 MIL"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Cherry~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Cherry-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-12012/100593151",
+        "item_id": "100593151"
+      },
+      {
+        "title": "Khaki Oak~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Khaki-Oak-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-185312/206934038",
+        "item_id": "206934038"
+      },
+      {
+        "title": "Emerson~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Emerson-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-103918/322631614",
+        "item_id": "322631614"
+      },
+      {
+        "title": "Fenton~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Fenton-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-1843101/322631615",
+        "item_id": "322631615"
+      },
+      {
+        "title": "Khaki Oak Dark~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Khaki-Oak-Dark-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-853112/303060342",
+        "item_id": "303060342"
+      },
+      {
+        "title": "African Wood Dark~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-African-Wood-Dark-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-57111-0/202075777",
+        "item_id": "202075777"
+      },
+      {
+        "title": "White Maple~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-White-Maple-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-97011/205803343",
+        "item_id": "205803343"
+      },
+      {
+        "title": "Raritan~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Raritan-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-1910337/322631606",
+        "item_id": "322631606"
+      },
+      {
+        "title": "Teak~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Teak-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-53712/100609202",
+        "item_id": "100609202"
+      },
+      {
+        "title": "Cayman Ash~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Cayman-Ash-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-775611/205803222",
+        "item_id": "205803222"
+      },
+      {
+        "title": "Brushed Oak Taupe~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Brushed-Oak-Taupe-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-95311/205893527",
+        "item_id": "205893527"
+      },
+      {
+        "title": "Oak~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Oak-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-11053/100592904",
+        "item_id": "100592904"
+      },
+      {
+        "title": "Sandpiper Oak~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Sandpiper-Oak-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-03919/304993947",
+        "item_id": "304993947"
+      },
+      {
+        "title": "High Point Chestnut~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-High-Point-Chestnut-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-83313/205893522",
+        "item_id": "205893522"
+      },
+      {
+        "title": "Dowling~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Dowling-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-1117104/322631619",
+        "item_id": "322631619"
+      },
+      {
+        "title": "Alberta Spruce~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Alberta-Spruce-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-821958/304993943",
+        "item_id": "304993943"
+      },
+      {
+        "title": "Canadian Hewn Oak~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Canadian-Hewn-Oak-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-81314/205893535",
+        "item_id": "205893535"
+      },
+      {
+        "title": "Pacific Pine~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Pacific-Pine-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-64117-0/202885484",
+        "item_id": "202885484"
+      },
+      {
+        "title": "Country Pine~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Country-Pine-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-33114/100594661",
+        "item_id": "100594661"
+      },
+      {
+        "title": "Dove Maple~~36 x 6~~4 MIL~~Case",
+        "link": "https://www.homedepot.com/p/TrafficMaster-Dove-Maple-4-MIL-x-6-in-W-x-36-in-L-Grip-Strip-Water-Resistant-Luxury-Vinyl-Plank-Flooring-24-sqft-case-87514/205803290",
+        "item_id": "205803290"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Vinyl Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring/N-5yc1vZapwr"
+      },
+      {
+        "name": "Vinyl Plank Flooring",
+        "link": "https://www.homedepot.com/b/Flooring-Vinyl-Flooring-Vinyl-Plank-Flooring/N-5yc1vZbzjz"
+      }
+    ],
+    "buybox_winner": {
+      "price": 57.36,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case"
+    }
+  }
+}

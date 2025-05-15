@@ -1,0 +1,233 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14862,
+    "overage_used": 4862,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-4-in-x-10-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-120-in-17463-10/206952293"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:59:13.590Z",
+    "processed_at": "2025-05-01T19:59:59.053Z",
+    "total_time_taken": 45.46,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-4-in-x-10-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-120-in-17463-10/206952293"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-4-in-x-10-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-120-in-17463-10/206952293",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 4 in. x 10 ft. Brown Stain Ground Contact Pressure-Treated Lumber WW (Actual: 1.5 in. x 3.5 in. x 120 in.)",
+    "upc": "737164300157",
+    "item_id": "206952293",
+    "parent_id": "310483877",
+    "store_sku": "1001765206",
+    "model_number": "17463-10",
+    "description": "The 2 in. x 4 in. x 10 ft. Pressure-Treated Western Woods Lumber is ideal for a variety of applications, including decks, landscaping, stair support, walkways and other outdoor projects where lumber is exposed to the elements. Every piece meets the highest grading standards for strength and appearance. This lumber is pressure treated in order to protect it from termites, fungal decay and rot. When used properly, it is both safe and environmentally friendly.",
+    "favorite_count": 514,
+    "feature_bullets": [
+      "Paintable and stainable for a customized look",
+      "Durable wood construction for long-lasting use",
+      "Pressure-treated lumber protects against rot and insects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Manufactured from Western Wood Species",
+      "Copper azole treatment",
+      "1-1/2 in. x 3-1/2 in. x 10 ft.",
+      "Smooth texture",
+      "Stainable and paintable a customized looks",
+      "For use with hot-dipped galvanized fasteners and connectors (not included)",
+      "Brown color",
+      "Ground contact use",
+      "Note: product may vary by store",
+      "<a href=\"https://www.homedepot.com/c/discover_benefit_pressure_treated_wood_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to discover the benefits of pressure treated wood</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/4266bb9c-330e-4b5b-aee6-bd493e6508be/svn/brown-pressure-treated-lumber-17463-10-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d511e0e5-5e9c-4cba-bce3-ac8ad979480c/svn/brown-pressure-treated-lumber-17463-10-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/4266bb9c-330e-4b5b-aee6-bd493e6508be/svn/brown-pressure-treated-lumber-17463-10-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/60192e84-0d9a-4f2a-9f75-7fdb533e41f1/9afaddba-98cf-4618-909e-5a3bc55da565/main.mp4?fastly_token=NjgxMzgxNGJfNGYwZWQ0MDZjZmNmYThmMjRlMTNjZWYwNmQ3MzczZjY4ZGQ2MzNlMTlmZGJkZTU1NGU4MjZjOGEzMjUwNWUyMV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjAxOTJlODQtMGQ5YS00ZjJhLTlmNzUtN2ZkYjUzM2U0MWYxLzlhZmFkZGJhLTk4Y2YtNDYxOC05MDllLTVhM2JjNTVkYTU2NS9tYWluLm1wNA%3D%3D",
+        "title": "Choosing Pressure Treated Wood",
+        "id": "4292649396001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/60192e84-0d9a-4f2a-9f75-7fdb533e41f1/e11a56ea-be04-4a87-879a-3b72473efeed/160x90/match/image.jpg",
+        "description": "If you\u2019re tackling any outdoor building project such as a deck, fence, or arbor, you should plan on using pressure-treated wood.  Here are the basics on what you need to know when shopping for your project."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ac760f2e-9fff-4c7d-82b7-97092e79182a/4d33df34-9c60-4994-b767-2331d1368a1a/main.mp4?fastly_token=NjgzODI2ZjlfYzg5NTYxNzk0MjZiMWU4MjAyMjVkOTFlYjIxZDIzMWIwZjVmMmQ2YzQzOTUxMjQ3NmYzZjJiYTFhMDdjNTMzN18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hYzc2MGYyZS05ZmZmLTRjN2QtODJiNy05NzA5MmU3OTE4MmEvNGQzM2RmMzQtOWM2MC00OTk0LWI3NjctMjMzMWQxMzY4YTFhL21haW4ubXA0&pubid=66036796001",
+        "title": "Mendocino-Redwood-Pergola-Next",
+        "id": "4355834115001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/ac760f2e-9fff-4c7d-82b7-97092e79182a/84d93290-df7a-4994-b28b-c3e6f373c78a/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Join a young couple as they search for FSC\u00ae certified Mendocino\u00ae Redwood decking at their local Home Depot store. What starts as a new deck turns into much more as a new pergola shade structure catches the homeowner's eye."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/9d7822f8-eeb5-436f-a3a5-404908ac3a93/10e5b5ed-7c41-4d1f-a82c-f5b6de3ab508/main.mp4?fastly_token=NjgzODFkNDNfMzMyMTFmZWQzNDMxYTMxNGRiYTE5MzJjMzViZmE1ZWQ0YzVjZTUyYjA3MTJkMWJhOGJjOTAwYjI0MDIyMzY3Zl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS85ZDc4MjJmOC1lZWI1LTQzNmYtYTNhNS00MDQ5MDhhYzNhOTMvMTBlNWI1ZWQtN2M0MS00ZDFmLWE4MmMtZjViNmRlM2FiNTA4L21haW4ubXA0&pubid=66036796001",
+        "title": "Mendocino Redwood Benefits of Redwood",
+        "id": "4394525845001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/9d7822f8-eeb5-436f-a3a5-404908ac3a93/6b57b6b4-c953-4898-8eb7-e6e30ed7e111/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Available at The Home Depot, Mendocino Redwood is beautiful, versatile, durable, and easy to work with. Products available include decking, fencing, landscaping, garden, and timbers. Build your dream outdoor living space with Mendocino Redwood.\r\n\r\n"
+      }
+    ],
+    "ratings_total": 1466,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chemical retention (lb./cu. ft.)",
+        "value": "0.15 lb/ft3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Galvanized Fastener,Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Galvanized,Pressure Treated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Standard & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood (100%)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pressure Treatment Chemical",
+        "value": "CA - Copper Azole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Western Woods"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "NO"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "10 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "10 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "keywords_list": [
+      "hem-fir lumber",
+      "paintable hem-fir lumber",
+      "lumber",
+      "paintable lumber",
+      "stainable hem-fir lumber",
+      "stainable lumber"
+    ],
+    "keywords": "hem-fir lumber, paintable hem-fir lumber, lumber, paintable lumber, stainable hem-fir lumber, stainable lumber",
+    "variants": [
+      {
+        "title": "10 ft~~Brown",
+        "link": "https://www.homedepot.com/p/2-in-x-4-in-x-10-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-120-in-17463-10/206952293",
+        "item_id": "206952293"
+      },
+      {
+        "title": "20 ft~~Brown",
+        "link": "https://www.homedepot.com/p/2-in-x-4-in-x-20-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-240-in-17463-20/206949479",
+        "item_id": "206949479"
+      },
+      {
+        "title": "8 ft~~Brown",
+        "link": "https://www.homedepot.com/p/2-in-x-4-in-x-8-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-96-in-17463-08/206949446",
+        "item_id": "206949446"
+      },
+      {
+        "title": "16 ft~~Brown",
+        "link": "https://www.homedepot.com/p/2-in-x-4-in-x-16-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-192-in-17463-16/206949782",
+        "item_id": "206949782"
+      },
+      {
+        "title": "12 ft~~Brown",
+        "link": "https://www.homedepot.com/p/2-in-x-4-in-x-12-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-144-in-17463-12/206949777",
+        "item_id": "206949777"
+      },
+      {
+        "title": "6 ft~~Brown",
+        "link": "https://www.homedepot.com/p/2-in-x-4-in-x-6-ft-Brown-Stain-Ground-Contact-Pressure-Treated-Lumber-WW-Actual-1-5-in-x-3-5-in-x-72-in-17463-06/206950113",
+        "item_id": "206950113"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Pressure Treated Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/N-5yc1vZc3sr"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

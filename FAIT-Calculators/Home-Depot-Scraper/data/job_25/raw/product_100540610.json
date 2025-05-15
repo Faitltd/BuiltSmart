@@ -1,0 +1,218 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14843,
+    "overage_used": 4843,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/CMPC-WM-376-11-16-in-x-2-1-4-in-x-168-in-Pine-Primed-Finger-Jointed-Casing-Pro-Pack-168-LF-12-Pieces-141658/100540610"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:43:27.939Z",
+    "processed_at": "2025-05-01T19:44:17.835Z",
+    "total_time_taken": 49.9,
+    "homedepot_url": "https://www.homedepot.com/p/CMPC-WM-376-11-16-in-x-2-1-4-in-x-168-in-Pine-Primed-Finger-Jointed-Casing-Pro-Pack-168-LF-12-Pieces-141658/100540610"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/CMPC-WM-376-11-16-in-x-2-1-4-in-x-168-in-Pine-Primed-Finger-Jointed-Casing-Pro-Pack-168-LF-12-Pieces-141658/100540610",
+    "brand": "CMPC",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/CMPC/N-5yc1vZclf5Zb2",
+    "title": "CMPC WM 376 11/16 in. x 2 1/4 in. x 168 in. Pine Primed Finger-Jointed Casing Pro Pack 168 LF (12-Pieces)",
+    "upc": "7809543801265",
+    "item_id": "100540610",
+    "parent_id": "327768303",
+    "store_sku": "141658",
+    "model_number": "141658",
+    "description": "The WM 376 11/16 in. x 2 1/4 in. x 168 in. Pine Primed Finger-Jointed Casing Pro Pack includes twelve 168 in. pieces for maximum savings on your project. This casing acts as a decorative trim that conceals the gap between the drywall and the frame of your door or window. The all wood construction is primed white for additional convenience and efficiency when paint is applied so you can easily match your existing decor.",
+    "favorite_count": 164,
+    "feature_bullets": [
+      "Sturdy pine construction ensures durability",
+      "Pre-primed white finish allows for easy painting",
+      "Effectively conceals gap between drywall and door/window frame"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Pine construction",
+      "White finish is pre-primed for easy painting",
+      "Use to trim inside and outside door and window openings",
+      "Sold by the bundle to save you money versus buying by the linear foot",
+      "Manufacturers and availability may vary by store",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e4111faa-1e5e-4a93-9e4d-1e6670c44c04/svn/white-cmpc-casing-141658-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8f82930d-9441-445c-ad62-36e52185dbe6/svn/white-cmpc-casing-141658-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e4111faa-1e5e-4a93-9e4d-1e6670c44c04/svn/white-cmpc-casing-141658-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 160,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "white"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "376"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "4.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "168 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.5 in"
+      }
+    ],
+    "keywords_list": [
+      "casing stack",
+      "168 ft. casing stack",
+      "professional casing stack",
+      "finger-jointed casing stack",
+      "CMPC casing stack"
+    ],
+    "keywords": "casing stack, 168 ft. casing stack, professional casing stack, finger-jointed casing stack, CMPC casing stack",
+    "variants": [
+      {
+        "title": "white~~1 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/CMPC-0-6875-in-D-2-25-in-W-Wood-Primed-Finger-Jointed-Casing-565447/100073527",
+        "item_id": "100073527"
+      },
+      {
+        "title": "white~~7 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/CMPC-WM-376-11-16-in-x-2-1-4-in-x-84-in-Pine-Primed-Finger-Jointed-Casing-326338/100054180",
+        "item_id": "100054180"
+      },
+      {
+        "title": "white~~14 ft~~Wood~~12",
+        "link": "https://www.homedepot.com/p/CMPC-WM-376-11-16-in-x-2-1-4-in-x-168-in-Pine-Primed-Finger-Jointed-Casing-Pro-Pack-168-LF-12-Pieces-141658/100540610",
+        "item_id": "100540610"
+      },
+      {
+        "title": "White~~7 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/CMPC-WM-366-11-16-in-x-2-1-4-in-x-84-in-Pine-Primed-Finger-Jointed-Casing-453154/100079627",
+        "item_id": "100079627"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12811,
+    "overage_used": 2811,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Enstron-1-2-in-x-4-ft-x-8-ft-Particleboard-Panel-165514/202821140"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:32:12.372Z",
+    "processed_at": "2025-05-01T13:32:54.900Z",
+    "total_time_taken": 42.53,
+    "homedepot_url": "https://www.homedepot.com/p/Enstron-1-2-in-x-4-ft-x-8-ft-Particleboard-Panel-165514/202821140"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Enstron-1-2-in-x-4-ft-x-8-ft-Particleboard-Panel-165514/202821140",
+    "brand": "Enstron",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Particle-Board/Enstron/N-5yc1vZ2fkpa44Zivz",
+    "title": "Enstron 1/2 in. x 4 ft. x 8 ft. Particleboard Panel",
+    "upc": "857328002014",
+    "item_id": "202821140",
+    "parent_id": "327613077",
+    "store_sku": "165514",
+    "model_number": "165514",
+    "description": "Enstron Underlayment is quite simply the most environmentally sound underlayment choice for use in installation of your resilient flooring project. The product is easy to use and install. Enstron is the most value priced underlayment in its class.",
+    "favorite_count": 115,
+    "feature_bullets": [
+      "Sturdy underlay for floor surfaces and products",
+      "Recycled fiber provides safe, eco-friendly use",
+      "Moisture resistant and formaldehyde free for safe use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Formaldehyde free",
+      "Made with moisture resistant binders",
+      "100% recycled wood fiber",
+      "Sanded to 0.005 in.",
+      "Cost effective underlayment"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c2a0d14e-8f50-4488-b938-13074dbc0211/svn/enstron-particle-board-165514-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c2a0d14e-8f50-4488-b938-13074dbc0211/svn/enstron-particle-board-165514-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 90,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Particle Board"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~3/4",
+        "link": "https://www.homedepot.com/p/Enstron-3-4-in-x-4-ft-x-8-ft-Particleboard-Panel-165557/202821142",
+        "item_id": "202821142"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~1/2",
+        "link": "https://www.homedepot.com/p/Enstron-1-2-in-x-4-ft-x-8-ft-Particleboard-Panel-165514/202821140",
+        "item_id": "202821140"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~5/8",
+        "link": "https://www.homedepot.com/p/Enstron-5-8-in-x-4-ft-x-8-ft-Particleboard-Panel-165530/202821141",
+        "item_id": "202821141"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Particle Board",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Particle-Board/N-5yc1vZ2fkpa44"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

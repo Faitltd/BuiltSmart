@@ -1,0 +1,139 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14867,
+    "overage_used": 4867,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-4-in-x-16-ft-2-Standard-Grade-SPF-Dimensional-Lumber-S20402-294-16/321781036"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T20:04:08.975Z",
+    "processed_at": "2025-05-01T20:04:53.675Z",
+    "total_time_taken": 44.7,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-4-in-x-16-ft-2-Standard-Grade-SPF-Dimensional-Lumber-S20402-294-16/321781036"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-4-in-x-16-ft-2-Standard-Grade-SPF-Dimensional-Lumber-S20402-294-16/321781036",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 4 in. x 16 ft. #2 Standard Grade SPF Dimensional Lumber",
+    "upc": "090214011497",
+    "item_id": "321781036",
+    "store_sku": "1008305667",
+    "model_number": "S20402.294.16",
+    "description": "This Canadian made, Spruce-Pine-Fir Lumber dimensional untreated lumber is perfect for a wide range of structural and non-structural applications. It is light, strong, and easy to work with. This product is perfect for any framing application, or DIY project.",
+    "descriptive_attributes": [
+      "Light and strong",
+      "Easy to carry",
+      "Easy to nail",
+      "Sustainably harvested and manufactured in Canada",
+      "Perfect for any project"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/dfec2a06-e59e-4797-9012-4c38669095f6/svn/framing-lumber-s20402-294-16-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/dfec2a06-e59e-4797-9012-4c38669095f6/svn/framing-lumber-s20402-294-16-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Spruce/Pine/Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

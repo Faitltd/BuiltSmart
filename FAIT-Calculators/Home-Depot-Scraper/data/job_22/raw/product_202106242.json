@@ -1,0 +1,193 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14325,
+    "overage_used": 4325,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/TECHSHIELD-Radiant-Barrier-7-16-Application-as-4-x-8-Roof-Sheathing-Panel-39960/202106242"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:26:44.191Z",
+    "processed_at": "2025-05-01T18:26:50.333Z",
+    "total_time_taken": 6.14,
+    "homedepot_url": "https://www.homedepot.com/p/TECHSHIELD-Radiant-Barrier-7-16-Application-as-4-x-8-Roof-Sheathing-Panel-39960/202106242"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/TECHSHIELD-Radiant-Barrier-7-16-Application-as-4-x-8-Roof-Sheathing-Panel-39960/202106242",
+    "brand": "TECHSHIELD",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/TECHSHIELD/N-5yc1vZc7q5Zsiq",
+    "title": "TECHSHIELD Radiant Barrier 7/16 Application as 4' x 8' Roof Sheathing Panel",
+    "upc": "088991550353",
+    "item_id": "202106242",
+    "parent_id": "318366951",
+    "store_sku": "606859",
+    "model_number": "39960",
+    "description": "Installed in more than 1.5 million homes to date, Radiant Barrier is the industry's best-selling brand of radiant barrier sheathing. Equipped with patented VaporVents technology, this sheathing offers superior moisture resistance-and it installs like conventional roof sheathing, requiring no additional labor or installation time. Get two decades of peace-of-mind protection with a 20-year transferable limited warranty* when you choose the smart, simple way to build more energy-efficient homes.",
+    "is_top_rated": true,
+    "favorite_count": 631,
+    "aisle": "21",
+    "bay": "002",
+    "collection": {
+      "id": "Family-313974903",
+      "name": "Family-313974903",
+      "link": "https://www.homedepot.com/collection/Building-Materials/LP-Structural-Solutions/Family-313974903?omsid=202106242"
+    },
+    "feature_bullets": [
+      "Blocks up to 97% of radiant heat",
+      "Lowers attic temperature by up to 30 degrees Fahrenheit",
+      "Backed by a 20-year transferable limited warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Proven to block up to 97% of radiant heat",
+      "Helps reduce attic temperature by up to 30\u00ba F",
+      "Installs like conventional roof sheathing, requiring no additional labor",
+      "Helps meet energy codes and lower HERS scores",
+      "Patented VaporVents technology prevents moisture buildup during and after construction",
+      "Backed by a 20-year transferable limited warranty",
+      "Please remove this infographic entirely from the PIP",
+      "Note: Product may vary by store",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/Louisiana Pacific/OSB-TechShield-Radiant-Barrier-Infographic.JPG\" alt=\"techshield\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e1d2f827-44a8-4ac7-8c07-566a7828f12c/svn/techshield-sheathing-plywood-39960-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e1d2f827-44a8-4ac7-8c07-566a7828f12c/svn/techshield-sheathing-plywood-39960-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 185,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exposure 1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Rated Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "OSB"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "16/0"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "20 Years Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "95.870 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.45 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "7/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "keywords_list": [
+      "E/O 7/16 In. 4 Ft. x 8 Ft. TechShield Radiant Barrier",
+      "22493",
+      "Plywood"
+    ],
+    "keywords": "E/O 7/16 In. 4 Ft. x 8 Ft. TechShield Radiant Barrier, 22493, Plywood",
+    "variants": [
+      {
+        "title": "4 ft. x 8 ft.~~7/16",
+        "link": "https://www.homedepot.com/p/TECHSHIELD-Radiant-Barrier-7-16-Application-as-4-x-8-Roof-Sheathing-Panel-39960/202106242",
+        "item_id": "202106242"
+      },
+      {
+        "title": "4 ft. x 8 ft.~~15/32",
+        "link": "https://www.homedepot.com/p/Radiant-Barrier-15-32-Application-as-4-x-8-Roof-Sheathing-Panel-31122/202106240",
+        "item_id": "202106240"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sheathing Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sheathing-Plywood/N-5yc1vZc7q5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 18.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 106
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 3418,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

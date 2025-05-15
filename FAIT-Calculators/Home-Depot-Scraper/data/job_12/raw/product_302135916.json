@@ -1,0 +1,286 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13679,
+    "overage_used": 3679,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Windows-and-Doors-Spray-Foam-Bright-White-12-oz-Can-Insulating-Spray-Foam-Sealant-2260115/302135916"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:52.718Z",
+    "processed_at": "2025-05-01T16:53:58.169Z",
+    "total_time_taken": 5.45,
+    "homedepot_url": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Windows-and-Doors-Spray-Foam-Bright-White-12-oz-Can-Insulating-Spray-Foam-Sealant-2260115/302135916"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Windows-and-Doors-Spray-Foam-Bright-White-12-oz-Can-Insulating-Spray-Foam-Sealant-2260115/302135916",
+    "brand": "Loctite",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/Loctite/N-5yc1vZbaxjZ4ck",
+    "title": "Loctite TITE FOAM Windows and Doors Spray Foam, Bright White, 12 oz. Can, Insulating Spray Foam Sealant",
+    "upc": "079340651999",
+    "item_id": "302135916",
+    "parent_id": "311414916",
+    "store_sku": "1002554671",
+    "model_number": "2260115",
+    "description": "Loctite TITE FOAM Window and Door is a new generation of polyurethane-based insulating foam sealant that expands to fill, seal and insulate around window and door jambs. Loctite TITE FOAM is a minimal-expanding foam based on purified and concentrated ingredients that provides premium durability. Its low-pressure formula is designed to not bow or warp window or door frames. Loctite TITE FOAM Window and Door is a bright white color and offers premium durability with its high density, flexibility, strong adhesion and UV resistance. Use to seal out air and moisture to help save money on energy bills. It is easy to use and apply with its attached straw applicator and provides a quick durable seal around windows and doors. Loctite TITE FOAM has very strong adhesion to substrates, while remaining extremely flexible to move with building materials after cured.",
+    "favorite_count": 828,
+    "aisle": "26",
+    "bay": "014",
+    "collection": {
+      "id": "Family-312949805",
+      "name": "Family-312949805",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Loctite-Tite-Foam/Family-312949805?omsid=302135916"
+    },
+    "feature_bullets": [
+      "Specialized no-bow formula for window and door application",
+      "Offers premium durability and bright white color",
+      "Seals out drafts, moisture and pests"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Spray foam sealant expands to fill, seal, and insulate effectively around windows and door jambs",
+      "Low-pressure formula designed not to bow or warp window and door frames",
+      "High density foam with a uniform cell structure for durability and overall insulation",
+      "Premium durability with great flexibility that withstands building and material movement without compromising its seal",
+      "Cures to a bright white finish and withstands harsh UV rays for long lasting results",
+      "Track free in 8 minutes and trims in 50-70 minutes",
+      "Insulating foam sealant bonds to most building materials like wood, concrete, brick, stone, metal, pvc, and more",
+      "For application simply use the attached straw applicator for a quick solution."
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e7317bb7-1eb4-48ec-afda-80f7aa2b15ed/svn/loctite-spray-foam-insulation-2260115-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab524c31-b29b-48bd-88e6-fb5b73cb9477/svn/loctite-spray-foam-insulation-2260115-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1c7210db-4177-49f9-ac25-2996bd11dd4c/svn/loctite-spray-foam-insulation-2260115-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/127b1601-d460-43df-b2ba-091905912d1a/svn/loctite-spray-foam-insulation-2260115-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1297b700-cf02-4b39-b231-25ab3ea68aa4/svn/loctite-spray-foam-insulation-2260115-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3c4d944c-7f3c-4a0c-b26f-5a21f8722d40/svn/loctite-spray-foam-insulation-2260115-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/312b2fa6-e2c5-4b02-b064-a9546d117829/svn/loctite-spray-foam-insulation-2260115-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2dede710-cfaa-4fbf-a6ef-791e61a1cacc/svn/loctite-spray-foam-insulation-2260115-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/61bb59d2-270c-464c-8323-a1e6436de56b/svn/loctite-spray-foam-insulation-2260115-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2739b0d1-bb3d-4902-87b0-218fd4bc04f4/svn/loctite-spray-foam-insulation-2260115-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/87907b7a-9ca2-4909-b299-201a9a768573/svn/loctite-spray-foam-insulation-2260115-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dfd2dca3-4a32-4a83-b434-02ed545e2a3b/svn/loctite-spray-foam-insulation-2260115-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e001997f-3ff1-4a55-a6f3-f5abd727995e/svn/loctite-spray-foam-insulation-2260115-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e7317bb7-1eb4-48ec-afda-80f7aa2b15ed/svn/loctite-spray-foam-insulation-2260115-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/bc452d13-4ee1-40fd-9c4b-22c1680fedea/49522311-e861-4daf-b29d-567671d626cc/main.mp4?fastly_token=NjgxMzkxOTBfMjI1NWU1N2I2ZjViODIzZmQ3ZDM0MTVlNjg3MjUyOTY4ODk0NjAwZmU0NDhiNWI4NDU1ODY5YTFiZTE2ODJlYl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYmM0NTJkMTMtNGVlMS00MGZkLTljNGItMjJjMTY4MGZlZGVhLzQ5NTIyMzExLWU4NjEtNGRhZi1iMjlkLTU2NzY3MWQ2MjZjYy9tYWluLm1wNA%3D%3D",
+        "title": "TITE FOAM Gaps and Cracks",
+        "id": "6250840472001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/bc452d13-4ee1-40fd-9c4b-22c1680fedea/main/160x90/35s925ms/match/image.jpg",
+        "description": "short video showing product in use & description \n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/76f936f4-9792-4fb4-b415-0f17ef419dc7/0ecc2e8c-fce0-4716-a219-7603dd28d776/main.mp4?fastly_token=NjgxMzkxY2VfYmIzZGZjMmI0YzlhYjhlZmUzMDIyNTg1NGU4ZDUxNWE2NWEwZGEzZmE5MjM1MmQ3NzVhYzQzMzExOWE2YjQ3NF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNzZmOTM2ZjQtOTc5Mi00ZmI0LWI0MTUtMGYxN2VmNDE5ZGM3LzBlY2MyZThjLWZjZTAtNDcxNi1hMjE5LTc2MDNkZDI4ZDc3Ni9tYWluLm1wNA%3D%3D",
+        "title": "Insulation Weatherizing",
+        "id": "6280130656001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/76f936f4-9792-4fb4-b415-0f17ef419dc7/e3d521d6-d7fe-4bd0-88b9-8073b0533ba7/160x90/match/image.jpg",
+        "description": "How to and product informational\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/67022f83-4394-4310-956a-2a01570997ba/ccb9cf8c-24ff-46b4-a786-eb121754507c/main.mp4?fastly_token=NjgxMzkxNGVfZDkwZDY4MDg3MDY2NTkxNmJkOGVkNDg5MWVhM2ViZGUyMjJhNDIzYTViYTUwNWFjMTIxM2I1MjY3ZThmOWRhM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjcwMjJmODMtNDM5NC00MzEwLTk1NmEtMmEwMTU3MDk5N2JhL2NjYjljZjhjLTI0ZmYtNDZiNC1hNzg2LWViMTIxNzU0NTA3Yy9tYWluLm1wNA%3D%3D",
+        "title": "Loctite-2nd-Chance-2023-Campaign---Attic-15sec-Regular-Pro-Res.mp4.mp4",
+        "id": "6340242072112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/67022f83-4394-4310-956a-2a01570997ba/main/160x90/7s541ms/match/image.jpg",
+        "description": "Say Yes to 2nd Chance\n"
+      }
+    ],
+    "ratings_total": 689,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Compatible Install Surface",
+        "value": "Cement,Concrete,Copper Pipes,Existing Drywall,Existing Insulation,Fiberglass,Metal,PVC/CPVC Pipes,Pex Pipes,Plywood,Tile Flooring,Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "60 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Install Temperature (F)",
+        "value": "23-95"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Features",
+        "value": "Paintable,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value",
+        "value": "R4.5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation R-Value per Inch",
+        "value": "R4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Insulation Type",
+        "value": "Spray Foam Insulation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "10.56 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (oz.)",
+        "value": "14.11 oz"
+      },
+      {
+        "group_name": "Details",
+        "name": "Remote Access",
+        "value": "No Remote Access"
+      },
+      {
+        "group_name": "Details",
+        "name": "Requires Hub?",
+        "value": "No Hub Required"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Warranty Information",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Cover Area Per Bag (sq. ft.)",
+        "value": "5 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "5 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "200 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "65 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "12",
+        "link": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Windows-and-Doors-12-oz-Bright-White-Insulating-Spray-Foam-Sealant-12-pack-2260115/304817177",
+        "item_id": "304817177"
+      },
+      {
+        "title": "1",
+        "link": "https://www.homedepot.com/p/Loctite-TITE-FOAM-Windows-and-Doors-Spray-Foam-Bright-White-12-oz-Can-Insulating-Spray-Foam-Sealant-2260115/302135916",
+        "item_id": "302135916"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation/N-5yc1vZasbs"
+      },
+      {
+        "name": "Spray Foam Insulation",
+        "link": "https://www.homedepot.com/b/Building-Materials-Insulation-Spray-Foam-Insulation/N-5yc1vZbaxj"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 276
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 306,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13599,
+    "overage_used": 3599,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Kelleher-LWM-623-9-16-in-x-3-1-4-in-Pine-Base-Moulding-P221/327543668"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:50:55.545Z",
+    "processed_at": "2025-05-01T16:51:03.897Z",
+    "total_time_taken": 8.35,
+    "homedepot_url": "https://www.homedepot.com/p/Kelleher-LWM-623-9-16-in-x-3-1-4-in-Pine-Base-Moulding-P221/327543668"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Kelleher-LWM-623-9-16-in-x-3-1-4-in-Pine-Base-Moulding-P221/327543668",
+    "brand": "Kelleher",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Kelleher/N-5yc1vZcbjpZ4z5",
+    "title": "Kelleher LWM 623 9/16 in. x 3-1/4 in. Pine Base Moulding",
+    "upc": "099443001699",
+    "item_id": "327543668",
+    "parent_id": "327768264",
+    "store_sku": "927422",
+    "model_number": "P221",
+    "description": "Kelleher 3-1/4 in. x 9/16 in. primed pine coronado base moulding is manufactured with defect-free lumber to prevent twisting or warping. The wood has a continuous grain and creates a detailed look. It covers the seams between walls and floors.",
+    "aisle": "FW",
+    "bay": "017",
+    "feature_bullets": [
+      "Made of defect-free finger-jointed pinewood to ensure durability",
+      "Customizable with paint or varnish to match any color scheme",
+      "Ideal for covering gaps between walls and floors"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finger-jointed pine is manufactured with defect-free lumber to prevent twisting or warping",
+      "Can be painted or varnished to any color",
+      "Apply where floors meet walls to cover up gaps and create a detailed look",
+      "Sold by the lineal foot"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/15cb2408-5922-4cad-983b-37788c453393/svn/unfinished-kelleher-baseboard-p221-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0835db1b-a116-494e-b0ba-e5990624978e/svn/unfinished-kelleher-baseboard-p221-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/15cb2408-5922-4cad-983b-37788c453393/svn/unfinished-kelleher-baseboard-p221-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Unfinished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "221"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Unfinished~~1 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-LWM-623-9-16-in-x-3-1-4-in-Pine-Base-Moulding-P221/327543668",
+        "item_id": "327543668"
+      },
+      {
+        "title": "Unfinished~~12 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Kelleher-LWM623-9-16-in-x-3-1-4-in-Pine-Base-Moulding-P221/202071652",
+        "item_id": "202071652"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.09,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 999
+        }
+      }
+    }
+  }
+}

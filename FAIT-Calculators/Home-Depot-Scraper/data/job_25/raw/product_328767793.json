@@ -1,0 +1,198 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14857,
+    "overage_used": 4857,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-12-in-x-26-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101526/328767793"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:55:08.181Z",
+    "processed_at": "2025-05-01T19:55:51.717Z",
+    "total_time_taken": 43.54,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-12-in-x-26-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101526/328767793"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-12-in-x-26-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101526/328767793",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 12 in. x 26 ft. GDF #2 Standard Grade Dimensional Lumber",
+    "upc": "099167249452",
+    "item_id": "328767793",
+    "parent_id": "330800450",
+    "store_sku": "1010870778",
+    "model_number": "0101526",
+    "description": "The Better Douglas Green Fir Lumber has versatile applications and is easy to work with. Use it for your framing applications or for floor joists, truss work and wall panels. It also makes great use in stair components. The lumber material ensures minimum waning and warping. Easy to paint, stain and cut, these fir lumber units are a perfect choice if you are looking for consistent appearance and efficient utilization.",
+    "feature_bullets": [
+      "Ideal for framing, wall panels and stair components",
+      "Made of Douglas Fir wood to ensure durability",
+      "Paintable or stainable surface allows customized use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Measures 2 in. x 6 in. x 24 ft.",
+      "Easy to stain, paint and cut to help serve a variety of purposes",
+      "Ensures premium, consistent look and minimum wastage",
+      "Ideal choice for framing applications as well as wall panels, floor joists, roof trusses and stair components",
+      "Cut and shape with regular woodworking tools"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b3361e02-d8fd-4567-b412-a554c677032d/svn/framing-lumber-0101526-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b3361e02-d8fd-4567-b412-a554c677032d/svn/framing-lumber-0101526-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Stainable,Untreated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 & Btr;S4S"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Douglas Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "26 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product H x W (In.)",
+        "value": "2x12"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "26 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "24 ft~~2x10",
+        "link": "https://www.homedepot.com/p/2-in-x-10-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101424/327124127",
+        "item_id": "327124127"
+      },
+      {
+        "title": "8 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-8-ft-2-Premium-Grade-Fir-Dimensional-Lumber-707195/206182075",
+        "item_id": "206182075"
+      },
+      {
+        "title": "26 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-26-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101326/328767963",
+        "item_id": "328767963"
+      },
+      {
+        "title": "28 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-28-ft-2-and-BTR-S4S-Green-Douglas-Fir-Dimensional-Lumber-0101228/327808639",
+        "item_id": "327808639"
+      },
+      {
+        "title": "26 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-26-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101226/327125592",
+        "item_id": "327125592"
+      },
+      {
+        "title": "24 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101524/327128232",
+        "item_id": "327128232"
+      },
+      {
+        "title": "26 ft~~2x12",
+        "link": "https://www.homedepot.com/p/2-in-x-12-in-x-26-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101526/328767793",
+        "item_id": "328767793"
+      },
+      {
+        "title": "24 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101324/327128548",
+        "item_id": "327128548"
+      },
+      {
+        "title": "22 ft~~2x8",
+        "link": "https://www.homedepot.com/p/2-in-x-8-in-x-22-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101322/327127602",
+        "item_id": "327127602"
+      },
+      {
+        "title": "24 ft~~2x6",
+        "link": "https://www.homedepot.com/p/2-in-x-6-in-x-24-ft-GDF-2-Standard-Grade-Dimensional-Lumber-0101224/327125025",
+        "item_id": "327125025"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14747,
+    "overage_used": 4747,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/USG-Ceilings-2-ft-x-2-ft-Alpine-White-Shadowline-Tapered-Edge-Lay-In-Ceiling-Tile-case-of-16-64-sq-ft-1004/203625004"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:08:48.761Z",
+    "processed_at": "2025-05-01T19:09:02.629Z",
+    "total_time_taken": 13.87,
+    "homedepot_url": "https://www.homedepot.com/p/USG-Ceilings-2-ft-x-2-ft-Alpine-White-Shadowline-Tapered-Edge-Lay-In-Ceiling-Tile-case-of-16-64-sq-ft-1004/203625004"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/USG-Ceilings-2-ft-x-2-ft-Alpine-White-Shadowline-Tapered-Edge-Lay-In-Ceiling-Tile-case-of-16-64-sq-ft-1004/203625004",
+    "brand": "USG Ceilings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Ceilings-Ceiling-Tiles-Drop-Ceiling-Tiles/USG-Ceilings/N-5yc1vZc58cZ1ji",
+    "title": "USG Ceilings 2 ft. x 2 ft. Alpine White Shadowline Tapered Edge Lay-In Ceiling Tile, case of 16 (64 sq. ft.)",
+    "upc": "081098011659",
+    "item_id": "203625004",
+    "parent_id": "314802054",
+    "store_sku": "801448",
+    "model_number": "1004",
+    "description": "Simple to install and easy to clean, USG Alpine Acoustical Ceiling Tiles offer exceptional light reflectance and sound control qualities. These durable, medium-textured tiles are ideal for use in an array of ceiling jobs such as department stores, boutiques, traditional offices, classrooms, and administrative offices.With ClimaPlus PerformanceUSG's line of products with ClimaPlus Performance have enhanced resistance to temperature and humidity. This in turn provides additional resistance to sagging and warping of the ceiling tiles. The ClimaPlus 30-year limited system warranty protects against visible sag, mold, and mildew.",
+    "favorite_count": 79,
+    "aisle": "26",
+    "bay": "006",
+    "collection": {
+      "id": "Family-315196395",
+      "name": "Family-315196395",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Acoustical-Panels-and-Grid/Family-315196395?omsid=203625004"
+    },
+    "feature_bullets": [
+      "Medium-textured, durable ceiling tiles",
+      "Easy to install, saving time and money",
+      "ClimaPlus 30-year limited system warranty against visible sag"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Moisture, mold, and sag resistant",
+      "High light reflectance minimizes eyestrain and energy costs",
+      "Good sound absorption",
+      "Wet-formed mineral fiber substrate",
+      "Class A fire resistance",
+      "GREENGUARD Gold certified for low-emitting performance",
+      "USDA Certified Biobased Product",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Ceilings-Ceiling-Tiles/USG-Ceilings/N-5yc1vZc58lZ1ji\" target=\"_blank\">Click here to shop more USG Ceiling Tiles</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/671dceec-b37b-4ef2-8d67-65239adb431d/svn/white-usg-ceilings-drop-ceiling-tiles-1004-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a7899d0b-a3d6-4ce5-af62-b951cfab530e/svn/white-usg-ceilings-drop-ceiling-tiles-1004-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/42042ebc-fbfb-4f79-908a-a1983d6c9560/svn/white-usg-ceilings-drop-ceiling-tiles-1004-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5dd3487d-f95e-47f8-8455-e5489e7d3ea6/svn/white-usg-ceilings-drop-ceiling-tiles-1004-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/683f1c96-0b04-4383-a047-3bde07a6a085/svn/white-usg-ceilings-drop-ceiling-tiles-1004-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/83fe0a79-bc35-420c-82b2-f2963b765b64/svn/white-usg-ceilings-drop-ceiling-tiles-1004-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d1dd03ce-0e5a-4eb6-b3b8-56da7331618e/svn/white-usg-ceilings-drop-ceiling-tiles-1004-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9e17bd1d-d9c8-4eec-842a-403d67457264/svn/white-usg-ceilings-drop-ceiling-tiles-1004-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/671dceec-b37b-4ef2-8d67-65239adb431d/svn/white-usg-ceilings-drop-ceiling-tiles-1004-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/88a4e452-cc9a-481a-aca1-377146ba742a/7eb87d1b-3551-4b6d-ac5d-7e512e193de1/main.mp4?fastly_token=NjgzODM1OTFfMTIyNDNkM2FhNDczMzlkY2FjYzM2YTYxMGU4ZGNmNGI0ZWNjYTY4YTU1NzcxNjU5MmE5MDZiNTRhZTZkM2IwYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS84OGE0ZTQ1Mi1jYzlhLTQ4MWEtYWNhMS0zNzcxNDZiYTc0MmEvN2ViODdkMWItMzU1MS00YjZkLWFjNWQtN2U1MTJlMTkzZGUxL21haW4ubXA0&pubid=66036796001",
+        "title": "USG Ceilings Selection - Installation and Edge Style",
+        "id": "4102756212001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/88a4e452-cc9a-481a-aca1-377146ba742a/f0e0c506-583f-4855-aaeb-d3036ef6f868/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Video shows USG ceiling selection based upon installation type and edge style."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/218726d1-ba69-4874-83ce-743e7749f3bb/32a98baa-2664-4fab-9fb9-8df7498b0e0b/main.mp4?fastly_token=NjgzODNkNjlfZjI2NTQxNTU5OWQxZTEyMmYxZDQ1NDlmYjQyOTAzOWZlYTNkNDdiYWY2MzgxZDg5MThjZjBkYjA0YTY1OGY5OV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yMTg3MjZkMS1iYTY5LTQ4NzQtODNjZS03NDNlNzc0OWYzYmIvMzJhOThiYWEtMjY2NC00ZmFiLTlmYjktOGRmNzQ5OGIwZTBiL21haW4ubXA0&pubid=66036796001",
+        "title": "USG Ceiling Selection - Performance Features",
+        "id": "4102762538001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/218726d1-ba69-4874-83ce-743e7749f3bb/b68c3c65-da06-4637-bd3c-a9535a88d796/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Video of USG ceiling selection based upon desired performance features."
+      }
+    ],
+    "ratings_total": 153,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Ceiling Tile Style",
+        "value": "Textured"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial/Residential",
+        "value": "Commercial"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Detail",
+        "value": "Tegular"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Acoustic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Fiberboard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Noise Reduction Coefficient",
+        "value": "0.55"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "Case"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "16"
+      },
+      {
+        "group_name": "Details",
+        "name": "Weight (lb.)",
+        "value": "66"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "The ClimaPlus 30-year Limited System Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Size (ft.)",
+        "value": "2 x 2 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "9.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "23.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Thickness (in.)",
+        "value": "0.625"
+      }
+    ],
+    "keywords_list": [
+      "USG Ceilings",
+      "Alpine 2 ft. x 2 ft. Lay-in Ceiling Tile (16-Pack)",
+      "1004"
+    ],
+    "keywords": "USG Ceilings, Alpine 2 ft. x 2 ft. Lay-in Ceiling Tile (16-Pack), 1004",
+    "variants": [
+      {
+        "title": "White~~2 x 2 ft~~256",
+        "link": "https://www.homedepot.com/p/USG-Ceilings-2-ft-x-2-ft-Alpine-White-Shadowline-Tapered-Edge-Lay-In-Ceiling-Tile-pallet-of-256-1024-sq-ft-1004/203625285",
+        "item_id": "203625285"
+      },
+      {
+        "title": "White~~2 x 2 ft~~4",
+        "link": "https://www.homedepot.com/p/USG-Ceilings-2-ft-x-2-ft-Alpine-White-Shadowline-Tapered-Edge-Lay-In-Ceiling-Tile-case-of-4-16-sq-ft-1004/203170981",
+        "item_id": "203170981"
+      },
+      {
+        "title": "White~~2 x 2 ft~~16",
+        "link": "https://www.homedepot.com/p/USG-Ceilings-2-ft-x-2-ft-Alpine-White-Shadowline-Tapered-Edge-Lay-In-Ceiling-Tile-case-of-16-64-sq-ft-1004/203625004",
+        "item_id": "203625004"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Ceilings",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ceilings/N-5yc1vZc58i"
+      },
+      {
+        "name": "Ceiling Tiles",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ceilings-Ceiling-Tiles/N-5yc1vZc58l"
+      },
+      {
+        "name": "Drop Ceiling Tiles",
+        "link": "https://www.homedepot.com/b/Building-Materials-Ceilings-Ceiling-Tiles-Drop-Ceiling-Tiles/N-5yc1vZc58c"
+      }
+    ],
+    "buybox_winner": {
+      "price": 75.95,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 22
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 22,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

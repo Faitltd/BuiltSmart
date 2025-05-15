@@ -1,0 +1,282 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14810,
+    "overage_used": 4810,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-16-ft-2-Prime-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253920/206967809"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:31:40.327Z",
+    "processed_at": "2025-05-01T19:31:44.533Z",
+    "total_time_taken": 4.21,
+    "homedepot_url": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-16-ft-2-Prime-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253920/206967809"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-16-ft-2-Prime-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253920/206967809",
+    "brand": "WeatherShield",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/WeatherShield/N-5yc1vZc3srZ4l6",
+    "title": "WeatherShield 2 in. x 4 in. x 16 ft. 2 Prime Ground Contact Pressure-Treated Southern Yellow Pine Lumber",
+    "upc": "090489439262",
+    "item_id": "206967809",
+    "parent_id": "304672999",
+    "store_sku": "1001753869",
+    "model_number": "253920",
+    "description": "Pressure-Treated Pine meets the highest grading standards for strength and appearance. This double treated Ground Contact lumber must be used for applications where treated lumber is difficult to maintain, repair or replace. Treated lumber is critical to the performance and safety of an entire system or construction such as deck joists, beams and ledger boards. An additional benefit of treated lumber is its defense against rot and insect infestation for its vast majority of applications. Southern yellow pine is responsibly manufactured, safe, and environmentally friendly when used as directed.Treated wood is typically still wet when it's delivered to The Home Depot or job site. As it dries, you should expect slight changes in width and length. As lumber dries, it may split, cup and warp. This is more likely to occur to occur in lower-grade boards, where knots and uneven grains are already present. Each piece of lumber is unique and carries physical characteristics that may include the following: knots, warping, shrinkage, swelling and/or splitting.",
+    "favorite_count": 1109,
+    "aisle": "22",
+    "bay": "004",
+    "feature_bullets": [
+      "2X the protection compared to Above Ground treatment",
+      "Treated for protection against fungal decay, rot and termites",
+      "Ideal for decks, walkways, landscaping and outdoor wood projects"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of southern yellow pine",
+      "Ground Contact treated lumber can be used in both Above Ground and Ground Contact exterior applications",
+      "Backed by a lifetime limited warranty against termite infestation and rot",
+      "2 in. x 6 in. x 10 ft.",
+      "Must use Ground Contact pressure treated lumber where lumber is at risk for poor air circulation, less than six inches from the ground, or has poor or no water drainage below the structure",
+      "#2 grade lumber has few defects, knots are well-spaced and do not exceed the size regulations.",
+      "Ideal for a variety of general uses including exposed structures, sill plates, decks, docks, ramps and other outdoor applications",
+      "Uniform thickness, density and appearance for stable and long lasting performance",
+      "Hot-dip galvanized fasteners are recommended",
+      "Individual pieces of pressure treated lumber will reference Ground Contact on the end tag",
+      "WeatherShield includes water repellant in the treatment process",
+      "No two pieces of lumber are the same.",
+      "Color, grain pattern and texture will vary as well.",
+      "Prime grade lumber is the perfect choice if appearance is the main concern with your lumber project",
+      "Prime grade lumber has fewer knots and an overall better appearance",
+      "Prime grade lumber can be used for deck boards, fence panels",
+      "<a href=\"https://www.homedepot.com/b/Featured-Products-Complete-the-Project-Decking/N-5yc1vZ2fkotch\" target=\"_blank\" style=\"color:#F96302;\">Find everything you need to complete your decking project here</a>",
+      "Note: product may vary by store",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/UNIVERSAL FOREST PRODUCT/PT_Wood End Use Guide Poster 36x24 1_191.jpg\">",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-stain-pressure-treated-wood/9ba683603be9fa5395fab9014d4485af\">How to Stain Pressure Treated Wood</a>"
+    ],
+    "descriptive_attributes_count": 20,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a22898ff-c8e5-4dcc-89c8-1b03a7b8b8d4/svn/brown-weathershield-pressure-treated-lumber-253920-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/39529640-d57c-4863-b773-bb3b847d5504/svn/brown-weathershield-pressure-treated-lumber-253920-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a1c8ebe5-7bc0-46ef-8e3e-ad8a57c4ddf4/svn/brown-weathershield-pressure-treated-lumber-253920-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0cbb62b6-5281-4d9e-823f-955036f32c48/svn/brown-weathershield-pressure-treated-lumber-253920-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a779cf4b-1cc9-4cf9-a7ec-187163d0c51a/svn/brown-weathershield-pressure-treated-lumber-253920-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a779cf4b-1cc9-4cf9-a7ec-187163d0c51a/svn/brown-weathershield-pressure-treated-lumber-253920-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9519187f-430e-40f8-8611-c8c10345dac7/svn/brown-weathershield-pressure-treated-lumber-253920-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92190a79-3525-4f68-97e1-da9c37a1aa04/svn/brown-weathershield-pressure-treated-lumber-253920-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/147adc13-c01f-4536-8701-1aa721b583a9/svn/brown-weathershield-pressure-treated-lumber-253920-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c1a551bf-683f-4bac-af41-8363b6818415/svn/brown-weathershield-pressure-treated-lumber-253920-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/59fdaa05-451b-42dc-850d-82ecf4de79e0/svn/brown-weathershield-pressure-treated-lumber-253920-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a22898ff-c8e5-4dcc-89c8-1b03a7b8b8d4/svn/brown-weathershield-pressure-treated-lumber-253920-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmJfNzRmYTg1NGQ0OTZmNWZkZjE4OGNkYTQwMzk1YWNlMTA0ZDM4MTlkNjhmOTdmOTY5NzNhMGQ3MzNhM2Q3MDVmMl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 1991,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chemical retention (lb./cu. ft.)",
+        "value": "0.15 lb/ft3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Galvanized Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Pressure Treated,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 prime"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Southern Yellow Pine"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pressure Treatment Chemical",
+        "value": "MCA - Micronized Copper Azole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Southern Pine"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Lifetime Limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "keywords_list": [
+      "2 In. x 4 In. x 16 Ft. #2 Prime Pressure Treated Lumber",
+      "2x4"
+    ],
+    "keywords": "2 In. x 4 In. x 16 Ft. #2 Prime Pressure Treated Lumber, 2x4",
+    "variants": [
+      {
+        "title": "14 ft~~Brown",
+        "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-14-ft-2-Prime-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253920/206966022",
+        "item_id": "206966022"
+      },
+      {
+        "title": "6 ft~~Brown",
+        "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-6-ft-2-Prime-Pine-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253920/206967815",
+        "item_id": "206967815"
+      },
+      {
+        "title": "12 ft~~Brown",
+        "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-12-ft-2-Prime-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253920/206967813",
+        "item_id": "206967813"
+      },
+      {
+        "title": "8 ft~~Brown",
+        "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-8-ft-2-Prime-Ground-Contact-Pressure-Treated-Lumber-253920/206967811",
+        "item_id": "206967811"
+      },
+      {
+        "title": "16 ft~~Brown",
+        "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-16-ft-2-Prime-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253920/206967809",
+        "item_id": "206967809"
+      },
+      {
+        "title": "10 ft~~Brown",
+        "link": "https://www.homedepot.com/p/WeatherShield-2-in-x-4-in-x-10-ft-2-Prime-Ground-Contact-Pressure-Treated-Southern-Yellow-Pine-Lumber-253920/206967803",
+        "item_id": "206967803"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Pressure Treated Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/N-5yc1vZc3sr"
+      }
+    ],
+    "buybox_winner": {
+      "price": 13.38,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 146
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 2065,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

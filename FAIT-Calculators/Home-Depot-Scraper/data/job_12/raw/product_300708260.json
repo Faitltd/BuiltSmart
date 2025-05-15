@@ -1,0 +1,139 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13859,
+    "overage_used": 3859,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Mendocino-Forest-Products-2-in-x-4-in-x-8-ft-Primed-Redwood-S1S2E-Finger-Joint-Trim-Board-Actual-1-375-in-x-3-37-in-x-96-in-11720-08/300708260"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:03:37.470Z",
+    "processed_at": "2025-05-01T17:04:24.842Z",
+    "total_time_taken": 47.37,
+    "homedepot_url": "https://www.homedepot.com/p/Mendocino-Forest-Products-2-in-x-4-in-x-8-ft-Primed-Redwood-S1S2E-Finger-Joint-Trim-Board-Actual-1-375-in-x-3-37-in-x-96-in-11720-08/300708260"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Mendocino-Forest-Products-2-in-x-4-in-x-8-ft-Primed-Redwood-S1S2E-Finger-Joint-Trim-Board-Actual-1-375-in-x-3-37-in-x-96-in-11720-08/300708260",
+    "brand": "Mendocino Forest Products",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/Mendocino-Forest-Products/N-5yc1vZc55wZf8n",
+    "title": "Mendocino Forest Products 2 in. x 4 in. x 8 ft. Primed Redwood S1S2E Finger-Joint Trim Board (Actual: 1.375 in. x 3.37 in. x 96 in.)",
+    "upc": "737164200167",
+    "item_id": "300708260",
+    "store_sku": "1002227696",
+    "model_number": "11720-08",
+    "description": "Every piece meets the highest grading standards for strength and appearance. This lumber is for a wide range of uses from framing of houses to basic interior finishing applications. Boards can also be used for carpentry, hobbies, furniture, shelving.",
+    "favorite_count": 6,
+    "feature_bullets": [
+      "Meets highest grading standards for strength and appearance",
+      "Easy to cut, fasten and paint, perfect for many building projects",
+      "Ideal for framing, houses, sheds, and other structures"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Pre-primed and ready for use",
+      "Commercial and residential Use",
+      "Variety of applications",
+      "Finger jointed redwood",
+      "S1S2E finish offers the versatility of having a choice in the face finish of rough or smooth"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2a5a71df-1342-41d2-bdac-3b41c4698caa/svn/mendocino-forest-products-framing-lumber-11720-08-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2a5a71df-1342-41d2-bdac-3b41c4698caa/svn/mendocino-forest-products-framing-lumber-11720-08-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 7,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Paintable,Primed,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "Clear Structural"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Redwood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Redwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.44 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "3.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Dimensional Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber/N-5yc1vZc3tc"
+      },
+      {
+        "name": "Framing Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Dimensional-Lumber-Framing-Lumber/N-5yc1vZc55w"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

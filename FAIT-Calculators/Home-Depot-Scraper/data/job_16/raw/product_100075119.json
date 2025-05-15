@@ -1,0 +1,426 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14167,
+    "overage_used": 4167,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/RIDGID-Fine-Dust-Pleated-Paper-Wet-Dry-Vac-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-1-Pack-VF5000/100075119"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:59:44.609Z",
+    "processed_at": "2025-05-01T17:59:49.810Z",
+    "total_time_taken": 5.2,
+    "homedepot_url": "https://www.homedepot.com/p/RIDGID-Fine-Dust-Pleated-Paper-Wet-Dry-Vac-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-1-Pack-VF5000/100075119"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/RIDGID-Fine-Dust-Pleated-Paper-Wet-Dry-Vac-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-1-Pack-VF5000/100075119",
+    "brand": "RIDGID",
+    "brand_link": "https://www.homedepot.com/b/Tools-Shop-Vacuums-Shop-Vacuum-Filters/RIDGID/N-5yc1vZ2fkp9pyZ18g",
+    "title": "RIDGID Fine Dust Pleated Paper Wet Dry Vac Shop Vacuum Filter Replacement for Most 5-16 Gallon RIDGID Wet Dry Vacs (1-Pack)",
+    "upc": "648846001272",
+    "item_id": "100075119",
+    "parent_id": "300618276",
+    "store_sku": "335151",
+    "model_number": "VF5000",
+    "description": "The RIDGID fine dust pleated paper filter is designed for your RIDGID wet dry vacuum (5 gal. and larger) to capture fine dust and traps particles such as mold, fine powders and cool fireplace ash. The replacement shop vac fine dust filter can be washed and, if dried properly, reused. Changing shop vac filters often is strongly recommended to increase the vac's performance and to help extend wet dry vacuum life as it protects the motor from harmful dust and debris.  This product offers one fine dust filter that fits all RIDGID wet dry shop vacs 5 gal. and larger and should only be used for dry pickup. With its patented Qwik Lock feature, the filter simply snaps on or off the shop vacuum for easy cleaning and to quickly switch filter options. RIDGID provides other filtration offerings, including VF6000 HEPA Material Filter (sold separately), VF7000 Wet Filter (sold separately), and VF8000 HEPA Filter (sold separately), depending on the job application and type of cleanup mess.  Also, a range of value pack sizes (2-count, 4-count, 8-count and 16-count) are available to accommodate a variety of project needs.",
+    "is_bestseller": true,
+    "favorite_count": 2597,
+    "aisle": "13",
+    "bay": "011",
+    "feature_bullets": [
+      "Fits most RIDGID wet dry vacuums 5 gal. or larger",
+      "Durable shop vacuum filter captures mold and fine powders",
+      "Replace your filter often to get optimal shop vacuum performance"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Includes 1 RIDGID fine dust wet/dry shop vacuum replacement filter to help capture particles that could harm the motor and decrease performance \u2013 dry pickup only",
+      "Fits most RIDGID wet dry vacuums 5 gal. or larger",
+      "Not compatible with RIDGID ash and grilling vacuum (HDAV0500)",
+      "Replacement fine dust wet/dry vacuum filter ideal for capturing mold, cold ashes, and fine powders",
+      "Patented Qwik Lock filter makes installing or removing your shop vac filter quick, easy, and secure - no tools or hardware needed",
+      "Pleated paper filters can be washed and can be reused if dried properly",
+      "RIDGID always recommends the use of a cartridge filter for dry pickup and to replace filters often for optimal vacuum performance and to prolong the life of the vac",
+      "RIDGID offers a range of dry mess filtration options: RIDGID VF4000 general debris filter (sold separately), VF5000 fine dust filter, VF6000 HEPA material filter (sold separately), and a wet/dry mess filtration option: VF8000 HEPA filter (sold separately)",
+      "If picking up wet debris, RIDGID recommends the wet application filter (VF7000; sold separately)",
+      "RIDGID also offers a line of shop vac dust collection bags which can assist with debris containment and allow easy debris disposal for select 5-10 gal. vacuums (VF3503; sold separately) and select 12-16 gal. vacuums (VF3502, VF3602, VF3702; sold separately)",
+      "Also available in a 2-count, 4-count, 8-count, and 16-count so you can always have a filter when your project calls for it"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/55bd60e7-72eb-44c2-90bd-3dd090829747/svn/ridgid-shop-vacuum-attachments-vf5000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f5c4017c-301b-4aa0-a818-2ad1f8717328/svn/ridgid-shop-vacuum-attachments-vf5000-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7dfe975e-cbf8-42e1-9db9-2c2cf297602c/svn/ridgid-shop-vacuum-attachments-vf5000-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b5daf089-76fc-4189-a483-f28777067775/svn/ridgid-shop-vacuum-attachments-vf5000-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f9e226fd-5bf5-4d40-a0fd-41f8fb46f7fc/svn/ridgid-shop-vacuum-attachments-vf5000-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1f7166dc-8a75-4677-b3fa-29ddc7766ce6/svn/ridgid-shop-vacuum-attachments-vf5000-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1ea958ac-cf60-458f-b631-064a5c756de3/svn/ridgid-shop-vacuum-attachments-vf5000-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e76ae84a-17ba-46e4-b1fb-40ed202eb42b/svn/ridgid-shop-vacuum-attachments-vf5000-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0d9860fd-f211-4e30-8cf9-e1a90513f12a/svn/ridgid-shop-vacuum-attachments-vf5000-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f080dc57-35eb-4947-87b2-7b9880365729/svn/ridgid-shop-vacuum-attachments-vf5000-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/485cd68b-a98b-452d-8e20-d378dc56105d/svn/ridgid-shop-vacuum-attachments-vf5000-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bb5f02a8-e466-4b26-b204-35a6224048ac/svn/ridgid-shop-vacuum-attachments-vf5000-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/57245a22-fe5f-424a-b667-cd6b130a469a/svn/ridgid-shop-vacuum-attachments-vf5000-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/21794649-98fc-40f1-9445-0afe1b27f51f/svn/ridgid-shop-vacuum-attachments-vf5000-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/363326c4-a54b-49bf-899e-ad1d2cc5bbb9/svn/ridgid-shop-vacuum-attachments-vf5000-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/55bd60e7-72eb-44c2-90bd-3dd090829747/svn/ridgid-shop-vacuum-attachments-vf5000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/8f263a16-69a7-438d-b275-573d3910da00/769f4966-2e1d-446d-addd-03ea44ac9674/main.mp4?fastly_token=NjgzODIyNjBfMWI5MDkxOTg1NDhhMWFjZGYzNjNlYTU3OTU4YjE2NGJjMjk0NTE2ZDhiMzAyZjc1MTYyMjJhYTgwYzAxM2E2MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS84ZjI2M2ExNi02OWE3LTQzOGQtYjI3NS01NzNkMzkxMGRhMDAvNzY5ZjQ5NjYtMmUxZC00NDZkLWFkZGQtMDNlYTQ0YWM5Njc0L21haW4ubXA0&pubid=66036796001",
+        "title": "RIDGID Full Height Filter Video",
+        "id": "6339407800112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/8f263a16-69a7-438d-b275-573d3910da00/main/160x90/31s797ms/match/image.jpg?pubId=66036796001",
+        "description": "Capture debris with RIDGID filters for any project or job.  Replace your RIDGID filter for optimal vacuum performance. Compatible with most 5-16 gallon RIDGID vacs. Choose the one that is right for your cleaning needs."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 9773,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Appliance Category",
+        "value": "Appliance Parts"
+      },
+      {
+        "group_name": "Details",
+        "name": "Brand Compatibility",
+        "value": "RIDGID"
+      },
+      {
+        "group_name": "Details",
+        "name": "Brand/Model Compatibility",
+        "value": "RIDGID Wet/Dry Shop Vacuums"
+      },
+      {
+        "group_name": "Details",
+        "name": "Debris Type",
+        "value": "Cold Ashes,Dust Mites,Fine Powders,General Debris,Mold,Pollens,Sawdust"
+      },
+      {
+        "group_name": "Details",
+        "name": "Filter Material",
+        "value": "Paper"
+      },
+      {
+        "group_name": "Details",
+        "name": "Filter Type",
+        "value": "Cartridge"
+      },
+      {
+        "group_name": "Details",
+        "name": "Filter Use",
+        "value": "Fine Dust Filter"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included Accessories",
+        "value": "No additional accessories included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Model Compatibility",
+        "value": "Fits RIDGID Wet/Dry Shop Vacuums 5 Gal. and Larger"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tools Product Type",
+        "value": "Vacuum"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wet/Dry Attachment & Accessory Type",
+        "value": "Vacuum Filter Cartridge"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "7.3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "7.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "9.3 in"
+      }
+    ],
+    "keywords_list": [
+      "3-Layer Pleated Paper filter",
+      "wet/dry filter",
+      "filters",
+      "wet/dry filters",
+      "vacuum",
+      "wet/dry vacuum",
+      "vacuums",
+      "wet/dry vacuums",
+      "RIDGID filter",
+      "RIDGID filters",
+      "RIDGID vacuum",
+      "RIDGID vacuums vacum vaccum cleaner parts",
+      "hepa upright hand held steam vacuum"
+    ],
+    "keywords": "3-Layer Pleated Paper filter, wet/dry filter, filters, wet/dry filters, vacuum, wet/dry vacuum, vacuums, wet/dry vacuums, RIDGID filter, RIDGID filters, RIDGID vacuum, RIDGID vacuums vacum vaccum cleaner parts, hepa upright hand held steam vacuum",
+    "variants": [
+      {
+        "title": "8~~Wet Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Wet-Debris-Application-Foam-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Shop-Vacuums-8-Pack-VF7000G/318558397",
+        "item_id": "318558397"
+      },
+      {
+        "title": "4~~HEPA Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Pleated-HEPA-Replacement-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-4-Pack-VF8000B/327195715",
+        "item_id": "327195715"
+      },
+      {
+        "title": "16~~Fine Dust Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Fine-Dust-Pleated-Paper-Wet-Dry-Vac-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-16-Pack-VF5200C/318552767",
+        "item_id": "318552767"
+      },
+      {
+        "title": "4~~Wet Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Wet-Debris-Application-Foam-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Shop-Vacuums-4-Pack-VF7000F/318558388",
+        "item_id": "318558388"
+      },
+      {
+        "title": "8~~Fine Dust Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Fine-Dust-Pleated-Paper-Wet-Dry-Vac-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-8-Pack-VF5200B/318552752",
+        "item_id": "318552752"
+      },
+      {
+        "title": "1~~General Dirt Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-General-Debris-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-1-Pack-VF4000/100021159",
+        "item_id": "100021159"
+      },
+      {
+        "title": "8~~HEPA Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Pleated-HEPA-Replacement-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-8-Pack-VF8000C/327195736",
+        "item_id": "327195736"
+      },
+      {
+        "title": "1~~Fine Dust Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Fine-Dust-Pleated-Paper-Wet-Dry-Vac-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-1-Pack-VF5000/100075119",
+        "item_id": "100075119"
+      },
+      {
+        "title": "2~~General Dirt Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-General-Debris-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-2-Pack-VF4200/202650894",
+        "item_id": "202650894"
+      },
+      {
+        "title": "16~~HEPA Material Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-HEPA-Material-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-16-Pack-VF6000H/318553187",
+        "item_id": "318553187"
+      },
+      {
+        "title": "8~~HEPA Material Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-HEPA-Material-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-8-Pack-VF6000G/318553629",
+        "item_id": "318553629"
+      },
+      {
+        "title": "4~~Fine Dust Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Fine-Dust-Pleated-Paper-Wet-Dry-Vac-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-4-Pack-VF5200A/318552728",
+        "item_id": "318552728"
+      },
+      {
+        "title": "16~~HEPA Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Pleated-HEPA-Replacement-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-16-Pack-VF8000D/327195749",
+        "item_id": "327195749"
+      },
+      {
+        "title": "1~~HEPA Material Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-HEPA-Material-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-1-Pack-VF6000/100022800",
+        "item_id": "100022800"
+      },
+      {
+        "title": "1~~HEPA Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Pleated-HEPA-Replacement-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-1-Pack-VF8000/324805942",
+        "item_id": "324805942"
+      },
+      {
+        "title": "2~~HEPA Material Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-HEPA-Material-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-2-Pack-VF6000E/318553040",
+        "item_id": "318553040"
+      },
+      {
+        "title": "8~~General Dirt Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-General-Debris-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-8-Pack-VF4200B/300500165",
+        "item_id": "300500165"
+      },
+      {
+        "title": "4~~HEPA Material Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-HEPA-Material-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-4-Pack-VF6000F/318553169",
+        "item_id": "318553169"
+      },
+      {
+        "title": "4~~General Dirt Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-General-Debris-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-4-Pack-VF4200A/300500164",
+        "item_id": "300500164"
+      },
+      {
+        "title": "16~~General Dirt Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-General-Debris-Pleated-Paper-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-16-Pack-VF4200C/300500166",
+        "item_id": "300500166"
+      },
+      {
+        "title": "2~~HEPA Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Pleated-HEPA-Replacement-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-2-Pack-VF8000A/327195698",
+        "item_id": "327195698"
+      },
+      {
+        "title": "1~~Wet Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Wet-Debris-Application-Foam-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Shop-Vacuums-1-Pack-VF7000/202554976",
+        "item_id": "202554976"
+      },
+      {
+        "title": "2~~Fine Dust Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Fine-Dust-Pleated-Paper-Wet-Dry-Vac-Shop-Vacuum-Filter-Replacement-for-Most-5-16-Gallon-RIDGID-Wet-Dry-Vacs-2-Pack-VF5200/310195470",
+        "item_id": "310195470"
+      },
+      {
+        "title": "2~~Wet Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Wet-Debris-Application-Foam-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Shop-Vacuums-2-Pack-VF7000E/318558279",
+        "item_id": "318558279"
+      },
+      {
+        "title": "16~~Wet Filter",
+        "link": "https://www.homedepot.com/p/RIDGID-Wet-Debris-Application-Foam-Wet-Dry-Vac-Shop-Vacuum-Filter-for-Most-5-16-Gallon-RIDGID-Shop-Vacuums-16-Pack-VF7000H/318558402",
+        "item_id": "318558402"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Tools",
+        "link": "https://www.homedepot.com/b/Tools/N-5yc1vZc1xy"
+      },
+      {
+        "name": "Shop Vacuums",
+        "link": "https://www.homedepot.com/b/Tools-Shop-Vacuums/N-5yc1vZc2a7"
+      },
+      {
+        "name": "Shop Vacuum Filters",
+        "link": "https://www.homedepot.com/b/Tools-Shop-Vacuums-Shop-Vacuum-Filters/N-5yc1vZ2fkp9py"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 28,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 41,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

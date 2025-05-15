@@ -1,0 +1,1570 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 22,
+    "credits_used_this_request": 1,
+    "credits_remaining": 478,
+    "credits_reset_at": "2025-05-30T11:59:27.000Z"
+  },
+  "request_parameters": {
+    "type": "search",
+    "search_term": "refrigerator",
+    "page": "1",
+    "_t": "20250502030611",
+    "engine": "lowes"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T09:06:12.614Z",
+    "processed_at": "2025-05-02T09:06:15.477Z",
+    "total_time_taken": 2.86,
+    "lowes_url": "https://www.lowes.com/search?view=List&searchTerm=refrigerator"
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "product": {
+        "title": "Frigidaire 25.6-cu ft Side-by-Side Refrigerator with Ice Maker ,Water and Ice Dispenser ( Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+        "item_id": "5013537917"
+      },
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false
+      },
+      "offers": {
+        "primary": {
+          "price": 1149,
+          "symbol": "$",
+          "currency": "USD",
+          "regular_price": 1399,
+          "discount": 250,
+          "promotion_raw": [
+            "Save $250.00"
+          ]
+        }
+      }
+    },
+    {
+      "position": 2,
+      "product": {
+        "title": "Hisense 17.2-cu ft Counter-Depth Bottom-Freezer Refrigerator Fingerprint Resistant Stainless Steel ) ENERGY STAR Certified",
+        "item_id": "5001252387"
+      },
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false
+      },
+      "offers": {
+        "primary": {
+          "price": 999,
+          "symbol": "$",
+          "currency": "USD",
+          "regular_price": 1099,
+          "discount": 100,
+          "promotion_raw": [
+            "Save $100.00"
+          ]
+        }
+      }
+    }
+  ],
+  "facets": [
+    {
+      "name": "Special Offers",
+      "display_name": "Special Offers",
+      "values": [
+        {
+          "display_name": "On Sale",
+          "value": "2",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2",
+          "count": 438,
+          "active": false
+        },
+        {
+          "display_name": "Buy More, Save More",
+          "value": "982555940",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=982555940",
+          "count": 34,
+          "active": false
+        },
+        {
+          "display_name": "Free Gift with Purchase",
+          "value": "982555941",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=982555941",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Brand",
+      "display_name": "Brand",
+      "values": [
+        {
+          "display_name": "Frigidaire",
+          "value": "4294965783",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294965783",
+          "count": 73,
+          "active": false
+        },
+        {
+          "display_name": "GE",
+          "value": "4294965819",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294965819",
+          "count": 123,
+          "active": false
+        },
+        {
+          "display_name": "LG",
+          "value": "4294801527",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294801527",
+          "count": 48,
+          "active": false
+        },
+        {
+          "display_name": "Samsung",
+          "value": "4294963507",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294963507",
+          "count": 19,
+          "active": false
+        },
+        {
+          "display_name": "Whirlpool",
+          "value": "4294965476",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294965476",
+          "count": 129,
+          "active": false
+        },
+        {
+          "display_name": "Amana",
+          "value": "4294962184",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294962184",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "Avallon",
+          "value": "266763257",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=266763257",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Avanti",
+          "value": "4294647903",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294647903",
+          "count": 41,
+          "active": false
+        },
+        {
+          "display_name": "Bevoi",
+          "value": "721996311575",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=721996311575",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "BLACK+DECKER",
+          "value": "4294416332",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294416332",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "Bosch",
+          "value": "4294965864",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294965864",
+          "count": 16,
+          "active": false
+        },
+        {
+          "display_name": "Brama",
+          "value": "721995944543",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=721995944543",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Cafe",
+          "value": "4239340546",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4239340546",
+          "count": 40,
+          "active": false
+        },
+        {
+          "display_name": "Coca-Cola",
+          "value": "4294766522",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294766522",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "Commercial Cool",
+          "value": "1210042679739",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1210042679739",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "ConServ",
+          "value": "821734436876",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=821734436876",
+          "count": 17,
+          "active": false
+        },
+        {
+          "display_name": "Cooluli",
+          "value": "3317210923",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3317210923",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Cosmo",
+          "value": "3043140455",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3043140455",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "Costway",
+          "value": "821728819394",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=821728819394",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Danby",
+          "value": "4294814200",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294814200",
+          "count": 17,
+          "active": false
+        },
+        {
+          "display_name": "EdgeStar",
+          "value": "1046168001",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1046168001",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Equator Advanced Appliances",
+          "value": "4167465849",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4167465849",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "FORNO",
+          "value": "721993308538",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=721993308538",
+          "count": 21,
+          "active": false
+        },
+        {
+          "display_name": "Frigidaire Gallery",
+          "value": "4294850701",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294850701",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Galanz",
+          "value": "4294622859",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294622859",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "GZMR",
+          "value": "621172638724",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=621172638724",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "Haier",
+          "value": "4294962809",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294962809",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Hisense",
+          "value": "4294712086",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294712086",
+          "count": 24,
+          "active": false
+        },
+        {
+          "display_name": "Hotpoint",
+          "value": "4294965188",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294965188",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "iio",
+          "value": "510239300779",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=510239300779",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "Jeremy Cass",
+          "value": "911270524448",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=911270524448",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "Kenmore",
+          "value": "3785168024",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3785168024",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "KitchenAid",
+          "value": "4294965636",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294965636",
+          "count": 53,
+          "active": false
+        },
+        {
+          "display_name": "Koolatron",
+          "value": "1982628904",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1982628904",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "KoolMore",
+          "value": "821119355526",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=821119355526",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Kucht",
+          "value": "413471539",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=413471539",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Magic Chef",
+          "value": "65487792",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=65487792",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Marshall",
+          "value": "821375708974",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=821375708974",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Maxx Ice",
+          "value": "4294712277",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294712277",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Maytag",
+          "value": "4294965144",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294965144",
+          "count": 14,
+          "active": false
+        },
+        {
+          "display_name": "Midea",
+          "value": "2437331524",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2437331524",
+          "count": 12,
+          "active": false
+        },
+        {
+          "display_name": "NewAir",
+          "value": "4294397387",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294397387",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Norpole",
+          "value": "720557263547",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=720557263547",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Premium Levella",
+          "value": "1121039336884",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1121039336884",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "Runesay",
+          "value": "721134459475",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=721134459475",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "SABA",
+          "value": "621172305615",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=621172305615",
+          "count": 6,
+          "active": false
+        },
+        {
+          "display_name": "Sharp",
+          "value": "4294962862",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294962862",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "SIMZLIFE",
+          "value": "820417258461",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=820417258461",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "SnowLion",
+          "value": "820939155325",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=820939155325",
+          "count": 7,
+          "active": false
+        },
+        {
+          "display_name": "SPT",
+          "value": "510239278835",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=510239278835",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Summit Appliance",
+          "value": "183211749",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=183211749",
+          "count": 11,
+          "active": false
+        },
+        {
+          "display_name": "Thor Kitchen",
+          "value": "3022757470",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3022757470",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "UNIQUE",
+          "value": "721234773771",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=721234773771",
+          "count": 27,
+          "active": false
+        },
+        {
+          "display_name": "VEVOR",
+          "value": "721978826234",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=721978826234",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "West Bend",
+          "value": "4294961003",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294961003",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Zephyr",
+          "value": "1588860302",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1588860302",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "ZLINE KITCHEN & BATH",
+          "value": "2693306047",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2693306047",
+          "count": 67,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Appliance Color/Finish",
+      "display_name": "Appliance Color/Finish",
+      "values": [
+        {
+          "display_name": "Stainless steel",
+          "value": "4294796421",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294796421",
+          "count": 417,
+          "active": false
+        },
+        {
+          "display_name": "White",
+          "value": "4294796430",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294796430",
+          "count": 168,
+          "active": false
+        },
+        {
+          "display_name": "Black",
+          "value": "4294796428",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294796428",
+          "count": 163,
+          "active": false
+        },
+        {
+          "display_name": "Slate",
+          "value": "4294482186",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294482186",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "Black Stainless steel",
+          "value": "2220518803441",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2220518803441",
+          "count": 69,
+          "active": false
+        },
+        {
+          "display_name": "Red",
+          "value": "4294622806",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294622806",
+          "count": 26,
+          "active": false
+        },
+        {
+          "display_name": "Custom panel ready",
+          "value": "1639310534",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1639310534",
+          "count": 24,
+          "active": false
+        },
+        {
+          "display_name": "Metallic look",
+          "value": "3642403873",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3642403873",
+          "count": 23,
+          "active": false
+        },
+        {
+          "display_name": "Blue",
+          "value": "4294537286",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294537286",
+          "count": 10,
+          "active": false
+        },
+        {
+          "display_name": "Green",
+          "value": "260778706",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=260778706",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "Bisque/Biscuit",
+          "value": "4294796411",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294796411",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "Wood",
+          "value": "3478464556",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3478464556",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Black slate",
+          "value": "3025613759",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3025613759",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "Gold",
+          "value": "1411388541113",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1411388541113",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Pink",
+          "value": "1411388803535",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1411388803535",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Yellow",
+          "value": "1620840718707",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1620840718707",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Depth Type",
+      "display_name": "Depth Type",
+      "values": [
+        {
+          "display_name": "Standard-Depth",
+          "value": "4042684519",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4042684519",
+          "count": 568,
+          "active": false
+        },
+        {
+          "display_name": "Counter-Depth",
+          "value": "2032108662",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2032108662",
+          "count": 336,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Ice and Water Dispensers",
+      "display_name": "Ice and Water Dispensers",
+      "values": [
+        {
+          "display_name": "None",
+          "value": "1410989837886",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1410989837886",
+          "count": 363,
+          "active": false
+        },
+        {
+          "display_name": "Both",
+          "value": "1410989480583",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1410989480583",
+          "count": 212,
+          "active": false
+        },
+        {
+          "display_name": "Water only",
+          "value": "1722060709989",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1722060709989",
+          "count": 105,
+          "active": false
+        },
+        {
+          "display_name": "Ice only",
+          "value": "1611322774567",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1611322774567",
+          "count": 29,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Total Capacity Cu. Feet",
+      "display_name": "Total Capacity Cu. Feet",
+      "values": [
+        {
+          "display_name": "0 - 11.99",
+          "value": "4111971293409",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4111971293409",
+          "count": 281,
+          "active": false
+        },
+        {
+          "display_name": "12 - 19.99",
+          "value": "3711922374450",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3711922374450",
+          "count": 232,
+          "active": false
+        },
+        {
+          "display_name": "20 - 39.99",
+          "value": "4111238768591",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4111238768591",
+          "count": 407,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Refrigerator Width (Inches)",
+      "display_name": "Refrigerator Width (Inches)",
+      "active_range": false,
+      "values": [
+        {
+          "display_name": "0 - 19.99",
+          "value": "1911743579608",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1911743579608",
+          "count": 87,
+          "active": false
+        },
+        {
+          "display_name": "20 - 24.99",
+          "value": "1910370871777",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1910370871777",
+          "count": 144,
+          "active": false
+        },
+        {
+          "display_name": "25 - 29.99",
+          "value": "2110052765728",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2110052765728",
+          "count": 86,
+          "active": false
+        },
+        {
+          "display_name": "30 - 34.99",
+          "value": "2110433447231",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2110433447231",
+          "count": 206,
+          "active": false
+        },
+        {
+          "display_name": "35+",
+          "value": "1721177613662",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1721177613662",
+          "count": 352,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Height with Hinge (Inches)",
+      "display_name": "Height with Hinge (Inches)",
+      "active_range": false,
+      "values": [
+        {
+          "display_name": "0 - 54.99",
+          "value": "1580466834",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1580466834",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "55 - 59.99",
+          "value": "4059654550",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4059654550",
+          "count": 35,
+          "active": false
+        },
+        {
+          "display_name": "60 - 64.99",
+          "value": "3115774347",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3115774347",
+          "count": 36,
+          "active": false
+        },
+        {
+          "display_name": "65 - 69.99",
+          "value": "31882561",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=31882561",
+          "count": 378,
+          "active": false
+        },
+        {
+          "display_name": "70 - 74.99",
+          "value": "2528821582",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2528821582",
+          "count": 185,
+          "active": false
+        },
+        {
+          "display_name": "75 - 79.99",
+          "value": "1949852259",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1949852259",
+          "count": 9,
+          "active": false
+        },
+        {
+          "display_name": "80+",
+          "value": "1808193302",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1808193302",
+          "count": 77,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Height to Top of Case (in.)",
+      "display_name": "Height to Top of Case (in.)",
+      "active_range": false,
+      "values": [
+        {
+          "display_name": "0 - 36.99",
+          "value": "4221328491576",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4221328491576",
+          "count": 18,
+          "active": false
+        },
+        {
+          "display_name": "37 - 64.99",
+          "value": "4511461680725",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4511461680725",
+          "count": 73,
+          "active": false
+        },
+        {
+          "display_name": "65 - 80.99",
+          "value": "4311154994868",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4311154994868",
+          "count": 582,
+          "active": false
+        },
+        {
+          "display_name": "81+",
+          "value": "4020324444334",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4020324444334",
+          "count": 67,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Depth without Handles (Inches)",
+      "display_name": "Depth without Handles (Inches)",
+      "active_range": false,
+      "values": [
+        {
+          "display_name": "20 - 23.99",
+          "value": "713991470",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=713991470",
+          "count": 49,
+          "active": false
+        },
+        {
+          "display_name": "24 - 27.99",
+          "value": "1767959592",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1767959592",
+          "count": 156,
+          "active": false
+        },
+        {
+          "display_name": "28 - 31.99",
+          "value": "3513736726",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3513736726",
+          "count": 306,
+          "active": false
+        },
+        {
+          "display_name": "32 - 35.99",
+          "value": "1935619868",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1935619868",
+          "count": 226,
+          "active": false
+        },
+        {
+          "display_name": "36 - 39.99",
+          "value": "2296023277",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2296023277",
+          "count": 2,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Ice Maker",
+      "display_name": "Ice Maker",
+      "values": [
+        {
+          "display_name": "Single",
+          "value": "4294765697",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294765697",
+          "count": 386,
+          "active": false
+        },
+        {
+          "display_name": "Optional (sold separately)",
+          "value": "4294651242",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294651242",
+          "count": 170,
+          "active": false
+        },
+        {
+          "display_name": "None",
+          "value": "4294765695",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294765695",
+          "count": 106,
+          "active": false
+        },
+        {
+          "display_name": "Dual",
+          "value": "4294765678",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294765678",
+          "count": 47,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Price",
+      "display_name": "Price",
+      "active_range": false,
+      "values": [
+        {
+          "display_name": "$25 - $50",
+          "value": "1210125883",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1210125883",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "$50 - $100",
+          "value": "2104441257",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2104441257",
+          "count": 15,
+          "active": false
+        },
+        {
+          "display_name": "$100 - $200",
+          "value": "4053879751",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4053879751",
+          "count": 28,
+          "active": false
+        },
+        {
+          "display_name": "$200 - $400",
+          "value": "1224133687",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1224133687",
+          "count": 85,
+          "active": false
+        },
+        {
+          "display_name": "$400 - $600",
+          "value": "1287754666",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1287754666",
+          "count": 56,
+          "active": false
+        },
+        {
+          "display_name": "$600 - $800",
+          "value": "2823642578",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2823642578",
+          "count": 95,
+          "active": false
+        },
+        {
+          "display_name": "$800 - $1000",
+          "value": "2738894007",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2738894007",
+          "count": 68,
+          "active": false
+        },
+        {
+          "display_name": "$1000 - $2000",
+          "value": "3043313500",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3043313500",
+          "count": 270,
+          "active": false
+        },
+        {
+          "display_name": "$2000 - $3000",
+          "value": "2665191283",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2665191283",
+          "count": 138,
+          "active": false
+        },
+        {
+          "display_name": "$3000 - $4000",
+          "value": "342505339",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=342505339",
+          "count": 68,
+          "active": false
+        },
+        {
+          "display_name": "$4000 - $5000",
+          "value": "700400218",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=700400218",
+          "count": 40,
+          "active": false
+        },
+        {
+          "display_name": "$5000 - $6000",
+          "value": "87589463",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=87589463",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "$6000 - $7000",
+          "value": "1670217824",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1670217824",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "$7000 - $8000",
+          "value": "2458425921",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2458425921",
+          "count": 8,
+          "active": false
+        },
+        {
+          "display_name": "$8000 - $9000",
+          "value": "1487882307",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1487882307",
+          "count": 13,
+          "active": false
+        },
+        {
+          "display_name": "$9000 - $10000",
+          "value": "4269192425",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4269192425",
+          "count": 20,
+          "active": false
+        },
+        {
+          "display_name": "$10000+",
+          "value": "3856644305",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3856644305",
+          "count": 24,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Ice/Water Location",
+      "display_name": "Ice/Water Location",
+      "values": [
+        {
+          "display_name": "External dispenser",
+          "value": "1721444935819",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1721444935819",
+          "count": 215,
+          "active": false
+        },
+        {
+          "display_name": "Internal dispenser",
+          "value": "1821786453017",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1821786453017",
+          "count": 163,
+          "active": false
+        },
+        {
+          "display_name": "None",
+          "value": "1110189951693",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1110189951693",
+          "count": 37,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "display_name": "Features",
+      "values": [
+        {
+          "display_name": "Fingerprint-Resistant",
+          "value": "1302652729",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1302652729",
+          "count": 327,
+          "active": false
+        },
+        {
+          "display_name": "ENERGY STAR Certified",
+          "value": "4294391932",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294391932",
+          "count": 571,
+          "active": false
+        },
+        {
+          "display_name": "Door within Door",
+          "value": "4294596787",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294596787",
+          "count": 22,
+          "active": false
+        },
+        {
+          "display_name": "Gallon Door Storage",
+          "value": "4294574522",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294574522",
+          "count": 657,
+          "active": false
+        },
+        {
+          "display_name": "Temperature Controlled Drawer",
+          "value": "1042118461",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1042118461",
+          "count": 273,
+          "active": false
+        },
+        {
+          "display_name": "ADA Compliant",
+          "value": "811952430335",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=811952430335",
+          "count": 278,
+          "active": false
+        },
+        {
+          "display_name": "Air Filtration",
+          "value": "2404649491",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2404649491",
+          "count": 304,
+          "active": false
+        },
+        {
+          "display_name": "Built-In",
+          "value": "4294541838",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294541838",
+          "count": 107,
+          "active": false
+        },
+        {
+          "display_name": "Can Dispenser",
+          "value": "921922548777",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=921922548777",
+          "count": 46,
+          "active": false
+        },
+        {
+          "display_name": "Child Safety Locks",
+          "value": "363412272",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=363412272",
+          "count": 229,
+          "active": false
+        },
+        {
+          "display_name": "Customizable",
+          "value": "1021761010112",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1021761010112",
+          "count": 54,
+          "active": false
+        },
+        {
+          "display_name": "Dispenser Light",
+          "value": "3591568293",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3591568293",
+          "count": 235,
+          "active": false
+        },
+        {
+          "display_name": "Door Alarm",
+          "value": "3541234836",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3541234836",
+          "count": 419,
+          "active": false
+        },
+        {
+          "display_name": "Dual Evaporator Cooling System",
+          "value": "3850429958",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3850429958",
+          "count": 213,
+          "active": false
+        },
+        {
+          "display_name": "Electronic Temperature Control",
+          "value": "1820229171785",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1820229171785",
+          "count": 638,
+          "active": false
+        },
+        {
+          "display_name": "Flat-Back Design",
+          "value": "1210695457599",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1210695457599",
+          "count": 159,
+          "active": false
+        },
+        {
+          "display_name": "Freezer Compartment",
+          "value": "1111302662277",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1111302662277",
+          "count": 101,
+          "active": false
+        },
+        {
+          "display_name": "Freezer Light",
+          "value": "1629718583",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1629718583",
+          "count": 456,
+          "active": false
+        },
+        {
+          "display_name": "Garage Ready",
+          "value": "822013793074",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=822013793074",
+          "count": 106,
+          "active": false
+        },
+        {
+          "display_name": "Hidden Hinge",
+          "value": "711604881673",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=711604881673",
+          "count": 544,
+          "active": false
+        },
+        {
+          "display_name": "Interior Lighting",
+          "value": "1890756102",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1890756102",
+          "count": 111,
+          "active": false
+        },
+        {
+          "display_name": "LED Light",
+          "value": "2546468278",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=2546468278",
+          "count": 733,
+          "active": false
+        },
+        {
+          "display_name": "Lowe's Exclusive",
+          "value": "4294791438",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294791438",
+          "count": 53,
+          "active": false
+        },
+        {
+          "display_name": "Panel Ready",
+          "value": "711518483741",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=711518483741",
+          "count": 44,
+          "active": false
+        },
+        {
+          "display_name": "Professional",
+          "value": "812128134069",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=812128134069",
+          "count": 141,
+          "active": false
+        },
+        {
+          "display_name": "Reversible Door",
+          "value": "4294806061",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294806061",
+          "count": 373,
+          "active": false
+        },
+        {
+          "display_name": "Reversible Freezer Door",
+          "value": "1120491263306",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1120491263306",
+          "count": 195,
+          "active": false
+        },
+        {
+          "display_name": "Security Lock",
+          "value": "4294789113",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294789113",
+          "count": 17,
+          "active": false
+        },
+        {
+          "display_name": "See-Thru Door",
+          "value": "1326622290",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1326622290",
+          "count": 29,
+          "active": false
+        },
+        {
+          "display_name": "Smart Compatible",
+          "value": "4246655709",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4246655709",
+          "count": 107,
+          "active": false
+        },
+        {
+          "display_name": "Snack/Deli Drawer",
+          "value": "911516034044",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=911516034044",
+          "count": 409,
+          "active": false
+        },
+        {
+          "display_name": "Space-Saving In -Door Ice",
+          "value": "28583363",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=28583363",
+          "count": 104,
+          "active": false
+        },
+        {
+          "display_name": "Wi-Fi Compatibility",
+          "value": "4286304582",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4286304582",
+          "count": 113,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Number of Doors",
+      "display_name": "Number of Doors",
+      "values": [
+        {
+          "display_name": "3",
+          "value": "4294688716",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294688716",
+          "count": 185,
+          "active": false
+        },
+        {
+          "display_name": "4",
+          "value": "4294705630",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294705630",
+          "count": 104,
+          "active": false
+        },
+        {
+          "display_name": "5",
+          "value": "4294555617",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294555617",
+          "count": 2,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Ice Type",
+      "display_name": "Ice Type",
+      "values": [
+        {
+          "display_name": "Cubed/Crushed",
+          "value": "910203259160",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=910203259160",
+          "count": 203,
+          "active": false
+        },
+        {
+          "display_name": "Cubed",
+          "value": "720847074131",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=720847074131",
+          "count": 156,
+          "active": false
+        },
+        {
+          "display_name": "Crescent",
+          "value": "820521228825",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=820521228825",
+          "count": 48,
+          "active": false
+        },
+        {
+          "display_name": "Cubed/Crushed/Craft",
+          "value": "1211996128841",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1211996128841",
+          "count": 14,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Rating",
+      "display_name": "Rating",
+      "values": [
+        {
+          "display_name": "4",
+          "value": "5005561",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=5005561",
+          "count": 631,
+          "active": false
+        },
+        {
+          "display_name": "5",
+          "value": "5007197",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=5007197",
+          "count": 160,
+          "active": false
+        },
+        {
+          "display_name": "3",
+          "value": "5005562",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=5005562",
+          "count": 690,
+          "active": false
+        },
+        {
+          "display_name": "1",
+          "value": "5005558",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=5005558",
+          "count": 725,
+          "active": false
+        },
+        {
+          "display_name": "2",
+          "value": "5005559",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=5005559",
+          "count": 704,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Sub-Brand",
+      "display_name": "Sub-Brand",
+      "values": [
+        {
+          "display_name": "Profile",
+          "value": "4294705718",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294705718",
+          "count": 18,
+          "active": false
+        },
+        {
+          "display_name": "Gallery",
+          "value": "4294705700",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294705700",
+          "count": 14,
+          "active": false
+        },
+        {
+          "display_name": "Diplomat",
+          "value": "811569919735",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=811569919735",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "Professional",
+          "value": "4294705699",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=4294705699",
+          "count": 5,
+          "active": false
+        },
+        {
+          "display_name": "Classic Retro",
+          "value": "1110820532459",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1110820532459",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Contemporary Classic",
+          "value": "1620515399546",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1620515399546",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Flexible Storage Bin",
+          "value": "1611293668594",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1611293668594",
+          "count": 4,
+          "active": false
+        },
+        {
+          "display_name": "Bespoke",
+          "value": "921143255068",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=921143255068",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "In-Door Can Caddy",
+          "value": "1410718214172",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1410718214172",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Propane",
+          "value": "921234633904",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=921234633904",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "STUDIO",
+          "value": "810433179291",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=810433179291",
+          "count": 3,
+          "active": false
+        },
+        {
+          "display_name": "Conserv",
+          "value": "810026002515",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=810026002515",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "PureFlat",
+          "value": "1021176479178",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1021176479178",
+          "count": 2,
+          "active": false
+        },
+        {
+          "display_name": "BeautiFridge",
+          "value": "1220263841098",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1220263841098",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Designer",
+          "value": "921897215344",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=921897215344",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Fastest Ice Maker",
+          "value": "1310356626228",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1310356626228",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Gallipoli",
+          "value": "920022591226",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=920022591226",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "In Door Can Caddy",
+          "value": "1421700090161",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1421700090161",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "Presrv Dual Zone Outdoor",
+          "value": "1721750451835",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1721750451835",
+          "count": 1,
+          "active": false
+        },
+        {
+          "display_name": "SIGNATURE",
+          "value": "3219313994",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=3219313994",
+          "count": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "Availability",
+      "display_name": "Availability",
+      "values": [
+        {
+          "display_name": "Show Out of Stock",
+          "value": "1",
+          "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator&refinement=1",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": {
+      "page": 1,
+      "link": "https://www.lowes.com/search?view=List&searchTerm=refrigerator"
+    }
+  }
+}

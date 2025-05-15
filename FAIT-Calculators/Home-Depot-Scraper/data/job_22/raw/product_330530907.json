@@ -1,0 +1,170 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14494,
+    "overage_used": 4494,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-x-6-16-ft-Trex-Transcend-Lineage-Composite-Deck-Board-Jasper-Square-Edge-Actual-Size-94-in-x-5-1-2-in-JA010616TLS01-JA010616TLS01/330530907"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:44:25.907Z",
+    "processed_at": "2025-05-01T18:45:06.385Z",
+    "total_time_taken": 40.48,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-x-6-16-ft-Trex-Transcend-Lineage-Composite-Deck-Board-Jasper-Square-Edge-Actual-Size-94-in-x-5-1-2-in-JA010616TLS01-JA010616TLS01/330530907"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-x-6-16-ft-Trex-Transcend-Lineage-Composite-Deck-Board-Jasper-Square-Edge-Actual-Size-94-in-x-5-1-2-in-JA010616TLS01-JA010616TLS01/330530907",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 x 6-16 ft. Trex Transcend Lineage Composite Deck Board Jasper Square Edge Actual Size 94 in. x 5-1/2 in. JA010616TLS01",
+    "upc": "652835358377",
+    "item_id": "330530907",
+    "store_sku": "1009484096",
+    "model_number": "JA010616TLS01",
+    "description": "Elevate your outdoor space with Trex Transcend Lineage decking, where luxury meets durability. With five exquisite color options including Island Mist, Rainier, Carmel, Biscayne, and Jasper, you can effortlessly craft a serene retreat that reflects your personal style. But beauty isn't the only feature; our decking is engineered to stay cooler under the sun, ensuring your comfort even on the hottest days. Plus, with its robust shell protection, Transcend Lineage decking resists fading and staining, offering long-lasting beauty with minimal maintenance. Enjoy peace of mind with our 50-year Limited Residential Warranty, knowing your deck will remain a stunning centerpiece for years to come. Experience the pinnacle of outdoor living with Trex Transcend Lineage decking.",
+    "feature_bullets": [
+      "Composite decking is rot and stain resistant, easy to clean",
+      "Jasper color adds an elegant touch to your outdoor space",
+      "50-year limited residential warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Trex composite decking is a durable, beautiful and eco-friendly alternative to traditional wood",
+      "A deep shade of mocha, jasper is reminiscent of old-growth forests and rocky mountainsides, with its rich umber hue and delicate streaking",
+      "High-performance, low-maintenance boards clean easily with soap and water and never need sanding, staining or painting",
+      "Made of quality composite for durability; won't rot or splinter",
+      "Backed by 50-year limited residential and fade and stain warranties",
+      "Use grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Transcend lineage is engineered to keep your deck cooler, even on the hottest days",
+      "Made of 95% recycled materials in the USA"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/605bc8a4-0bf2-407b-8bad-bc6e854964b5/svn/jasper-trex-composite-decking-boards-ja010616tls01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6b4d7079-9ccb-44b4-8371-bab51cec8f10/svn/jasper-trex-composite-decking-boards-ja010616tls01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/febe2d5e-c35a-4ba1-bf85-80b8710a6db0/svn/jasper-trex-composite-decking-boards-ja010616tls01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/22e05ca4-8176-4105-a174-3d7d55943f30/svn/jasper-trex-composite-decking-boards-ja010616tls01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/605bc8a4-0bf2-407b-8bad-bc6e854964b5/svn/jasper-trex-composite-decking-boards-ja010616tls01-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Jasper"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "and"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "42"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

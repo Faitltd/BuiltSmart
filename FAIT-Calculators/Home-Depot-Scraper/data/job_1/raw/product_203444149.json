@@ -1,0 +1,215 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12618,
+    "overage_used": 2618,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Common-15-32-in-x-2-ft-x-2-ft-Actual-0-451-in-x-23-75-in-x-23-75-in-Sanded-Plywood-1502010/203444149"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:26:40.958Z",
+    "processed_at": "2025-05-01T13:26:49.478Z",
+    "total_time_taken": 8.52,
+    "homedepot_url": "https://www.homedepot.com/p/Common-15-32-in-x-2-ft-x-2-ft-Actual-0-451-in-x-23-75-in-x-23-75-in-Sanded-Plywood-1502010/203444149"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Common-15-32-in-x-2-ft-x-2-ft-Actual-0-451-in-x-23-75-in-x-23-75-in-Sanded-Plywood-1502010/203444149",
+    "brand": "Unbranded",
+    "title": "Unbranded Common: 15/32 in. x 2 ft. x 2 ft., Actual: 0.451 in. x 23.75 in. x 23.75 in. Sanded Plywood",
+    "upc": "099167223315",
+    "item_id": "203444149",
+    "parent_id": "312257458",
+    "store_sku": "300888",
+    "model_number": "1502010",
+    "description": "1/2 in. x 24 in. x 24 in. Pine Plywood Project Panel is very cost effective, and extremely strong. It will stand up to abuse that other woods cannot handle, and is perfect for interior and exterior projects when properly finished. It can be be used for various woodworking jobs, such as shelving and dollhouses. You can also create beautiful bookcases, wine racks, entertainment centers, as well as other fun projects. With the proper sanding and finishing, your 1/2 in. x 24 in. x 24 in. pine plywood project panel project will not only look fabulous, but it will also be strong.",
+    "is_top_rated": true,
+    "favorite_count": 35,
+    "aisle": "FW",
+    "bay": "011",
+    "descriptive_attributes": [
+      "Smooth sanded surface is ready to use",
+      "Finishes beautifully with paint or leave natural",
+      "Can be finished with paint, stain or polyurethane",
+      "CARB compliant",
+      "Lightweight board is easy to transport",
+      "Each panel: 1/2 in. x 24 in. x 24 in.",
+      "4-panels per box",
+      "<a href=\"https://www.homedepot.com/c/how_to_select_right_structural_lumber_for_posts_beams_joists_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302;\">Click to learn how to select the right lumber for your project</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0adb044a-ffa8-4a28-be28-ecccd9bd7595/svn/sanded-plywood-1502010-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0adb044a-ffa8-4a28-be28-ecccd9bd7595/svn/sanded-plywood-1502010-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/7e7d1c3e-832c-4155-b91e-28c068d95ad2/main.mp4?fastly_token=NjgxMzgxNmZfNDc5N2QyYjljZWVkODVjY2VmODk0YzAwNThjOTc4MWM1ZDljOWU2Yzc5YTM1YzA5MWUxNzc0NGUzYzAyNjczM18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZWUwODQ3MzktOGM2NC00ZTgyLWIxZGMtNzhiN2U2MTQ3MDVjLzdlN2QxYzNlLTgzMmMtNDE1NS1iOTFlLTI4YzA2OGQ5NWFkMi9tYWluLm1wNA%3D%3D",
+        "title": "How to Choose Lumber",
+        "id": "4342682716001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/ee084739-8c64-4e82-b1dc-78b7e614705c/6ae3c3d0-fa51-4ee5-bceb-955dfdfbc336/160x90/match/image.jpg",
+        "description": "An overview of the different types of lumber to choose from for structural purposes and for projects where the lumber will be more visible."
+      }
+    ],
+    "ratings_total": 384,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "NA"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "n/a"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "23.750 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "15/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "keywords_list": [
+      "",
+      "1/2 in. x 24 in. x 24 in. Pine Plywood Project Panel (4-Pack)",
+      "1502010"
+    ],
+    "keywords": ", 1/2 in. x 24 in. x 24 in. Pine Plywood Project Panel (4-Pack), 1502010",
+    "variants": [
+      {
+        "title": "2 ft. x 2 ft.~~23/32",
+        "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-23-32-in-x-2-ft-x-2-ft-Actual-0-703-in-x-23-75-in-x-23-75-in-1502014/202089017",
+        "item_id": "202089017"
+      },
+      {
+        "title": "2 ft. x 2 ft.~~1/4",
+        "link": "https://www.homedepot.com/p/Common-1-4-in-x-2-ft-x-2-ft-Actual-0-224-in-x-23-75-in-x-23-75-in-Sanded-Plywood-1502002/203444147",
+        "item_id": "203444147"
+      },
+      {
+        "title": "2 ft. x 2 ft.~~15/32",
+        "link": "https://www.homedepot.com/p/Common-15-32-in-x-2-ft-x-2-ft-Actual-0-451-in-x-23-75-in-x-23-75-in-Sanded-Plywood-1502010/203444149",
+        "item_id": "203444149"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~1/2",
+        "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-1-2-in-x-2-ft-x-4-ft-Actual-0-451-in-x-23-75-in-x-47-75-in-1502104/202089006",
+        "item_id": "202089006"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~1/4",
+        "link": "https://www.homedepot.com/p/Sanded-Pine-Plywood-Common-1-4-in-x-24-in-x-48-in-Actual-0-224-in-x-23-75-in-x-47-75-in-1502100/202089011",
+        "item_id": "202089011"
+      },
+      {
+        "title": "4 ft. x 4 ft.~~15/32",
+        "link": "https://www.homedepot.com/p/Common-15-32-in-x-4-ft-x-4-ft-Sanded-Plywood-1502204/203300724",
+        "item_id": "203300724"
+      },
+      {
+        "title": "2 ft. x 2 ft.~~11/32",
+        "link": "https://www.homedepot.com/p/Sanded-Plywood-Common-11-32-in-x-2-ft-x-2-ft-Actual-0-322-in-x-23-75-in-x-23-75-in-1502006/202089015",
+        "item_id": "202089015"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~11/32",
+        "link": "https://www.homedepot.com/p/Common-11-32-in-x-2-ft-x-4-ft-Actual-0-322-in-x-23-75-in-x-47-75-in-Sanded-Plywood-1502102/203581981",
+        "item_id": "203581981"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sanded Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/N-5yc1vZc7qk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 10.44,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 28
+        }
+      }
+    }
+  }
+}

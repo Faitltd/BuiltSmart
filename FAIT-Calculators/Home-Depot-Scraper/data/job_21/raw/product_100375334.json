@@ -1,0 +1,220 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14298,
+    "overage_used": 4298,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CF-4-15-16-in-x-6-in-Concrete-Form-Angle-CF-R/100375334"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:25:13.215Z",
+    "processed_at": "2025-05-01T18:25:18.419Z",
+    "total_time_taken": 5.2,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CF-4-15-16-in-x-6-in-Concrete-Form-Angle-CF-R/100375334"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-CF-4-15-16-in-x-6-in-Concrete-Form-Angle-CF-R/100375334",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Corner-Braces/Simpson-Strong-Tie/N-5yc1vZc8hrZ615",
+    "title": "Simpson Strong-Tie CF 4-15/16 in. x 6 in. Concrete Form Angle",
+    "upc": "044315180002",
+    "item_id": "100375334",
+    "store_sku": "371605",
+    "model_number": "CF-R",
+    "description": "Simpson Strong-Tie connectors make projects easier to build while making them stronger and safer. The CF-R is used where a moderate-size shelf bracket and reinforcing angle is needed. When used for tilt-up perimeter forming, the nail-hole placement ensures substantial reuse.",
+    "favorite_count": 212,
+    "feature_bullets": [
+      "Reinforces 90\u00b0 connections; stronger than nails or screws",
+      "Removes the guesswork for making perfectly square connections",
+      "Perfect for new projects or repairs"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Ideal where a moderate-size shelf bracket is needed for shelves, counters and window ledge support",
+      "Also ideal for supporting concrete forms for tilt-up construction",
+      "Great for home repair projects",
+      "When used for tilt-up perimeter forming, the nail hole placement ensures substantial re-use",
+      "Made from 16-gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with 1/4 in. x 2 in. Strong-Drive SDS Heavy-Duty screws (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-1-4-in-x-2-in-Strong-Drive-SDS-Heavy-Duty-Connector-Screw-25-Pack-SDS25200-R25/305494546\" target=\"_blank\" style=\"color:#F96302;\">SDS25200</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/389082bb-a755-47f2-8709-6304e50d0382/svn/simpson-strong-tie-corner-braces-cf-r-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92794e8e-850b-4a71-b4b5-a9ae1bc84ddb/svn/simpson-strong-tie-corner-braces-cf-r-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0afd9dff-54ac-45f4-9173-21ae059a4802/svn/simpson-strong-tie-corner-braces-cf-r-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c355d02c-c193-47bc-b7f3-5ce727c08eb8/svn/simpson-strong-tie-corner-braces-cf-r-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1683c453-258b-4c79-987b-7c0a168de0ff/svn/simpson-strong-tie-corner-braces-cf-r-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-corner-braces-cf-r-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/389082bb-a755-47f2-8709-6304e50d0382/svn/simpson-strong-tie-corner-braces-cf-r-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 64,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Brace type",
+        "value": "Angle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Builders Hardware Product Type",
+        "value": "Braces"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.0625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "color": "Silver",
+    "keywords_list": [
+      "joist hanger",
+      "bracket joist hanger",
+      "angle",
+      "bracket angle",
+      "16-gauge joist hanger",
+      "16-gauge angle",
+      "concrete form joist hanger",
+      "concrete form angle"
+    ],
+    "keywords": "joist hanger, bracket joist hanger, angle, bracket angle, 16-gauge joist hanger, 16-gauge angle, concrete form joist hanger, concrete form angle",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Corner Braces",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Corner-Braces/N-5yc1vZc8hr"
+      }
+    ],
+    "buybox_winner": {
+      "price": 7.38,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 77,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 77,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

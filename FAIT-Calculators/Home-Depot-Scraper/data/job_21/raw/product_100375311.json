@@ -1,0 +1,257 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14394,
+    "overage_used": 4394,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-FB-ZMAX-Galvanized-Fence-Rail-Bracket-for-2x4-Nominal-Lumber-FB24Z/100375311"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:32:09.126Z",
+    "processed_at": "2025-05-01T18:32:14.062Z",
+    "total_time_taken": 4.94,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-FB-ZMAX-Galvanized-Fence-Rail-Bracket-for-2x4-Nominal-Lumber-FB24Z/100375311"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-FB-ZMAX-Galvanized-Fence-Rail-Bracket-for-2x4-Nominal-Lumber-FB24Z/100375311",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/Simpson-Strong-Tie/N-5yc1vZaq9xZ615",
+    "title": "Simpson Strong-Tie FB ZMAX Galvanized Fence Rail Bracket for 2x4 Nominal Lumber",
+    "upc": "707392696605",
+    "item_id": "100375311",
+    "parent_id": "326914564",
+    "store_sku": "208229",
+    "model_number": "FB24Z",
+    "description": "The FB is designed for connecting fence posts to rails. The simple design of this fence rail bracket provides strong connections without the need for toe nails or screws. The versatility of the FB makes planning and building fences, deck/porch railings and louvers fast and easy.",
+    "favorite_count": 2356,
+    "aisle": "FW",
+    "bay": "007",
+    "collection": {
+      "id": "Family-313424218",
+      "name": "Family-313424218",
+      "link": "https://www.homedepot.com/collection/Building-Materials/ZMAX-Collection/Family-313424218?omsid=100375311"
+    },
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Preinstallation of brackets allows rails to slide into place easily",
+      "Eliminates need for toe nails or screws",
+      "Nominal member size: 2x4",
+      "Made from 20-gauge steel",
+      "ZMAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Z-MAX galvanization offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with 8d common, 8d x 1-1/2 in. nails or #9 x 1-1/2 in. strong-drive SD screws",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/31f0ff78-badd-48aa-aaf3-0ee1288daa84/svn/simpson-strong-tie-wood-connectors-fb24z-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6abc84e5-3c68-489e-bf1c-c83c2538b422/svn/simpson-strong-tie-wood-connectors-fb24z-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/04a6509f-e676-46e0-9261-2fd8528bb94a/svn/simpson-strong-tie-wood-connectors-fb24z-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/887793b5-9e2a-4fb9-a43b-8cd9308614ae/svn/simpson-strong-tie-wood-connectors-fb24z-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/830e0784-9081-42eb-88f8-506d18803cfd/svn/simpson-strong-tie-wood-connectors-fb24z-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cae45464-7c24-413b-ad13-ea2d524d748b/svn/simpson-strong-tie-wood-connectors-fb24z-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-wood-connectors-fb24z-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8738d509-a037-4057-aa62-82774ae1ebfc/svn/simpson-strong-tie-wood-connectors-fb24z-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-wood-connectors-fb24z-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/31f0ff78-badd-48aa-aaf3-0ee1288daa84/svn/simpson-strong-tie-wood-connectors-fb24z-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 625,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G185 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "20"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.11 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Type",
+        "value": "Other"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.56 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "3.38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "keywords_list": [
+      "connector",
+      "2 in. X 4 in. connector",
+      "fence bracket",
+      "2 in. X 4 in. fence bracket",
+      "20-gauge connector",
+      "20-gauge fence bracket",
+      "Z-MAX fence bracket"
+    ],
+    "keywords": "connector, 2 in. X 4 in. connector, fence bracket, 2 in. X 4 in. fence bracket, 20-gauge connector, 20-gauge fence bracket, Z-MAX fence bracket",
+    "variants": [
+      {
+        "title": "0.75 in",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-FB-ZMAX-Galvanized-Fence-Rail-Bracket-for-2x4-Nominal-Lumber-FB24Z/100375311",
+        "item_id": "100375311"
+      },
+      {
+        "title": "1.56 in",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-FB-Galvanized-Fence-Rail-Bracket-for-2x6-Nominal-Lumber-FB26/100375140",
+        "item_id": "100375140"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Wood Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Wood-Connectors/N-5yc1vZaq9x"
+      }
+    ],
+    "buybox_winner": {
+      "price": 0.93,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 281
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 1213,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3925,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

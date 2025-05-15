@@ -1,0 +1,222 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14266,
+    "overage_used": 4266,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CCQ-Column-Cap-for-4x-Beam-6x-Post-with-Strong-Drive-SDS-Screws-CCQ46SDS2-5-R/306387805"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:15.460Z",
+    "processed_at": "2025-05-01T18:23:57.033Z",
+    "total_time_taken": 41.57,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-CCQ-Column-Cap-for-4x-Beam-6x-Post-with-Strong-Drive-SDS-Screws-CCQ46SDS2-5-R/306387805"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-CCQ-Column-Cap-for-4x-Beam-6x-Post-with-Strong-Drive-SDS-Screws-CCQ46SDS2-5-R/306387805",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Cap-Connectors/Simpson-Strong-Tie/N-5yc1vZc8huZ615",
+    "title": "Simpson Strong-Tie CCQ Column Cap for 4x Beam, 6x Post with Strong-Drive SDS Screws",
+    "upc": "707392622406",
+    "item_id": "306387805",
+    "parent_id": "312092331",
+    "store_sku": "212978",
+    "model_number": "CCQ46SDS2.5-R",
+    "description": "The CCQ is designed to provide strong column-beam connections in wood construction. The seat of the column cap provides an additional surface area of bearing that extends beyond each side of the column. The extended bearing surface helps distribute the load from the beam and provide support for the connection. The CCQ uses Strong-Drive SDS Heavy-Duty Connector screws for fast installation and to attach to a greater net section area of the column than a bolt attachment normally entails.",
+    "favorite_count": 13,
+    "feature_bullets": [
+      "Provides strong column-beam connections in wood construction",
+      "Certified welds for confidence in strength and loading",
+      "Includes Strong-Drive SDS screws for secure and easy installation"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "The SDS screws provide a lower profile than standard through bolts",
+      "Certified welds for confidence in strength and loading",
+      "Uplift loads have been increased for earthquake or wind loading",
+      "Diamond holes for temporary fastening",
+      "Nominal beam width: 4x",
+      "Nominal post size: 6x",
+      "Made from 7-Gauge steel",
+      "Simpson Strong-Tie gray paint finish",
+      "Install with 1/4 in. x 2-1/2 in. Strong-Drive SDS Heavy-Duty Connector screws (included)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 10,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7e2ff756-15f9-48ee-8f3a-23ea2a05d2c0/svn/simpson-strong-tie-post-cap-connectors-ccq46sds2-5-r-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/28402dbc-0a5e-49d9-8bf6-2b7eac174444/svn/simpson-strong-tie-post-cap-connectors-ccq46sds2-5-r-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/031274af-6774-429f-9989-3c70cdb2a392/svn/simpson-strong-tie-post-cap-connectors-ccq46sds2-5-r-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a6ce0139-540d-4ed3-84f4-cf0d7dac9e8a/svn/simpson-strong-tie-post-cap-connectors-ccq46sds2-5-r-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-post-cap-connectors-ccq46sds2-5-r-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cdf5af14-502b-400a-aad1-7a9801daecbd/svn/simpson-strong-tie-post-cap-connectors-ccq46sds2-5-r-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-post-cap-connectors-ccq46sds2-5-r-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7e2ff756-15f9-48ee-8f3a-23ea2a05d2c0/svn/simpson-strong-tie-post-cap-connectors-ccq46sds2-5-r-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4cbd15de-1a11-412f-a3c8-88eb416213f9/3bf207c0-5b9a-47ca-87b2-151bb52dca3d/main.mp4?fastly_token=NjgzODI4YWFfN2YxMjNkMGE4NTk5MzE1MTBhOGI4NDhmZWM2OTVmYjk4ODYyMWU0MTU0YzljNjE4Y2UxOWQxMjU3NmM3YWZjNl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80Y2JkMTVkZS0xYTExLTQxMmYtYTNjOC04OGViNDE2MjEzZjkvM2JmMjA3YzAtNWI5YS00N2NhLTg3YjItMTUxYmI1MmRjYTNkL21haW4ubXA0&pubid=66036796001",
+        "title": "Build a Stronger Deck: Beam Connections",
+        "id": "6183646363001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/4cbd15de-1a11-412f-a3c8-88eb416213f9/3c489979-6d4b-4eac-9b95-5c27551ccda3/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Deck beams are the horizontal framing members that support the joists. We highlight the available beam connection options to help you select what\u2019s best for your project."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxMzhlYWRfNzkzZWUwMzlmNzc5ZGUxYWI0N2Y1YzExZGUwNzQ5MWZmMzlkN2U4ZWI4MWVkMmM1OTM3ZWU4MTNlNTkyZjMxZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 11,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Cap Type",
+        "value": "Column Cap"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Paint"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "7"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "12.96 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Beam Width",
+        "value": "4x"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "4x6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "3.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "15.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "11 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "4x",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-CCQ-Column-Cap-for-4x-Beam-6x-Post-with-Strong-Drive-SDS-Screws-CCQ46SDS2-5-R/306387805",
+        "item_id": "306387805"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Cap Connectors",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Cap-Connectors/N-5yc1vZc8hu"
+      }
+    ],
+    "buybox_winner": {
+      "price": 95.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

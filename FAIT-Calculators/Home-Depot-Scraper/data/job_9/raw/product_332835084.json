@@ -1,0 +1,205 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13529,
+    "overage_used": 3529,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-WM947-3-8-in-D-x-1-1-4-in-W-x-84-in-L-Prefinished-Wood-Poplar-White-Finger-Joined-Stop-Moulding-Drip-Cap-L947A-F7084CME/332835084"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:47:40.232Z",
+    "processed_at": "2025-05-01T16:47:45.983Z",
+    "total_time_taken": 5.75,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-WM947-3-8-in-D-x-1-1-4-in-W-x-84-in-L-Prefinished-Wood-Poplar-White-Finger-Joined-Stop-Moulding-Drip-Cap-L947A-F7084CME/332835084"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-WM947-3-8-in-D-x-1-1-4-in-W-x-84-in-L-Prefinished-Wood-Poplar-White-Finger-Joined-Stop-Moulding-Drip-Cap-L947A-F7084CME/332835084",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/HOUSE-OF-FARA/N-5yc1vZcbj5Zucc",
+    "title": "HOUSE OF FARA WM947 3/8 in. D x 1-1/4 in. W x 84 in. L Prefinished Wood Poplar White Finger-Joined Stop Moulding Drip Cap",
+    "upc": "043559214559",
+    "item_id": "332835084",
+    "store_sku": "1012942370",
+    "model_number": "L947A-F7084CME",
+    "description": "General purpose moldings, such as lattice, stop; S4S, quarter round and others are used in many different applications. General purpose moldings can be used to combine 2 window units, cover corner wall cracks, provide accent pieces and complete door units. General purpose moldings come in many different sizes, shapes and species.",
+    "feature_bullets": [
+      "Designed to cover corner wall cracks and provide accent pieces",
+      "Easy installation with hand or power saw"
+    ],
+    "feature_bullets_count": 2,
+    "descriptive_attributes": [
+      "Cut easy with hand or power saws",
+      "Prefinished white for an easy install",
+      "Add an architectural touch to any room or project",
+      "Moulding adds charming old-fashioned elegance",
+      "For indoor use only"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a7dc6624-bcff-4f23-9946-149a622fd2c3/svn/finished-house-of-fara-general-purpose-moulding-l947a-f7084cme-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/24d684af-3be7-41d3-97ef-33229098451d/svn/finished-house-of-fara-general-purpose-moulding-l947a-f7084cme-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a7dc6624-bcff-4f23-9946-149a622fd2c3/svn/finished-house-of-fara-general-purpose-moulding-l947a-f7084cme-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Drip Cap"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "947"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Satisfaction Guaranteed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": ".375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.43,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9000,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 9000,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13188,
+    "overage_used": 3188,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/GAF-Pro-Start-120-lin-ft-Eave-and-Rake-Roofing-Starter-Strip-Shingles-1126000/202052408"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:47:16.606Z",
+    "processed_at": "2025-05-01T13:47:22.438Z",
+    "total_time_taken": 5.83,
+    "homedepot_url": "https://www.homedepot.com/p/GAF-Pro-Start-120-lin-ft-Eave-and-Rake-Roofing-Starter-Strip-Shingles-1126000/202052408"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/GAF-Pro-Start-120-lin-ft-Eave-and-Rake-Roofing-Starter-Strip-Shingles-1126000/202052408",
+    "brand": "GAF",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Shingles/GAF/N-5yc1vZc5rbZll",
+    "title": "GAF Pro-Start 120 lin. ft. Eave and Rake Roofing Starter Strip Shingles",
+    "upc": "073590996251",
+    "item_id": "202052408",
+    "store_sku": "919062",
+    "model_number": "1126000",
+    "description": "Pro-Start Eave/Rake starter strip is a key part of the GAF Smart Choice Roof System Solution. Using a pre-cut eave/rake starter strip will provide a cost-effective alternative to using cut-up shingles as your starter course. Includes a high-quality, properly positioned adhesive that will tightly lock your shingles in place to help prevent blow-off. Is easy to use and install, with no cutting on the roof.",
+    "favorite_count": 1639,
+    "aisle": "25",
+    "bay": "010",
+    "collection": {
+      "id": "Family-314722436",
+      "name": "Family-314722436",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Timberline-HDZ-Shingle-Collection/Family-314722436?omsid=202052408"
+    },
+    "feature_bullets": [
+      "Economical alternative to using cut-up 3-tab strip shingles",
+      "Tightly locks your shingles to help prevent shingle blow off",
+      "Keep property tidy by reducing waste from cutting 3-tab shingles"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://quickmeasure.gaf.com/THD\" target=\"_blank\" style=\"color:#F96302;\">Don't know how much to order? A GAF QuickMeasure report provides all of the measurement data you need when planning your material orders.&nbsp;A complete bill of materials, with Home Depot product&nbsp;SKUs, is provided with each single-family report delivered in under 1 hour. Learn more here. [gaf.com [gaf.com]]</a>",
+      "Great performance dura grip adhesive locks the first course of shingles in place, reducing the risk of shingle blow-off",
+      "For maximum protection also install along rake edges to help protect shingles from wind uplift (and avoid the mess of hand-sealing the rake edges)",
+      "Eliminates waste quick and easy to install with no waste",
+      "Saves you time and labor no more wasted time cutting laminated and strip shingles",
+      "19 full sheets per bundle (38 individual pieces)",
+      "Shop all <a href=\"https://www.homedepot.com/b/Building-Materials-Roofing-Gutters-Roofing-Roof-Shingles/GAF/N-5yc1vZc5rbZll\" target=\"_blank\" style=\"color:#F96302;\">GAF Shingles</a> here"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/49b65819-3f9c-4b26-9837-6b1e355ddaaa/svn/gaf-roof-shingles-1126000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8276d877-6446-46e9-8831-7fda807ef2b0/svn/gaf-roof-shingles-1126000-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/be62a12d-f331-4495-b303-2a4d2fa0af3c/svn/gaf-roof-shingles-1126000-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2ee272d5-c95b-45ef-af80-6fbdb6382095/svn/gaf-roof-shingles-1126000-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9d25a8df-ef35-4b39-992a-509787b7688c/svn/gaf-roof-shingles-1126000-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d5a2e40-6c4d-4a84-a7a4-e5cbd1893a97/svn/gaf-roof-shingles-1126000-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2d0340af-c039-454c-b88c-dc96e90d4f03/svn/gaf-roof-shingles-1126000-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fc069589-b2d4-4072-b85e-ebf0cfe2bc16/svn/gaf-roof-shingles-1126000-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46f0a9ca-0c9f-44da-b51b-223b100c9351/svn/gaf-roof-shingles-1126000-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/49b65819-3f9c-4b26-9837-6b1e355ddaaa/svn/gaf-roof-shingles-1126000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/0e002483-f854-42a9-95e0-03ac50098a74/cbf90848-50f9-4e1b-9251-4f9c3b4d7c89/main.mp4?fastly_token=NjgzODI5ZDRfMzE1ZGIxMTMyNjE0YThlZmM4YThhMTk5ODViMWU2ODVjZmVlMzgzYTI4ZDJhNzljNTQ1ODY3OGVhMWYwMTViNV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8wZTAwMjQ4My1mODU0LTQyYTktOTVlMC0wM2FjNTAwOThhNzQvY2JmOTA4NDgtNTBmOS00ZTFiLTkyNTEtNGY5YzNiNGQ3Yzg5L21haW4ubXA0&pubid=66036796001",
+        "title": "0866V01ProStart_Website30_071923",
+        "id": "6340384848112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/0e002483-f854-42a9-95e0-03ac50098a74/main/160x90/15s424ms/match/image.jpg?pubId=66036796001",
+        "description": "Pro-Start"
+      }
+    ],
+    "ratings_total": 209,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Dura Grip Adhesive"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fire Rating (UL 790)",
+        "value": "Class A"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Asphalt"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of pieces per bundle",
+        "value": "19"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "52 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Roofing Product Type",
+        "value": "Starter Shingle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shingle Type",
+        "value": "Starter Shingle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Granulated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Warranty",
+        "value": "No Warranty Available"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Varies by Application - See Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Coverage Area (sq. ft.)",
+        "value": "60 sq ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "38 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "2.4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "13 in"
+      }
+    ],
+    "keywords_list": [
+      "shingle",
+      "starter shingle",
+      "shingles",
+      "starter shingles",
+      "roofing",
+      "starter roofing",
+      "GAF shingle",
+      "GAF shingles",
+      "GAF roofing"
+    ],
+    "keywords": "shingle, starter shingle, shingles, starter shingles, roofing, starter roofing, GAF shingle, GAF shingles, GAF roofing",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Roofing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing/N-5yc1vZaq7m"
+      },
+      {
+        "name": "Roof Shingles",
+        "link": "https://www.homedepot.com/b/Building-Materials-Roofing-Roof-Shingles/N-5yc1vZc5rb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 54.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "bundle",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 12
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 1564,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

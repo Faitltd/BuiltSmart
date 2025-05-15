@@ -1,0 +1,173 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14713,
+    "overage_used": 4713,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Select-1-in-x-8-in-x-12-ft-Pebble-Grey-Capped-Fascia-Composite-Decking-Board-PG010812SS01/206821205"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:06:11.119Z",
+    "processed_at": "2025-05-01T19:06:18.462Z",
+    "total_time_taken": 7.34,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Select-1-in-x-8-in-x-12-ft-Pebble-Grey-Capped-Fascia-Composite-Decking-Board-PG010812SS01/206821205"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Select-1-in-x-8-in-x-12-ft-Pebble-Grey-Capped-Fascia-Composite-Decking-Board-PG010812SS01/206821205",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Select 1 in. x 8 in. x 12 ft. Pebble Grey Capped Fascia Composite Decking Board",
+    "upc": "652835178944",
+    "item_id": "206821205",
+    "store_sku": "1001716317",
+    "model_number": "PG010812SS01",
+    "description": "No deck is complete without tidy edges. Our composite fascia is the perfect finishing touch to a low-maintenance, high-profile deck. With a nature-inspired wood-grain pattern in beautiful, go-with-anything colors, your deck will look good from any angle for decades to come. Tired weekends of painting and staining are long behind you with Trex Fascia.",
+    "is_top_rated": true,
+    "favorite_count": 6,
+    "feature_bullets": [
+      "To get a quote, call 1-844-233-9700 from 8 am - 10 pm EST",
+      "Fade and mold resistant boards are low-maintenance",
+      "Available nationwide with multiple delivery options"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Finishes the edge of your deck and stair risers",
+      "Superior resistance to fade, stains, rot and mold",
+      "Low maintenance, with no sanding, staining or painting required",
+      "Backed by the trex 25-year limited residential fade and stain warranty",
+      "Made from 95% recycled materials",
+      "Made of the same high-performance composite as trex deck boards; won't rot, warp or splinter, unlike wood",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/TREX COMPANY INC/TRX0489_HD_Graphic_TrexVsWood_Gray.jpg\">"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/ff972f5b-3f6d-43cd-922f-a1af5cda570a/svn/gray-trex-composite-decking-boards-pg010812ss01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8b0efe78-60f3-46f3-a68b-2f5f9be99ab4/svn/gray-trex-composite-decking-boards-pg010812ss01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/62f8fb2a-6704-4861-a290-3fc185eb4eb4/svn/gray-trex-composite-decking-boards-pg010812ss01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/ff972f5b-3f6d-43cd-922f-a1af5cda570a/svn/gray-trex-composite-decking-boards-pg010812ss01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4935f6a9-518b-44d7-bc7d-d128317ea6cd/d69d14a0-18f1-44da-8173-57b527995967/main.mp4?fastly_token=NjgzODI0NThfYWE5MmUwMzVlY2RiM2VkMmIwNjMyM2E3NGUwNGJmZDlhMjA0NGVjOWJmYjc3OTFhM2U1M2ZiMDA1NzJmNjMwOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80OTM1ZjZhOS01MThiLTQ0ZDctYmM3ZC1kMTI4MzE3ZWE2Y2QvZDY5ZDE0YTAtMThmMS00NGRhLTgxNzMtNTdiNTI3OTk1OTY3L21haW4ubXA0&pubid=66036796001",
+        "title": "Trex Decking Video",
+        "id": "5449729099001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/4935f6a9-518b-44d7-bc7d-d128317ea6cd/41c982cf-3a49-4d4a-add2-1c575bbc9d0d/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Please attach this Trex decking video to the below OMSIDs"
+      }
+    ],
+    "ratings_total": 158,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex recommended fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 25-Year Limited Residential Warranty and the Trex 25-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.56 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "7.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "33"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "8 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ]
+  }
+}

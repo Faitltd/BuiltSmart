@@ -1,0 +1,202 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13634,
+    "overage_used": 3634,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOUSE-OF-FARA-LWM-623-1-2-in-D-x-3-1-4-in-W-x-96-in-L-Prefinished-White-Wood-Finger-Joined-Baseboard-Moulding-L623A-F7096CME/332835170"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:52:18.908Z",
+    "processed_at": "2025-05-01T16:52:27.225Z",
+    "total_time_taken": 8.32,
+    "homedepot_url": "https://www.homedepot.com/p/HOUSE-OF-FARA-LWM-623-1-2-in-D-x-3-1-4-in-W-x-96-in-L-Prefinished-White-Wood-Finger-Joined-Baseboard-Moulding-L623A-F7096CME/332835170"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOUSE-OF-FARA-LWM-623-1-2-in-D-x-3-1-4-in-W-x-96-in-L-Prefinished-White-Wood-Finger-Joined-Baseboard-Moulding-L623A-F7096CME/332835170",
+    "brand": "HOUSE OF FARA",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/HOUSE-OF-FARA/N-5yc1vZcbjpZucc",
+    "title": "HOUSE OF FARA LWM 623 1/2 in. D x 3-1/4 in. W x 96 in. L Prefinished White Wood Finger-Joined Baseboard Moulding",
+    "upc": "043559216232",
+    "item_id": "332835170",
+    "store_sku": "1012942290",
+    "model_number": "L623A-F7096CME",
+    "description": "Base moulding if you ft. re looking to add interest and dimension to your room or project. This prefinished white moulding adds a touch of charming elegance. Manufactured from poplar hardwood, is already finished for easy installation. Its unique detail will add an architectural touch to any room or project.",
+    "descriptive_attributes": [
+      "Cut easy with hand or power saws",
+      "Prefinished white for an easy install",
+      "Add an architectural touch to any room or project",
+      "Indoor use only",
+      "For indoor use only"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/628d0c9b-28ac-4749-a90d-3888f2a5909e/svn/finished-house-of-fara-baseboard-l623a-f7096cme-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b5238290-4c25-4903-b8ec-25dc0dc25a05/svn/finished-house-of-fara-baseboard-l623a-f7096cme-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/628d0c9b-28ac-4749-a90d-3888f2a5909e/svn/finished-house-of-fara-baseboard-l623a-f7096cme-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 2,
+    "rating": 3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "623"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Satisfaction Guaranteed"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": ".5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "96 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 17.18,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3000,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3000,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13015,
+    "overage_used": 3015,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Clear-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-2-Pack-7079818304/317658486"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:37:54.850Z",
+    "processed_at": "2025-05-01T13:38:04.104Z",
+    "total_time_taken": 9.25,
+    "homedepot_url": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Clear-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-2-Pack-7079818304/317658486"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Clear-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-2-Pack-7079818304/317658486",
+    "brand": "DAP",
+    "brand_link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Sealants/DAP/N-5yc1vZcibvZ1wf",
+    "title": "DAP Dynaflex 230 10.1 oz. Clear Premium Exterior/Interior Window, Door and Trim Sealant (2-Pack)",
+    "upc": "070798433045",
+    "item_id": "317658486",
+    "parent_id": "302216765",
+    "model_number": "7079818304",
+    "description": "DAP Dynaflex 230 is a premium elastomeric latex sealant with silicone-like toughness. This DAP sealant combines outstanding durability, adhesion and flexibility with easy tooling, paintability, low odor and water clean-up. It is highly flexible to handle joint movement caused by variations in temperature and humidity without cracking making it an excellent choice for outdoor use. DAP Dynaflex 230 Clear applies white and dries clear in 7 to 14 days depending on joint depth, temperature and humidity. Provides a long-lasting, durable seal that is 100% waterproof and weatherproof. Ideal for caulking and sealing air leaks around windows, doors, siding, trim and baseboards to improve the energy efficiency of a home and reduce utility costs. Cured sealant is mold and mildew resistant. Meets ASTM Specification C920, Class 25. VOC compliant. Interior/exterior use. DAP caulk and sealants provide durable performance for a variety of projects.",
+    "is_top_rated": true,
+    "feature_bullets": [
+      "Long lasting, all-purpose acrylic latex caulk plus silicone",
+      "Seals joints up to 1 in. wide in windows, doors and siding",
+      "Interior and exterior, 100% paintable and crack resistant"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">Step-by-Step How to Caulk like a Professional</a>",
+      "DAP Dynaflex 230 sealant is Silicone tough with superior flexibility and crackproof performance; use for windows, doors, siding, trim, baseboards and more",
+      "Dynaflex 230 is a premium elastomeric latex paintable sealant that creates a 100% waterproof sealant that provides a weatherproof seal",
+      "Clear sealant seals joints up to 2\" wide and performs like silicone providing a highly flexible sealant that handles joint movement without cracking",
+      "Premium elastomeric latex sealant is low in odor and cleans up with water",
+      "Adheres to a wide range of building materials indoors or outdoors, such as wood, MDF, PVC, polystyrene, and composite trimboard; meets ASTM Specification C920, Class 25",
+      "Applies white and dries clear 7 to 14 days after application, may be painted following full cure",
+      "Cured sealant is mold and mildew resistant, keeping the caulk looking clean and fresh",
+      "Fully cured in 7 to 14 days (once sealant turns from white to clear)",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-caulk/9ba683603be9fa5395fab9012f8277f\" target=\"_blank\" style=\"color:#F96302;\">How to Caulk Like a Professional</a>",
+      "<a href=\"https://www.homedepot.com/c/ab/best-caulks-and-sealants-for-your-home-improvement-projects/9ba683603be9fa5395fab90d0b119c3\" target=\"_blank\" style=\"color:#F96302;\">Best Caulks and Sealants for Your Home Improvement Projects</a>",
+      "<a href=\"https://www.homedepot.com/c/ah/how-to-use-a-caulk-gun/9ba683603be9fa5395fab9014749e39b\" target=\"_blank\" style=\"color:#F96302;\">How to use a caulk gun</a>",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/energy-efficiency/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Energy Efficiency</a>",
+      "<img src=\"https://inlinecontent.thdstatic.com/24/DAP INC/THD_InlineContent_Dynaflex230.jpg\">"
+    ],
+    "descriptive_attributes_count": 14,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f21ff366-0dd3-4846-b86c-ebb395045146/svn/clear-dap-sealants-7079818304-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6bb21edd-1517-4d4b-b958-3e9ba05e4d13/svn/clear-dap-sealants-7079818304-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34dcfa77-757f-4151-acee-94bf88d7ee06/svn/clear-dap-sealants-7079818304-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/03e1b53a-84e4-4368-9463-3509475038c8/svn/clear-dap-sealants-7079818304-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34db2be6-cac1-4c76-ab4b-1359b90d72ae/svn/clear-dap-sealants-7079818304-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dbee259a-e7ad-48df-b358-632a70738b44/svn/clear-dap-sealants-7079818304-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/63101769-e001-4791-91a5-6b4b5cd6efa0/svn/clear-dap-sealants-7079818304-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bc74e3b7-bb7d-4d20-bd1c-7fbd5b7f4de0/svn/clear-dap-sealants-7079818304-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2d50f73e-dcef-4fd0-9763-900bbc26d925/svn/clear-dap-sealants-7079818304-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25510d70-14b5-47b8-8db8-fa8740a4d9f2/svn/clear-dap-sealants-7079818304-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fde93db7-08bb-448e-bfd2-05d1e6fd96a1/svn/clear-dap-sealants-7079818304-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fde93db7-08bb-448e-bfd2-05d1e6fd96a1/svn/clear-dap-sealants-7079818304-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d6b090fb-6ef6-45bb-bfe6-3db07deaeb7e/svn/clear-dap-sealants-7079818304-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f21ff366-0dd3-4846-b86c-ebb395045146/svn/clear-dap-sealants-7079818304-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1781,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Application",
+        "value": "Window & Door"
+      },
+      {
+        "group_name": "Details",
+        "name": "Caulk and Sealant Type",
+        "value": "Elastomeric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage (linear ft.)",
+        "value": "55"
+      },
+      {
+        "group_name": "Details",
+        "name": "Cure Time (hours)",
+        "value": "24"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry Color Family",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Moisture Resistant,Mold and Mildew Resistant,Permanently Flexible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Kit",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Tubes Included",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Professional Paint Supplies & Values",
+        "value": "Pro Supplies"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sealant Form",
+        "value": "Standard Tube"
+      },
+      {
+        "group_name": "Details",
+        "name": "Transparency",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ASTM Compliant"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "50 Year Durability Guarantee"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Individual size (oz.)",
+        "value": "10.1 oz"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-White-Premium-Elastomeric-Exterior-Interior-Window-Door-and-Trim-Sealant-2-Pack-18275/317619597",
+        "item_id": "317619597"
+      },
+      {
+        "title": "Almond~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Almond-Premium-Elastomeric-Exterior-Interior-Window-Door-and-Trim-Sealant-18288/100122579",
+        "item_id": "100122579"
+      },
+      {
+        "title": "Dark Bronze~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Dark-Bronze-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-12-Pack-7079818420/204700406",
+        "item_id": "204700406"
+      },
+      {
+        "title": "Black~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Black-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-12-Pack-7079818280/204700405",
+        "item_id": "204700405"
+      },
+      {
+        "title": "Gray~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Gray-Premium-Latex-Exterior-Interior-Window-Door-and-Trim-Sealant-12-Pack-7079818286/204700404",
+        "item_id": "204700404"
+      },
+      {
+        "title": "Almond~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Almond-Premium-Latex-Exterior-Interior-Window-Door-and-Trim-Sealant-12-Pack-7079818288/204700391",
+        "item_id": "204700391"
+      },
+      {
+        "title": "White~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-White-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-12-Pack-7079818275/204700390",
+        "item_id": "204700390"
+      },
+      {
+        "title": "Almond~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Almond-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-2-Pack-7079818288/319646554",
+        "item_id": "319646554"
+      },
+      {
+        "title": "White~~5.5 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-5-5-oz-White-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-2-Pack-7079818886/319661333",
+        "item_id": "319661333"
+      },
+      {
+        "title": "Clear~~10.1 oz~~2",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Clear-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-2-Pack-7079818304/317658486",
+        "item_id": "317658486"
+      },
+      {
+        "title": "Brown~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Brown-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-12-Pack-7079818418/204700393",
+        "item_id": "204700393"
+      },
+      {
+        "title": "White~~10.1 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-White-Premium-Elastomeric-Exterior-Interior-Window-Door-and-Trim-Sealant-18275/100035980",
+        "item_id": "100035980"
+      },
+      {
+        "title": "Tan~~10.1 oz~~12",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-10-1-oz-Tan-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-12-Pack-7079818412/204700392",
+        "item_id": "204700392"
+      },
+      {
+        "title": "White~~5.5 oz~~1",
+        "link": "https://www.homedepot.com/p/DAP-Dynaflex-230-White-5-5-oz-Premium-Exterior-Interior-Window-Door-and-Trim-Sealant-18886/100493602",
+        "item_id": "100493602"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Paint Supplies",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies/N-5yc1vZci1w"
+      },
+      {
+        "name": "Caulk & Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants/N-5yc1vZc5bp"
+      },
+      {
+        "name": "Sealants",
+        "link": "https://www.homedepot.com/b/Paint-Paint-Supplies-Caulk-Sealants-Sealants/N-5yc1vZcibv"
+      }
+    ],
+    "buybox_winner": {
+      "price": 11.55,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "package",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 197,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 197,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

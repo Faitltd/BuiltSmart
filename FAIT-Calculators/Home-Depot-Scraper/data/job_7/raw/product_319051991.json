@@ -1,0 +1,281 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13368,
+    "overage_used": 3368,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Grip-Rite-10-x-3-in-305-Stainless-Steel-Star-Drive-Bugle-Head-Coarse-Thread-Deck-Screws-5-lb-Box-MAXS310DS3055/319051991"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:55:43.584Z",
+    "processed_at": "2025-05-01T13:55:48.263Z",
+    "total_time_taken": 4.68,
+    "homedepot_url": "https://www.homedepot.com/p/Grip-Rite-10-x-3-in-305-Stainless-Steel-Star-Drive-Bugle-Head-Coarse-Thread-Deck-Screws-5-lb-Box-MAXS310DS3055/319051991"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Grip-Rite-10-x-3-in-305-Stainless-Steel-Star-Drive-Bugle-Head-Coarse-Thread-Deck-Screws-5-lb-Box-MAXS310DS3055/319051991",
+    "brand": "Grip-Rite",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/Grip-Rite/N-5yc1vZ2fkpe61Z5kt",
+    "title": "Grip-Rite #10 x 3 in. 305 Stainless Steel Star Drive Bugle Head Coarse Thread Deck Screws 5 lb. Box",
+    "upc": "764666749542",
+    "item_id": "319051991",
+    "parent_id": "329858220",
+    "store_sku": "1007471793",
+    "model_number": "MAXS310DS3055",
+    "description": "Grip-Rite MAX MAXS310DS3055 #10 x 3 in. 305 Stainless Steel Star Drive Bugle Head Coarse Thread Deck Screws a T17 point which means you won't need to pre-drill during construction. Designed for exterior, wood to wood applications, the deep cut threads reduce splitting and speed installation. With a T-25 star drive bit included, you'll have everything you need for speedy installation in high humidity areas.",
+    "aisle": "17",
+    "bay": "011",
+    "feature_bullets": [
+      "#10 x 3 in. screws for wood decking near water",
+      "Hand drive fastener for use in exterior wood to wood applications",
+      "Made from stainless steel for use with cedar and in coastal areas"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Used for building decks, docks, and other wood construction",
+      "Constructed from stainless steel for corrosion protection",
+      "305 Stainless Steel resists corrosion in wet, harsh environments",
+      "#10 x 3 in. screws for coastal applications",
+      "Star drive allows more torque for fast driving and fewer cam outs",
+      "Coarse threads for a tight bond between materials",
+      "5 lb. box with around 321 #10 x 3 in. wood deck screws"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/13d61895-18cb-43d2-beed-e0a2ef00020b/svn/grip-rite-deck-screws-maxs310ds3055-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2a2bc33f-5439-478a-b963-d13795b9738f/svn/grip-rite-deck-screws-maxs310ds3055-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fdd90619-7429-4097-979a-42a6765f3888/svn/grip-rite-deck-screws-maxs310ds3055-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/28a3174f-f4c9-4dae-8b6b-7e6c8860b604/svn/grip-rite-deck-screws-maxs310ds3055-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d3d46bce-e58f-4acf-8126-6c596e089bac/svn/grip-rite-deck-screws-maxs310ds3055-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4cbb7ce4-77d7-44aa-a1ac-d813c3595860/svn/grip-rite-deck-screws-maxs310ds3055-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/14730f8b-61cc-4470-b914-2289ec76a030/svn/grip-rite-deck-screws-maxs310ds3055-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ee8c9f7d-ce1a-41ba-97ba-6fb9d0437fb2/svn/grip-rite-deck-screws-maxs310ds3055-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b5fdf327-8d26-4221-a440-99d5337d840a/svn/grip-rite-deck-screws-maxs310ds3055-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/852214c2-a57e-4b55-a894-b41cd0b1e182/svn/grip-rite-deck-screws-maxs310ds3055-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f1ad10ce-2028-4bd7-b389-2152a4b629e3/svn/grip-rite-deck-screws-maxs310ds3055-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/13d61895-18cb-43d2-beed-e0a2ef00020b/svn/grip-rite-deck-screws-maxs310ds3055-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/ad447cd5-7f05-40c4-bf50-896ddf937d3d/e8295825-18d3-417b-a9d9-a0475e07a158/main.mp4?fastly_token=NjgxMzkxODVfZTgyNDk2ZjJjMTJhMzA3NDk3NDY4Njc2ZTkyNjU0N2MwZmZjYzFkNGY2M2ZhOGRmMjIyYmZmY2IzNzNiZmY1MF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvYWQ0NDdjZDUtN2YwNS00MGM0LWJmNTAtODk2ZGRmOTM3ZDNkL2U4Mjk1ODI1LTE4ZDMtNDE3Yi1hOWQ5LWEwNDc1ZTA3YTE1OC9tYWluLm1wNA%3D%3D",
+        "title": "Grip-Rite Exterior Screw Video",
+        "id": "6362507845112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/ad447cd5-7f05-40c4-bf50-896ddf937d3d/main/160x90/15s40ms/match/image.jpg",
+        "description": "Grip-Rite Exterior Screws\n"
+      }
+    ],
+    "ratings_total": 426,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Wood Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "320"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Dual Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "9 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Thread Pitch (mm)",
+        "value": "2.82 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Threads Per Inch (TPI)",
+        "value": "9"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "1-5/8 in~~#8~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-8-x-1-5-8-in-305-Stainless-Steel-Star-Drive-Bugle-Head-Coarse-Thread-Deck-Screws-1-lb-Box-MAXS1588DS3051/319052004",
+        "item_id": "319052004"
+      },
+      {
+        "title": "3 in~~#10~~Black~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-10-x-3-in-305-Stainless-Steel-Star-Drive-Bugle-Head-Coarse-Thread-Deck-Screws-5-lb-Box-MAXS310DS3055/319051991",
+        "item_id": "319051991"
+      },
+      {
+        "title": "3 in~~#10~~Silver~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-10-x-3-in-305-Stainless-Steel-Star-Drive-Bugle-Head-Coarse-Thread-Deck-Screws-1-lb-Box-MAXS310DS3051/319052003",
+        "item_id": "319052003"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Black~~1 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-10-x-2-1-2-in-305-Stainless-Steel-Star-Drive-Bugle-Head-Coarse-Thread-Deck-Screws-1-lb-Box-MAXS21210DS3051/319051996",
+        "item_id": "319051996"
+      },
+      {
+        "title": "2-1/2 in~~#10~~Black~~5 lb",
+        "link": "https://www.homedepot.com/p/Grip-Rite-10-x-2-1-2-in-305-Stainless-Steel-Star-Drive-Bugle-Head-Coarse-Thread-Deck-Screws-5-lb-Box-MAXS21210DS3055/319052009",
+        "item_id": "319052009"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Wood Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Wood-Deck-Screws/N-5yc1vZ2fkpe61"
+      }
+    ],
+    "buybox_winner": {
+      "price": 49.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 7
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 8,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

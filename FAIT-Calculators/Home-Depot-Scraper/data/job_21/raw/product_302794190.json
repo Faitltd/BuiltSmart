@@ -1,0 +1,264 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14611,
+    "overage_used": 4611,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-3-in-ZMAX-Black-Powder-Coated-Deck-Joist-Tie-for-2x-Nominal-Lumber-APDJT2-4/302794190"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:55:51.793Z",
+    "processed_at": "2025-05-01T18:56:07.967Z",
+    "total_time_taken": 16.17,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-3-in-ZMAX-Black-Powder-Coated-Deck-Joist-Tie-for-2x-Nominal-Lumber-APDJT2-4/302794190"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Mission-Collection-3-in-ZMAX-Black-Powder-Coated-Deck-Joist-Tie-for-2x-Nominal-Lumber-APDJT2-4/302794190",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Metal-Straps/Simpson-Strong-Tie/N-5yc1vZaqtaZ615",
+    "title": "Simpson Strong-Tie Outdoor Accents Mission Collection 3 in. ZMAX, Black Powder-Coated Deck Joist Tie for 2x Nominal Lumber",
+    "upc": "707392284611",
+    "item_id": "302794190",
+    "store_sku": "1004078459",
+    "model_number": "APDJT2-4",
+    "description": "The Simpson Strong-Tie Outdoor Accents line of decorative hardware features connectors and fasteners that bring beauty and strength to custom outdoor living structures. The deck joist tie attaches 2x joists to the side of 4x or larger support posts. It installs quickly and easily with the Outdoor Accents structural wood screw and hex-head washer for the look of a bolted connection. Part of the Mission Collection.",
+    "favorite_count": 92,
+    "collection": {
+      "id": "Family-320411490",
+      "name": "Family-320411490",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Mission/Family-320411490?omsid=302794190"
+    },
+    "feature_bullets": [
+      "Global leader in structural construction products since 1956",
+      "Products designed and tested for strength and easy installation",
+      "Diverse product line trusted by Pros and DIYers alike"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "The Mission Collection adds a hint of Southwestern flair",
+      "Width: 3-in",
+      "Depth: 1-1/2-in",
+      "Made from 12-gauge steel",
+      "ZMAX galvanization with a black powder coat offers extra corrosion resistance for exterior and treated-wood applications",
+      "Install with Outdoor Accents hex-head washer (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Outdoor-Accents-Black-Powder-Coated-Hex-Head-Washer-8-Pack-STN22-R8/300068846\" target=\"_blank\" style=\"color:#F96302;\">STN22</a>) and structural wood screws (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-3-1-2-in-x-0-162-in-SCN-Smooth-Shank-HDG-Connector-Nail-40-Pack-16DHDG-R/206101781\" target=\"_blank\" style=\"color:#F96302;\">SDWS22312DBB</a> and <a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-9-x-1-1-2-in-1-4-Hex-Drive-Strong-Drive-SD-Connector-Screw-100-Pack-SD9112R100/202071152\" target=\"_blank\" style=\"color:#F96302;\">SD9112</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/76207e70-778b-40b2-a7a7-3e6d71ca1312/svn/simpson-strong-tie-metal-straps-apdjt2-4-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e2489e29-8c2f-45b3-8c85-e03949a32627/svn/simpson-strong-tie-metal-straps-apdjt2-4-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e227b87b-73f8-42b7-a9c6-e379d6531de7/svn/simpson-strong-tie-metal-straps-apdjt2-4-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f9efbf28-6565-4e4b-b836-bd9cf7386ad9/svn/simpson-strong-tie-metal-straps-apdjt2-4-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e91583c1-a3e8-4576-9b30-bfc4b4af9ce4/svn/simpson-strong-tie-metal-straps-apdjt2-4-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f0720896-039e-49db-9027-355b73a4caf2/svn/simpson-strong-tie-metal-straps-apdjt2-4-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5f32de90-bbe1-4db7-938a-cec57439296c/svn/simpson-strong-tie-metal-straps-apdjt2-4-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/494b236f-a7ee-4055-ab84-724bc73289f6/svn/simpson-strong-tie-metal-straps-apdjt2-4-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/890e2130-2666-41f6-a7be-78e28e5166d8/svn/simpson-strong-tie-metal-straps-apdjt2-4-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-metal-straps-apdjt2-4-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e4ce4767-38c3-40ba-8492-e9065b5b5a28/svn/simpson-strong-tie-metal-straps-apdjt2-4-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-metal-straps-apdjt2-4-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/76207e70-778b-40b2-a7a7-3e6d71ca1312/svn/simpson-strong-tie-metal-straps-apdjt2-4-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4cbd15de-1a11-412f-a3c8-88eb416213f9/3bf207c0-5b9a-47ca-87b2-151bb52dca3d/main.mp4?fastly_token=NjgzODQ1YjBfOWY4NDlhYTEzYTM4ZjM2NGZkNTY0NzQ3ODExNWU1NzEyNzRmYzcyNjgzN2QxMGFkMzM5YjdhYmRkMjhlYjJjZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80Y2JkMTVkZS0xYTExLTQxMmYtYTNjOC04OGViNDE2MjEzZjkvM2JmMjA3YzAtNWI5YS00N2NhLTg3YjItMTUxYmI1MmRjYTNkL21haW4ubXA0&pubid=66036796001",
+        "title": "Build a Stronger Deck: Beam Connections",
+        "id": "6183646363001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/4cbd15de-1a11-412f-a3c8-88eb416213f9/3c489979-6d4b-4eac-9b95-5c27551ccda3/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Deck beams are the horizontal framing members that support the joists. We highlight the available beam connection options to help you select what\u2019s best for your project."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgxM2FhYThfMmE2MzkzNzdjNTk0OGVjZWQzZmM1NmQxNWI2YTYyYzQxNTU4NTkyYTg4YTc3Yjg3MDU4NGMyMmVkN2M5ZWEyZF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 36,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Black"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Powder coated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector recommendation",
+        "value": "Tie"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Decorative"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "12"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "0.9 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Staggered Nail Pattern",
+        "value": "Not Staggered"
+      },
+      {
+        "group_name": "Details",
+        "name": "Strap Type",
+        "value": "Tie"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "10 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Metal Straps",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Metal-Straps/N-5yc1vZaqta"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.88,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0111",
+          "in_stock": true,
+          "stock_level": 71,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 78,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

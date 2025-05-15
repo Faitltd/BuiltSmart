@@ -1,0 +1,186 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13144,
+    "overage_used": 3144,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/ForceField-7-16-in-x-4-ft-x-8-ft-Forcefield-Oriented-Strand-Board-Wall-and-Roof-Panel-1366586/319932079"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:45:24.734Z",
+    "processed_at": "2025-05-01T13:45:28.957Z",
+    "total_time_taken": 4.22,
+    "homedepot_url": "https://www.homedepot.com/p/ForceField-7-16-in-x-4-ft-x-8-ft-Forcefield-Oriented-Strand-Board-Wall-and-Roof-Panel-1366586/319932079"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/ForceField-7-16-in-x-4-ft-x-8-ft-Forcefield-Oriented-Strand-Board-Wall-and-Roof-Panel-1366586/319932079",
+    "brand": "ForceField",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Oriented-Strand-Board-OSB/ForceField/N-5yc1vZbqpqZb5p",
+    "title": "ForceField 7/16 in. x 4 ft. x 8 ft. Forcefield Oriented Strand Board (Wall and Roof) Panel",
+    "upc": "181999563377",
+    "item_id": "319932079",
+    "store_sku": "1006212867",
+    "model_number": "1366586",
+    "description": "ForceField Panels are at the core of the ForceField Weather Barrier System from Georgia-Pacific, the industry leader in building products. This smarter sheathing system for walls and sloped roofs is a faster, easier alternative to both house wrap and roof underlayment. These panels provide a superior level of protection against air and water intrusion. ForceField Panels help to keep water out without affecting the permeability of the panel itself, allowing water vapor to escape and promote drying. - Consist of structural sheathing with a water-resistive overlay - Install easily like standard OSB or plywood sheathing - Exceptional drainage capability - Work with accessories to help keep builds dry and energy efficient - Ideal for walls and sloped roofs in residential, multifamily and light commercial construction",
+    "descriptive_attributes": [
+      "For Wall Applications:",
+      "Use ForceField Panels with ForceField Seam Tape",
+      "System helps protect against air and moisture intrusion",
+      "Eliminates the need for house wrap and related repairs",
+      "Ideal for walls in residential, multi-family, light commercial construction and sloped roofs",
+      "Warranty: 6 months for exposure to normal weather conditions and 10 years for manufacturing defects*",
+      "For Sloped Roof Applications:",
+      "Use ForceField Panels with ForceField Premium Tape",
+      "Eliminates the need for a waterproofing underlayment and related repairs",
+      "Warranty: 90-day exposure warranty and 10-year limited warranty from Georgia-Pacific*",
+      "* For full terms and conditions, please visit warranty.gpforcefield.com."
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7f7a6301-1f31-4a31-be28-28d4a27136bb/svn/forcefield-oriented-strand-board-osb-1366586-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7f7a6301-1f31-4a31-be28-28d4a27136bb/svn/forcefield-oriented-strand-board-osb-1366586-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exposure 1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Depth (IN)",
+        "value": "96"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Height (IN)",
+        "value": "30"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Weight (LB)",
+        "value": "3336"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet Width (IN)",
+        "value": "48"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pallet/Pack Quantity",
+        "value": "64"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "Structural l Rated Sheathing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "OSB"
+      },
+      {
+        "group_name": "Details",
+        "name": "Span Rating",
+        "value": "24/16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Yes"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.418 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "7/16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Oriented Strand Board - OSB",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Oriented-Strand-Board-OSB/N-5yc1vZbqpq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 22.4,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 123
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 6479,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

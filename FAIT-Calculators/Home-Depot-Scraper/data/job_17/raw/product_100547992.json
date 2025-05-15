@@ -1,0 +1,224 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14029,
+    "overage_used": 4029,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-3-4-in-x-3-4-in-Vinyl-Composite-Inside-Corner-Molding-0202112001/100547992"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:51:56.633Z",
+    "processed_at": "2025-05-01T17:52:00.715Z",
+    "total_time_taken": 4.08,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-3-4-in-x-3-4-in-Vinyl-Composite-Inside-Corner-Molding-0202112001/100547992"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-12-ft-x-3-4-in-x-3-4-in-Vinyl-Composite-Inside-Corner-Molding-0202112001/100547992",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/Royal-Mouldings/N-5yc1vZcbjfZ8ui",
+    "title": "Royal Mouldings 12 ft. x 3/4 in. x 3/4 in. Vinyl Composite Inside Corner Molding",
+    "upc": "070673868399",
+    "item_id": "100547992",
+    "store_sku": "227661",
+    "model_number": "0202112001",
+    "description": "This 12 ft. x 3/4 in. x 3/4 in. Vinyl Inside Corner Molding. It is the sensible way to finish an exterior. This strong molding can be worked like wood but you'll have no worries with regard to rot or termite damage.",
+    "favorite_count": 391,
+    "aisle": "19",
+    "bay": "005",
+    "feature_bullets": [
+      "Primed white finish brings a classy vibe to your decor",
+      "Vinyl molding for strength and durability",
+      "Intended for outdoor use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Polymer extrusion cuts and nails better than wood and will not split or crack",
+      "Pre-finished white and repaintable with oil or latex paint",
+      "Moisture and termite resistant",
+      "For exterior inside corners",
+      "12 ft. Length",
+      "Note: Product may vary by store"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0093b6d4-934c-4f5c-8baf-90c1551ba693/svn/white-royal-mouldings-corner-moulding-0202112001-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1654dfdf-c123-4fb0-83e7-d49282bfaa02/svn/white-royal-mouldings-corner-moulding-0202112001-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/77538b72-e9cc-4dbd-94bd-dcf1b672e041/svn/white-royal-mouldings-corner-moulding-0202112001-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0729eac4-d59d-48ae-913a-e5ff250947d9/svn/white-royal-mouldings-corner-moulding-0202112001-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1e68b7d6-9111-47df-a49f-ce50d05cb759/svn/white-royal-mouldings-corner-moulding-0202112001-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0093b6d4-934c-4f5c-8baf-90c1551ba693/svn/white-royal-mouldings-corner-moulding-0202112001-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 175,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Corner Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "2021"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited 25 Year Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "144 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "keywords_list": [
+      "inside corner moulding",
+      "exterior inside corner moulding",
+      "moulding",
+      "exterior moulding",
+      "vinyl inside corner moulding",
+      "vinyl moulding"
+    ],
+    "keywords": "inside corner moulding, exterior inside corner moulding, moulding, exterior moulding, vinyl inside corner moulding, vinyl moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Corner Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/N-5yc1vZcbjf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 9.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 40
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 53,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

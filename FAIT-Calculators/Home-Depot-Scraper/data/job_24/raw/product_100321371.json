@@ -1,0 +1,222 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14338,
+    "overage_used": 4338,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM620-9-16-in-x-4-1-4-in-x-192-in-Primed-Finger-Jointed-Pine-Base-Moulding-10000555/100321371"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:27:32.656Z",
+    "processed_at": "2025-05-01T18:27:38.739Z",
+    "total_time_taken": 6.08,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-WM620-9-16-in-x-4-1-4-in-x-192-in-Primed-Finger-Jointed-Pine-Base-Moulding-10000555/100321371"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM620-9-16-in-x-4-1-4-in-x-192-in-Primed-Finger-Jointed-Pine-Base-Moulding-10000555/100321371",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Woodgrain-Millwork/N-5yc1vZcbjpZ7c8",
+    "title": "Woodgrain Millwork WM620 9/16 in. x 4-1/4 in. x 192 in. Primed Finger-Jointed Pine Base Moulding",
+    "upc": "095624984201",
+    "item_id": "100321371",
+    "parent_id": "324384193",
+    "store_sku": "444645",
+    "model_number": "10000555",
+    "description": "The Woodgrain Millwork 4-1/4 in. x 9/16 in. WM 620 Prime Finger-Joint base is the perfect addition to dress up any room. The Woodgrain Millwork Prime Finger-Joint WM 620 base is used cover any imperfections where floor and wall meet. Base Molding can also be used as starter point for a more elaborate built up base boards. Combing other moldings with this base can create looks that range from classic to elegant.",
+    "favorite_count": 619,
+    "aisle": "FW",
+    "bay": "017",
+    "feature_bullets": [
+      "Easy to cut using standard woodworking tools",
+      "Finger-jointed construction improves strength",
+      "The piece has been primed for time-saving convenience"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent pre-primed surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex or oil based paint",
+      "A great foundation for any room, can be paired with any style of casing",
+      "A classic pattern that works with any style",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/19c4fdfb-cae6-40cb-9b1a-1e5d1dda16dc/svn/white-woodgrain-millwork-baseboard-10000555-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-baseboard-10000555-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/19c4fdfb-cae6-40cb-9b1a-1e5d1dda16dc/svn/white-woodgrain-millwork-baseboard-10000555-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 428,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Adhesive,Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint,Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "620"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.25 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "16 ft. moulding",
+      "base moulding",
+      "16 ft. base moulding",
+      "pine moulding",
+      "pine base moulding",
+      "4-1/4 in. moulding",
+      "4-1/4 in. base moulding"
+    ],
+    "keywords": "moulding, 16 ft. moulding, base moulding, 16 ft. base moulding, pine moulding, pine base moulding, 4-1/4 in. moulding, 4-1/4 in. base moulding",
+    "variants": [
+      {
+        "title": "White~~1 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM620-9-16-in-x-4-1-4-in-x-192-in-Primed-Finger-Jointed-Pine-Base-Moulding-10000555/100321371",
+        "item_id": "100321371"
+      },
+      {
+        "title": "White~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-620-9-16-in-x-4-1-4-in-x-96-in-Primed-Finger-Jointed-Baseboard-Moulding-1-Piece-8-Total-Linear-Feet-10001955/203898787",
+        "item_id": "203898787"
+      },
+      {
+        "title": "White~~16 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-LWM-620-9-16-in-x-4-1-4-in-x-192-in-Primed-Pine-Finger-Jointed-Base-Moulding-10000555F/313759572",
+        "item_id": "313759572"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 2.24,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3595
+        }
+      }
+    }
+  }
+}

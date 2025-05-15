@@ -1,0 +1,172 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14539,
+    "overage_used": 4539,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-x-6-x-12-ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010612E2G01/333973206"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:48:51.705Z",
+    "processed_at": "2025-05-01T18:48:58.059Z",
+    "total_time_taken": 6.35,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-x-6-x-12-ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010612E2G01/333973206"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-x-6-x-12-ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010612E2G01/333973206",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 x 6 x 12 ft. Cinnamon Cove Enhance Deck Board Grooved Edge",
+    "upc": "652835394436",
+    "item_id": "333973206",
+    "store_sku": "1013024934",
+    "model_number": "CC010612E2G01",
+    "description": "The beauty of wood with the ease of composite. With its authentic wood-grain appearance, Trex Enhance Naturals offer all the charm and none of the trouble of pressure-treated lumber. Imagine enjoying the very same rich streaking now and 25-years from now without costly, continual upkeep.",
+    "feature_bullets": [
+      "Cinnamon Cove Deck Board is a 6 in. W x 12 ft. L deck board",
+      "Easy to clean; stain and fade resistant composite material",
+      "Low maintenance, no special tools required"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Trex's high-performance composite deck board is crafted for durability; won't rot, warp or splinter, unlike wood",
+      "Decking has a protective outer shell for durability; resists fading and staining",
+      "Quality low-maintenance composite material; cleans easy with soap and water",
+      "Backed by the Trex 25-year limited residential warranty and the Trex 25-year limited residential fade and stain warranty",
+      "Use grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Trex's sustainable composite deck boards are made of 95% recycled materials in the USA",
+      "Lightweight scalloped profile for easy handling",
+      "Trex decking installation is simple, no specialty tools required"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/93187a7b-28c9-4ee7-850b-bd9e9eb57ef2/svn/cinnamon-cove-trex-composite-decking-boards-cc010612e2g01-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/93187a7b-28c9-4ee7-850b-bd9e9eb57ef2/svn/cinnamon-cove-trex-composite-decking-boards-cc010612e2g01-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Cinnamon Cove"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "12"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Backed by the Trex 25-year Limited Residential Warranty and the Trex 25-year Limited Residential Fade and Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "24"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 30.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        }
+      }
+    }
+  }
+}

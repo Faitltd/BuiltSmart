@@ -1,0 +1,224 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13581,
+    "overage_used": 3581,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Handprint-11-32-in-x-2-ft-x-4-ft-BCX-Sanded-Plywood-Actual-0-322-in-x-23-75-in-x-47-75-in-300853/202093831"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:50:27.969Z",
+    "processed_at": "2025-05-01T16:50:32.156Z",
+    "total_time_taken": 4.19,
+    "homedepot_url": "https://www.homedepot.com/p/Handprint-11-32-in-x-2-ft-x-4-ft-BCX-Sanded-Plywood-Actual-0-322-in-x-23-75-in-x-47-75-in-300853/202093831"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Handprint-11-32-in-x-2-ft-x-4-ft-BCX-Sanded-Plywood-Actual-0-322-in-x-23-75-in-x-47-75-in-300853/202093831",
+    "brand": "Handprint",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/Handprint/N-5yc1vZc7qkZubm",
+    "title": "Handprint 11/32 in. x 2 ft. x 4 ft. BCX Sanded Plywood (Actual: 0.322 in. x 23.75 in. x 47.75 in.)",
+    "upc": "090489150037",
+    "item_id": "202093831",
+    "parent_id": "327080018",
+    "store_sku": "300853",
+    "model_number": "300853",
+    "description": "If you love the look of birch plywood - but not the price - a more affordable, great-looking option is BCX plywood. Use BCX for DIY projects such as shelving, hobbies, small repairs and home decor projects. Use for larger projects such as stairs, exterior wall sheathing, paneling, soffits, underlayment for siding materials, the support structure for cabinets and other built-ins and much more. Exceptionally versitile BCX panels are manufactured to meet or exceed the performance standards set forth by the Engineered Wood Association PS 1-09 standard for veneer grade, glue and bond durability, thickness requirements, finished tolerances, testing procedures and identification and stamping guidelines. California residents: See Proposition 65",
+    "favorite_count": 280,
+    "aisle": "FW",
+    "bay": "011",
+    "feature_bullets": [
+      "Strong, sanded and handsome",
+      "Create shelving, built-ins and DIY projects",
+      "Fully finished face and touch-sanded back"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Ideal for a wide variety of DIY projects from home decor to utility repairs",
+      "Sanded surface makes it perfect for all kinds of custom finishes on crafts, hobbies and DIY projects",
+      "Sized for easy handling, transportation and storage",
+      "Economically priced for an extensive range of DIY endeavors",
+      "Panels are right-sized for convience, with less material leftover and/or wasted",
+      "Veneer core built with cross-layering technology",
+      "Can be cut, drilled, routed, glued, fastened and finished with ordinary woodworking tools",
+      "For best results, only use in weather-protected outside areas",
+      "Hot-dipped galvanized or stainless-steel fasteners recommended",
+      "Counter-sinking screws is recommended to maintain a smooth appearance",
+      "For the cleanest cut, use an 80-tooth or higher table saw blade intended for cutting wood products",
+      "Common: 11/32 in. x 2 ft. x 4 ft.; Actual: 0.322 in. x 23.75 in. x 47.75 in.",
+      "Grade: C4",
+      "Each panel weights approximately 8 lbs.",
+      "Product may vary by store",
+      "Note: Product may vary by store.",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/Universal Forest Products/1073833 inline 5.jpg\">"
+    ],
+    "descriptive_attributes_count": 17,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1e37cba5-f985-481a-91b6-68891b0c0516/svn/handprint-sanded-plywood-300853-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f2c87efc-eaca-4329-b895-8c8c52c12b9f/svn/handprint-sanded-plywood-300853-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a7df65e0-fc50-4f1e-acab-2cec94d043a3/svn/handprint-sanded-plywood-300853-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d3b6932e-050c-4ae5-bc5f-c9cb30fae1b3/svn/handprint-sanded-plywood-300853-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ee99f406-0e38-434f-9e1e-208bf90c16cb/svn/handprint-sanded-plywood-300853-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e9fa0312-33c5-4bc4-9f1c-e5ab6206694f/svn/handprint-sanded-plywood-300853-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1e37cba5-f985-481a-91b6-68891b0c0516/svn/handprint-sanded-plywood-300853-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/60c6f0d8-6d6c-4313-bc15-c51a30a14ca0/main.mp4?fastly_token=NjgzODI2ZTdfNDk4ZDU0NTUzODA5Y2M5MTExNjZkZTI4NzgwOWNhMWE2MTQzZmMxMWM5YzIwOTMxYWFlNjRjNDQ1NzdiNTIyNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNTA4NDE5ZS1hNzlmLTQwMmEtOGRiZC02ODQyNDdjMGU3OWIvNjBjNmYwZDgtNmQ2Yy00MzEzLWJjMTUtYzUxYTMwYTE0Y2EwL21haW4ubXA0&pubid=66036796001",
+        "title": "Handprint Overview",
+        "id": "6298378923001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/main/160x90/15s40ms/match/image.jpg?pubId=66036796001",
+        "description": "Brand Overview"
+      }
+    ],
+    "ratings_total": 174,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "3-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "BCX"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Sanded"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "See store for details"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "47.750 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.32 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "23.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "11/32"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "keywords_list": [
+      "",
+      "11/32 in. x 2 ft. x 4 ft. BC Cut to Size Plywood",
+      "300853"
+    ],
+    "keywords": ", 11/32 in. x 2 ft. x 4 ft. BC Cut to Size Plywood, 300853",
+    "variants": [
+      {
+        "title": "2 ft. x 4 ft.~~11/32",
+        "link": "https://www.homedepot.com/p/Handprint-11-32-in-x-2-ft-x-4-ft-BCX-Sanded-Plywood-Actual-0-322-in-x-23-75-in-x-47-75-in-300853/202093831",
+        "item_id": "202093831"
+      },
+      {
+        "title": "2 ft. x 2 ft.~~11/32",
+        "link": "https://www.homedepot.com/p/Handprint-Sanded-Plywood-Common-11-32-in-x-2-ft-x-2-ft-Actual-0-322-in-x-23-75-in-x-23-75-in-300845/202093830",
+        "item_id": "202093830"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Sanded Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Sanded-Plywood/N-5yc1vZc7qk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 18.67,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 23
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 31,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14969,
+    "overage_used": 4969,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Elmbrook-55-60-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Anodized-Brushed-Nickel-with-Crystal-Clear-Glass-K-R706851-8L-BNK/311958510"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:47:53.584Z",
+    "processed_at": "2025-05-02T21:47:57.487Z",
+    "total_time_taken": 3.9,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Elmbrook-55-60-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Anodized-Brushed-Nickel-with-Crystal-Clear-Glass-K-R706851-8L-BNK/311958510"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-55-60-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Anodized-Brushed-Nickel-with-Crystal-Clear-Glass-K-R706851-8L-BNK/311958510",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Showers-Shower-Doors-Alcove-Shower-Doors/KOHLER/N-5yc1vZcbmqZ1qh",
+    "title": "KOHLER Elmbrook 55-60 in. W x 74 in. H Sliding Frameless Shower Door in Anodized Brushed Nickel with Crystal-Clear Glass",
+    "upc": "885612844415",
+    "item_id": "311958510",
+    "parent_id": "328219573",
+    "store_sku": "1004956843",
+    "model_number": "K-R706851-8L-BNK",
+    "description": "Bringing new technology and sleek style to the contemporary bathroom space, Elmbrook shower doors feature an innovative bypass system and roller design that provide an amazingly smooth, quiet sliding action for a difference you can feel. Elmbrook's unique design, including fully bypassable glass panels, makes installation easier than ever and allows for adjustability while the door is hanging. Distinguished vertical handles complement Elmbrook's modern minimalist look, creating an open, inviting space for showering.",
+    "is_top_rated": true,
+    "is_exclusive": true,
+    "favorite_count": 96,
+    "aisle": "36",
+    "bay": "002",
+    "collection": {
+      "id": "Family-309791479",
+      "name": "Family-309791479",
+      "link": "https://www.homedepot.com/collection/Bath/Elmbrook-Collection/Family-309791479?omsid=311958510"
+    },
+    "feature_bullets": [
+      "Frameless sliding shower door fitting between 55-60 in. openings",
+      "Anodized aluminum helps to prevent corrosion and rust",
+      "Accomodates up to 3/8 in. for out-of-plumb adjustability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Frameless, 5/16 in. (8 mm) thick crystal clear tempered glass door",
+      "Anodized aluminum hardware prevents rusting or corrosion",
+      "Frameless design emphasizes glass and creates a sleek, minimalist look",
+      "Dual-sliding barn door style",
+      "Cushioned center guide provides smooth, quiet sliding action",
+      "Smooth, easy-to-clean wall jambs",
+      "16-1/4 in. vertical handles",
+      "Included components: hardware kit",
+      "Fits opening widths 54-5/8 in. 59-5/8 in. (1387 mm 1514 mm)",
+      "Innovative roller design simplifies installation and provides out-of-plumb adjustability while glass is installed",
+      "3/8 in. (9.5 mm) out-of-plumb adjustability per side allows for simpler installation",
+      "For residential use only",
+      "Not for use in hospitality",
+      "CleanCoat+ repels water; prevents dirt and minerals from collecting, making it easier to remove hard water spots.",
+      "<img src=\"inlinecontent.homedepot.com/29A/KOHLER COMPANY/Elmbrook-5.16-Inline.jpg\">",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a>&nbsp;to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 16,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bd80dfd6-9f44-46bb-8eb2-e6fe2656ca42/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/333da96b-3141-4b97-a569-226319d3bdf9/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/944b61b8-6c82-4d35-b091-c234a00c957d/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/778bf6ed-dd13-48d4-8289-f6a3a051850b/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/952f3c91-e02d-4d51-adff-35768f65be4a/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f356d45d-11e8-4704-a9fb-b161e882da0b/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc1b2f60-1732-46e5-b8f0-afa4617f34d7/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/21fd7608-5fce-423c-931d-b7b66dcd85d1/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8d403174-dd8a-48f3-ae86-5c580b1e84f1/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d11745a0-e1b9-40c7-a7fc-f30a25ea5879/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5b74db4e-0411-4a6f-a4d6-028343f83759/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/38890899-96ed-46e0-8369-27315e721691/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5f05bd1d-569c-46a0-ac9a-5d191cc6608e/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/48402e9d-ba3c-487c-ae2e-30145bb49e21/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5be82d90-1a3e-423b-82f1-e80730975912/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-31_1000.jpg",
+        "type": "image_life_style"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d2f7f928-d741-40f1-a5de-8eecd33da33e/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-fa_1000.jpg",
+        "type": "image_closeup_feature"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bd80dfd6-9f44-46bb-8eb2-e6fe2656ca42/svn/kohler-alcove-shower-doors-k-r706851-8l-bnk-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ac342edf-3545-4c33-be6f-e73b52fc2a9b/90c7385a-494c-4a9a-abb4-e96a714081c7/main.mp4?fastly_token=NjgzOTgyZDJfNjI2NjNiNWFmMzhmNTI2OTdhYmEzNTg5ZTczNmFkZjQ0OWE2NDZiOTRmODhmMTdiOWIwZTE2MzdjMGNjNzA4OF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hYzM0MmVkZi0zNTQ1LTRjMzMtYmU2Zi1lNzNiNTJmYzJhOWIvOTBjNzM4NWEtNDk0Yy00YTlhLWFiYjQtZTk2YTcxNDA4MWM3L21haW4ubXA0&pubid=66036796001",
+        "title": "Kohler Clean Coat",
+        "id": "5604448166001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/ac342edf-3545-4c33-be6f-e73b52fc2a9b/5a2fbf02-fb04-4ada-8016-01d7167a33fd/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Kohler Clean Coat Revised"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/5bbdc40e-7bde-40dc-82ef-72f13a70e4fa/6aab934c-c696-4fa5-843e-02e89a9bb655/main.mp4?fastly_token=NjgxNGZkYWJfYjZlYjZkNTA2ZTVkMmMzYzI4MmZkOTQyNzVjNmJjNDA0ZjU4YzIzMWYxZWE4ODZlODgwOTNhZTY0ZTBhZDAxMl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNWJiZGM0MGUtN2JkZS00MGRjLTgyZWYtNzJmMTNhNzBlNGZhLzZhYWI5MzRjLWM2OTYtNGZhNS04NDNlLTAyZTg5YTliYjY1NS9tYWluLm1wNA%3D%3D",
+        "title": "Elmbrook Shower Door Video",
+        "id": "6159528890001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/5bbdc40e-7bde-40dc-82ef-72f13a70e4fa/cc68e7c8-dd50-4ded-b89d-5d76eabe08c8/600x338/match/image.jpg",
+        "description": "Elmbrook Shower Door Video\n"
+      }
+    ],
+    "ratings_total": 272,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Door Handle Position",
+        "value": "Left or Right"
+      },
+      {
+        "group_name": "Details",
+        "name": "Door Handle Type",
+        "value": "Bar"
+      },
+      {
+        "group_name": "Details",
+        "name": "Door Type",
+        "value": "Sliding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Frame Finish",
+        "value": "Anodized Brushed Nickel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Frame Type",
+        "value": "Frameless"
+      },
+      {
+        "group_name": "Details",
+        "name": "Frame/Hardware Finish Family",
+        "value": "Nickel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Glass Finish",
+        "value": "Crystal Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Glass Texture",
+        "value": "Clear"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Finish",
+        "value": "Nickel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Mounting Hardware"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Area",
+        "value": "Alcove"
+      },
+      {
+        "group_name": "Details",
+        "name": "Max Installed Width (in.)",
+        "value": "59.625 in"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "144 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shower Type",
+        "value": "Alcove"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Modern"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ANSI Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Max Installed Width (in.)",
+        "value": "59.6 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Door Glass Thickness (in.)",
+        "value": "5/16\""
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Installation Width",
+        "value": "54.625 in. - 59.625 in."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "73.5625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Walk Through Opening Height (in.)",
+        "value": "66.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Walk Through Opening Width (in.)",
+        "value": "22.5625 in. - 27.5625 in."
+      }
+    ],
+    "variants": [
+      {
+        "title": "Matte Black~~Crystal Clear~~47.63 x 73.44",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-44-48-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Matte-Black-with-Crystal-Clear-Glass-K-706852-8L-BL/312443262",
+        "item_id": "312443262"
+      },
+      {
+        "title": "Vibrant Brushed Moderne Brass~~Crystal Clear~~59.63 x 73.44",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-55-60-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Vibrant-Brushed-Moderne-Brass-with-Crystal-Clear-Glass-K-706851-8L-2MB/328006686",
+        "item_id": "328006686"
+      },
+      {
+        "title": "Bright Polished Silver~~Crystal Clear~~59.63 x 73.44",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-55-60-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Bright-Polished-Silver-with-Crystal-Clear-Glass-K-706851-8L-SHP/312443260",
+        "item_id": "312443260"
+      },
+      {
+        "title": "Bright Polished Silver~~Crystal Clear~~47.63 x 73.44",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-44-48-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Bright-Polished-Silver-with-Crystal-Clear-Glass-K-706852-8L-SHP/312443259",
+        "item_id": "312443259"
+      },
+      {
+        "title": "Anodized Brushed Nickel~~Crystal Clear~~47.63 x 73.44",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-44-48-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Anodized-Brushed-Nickel-with-Crystal-Clear-Glass-K-706852-8L-BNK/312443258",
+        "item_id": "312443258"
+      },
+      {
+        "title": "Anodized Brushed Nickel~~Crystal Clear~~59.63 x 73.56",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-55-60-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Anodized-Brushed-Nickel-with-Crystal-Clear-Glass-K-R706851-8L-BNK/311958510",
+        "item_id": "311958510"
+      },
+      {
+        "title": "Vibrant Brushed Moderne Brass~~Crystal Clear~~47.63 x 73.44",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-44-48-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Vibrant-Brushed-Moderne-Brass-with-Crystal-Clear-Glass-K-706852-8L-2MB/328006795",
+        "item_id": "328006795"
+      },
+      {
+        "title": "Matte Black~~Crystal Clear~~59.63 x 73.56",
+        "link": "https://www.homedepot.com/p/KOHLER-Elmbrook-55-60-in-W-x-74-in-H-Sliding-Frameless-Shower-Door-in-Matte-Black-with-Crystal-Clear-Glass-K-R706851-8L-BL/316808409",
+        "item_id": "316808409"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Showers",
+        "link": "https://www.homedepot.com/b/Bath-Showers/N-5yc1vZbzcd"
+      },
+      {
+        "name": "Shower Doors",
+        "link": "https://www.homedepot.com/b/Bath-Showers-Shower-Doors/N-5yc1vZbzcg"
+      },
+      {
+        "name": "Alcove Shower Doors",
+        "link": "https://www.homedepot.com/b/Bath-Showers-Shower-Doors-Alcove-Shower-Doors/N-5yc1vZcbmq"
+      }
+    ],
+    "buybox_winner": {
+      "price": 789,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "is_limited_quantity": true,
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 1,
+          "price": 79,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 16,
+          "price": 55,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14984,
+    "overage_used": 4984,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/HOROW-Elegant-Luxury-Elongated-Smart-Bidet-Toilet-in-White-w-Surprise-Ambient-Light-Build-in-Tank-Auto-Open-Close-UV-Light-HR-T38/331933087"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:50:28.751Z",
+    "processed_at": "2025-05-02T21:50:32.956Z",
+    "total_time_taken": 4.21,
+    "homedepot_url": "https://www.homedepot.com/p/HOROW-Elegant-Luxury-Elongated-Smart-Bidet-Toilet-in-White-w-Surprise-Ambient-Light-Build-in-Tank-Auto-Open-Close-UV-Light-HR-T38/331933087"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/HOROW-Elegant-Luxury-Elongated-Smart-Bidet-Toilet-in-White-w-Surprise-Ambient-Light-Build-in-Tank-Auto-Open-Close-UV-Light-HR-T38/331933087",
+    "brand": "HOROW",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/HOROW/N-5yc1vZbzacZv6d",
+    "title": "HOROW Elegant Luxury Elongated Smart Bidet Toilet in White w/Surprise Ambient Light, Build-in Tank, Auto Open/Close, UV Light",
+    "upc": "732829120071",
+    "item_id": "331933087",
+    "store_sku": "1012626865",
+    "model_number": "HR-T38",
+    "description": "Modern Collect Artwork HOROW T38 Smart Bidet ToiletThe biggest highlight of T38, and the most unique and outstanding feature that surpasses other smart toilets on the market, is that it is full of surprises and exudes warm and happy atmosphere lights. People always like to install colorful light strips in various places, such as on TV walls, near bedside tables, and in cars. Such exciting light strips can be seen everywhere, so we installed this happy and exciting atmosphere light into the toilet, a happy belonging for people.Let the boring toilet change its atmosphere instantly and love life in ordinary days.",
+    "feature_bullets": [
+      "Lighting is the source of surprise, the romance from the toilet",
+      "Built-in water tank, no requirement for water pressure",
+      "Auto open/close and foot sensor, warm seat, and dryer"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "T38 Smart Toilet features ambient lighting inspired by the seasons, creating a serene and comfortable environment. It is a perfect combination of modern technology and superior functionality. It is the ultimate pleasure in daily life",
+      "For low water pressure: A smart toilet with a built-in water tank and pump brings efficient and powerful flushing performance. The powerful water flow flushes away stains and residues in the bathroom like a dynamic water dance",
+      "Auto Open/Close Lid: Like a caring concierge, the smart toilet senses your movements. When you approach, it enthusiastically opens the lid for you and gently closes it when you leave, enjoying an elegant and comfortable hands-free experience",
+      "Smart Toilet with Built-in Bidet: The gentle stream of water gently massages your skin for a spa-like relaxation experience, just like a meticulous cleaning expert. Water pressure, water temperature, and nozzle position can be adjusted to ensure a thorough cleaning",
+      "Deep Cleaning Noozle: Maintain an efficient hygienic environment with convenient maintenance and reduced manual cleaning",
+      "Night Light &amp; Digital Display: Like a night elf, the smart toilet's soft night light, and colorful dynamic digital display complement each other, providing you with both practical and beautiful double enjoyment for nighttime use",
+      "Warm Care Experience: Like a winter magician, it transforms the cold seat into a comfortable heat source. The gentle warm wind brings you a dry experience, making you feel gentle care every time you use it",
+      "Considerate Service: If you encounter any problems, please feel free to contact us, and we will reply as soon as possible within 24 hours. We promise to provide a 12-Month Replacement Warranty"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/14abadf7-46d9-4b74-b5de-7a2fb72226dd/svn/white-horow-bidet-toilets-hr-t38-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c1cc6e8b-8a31-47e9-bea9-74f1ef9a0f37/svn/white-horow-bidet-toilets-hr-t38-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/90105fdb-0fb2-4aac-a33e-b7bb838fa701/svn/white-horow-bidet-toilets-hr-t38-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/caad5a23-227c-4309-93f8-6e089b339167/svn/white-horow-bidet-toilets-hr-t38-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/97069bd2-3a3a-4067-8af0-806714c19e49/svn/white-horow-bidet-toilets-hr-t38-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e0a0a2e3-29cf-4166-b36c-5c18f111c348/svn/white-horow-bidet-toilets-hr-t38-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/01a7cf69-740e-4e70-9478-a12d5b5e06bc/svn/white-horow-bidet-toilets-hr-t38-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/28d69104-94cd-4a9e-a98c-7550ffad385a/svn/white-horow-bidet-toilets-hr-t38-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a4c5c47c-5a92-4269-90d9-c33d863b8fd4/svn/white-horow-bidet-toilets-hr-t38-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9e0e2c14-341e-488c-a532-85a1afa91271/svn/white-horow-bidet-toilets-hr-t38-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/62159196-4caf-4710-ad8b-539b250dfe83/svn/white-horow-bidet-toilets-hr-t38-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/397ad290-9c0a-4403-ab88-212e77a769a8/svn/white-horow-bidet-toilets-hr-t38-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/83417468-6ae0-48ed-b496-1bcd86e34098/svn/white-horow-bidet-toilets-hr-t38-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b1f27d9a-453a-4403-b35d-7bd55a6f2521/svn/white-horow-bidet-toilets-hr-t38-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/14abadf7-46d9-4b74-b5de-7a2fb72226dd/svn/white-horow-bidet-toilets-hr-t38-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/9937c19b-cbd8-4a27-b7f3-9891868099d2/59af4e65-244c-4df3-b77f-1efdf5f8cd83/main.mp4?fastly_token=NjgzOTdlNGJfYzgzMzA2MWJjMTQwYWJhYzYyMDlmZDk3NzlhZTdhZGE4MjAxOTFjN2MyMGMzOWQwZDY5YjQxNzJhM2FiNjQ4MV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS85OTM3YzE5Yi1jYmQ4LTRhMjctYjdmMy05ODkxODY4MDk5ZDIvNTlhZjRlNjUtMjQ0Yy00ZGYzLWI3N2YtMWVmZGY1ZjhjZDgzL21haW4ubXA0&pubid=66036796001",
+        "title": "T38 Smart Toilet",
+        "id": "6364339854112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/9937c19b-cbd8-4a27-b7f3-9891868099d2/main/160x90/32s833ms/match/image.jpg?pubId=66036796001",
+        "description": "Elegant Luxury Elongated Smart Bidet Toilet in White w/Surprise Ambient Light, Build-in Tank, Auto Open/Close, UV Light"
+      }
+    ],
+    "ratings_total": 12,
+    "rating": 4.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bidet Power Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bidet Spray Type",
+        "value": "Over the rim"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl Height",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Adjustable Aerated Wash Spray,Adjustable Nozzle,Adjustable Sprayer Settings,Adjustable Water Pressure,Antimicrobial,Automatic Close,Automatic Open,Battery Operated Flushing System,Chip Resistant,Concealed Trapway,Corner Tank,Deodorizing,Fade Resistant,Feminine Wash,Heated,Insulated Tank,Integrated Bidet,Lighted,Nozzle Sterilization,Posterior Wash,Remote Control Operation,Self-Cleaning,Skirted Design,Soft Close,Stainless Steel Nozzle,Touchless,Warm Air Dryer,Warm Water Wash"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gallons Per Flush",
+        "value": "Single Flush: 1.1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Handle Location",
+        "value": "Right"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Complete Kit,Hardware,Remote Control,T Valve Connector,Toilet Seat,Wax Ring"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Through-the-floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Vitreous China"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Faucet Holes",
+        "value": "0"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "92.59 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Rough In Size",
+        "value": "12 inch Rough In"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "ETL Certified,UPC Certified (Uniform Plumbing Code)"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "1-year"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "27.4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "18.7 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "15.4 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Bidet Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Bidet-Toilets/N-5yc1vZbzac"
+      }
+    ],
+    "buybox_winner": {
+      "price": 999,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 1181,
+      "unit": "carton",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 585,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-12"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 585,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-09",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

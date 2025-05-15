@@ -1,0 +1,211 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14458,
+    "overage_used": 4458,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-20-ft-Enhance-Naturals-Coastal-Bluff-Composite-Groove-Deck-Board-CB010620E2G01/325550919"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:41:02.676Z",
+    "processed_at": "2025-05-01T18:41:08.211Z",
+    "total_time_taken": 5.54,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-20-ft-Enhance-Naturals-Coastal-Bluff-Composite-Groove-Deck-Board-CB010620E2G01/325550919"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-20-ft-Enhance-Naturals-Coastal-Bluff-Composite-Groove-Deck-Board-CB010620E2G01/325550919",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex 1 in. x 6 in. x 20 ft. Enhance Naturals Coastal Bluff Composite Groove Deck Board",
+    "upc": "652835289138",
+    "item_id": "325550919",
+    "store_sku": "1004334190",
+    "model_number": "CB010620E2G01",
+    "description": "The beauty of wood with the ease of composite. With its authentic wood-grain appearance, A true brown, Coastal Bluff is a medley of earthy taupe hues, featuring a low-maintenance, wood-like grain pattern. Imagine enjoying the very same rich streaking now and 25-years from now without costly, continual upkeep.",
+    "feature_bullets": [
+      "Superior resistance to fade, stains, rot and mold",
+      "Backed by the Trex 25-year limited residential warranty",
+      "Made from 95% recycled materials"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Medley of true, earthy browns",
+      "Beauty of wood with the ease of composite",
+      "Made of high-performance composite for durability, won't rot, warp or splinter, unlike wood",
+      "Protective outer shell resists fading and staining, no sanding or painting required",
+      "Quality low-maintenance material, cleans easily with soap and water",
+      "Easy-to-build decking, no specialty tools required",
+      "Made from 95% recycled materials, with a low carbon footprint",
+      "Backed by the 25-year limited residential and fade and stain warranties",
+      "Available in grooved-edge boards for our hidden deck fasteners or square-edge for traditional installation"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f98d03d5-a1e8-4712-899e-6c109142f2e1/svn/brown-trex-composite-decking-boards-cb010620e2g01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0918e07b-f9c9-490e-b7cd-6548185677e1/svn/brown-trex-composite-decking-boards-cb010620e2g01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3b3b9920-dc36-4ea6-ba23-9f5c0e7166a9/svn/brown-trex-composite-decking-boards-cb010620e2g01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/fd7a0305-5ea5-4563-bb42-00c2fbcb3ef5/svn/brown-trex-composite-decking-boards-cb010620e2g01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0f8e2b58-4d74-4637-897e-d8c90557b07f/svn/brown-trex-composite-decking-boards-cb010620e2g01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d1f52527-deb9-440a-a522-d39ea259c5d5/svn/brown-trex-composite-decking-boards-cb010620e2g01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f98d03d5-a1e8-4712-899e-6c109142f2e1/svn/brown-trex-composite-decking-boards-cb010620e2g01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/cac146fb-3462-457f-8c67-42e010574131/520a12af-25da-46d8-8aec-6dad1265e43c/main.mp4?fastly_token=NjgxM2I1MzJfNjE4MWNhMTdjYzNhOGNkNWU4NWU4OGYwMmE5ZTgzMjFhODM0YzY4NjExMGE2NmU5ZGQ1ZGYxNzAzN2Q0ZGIzMF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvY2FjMTQ2ZmItMzQ2Mi00NTdmLThjNjctNDJlMDEwNTc0MTMxLzUyMGExMmFmLTI1ZGEtNDZkOC04YWVjLTZkYWQxMjY1ZTQzYy9tYWluLm1wNA%3D%3D",
+        "title": "Trex Decking at The Home Depot",
+        "id": "6351759408112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/cac146fb-3462-457f-8c67-42e010574131/main/160x90/29s779ms/match/image.jpg",
+        "description": "Trex at The Home Depot\n"
+      }
+    ],
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Universal Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Backed by the Trex 25-Year Limited Residential Warranty and the Trex 25-Year Limited Residential Fade and Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "38"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 51.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 128,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

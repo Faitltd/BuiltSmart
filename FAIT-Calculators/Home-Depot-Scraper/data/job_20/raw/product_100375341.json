@@ -1,0 +1,269 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14065,
+    "overage_used": 4065,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Simpson-Strong-Tie-1-7-16-in-x-4-1-2-in-Galvanized-Framing-Angle-A35/100375341"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:53:20.658Z",
+    "processed_at": "2025-05-01T17:53:27.429Z",
+    "total_time_taken": 6.77,
+    "homedepot_url": "https://www.homedepot.com/p/Simpson-Strong-Tie-1-7-16-in-x-4-1-2-in-Galvanized-Framing-Angle-A35/100375341"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-1-7-16-in-x-4-1-2-in-Galvanized-Framing-Angle-A35/100375341",
+    "brand": "Simpson Strong-Tie",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Corner-Braces/Simpson-Strong-Tie/N-5yc1vZc8hrZ615",
+    "title": "Simpson Strong-Tie 1-7/16 in. x 4-1/2 in. Galvanized Framing Angle",
+    "upc": "044315046001",
+    "item_id": "100375341",
+    "parent_id": "312092349",
+    "store_sku": "461474",
+    "model_number": "A35",
+    "description": "Not only do angles make joints stronger, they also provide more consistent, straight corners. Simpson Strong-Tie offers a wide variety of angles in various sizes and thicknesses to handle light-duty jobs or projects where a structural connection is needed. Some can be bent (skewed) to match the project. For outdoor projects or those where moisture is present, use our ZMAX zinc-coated connectors, which provide extra resistance against corrosion (look for a \"Z\" at the end of the model number).",
+    "favorite_count": 235,
+    "feature_bullets": [
+      "Versatile angle for framing and structural connections",
+      "Galvanized for corrosion resistance and long-lasting strength",
+      "Designed to ensure joints are consistently straight and strong"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Versatile connector for various 90-degree connections and home repair projects",
+      "Stronger than angled nailing or screw fastening alone",
+      "Help ensure joints are consistently straight and strong",
+      "The A35's exclusive bend slot allows accurate bends to attach wood in a variety of configurations",
+      "Made from 18-gauge steel",
+      "Galvanized (G90) for extra corrosion resistance",
+      "Install with 0.131 in. x 1-1/2 in. nails (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-Strong-Drive-1-1-2-in-x-0-131-in-SCN-Smooth-Shank-HDG-Connector-Nail-150-Pack-N8DHDG-R/206101778\" target=\"_blank\" style=\"color:#F96302;\">N8DHDG</a>) or #9 x 1-1/2 in. Strong-Drive SD screws (<a href=\"https://www.homedepot.com/p/Simpson-Strong-Tie-9-x-1-1-2-in-1-4-Hex-Drive-Strong-Drive-SD-Connector-Screw-100-Pack-SD9112R100/202071152\" target=\"_blank\" style=\"color:#F96302;\">SD9112</a>)",
+      "<a href=\"https://www.homedepot.com/b/Building-Materials-Building-Hardware/Simpson-Strong-Tie/N-5yc1vZaqzsZ615\" target=\"_blank\" style=\"color:#F96302;\">Shop all Simpson Strong-Tie here.</a>"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/a47eb3e7-d05b-44e1-89cd-a8408bf3821f/svn/simpson-strong-tie-corner-braces-a35-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc257eb8-96cb-40d5-ac23-5c288a56d268/svn/simpson-strong-tie-corner-braces-a35-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/037dbde4-e1ab-4317-8e71-7cc6403eb0c4/svn/simpson-strong-tie-corner-braces-a35-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0ffb9b28-a38b-47d4-b92d-38fcbf56bc4b/svn/simpson-strong-tie-corner-braces-a35-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9dfe5078-7721-4bd5-b4f9-281bd328c1a4/svn/simpson-strong-tie-corner-braces-a35-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/24f8d68b-c8cd-4a0e-95c5-597ceb2cb1c1/svn/simpson-strong-tie-corner-braces-a35-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a710195a-5eaf-4948-8aeb-e01d7459b20e/svn/simpson-strong-tie-corner-braces-a35-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4ce043f9-fcef-4b69-9344-3af2364648d3/svn/simpson-strong-tie-corner-braces-a35-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/524e0dc9-0b56-413b-8a39-ba74da1e94bd/svn/simpson-strong-tie-corner-braces-a35-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ecde94bc-9c74-4ed6-a735-7d4a82373d97/svn/simpson-strong-tie-corner-braces-a35-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/a47eb3e7-d05b-44e1-89cd-a8408bf3821f/svn/simpson-strong-tie-corner-braces-a35-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/71c329d0-b2ce-4752-8014-31ca14b64e41/1bc82a21-3217-4d7e-be3f-00404ef867cc/main.mp4?fastly_token=NjgyZDhhOWRfOGYwMjc3ODYyNmJjMWRmNzlkYjBjYTQ4NDIzZjk3ZWIxY2JlZmVlNDhhM2ZiYmFhMGU1ZWU5ODgyNmVmNmZmYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83MWMzMjlkMC1iMmNlLTQ3NTItODAxNC0zMWNhMTRiNjRlNDEvMWJjODJhMjEtMzIxNy00ZDdlLWJlM2YtMDA0MDRlZjg2N2NjL21haW4ubXA0&pubid=66036796001",
+        "title": "Angles Applications",
+        "id": "6240161732001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/9faae550-63ff-4a5c-a9d0-d4b3359f6a05/44ad4c9e-ebbe-447a-a24d-a86b48e6be42/160x90/match/image.jpg",
+        "description": "Angles Applications"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/518181ee-f541-4311-a753-6048a301319d/f7058d1c-9d4b-4292-9ebc-339e6c121d2c/main.mp4?fastly_token=NjgyZDhiMDZfZDRjNDczMzc1ZWNlYTc0MWQ1MzM5OTc1NDhjMzE4MjAwZTJiMDhlMWVjNGE0MzViYmY0ZGEzMDZhZjJjNDNlZl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS81MTgxODFlZS1mNTQxLTQzMTEtYTc1My02MDQ4YTMwMTMxOWQvZjcwNThkMWMtOWQ0Yi00MjkyLTllYmMtMzM5ZTZjMTIxZDJjL21haW4ubXA0&pubid=66036796001",
+        "title": "Angles Installation",
+        "id": "6240617897001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/c4e91bc7-5f3d-4363-8645-ce5643dac28b/609a21c8-efec-4299-b2a2-c34ddcba5284/160x90/match/image.jpg",
+        "description": "Angles Installation"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/b1b0ae20-c4f5-41a2-8958-f702d91b5031/main.mp4?fastly_token=NjgwOGYwYjVfZWU4MmFjYzNhMGYwYzkxODNjNWQ4MDI5ZDU5MTBmYWFkOWU4MTJhNTFkNGNiNzQyMTM3OWI5NGJmNzExMDU1OV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjZkYTYwZWQtNjI4Mi00NThjLThiODUtZWNiNTAwMjY3Yzc0L2IxYjBhZTIwLWM0ZjUtNDFhMi04OTU4LWY3MDJkOTFiNTAzMS9tYWluLm1wNA%3D%3D",
+        "title": "Simpson Strong-Tie Retail Brand Sizzle Video",
+        "id": "6330311764112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/66da60ed-6282-458c-8b85-ecb500267c74/04114d90-6aa1-40c6-b98f-7ba70b401edd/160x90/match/image.jpg",
+        "description": "Simpson Strong-Tie Brand Video\n"
+      }
+    ],
+    "ratings_total": 116,
+    "rating": 4.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Brace type",
+        "value": "Angle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Builders Hardware Product Type",
+        "value": "Braces"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "G90 Galvanized"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Not Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "4.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "1.4375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.4375 in"
+      }
+    ],
+    "color": "Steel",
+    "keywords_list": [
+      "Framing Angle",
+      "18-gauge Framing Angle",
+      "A35 Framing Angle",
+      "galvanized Framing Angle",
+      "SIMPSON STRONG-TIE Framing Angle"
+    ],
+    "keywords": "Framing Angle, 18-gauge Framing Angle, A35 Framing Angle, galvanized Framing Angle, SIMPSON STRONG-TIE Framing Angle",
+    "variants": [
+      {
+        "title": "Silver~~1.4375 in~~1",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-1-7-16-in-x-2-1-2in-Galvanized-Framing-Angle-A34/100375340",
+        "item_id": "100375340"
+      },
+      {
+        "title": "Steel~~1.4375 in~~1",
+        "link": "https://www.homedepot.com/p/Simpson-Strong-Tie-1-7-16-in-x-4-1-2-in-Galvanized-Framing-Angle-A35/100375341",
+        "item_id": "100375341"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Corner Braces",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Corner-Braces/N-5yc1vZc8hr"
+      }
+    ],
+    "buybox_winner": {
+      "price": 0.74,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3992,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-13"
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5860",
+          "in_stock": true,
+          "stock_level": 46,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3992,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

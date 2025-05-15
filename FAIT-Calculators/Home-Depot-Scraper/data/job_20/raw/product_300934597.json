@@ -1,0 +1,196 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14046,
+    "overage_used": 4046,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Sika-2-lb-PostFix-Fence-Post-Mix-Mix-In-The-Bag-Expanding-Foam-for-Supporting-Non-Structural-Posts-Mailbox-Sign-7116170/300934597"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:52:35.177Z",
+    "processed_at": "2025-05-01T17:52:39.150Z",
+    "total_time_taken": 3.97,
+    "homedepot_url": "https://www.homedepot.com/p/Sika-2-lb-PostFix-Fence-Post-Mix-Mix-In-The-Bag-Expanding-Foam-for-Supporting-Non-Structural-Posts-Mailbox-Sign-7116170/300934597"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Sika-2-lb-PostFix-Fence-Post-Mix-Mix-In-The-Bag-Expanding-Foam-for-Supporting-Non-Structural-Posts-Mailbox-Sign-7116170/300934597",
+    "brand": "Sika",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Parts-Accessories/Sika/N-5yc1vZbqnwZ74n",
+    "title": "Sika 2 lb. PostFix Fence Post Mix, Mix-In-The-Bag Expanding Foam for Supporting Non-Structural Posts, Mailbox, Sign",
+    "upc": "815202002611",
+    "item_id": "300934597",
+    "store_sku": "1001358552",
+    "model_number": "7116170",
+    "description": "Sika Fence Post Mix is a 2-component, pre-proportioned polyurethane resin. It is mixed in the bag to produce expanding foam for supporting and backfilling fence, mail box, gate and signage posts. Suitable for all types of posts including wood, steel and PVC.",
+    "favorite_count": 2419,
+    "aisle": "27",
+    "bay": "015",
+    "feature_bullets": [
+      "Mix-in-the-bag expanding foam for supporting non-structural posts",
+      "Sets in as fast as 3 minutes",
+      "Great for fence, mailbox, gate and sign post setting"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Lightweight pouch replaces two 50 lbs. bags of post mix",
+      "Fast setting",
+      "High strength",
+      "No water or special tools needed",
+      "Simple and fast application",
+      "VOC compliant in all 50-states",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/BOISE CASCADE/3002622.jpg\">"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2f46514e-bef4-4286-8d44-986f878a8ac8/svn/sika-deck-parts-accessories-7116170-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ca20c267-a2f1-4c75-925f-73d0e378485b/svn/sika-deck-parts-accessories-7116170-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9da1d3fa-5de0-43e9-8dec-08361ff7bed3/svn/sika-deck-parts-accessories-7116170-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bc70eb23-9f73-4ce7-95b4-b048b422ee33/svn/sika-deck-parts-accessories-7116170-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/18292e94-edbb-40fc-97f4-a7e1b23e576c/svn/sika-deck-parts-accessories-7116170-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/36bba3ae-1b51-48a2-b81d-d5ed471b322a/svn/sika-deck-parts-accessories-7116170-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1d6c12d7-cb00-4d06-9fc7-dd6af60a8bf6/svn/sika-deck-parts-accessories-7116170-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8a804002-c900-46d3-8a97-6a22e7aebfa0/svn/sika-deck-parts-accessories-7116170-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2e8385e1-a763-4f28-8bcc-5ee22cd0bd2d/svn/sika-deck-parts-accessories-7116170-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2f46514e-bef4-4286-8d44-986f878a8ac8/svn/sika-deck-parts-accessories-7116170-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/283c2cdd-78f0-43a7-b169-c23ece2313eb/6cb625d9-1ed0-41e3-9b77-af39dca018e1/main.mp4?fastly_token=NjgzODI2ZGRfMmM0MDU3YzMzYzA4NjEwN2UzNzMxNGVhYmYxNmJjMjg3YWFmMDVlMDk3Y2UyM2ZjYWYwOTI4M2Y3NmU2ZWFjNV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yODNjMmNkZC03OGYwLTQzYTctYjE2OS1jMjNlY2UyMzEzZWIvNmNiNjI1ZDktMWVkMC00MWUzLTliNzctYWYzOWRjYTAxOGUxL21haW4ubXA0&pubid=66036796001",
+        "title": "Sika PostFix Rising Foam",
+        "id": "6211536447001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/283c2cdd-78f0-43a7-b169-c23ece2313eb/c9281a5c-8790-42b7-8573-2c5cd0394f5a/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Sika PostFix rising foam installation. Set's as fast as 3 minutes."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/23b56050-b55a-4057-b0d4-091de1f1aaf5/e0a516a3-0dc2-4d05-9133-5447f5a55cea/main.mp4?fastly_token=NjgzODI3MWJfZjg5OWMxYzZiNTgyZjIwYTVmNGNkNTc2YzdiNzhhMWI4NjQ3NTUzMTc4NmEyYzViMmU2ZTVkNjg0NTA5YjA1N18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8yM2I1NjA1MC1iNTVhLTQwNTctYjBkNC0wOTFkZTFmMWFhZjUvZTBhNTE2YTMtMGRjMi00ZDA1LTkxMzMtNTQ0N2Y1YTU1Y2VhL21haW4ubXA0&pubid=66036796001",
+        "title": "Sika PostFix Marketin Video",
+        "id": "6211542986001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/23b56050-b55a-4057-b0d4-091de1f1aaf5/9ea18642-1170-4dc4-8fc0-957d46b29aa8/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Sika PostFix simple application; just roll, mix, cut and pour."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/719a0255-366e-43ed-9d67-88ceeb897893/97b4bd12-a63c-43f6-b740-7d72902814d6/main.mp4?fastly_token=NjgzODI4NjdfNWU0NDMzMGNiODQzYTgwYmVmZmY0MGJkNzBiOWM0ZGY5MGVlZTcyMDEyZDg4ZmZmZGE1ODc1Y2U1MzYyNWM0ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83MTlhMDI1NS0zNjZlLTQzZWQtOWQ2Ny04OGNlZWI4OTc4OTMvOTdiNGJkMTItYTYzYy00M2Y2LWI3NDAtN2Q3MjkwMjgxNGQ2L21haW4ubXA0&pubid=66036796001",
+        "title": "Sika PostFix Instructional Video",
+        "id": "6211767685001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/719a0255-366e-43ed-9d67-88ceeb897893/5d7644fa-debd-48ef-bcd3-ad592113d07b/160x90/match/image.jpg?pubId=66036796001",
+        "description": "A two component, mix-in-the-bag expanding foam for supporting non-structural posts such as fence, mailbox, and sign posts."
+      }
+    ],
+    "ratings_total": 1973,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Use Location",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One year from date of installation."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Container Size",
+        "value": "33 oz."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "8.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "10 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Parts & Accessories",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Parts-Accessories/N-5yc1vZbqnw"
+      }
+    ],
+    "buybox_winner": {
+      "price": 16.28,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 55
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 86,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

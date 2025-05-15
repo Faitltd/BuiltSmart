@@ -1,0 +1,159 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13964,
+    "overage_used": 3964,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Peak-Products-4-in-x-4-in-Post-Holder-for-Post-Base-Support-2410/301026520"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:49:16.757Z",
+    "processed_at": "2025-05-01T17:50:07.571Z",
+    "total_time_taken": 50.81,
+    "homedepot_url": "https://www.homedepot.com/p/Peak-Products-4-in-x-4-in-Post-Holder-for-Post-Base-Support-2410/301026520"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Peak-Products-4-in-x-4-in-Post-Holder-for-Post-Base-Support-2410/301026520",
+    "brand": "Peak Products",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Peak-Products/N-5yc1vZc8hsZf4k",
+    "title": "Peak Products 4 in. x 4 in. Post Holder for Post Base Support",
+    "upc": "629219024104",
+    "item_id": "301026520",
+    "store_sku": "1002469566",
+    "model_number": "2410",
+    "description": "Add reliable strength to your outdoor deck with this post holder. Designed to attach your wooden posts to concrete, these post holders make it easier to get a level structure. Constructed from heavy-gauge steel and rebar, this post holder makes a great foundation for building your outside decks, patios and any other.",
+    "is_exclusive": true,
+    "feature_bullets": [
+      "Experience an easy stair solution, no more complex cuts",
+      "Perfect for any decks, patios, and indoor/outdoor spaces",
+      "Robust steel for superior strength and lasting durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Secures wooden posts to concrete",
+      "Post holders are designed to support vertical loads, they do not provide adequate lateral resistance to wind or other horizontal loads, not recommended for fencing applications",
+      "Made from heavy-gauge steel plate and rebar",
+      "Powder coated for corrosion resistance",
+      "Fasteners included"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/27442df0-9e22-4a4e-88dd-eb0cbfb0cf7e/svn/peak-products-post-bases-2410-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/27442df0-9e22-4a4e-88dd-eb0cbfb0cf7e/svn/peak-products-post-bases-2410-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 19,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Post Anchor Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Powder coated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "13"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Concrete"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.52 lb"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "For more information, please contact Peak Products customer service at 1-877-883-7325"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "Rough 4x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "10.3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 8.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

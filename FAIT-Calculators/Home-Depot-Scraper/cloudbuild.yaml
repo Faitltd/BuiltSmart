@@ -1,0 +1,33 @@
+# Cloud Build configuration file for continuous deployment
+
+steps:
+  # Build the container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/fait-444705/retail-scrapers', '.']
+
+  # Push the container image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/fait-444705/retail-scrapers']
+
+  # Deploy container image to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'retail-scrapers'
+      - '--image'
+      - 'gcr.io/fait-444705/retail-scrapers'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars'
+      - 'BIGBOX_API_KEY=52323740B6D14CBE81D81C81E0DD32E6,LOWES_API_KEY=D302834B9CC3400FA921A2F2D384ADD6'
+
+images:
+  - 'gcr.io/fait-444705/retail-scrapers'
+
+# Timeout settings (optional)
+timeout: '1200s'

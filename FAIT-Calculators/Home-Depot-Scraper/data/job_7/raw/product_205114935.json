@@ -1,0 +1,207 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13139,
+    "overage_used": 3139,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Fluidmaster-Replacement-Dual-Flush-Seal-for-Glacier-Bay-83SGB/205114935"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:45:16.567Z",
+    "processed_at": "2025-05-01T13:45:21.606Z",
+    "total_time_taken": 5.04,
+    "homedepot_url": "https://www.homedepot.com/p/Fluidmaster-Replacement-Dual-Flush-Seal-for-Glacier-Bay-83SGB/205114935"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Fluidmaster-Replacement-Dual-Flush-Seal-for-Glacier-Bay-83SGB/205114935",
+    "brand": "Fluidmaster",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Seals/Fluidmaster/N-5yc1vZc6a1Zl3",
+    "title": "Fluidmaster Replacement Dual Flush Seal for Glacier Bay",
+    "upc": "039961011794",
+    "item_id": "205114935",
+    "store_sku": "1000047459",
+    "model_number": "83SGB",
+    "description": "The Fluidmaster 83SGB Replacement Dual Flush Seal for Glacier Bay is a direct replacement part for Glacier Bay 3 Dual Flush Toilets. Proven to be both effective and durable. Featuring a 5-year warranty you can restore your dual flush toilet to like new, with a quality that built to last. This DIY replacement toilet seal offers a way to fix a leaky flush valve while eliminating purchasing the entire new flush valve in an easy to install model. For the best solution to poor flush performance, get the Fluidmaster Dual Flush Replacement Seal, designed specifically for Glacier Bay Dual Flush Toilets.",
+    "favorite_count": 202,
+    "aisle": "9",
+    "bay": "007",
+    "feature_bullets": [
+      "Fix your dual flush valve with this direct replacement seal",
+      "Designed for Glacier Bay 3 in. dual flush toilets",
+      "A simple DIY fix for common tank to bowl leaks"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Replace your glacier bay 3 in. dual flush seal fast with this direct replacement part",
+      "Easy to install",
+      "Fits glacier bay dual flush toilet models",
+      "Restore your toilets flush back to original factory performance",
+      "Fix common tank to bowl leak problems",
+      "5-year warranty",
+      "Effective DIY fix for flush performance, without buying a new flush valve",
+      "<img src=\"https://inlinecontent.thdstatic.com/26P/FLUIDMASTER INC/Digital Banner_GrayBathroombcgd_product_900x450px_093019_1 (1) 1943213.jpg\">"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0eb8d134-89ed-4672-a92c-cca5f1532af5/svn/fluidmaster-toilet-seals-83sgb-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ab6d900c-2f19-465e-abe3-11f6968aa464/svn/fluidmaster-toilet-seals-83sgb-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/28ea1b41-b134-4a97-84aa-eeb23a316d76/svn/fluidmaster-toilet-seals-83sgb-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/094a23d8-1f12-49aa-90b5-42daa259bd64/svn/fluidmaster-toilet-seals-83sgb-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0eb8d134-89ed-4672-a92c-cca5f1532af5/svn/fluidmaster-toilet-seals-83sgb-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/47cbb170-be8b-4887-9b7a-296d37913d27/cdd1f152-dfdb-450a-8a23-94d102172f64/main.mp4?fastly_token=NjgzODIzZDRfYTEwMjMwNDNkNWE5ODc3NzUyYjQ1ZDA2ODE2YjE0ODYwZDlhY2I4OTI5ZDU0ODRmZTlkZTRkOGExZDI0ZWZjYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80N2NiYjE3MC1iZThiLTQ4ODctOWI3YS0yOTZkMzc5MTNkMjcvY2RkMWYxNTItZGZkYi00NTBhLThhMjMtOTRkMTAyMTcyZjY0L21haW4ubXA0&pubid=66036796001",
+        "title": "FLuidMaster Parts REV 2 MP4",
+        "id": "6371656652112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/47cbb170-be8b-4887-9b7a-296d37913d27/main/160x90/33s301ms/match/image.jpg?pubId=66036796001",
+        "description": "Fluidmaster Parts Showcase"
+      }
+    ],
+    "ratings_total": 452,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color/Finish Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Chemical Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Plastic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Seal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seal Type",
+        "value": "Flush Valve Seals"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "5 years"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Inside Diameter (in.)",
+        "value": "2 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Outside Diameter (in.)",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Toilet Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts/N-5yc1vZc69l"
+      },
+      {
+        "name": "Toilet Seals",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Toilet-Parts-Toilet-Seals/N-5yc1vZc6a1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 5.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 12
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 16,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 69,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

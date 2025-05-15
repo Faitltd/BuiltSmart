@@ -1,0 +1,159 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14174,
+    "overage_used": 4174,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Schluter-Kerdi-Kers-B-Bench-Neo-Angle-Waterproofing-Corner-Kit-KERSB135K/309686209"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:00:21.223Z",
+    "processed_at": "2025-05-01T18:00:27.296Z",
+    "total_time_taken": 6.07,
+    "homedepot_url": "https://www.homedepot.com/p/Schluter-Kerdi-Kers-B-Bench-Neo-Angle-Waterproofing-Corner-Kit-KERSB135K/309686209"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Schluter-Kerdi-Kers-B-Bench-Neo-Angle-Waterproofing-Corner-Kit-KERSB135K/309686209",
+    "brand": "Schluter",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools-Floor-Installation-Kits/Schluter/N-5yc1vZcduaZ7fo",
+    "title": "Schluter Kerdi-Kers-B Bench/Neo-Angle Waterproofing Corner Kit",
+    "upc": "4011832145247",
+    "item_id": "309686209",
+    "store_sku": "1004367601",
+    "model_number": "KERSB135K",
+    "description": "Kerdi-Kers-B are preformed, seamless waterproofing corners made of Kerdi. They are designed for waterproofing the 135 angles between triangular shower benches and the wall. They also work to waterproof the tops of curbs in neo-angle showers. The 4 mil thickness helps minimize build-up in the corners. Kerdi-Kers-B are available for left and right bench corners and in a bench kit.",
+    "favorite_count": 39,
+    "feature_bullets": [
+      "Seamless waterproofing corner kit for triangular shower benches",
+      "Preformed to simplify installation",
+      "4 mil thickness minimizes build-up under the tile"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "For waterproofing 135 angles where corner shower benches and walls meet",
+      "Package contains 2 135 inside corners, 1 right and 1 left bench corner",
+      "Thickness is 4 mil",
+      "Made of Schluter-Kerdi"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/3fd8909d-b4eb-4e0a-a34c-c74a2343e580/svn/schluter-floor-installation-kits-kersb135k-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/3fd8909d-b4eb-4e0a-a34c-c74a2343e580/svn/schluter-floor-installation-kits-kersb135k-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 2,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Orange"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Underlayment"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Type",
+        "value": "Ceramic,Porcelain,Stone,Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polyethylene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "4"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": ".50 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10 Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Diameter (in.)",
+        "value": "0 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "7 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Flooring Supplies",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies/N-5yc1vZcdu0"
+      },
+      {
+        "name": "Flooring Tools",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools/N-5yc1vZcdtv"
+      },
+      {
+        "name": "Floor Installation Kits",
+        "link": "https://www.homedepot.com/b/Flooring-Flooring-Supplies-Flooring-Tools-Floor-Installation-Kits/N-5yc1vZcdua"
+      }
+    ],
+    "buybox_winner": {
+      "price": 56.41,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 14,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-07"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 14,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

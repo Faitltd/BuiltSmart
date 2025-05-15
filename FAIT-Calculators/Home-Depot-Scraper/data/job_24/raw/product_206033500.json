@@ -1,0 +1,222 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14207,
+    "overage_used": 4207,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-Pro-Pack-163-9-16-in-x-5-1-4-in-x-192-in-Primed-Finger-Jointed-Baseboard-Moulding-5-Pack-80-Total-Linear-Feet-10004252/206033500"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:21.280Z",
+    "processed_at": "2025-05-01T18:20:24.631Z",
+    "total_time_taken": 3.35,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-Pro-Pack-163-9-16-in-x-5-1-4-in-x-192-in-Primed-Finger-Jointed-Baseboard-Moulding-5-Pack-80-Total-Linear-Feet-10004252/206033500"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Pro-Pack-163-9-16-in-x-5-1-4-in-x-192-in-Primed-Finger-Jointed-Baseboard-Moulding-5-Pack-80-Total-Linear-Feet-10004252/206033500",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Woodgrain-Millwork/N-5yc1vZcbjpZ7c8",
+    "title": "Woodgrain Millwork Pro Pack 163 9/16 in. x  5 1/4 in. x  192 in. Primed Finger Jointed Baseboard Moulding (5-Pack \u2212 80 Total Linear Feet)",
+    "upc": "095624520812",
+    "item_id": "206033500",
+    "parent_id": "325326293",
+    "store_sku": "1001409749",
+    "model_number": "10004252",
+    "description": "The Woodgrain Millwork 9/16 in. x 5-1/4 in. LWM 163E Primed Finger-Jointed base ProPack is the perfect addition to dress up any room. The Woodgrain Millwork Primed Finger-Jointed LWM 163E base ProPack is used covers any imperfections where floor and wall meet. Base Molding can also be used as starter point for a more elaborate built up base boards. Combing other moldings with this base can create looks that range from classic to elegant.",
+    "is_top_rated": true,
+    "favorite_count": 429,
+    "aisle": "19",
+    "bay": "EC1",
+    "feature_bullets": [
+      "Creates clean transitions from walls to floors",
+      "Ready to be painted with any premium latex-based paint",
+      "May be used to create many different looks in your home"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Comes in a convenient 80 lin. ft. bundle",
+      "Installs with common woodworking tools",
+      "Contains 5-piece - at 16 ft. for 80 total feet",
+      "<a href=\"https://www.homedepot.com/services/c/door-window-specialist/893e44520\" target=\"_blank\" style=\"color:#F96302;\">Speak to an Associate about Doors and Windows. Call 1-833-HDAPRON (432-7766) for free design, purchase and installation help daily from 9AM - 9PM EST.</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/2ed6a754-76f7-415c-a22c-f544660e4231/svn/white-woodgrain-millwork-baseboard-10004252-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-baseboard-10004252-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/2ed6a754-76f7-415c-a22c-f544660e4231/svn/white-woodgrain-millwork-baseboard-10004252-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 161,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Adhesive,Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint,Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "163"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.563 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-8718-11-16-in-x-2-3-8-in-x-96-in-Painted-Finger-Jointed-Poplar-Base-Moulding-10004238/206017154",
+        "item_id": "206017154"
+      },
+      {
+        "title": "White~~16 ft~~Wood~~5",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-Pro-Pack-163-9-16-in-x-5-1-4-in-x-192-in-Primed-Finger-Jointed-Baseboard-Moulding-5-Pack-80-Total-Linear-Feet-10004252/206033500",
+        "item_id": "206033500"
+      },
+      {
+        "title": "White~~12 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Woodgrain-Millwork-WM-8718-11-16-in-x-2-3-8-in-x-144-in-Painted-Finger-Jointed-Poplar-Base-Moulding-10004239/206017304",
+        "item_id": "206017304"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 129,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 48
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5860",
+          "in_stock": true,
+          "stock_level": 63,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

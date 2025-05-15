@@ -1,0 +1,278 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14985,
+    "overage_used": 4985,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KOHLER-Stonewood-Elongated-Front-Toilet-Seat-in-White-K-20466-0/303317056"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-02T21:50:34.115Z",
+    "processed_at": "2025-05-02T21:50:41.992Z",
+    "total_time_taken": 7.88,
+    "homedepot_url": "https://www.homedepot.com/p/KOHLER-Stonewood-Elongated-Front-Toilet-Seat-in-White-K-20466-0/303317056"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Elongated-Front-Toilet-Seat-in-White-K-20466-0/303317056",
+    "brand": "KOHLER",
+    "brand_link": "https://www.homedepot.com/b/Bath-Toilets-Toilet-Seats/KOHLER/N-5yc1vZceq5Z1qh",
+    "title": "KOHLER Stonewood Elongated Front Toilet Seat in White",
+    "upc": "885612664648",
+    "item_id": "303317056",
+    "parent_id": "316137298",
+    "store_sku": "1002817105",
+    "model_number": "K-20466-0",
+    "description": "This Stonewood toilet seat offers a versatile design that complements many bathroom styles. Compatible with most elongated 1 or 2 piece toilets, the compression-molded wood seat provides a substantial look and feel. This seat features innovative technology that makes it easy to install and clean.",
+    "is_exclusive": true,
+    "favorite_count": 955,
+    "aisle": "37",
+    "bay": "001",
+    "feature_bullets": [
+      "Compression-molded wood resists cracking",
+      "Quiet-close lid prevents slamming",
+      "Compatible with most elongated toilets"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Quiet-close lid closes slowly and quietly without slamming",
+      "Versatile design that complements the design lines of many",
+      "Compression molded wood construction",
+      "Elongated seat",
+      "1-year limited warranty",
+      "Click <a href=\"https://www.homedepot.com/b/KOHLER/N-5yc1vZ1qh\" target=\"_blank\" style=\"color:#F96302;\">here</a> to shop for more Kohler products"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/aaa1c08a-2f51-4b82-8c53-20509105642c/svn/white-kohler-toilet-seats-k-20466-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/34bd685e-d1ad-42b2-beea-fb86fe7e3919/svn/white-kohler-toilet-seats-k-20466-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/97ef86e2-066c-4e2d-b86e-4c3141e85a7f/svn/white-kohler-toilet-seats-k-20466-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e0531116-4a48-480a-bd60-cab32ec5b622/svn/white-kohler-toilet-seats-k-20466-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/022a07a5-f883-4b8a-914f-05c2e99b1a48/svn/white-kohler-toilet-seats-k-20466-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/657e1cae-3fb6-494d-a261-b4ac97805852/svn/white-kohler-toilet-seats-k-20466-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eba7f38a-7b87-4a5b-9511-e6b20a3c1db0/svn/white-kohler-toilet-seats-k-20466-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7822721d-b96a-4c47-a2fa-0fba3e97fa3b/svn/white-kohler-toilet-seats-k-20466-0-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/aaa1c08a-2f51-4b82-8c53-20509105642c/svn/white-kohler-toilet-seats-k-20466-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/3e5681bc-7a26-453e-9acd-15d9ce0f3cbb/afe3aa80-e381-4a3d-b413-49bf9f7a47e7/main.mp4?fastly_token=NjgxNGU4NzRfMmY2MWYzYWI2N2ZhYTg3MDQwNTFhOWRlNzA0MjQwZjkxMzRjM2ZkYjM5YjYzNjk5YTdhY2Q2MTNhNjBlOWJmOF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvM2U1NjgxYmMtN2EyNi00NTNlLTlhY2QtMTVkOWNlMGYzY2JiL2FmZTNhYTgwLWUzODEtNGEzZC1iNDEzLTQ5YmY5ZjdhNDdlNy9tYWluLm1wNA%3D%3D",
+        "title": "Kohler Toilet Seats",
+        "id": "1581313928001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/3e5681bc-7a26-453e-9acd-15d9ce0f3cbb/952b1e66-f009-4d18-9330-f3322e24d699/160x90/match/image.jpg",
+        "description": "Kohler Q2 and Q3 Advantage Toilets Seats are available in round and elongated sizes and feature quick attach hardware and releases, and the Q3 offers a quiet-close seat that closes automatically at a slow pace."
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxNGQ1NzlfMjMzY2Y1NjlhZDJiMjI3ZDEzMmY0NTdkZTkyOWNiNGZkODJiNDIwOTljZmExZjA4NDY5ZDY5N2IzMmQ3MGFmZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "ratings_total": 4351,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Bowl/Seat Shape",
+        "value": "Elongated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Toilet Seat"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "6.77 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Front Type",
+        "value": "Closed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Seat Material",
+        "value": "Molded Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Minimalist,Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Toilet Seat Type",
+        "value": "Standard"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "One-Year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "18.85 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "2.375 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "14.1875 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Biscuit~~Elongated~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Quiet-Close-Elongated-Closed-Front-Toilet-Seat-in-Biscuit-K-20466-96/304077725",
+        "item_id": "304077725"
+      },
+      {
+        "title": "White~~Elongated~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Elongated-Front-Toilet-Seat-in-White-K-20466-0/303317056",
+        "item_id": "303317056"
+      },
+      {
+        "title": "White~~Round~~2 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Quiet-Close-Round-Closed-Front-Toilet-Seat-in-White-2-Pack-K-20467-0-20467-2/315703669",
+        "item_id": "315703669"
+      },
+      {
+        "title": "White~~Elongated~~2 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Quiet-Close-Elongated-Closed-Front-Toilet-Seat-in-White-2-Pack-K-20466-20466-2/315703671",
+        "item_id": "315703671"
+      },
+      {
+        "title": "White~~Round~~3 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Quiet-Close-Round-Closed-Front-Toilet-Seat-in-White-3-Pack-K-20467-0-20467-3/315703672",
+        "item_id": "315703672"
+      },
+      {
+        "title": "Biscuit~~Round~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Quiet-Close-Round-Closed-Front-Toilet-Seat-in-Biscuit-K-20467-96/304077974",
+        "item_id": "304077974"
+      },
+      {
+        "title": "White~~Elongated~~3 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Quiet-Close-Elongated-Closed-Front-Toilet-Seat-in-White-3-Pack-K-20466-20466-3/315703661",
+        "item_id": "315703661"
+      },
+      {
+        "title": "White~~Round~~1 Pack",
+        "link": "https://www.homedepot.com/p/KOHLER-Stonewood-Round-Front-Toilet-Seat-in-White-K-20467-0/303317081",
+        "item_id": "303317081"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Toilets",
+        "link": "https://www.homedepot.com/b/Bath-Toilets/N-5yc1vZbzbd"
+      },
+      {
+        "name": "Toilet Seats",
+        "link": "https://www.homedepot.com/b/Bath-Toilets-Toilet-Seats/N-5yc1vZceq5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 39.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 32
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 32,
+          "price": 2.99,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 72,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

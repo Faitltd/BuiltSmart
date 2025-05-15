@@ -1,0 +1,226 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13995,
+    "overage_used": 3995,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Building-Products-7828-5-8-in-x-6-in-x-8-ft-PVC-Vinyl-Trimplank-S4S-Molding-5755904/304509926"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:51.807Z",
+    "processed_at": "2025-05-01T17:50:58.449Z",
+    "total_time_taken": 6.64,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Building-Products-7828-5-8-in-x-6-in-x-8-ft-PVC-Vinyl-Trimplank-S4S-Molding-5755904/304509926"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Building-Products-7828-5-8-in-x-6-in-x-8-ft-PVC-Vinyl-Trimplank-S4S-Molding-5755904/304509926",
+    "brand": "Royal Building Products",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/Royal-Building-Products/N-5yc1vZcbj5Zgkn",
+    "title": "Royal Building Products 7828 5/8 in. x 6 in. x 8 ft. PVC Vinyl Trimplank S4S Molding",
+    "upc": "070673887901",
+    "item_id": "304509926",
+    "parent_id": "334714122",
+    "store_sku": "1003081276",
+    "model_number": "5755904",
+    "description": "Vinyl Trim Plank Molding by Royal is perfect for exterior trim applications or garage door surrounds. Enjoy all the benefits of PVC without the worries of rot, replacement or high maintenance. Installs easy and adds value to the home.",
+    "favorite_count": 99,
+    "aisle": "19",
+    "bay": "009",
+    "feature_bullets": [
+      "100% PVC",
+      "Rot free, moisture and termite proof material",
+      "Paintable with 100% acrylic latex paint"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Low maintenance",
+      "Ready to install",
+      "Paintable with100% acrylic latex paint",
+      "Moisture and termite resistant"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b44c40b1-eeec-4423-9879-3d8ca4170b46/svn/white-royal-building-products-general-purpose-moulding-5755904-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e319d1d4-1c44-4d30-9654-ccccc820f6bb/svn/white-royal-building-products-general-purpose-moulding-5755904-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/169ea49e-401b-4f39-9b37-83584a6d0197/svn/white-royal-building-products-general-purpose-moulding-5755904-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c26972ff-3de7-4141-bf6c-51cb510a1a6f/svn/white-royal-building-products-general-purpose-moulding-5755904-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dc29d555-1a86-4cdf-baea-93e3831e9e01/svn/white-royal-building-products-general-purpose-moulding-5755904-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b44c40b1-eeec-4423-9879-3d8ca4170b46/svn/white-royal-building-products-general-purpose-moulding-5755904-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 118,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Adhesive,Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Moisture Resistant,Paintable,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "S4S Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "7828"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.50 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "White~~5.50 in",
+        "link": "https://www.homedepot.com/p/Royal-Building-Products-7828-5-8-in-x-6-in-x-8-ft-PVC-Vinyl-Trimplank-S4S-Molding-5755904/304509926",
+        "item_id": "304509926"
+      },
+      {
+        "title": "White~~5.5 in",
+        "link": "https://www.homedepot.com/p/Royal-Building-Products-7828-5-8-in-x-6-in-x-12-ft-PVC-Vinyl-Trimplank-S4S-Molding-White-5912682/322920994",
+        "item_id": "322920994"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 27.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 24
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 24,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

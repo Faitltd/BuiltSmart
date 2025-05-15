@@ -1,0 +1,217 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13682,
+    "overage_used": 3682,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/M-D-Building-Products-0-0625-in-x-72-in-Satin-Clear-Moulding-Divider-69138/204955717"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:53:59.341Z",
+    "processed_at": "2025-05-01T16:54:03.805Z",
+    "total_time_taken": 4.46,
+    "homedepot_url": "https://www.homedepot.com/p/M-D-Building-Products-0-0625-in-x-72-in-Satin-Clear-Moulding-Divider-69138/204955717"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/M-D-Building-Products-0-0625-in-x-72-in-Satin-Clear-Moulding-Divider-69138/204955717",
+    "brand": "M-D Building Products",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/M-D-Building-Products/N-5yc1vZcbj5Za0j",
+    "title": "M-D Building Products 0.0625 in. x 72 in. Satin Clear Moulding Divider",
+    "upc": "043374691382",
+    "item_id": "204955717",
+    "store_sku": "1000750603",
+    "model_number": "69138",
+    "description": "These aluminum mouldings from M-D Building Products serve as great accents to your room and come in various aluminum shapes and finishes. No matter what your project consists of, there is a moulding that will work for you. Decorative aluminum mouldings include caps, edging, corners, cove and dividers.",
+    "favorite_count": 22,
+    "feature_bullets": [
+      "Ideal accent to elevate the look of your home decor",
+      "Made of aluminum for prolonged use",
+      "Includes edging, caps, dividers, corners and coves"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Decorative aluminum t-moulding",
+      "72 in. strip",
+      "For 1/16 in. material thickness",
+      "Great accent to any room",
+      "Wide range of mouldings and finishes available"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e16a0d5e-7767-4112-a1c9-e1bb0f3a6bae/svn/variety-m-d-building-products-general-purpose-moulding-69138-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3156edb9-1ea2-4d3e-a82f-e8f3cfccc7a4/svn/variety-m-d-building-products-general-purpose-moulding-69138-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8b85f8fb-9fad-49c8-9dc7-6f99aa4fdab4/svn/variety-m-d-building-products-general-purpose-moulding-69138-40_1000.jpg",
+        "type": "image_right_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e16a0d5e-7767-4112-a1c9-e1bb0f3a6bae/svn/variety-m-d-building-products-general-purpose-moulding-69138-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/34a7b10b-0cec-405d-b776-d065fb184c25/c756ef4c-2d5f-432e-a3b2-ab1f8454e8a0/main.mp4?fastly_token=NjgxM2FlMTRfYTNhNGMyZWIyYTBkZjc2ZmExZWQ3OWE1MzM5ZDZkNGU3MjVhZjFhMjcxYmU0NWM0YzZkYThkNzJiYzUzYzA5ZV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMzRhN2IxMGItMGNlYy00MDVkLWI3NzYtZDA2NWZiMTg0YzI1L2M3NTZlZjRjLTJkNWYtNDMyZS1hM2IyLWFiMWY4NDU0ZThhMC9tYWluLm1wNA%3D%3D",
+        "title": "fall_promo_50_sec_2022",
+        "id": "6319353335112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/34a7b10b-0cec-405d-b776-d065fb184c25/main/160x90/25s98ms/match/image.jpg",
+        "description": "Why you should weatherstrip your home for year-round comfort. \n"
+      }
+    ],
+    "ratings_total": 2,
+    "rating": 3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Tan"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "variety"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Painted"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "60820221"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "NONE"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.19 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "72 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.06 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "General Purpose Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-General-Purpose-Moulding/N-5yc1vZcbj5"
+      }
+    ],
+    "buybox_winner": {
+      "price": 12.27,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 23,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-09"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 23,
+          "price": 0,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

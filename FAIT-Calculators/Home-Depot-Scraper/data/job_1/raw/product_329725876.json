@@ -1,0 +1,362 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12628,
+    "overage_used": 2628,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Corso-Italia-Unico-Smoke-24-in-x-48-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010004575/329725876"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:27:00.160Z",
+    "processed_at": "2025-05-01T13:27:05.578Z",
+    "total_time_taken": 5.42,
+    "homedepot_url": "https://www.homedepot.com/p/Corso-Italia-Unico-Smoke-24-in-x-48-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010004575/329725876"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Smoke-24-in-x-48-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010004575/329725876",
+    "brand": "Corso Italia",
+    "brand_link": "https://www.homedepot.com/b/Flooring-Tile-Porcelain-Tile/Corso-Italia/N-5yc1vZb97mZf0e",
+    "title": "Corso Italia Unico Smoke 24 in. x 48 in. Concrete Look Porcelain Floor and Wall Tile (15.50 sq. ft. /Case)",
+    "upc": "842282111537",
+    "item_id": "329725876",
+    "parent_id": "328367622",
+    "store_sku": "1011256310",
+    "model_number": "610010004575",
+    "description": "Blending the look of concrete with a unique, fabric-inspired texture, Unico Smoke adds a refined and modern style to any home. The weaving finish in beautiful gray color creates a slight variation in tone, allowing this tile to elegantly complement a variety of decor. As beautiful as they are durable, these porcelain tiles are waterproof, stainproof, dentproof and scratch resistant. Apply Unico Smoke in your kitchen, living room and laundry room for an updated, elegant appearance.",
+    "feature_bullets": [
+      "A stunning and eye-catching concrete look inspired by fabric",
+      "Ideal for floors, walls, backsplashes, showers and countertops",
+      "Waterproof, scratch-resistant, plastic-free and easy to clean"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "15.50 sq. ft./Case; 2 Tiles/Case; 55.15 lbs./Case",
+      "24 in. width x 48 in. length x 0.375 in. thick",
+      "Grade 1, first-quality porcelain tile for floors and walls of tremendous aesthetic impact, characterized by spectacular contrasts of light and shadow sculpted by an elegant lighting that exalts or softens the surface depth.",
+      "Glazed, moderately textured finish with low sheen and slight variation in tone.",
+      "Large size (24 in. x 48 in.) offers an impressive result - less grout to clean and faster installation.",
+      "Suitable for both residential and commercial use",
+      "Class 4 abrasion resistance (medium to heavy traffic) - suitable for all residential applications (both walls and floors), as well as medium commercial and light institutional locations",
+      "Truly waterproof - porcelain flooring has water absorption of less than 0.5%, and it is suitable for indoor or outdoor use",
+      "Completely frost resistant for indoor and outdoor applications, we recommend using a modified thin set when outdoor, according to the manufacturer",
+      "It is recommended you purchase a minimum of 10% overage to account for design cuts and patterns, before you begin an installation, familiarize yourself with cost factors, this Project Cost Guide can assist you in budgeting for your tile project",
+      "Slip resistance D.C.O.F. greater than or equal to 0.42 - all Corso Italia tiles meet ANSI requirements for use on level interior or exterior floors expected to be walked upon when wet (not recommended for outdoor wet areas such as pools, where we recommend higher slip resistance - check out Corso Italia porcelain pavers)",
+      "Please ensure that all tile needed for a project is obtained within 1 order - multiple orders can result in receiving multiple dye lots and/or calibers, related to different production batches, which may slightly vary",
+      "Overlap during installation should not exceed 33% (a third of the tile length), 50% overlap not recommended",
+      "Made from natural ingredients, free from allergens, VOCs, formaldehyde and PVC, it is naturally inhospitable to bacteria and stain resistant - regular household cleaning will keep surface clean and sanitized",
+      "All online orders for this item ship via parcel ground and may arrive in multiple boxes"
+    ],
+    "descriptive_attributes_count": 15,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/f0dfc046-0549-5362-a0f9-89ca50b10e9c/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b9eade2c-0831-514a-a12f-403de57c12ce/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a6e6ab4f-ed86-5e6f-8cae-a4594611e5a8/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e41c2294-6de0-50f7-926b-a52790963699/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e268eecd-c4f3-5ba7-afc2-8dba2c1132a6/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f67ea1a1-23cc-5c0a-9030-4ed27246c2b0/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e5df11b0-67bf-5be6-b00a-c2009b248fb3/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d2a6346a-b37f-525b-8e24-39a357998643/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bac1da56-a219-50f9-aee8-61fffc208768/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9b141442-ed68-56a5-aa95-77734fefb634/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3bf65cd9-7f1e-5875-a9d2-f4e5b828b1f1/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/727bec0d-95fb-5bb6-8cac-1c1aecfef8bf/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/f0dfc046-0549-5362-a0f9-89ca50b10e9c/svn/smoke-matte-corso-italia-porcelain-tile-610010004575-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 25,
+    "rating": 4.3,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application Location",
+        "value": "Backsplash,Floor,Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Break Strength (lb.)",
+        "value": "350.00 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Smoke/Matte"
+      },
+      {
+        "group_name": "Details",
+        "name": "Commercial / Residential",
+        "value": "Commercial / Residential"
+      },
+      {
+        "group_name": "Details",
+        "name": "DCOF Rating",
+        "value": "Greater than or equal to 0.42"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Rectified"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring Product Type",
+        "value": "Porcelain Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Flooring and Tile Look",
+        "value": "Concrete Look"
+      },
+      {
+        "group_name": "Details",
+        "name": "Indoor/Outdoor",
+        "value": "Indoor,Outdoor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Method",
+        "value": "Mortar"
+      },
+      {
+        "group_name": "Details",
+        "name": "Location",
+        "value": "Bathroom,Countertop,Entry Way,Fireplace,Kitchen,Living Room,Shower"
+      },
+      {
+        "group_name": "Details",
+        "name": "Minimum Acclimation Period",
+        "value": "No Acclimation Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pool Location",
+        "value": "Interior Pool, Surrounding Pool"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pool PEI Rating",
+        "value": "Inside Pool, Surrounding Pool"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shade Variation",
+        "value": "V3 - Moderate Variation"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shower Floor Compatibility",
+        "value": "Compatible"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tile Features",
+        "value": "Frost Resistant,Meets A.D.A. Requirements,Rectified Edge"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tile Finish",
+        "value": "Matte"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tile Format",
+        "value": "Large Format"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tile Material",
+        "value": "Porcelain"
+      },
+      {
+        "group_name": "Details",
+        "name": "Water Protection",
+        "value": "Waterproof"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "This product is warranted against manufacturing defects for the period of one year."
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Tile Size",
+        "value": "24x48"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "9 mm"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Suggested Grout Line Size",
+        "value": "1/16"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Gray/Matte~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Gray-24-in-x-48-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010004574/329725877",
+        "item_id": "329725877"
+      },
+      {
+        "title": "Smoke/Matte~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Smoke-24-in-x-48-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010004575/329725876",
+        "item_id": "329725876"
+      },
+      {
+        "title": "White/Matte~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-White-24-in-x-48-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010004571/329725875",
+        "item_id": "329725875"
+      },
+      {
+        "title": "Pearl/Matte~~Matte~~3x12~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Pearl-3-in-x-12-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-3-39-sq-ft-Case-610010005520/331089865",
+        "item_id": "331089865"
+      },
+      {
+        "title": "Pearl/Matte~~Matte~~12x24~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Pearl-12-in-x-24-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010005394/325193287",
+        "item_id": "325193287"
+      },
+      {
+        "title": "Smoke/Matte~~Matte~~12x24~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Smoke-12-in-x-24-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-13-56-sq-ft-Case-610010001043/329738113",
+        "item_id": "329738113"
+      },
+      {
+        "title": "Pearl/Matte~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Pearl-24-in-x-48-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010005473/327787841",
+        "item_id": "327787841"
+      },
+      {
+        "title": "Sand/Matte~~Matte~~12x24~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Sand-12-in-x-24-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-13-56-sq-ft-Case-610010001040/329725870",
+        "item_id": "329725870"
+      },
+      {
+        "title": "Sand/Matte~~Matte~~24x48~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Sand-24-in-x-48-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-15-50-sq-ft-Case-610010004572/329725869",
+        "item_id": "329725869"
+      },
+      {
+        "title": "White/Matte~~Matte~~12x24~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-White-12-in-x-24-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-13-56-sq-ft-Case-610010001039/329725868",
+        "item_id": "329725868"
+      },
+      {
+        "title": "Gray/Matte~~Matte~~12x24~~Case",
+        "link": "https://www.homedepot.com/p/Corso-Italia-Unico-Gray-12-in-x-24-in-Concrete-Look-Porcelain-Floor-and-Wall-Tile-13-56-sq-ft-Case-610010001042/329738026",
+        "item_id": "329738026"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Flooring",
+        "link": "https://www.homedepot.com/b/Flooring/N-5yc1vZaq7r"
+      },
+      {
+        "name": "Tile",
+        "link": "https://www.homedepot.com/b/Flooring-Tile/N-5yc1vZar0y"
+      },
+      {
+        "name": "Porcelain Tile",
+        "link": "https://www.homedepot.com/b/Flooring-Tile-Porcelain-Tile/N-5yc1vZb97m"
+      }
+    ],
+    "buybox_winner": {
+      "price": 61.54,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 122,
+          "price": 0,
+          "start_date": "2025-05-06",
+          "end_date": "2025-05-08"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 122,
+          "price": 5,
+          "start_date": "2025-05-07",
+          "end_date": "2025-05-07",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

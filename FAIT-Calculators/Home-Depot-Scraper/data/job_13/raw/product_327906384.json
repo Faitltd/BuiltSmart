@@ -1,0 +1,224 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13843,
+    "overage_used": 3843,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-10-x-2-3-4-in-Westminster-Gray-Star-Drive-Flat-Undercut-Epoxy-Color-Match-Deck-Screws-100-Pieces-LG-100-EP-SC/327906384"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:02:34.938Z",
+    "processed_at": "2025-05-01T17:03:12.760Z",
+    "total_time_taken": 37.82,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-10-x-2-3-4-in-Westminster-Gray-Star-Drive-Flat-Undercut-Epoxy-Color-Match-Deck-Screws-100-Pieces-LG-100-EP-SC/327906384"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-10-x-2-3-4-in-Westminster-Gray-Star-Drive-Flat-Undercut-Epoxy-Color-Match-Deck-Screws-100-Pieces-LG-100-EP-SC/327906384",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/NewTechWood/N-5yc1vZ2fkpe6aZbzg",
+    "title": "NewTechWood 10 x 2 3/4 in. Westminster Gray Star Drive Flat Undercut Epoxy Color Match Deck Screws (100-Pieces)",
+    "upc": "810146110279",
+    "item_id": "327906384",
+    "parent_id": "329170129",
+    "store_sku": "1010501419",
+    "model_number": "LG-100-EP-SC",
+    "description": "10 x 2-3/4 in. Star Drive NewTechWood Epoxy Composite Deck Screws are specifically designed to provide a clean, smooth and uniform finish in NewTechWood composite products. These screws feature extra deep star drive recesses, undercut heads, reverse threads, tri-lobular shanks, Type 17 auger tips. Made to match NewTechWood Colors.",
+    "feature_bullets": [
+      "Designed to provide clean, smooth and uniform finish",
+      "Features auger point for faster entry/splitting prevention",
+      "Star recesses allow better torqueing"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Auger point: provides faster entry and splitting prevention",
+      "Star recess: allows for better torqueing and less stripping",
+      "Special head design: achieve better countersinking thanks to the nibs built-in to both head types, flat heads have greater strength at the reinforced neck and the trim head's diameter is so small that the head is hardly noticeable",
+      "ACQ-rated: approved for use with ACQ treated lumber"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5513e27a-1a25-4aa3-9d46-7d994db22e41/svn/newtechwood-composite-deck-screws-lg-100-ep-sc-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/10b83977-01c3-49ce-a340-03a56a373f5d/svn/newtechwood-composite-deck-screws-lg-100-ep-sc-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5513e27a-1a25-4aa3-9d46-7d994db22e41/svn/newtechwood-composite-deck-screws-lg-100-ep-sc-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 2,
+    "rating": 5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Painted"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Undercut"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit,Screw"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "ASTM"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "100"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "1.28 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Westminster Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "3 mm"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Dual Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "12 TPI"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "0"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "2-3/4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "2-3/4 in~~#10~~Spanish Walnut~~1.28 lb",
+        "link": "https://www.homedepot.com/p/NewTechWood-10-x-2-3-4-in-Spanish-Walnut-Star-Drive-Flat-Undercut-Epoxy-Color-Match-Deck-Screws-100-Pieces-WN-100-EP-SC/327906382",
+        "item_id": "327906382"
+      },
+      {
+        "title": "2-3/4 in~~#10~~Hawaiian Charcoal~~1.28 lb",
+        "link": "https://www.homedepot.com/p/NewTechWood-10-x-2-3-4-in-Hawaiian-Charcoal-Star-Drive-Flat-Undercut-Epoxy-Color-Match-Deck-Screws-100-Pieces-CH-100-EP-SC/327906386",
+        "item_id": "327906386"
+      },
+      {
+        "title": "2-3/4 in~~#10~~Brazilian Ipe~~1.28 lb",
+        "link": "https://www.homedepot.com/p/NewTechWood-10-x-2-3-4-in-Brazilian-Ipe-Star-Drive-Flat-Undercut-Epoxy-Color-Match-Deck-Screws-100-Pieces-IP-100-EP-SC/327906385",
+        "item_id": "327906385"
+      },
+      {
+        "title": "2-3/4 in~~#10~~Westminster Gray~~1.28 lb",
+        "link": "https://www.homedepot.com/p/NewTechWood-10-x-2-3-4-in-Westminster-Gray-Star-Drive-Flat-Undercut-Epoxy-Color-Match-Deck-Screws-100-Pieces-LG-100-EP-SC/327906384",
+        "item_id": "327906384"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 19.35,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "case"
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12709,
+    "overage_used": 2709,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DECKMATE-10-4-in-Red-Exterior-Self-Starting-Torx-Flat-Head-Square-Drive-Deck-Screw-5-lbs-435-Piece-115930/313378964"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:29:05.831Z",
+    "processed_at": "2025-05-01T13:29:12.452Z",
+    "total_time_taken": 6.62,
+    "homedepot_url": "https://www.homedepot.com/p/DECKMATE-10-4-in-Red-Exterior-Self-Starting-Torx-Flat-Head-Square-Drive-Deck-Screw-5-lbs-435-Piece-115930/313378964"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DECKMATE-10-4-in-Red-Exterior-Self-Starting-Torx-Flat-Head-Square-Drive-Deck-Screw-5-lbs-435-Piece-115930/313378964",
+    "brand": "DECKMATE",
+    "brand_link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/DECKMATE/N-5yc1vZ2fkpe6aZrkz",
+    "title": "DECKMATE #10 4 in. Red Exterior Self-Starting Torx Flat-Head Square Drive Deck Screw (5 lbs. / 435-Piece)",
+    "upc": "038902299963",
+    "item_id": "313378964",
+    "parent_id": "324059178",
+    "store_sku": "1005193764",
+    "model_number": "115930",
+    "description": "Deck Mate Red deck screws are designed to provide superior weather protection while coordinating with your decking finish. Engineered using star-drive technology, these screws are twice as durable as a Philips drive and prevent stripping. The black ceramic coating provides superior rust and corrosion resistance with 4-layers of protection - a zinc layer, a chemical adhesion layer, an epoxy coating and a durable protective finish. Recommended for use with treated lumber.",
+    "feature_bullets": [
+      "Star drive technology prevents stripping or camming out",
+      "Red ceramic coating ensures rust resistance",
+      "Type-17 point allows for easy screw driving"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Star drive head helps transfer torque and prevent cam outs",
+      "Nibs under head allow screw to countersink better for a smoother finish",
+      "Type-17 point with flute creates its own pilot hole, limiting the need for pre-drilling",
+      "Red ceramic coating offers superior corrosion and rust protection",
+      "Flat head leaves a clean, even finish",
+      "Includes T-25 driver bit in the box"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bb15b359-c97c-459d-af68-ae0ced3274e6/svn/deckmate-composite-deck-screws-115930-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8a6d0650-d25a-415d-8690-783b037ed31f/svn/deckmate-composite-deck-screws-115930-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/26f7ad14-90d3-4f62-81f3-30ae35433f45/svn/deckmate-composite-deck-screws-115930-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/dbaa0532-ef2a-4cee-a40e-6581a9373e69/svn/deckmate-composite-deck-screws-115930-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a639fe17-8427-4e4e-a0bb-0f8fd3711ba1/svn/deckmate-composite-deck-screws-115930-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eaf4ab93-da6a-460f-94a4-c430a5d67a2a/svn/deckmate-composite-deck-screws-115930-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9b295fed-9205-4193-9dc9-feaf407a01ee/svn/deckmate-composite-deck-screws-115930-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4bf95191-1903-4893-9369-e495b17becf9/svn/deckmate-composite-deck-screws-115930-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/14c6091d-e8eb-471e-93c7-e8058bb0c20e/svn/deckmate-composite-deck-screws-115930-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bb15b359-c97c-459d-af68-ae0ced3274e6/svn/deckmate-composite-deck-screws-115930-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 101,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Drive Style",
+        "value": "Torx"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Color",
+        "value": "Red"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Material",
+        "value": "Carbon Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Plating",
+        "value": "Phosphate"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Type",
+        "value": "Composite Deck Screws"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "ACQ Rated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Grade",
+        "value": "Not Graded"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Style",
+        "value": "Flat Head"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "Driver Bit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement Standard",
+        "value": "SAE"
+      },
+      {
+        "group_name": "Details",
+        "name": "Measurement System",
+        "value": "Inches"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "435"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Screw Head Color",
+        "value": "Red"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Pitch (mm)",
+        "value": "N/A - Inches Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Thread Style",
+        "value": "Serrated Thread"
+      },
+      {
+        "group_name": "Details",
+        "name": "Threads Per Inch (TPI)",
+        "value": "N/A - Metric Fastener"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Screw Length",
+        "value": "4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Size",
+        "value": "#10"
+      }
+    ],
+    "size": "#10",
+    "variants": [
+      {
+        "title": "4 in~~#10~~Red~~5 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-4-in-Red-Exterior-Self-Starting-Torx-Flat-Head-Square-Drive-Deck-Screw-5-lbs-435-Piece-115930/313378964",
+        "item_id": "313378964"
+      },
+      {
+        "title": "4 in~~#10~~Red~~1 lb",
+        "link": "https://www.homedepot.com/p/DECKMATE-10-x-4-in-Red-Flat-Head-Square-Drive-Deck-Screw-1-lb-Box-147-Piece-115929/313378963",
+        "item_id": "313378963"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Hardware",
+        "link": "https://www.homedepot.com/b/Hardware/N-5yc1vZc21m"
+      },
+      {
+        "name": "Fasteners",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners/N-5yc1vZc255"
+      },
+      {
+        "name": "Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws/N-5yc1vZc2b0"
+      },
+      {
+        "name": "Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws/N-5yc1vZc9n0"
+      },
+      {
+        "name": "Composite Deck Screws",
+        "link": "https://www.homedepot.com/b/Hardware-Fasteners-Screws-Deck-Screws-Composite-Deck-Screws/N-5yc1vZ2fkpe6a"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "was_price": 37.37,
+      "unit": "package",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "6986",
+          "in_stock": true,
+          "stock_level": 11,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 24,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

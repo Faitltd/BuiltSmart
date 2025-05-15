@@ -1,0 +1,220 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13956,
+    "overage_used": 3956,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Ornamental-Mouldings-1262-3-4-in-x-5-1-2-in-x-96-in-Primed-Baseboard-Wood-Moulding-1-Piece-0-67-Total-Linear-Feet-1262-8FTPRIM/311746935"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:48:44.520Z",
+    "processed_at": "2025-05-01T17:48:53.630Z",
+    "total_time_taken": 9.11,
+    "homedepot_url": "https://www.homedepot.com/p/Ornamental-Mouldings-1262-3-4-in-x-5-1-2-in-x-96-in-Primed-Baseboard-Wood-Moulding-1-Piece-0-67-Total-Linear-Feet-1262-8FTPRIM/311746935"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Ornamental-Mouldings-1262-3-4-in-x-5-1-2-in-x-96-in-Primed-Baseboard-Wood-Moulding-1-Piece-0-67-Total-Linear-Feet-1262-8FTPRIM/311746935",
+    "brand": "Ornamental Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Ornamental-Mouldings/N-5yc1vZcbjpZ2js",
+    "title": "Ornamental Mouldings 1262 3/4 in. x 5 1/2 in. x 96 in. Primed Baseboard Wood Moulding (1-Piece - 0.67 Total Linear Feet)",
+    "upc": "009215143793",
+    "item_id": "311746935",
+    "store_sku": "1004861469",
+    "model_number": "1262-8FTPRIM",
+    "description": "The Ornamental sawtooth moulding collection melds together an art deco period feel with a modern functional design. This innovative collection of mouldings can be used together or introduced to your existing decor to add an elegant flair. From floor to ceiling you will find exactly what you need to take your interior design to the next level.",
+    "favorite_count": 95,
+    "feature_bullets": [
+      "Designed to add visual continuity with baseboard moldings",
+      "Made of primed white hardwood to ensure durability",
+      "Suitable for use with sawtooth casing model 1263"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Primed white hardwood",
+      "Distinct design created to add a subtle update to your home",
+      "Use with sawtooth casing model 1263",
+      "Add visual continuity with baseboard mouldings"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d269c7e1-0e2f-4ed6-844a-588e683e3b28/svn/primed-ornamental-mouldings-baseboard-1262-8ftprim-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/bee798b2-9d82-446a-b356-24099699acf1/svn/primed-ornamental-mouldings-baseboard-1262-8ftprim-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/27f2bf49-f648-4a0a-81b0-541b83feff4d/svn/primed-ornamental-mouldings-baseboard-1262-8ftprim-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0088e129-1683-4cf8-bbed-694377d22033/svn/primed-ornamental-mouldings-baseboard-1262-8ftprim-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1137f587-0b0b-48ce-a085-d97aa5ad4932/svn/primed-ornamental-mouldings-baseboard-1262-8ftprim-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d269c7e1-0e2f-4ed6-844a-588e683e3b28/svn/primed-ornamental-mouldings-baseboard-1262-8ftprim-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 16,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "1262"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "8 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": 44.91,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 982,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 982,
+          "price": 0,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

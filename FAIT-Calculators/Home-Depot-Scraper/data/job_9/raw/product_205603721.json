@@ -1,0 +1,208 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13559,
+    "overage_used": 3559,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Handprint-1-2-in-x-2-ft-x-4-ft-Pressure-Treated-Pine-Plywood-Project-Panel-205959/205603721"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:49:44.833Z",
+    "processed_at": "2025-05-01T16:49:48.284Z",
+    "total_time_taken": 3.45,
+    "homedepot_url": "https://www.homedepot.com/p/Handprint-1-2-in-x-2-ft-x-4-ft-Pressure-Treated-Pine-Plywood-Project-Panel-205959/205603721"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Handprint-1-2-in-x-2-ft-x-4-ft-Pressure-Treated-Pine-Plywood-Project-Panel-205959/205603721",
+    "brand": "Handprint",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/Handprint/N-5yc1vZc7hmZubm",
+    "title": "Handprint 1/2 in. x 2 ft. x 4 ft. Pressure-Treated Pine Plywood Project Panel",
+    "upc": "090489317232",
+    "item_id": "205603721",
+    "parent_id": "326358784",
+    "store_sku": "743748",
+    "model_number": "205959",
+    "description": "Handprint's pressure-treated plywood is as versatile and as it is durable. Featuring a clean, sanded front and back, this handy weather-proof panel is perfect for a wide variety of outdoor DIY and decor projects. Whether left natural or finished, its smooth surface is ideal for creating a custom look. Cut, drill, route, glue, fasten, and finish with ordinary woodworking tools and less waste. Loved by makers and DIYers alike, we take the hard work out of home projects - but leave all the satisfaction in.",
+    "favorite_count": 618,
+    "aisle": "FW",
+    "bay": "010",
+    "feature_bullets": [
+      "One (1), 1/2\"-thick (nom.), rectangular, treated, plywood panel",
+      "Versatile, project-ready component for DIY repairs/small projects",
+      "Ideal for outdoor applications; easy to handle and transport"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Actual dimensions: 0.47\" x 23.75\" x 47.75\" Tolerance: +/- 1/4\"",
+      "Weight: Approx. 15 lbs",
+      "SPF (spruce/pine/fir) plywood; BC grade (or equivalent) with a veneer core; CARB Phase 2 compliant",
+      "Smooth, sanded surface across front and&nbsp;back; edges have smooth, even cuts; square-cut corners, perpendicular to edges",
+      "Free of large chips in veneer, splits on the face, edge splinters, chip-outs, fiber tear-outs, core voids more than 1/2 in. and knots more than 1 in.",
+      "Ready to customize with the finishes of your choice, including paint, stain, laminate, vinyl decals, and sealant",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/UNIVERSAL FOREST PRODUCT/2813293.jpg\">"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/d58c5a81-49a4-4cf9-9f7e-c975688e39ee/svn/handprint-project-panels-205959-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0af17141-446c-4393-9560-a06710770385/svn/handprint-project-panels-205959-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2e6bfa6c-23cd-462d-9581-c910a4f89b7a/svn/handprint-project-panels-205959-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a2cb2bf-019f-4a0d-b81f-858579169f3b/svn/handprint-project-panels-205959-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9a3b449d-8eb2-46b8-ab32-4e8adc6f58fd/svn/handprint-project-panels-205959-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e9fa0312-33c5-4bc4-9f1c-e5ab6206694f/svn/handprint-project-panels-205959-d4_1000.jpg",
+        "type": "image_catalog_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/d58c5a81-49a4-4cf9-9f7e-c975688e39ee/svn/handprint-project-panels-205959-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/60c6f0d8-6d6c-4313-bc15-c51a30a14ca0/main.mp4?fastly_token=NjgzODI2ZTdfNDk4ZDU0NTUzODA5Y2M5MTExNjZkZTI4NzgwOWNhMWE2MTQzZmMxMWM5YzIwOTMxYWFlNjRjNDQ1NzdiNTIyNF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hNTA4NDE5ZS1hNzlmLTQwMmEtOGRiZC02ODQyNDdjMGU3OWIvNjBjNmYwZDgtNmQ2Yy00MzEzLWJjMTUtYzUxYTMwYTE0Y2EwL21haW4ubXA0&pubid=66036796001",
+        "title": "Handprint Overview",
+        "id": "6298378923001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/a508419e-a79f-402a-8dbd-684247c0e79b/main/160x90/15s40ms/match/image.jpg?pubId=66036796001",
+        "description": "Brand Overview"
+      }
+    ],
+    "ratings_total": 433,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Exposure 1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Pressure Treated,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Project Panels"
+      },
+      {
+        "group_name": "Details",
+        "name": "Project Panel Type",
+        "value": "Plywood Sheathing"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "47.750 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "24 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "2"
+      }
+    ],
+    "variants": [
+      {
+        "title": "2 ft. x 4 ft.~~3/4~~Southern Pine",
+        "link": "https://www.homedepot.com/p/Handprint-3-4-in-x-2-ft-x-4-ft-Pressure-Treated-Plywood-Project-Panel-205960/205603712",
+        "item_id": "205603712"
+      },
+      {
+        "title": "2 ft. x 4 ft.~~1/2~~Pine",
+        "link": "https://www.homedepot.com/p/Handprint-1-2-in-x-2-ft-x-4-ft-Pressure-Treated-Pine-Plywood-Project-Panel-205959/205603721",
+        "item_id": "205603721"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Project Panels",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Project-Panels/N-5yc1vZc7hm"
+      }
+    ],
+    "buybox_winner": {
+      "price": 18.94,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 79
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 990,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

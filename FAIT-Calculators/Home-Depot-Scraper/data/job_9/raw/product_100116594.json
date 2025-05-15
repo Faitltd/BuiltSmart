@@ -1,0 +1,301 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13833,
+    "overage_used": 3833,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/KILZ-KILZ-2-ALL-PURPOSE-5-gal-White-Interior-Exterior-Multi-Surface-Primer-Sealer-and-Stain-Blocker-20000/100116594"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:01:56.168Z",
+    "processed_at": "2025-05-01T17:02:01.574Z",
+    "total_time_taken": 5.41,
+    "homedepot_url": "https://www.homedepot.com/p/KILZ-KILZ-2-ALL-PURPOSE-5-gal-White-Interior-Exterior-Multi-Surface-Primer-Sealer-and-Stain-Blocker-20000/100116594"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/KILZ-KILZ-2-ALL-PURPOSE-5-gal-White-Interior-Exterior-Multi-Surface-Primer-Sealer-and-Stain-Blocker-20000/100116594",
+    "brand": "KILZ",
+    "brand_link": "https://www.homedepot.com/b/Paint-Primers/KILZ/N-5yc1vZbt0tZ3my",
+    "title": "KILZ KILZ 2 ALL PURPOSE 5 gal. White Interior/Exterior Multi-Surface Primer, Sealer, and Stain Blocker",
+    "upc": "051652200003",
+    "item_id": "100116594",
+    "parent_id": "306914456",
+    "store_sku": "299237",
+    "model_number": "20000",
+    "description": "New Look, Same Trusted Formula, KILZ 2 ALL PURPOSE 5 Gal. (Previously KILZ 2 Latex) is a fast drying, water-base, multi-surface primer, sealer and stain blocker with excellent adhesion, sealing properties and very mild odor. KILZ 2 ALL PURPOSE primer also blocks light to medium stains and provides a mildew resistant coating. Use on interior and exterior surfaces including drywall, woodwork, plaster, stucco, paneling, masonry, brick, concrete, galvanized and painted metal.",
+    "is_bestseller": true,
+    "favorite_count": 5375,
+    "aisle": "24",
+    "bay": "004",
+    "feature_bullets": [
+      "Interior/Exterior water based multi-surface primer",
+      "Excellent adhesion and seals porous surfaces",
+      "Blocks light to medium stains"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Blocks medium stains including; minor water stains, rust, grease, ink, pencil and felt marker",
+      "Ideal for walls, ceilings and doors",
+      "Use under or over latex or oil-based paint",
+      "Dries to the touch in 30 minutes",
+      "Apply topcoat after using KILZ Primers",
+      "Ideal for color changes",
+      "Resists the growth of mildew to maintain a pristine appearance",
+      "Seals new drywall",
+      "Cleans up with soap and water",
+      "Mild odor to make application in areas with low ventilation more comfortable",
+      "Online Price includes a PaintCare fee in the following states: CA, CO, CT, DC, ME, MN, NY, OR, RI, VT, WA"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/edf45e59-a1b0-4397-b490-1f2be455f004/svn/white-kilz-primers-20000-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8adac0f5-8454-4c16-ad57-a979cea78859/svn/white-kilz-primers-20000-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9f888704-514e-49ab-b183-e310bb880615/svn/white-kilz-primers-20000-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d2a20ef3-1bb8-40fc-981b-29db6e653cfb/svn/white-kilz-primers-20000-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/cf3d8f94-6778-41ac-b5af-dbd4b0937b6a/svn/white-kilz-primers-20000-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1630ad7e-a966-44b1-8f56-31da9c471ec7/svn/white-kilz-primers-20000-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5046a5a7-138b-472f-a8cb-c9cf37aab114/svn/white-kilz-primers-20000-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/437ebd81-432d-41dd-82b1-0bab3c2c1167/svn/white-kilz-primers-20000-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d2209b3c-1f26-490b-a690-aa4dec5a45ed/svn/white-kilz-primers-20000-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4434b5fc-836f-4eec-8abe-43bd9bd84314/svn/white-kilz-primers-20000-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/edf45e59-a1b0-4397-b490-1f2be455f004/svn/white-kilz-primers-20000-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/2f150907-157d-4f79-95cd-9b362bf9cb20/2bf55398-e717-489f-a8f4-844f1924198f/main.mp4?fastly_token=NjgxMzkyMzVfZThiMTQ2ZjkwZDVhNDY5ZjcxZWVhZTc3YTgxNTMwMGY5YTBhZDFiMTBlNjliZjMwY2Q5MDVkMmMxMDk5ZGYxN18vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvMmYxNTA5MDctMTU3ZC00Zjc5LTk1Y2QtOWIzNjJiZjljYjIwLzJiZjU1Mzk4LWU3MTctNDg5Zi1hOGY0LTg0NGYxOTI0MTk4Zi9tYWluLm1wNA%3D%3D",
+        "title": "KILZ 2 Latex Primer Wall Project Video",
+        "id": "4764722507001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/2f150907-157d-4f79-95cd-9b362bf9cb20/37a6a09a-ed5d-43c2-a388-f33fd81d28e0/160x90/match/image.jpg",
+        "description": "KILZ 2 LATEX is a fast drying, water-base, multi-surface primer-sealer-stainblocker with excellent adhesion, sealing properties and very mild odor. KILZ 2 also blocks medium stains and provides a mildew resistant coating. Use on interior surfaces."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ba97fe5f-8635-42bb-83f9-9e6fc1fcfd0d/179421c0-6ce4-43b7-b28a-7cc105c1e4ef/main.mp4?fastly_token=NjgzODJjNTlfZWVhZTk3YzVjZTkxZTE5ZjYwMTlmODQ4ZjIzZjFlZmQxNzFjNjZlM2NmZWI1MmI0NGQwMmNhNGRiZjY5N2U1OF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iYTk3ZmU1Zi04NjM1LTQyYmItODNmOS05ZTZmYzFmY2ZkMGQvMTc5NDIxYzAtNmNlNC00M2I3LWIyOGEtN2NjMTA1YzFlNGVmL21haW4ubXA0&pubid=66036796001",
+        "title": "Kilz 2 All Purpose Primer Video",
+        "id": "6086146527001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/ba97fe5f-8635-42bb-83f9-9e6fc1fcfd0d/38cf025d-b2d5-4118-9f24-c7ef3f7ba4e4/90x90/match/image.jpg?pubId=66036796001",
+        "description": "KILZ 2 All Purpose Interior and Exterior Primer\r\nMulti-Surface Sealer & Stainblocker\r\nExcellent Adhesion, Hides Previous Colors, Blocks Light to Medium Stains, Mildew Resistant Finish\r\nUse on Wood, Drywall, Plaster, Brick, Masonry and more"
+      }
+    ],
+    "ratings_total": 12044,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Application",
+        "value": "General Purpose"
+      },
+      {
+        "group_name": "Details",
+        "name": "Application Method",
+        "value": "Brush,Paint Sprayer,Roller"
+      },
+      {
+        "group_name": "Details",
+        "name": "Base Material",
+        "value": "Latex"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coating Product Category",
+        "value": "Primer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Coverage Area (sq. ft)",
+        "value": "2000"
+      },
+      {
+        "group_name": "Details",
+        "name": "Dry to Touch (min.)",
+        "value": "30 min"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of coats recommended",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number per Package",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint Product Form",
+        "value": "Liquid"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint/Stain Clean Up",
+        "value": "Soap & Water"
+      },
+      {
+        "group_name": "Details",
+        "name": "Paint/Stain Features",
+        "value": "Fast Drying,Low Odor,Mildew Resistant,Sealer,Tintable,Top Coat Required"
+      },
+      {
+        "group_name": "Details",
+        "name": "Primer Purpose",
+        "value": "Color Changing,Low Odor,Sealant,Stain Blocking,Universal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "Non-Returnable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Sheen",
+        "value": "Flat/Matte"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Material Use",
+        "value": "Ceiling,Concrete/Brick/Masonry/Stone,Drywall,Metal,Plaster,Plastic,Wood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Container Size",
+        "value": "5 Gallon"
+      }
+    ],
+    "keywords_list": [
+      "multi-purpose primer",
+      "interior/exterior multi-purpose primer",
+      "primer",
+      "interior/exterior primer",
+      "water-based multi-purpose primer",
+      "water-based primer"
+    ],
+    "keywords": "multi-purpose primer, interior/exterior multi-purpose primer, primer, interior/exterior primer, water-based multi-purpose primer, water-based primer",
+    "variants": [
+      {
+        "title": "Flat/Matte~~1 Quart~~1",
+        "link": "https://www.homedepot.com/p/KILZ-KILZ-2-ALL-PURPOSE-1-qt-White-Interior-Exterior-Multi-Surface-Primer-Sealer-and-Stain-Blocker-20902/100144601",
+        "item_id": "100144601"
+      },
+      {
+        "title": "Flat/Matte~~5 Gallon~~1",
+        "link": "https://www.homedepot.com/p/KILZ-KILZ-2-ALL-PURPOSE-5-gal-White-Interior-Exterior-Multi-Surface-Primer-Sealer-and-Stain-Blocker-20000/100116594",
+        "item_id": "100116594"
+      },
+      {
+        "title": "Flat/Matte~~2 Gallon~~1",
+        "link": "https://www.homedepot.com/p/KILZ-KILZ-2-ALL-PURPOSE-2-gal-White-Interior-Exterior-Multi-Surface-Primer-Sealer-and-Stain-Blocker-20005/100371299",
+        "item_id": "100371299"
+      },
+      {
+        "title": "Flat/Matte~~1 Gallon~~1",
+        "link": "https://www.homedepot.com/p/KILZ-KILZ-2-ALL-PURPOSE-1-gal-White-Interior-Exterior-Multi-Surface-Primer-Sealer-and-Stain-Blocker-20941/100096395",
+        "item_id": "100096395"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Paint",
+        "link": "https://www.homedepot.com/b/Paint/N-5yc1vZar2d"
+      },
+      {
+        "name": "Primers",
+        "link": "https://www.homedepot.com/b/Paint-Primers/N-5yc1vZbt0t"
+      }
+    ],
+    "buybox_winner": {
+      "price": 99,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 125
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 125,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 973,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

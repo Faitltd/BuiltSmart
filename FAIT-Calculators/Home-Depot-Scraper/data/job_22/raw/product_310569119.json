@@ -1,0 +1,307 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14688,
+    "overage_used": 4688,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010616E2G01/310569119"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:04:01.398Z",
+    "processed_at": "2025-05-01T19:04:10.419Z",
+    "total_time_taken": 9.02,
+    "homedepot_url": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010616E2G01/310569119"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010616E2G01/310569119",
+    "brand": "Trex",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy",
+    "title": "Trex Enhance Naturals 1 in. x 6 in x 16 ft. Rocky Harbor Grooved Edge Grey Composite Deck Board",
+    "upc": "652835289695",
+    "item_id": "310569119",
+    "parent_id": "310567281",
+    "store_sku": "1004642367",
+    "model_number": "RH010616E2G01",
+    "description": "The beauty of wood with the ease of composite. With its authentic wood-grain appearance, Trex Enhance Naturals offer all the charm and none of the trouble of pressure-treated lumber. Imagine enjoying the very same rich streaking now and 25-years from now without costly, continual upkeep.",
+    "is_bestseller": true,
+    "favorite_count": 367,
+    "aisle": "21",
+    "bay": "013",
+    "feature_bullets": [
+      "Rocky Harbor adds sandy undertones to a rustic slate grey",
+      "Simple installation; no specialty tools necessary",
+      "High-performance shell is fade, stain, scratch and mold resistant"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "A contemporary changing neutral composite deck color, Rocky Harbor adds sandy undertones to a rustic slate grey, featuring a wood-like grain pattern",
+      "Trex's high-performance composite deck board is crafted for durability; won't rot, warp or splinter, unlike wood",
+      "Decking has a protective outer shell for durability; resists fading and staining",
+      "Quality low-maintenance composite material; cleans easy with soap and water",
+      "Backed by the Trex 25-year Limited Residential Warranty and the Trex 25-year Limited Residential Fade and Stain Warranty",
+      "Use grooved-edge boards and Trex hidden fasteners for a screw-free surface or square-edge boards for traditional decking applications, edging and stairs",
+      "Trex's sustainable composite deck boards are made of 95% recycled materials in the USA",
+      "Lightweight scalloped profile for easy handling",
+      "Trex decking installation is simple, no specialty tools required",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/Trex/N-5yc1vZc5mbZ2vy\" target=\"_blank\" style=\"color:#F96302;\">Shop ALL Trex Composite Deck Boards </a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings-Deck-Railing-Systems/Trex/N-5yc1vZc5pxZ2vy\" target=\"_blank\" style=\"color:#F96302;\">Trex Deck Rail Kits</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Post-Sleeves/Trex/N-5yc1vZ2fkou1qZ2vy\" target=\"_blank\" style=\"color:#F96302;\">Trex Post Sleeves</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Post-Caps/Trex/N-5yc1vZbqpmZ2vy\" target=\"_blank\" style=\"color:#F96302;\">Trex Post Caps</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings-Railing-Accessories/Trex/Deck-Post-Skirt/N-5yc1vZc5pyZ2vyZ1z0mzaq\" target=\"_blank\" style=\"color:#F96302;\">Trex Post Skirts</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Railings-Railing-Accessories/Trex/bottom-rail/rail-components/top-rail/N-5yc1vZc5pyZ2vyZ1z1el4kZ1z1hd59Z1z1qmwv?NCNI-5&amp;\" target=\"_blank\" style=\"color:#F96302;\">Trex Top, Bottom, &amp; Universal Railing </a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Parts-Accessories/Trex/N-5yc1vZbqnwZ2vy\" target=\"_blank\" style=\"color:#F96302;\">Trex Deck Lighting Accessories</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Under-Deck-Ceiling-Systems/N-5yc1vZbqlo\" target=\"_blank\" style=\"color:#F96302;\">Trex RainEscape Under Deck Ceiling Systems </a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Fascia-Boards/Trex/N-5yc1vZcd5kZ2vy\" target=\"_blank\" style=\"color:#F96302;\">Trex Fascia Boards</a>",
+      "<a href=\"https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Deck-Board-Samples/Trex/N-5yc1vZc6ljZ2vy\" target=\"_blank\" style=\"color:#F96302;\">Trex Composite Deck Board Samples</a>"
+    ],
+    "descriptive_attributes_count": 19,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/954db88f-0be7-4af5-9ae8-c7f61c0cbcfd/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5b2210cd-0191-4a58-b31b-24b65313f6f2/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c715f7d6-adb4-4b84-8a57-e6de96f12a7f/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/57a8f685-66ab-4722-9d32-9fddef2023e6/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/453361fa-60b9-412b-aa58-ab7cee375387/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/18c0625d-5ce0-4238-9a51-8570be915089/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/502866a4-0be6-4697-b4f6-92406ca9f5a8/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/635ad3cf-2a63-4306-8ff3-be665143b532/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/95cf0564-215b-46c2-a9cf-86e915cb6715/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/32ec7d45-a01f-46f9-b336-166f942e588a/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a2dd7b1f-6369-4e45-a8d0-006c4aabed53/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e6a1e1e4-1ea6-428b-a23e-0170cd395686/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/86093fe5-3c25-4947-859a-a79788135d5a/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ffe2d8fc-42dd-4e43-8b67-fac077d46304/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-31_1000.jpg",
+        "type": "image_life_style"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d88a6ac0-3c3f-49a0-a29c-c6436930e263/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-fa_1000.jpg",
+        "type": "image_closeup_feature"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/954db88f-0be7-4af5-9ae8-c7f61c0cbcfd/svn/rocky-harbor-trex-composite-decking-boards-rh010616e2g01-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/4b1b4c84-a722-455d-96a9-b7757e87d3b2/81829fc2-de8a-464c-9713-8f1be87ea25a/main.mp4?fastly_token=NjgzODI2M2ZfYTBkNmQ1YjdmOTg4MzhlNjY1MzljY2Y4ZjI3NzQyMjdiYzgxYTA3NmEwNjM0ZGNjZWFiN2Y2NDQwNWM3YTc4OV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS80YjFiNGM4NC1hNzIyLTQ1NWQtOTZhOS1iNzc1N2U4N2QzYjIvODE4MjlmYzItZGU4YS00NjRjLTk3MTMtOGYxYmU4N2VhMjVhL21haW4ubXA0&pubid=66036796001",
+        "title": "Trex Enhance Decking Rocky Harbor",
+        "id": "6166007025001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/4b1b4c84-a722-455d-96a9-b7757e87d3b2/49d90998-5d50-4fa5-af61-3552afbfca82/90x90/match/image.jpg?pubId=66036796001",
+        "description": "Short inspirational video describing the color of the decking board."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 827,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Rocky Harbor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Trex Hideaway Hidden Fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,UV Protected"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "16"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Trex 25-Year Limited Residential Warranty and the Trex 25-Year Limited Residential Fade & Stain Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.94 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "31"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "16 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "5.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Rocky Harbor~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-8-ft-Rocky-Harbor-Square-Edge-Grey-Composite-Deck-Board-RH010608E2S01/310567552",
+        "item_id": "310567552"
+      },
+      {
+        "title": "Cinnamon Cove~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-x-12ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010612E2G01/333197417",
+        "item_id": "333197417"
+      },
+      {
+        "title": "Rocky Harbor~~Grooved~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-20-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010620E2G01/316430409",
+        "item_id": "316430409"
+      },
+      {
+        "title": "Cinnamon Cove~~Square~~8 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-x-8ft-Cinnamon-Cove-Enhance-Deck-Board-Square-edge-CC010608E2S01/333197429",
+        "item_id": "333197429"
+      },
+      {
+        "title": "Cinnamon Cove~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-x-6-x-16ft-Cinnamon-Cove-Enhance-Deck-Board-Grooved-Edge-CC010616E2G01/333197398",
+        "item_id": "333197398"
+      },
+      {
+        "title": "Rocky Harbor~~Grooved~~16 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-16-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010616E2G01/310569119",
+        "item_id": "310569119"
+      },
+      {
+        "title": "Rocky Harbor~~Square~~20 ft",
+        "link": "https://www.homedepot.com/p/Trex-1-in-x-6-in-x-20-ft-Enhance-Naturals-Rocky-Harbor-Square-Edge-Composite-Deck-Board-RH010620E2S01/316430466",
+        "item_id": "316430466"
+      },
+      {
+        "title": "Rocky Harbor~~Grooved~~12 ft",
+        "link": "https://www.homedepot.com/p/Trex-Enhance-Naturals-1-in-x-6-in-x-12-ft-Rocky-Harbor-Grooved-Edge-Grey-Composite-Deck-Board-RH010612E2G01/310568861",
+        "item_id": "310568861"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": 41.58,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 111
+        },
+        "scheduled_delivery_info": {
+          "store_id": "5865",
+          "in_stock": true,
+          "stock_level": 1931,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

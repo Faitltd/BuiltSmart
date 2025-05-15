@@ -1,0 +1,204 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14110,
+    "overage_used": 4110,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Standard-Yellow-1-7-8-in-x-500-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8661-U/100295796"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:55:49.191Z",
+    "processed_at": "2025-05-01T17:56:44.340Z",
+    "total_time_taken": 55.15,
+    "homedepot_url": "https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Standard-Yellow-1-7-8-in-x-500-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8661-U/100295796"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Standard-Yellow-1-7-8-in-x-500-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8661-U/100295796",
+    "brand": "Saint-Gobain ADFORS",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tape/Saint-Gobain-ADFORS/N-5yc1vZc7qeZfey",
+    "title": "Saint-Gobain ADFORS FibaTape\u00a0Standard Yellow 1-7/8 in. x 500 ft. Self-Adhesive Mesh Drywall Joint Tape",
+    "upc": "038662113042",
+    "item_id": "100295796",
+    "parent_id": "307325672",
+    "store_sku": "350786",
+    "model_number": "FDW8661-U",
+    "description": "FibaTape self-adhesive, drywall joint tape saves on both application and dry-time by eliminating the bedding coat required for paper tape installation. Fiberglass mesh is thin and easy to conceal while providing increased crack resistance. Yellow tape is visible until properly coated.",
+    "favorite_count": 462,
+    "collection": {
+      "id": "Family-319120896",
+      "name": "Family-319120896",
+      "link": "https://www.homedepot.com/collection/Building-Materials/FibaTape-Self-Adhesive-Mesh-Drywall-Tape-Collection/Family-319120896?omsid=100295796"
+    },
+    "feature_bullets": [
+      "Open-fiber construction eliminates bubbles and blisters",
+      "Self-adhesive tape so less compound is required to coat",
+      "Fiberglass mesh tape creates stronger joints"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Self-adhesive for easy application",
+      "Install with a setting-type compound",
+      "Saves on both application and drying time",
+      "Yellow tape is visible until properly coated",
+      "Mold resistant",
+      "500 ft. of tape",
+      "Yellow color for easy viewing when applying compound (not included) to help ensure even coverage",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/SAINT GOBAIN TECHNICAL F/Yellow Tape 1836887.jpg\">",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/SAINT GOBAIN TECHNICAL F/2734894.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/e6dce4b3-41c8-4705-8b96-b0dbdf8da304/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e02b8b2c-7007-4893-a061-bd030d1ebe37/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9639bfbc-1128-4156-a472-4c15e309b6a7/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eff55124-bd54-4ec3-a7d9-0cfaa185a76e/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a36767b8-0751-4991-bd66-361f8192c75c/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7b61b41d-b624-413e-904a-2f5d65db7809/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0a651fa4-ed9d-4305-8493-3481f82de1dc/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/605c377a-97ed-499b-bc2d-7cd11714c2c9/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/24f9e79b-2bfc-4a2d-9ff3-6a0ad8cb8bac/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/e6dce4b3-41c8-4705-8b96-b0dbdf8da304/svn/saint-gobain-adfors-drywall-tape-fdw8661-u-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/b3c1fbae-2954-473c-bd3a-0f5bcb93dad5/6a60791e-3ce1-4951-aa40-27f8daa2aaa5/main.mp4?fastly_token=NjgzODg0MTNfOGIxNmFlZWNkMDViMjIxMWE0MzJiZGFhMTFlMDlmZDVmOTU0MTM0ZGIxNTEzMjZjNmFiNjM3ZTQ0ZDhkZDQ5ZV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9iM2MxZmJhZS0yOTU0LTQ3M2MtYmQzYS0wZjViY2I5M2RhZDUvNmE2MDc5MWUtM2NlMS00OTUxLWFhNDAtMjdmOGRhYTJhYWE1L21haW4ubXA0&pubid=66036796001",
+        "title": "FibaTape Standard Yellow Drywall Joint Tape",
+        "id": "6272272836001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/b3c1fbae-2954-473c-bd3a-0f5bcb93dad5/main/160x90/1m7s157ms/match/image.jpg?pubId=66036796001",
+        "description": "FibaTape Standard Yellow Drywall joint Tape how-to Video"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 221,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Yellow"
+      },
+      {
+        "group_name": "Details",
+        "name": "Drywall Features",
+        "value": "Fiberglass Mesh,Moisture Resistant,Mold Resistant,Self Adhesive"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Fiberglass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Rolls Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": ".95 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (mm)",
+        "value": "0.3"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.875 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Tape Length (ft.)",
+        "value": "500"
+      }
+    ],
+    "keywords_list": [
+      "tape",
+      "drywall tape",
+      "tapes",
+      "drywall tapes",
+      "joint tape",
+      "drywall joint tape",
+      "joint tapes",
+      "drywall joint tapes",
+      "FibaTape tape",
+      "FibaTape tapes",
+      "FibaTape joint tape",
+      "FibaTape joint tapes"
+    ],
+    "keywords": "tape, drywall tape, tapes, drywall tapes, joint tape, drywall joint tape, joint tapes, drywall joint tapes, FibaTape tape, FibaTape tapes, FibaTape joint tape, FibaTape joint tapes",
+    "variants": [
+      {
+        "title": "300",
+        "link": "https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Standard-Yellow-1-7-8-in-x-300-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8663-U/100429161",
+        "item_id": "100429161"
+      },
+      {
+        "title": "500",
+        "link": "https://www.homedepot.com/p/Saint-Gobain-ADFORS-FibaTape-Standard-Yellow-1-7-8-in-x-500-ft-Self-Adhesive-Mesh-Drywall-Joint-Tape-FDW8661-U/100295796",
+        "item_id": "100295796"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Drywall",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall/N-5yc1vZar3d"
+      },
+      {
+        "name": "Drywall Tape",
+        "link": "https://www.homedepot.com/b/Building-Materials-Drywall-Drywall-Tape/N-5yc1vZc7qe"
+      }
+    ],
+    "buybox_winner": {
+      "price": 14.96,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

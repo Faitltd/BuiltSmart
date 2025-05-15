@@ -1,0 +1,207 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14831,
+    "overage_used": 4831,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Builder-s-Choice-306-1-2-in-x-3-1-2-in-Craftsman-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB306/301366955"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:34:36.279Z",
+    "processed_at": "2025-05-01T19:35:22.598Z",
+    "total_time_taken": 46.32,
+    "homedepot_url": "https://www.homedepot.com/p/Builder-s-Choice-306-1-2-in-x-3-1-2-in-Craftsman-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB306/301366955"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Builder-s-Choice-306-1-2-in-x-3-1-2-in-Craftsman-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB306/301366955",
+    "brand": "Builder's Choice",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/Builders-Choice/N-5yc1vZcbjpZ89b",
+    "title": "Builder's Choice 306 1/2 in. x  3\u22121/2 in. Craftsman Primed MDF Baseboard Moulding (Sold by Linear Foot)",
+    "upc": "096037189801",
+    "item_id": "301366955",
+    "parent_id": "325326212",
+    "store_sku": "1002368246",
+    "model_number": "HDFB306",
+    "description": "Add character and lasting value to your home with Builders Choice primed MDF base molding. Featuring a smooth white surface, our Craftsman-style base molding is primed and ready to paint. Baseboards create an elegant transition from floor to wall and offer protection from kicks, bumps, furniture, and more.",
+    "favorite_count": 134,
+    "feature_bullets": [
+      "Easy to install and ready to paint",
+      "Complements a variety of home styles and decor",
+      "Available in 16 ft. length"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Creates a visual foundation where floor and wall meet",
+      "Premium MDF for enhanced appearance and durability",
+      "Primed for superior paint adhesion",
+      "Best for indoor and low-moisture applications",
+      "Craftsman profile complements a variety of home styles",
+      "Complete family of Craftsman trim products available",
+      "Combine 2 or more profiles for unique build-up designs",
+      "Cut to desired length in store"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/5b4d7f11-d3e8-4333-aded-035a0f90cc32/svn/primed-white-builder-s-choice-baseboard-hdfb306-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/46c2035a-792d-4ee5-af09-be9a2090650d/svn/primed-white-builder-s-choice-baseboard-hdfb306-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/19c454b9-3fdc-4a81-907c-ab45a6107f5d/svn/primed-white-builder-s-choice-baseboard-hdfb306-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/5b4d7f11-d3e8-4333-aded-035a0f90cc32/svn/primed-white-builder-s-choice-baseboard-hdfb306-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 115,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Primed White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Paintable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Baseboard Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "306"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "12 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.5 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builders-Choice-OP803-1-2-in-x-7-1-4-in-Primed-MDF-Base-Moulding-HDFB803/323140516",
+        "item_id": "323140516"
+      },
+      {
+        "title": "Primed White~~8 ft~~Medium Density Fiberboard (MDF)~~8",
+        "link": "https://www.homedepot.com/p/Builders-Choice-OP603-1-2-in-x-5-in-x-96-in-Craftsman-MDF-Baseboard-Molding-Pack-of-8-HDFB603-PP/322198034",
+        "item_id": "322198034"
+      },
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builders-Choice-OP603-1-2-in-x-5-in-Craftsman-MDF-Base-Molding-HDFB603/204721818",
+        "item_id": "204721818"
+      },
+      {
+        "title": "Primed White~~1 ft~~Medium Density Fiberboard (MDF)~~1",
+        "link": "https://www.homedepot.com/p/Builder-s-Choice-306-1-2-in-x-3-1-2-in-Craftsman-Primed-MDF-Baseboard-Moulding-Sold-by-Linear-Foot-HDFB306/301366955",
+        "item_id": "301366955"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Baseboard",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Baseboard/N-5yc1vZcbjp"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

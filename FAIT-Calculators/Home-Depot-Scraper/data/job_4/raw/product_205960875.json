@@ -1,0 +1,243 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12853,
+    "overage_used": 2853,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Everbilt-1-in-Mesh-x-4-ft-x-50-ft-20-Gauge-Galvanized-Steel-Poultry-Netting-308431EB/205960875"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:33:21.610Z",
+    "processed_at": "2025-05-01T13:33:35.786Z",
+    "total_time_taken": 14.18,
+    "homedepot_url": "https://www.homedepot.com/p/Everbilt-1-in-Mesh-x-4-ft-x-50-ft-20-Gauge-Galvanized-Steel-Poultry-Netting-308431EB/205960875"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Everbilt-1-in-Mesh-x-4-ft-x-50-ft-20-Gauge-Galvanized-Steel-Poultry-Netting-308431EB/205960875",
+    "brand": "Everbilt",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Chicken-Wire/Everbilt/N-5yc1vZcd59Z402",
+    "title": "Everbilt 1 in. Mesh x 4 ft. x 50 ft. 20-Gauge Galvanized Steel Poultry Netting",
+    "upc": "099713048881",
+    "item_id": "205960875",
+    "parent_id": "305410205",
+    "store_sku": "274674",
+    "model_number": "308431EB",
+    "description": "Flexible and lightweight, EVERBILT 1 in. x 4 ft. x 50 ft. Poultry Netting is constructed from galvanized, zinc-coated steel wire for durability and rust protection. Versatile in use, Everbilt chicken wire can create chicken coops, animal confinement, soil erosion prevention, garden protection, plant support, arts & craft projects, and more.Everbilt poultry netting features a hexagon-shaped wire mesh netting designed to be durable while remaining flexible to adapt to a wide variety of applications. This poultry fence is packaged in compact mesh fence rolls, making it easy to handle and transport until time to use. U-posts (not included) are recommended every 5 ft. for fencing applications for an effective fencing style.",
+    "is_bestseller": true,
+    "favorite_count": 2691,
+    "aisle": "27",
+    "bay": "004",
+    "collection": {
+      "id": "Family-306644671",
+      "name": "Family-306644671",
+      "link": "https://www.homedepot.com/collection/Building-Materials/Everbilt-Chicken-Wire/Family-306644671?omsid=205960875"
+    },
+    "feature_bullets": [
+      "Installation recommends using 5 - 5 FT T Posts",
+      "Galvanized poultry netting is rust and weather-resistant",
+      "Used to create pens, protect plants, and prevent soil erosion"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "20-Gauge steel construction",
+      "Mesh Size: 1 in.",
+      "Roll Size: 4 ft. H x 50 ft. L",
+      "EVERBILT metal fencing is constructed of galvanized steel wire and for corrosion resistance and extended use.",
+      "Perfect for fencing in free-range chickens and animal confinement applications such as chicken coops.",
+      "EVERBILT chicken wire is also great for gardening applications such as plant support and protection, soil erosion protection, vegetable garden netting, insulation support, bird barriers, garden fences, or customized trellis for climbing plants and flowers.",
+      "Recommend use of U-posts (not included) every 5 ft. for fencing applications.",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/MIDWEST AIR TECHNOLOGIES/3030209.jpg\">",
+      "<img src=\"https://inlinecontent.thdstatic.com/22/MIDWEST AIR TECHNOLOGIES/4_UP_THD_Buyers_Guide_LL_MG_100818_ID_10260.jpg\">"
+    ],
+    "descriptive_attributes_count": 9,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/7ef9f584-179f-482b-862f-56f6e3261168/svn/everbilt-chicken-wire-308431eb-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/546a270f-0cd9-4f39-8694-0298711d1157/svn/everbilt-chicken-wire-308431eb-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/faee4dd1-4541-47a6-b671-fb8938932a8c/svn/everbilt-chicken-wire-308431eb-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ea8bb37e-dc2d-4b69-a383-be7ca154cb1a/svn/everbilt-chicken-wire-308431eb-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a5e4d790-b4f5-4e26-ad66-6e15f4fb610b/svn/everbilt-chicken-wire-308431eb-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/42ab889c-2a0a-4305-8232-6b253ced600d/svn/everbilt-chicken-wire-308431eb-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/ee1951e9-0878-47b1-a4a1-6bdb5cf5668c/svn/everbilt-chicken-wire-308431eb-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/79cc3a7d-4e9a-4ac6-8da5-e60166110196/svn/everbilt-chicken-wire-308431eb-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/faee4dd1-4541-47a6-b671-fb8938932a8c/svn/everbilt-chicken-wire-308431eb-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/7ef9f584-179f-482b-862f-56f6e3261168/svn/everbilt-chicken-wire-308431eb-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/d3aeb325-9fda-4650-ab19-6421cfc253fa/b6fd7b56-0445-4125-b1ac-c587bbb328b3/main.mp4?fastly_token=NjgzODJiMGFfYjkyYTc4Y2ZhNjJiNzI3ZGMzZWRlMjNkOWM4NjFmNmE5YWZmZDEyYjIzZWY0OGQ1ZTFjZjU4M2FiODI3YTY5Nl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9kM2FlYjMyNS05ZmRhLTQ2NTAtYWIxOS02NDIxY2ZjMjUzZmEvYjZmZDdiNTYtMDQ0NS00MTI1LWIxYWMtYzU4N2JiYjMyOGIzL21haW4ubXA0&pubid=66036796001",
+        "title": "Everbilt Poultry Netting",
+        "id": "5778997785001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/d3aeb325-9fda-4650-ab19-6421cfc253fa/6558e2a9-2741-4291-a7f1-6d1d60458018/160x90/match/image.jpg?pubId=66036796001",
+        "description": "Video showing how to build a chicken coup using poultry netting"
+      }
+    ],
+    "ratings_total": 1539,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chain Link Type",
+        "value": "Woven"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Silver"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fence Application",
+        "value": "Security"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "20"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Metal"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "16.105 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Mesh Size (in.)",
+        "value": "1 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (ft.)",
+        "value": "50 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "5.09 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Silver~~50 ft~~36 in",
+        "link": "https://www.homedepot.com/p/Everbilt-1-in-Mesh-3-ft-x-50-ft-20-Gauge-Galvanized-Steel-Poultry-Netting-308421EB/205960874",
+        "item_id": "205960874"
+      },
+      {
+        "title": "Silver~~50 ft~~48 in",
+        "link": "https://www.homedepot.com/p/Everbilt-1-in-Mesh-x-4-ft-x-50-ft-20-Gauge-Galvanized-Steel-Poultry-Netting-308431EB/205960875",
+        "item_id": "205960875"
+      },
+      {
+        "title": "Silver~~50 ft~~24 in",
+        "link": "https://www.homedepot.com/p/Everbilt-1-in-Mesh-2-ft-x-50-ft-20-Gauge-Galvanized-Steel-Poultry-Netting-308411EB/205960872",
+        "item_id": "205960872"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Fencing & Gates",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates/N-5yc1vZbrk7"
+      },
+      {
+        "name": "Chicken Wire",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Fencing-Gates-Chicken-Wire/N-5yc1vZcd59"
+      }
+    ],
+    "buybox_winner": {
+      "price": 54.97,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "roll",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 14
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 39,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 47,
+          "price": 0,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        }
+      }
+    }
+  }
+}

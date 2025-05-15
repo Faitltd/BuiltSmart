@@ -1,0 +1,372 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12657,
+    "overage_used": 2657,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Battery-Powered-String-Trimmer-Blower-Combo-Kit-with-1-4-Ah-Battery-Charger-DCKO222M1/312231698"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:27:42.926Z",
+    "processed_at": "2025-05-01T13:27:47.093Z",
+    "total_time_taken": 4.17,
+    "homedepot_url": "https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Battery-Powered-String-Trimmer-Blower-Combo-Kit-with-1-4-Ah-Battery-Charger-DCKO222M1/312231698"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Battery-Powered-String-Trimmer-Blower-Combo-Kit-with-1-4-Ah-Battery-Charger-DCKO222M1/312231698",
+    "brand": "DEWALT",
+    "brand_link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers-String-Trimmers-Electric-String-Trimmers-Cordless-String-Trimmers/DEWALT/N-5yc1vZcjegZ4j2",
+    "title": "DEWALT 20V MAX Cordless Battery Powered String Trimmer & Blower Combo Kit with (1) 4 Ah Battery & Charger",
+    "upc": "885911704205",
+    "item_id": "312231698",
+    "parent_id": "326028604",
+    "store_sku": "1005095642",
+    "model_number": "DCKO222M1",
+    "description": "Tame the jobsite with versatile 20V MAX outdoor equipment. This kit features (1) 20V MAX 14 in. Folding String Trimmer that is designed with a folding hinge that reduces its length by 40% and (1) 20V MAX Handheld Axial Blower that delivers up to 450 cfm and up to 125 mph with the concentrator nozzle. Power your 20V MAX tools with the included 20V MAX XR 4Ah battery and charger.",
+    "favorite_count": 267,
+    "aisle": "14",
+    "bay": "003",
+    "collection": {
+      "id": "Family-311249002",
+      "name": "Family-311249002",
+      "link": "https://www.homedepot.com/collection/Outdoors/DEWALT-20-Volt-Outdoor-Power/Family-311249002?omsid=312231698"
+    },
+    "feature_bullets": [
+      "Tools include battery powered String Trimmer & Leaf Blower",
+      "Kit includes (1) 4.0 Ah Battery & Charger",
+      "Compatible across DEWALT 20V MAX Battery System"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "DCST922 folding string trimmer features a folding hinge that reduces length by 40%",
+      "DCST922 folding string trimmer features a 14 in. cutting swath",
+      "DCBL722 handheld axial blower delivers up to 450 cfm of air volume and up to 125 mph with concentrator nozzle",
+      "Includes (1) DCBL722 handheld axial blower, (1) concentration nozzle, (1) DCB204 battery, (1) DCB115 charger and (1) DCST922 folding String Trimmer",
+      "<a href=\"https://www.homedepot.com/b/DEWALT/N-5yc1vZ4j2?cm_sp=vanity-_-dewalt-_-APR20\" target=\"_blank\" style=\"color:#F96302;\">More Options in the DEWALT 20V/FLEXVOLT Platform Here</a>",
+      "<a href=\"https://www.homedepot.com/c/electronics_recycling_programs\" style=\"color:#F96302;\" target=\"_blank\">Click here for more information on Electronic Recycling Programs</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0bb0394f-9a91-45cd-ad11-d3ba3aa6c3f1/svn/dewalt-cordless-string-trimmers-dcko222m1-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5f8d5b2e-aa8e-4325-9091-b2a47cab1b58/svn/dewalt-cordless-string-trimmers-dcko222m1-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/0f179c72-8058-43e8-813f-1e7a59e2ba60/svn/dewalt-cordless-string-trimmers-dcko222m1-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/98bb024c-5937-4811-8765-18431065bc4d/svn/dewalt-cordless-string-trimmers-dcko222m1-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/54c3604f-1686-4c52-b62f-ac64e71a9613/svn/dewalt-cordless-string-trimmers-dcko222m1-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6a569f3d-8a40-4229-807c-c4cde1f34f22/svn/dewalt-cordless-string-trimmers-dcko222m1-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4f1498f7-5470-4649-a858-3a04df69d2f0/svn/dewalt-cordless-string-trimmers-dcko222m1-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9f5ac485-2a6e-4cec-90a5-d4cded601694/svn/dewalt-cordless-string-trimmers-dcko222m1-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9d7c729e-2f19-4864-a03a-a0ff1823e136/svn/dewalt-cordless-string-trimmers-dcko222m1-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9cc8fde1-ebca-4b22-acf2-2f92c5e464bd/svn/dewalt-cordless-string-trimmers-dcko222m1-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/056cbaa1-34c7-4643-af24-d65181b5e72a/svn/dewalt-cordless-string-trimmers-dcko222m1-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/29d117fb-a2ba-459f-9cf4-9adf783822ca/svn/dewalt-cordless-string-trimmers-dcko222m1-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3e9e154c-9efe-46ed-81c1-0c8714856eb2/svn/dewalt-cordless-string-trimmers-dcko222m1-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/eb8fcfec-cd87-4393-9ea5-7d72fca21c60/svn/dewalt-cordless-string-trimmers-dcko222m1-d4_1000.jpg",
+        "type": "image_catalog_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c7036ec8-95a3-415f-a2de-bd541a6a4110/svn/dewalt-cordless-string-trimmers-dcko222m1-fa_1000.jpg",
+        "type": "image_closeup_feature"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0bb0394f-9a91-45cd-ad11-d3ba3aa6c3f1/svn/dewalt-cordless-string-trimmers-dcko222m1-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/3ac4ffc3-b5b1-4564-b142-a399c826bc18/ca02099f-4b92-4462-9513-da2e9438d05e/main.mp4?fastly_token=NjgxMzkxNTNfMjQwYTU3OTEwNjA1ODFmOTIyMGVhNmEzODJmNzNjYjE1OTBmNWRjZjExMzdhZGNhNzQ5NzVhZTg2MTA2ZmI2Zl8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvM2FjNGZmYzMtYjViMS00NTY0LWIxNDItYTM5OWM4MjZiYzE4L2NhMDIwOTlmLTRiOTItNDQ2Mi05NTEzLWRhMmU5NDM4ZDA1ZS9tYWluLm1wNA%3D%3D",
+        "title": "DEWALT Outdoor Family Video",
+        "id": "6216537163001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/3ac4ffc3-b5b1-4564-b142-a399c826bc18/432527c0-d854-4a77-ac74-be132bcb78ae/600x338/match/image.jpg",
+        "description": "This video shows the DeWalt outdoor family of products\n"
+      },
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/89b5126c-66f9-4313-bd43-5b01c7a8308a/40e7e3b6-598a-42e6-8f10-474bc4ed4912/main.mp4?fastly_token=NjgxMzk0NjNfMDZkYTVjNGJiODRiZWM2N2JkYWIxYTA1ZGI4OTc0MjUxNjk0NzdmNDUzMmYyODJjOGRjOTIyMTQ5NjAwMTYwNV8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvODliNTEyNmMtNjZmOS00MzEzLWJkNDMtNWIwMWM3YTgzMDhhLzQwZTdlM2I2LTU5OGEtNDJlNi04ZjEwLTQ3NGJjNGVkNDkxMi9tYWluLm1wNA%3D%3D",
+        "title": "DEWALT 20V/60V MAX* Compatibility Message",
+        "id": "6302430884001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/89b5126c-66f9-4313-bd43-5b01c7a8308a/main/160x90/22s560ms/match/image.jpg",
+        "description": "DEWALT 20V/60V MAX* Compatibility Message\n"
+      }
+    ],
+    "ratings_total": 1790,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Assembly Required",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Amp Hours",
+        "value": "4 Ah"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Run Time (min.)",
+        "value": "60"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Type",
+        "value": "Lithium Ion"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery Voltage (V)",
+        "value": "20V"
+      },
+      {
+        "group_name": "Details",
+        "name": "Battery/Charger",
+        "value": "(1) 4 Ah Battery & Charger Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Charger Included",
+        "value": "Charger Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Head Type",
+        "value": "Wind with Assembly"
+      },
+      {
+        "group_name": "Details",
+        "name": "Included",
+        "value": "No Additional Items Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Line Advance System",
+        "value": "Bump"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Total Batteries Included",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Trim Lines",
+        "value": "2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Outdoor Power Combo",
+        "value": "No Additional Tools"
+      },
+      {
+        "group_name": "Details",
+        "name": "Power Type",
+        "value": "Battery"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "8.5 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Refurbished",
+        "value": "No"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shaft Type",
+        "value": "Straight Shaft"
+      },
+      {
+        "group_name": "Details",
+        "name": "Start Type",
+        "value": "Electric"
+      },
+      {
+        "group_name": "Details",
+        "name": "Tools Included",
+        "value": "Blower,String Trimmer"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trimmer Line Type",
+        "value": "String"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trimmer Type",
+        "value": "Stick"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "3 Year Limited Warranty; 1 Year Free Service; 90 Day Money Back Guarantee"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Depth (in.)",
+        "value": "13.03 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Height (in.)",
+        "value": "40.0 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Assembled Width (in.)",
+        "value": "13.3 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Line Style Size",
+        "value": ".080"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Maximum Cutting Path Diameter (in.)",
+        "value": "14 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Recommended Line Diameter (in.)",
+        "value": ".080 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Shaft Length (in.)",
+        "value": "38 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "(1) 4 Ah Battery & Charger Included~~Blower",
+        "link": "https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Battery-Powered-String-Trimmer-Leaf-Blower-Combo-Kit-with-1-4-0-Ah-Battery-and-Charger-DCKO97M1/301363233",
+        "item_id": "301363233"
+      },
+      {
+        "title": "(1) 4 Ah Battery & Charger Included~~No Additional Tool",
+        "link": "https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Battery-Powered-String-Trimmer-Blower-Combo-Kit-with-1-4-Ah-Battery-Charger-DCKO222M1/312231698",
+        "item_id": "312231698"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Outdoors",
+        "link": "https://www.homedepot.com/b/Outdoors/N-5yc1vZbx82"
+      },
+      {
+        "name": "Outdoor Power Equipment",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment/N-5yc1vZbx5c"
+      },
+      {
+        "name": "Trimmers & Edgers",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers/N-5yc1vZbxbh"
+      },
+      {
+        "name": "String Trimmers",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers-String-Trimmers/N-5yc1vZbx8i"
+      },
+      {
+        "name": "Electric String Trimmers",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers-String-Trimmers-Electric-String-Trimmers/N-5yc1vZcjed"
+      },
+      {
+        "name": "Cordless String Trimmers",
+        "link": "https://www.homedepot.com/b/Outdoors-Outdoor-Power-Equipment-Trimmers-Edgers-String-Trimmers-Electric-String-Trimmers-Cordless-String-Trimmers/N-5yc1vZcjeg"
+      }
+    ],
+    "buybox_winner": {
+      "price": 349,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 20
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 2.99,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 89,
+          "price": 0,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

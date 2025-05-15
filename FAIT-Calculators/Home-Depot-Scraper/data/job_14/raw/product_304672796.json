@@ -1,0 +1,221 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13872,
+    "overage_used": 3872,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Fascia-0-5-in-x-12-in-x-6-ft-Westminster-Gray-Composite-Fasica-Decking-Board-US05-6-LG/304672796"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:05:05.512Z",
+    "processed_at": "2025-05-01T17:05:49.707Z",
+    "total_time_taken": 44.2,
+    "homedepot_url": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Fascia-0-5-in-x-12-in-x-6-ft-Westminster-Gray-Composite-Fasica-Decking-Board-US05-6-LG/304672796"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Naturale-Fascia-0-5-in-x-12-in-x-6-ft-Westminster-Gray-Composite-Fasica-Decking-Board-US05-6-LG/304672796",
+    "brand": "NewTechWood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/NewTechWood/N-5yc1vZc5mbZbzg",
+    "title": "NewTechWood UltraShield Naturale Fascia 0.5 in. x 12 in. x 6 ft. Westminster Gray Composite Fasica Decking Board",
+    "upc": "854018008394",
+    "item_id": "304672796",
+    "parent_id": "326067551",
+    "store_sku": "1003054589",
+    "model_number": "US05-6-LG",
+    "description": "We are proud to introduce our new Naturale Decking Line. It is the most realistic composite to date. We have spent many hours studying how to get the look of wood just right. The outcome is this new Naturale Line. This is the most realistic grain pattern out on the market with just the right amount of texture even your guests will be fooled into thinking it is real wood. The board still has the great stain, fade and scratch resistance of our original line. The board has 2 different sides one with a wood grain and one without. We highly suggest you order a sample before you order as settings on monitor are different for everyone.",
+    "favorite_count": 92,
+    "feature_bullets": [
+      "Gives a realistic wood look for enhanced visual appeal",
+      "Made of UV-protected and water-resistant composite materials",
+      "Talk to a live NewTechWood expert at 855-592-8088"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "<a href=\"https://www.newtechwood.com/free-take-offs?from=homedepot\" target=\"_blank\" style=\"color:#F96302;\">Need help doing a take-off? Click here and let us do the work for you!</a>",
+      "New naturale line gives the board the most realistic wood look in the industry",
+      "UltraShield coating gives the decking board ultra-stain, scratch and fades resistance",
+      "25 year warranty",
+      "Tough outer shell will keep the color and beauty of your deck for years to come",
+      "Easy to clean",
+      "We highly suggest you order a sample before you order as settings on monitor are different for everyone",
+      "<img src=\"https://inlinecontent.thdstatic.com/21/NEWTECHWOOD LTD/1077078.jpg\">"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/dc12188a-4ed4-4904-b04f-05ac2788c692/svn/westminster-gray-newtechwood-composite-decking-boards-us05-6-lg-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/4c318a57-7f56-42c1-924d-f52f2eb12bea/svn/westminster-gray-newtechwood-composite-decking-boards-us05-6-lg-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6dbb3534-b76c-4556-bed1-37a5e7a890f8/svn/westminster-gray-newtechwood-composite-decking-boards-us05-6-lg-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/04d10c76-eb0e-45ac-96c4-53497bd0705d/svn/westminster-gray-newtechwood-composite-decking-boards-us05-6-lg-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/84c0e05a-040d-48bd-b1f8-c55e1939e7d9/svn/westminster-gray-newtechwood-composite-decking-boards-us05-6-lg-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f166dfd8-01c0-46ce-9db2-dfe8faeb7760/svn/westminster-gray-newtechwood-composite-decking-boards-us05-6-lg-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/899f1697-87de-4209-92e8-cedbace7c824/svn/westminster-gray-newtechwood-composite-decking-boards-us05-6-lg-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/dc12188a-4ed4-4904-b04f-05ac2788c692/svn/westminster-gray-newtechwood-composite-decking-boards-us05-6-lg-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/2c3444dd-38f5-4b74-99d3-17ff705c405f/main.mp4?fastly_token=NjgzODgyMTVfNWE1MmZkZjdhMDAxOTIwNzZhMWY2YWI0Y2MyZjIxY2E0NDI5YzZhODY0ZDcxNjRhZjRhZTg4NjZjZjI4MzEyYl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9lODUyMWU2ZC0wODUwLTQwMWItODdkOC1lMWY5Mzg1MzE1MmIvMmMzNDQ0ZGQtMzhmNS00Yjc0LTk5ZDMtMTdmZjcwNWM0MDVmL21haW4ubXA0&pubid=66036796001",
+        "title": " NewtTechWood - Introducing Ultrashield Naturale",
+        "id": "5483624160001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/e8521e6d-0850-401b-87d8-e1f93853152b/05aa5e3d-faab-4d93-8c3e-ff6d5d3abb3c/160x90/match/image.jpg?pubId=66036796001",
+        "description": "An introduction into our NewTechWood Ultrashield Naturale Product line. It shows the technology, the inspiration and the beauty of our products. Sit back and enjoy!"
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/ee093faf-51ae-4064-bc2f-23c9210b5d9d/main.mp4?fastly_token=NjgzODk0ZjZfZjQwMWJkMjMwMjBiZmQ2OGE3OGVjNDYxNWIxYTc5NGYyYmFlMjJlM2JjYjhlNWJlYmMwM2M3ZTcyNjM1OTBkOV8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8xYWIzOGZkOC1lZjUwLTQ1ZjQtYWEyYS0zMjk5OWI0ZGMwYjIvZWUwOTNmYWYtNTFhZS00MDY0LWJjMmYtMjNjOTIxMGI1ZDlkL21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Decking Installation Guide",
+        "id": "5748602797001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/1ab38fd8-ef50-45f4-aa2a-32999b4dc0b2/2d459e9f-3b60-4318-b23d-ca181c2048c0/160x90/match/image.jpg?pubId=66036796001",
+        "description": "All the info you need to install your NewTechWood Decking and enjoy it for years to come."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/0580fa2b-8c6b-42b4-9fe3-559fb2d8b9f7/main.mp4?fastly_token=NjgzODkyMmFfNGRmMDM5MWRjYmY3MjVmYjIwNjY3M2U1NWVkM2EwOTlmMzBjOTBjNjQwMTAzNTFjZmIwMTNiOTc3OWU1Y2M1MF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS9hY2U2MjRkOS05NTBlLTRmODktYTgzZi1kNzUzMTkyYjExMmUvMDU4MGZhMmItOGM2Yi00MmI0LTlmZTMtNTU5ZmIyZDhiOWY3L21haW4ubXA0&pubid=66036796001",
+        "title": "NewTechWood Composite Decking Deep Dive",
+        "id": "6299851835001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/ace624d9-950e-4f89-a83f-d753192b112e/main/160x90/5m43s104ms/match/image.jpg?pubId=66036796001",
+        "description": "In this video we take a deep dive into NewTechWood Composite Decking to show you the different profiles and their use cases as well as the clips."
+      }
+    ],
+    "ratings_total": 56,
+    "rating": 4.1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Westminster Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Square"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Composite Screw"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "UV Protected,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "6"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "25 Years"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "6 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": ".6"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "16"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "6 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1/2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Hawaiian Charcoal~~Square~~6 ft",
+        "link": "https://www.homedepot.com/p/NewTechWood-UltraShield-Natural-Fascia-0-5-in-x-12-in-x-6-ft-Hawaiian-Charcoal-Composite-Fascia-Decking-Board-US05-6-CH/304672787",
+        "item_id": "304672787"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

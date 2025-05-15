@@ -1,0 +1,294 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12674,
+    "overage_used": 2674,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Delta-Classic-500-36-in-W-x-73-25-in-H-x-36-in-D-3-Piece-Direct-to-Stud-Alcove-Shower-Surrounds-in-High-Gloss-White-B12205-3636-WH/321017406"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:28:06.749Z",
+    "processed_at": "2025-05-01T13:28:14.099Z",
+    "total_time_taken": 7.35,
+    "homedepot_url": "https://www.homedepot.com/p/Delta-Classic-500-36-in-W-x-73-25-in-H-x-36-in-D-3-Piece-Direct-to-Stud-Alcove-Shower-Surrounds-in-High-Gloss-White-B12205-3636-WH/321017406"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Delta-Classic-500-36-in-W-x-73-25-in-H-x-36-in-D-3-Piece-Direct-to-Stud-Alcove-Shower-Surrounds-in-High-Gloss-White-B12205-3636-WH/321017406",
+    "brand": "Delta",
+    "brand_link": "https://www.homedepot.com/b/Bath-Showers-Shower-Walls-Surrounds-Alcove-Shower-Walls-Surrounds/Delta/N-5yc1vZcbhkZg2",
+    "title": "Delta Classic 500 36 in. W x 73.25 in. H x 36 in. D 3-Piece Direct-to-Stud Alcove Shower Surrounds in High Gloss White",
+    "upc": "195205025337",
+    "item_id": "321017406",
+    "parent_id": "331106107",
+    "store_sku": "1008011261",
+    "model_number": "B12205-3636-WH",
+    "description": "Delta Classic 500 alcove shower systems are designed for long-lasting performance with innovative features that make life simpler from installation on day 1 to every day after. Select shower bases and coordinating shower walls in a variety of designs and configurations to customize your space. Add a Delta shower available in an array of styles and finishes for a curated look from top to bottom. You can install with confidence, knowing that our showering products come with a comprehensive warranty.",
+    "aisle": "36",
+    "bay": "009",
+    "collection": {
+      "id": "Family-321508267",
+      "name": "Family-321508267",
+      "link": "https://www.homedepot.com/collection/Bath/Delta-Classic-500-Showering-Collection/Family-321508267?omsid=321017406"
+    },
+    "feature_bullets": [
+      "3-piece shower wall panels install direct to stud",
+      "Caulkless design simplifies installation; reduces risk of leaks",
+      "Shower wall includes 7 built-in shelves for maximum storage"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Built-in shelves provide generous storage space, making it easy to keep bathing essentials organized",
+      "Accessory ledge at the top of the wall provides secure storage for rings, razors and other items, helping to keep them beyond children's reach and out of the general splash zone",
+      "3-piece wall set design (back wall and two side walls) is easy to transport and install",
+      "<a href=\"https://www.homedepot.com/p/Delta-Classic-500-36-in-L-x-36-in-W-Alcove-Shower-Pan-Base-with-Center-Drain-in-High-Gloss-White-B12135-3636-WH/321018157\" target=\"_blank\" style=\"color:#F96302;\">Pairs exclusively with Delta Classic 500 36 in. x 36 in. shower base (sold separately)</a>",
+      "Bright white, acrylic surface is durable and easy to clean",
+      "Caulkless design simplifies installation and reduces the risk of leaks",
+      "Direct-to-stud installation with built-in nailing flanges creates a secure, long-lasting connection to the wall",
+      "With no rough fiberglass backing, material is easy to handle",
+      "Add the finishing touch with a Delta shower available in a variety of styles and finishes to personalize your shower stall",
+      "10-year limited warranty for residential use (1-year for commercial applications)",
+      "<a href=\"https://www.homedepot.com/b/Delta/N-5yc1vZg2\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop more Delta products</a>"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/fa756343-c5d9-4ed0-adda-04bdab40bc13/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/042210b2-188a-4f21-9122-0d5fd34e0c74/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/704db71a-63b3-4cac-84d9-e494437160d8/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b8c82e0f-dad8-4d7c-b93d-960fb509d89d/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a6413ff2-2e8b-4ee8-a3f2-2cd650715fc0/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/316fc0b3-1ba2-4560-b6d0-0b63c3a4a9b1/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5935c369-28fc-4a37-b08b-d4aaaff89a1d/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a017b74b-b959-4c1f-991d-9c19833f7b44/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/23a67046-50d2-441e-b1ad-5bf683ca5f4d/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9a6c5b05-4150-4751-b4c5-fdbbdd2dc169/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8c1ecfed-5773-442e-8917-6d6093f49493/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/62ba501d-be26-449b-844d-ea867872d436/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/c8c20ad2-c412-4a44-a3bf-07c938d79b55/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/fa756343-c5d9-4ed0-adda-04bdab40bc13/svn/high-gloss-white-delta-alcove-shower-walls-surrounds-b12205-3636-wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/705d050f-a8bd-4a3f-96ac-94a4957c473d/e8dc8a65-5857-4ba7-9fba-28fdce5d854a/main.mp4?fastly_token=NjgzODJiMzJfZjY4NTM5ZDU0ZTY3YWQ0YmU3MGYzMGRjODc5MDY5ZjZlMGYyMzNiNDM1OGYwODdhN2E0Zjg5YzM0MjU3ODBiM18vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83MDVkMDUwZi1hOGJkLTRhM2YtOTZhYy05NGE0OTU3YzQ3M2QvZThkYzhhNjUtNTg1Ny00YmE3LTlmYmEtMjhmZGNlNWQ4NTRhL21haW4ubXA0&pubid=66036796001",
+        "title": "Delta Classic 500 Alcove Shower Wall Set 36 x 36",
+        "id": "6309099962112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/705d050f-a8bd-4a3f-96ac-94a4957c473d/main/160x90/39s786ms/match/image.jpg?pubId=66036796001",
+        "description": "Features of the Delta Classic 500 Alcove Shower Wall Set 36 x 36"
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 415,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "High Gloss White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Construction",
+        "value": "Three piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Caulkless,Shelves"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Polystyrene"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Shelves",
+        "value": "7"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "35.0 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shower Type",
+        "value": "Alcove"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Type",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wall Installation Type",
+        "value": "Direct-to-stud"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "IAPMO Certified"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Bathtub/Shower and Shower Unit 10-year Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "36 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Height (in.)",
+        "value": "73.25"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Width (in.)",
+        "value": "36"
+      }
+    ],
+    "variants": [
+      {
+        "title": "High Gloss White~~48 x 34",
+        "link": "https://www.homedepot.com/p/Delta-Classic-500-48-in-W-x-73-25-in-H-x-34-in-D-3-Piece-Direct-to-Stud-Alcove-Shower-Surrounds-in-High-Gloss-White-B12205-4834-WH/321017408",
+        "item_id": "321017408"
+      },
+      {
+        "title": "High Gloss White~~60 x 30",
+        "link": "https://www.homedepot.com/p/Delta-Classic-500-60-in-W-x-73-25-in-H-x-30-in-D-3-Piece-Direct-to-Stud-Alcove-Shower-Surrounds-in-High-Gloss-White-B12205-6030-WH/321017409",
+        "item_id": "321017409"
+      },
+      {
+        "title": "High Gloss White~~36 x 36",
+        "link": "https://www.homedepot.com/p/Delta-Classic-500-36-in-W-x-73-25-in-H-x-36-in-D-3-Piece-Direct-to-Stud-Alcove-Shower-Surrounds-in-High-Gloss-White-B12205-3636-WH/321017406",
+        "item_id": "321017406"
+      },
+      {
+        "title": "High Gloss White~~60 x 32",
+        "link": "https://www.homedepot.com/p/Delta-Classic-500-60-in-W-x-73-25-in-H-x-32-in-D-3-Piece-Direct-to-Stud-Alcove-Shower-Surrounds-in-High-Gloss-White-B12205-6032-WH/321017407",
+        "item_id": "321017407"
+      },
+      {
+        "title": "High Gloss White~~32 x 32",
+        "link": "https://www.homedepot.com/p/Delta-Classic-500-32-in-W-x-73-25-in-H-x-32-in-D-3-Piece-Direct-to-Stud-Alcove-Shower-Surrounds-in-High-Gloss-White-B12205-3232-WH/321017405",
+        "item_id": "321017405"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Showers",
+        "link": "https://www.homedepot.com/b/Bath-Showers/N-5yc1vZbzcd"
+      },
+      {
+        "name": "Shower Walls & Surrounds",
+        "link": "https://www.homedepot.com/b/Bath-Showers-Shower-Walls-Surrounds/N-5yc1vZbzbs"
+      },
+      {
+        "name": "Alcove Shower Walls & Surrounds",
+        "link": "https://www.homedepot.com/b/Bath-Showers-Shower-Walls-Surrounds-Alcove-Shower-Walls-Surrounds/N-5yc1vZcbhk"
+      }
+    ],
+    "buybox_winner": {
+      "price": 459,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 2
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 20,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 27,
+          "price": 55,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-05",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

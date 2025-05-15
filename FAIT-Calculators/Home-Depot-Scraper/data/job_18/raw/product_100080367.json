@@ -1,0 +1,238 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13976,
+    "overage_used": 3976,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-5111-5-8-in-x-5-8-in-x-96-in-Finished-PVC-White-Quarter-Round-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM107WH/100080367"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:01.868Z",
+    "processed_at": "2025-05-01T17:50:17.621Z",
+    "total_time_taken": 15.75,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-5111-5-8-in-x-5-8-in-x-96-in-Finished-PVC-White-Quarter-Round-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM107WH/100080367"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-5111-5-8-in-x-5-8-in-x-96-in-Finished-PVC-White-Quarter-Round-Moulding-1-Piece-8-Total-Linear-Feet-MLDP01X01WM107WH/100080367",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/Royal-Mouldings/N-5yc1vZ2fkp9hcZ8ui",
+    "title": "Royal Mouldings 5111 5/8 in. x 5/8 in. x 96 in. Finished PVC White Quarter Round Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "070673534102",
+    "item_id": "100080367",
+    "store_sku": "901497",
+    "model_number": "MLDP01X01WM107WH",
+    "description": "Easy to install with nails or construction adhesive. The 8 ft. x 5/8 in. x 5/8 in. PVC Quarter-Round Molding resists cracking, splitting and warping for floor-to-wall trim transitions and inside-corner applications. Adding molding to your home or office adds a finishing touch and value.",
+    "favorite_count": 1118,
+    "aisle": "19",
+    "bay": "009",
+    "feature_bullets": [
+      "Easy to install with nails or construction adhesive",
+      "Paintable and stainable",
+      "Moisture, rot, termite and split resistant"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Polymer extrusion material resists cracking, splitting and warping",
+      "White finish for easy painting",
+      "Moisture rot and termite resistant",
+      "Great for floor-to-wall transitions and for inside corner applications",
+      "96 in. Length"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/75fcd177-d32e-4797-9683-4a2c08db80de/svn/white-royal-mouldings-quarter-round-mldp01x01wm107wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/df96f2b1-d0d5-4153-80a9-6b4d5f95df34/svn/white-royal-mouldings-quarter-round-mldp01x01wm107wh-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5cc60464-b2ca-40c8-9254-164d7c7fc8ff/svn/white-royal-mouldings-quarter-round-mldp01x01wm107wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/a7768c70-53ac-453e-ac59-fb98b6f15edf/svn/white-royal-mouldings-quarter-round-mldp01x01wm107wh-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d55a9125-1926-4a11-ac97-e1b2d5624d8a/svn/white-royal-mouldings-quarter-round-mldp01x01wm107wh-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/75fcd177-d32e-4797-9683-4a2c08db80de/svn/white-royal-mouldings-quarter-round-mldp01x01wm107wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 401,
+    "rating": 4.7,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Exterior,Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Moisture Resistant,Paintable,Rot Resistant,Split Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Quarter Round"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Floor"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "5111"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "No warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.625 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.625 in"
+      }
+    ],
+    "keywords_list": [
+      "8 ft. x 5/8 in. x 5/8 in. White Polymer Quarter-Round Moulding",
+      "0511108042"
+    ],
+    "keywords": "8 ft. x 5/8 in. x 5/8 in. White Polymer Quarter-Round Moulding, 0511108042",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Shoe & Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round/N-5yc1vZcldr"
+      },
+      {
+        "name": "Quarter Round",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Shoe-Quarter-Round-Quarter-Round/N-5yc1vZ2fkp9hc"
+      }
+    ],
+    "buybox_winner": {
+      "price": 6.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 78
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 110,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 475,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

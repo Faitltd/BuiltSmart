@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="50px" viewBox="0 0 200 50" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Home Health Score Logo</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(10, 5)">
+            <path d="M20,0 L40,16 L40,40 L28,40 L28,28 L12,28 L12,40 L0,40 L0,16 L20,0 Z" fill="#0284C7"></path>
+            <circle cx="25" cy="18" r="8" fill="#10B981"></circle>
+            <circle cx="25" cy="18" r="5" fill="#FFFFFF"></circle>
+        </g>
+        <text font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0284C7" x="60" y="30">
+            Home Health Score
+        </text>
+    </g>
+</svg>

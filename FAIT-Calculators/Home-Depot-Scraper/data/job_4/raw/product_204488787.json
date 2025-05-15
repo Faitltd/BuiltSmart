@@ -1,0 +1,275 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12717,
+    "overage_used": 2717,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Delta-Trinsic-Gold-1-Handle-Floor-Mount-Roman-Tub-Faucet-Trim-Kit-with-Hand-Shower-in-Champagne-Bronze-Valve-Not-Included-T4759-CZFL/204488787"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:29:20.196Z",
+    "processed_at": "2025-05-01T13:29:24.577Z",
+    "total_time_taken": 4.38,
+    "homedepot_url": "https://www.homedepot.com/p/Delta-Trinsic-Gold-1-Handle-Floor-Mount-Roman-Tub-Faucet-Trim-Kit-with-Hand-Shower-in-Champagne-Bronze-Valve-Not-Included-T4759-CZFL/204488787"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Delta-Trinsic-Gold-1-Handle-Floor-Mount-Roman-Tub-Faucet-Trim-Kit-with-Hand-Shower-in-Champagne-Bronze-Valve-Not-Included-T4759-CZFL/204488787",
+    "brand": "Delta",
+    "brand_link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Trim-Kits-Shower-Bathtub-Trim-Kits/Delta/N-5yc1vZcgf1Zg2",
+    "title": "Delta Trinsic Gold 1-Handle Floor-Mount Roman Tub Faucet Trim Kit with Hand Shower in Champagne Bronze (Valve Not Included)",
+    "upc": "034449713436",
+    "item_id": "204488787",
+    "parent_id": "205646564",
+    "store_sku": "1000634140",
+    "model_number": "T4759-CZFL",
+    "description": "Sleek, minimalistic styling makes this Trinsic 1-Handle Single Post Floor Mount Roman Tub Faucet Trim Only with Hand shower in Champagne Bronze the perfect complement to today's modern home. The single-post design makes a powerful visual statement with a small footprint. Bring your personal style to life with coordinating bathroom sink faucets, tub and shower faucets and matching bath accessories. Multi-Choice pressure balance cartridge maintains a balanced pressure of hot and cold water even when a valve is turned on or off elsewhere in the system. You can buy with confidence, knowing that Delta backs this faucet with a lifetime limited warranty.",
+    "is_bestseller": true,
+    "favorite_count": 109,
+    "collection": {
+      "id": "Family-310107099",
+      "name": "Family-310107099",
+      "link": "https://www.homedepot.com/collection/Bath/Trinsic-Collection-in-Champagne-Bronze/Family-310107099?omsid=204488787"
+    },
+    "feature_bullets": [
+      "Floor-mount installation for use with freestanding tubs",
+      "Purchase rough-in kit R4700-FL or R4700-FLWS separately",
+      "Gold roman tub faucet backed by Delta's Lifetime Limited Warranty"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Due to WaterSense regulations in the state of California and New York, please confirm your shipping zip code is not restricted from use of items which do not meet WaterSense qualifications",
+      "Trim kit only, must purchase rough-in kit R4700-FL (not included) separately",
+      "ADA-compliant lever handle for precise temperature and volume control",
+      "Champagne bronze, a warm, muted gold finish",
+      "Matching hand shower flows at 2.0 GPM and includes double check valves for backflow protection",
+      "Hand shower includes hose that stretches from 60 in. to 82 in.",
+      "Hand shower holder pivots for easy use",
+      "Lifetime limited warranty covers parts and finish defects",
+      "<a href=\"https://www.homedepot.com/collection/decor/modern-farmhouse-bathroom\" target=\"_blank\"><img src=\"https://inlinecontent.thdstatic.com/59/Catalog/C17_MF_Bathroom.jpg\"></a>",
+      "<a href=\"https://www.homedepot.com/b/Delta/N-5yc1vZg2\" target=\"_blank\" style=\"color:#F96302;\">Click here to shop more Delta products</a>",
+      "Click here to learn more about <a href=\"https://ecooptions.homedepot.com/water-conservation/\" target=\"_blank\" style=\"color:#F96302;\">Eco Options and Water Conservation</a>"
+    ],
+    "descriptive_attributes_count": 11,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/0bb554ee-66d5-4ab3-a48c-f1b0d397a478/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2aa31d37-cdff-42e7-9f58-f22743a1f98c/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/23c40f6e-9539-4070-b41d-bf564a9e7314/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/088026b9-f86e-42b8-a2cb-0b9663b5abef/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/b63ad6b8-2ef2-422f-b41f-1337699812ca/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f146ccf7-2b4f-4fee-bea4-de9c926b3108/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/870d6628-bb84-4795-9642-c9fe6738875d/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8741f3dd-e6f9-476f-8c66-bda5932448e5/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/0bb554ee-66d5-4ab3-a48c-f1b0d397a478/svn/champagne-bronze-delta-shower-bathtub-trim-kits-t4759-czfl-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/01712f00-53c3-4f59-beff-5ca17fe0c35d/72a74b3a-6268-44f8-838f-829d6a38878b/main.mp4?fastly_token=NjgzODM5NzlfYzk4NzEyMmQ4MmU3NjFmZDAwZjY3NzdlMGY3MGQ4MDBlMGFlMjhiZjI5MTU2YWQxZjNiNTFkYzFkMWJlNDk1Yl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS8wMTcxMmYwMC01M2MzLTRmNTktYmVmZi01Y2ExN2ZlMGMzNWQvNzJhNzRiM2EtNjI2OC00NGY4LTgzOGYtODI5ZDZhMzg4NzhiL21haW4ubXA0&pubid=66036796001",
+        "title": "How to Install a Delta Floor-Mount Tub Filler",
+        "id": "5650185351001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1834613806001/01712f00-53c3-4f59-beff-5ca17fe0c35d/b97d3388-4f26-4e7c-b749-50725849b96b/160x90/match/image.jpg?pubId=66036796001",
+        "description": "This video shows the viewer how to install a Delta floor-mount tub filler."
+      },
+      {
+        "link": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/1834613806001/7adda47f-baef-4612-a148-42147d7b8aa3/38fbc92e-b1e9-4a6b-98ce-9482bb88fcf1/main.mp4?fastly_token=NjgzODMxN2RfMzMwMDVjZWUzMmNjYTFiYThhZWRjYjg0NGE3OTFkZWZhY2I0ZTFmMjI0ZDI3YjQxNDY1ZTk4NWNjMmQzY2Y2Yl8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvMTgzNDYxMzgwNjAwMS83YWRkYTQ3Zi1iYWVmLTQ2MTItYTE0OC00MjE0N2Q3YjhhYTMvMzhmYmM5MmUtYjFlOS00YTZiLTk4Y2UtOTQ4MmJiODhmY2YxL21haW4ubXA0&pubid=66036796001",
+        "title": "Trinsic 1-Handle Floor-Mount Roman Tub Faucet Trim Kit Product Video",
+        "id": "6236459268001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/1834613806001/7adda47f-baef-4612-a148-42147d7b8aa3/main/160x90/42s122ms/match/image.jpg?pubId=66036796001",
+        "description": "Video showcasing the features of the Trinsic 1-Handle Floor-Mount Roman Tub Faucet Trim Kit."
+      }
+    ],
+    "has_360_view": true,
+    "ratings_total": 83,
+    "rating": 3.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Collection Name",
+        "value": "Trinsic"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gold"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Champagne Bronze"
+      },
+      {
+        "group_name": "Details",
+        "name": "Compatible Valve Models",
+        "value": "R4700-FL"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "One Finished Flush"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fits Faucet Brand",
+        "value": "Delta"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Brass"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Faucet Handles",
+        "value": "1 Handle"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plumbing Part Type",
+        "value": "Trim Kit"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Style",
+        "value": "Minimalist,Modern"
+      },
+      {
+        "group_name": "Details",
+        "name": "Trim Type",
+        "value": "Tub and Shower"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Faucet and Finish Lifetime Limited Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "11.75 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "9.75 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Champagne Bronze~~1",
+        "link": "https://www.homedepot.com/p/Delta-Trinsic-Gold-1-Handle-Floor-Mount-Roman-Tub-Faucet-Trim-Kit-with-Hand-Shower-in-Champagne-Bronze-Valve-Not-Included-T4759-CZFL/204488787",
+        "item_id": "204488787"
+      },
+      {
+        "title": "Chrome~~1",
+        "link": "https://www.homedepot.com/p/Delta-Trinsic-1-Handle-Floor-Mount-Roman-Tub-Faucet-Trim-Kit-with-Hand-Shower-in-Chrome-Valve-Not-Included-T4759-FL/204488788",
+        "item_id": "204488788"
+      },
+      {
+        "title": "Venetian Bronze~~1",
+        "link": "https://www.homedepot.com/p/Delta-Trinsic-1-Handle-Floor-Mount-Roman-Tub-Faucet-Trim-Kit-with-Hand-Shower-in-Venetian-Bronze-Valve-Not-Included-T4759-RBFL/204488789",
+        "item_id": "204488789"
+      },
+      {
+        "title": "Matte Black~~1",
+        "link": "https://www.homedepot.com/p/Delta-Trinsic-1-Handle-Floor-Mount-Roman-Tub-Faucet-Trim-Kit-with-Hand-Shower-in-Matte-Black-Valve-Not-Included-T4759-BLFL/301651980",
+        "item_id": "301651980"
+      },
+      {
+        "title": "Stainless~~1",
+        "link": "https://www.homedepot.com/p/Delta-Trinsic-1-Handle-Floor-Mount-Roman-Tub-Faucet-Trim-Kit-with-Hand-Shower-in-Stainless-Valve-Not-Included-T4759-SSFL/204488790",
+        "item_id": "204488790"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Plumbing",
+        "link": "https://www.homedepot.com/b/Plumbing/N-5yc1vZbqew"
+      },
+      {
+        "name": "Plumbing Parts",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts/N-5yc1vZbqkp"
+      },
+      {
+        "name": "Trim Kits",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Trim-Kits/N-5yc1vZbri6"
+      },
+      {
+        "name": "Shower & Bathtub Trim Kits",
+        "link": "https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Trim-Kits-Shower-Bathtub-Trim-Kits/N-5yc1vZcgf1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 1582.63,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": false,
+        "ship_to_store": true,
+        "ship_to_home": true,
+        "scheduled_delivery": false,
+        "ship_to_store_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 0,
+          "start_date": "2025-05-09",
+          "end_date": "2025-05-14"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 18,
+          "price": 0,
+          "start_date": "2025-05-03",
+          "end_date": "2025-05-03",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

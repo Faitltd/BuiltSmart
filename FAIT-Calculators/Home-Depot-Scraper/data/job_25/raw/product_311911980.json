@@ -1,0 +1,176 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14848,
+    "overage_used": 4848,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/2-in-x-12-in-x-12-ft-2-and-Better-S4S-Pressure-Treated-Hem-Fir-Brown-Tone-Stained-Ground-Contact-Lumber-H2154CASH0212/311911980"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T19:47:42.314Z",
+    "processed_at": "2025-05-01T19:48:29.650Z",
+    "total_time_taken": 47.34,
+    "homedepot_url": "https://www.homedepot.com/p/2-in-x-12-in-x-12-ft-2-and-Better-S4S-Pressure-Treated-Hem-Fir-Brown-Tone-Stained-Ground-Contact-Lumber-H2154CASH0212/311911980"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/2-in-x-12-in-x-12-ft-2-and-Better-S4S-Pressure-Treated-Hem-Fir-Brown-Tone-Stained-Ground-Contact-Lumber-H2154CASH0212/311911980",
+    "brand": "Unbranded",
+    "title": "Unbranded 2 in. x 12 in. x 12 ft. #2 and Better S4S Pressure-Treated Hem-Fir Brown Tone Stained Ground Contact Lumber",
+    "upc": "054699571228",
+    "item_id": "311911980",
+    "store_sku": "419143",
+    "model_number": "H2154CASH0212",
+    "description": "This Treated Brown Stain board is manufactured from hem-fir. The treatment is a ground contact treatment. This is a #2 and better product.",
+    "favorite_count": 10,
+    "feature_bullets": [
+      "High-grade hem-fir board for outdoor projects",
+      "Pressure treated for anti-fungal and anti-termite protection",
+      "Uniform texture enables easy painting and staining"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Meets the highest quality grading standards for strength and appearance",
+      "Effective against termites, rot and fungal decay",
+      "Can be painted or stained",
+      "1-1/2 in. x 11-1/4 in. x 12 ft.",
+      "Can be used for many outdoor projects where lumber is required",
+      "<a href=\"https://www.homedepot.com/c/discover_benefit_pressure_treated_wood_HT_BG_LC\" target=\"_blank\" style=\"color:#F96302,\">Click to discover the benefits of pressure treated wood</a>"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/33a990d2-ffe5-4508-bac0-6ae513f6d8d2/svn/brown-pressure-treated-lumber-h2154cash0212-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/7c012fca-f343-47c2-b469-81b323d4432d/svn/brown-pressure-treated-lumber-h2154cash0212-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/06247195-262d-4d8c-a6d4-cc85c191d14a/svn/brown-pressure-treated-lumber-h2154cash0212-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9fcc779a-c5f3-4169-bcb6-1b5671551f96/svn/brown-pressure-treated-lumber-h2154cash0212-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/33a990d2-ffe5-4508-bac0-6ae513f6d8d2/svn/brown-pressure-treated-lumber-h2154cash0212-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/60192e84-0d9a-4f2a-9f75-7fdb533e41f1/9afaddba-98cf-4618-909e-5a3bc55da565/main.mp4?fastly_token=NjgxM2I4YzZfNzZkZjYwZDQxY2NjNDdjMjA0MjM3NTNhOWQyYjJmYThlMWUxYWI1NzkyNTc2MDUyNTE2M2IxMjA4YjQ4OGM0Ml8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvNjAxOTJlODQtMGQ5YS00ZjJhLTlmNzUtN2ZkYjUzM2U0MWYxLzlhZmFkZGJhLTk4Y2YtNDYxOC05MDllLTVhM2JjNTVkYTU2NS9tYWluLm1wNA%3D%3D",
+        "title": "Choosing Pressure Treated Wood",
+        "id": "4292649396001",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/66036796001/60192e84-0d9a-4f2a-9f75-7fdb533e41f1/e11a56ea-be04-4a87-879a-3b72473efeed/160x90/match/image.jpg",
+        "description": "If you\u2019re tackling any outdoor building project such as a deck, fence, or arbor, you should plan on using pressure-treated wood.  Here are the basics on what you need to know when shopping for your project."
+      }
+    ],
+    "ratings_total": 37,
+    "rating": 3.8,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Chemical retention (lb./cu. ft.)",
+        "value": "0.15 lb/ft3"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Brown"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener Recommendation",
+        "value": "Galvanized Fastener"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Air Dried,Pressure Treated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Lumber Grade",
+        "value": "#2 & Btr"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Fir"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pressure Treatment Chemical",
+        "value": "CA - Copper Azole"
+      },
+      {
+        "group_name": "Details",
+        "name": "Texture",
+        "value": "Smooth"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wood Species",
+        "value": "Hem-Fir"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Limited Lifetime"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "11.25 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "12 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "2"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "12 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Pressure Treated Lumber",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Pressure-Treated-Lumber/N-5yc1vZc3sr"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

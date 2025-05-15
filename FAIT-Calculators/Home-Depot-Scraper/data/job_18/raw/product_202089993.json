@@ -1,0 +1,226 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13981,
+    "overage_used": 3981,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Royal-Mouldings-5205-1-1-8-in-x-1-1-8-in-x-96-in-Finished-PVC-White-Outside-Corner-Moulding-1-Piece-8-Total-Linear-Feet-MLDP02X02WM205WH/202089993"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:25.809Z",
+    "processed_at": "2025-05-01T17:50:30.672Z",
+    "total_time_taken": 4.86,
+    "homedepot_url": "https://www.homedepot.com/p/Royal-Mouldings-5205-1-1-8-in-x-1-1-8-in-x-96-in-Finished-PVC-White-Outside-Corner-Moulding-1-Piece-8-Total-Linear-Feet-MLDP02X02WM205WH/202089993"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Royal-Mouldings-5205-1-1-8-in-x-1-1-8-in-x-96-in-Finished-PVC-White-Outside-Corner-Moulding-1-Piece-8-Total-Linear-Feet-MLDP02X02WM205WH/202089993",
+    "brand": "Royal Mouldings",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/Royal-Mouldings/N-5yc1vZcbjfZ8ui",
+    "title": "Royal Mouldings 5205 1 1/8 in. x 1 1/8 in. x 96 in. Finished PVC White Outside Corner Moulding (1-Piece \u2212 8 Total Linear Feet)",
+    "upc": "070673876578",
+    "item_id": "202089993",
+    "store_sku": "836483",
+    "model_number": "MLDP02X02WM205WH",
+    "description": "This 8 ft. x 1-1/8 in. x 1-1/8 in. Cellular Vinyl Outside Corner Molding adds an attractive touch to outside corners, both in rooms and on exteriors. Install as is, colored bright white, or paint or stain to your liking. Adding molding to your home or office adds value and a nice finishing touch.",
+    "is_bestseller": true,
+    "favorite_count": 1370,
+    "feature_bullets": [
+      "Durable cellular vinyl construction for indoor or outdoor use",
+      "Primed and ready to paint (paint sold separately)",
+      "Designed for easy installation and lasting durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made of durable cellular vinyl",
+      "Pre-finished in bright white and can be painted or stained",
+      "Resists moisture, rot and termites",
+      "For use with interior and exterior outside corners",
+      "96 in. Length",
+      "Manufactured by Royal Moldings"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/bdfb52e9-6a4a-4c5e-9bd4-d3e3ec231cd3/svn/white-royal-mouldings-corner-moulding-mldp02x02wm205wh-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6659d220-ea9f-46e7-b519-7ba55109c6a3/svn/white-royal-mouldings-corner-moulding-mldp02x02wm205wh-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/bdfb52e9-6a4a-4c5e-9bd4-d3e3ec231cd3/svn/white-royal-mouldings-corner-moulding-mldp02x02wm205wh-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 375,
+    "rating": 4.6,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Moisture Resistant,Rot Resistant,Termite Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Corner Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "5205"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Interior Waterproof Material"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "1.125 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "1.125 in"
+      }
+    ],
+    "keywords_list": [
+      "outside corner moulding",
+      "vinyl outside corner moulding",
+      "moulding",
+      "vinyl moulding",
+      "white outside corner moulding",
+      "white moulding"
+    ],
+    "keywords": "outside corner moulding, vinyl outside corner moulding, moulding, vinyl moulding, white outside corner moulding, white moulding",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Corner Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/N-5yc1vZcbjf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 10.98,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": false,
+          "stock_level": 0
+        },
+        "scheduled_delivery_info": {
+          "store_id": "1749",
+          "in_stock": true,
+          "stock_level": 39,
+          "price": 79,
+          "start_date": "2025-05-02",
+          "end_date": "2025-05-02",
+          "delivery_date_name": "tomorrow"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 206,
+          "price": 0,
+          "start_date": "2025-05-08",
+          "end_date": "2025-05-08",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

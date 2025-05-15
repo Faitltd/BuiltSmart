@@ -1,0 +1,257 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12779,
+    "overage_used": 2779,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Ekena-Millwork-WM291-0-75-in-D-x-5-25-in-W-x-96-in-L-Wood-Fingerjoint-Pine-Crown-Moulding-MLDW01X05WM291PP/330225528"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:31:11.221Z",
+    "processed_at": "2025-05-01T13:31:54.688Z",
+    "total_time_taken": 43.47,
+    "homedepot_url": "https://www.homedepot.com/p/Ekena-Millwork-WM291-0-75-in-D-x-5-25-in-W-x-96-in-L-Wood-Fingerjoint-Pine-Crown-Moulding-MLDW01X05WM291PP/330225528"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Ekena-Millwork-WM291-0-75-in-D-x-5-25-in-W-x-96-in-L-Wood-Fingerjoint-Pine-Crown-Moulding-MLDW01X05WM291PP/330225528",
+    "brand": "Ekena Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/Ekena-Millwork/N-5yc1vZcbjiZ96p",
+    "title": "Ekena Millwork WM291 0.75 in. D x 5.25 in. W x 96 in. L Wood (Fingerjoint Pine) Crown Moulding",
+    "upc": "196595968761",
+    "item_id": "330225528",
+    "parent_id": "332965782",
+    "store_sku": "1011598908",
+    "model_number": "MLDW01X05WM291PP",
+    "description": "Natural variations and woodgrain in our moulding evoke luxury and sophistication. Ample design profiles are available in a variety of gorgeous wood species. Encompass your personal touch while incorporating a functional upgrade by choosing a beautiful profile from our collection of carved wood designs. Elevate your design style with our natural-look wood mouldings and turn a room into a work of art.",
+    "feature_bullets": [
+      "Made using durable wood that can be easily installed",
+      "Can be coated, stained or painted to match existing trim",
+      "Hides gaps between the wall and the ceiling"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Item Description: WM291 4\"H x 3 1/2\"P x 5 1/4\"F x 96\"L Americraft FingerJoint Pine Crown Moulding, Primed Fingerjoint Pine",
+      "Dimensions: -3/4 in. depth x 4 in. height x 3-1/2 in. projection x 5-1/4 in. face/breadth x 96 in. length",
+      "Easily cut and installed using standard woodworking tools",
+      "Solid wood construction for durability and longevity",
+      "Suitable for clear-coating, stain or paint",
+      "Simple and elegant lines offer a clean look",
+      "Real wood offers exquisite warmth and detail",
+      "Smooth, consistent surface with beautiful grain patterns"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/05f75b58-8ac2-43ad-9fe1-0c696a822f82/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8982a3bb-a750-4658-9ac1-15698969c7a3/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/6bf4c9b7-ccd6-4c69-a989-94b85acb8693/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/72bc3afc-a5f8-41cd-ac9f-e621988827f1/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/8ae71e2e-1634-4756-bf22-fda6b3a3d088/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2946a66f-b01c-4266-bf23-18453da42788/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/40af3077-bca8-4d70-a474-5f7befd3f7ba/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f112c4a2-ba04-4594-98c8-91d71f1f34b1/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/13b989e3-d6ef-483b-a432-6cb03b6d02d9/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3cbbefe9-d06b-477e-9463-a84806c387d1/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/25886833-8d2a-47cf-bfdb-9e8d6894134b/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5567fe1e-fb2e-45ca-b6b8-2e569d4a91b6/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/5469e798-5300-46c5-b82d-13c30b0d9063/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-76_1000.jpg",
+        "type": "image_alternate_view_6"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/05f75b58-8ac2-43ad-9fe1-0c696a822f82/svn/fingerjoint-pine-ekena-millwork-crown-moulding-mldw01x05wm291pp-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 1,
+    "rating": 1,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Fingerjoint Pine"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "Finger Joint"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Crown Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "291"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Thickness (in.)",
+        "value": "3.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "5.25 in"
+      }
+    ],
+    "variants": [
+      {
+        "title": "Sapele Mahogany~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Ekena-Millwork-WM291-0-75-in-D-x-5-25-in-W-x-96-in-L-Wood-Sapele-Mahogany-Crown-Moulding-MLDW01X05WM291SA/330225530",
+        "item_id": "330225530"
+      },
+      {
+        "title": "Walnut~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Ekena-Millwork-WM291-0-75-in-D-x-5-25-in-W-x-96-in-L-Wood-Walnut-Crown-Molding-MLDW01X05WM291WA/330225531",
+        "item_id": "330225531"
+      },
+      {
+        "title": "Fingerjoint Pine~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Ekena-Millwork-WM291-0-75-in-D-x-5-25-in-W-x-96-in-L-Wood-Fingerjoint-Pine-Crown-Moulding-MLDW01X05WM291PP/330225528",
+        "item_id": "330225528"
+      },
+      {
+        "title": "Pine~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Ekena-Millwork-WM291-0-75-in-D-x-5-25-in-W-x-96-in-L-Wood-Pine-Crown-Molding-MLDW01X05WM291PI/330225526",
+        "item_id": "330225526"
+      },
+      {
+        "title": "Maple~~8 ft~~Wood~~1",
+        "link": "https://www.homedepot.com/p/Ekena-Millwork-WM291-0-75-in-D-x-5-25-in-W-x-96-in-L-Wood-Maple-Crown-Molding-MLDW01X05WM291MA/330225525",
+        "item_id": "330225525"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Crown Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/N-5yc1vZcbji"
+      }
+    ],
+    "buybox_winner": {
+      "price": 29.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

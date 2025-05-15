@@ -1,0 +1,149 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14268,
+    "overage_used": 4268,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Swaner-Hardwood-3-4-in-x-4-ft-x-8-ft-Birch-Plywood-BBI6VI/305213039"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:23:22.855Z",
+    "processed_at": "2025-05-01T18:24:13.275Z",
+    "total_time_taken": 50.42,
+    "homedepot_url": "https://www.homedepot.com/p/Swaner-Hardwood-3-4-in-x-4-ft-x-8-ft-Birch-Plywood-BBI6VI/305213039"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Swaner-Hardwood-3-4-in-x-4-ft-x-8-ft-Birch-Plywood-BBI6VI/305213039",
+    "brand": "Swaner Hardwood",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/Swaner-Hardwood/N-5yc1vZc7r1Zots",
+    "title": "Swaner Hardwood 3/4 in. x 4 ft. x 8 ft. Birch Plywood",
+    "upc": "728927005150",
+    "item_id": "305213039",
+    "store_sku": "1003174590",
+    "model_number": "BBI6VI",
+    "description": "This 18mm 4x8 Birch plywood is perfect for interior use from a practical as well as an aesthetic point of view. It can be used for a wide variety of applications including some cabinet components, furniture and much more. Birch plywood has been pre-sanded on 2 sides and is ready for paint or stain application.",
+    "favorite_count": 119,
+    "feature_bullets": [
+      "Versatile use for furniture, cabinets, shelves, and more",
+      "Calibrated core to enhance stability and durability",
+      "Paintable or stainable for customized use"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "18 mm x 4 in. x 8 in.; +/- 0.5 mm thickness tolerance",
+      "CARB phase 2 certified TSCA",
+      "Ready to use: pre-sanded 2 sides",
+      "Calibrated core",
+      "For interior use only",
+      "Brings warmth and Beauty to any project"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/b2aacba6-f24f-44c5-a60f-bb3872187ac7/svn/swaner-hardwood-hardwood-plywood-bbi6vi-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f60e3340-3da0-4108-9347-1ea0fdff45e3/svn/swaner-hardwood-hardwood-plywood-bbi6vi-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9380a4db-7880-4e43-a99b-22bdd1edc009/svn/swaner-hardwood-hardwood-plywood-bbi6vi-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/b2aacba6-f24f-44c5-a60f-bb3872187ac7/svn/swaner-hardwood-hardwood-plywood-bbi6vi-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 42,
+    "rating": 3.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Exposure Durability",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number Of Ply",
+        "value": "Multi-Ply"
+      },
+      {
+        "group_name": "Details",
+        "name": "Panel/Veneer Grade",
+        "value": "C2"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Features",
+        "value": "Paintable,Sanded,Stainable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Plywood Product Type",
+        "value": "Hardwood"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (in.)",
+        "value": "96.000 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "0.688 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "48 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "8"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "3/4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (ft.)",
+        "value": "4"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood/N-5yc1vZbqm7"
+      },
+      {
+        "name": "Hardwood Plywood",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Plywood-Hardwood-Plywood/N-5yc1vZc7r1"
+      }
+    ],
+    "buybox_winner": {
+      "price": 25,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

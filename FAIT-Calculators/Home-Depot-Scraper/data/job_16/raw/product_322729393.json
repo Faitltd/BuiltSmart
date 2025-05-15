@@ -1,0 +1,172 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13978,
+    "overage_used": 3978,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Peak-Products-4-in-x-4-in-Powder-Coated-Black-Heavy-Duty-Steel-Bolt-Down-Post-Base-Support-2470/322729393"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T17:50:08.750Z",
+    "processed_at": "2025-05-01T17:50:48.269Z",
+    "total_time_taken": 39.52,
+    "homedepot_url": "https://www.homedepot.com/p/Peak-Products-4-in-x-4-in-Powder-Coated-Black-Heavy-Duty-Steel-Bolt-Down-Post-Base-Support-2470/322729393"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Peak-Products-4-in-x-4-in-Powder-Coated-Black-Heavy-Duty-Steel-Bolt-Down-Post-Base-Support-2470/322729393",
+    "brand": "Peak Products",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/Peak-Products/N-5yc1vZc8hsZf4k",
+    "title": "Peak Products 4 in. x 4 in. Powder-Coated Black Heavy-Duty Steel Bolt Down Post Base Support",
+    "upc": "629219024708",
+    "item_id": "322729393",
+    "store_sku": "1002469564",
+    "model_number": "2470",
+    "description": "Build a strong foundation for your deck with our range of durable post holders, post anchors and bolt down post support. This Heavy-Duty Steel Bolt Down 4x4 Post Support is designed to secure your 4x4 wooden post to concrete. It can be installed quickly and easily by any contractor or DIY user. Constructed from heavy-duty steel, this bolt down post holder will provide a sturdy support for your deck, patio or other outdoor projects. The powder coat finish adds a layer of durability and corrosion resistance to the steel, giving you a product that is maintenance-free and can withstand even the harshest weather conditions. This steel bolt down is designed to support vertical loads. It does not provide adequate lateral resistance to wind or other horizontal loads. Not recommended for fencing applications.",
+    "is_exclusive": true,
+    "feature_bullets": [
+      "Experience an easy stair solution, no more complex cuts",
+      "Perfect for any decks, patios, and indoor/outdoor spaces",
+      "Robust steel for superior strength and lasting durability"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Designed to secure 4x4 wooden post to concrete",
+      "Secure post using eight 1/4-inch x 2-inch hot-dipped galvanized lag screws (one in each of the eight small holes)",
+      "Heavy-gauge steel construction",
+      "Powder-coat finish for durability and corrosion resistance",
+      "Designed to support vertical loads",
+      "Does not provide adequate lateral resistance to wind or other horizontal loads (not recommended for fencing applications)"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/51157bad-cc23-41bb-ba05-f8bce69dec94/svn/peak-products-post-bases-2470-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/565a1834-df1f-4ccf-b4e9-1e9cf486a22b/svn/peak-products-post-bases-2470-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d905b8a2-ac06-4421-8f1a-1bc5c56abc72/svn/peak-products-post-bases-2470-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/960a7ab7-af79-4c5f-8d84-b36da72dc800/svn/peak-products-post-bases-2470-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/51157bad-cc23-41bb-ba05-f8bce69dec94/svn/peak-products-post-bases-2470-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 14,
+    "rating": 4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Base Type",
+        "value": "Post Anchor Base"
+      },
+      {
+        "group_name": "Details",
+        "name": "Connector Finish",
+        "value": "Powder coated"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fasteners Included",
+        "value": "Fasteners Included"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Gauge",
+        "value": "13"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Steel"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material Connector Compatibility",
+        "value": "Wood to Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "3.99 lb"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "For more information, please contact Peak Products customer service at 1-877-883-7329"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Post Size (in.)",
+        "value": "4x4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "4 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Height (in.)",
+        "value": "6 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Building Hardware",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware/N-5yc1vZaqzs"
+      },
+      {
+        "name": "Post Brackets",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets/N-5yc1vZc8hv"
+      },
+      {
+        "name": "Post Bases",
+        "link": "https://www.homedepot.com/b/Building-Materials-Building-Hardware-Post-Brackets-Post-Bases/N-5yc1vZc8hs"
+      }
+    ],
+    "buybox_winner": {
+      "price": 16.47,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each"
+    }
+  }
+}

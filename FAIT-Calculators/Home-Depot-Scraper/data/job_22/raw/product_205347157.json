@@ -1,0 +1,198 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14224,
+    "overage_used": 4224,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Stabilit-852-1-2-in-x-3-4-in-x-96-in-PVC-Composite-White-Outside-Corner-Moulding-10004-ZW096CB/205347157"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:55.680Z",
+    "processed_at": "2025-05-01T18:21:00.057Z",
+    "total_time_taken": 4.38,
+    "homedepot_url": "https://www.homedepot.com/p/Stabilit-852-1-2-in-x-3-4-in-x-96-in-PVC-Composite-White-Outside-Corner-Moulding-10004-ZW096CB/205347157"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Stabilit-852-1-2-in-x-3-4-in-x-96-in-PVC-Composite-White-Outside-Corner-Moulding-10004-ZW096CB/205347157",
+    "brand": "Stabilit",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/Stabilit/N-5yc1vZcbjfZ96f",
+    "title": "Stabilit 852 1/2 in. x 3/4 in. x 96 in. PVC Composite White Outside Corner Moulding",
+    "upc": "788594720183",
+    "item_id": "205347157",
+    "store_sku": "477012",
+    "model_number": "10004-ZW096CB",
+    "description": "This 1/2 in. x 3/4 in. x 96 in. FRP Vinyl Outside Corner Moulding is a strong moulding for interior outside corners that installs with ease. It is pre-finished in white and can be painted. Adding Moulding to your home adds value and a nice finishing touch.",
+    "favorite_count": 329,
+    "aisle": "19",
+    "bay": "013",
+    "feature_bullets": [
+      "Moisture- and rot-resistant vinyl ensures durability",
+      "Prefinished, paintable surface allows customized decor",
+      "Interlocking installation facilitates hassle-free setup"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Durable, low-maintenance vinyl",
+      "White finish",
+      "Resists moisture, rot and termites",
+      "Easily glues onto interior outside corners",
+      "96 in. Length"
+    ],
+    "descriptive_attributes_count": 5,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/18140f45-ec87-4847-82de-1eee19e4cf0e/svn/white-stabilit-corner-moulding-10004-zw096cb-64_1000.jpg",
+        "type": "primary"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/18140f45-ec87-4847-82de-1eee19e4cf0e/svn/white-stabilit-corner-moulding-10004-zw096cb-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 45,
+    "rating": 4.2,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Finished"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Interlocking"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "PVC"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Corner Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Wall"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "10004"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "Guaranteed against manufacturing defects"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.5 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "96 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "0.75 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Corner Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Corner-Moulding/N-5yc1vZcbjf"
+      }
+    ],
+    "buybox_winner": {
+      "price": 3.48,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "piece",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 25
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 375,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        }
+      }
+    }
+  }
+}

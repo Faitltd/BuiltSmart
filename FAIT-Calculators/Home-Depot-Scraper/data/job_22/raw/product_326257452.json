@@ -1,0 +1,242 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14232,
+    "overage_used": 4232,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Sterling-Traverse-60-in-W-x-60-in-H-x-30-in-D-4-Piece-Direct-to-Stud-Alcove-Bath-Wall-Surround-in-White-71574700-0/326257452"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:21:13.989Z",
+    "processed_at": "2025-05-01T18:21:18.517Z",
+    "total_time_taken": 4.53,
+    "homedepot_url": "https://www.homedepot.com/p/Sterling-Traverse-60-in-W-x-60-in-H-x-30-in-D-4-Piece-Direct-to-Stud-Alcove-Bath-Wall-Surround-in-White-71574700-0/326257452"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Sterling-Traverse-60-in-W-x-60-in-H-x-30-in-D-4-Piece-Direct-to-Stud-Alcove-Bath-Wall-Surround-in-White-71574700-0/326257452",
+    "brand": "Sterling",
+    "brand_link": "https://www.homedepot.com/b/Bath-Bathtubs-Tub-Surrounds/Sterling/N-5yc1vZbzakZ95k",
+    "title": "Sterling Traverse 60 in. W x 60 in. H x 30 in. D 4-Piece Direct-to-Stud Alcove Bath Wall Surround in White",
+    "upc": "195711110206",
+    "item_id": "326257452",
+    "store_sku": "1010035746",
+    "model_number": "71574700-0",
+    "description": "Update your bathing routine with the Traverse Subway Tile wall set. Featuring contemporary subway tile design with a sleek shelf, it has ample storage space for your shampoo bottles. Built of solid Vikrell for material strength, durability and lasting beauty, it features a durable, smooth, high-gloss finish that's easy to clean. Tongue-and-groove modular design allows for easy installation during any phase of construction.",
+    "aisle": "36",
+    "bay": "019",
+    "collection": {
+      "id": "Family-326800079",
+      "name": "Family-326800079",
+      "link": "https://www.homedepot.com/collection/Bath/Traverse-Bath-Collection/Family-326800079?omsid=326257452"
+    },
+    "feature_bullets": [
+      "Durable, easy-to-clean vikrell material",
+      "Tongue and groove modular design allows for easy installation",
+      "Fully caulkless with dry-block seal for watertight seams"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Tongue and groove modular design allows for easy installation during any phase of construction",
+      "Modern subway tile design",
+      "Full length shelf provides generous storage",
+      "Easy to clean, durable high-gloss finish",
+      "Compression molded from our exclusive solid material",
+      "Includes complete wall set"
+    ],
+    "descriptive_attributes_count": 6,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/63283740-e72f-4b4f-b699-26829d8811b9/svn/white-sterling-tub-surrounds-71574700-0-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2bac0bf3-f4dd-46e2-949f-13a69833e4a5/svn/white-sterling-tub-surrounds-71574700-0-e1_1000.jpg",
+        "type": "image_left_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/aae7bc78-8766-42fb-8e75-770eadb2ab2e/svn/white-sterling-tub-surrounds-71574700-0-40_1000.jpg",
+        "type": "image_right_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/234ee67b-90b9-469b-8afb-27cd98f97857/svn/white-sterling-tub-surrounds-71574700-0-a0_1000.jpg",
+        "type": "image_top_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/52410f3d-8224-4f4f-8915-0274fb6256cb/svn/white-sterling-tub-surrounds-71574700-0-1d_1000.jpg",
+        "type": "image_bottom_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/92f0713c-dba6-4ce5-a050-7595ba6031f8/svn/white-sterling-tub-surrounds-71574700-0-66_1000.jpg",
+        "type": "image_back_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/9c6cfa08-2ce1-4f8a-bd0e-8fba007d9f54/svn/white-sterling-tub-surrounds-71574700-0-77_1000.jpg",
+        "type": "image_open_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/3abc39c8-1156-4236-8166-dbaead8ae2cd/svn/white-sterling-tub-surrounds-71574700-0-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/1e0719f9-abc0-418c-8394-ea69dad9566d/svn/white-sterling-tub-surrounds-71574700-0-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/f4504ab6-4265-42c3-b7e6-ca8b6515443f/svn/white-sterling-tub-surrounds-71574700-0-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/e748c91d-e355-4a8a-bf86-f8052ab21366/svn/white-sterling-tub-surrounds-71574700-0-44_1000.jpg",
+        "type": "image_alternate_view_4"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/387ab596-59a3-4492-9f2a-08935185c63c/svn/white-sterling-tub-surrounds-71574700-0-fa_1000.jpg",
+        "type": "image_alternate_view_5"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/63283740-e72f-4b4f-b699-26829d8811b9/svn/white-sterling-tub-surrounds-71574700-0-64_1000.jpg",
+      "type": "primary"
+    },
+    "videos": [
+      {
+        "link": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/5b4323ad-3d2b-4abd-9e29-ab87b4404244/main.mp4?fastly_token=NjgxMzc2YmFfMTVkMGZhODUyYjQ0MGRmNzM5MGViMzRkODhmNTY3OGQxZDI2NTIxYjQ1NWVmYTEwYTU0NWM4MjQ3NmUxYzQyOF8vL2hvdXNlLWZhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjYwMzY3OTYwMDEvZTE1NjYyMTQtN2U5Yy00NzhmLTlhYmQtMDMzZDZkOWZkZTIyLzViNDMyM2FkLTNkMmItNGFiZC05ZTI5LWFiODdiNDQwNDI0NC9tYWluLm1wNA%3D%3D",
+        "title": "Story of Kohler Retail",
+        "id": "6313250062112",
+        "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/66036796001/e1566214-7e9c-478f-9abd-033d6d9fde22/main/160x90/31s72ms/match/image.jpg",
+        "description": "Story of Kohler Retail\n"
+      }
+    ],
+    "ratings_total": 18,
+    "rating": 3.9,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Construction",
+        "value": "Four piece"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Solid Surface"
+      },
+      {
+        "group_name": "Details",
+        "name": "Product Weight (lb.)",
+        "value": "76 lb"
+      },
+      {
+        "group_name": "Details",
+        "name": "Returnable",
+        "value": "90-Day"
+      },
+      {
+        "group_name": "Details",
+        "name": "Shower Type",
+        "value": "Tub"
+      },
+      {
+        "group_name": "Details",
+        "name": "Surface Type",
+        "value": "Tile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Wall Installation Type",
+        "value": "Direct-to-stud"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Certifications and Listings",
+        "value": "No Certifications or Listings"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "10-year limited"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "30 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Height (in.)",
+        "value": "30"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Wall Width (in.)",
+        "value": "60"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Bath",
+        "link": "https://www.homedepot.com/b/Bath/N-5yc1vZbzb3"
+      },
+      {
+        "name": "Bathtubs",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs/N-5yc1vZbzb7"
+      },
+      {
+        "name": "Tub Surrounds",
+        "link": "https://www.homedepot.com/b/Bath-Bathtubs-Tub-Surrounds/N-5yc1vZbzak"
+      }
+    ],
+    "buybox_winner": {
+      "price": 519,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "each",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": true,
+        "scheduled_delivery": true,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 3
+        },
+        "scheduled_delivery_info": {
+          "store_id": "0121",
+          "in_stock": true,
+          "stock_level": 3,
+          "price": 35,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-01",
+          "delivery_date_name": "today"
+        },
+        "ship_to_home_info": {
+          "store_id": "8119",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 27,
+          "price": 55,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-06",
+          "delivery_date_name": "later"
+        }
+      }
+    }
+  }
+}

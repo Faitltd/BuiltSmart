@@ -1,0 +1,187 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12731,
+    "overage_used": 2731,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Doorpack-9-16-in-x-3-1-4-in-x-84-in-Primed-Pine-Casing-Molding-5-Pack-236PRDPK35/318380981"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T13:29:44.052Z",
+    "processed_at": "2025-05-01T13:30:42.074Z",
+    "total_time_taken": 58.02,
+    "homedepot_url": "https://www.homedepot.com/p/Doorpack-9-16-in-x-3-1-4-in-x-84-in-Primed-Pine-Casing-Molding-5-Pack-236PRDPK35/318380981"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Doorpack-9-16-in-x-3-1-4-in-x-84-in-Primed-Pine-Casing-Molding-5-Pack-236PRDPK35/318380981",
+    "brand": "Unbranded",
+    "title": "Unbranded Doorpack 9/16 in. x 3-1/4 in. x 84 in. Primed Pine Casing Molding(5-Pack)",
+    "upc": "099443054848",
+    "item_id": "318380981",
+    "store_sku": "1006854967",
+    "model_number": "236PRDPK35",
+    "description": "Casing allows you to trim windows and doors. It covers the gap between door jambs and wall. Gives a finished architectural look to any room.",
+    "feature_bullets": [
+      "Used to conceal gaps between door frames and drywall",
+      "Made of finger joint pine wood to ensure durable use",
+      "Pre-primed smooth paintable surface for a customized look"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Made from medium density fiberboard (MDF)",
+      "MDF resists warping splitting, expanding and contracting",
+      "Pre-primed and ready to paint to match your decor",
+      "Sold in a 5-piece pack"
+    ],
+    "descriptive_attributes_count": 4,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/c57c9d69-3943-4097-bc9f-d74295580a58/svn/white-casing-236prdpk35-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/be31b243-125b-4f53-9c65-8e424cc2d279/svn/white-casing-236prdpk35-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/d7e63eea-aaf7-4c02-a869-07bcf539e267/svn/white-casing-236prdpk35-31_1000.jpg",
+        "type": "image_life_style"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/c57c9d69-3943-4097-bc9f-d74295580a58/svn/white-casing-236prdpk35-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 12,
+    "rating": 4.5,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Glue,Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Wood"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "Full Stick"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Casing"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Door & Window"
+      },
+      {
+        "group_name": "Details",
+        "name": "Number of Pieces Included",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "5"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "236"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "None"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "2.813 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "84 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "3.25 in"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Door & Window Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding/N-5yc1vZcbjm"
+      },
+      {
+        "name": "Casing",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Door-Window-Moulding-Casing/N-5yc1vZclf5"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}

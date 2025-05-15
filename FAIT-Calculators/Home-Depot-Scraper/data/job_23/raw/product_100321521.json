@@ -1,0 +1,214 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 14208,
+    "overage_used": 4208,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/Woodgrain-Millwork-0-591-in-x-4-625-in-Medium-Density-Fiberboard-MDF-Crown-Moulding-10000966/100321521"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T18:20:23.877Z",
+    "processed_at": "2025-05-01T18:20:28.619Z",
+    "total_time_taken": 4.74,
+    "homedepot_url": "https://www.homedepot.com/p/Woodgrain-Millwork-0-591-in-x-4-625-in-Medium-Density-Fiberboard-MDF-Crown-Moulding-10000966/100321521"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/Woodgrain-Millwork-0-591-in-x-4-625-in-Medium-Density-Fiberboard-MDF-Crown-Moulding-10000966/100321521",
+    "brand": "Woodgrain Millwork",
+    "brand_link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/Woodgrain-Millwork/N-5yc1vZcbjiZ7c8",
+    "title": "Woodgrain Millwork 0.591 in. x 4.625 in. Medium Density Fiberboard (MDF) Crown Moulding",
+    "upc": "095624930086",
+    "item_id": "100321521",
+    "store_sku": "734072",
+    "model_number": "10000966",
+    "description": "The Woodgrain Millwork 0.591 in. x 4-5/8 in. x 192 in. LWM 47 Primed MDF Crown Molding is used where walls meet ceilings. Primed MDF LWM 47 Crown Molding is the best way to add interest to any room or space. Crown moldings come in a variety of sizes and patterns and can be combined to create one of kind molding buildups.",
+    "favorite_count": 400,
+    "aisle": "FW",
+    "bay": "021",
+    "feature_bullets": [
+      "Adherent to high-quality latex paint for a customized look",
+      "Covers the imperfections where the wall meet ceiling",
+      "Features a smooth surface which makes it knot-free"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Smooth, consistent surface is free from knots and is ready to finish",
+      "Can be painted with any high quality latex based paint",
+      "Installs with common woodworking tools",
+      "Can be used to create mantels or cornices",
+      "For interior use only",
+      "Spring angle - 45/45 in.",
+      "Note: product may vary by store"
+    ],
+    "descriptive_attributes_count": 7,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/1db78716-af7e-47db-9b2c-568834122d07/svn/white-woodgrain-millwork-crown-moulding-10000966-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/45c5d573-c64e-4bb5-b81b-7b07658d2c58/svn/white-woodgrain-millwork-crown-moulding-10000966-c3_1000.jpg",
+        "type": "image_alternate_view"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/1db78716-af7e-47db-9b2c-568834122d07/svn/white-woodgrain-millwork-crown-moulding-10000966-64_1000.jpg",
+      "type": "primary"
+    },
+    "ratings_total": 67,
+    "rating": 4.4,
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "White"
+      },
+      {
+        "group_name": "Details",
+        "name": "Decorative Moulding Type",
+        "value": "Standard Profile"
+      },
+      {
+        "group_name": "Details",
+        "name": "Durability",
+        "value": "Not Applicable"
+      },
+      {
+        "group_name": "Details",
+        "name": "Finish Type",
+        "value": "Primed"
+      },
+      {
+        "group_name": "Details",
+        "name": "Installation Type",
+        "value": "Nail"
+      },
+      {
+        "group_name": "Details",
+        "name": "Interior/Exterior",
+        "value": "Interior"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Medium Density Fiberboard (MDF)"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Cut",
+        "value": "By Linear Foot"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Features",
+        "value": "No Additional Features"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Type",
+        "value": "Crown Moulding"
+      },
+      {
+        "group_name": "Details",
+        "name": "Moulding Use",
+        "value": "Ceiling"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pack Size",
+        "value": "1"
+      },
+      {
+        "group_name": "Details",
+        "name": "Pattern Number",
+        "value": "47"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "N/A"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Depth (in.)",
+        "value": "0.591 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Length (in.)",
+        "value": "192 in"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Product Width (in.)",
+        "value": "4.625 in"
+      }
+    ],
+    "keywords_list": [
+      "moulding",
+      "mdf moulding",
+      "mouldings",
+      "mdf mouldings",
+      "crown",
+      "mdf crown",
+      "crowns",
+      "mdf crowns",
+      "ultralite moulding",
+      "ultralite mouldings",
+      "ultralite crown",
+      "ultralite crowns",
+      "primed moulding",
+      "primed mouldings",
+      "primed crown",
+      "primed crowns"
+    ],
+    "keywords": "moulding, mdf moulding, mouldings, mdf mouldings, crown, mdf crown, crowns, mdf crowns, ultralite moulding, ultralite mouldings, ultralite crown, ultralite crowns, primed moulding, primed mouldings, primed crown, primed crowns",
+    "breadcrumbs": [
+      {
+        "name": "Building Materials",
+        "link": "https://www.homedepot.com/b/Building-Materials/N-5yc1vZaqns"
+      },
+      {
+        "name": "Moulding & Millwork",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork/N-5yc1vZaq4y"
+      },
+      {
+        "name": "Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding/N-5yc1vZara1"
+      },
+      {
+        "name": "Crown Moulding",
+        "link": "https://www.homedepot.com/b/Building-Materials-Moulding-Millwork-Moulding-Crown-Moulding/N-5yc1vZcbji"
+      }
+    ],
+    "buybox_winner": {
+      "price": 3.57,
+      "currency_symbol": "$",
+      "currency": "USD",
+      "unit": "linear feet",
+      "fulfillment": {
+        "pickup": true,
+        "ship_to_store": false,
+        "ship_to_home": false,
+        "scheduled_delivery": false,
+        "pickup_info": {
+          "store_id": "0121",
+          "store_state": "Cumberland",
+          "store_name": "GA",
+          "in_stock": true,
+          "stock_level": 861
+        }
+      }
+    }
+  }
+}

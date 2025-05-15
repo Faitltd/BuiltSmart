@@ -1,0 +1,170 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13702,
+    "overage_used": 3702,
+    "credits_used_this_request": 1,
+    "credits_remaining": 0,
+    "credits_reset_at": "2025-05-18T13:34:32.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "url": "https://www.homedepot.com/p/MoistureShield-Vantage-1-in-x-5-4-in-x-20-ft-Cape-Cod-Gray-Composite-Groove-Decking-Board-13550500/309969597"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-01T16:54:49.969Z",
+    "processed_at": "2025-05-01T16:55:34.062Z",
+    "total_time_taken": 44.09,
+    "homedepot_url": "https://www.homedepot.com/p/MoistureShield-Vantage-1-in-x-5-4-in-x-20-ft-Cape-Cod-Gray-Composite-Groove-Decking-Board-13550500/309969597"
+  },
+  "product": {
+    "link": "https://www.homedepot.com/p/MoistureShield-Vantage-1-in-x-5-4-in-x-20-ft-Cape-Cod-Gray-Composite-Groove-Decking-Board-13550500/309969597",
+    "brand": "MoistureShield",
+    "brand_link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/MoistureShield/N-5yc1vZc5mbZfn1",
+    "title": "MoistureShield Vantage 1 in. x 5.4 in. x 20 ft. Cape Cod Gray Composite Groove Decking Board",
+    "upc": "757659603549",
+    "item_id": "309969597",
+    "store_sku": "1004515563",
+    "model_number": "13550500",
+    "description": "MoistureShield Vantage offers the look and workability of natural wood, but with more water resistance, more durability, and less maintenance. Our Solid Core technology runs throughout the entire product to resist damage from moisture, rot, insects, and other harmful elements. Uncapped, reversible boards feature a natural wood-grain texture on both sides, allowing use of either side for easier installation. Cut and rip just like natural wood. We recommend viewing a physical sample of any composite decking material to confirm the color is to your liking before placing an order. Screen images may not accurately represent the finished product.",
+    "feature_bullets": [
+      "Embossed open grain on both faces for design flexibility",
+      "Environmentally friendly 95% recycled content",
+      "Solid Core technology even on the ground and in the water"
+    ],
+    "feature_bullets_count": 3,
+    "descriptive_attributes": [
+      "Solid Core maintains its integrity after cutting for installation on the ground, in the ground or even underwater",
+      "Self-healing properties minimize the appearance of wear and scratches",
+      "Available in solid edge and grooved edge",
+      "High wood content weathers to a beautiful, natural look",
+      "Embossed wood grain for a natural finish",
+      "Easy to clean, just use soapy water",
+      "Install with standard composite hidden fasteners or face-fasten with composite deck screws",
+      "Backed by an industry-leading 50-year structural warranty"
+    ],
+    "descriptive_attributes_count": 8,
+    "images": [
+      {
+        "link": "https://images.thdstatic.com/productImages/eadd0208-a976-451a-934f-dda014427fe4/svn/gray-toned-with-deep-grain-surface-moistureshield-composite-decking-boards-13550500-64_1000.jpg",
+        "type": "primary"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/55bef904-0118-44dc-bd85-3f8eaadd6a67/svn/gray-toned-with-deep-grain-surface-moistureshield-composite-decking-boards-13550500-c3_1000.jpg",
+        "type": "image_alternate_view"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/525b5cc9-61e1-4469-b067-ce69f47f6b91/svn/gray-toned-with-deep-grain-surface-moistureshield-composite-decking-boards-13550500-4f_1000.jpg",
+        "type": "image_alternate_view_2"
+      },
+      {
+        "link": "https://images.thdstatic.com/productImages/2688d484-9b30-4073-b688-0f96d6bc7a10/svn/gray-toned-with-deep-grain-surface-moistureshield-composite-decking-boards-13550500-1f_1000.jpg",
+        "type": "image_alternate_view_3"
+      }
+    ],
+    "main_image": {
+      "link": "https://images.thdstatic.com/productImages/eadd0208-a976-451a-934f-dda014427fe4/svn/gray-toned-with-deep-grain-surface-moistureshield-composite-decking-boards-13550500-64_1000.jpg",
+      "type": "primary"
+    },
+    "specifications": [
+      {
+        "group_name": "Details",
+        "name": "Color Family",
+        "value": "Gray"
+      },
+      {
+        "group_name": "Details",
+        "name": "Color/Finish",
+        "value": "Gray-toned with Deep Grain surface"
+      },
+      {
+        "group_name": "Details",
+        "name": "Edge Type",
+        "value": "Grooved"
+      },
+      {
+        "group_name": "Details",
+        "name": "Fastener recommendation",
+        "value": "Hidden deck fasteners"
+      },
+      {
+        "group_name": "Details",
+        "name": "Features",
+        "value": "Hidden Fasteners Compatibility,Prefinished,Water Resistant"
+      },
+      {
+        "group_name": "Details",
+        "name": "Material",
+        "value": "Composite"
+      },
+      {
+        "group_name": "Details",
+        "name": "Total Linear Feet Covered",
+        "value": "20"
+      },
+      {
+        "group_name": "Warranty / Certifications",
+        "name": "Manufacturer Warranty",
+        "value": "50-year Structural Warranty"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Actual Product Width (in.)",
+        "value": "5.4"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Approximate Weight (lb)",
+        "value": "57"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Length (ft.)",
+        "value": "20 ft"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Thickness (in.)",
+        "value": "1"
+      },
+      {
+        "group_name": "Dimensions",
+        "name": "Nominal Product Width (in.)",
+        "value": "6"
+      }
+    ],
+    "breadcrumbs": [
+      {
+        "name": "Lumber & Composites",
+        "link": "https://www.homedepot.com/b/Lumber-Composites/N-5yc1vZbqpg"
+      },
+      {
+        "name": "Decking",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking/N-5yc1vZbqmg"
+      },
+      {
+        "name": "Deck Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards/N-5yc1vZc5mh"
+      },
+      {
+        "name": "Composite Decking Boards",
+        "link": "https://www.homedepot.com/b/Lumber-Composites-Decking-Deck-Boards-Composite-Decking-Boards/N-5yc1vZc5mb"
+      }
+    ],
+    "buybox_winner": {
+      "price": null,
+      "currency_symbol": "$",
+      "currency": "USD"
+    }
+  }
+}
