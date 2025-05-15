@@ -24,7 +24,12 @@ const PORT = process.env.PORT || 4001;
 
 // Middleware
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:4001'],
+  origin: [
+    'http://localhost:5173',
+    'http://localhost:4001',
+    'https://buildsmart-frontend-us-central1-uc.a.run.app',
+    process.env.FRONTEND_URL || '*'
+  ],
   credentials: true
 }));
 app.use(bodyParser.json());
