@@ -11,8 +11,15 @@ RUN npm install
 # Copy the rest of the code
 COPY . .
 
+# Build TypeScript files
+RUN npm run build
+
 # Expose port 4001
 EXPOSE 4001
+
+# Set environment variables
+ENV NODE_ENV=production
+ENV PORT=4001
 
 # Start the server
 CMD ["npm", "start"]
