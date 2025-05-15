@@ -142,6 +142,48 @@ The application comes with pre-configured demo data that will be automatically l
 
 This allows you to explore the application's features without having to create data from scratch.
 
+## Deployment
+
+### Local Deployment with Docker
+
+You can deploy the application locally using Docker Compose:
+
+```bash
+# Build and start the containers
+docker-compose up -d
+
+# View logs
+docker-compose logs -f
+```
+
+### Google Cloud Run Deployment
+
+The application is set up for deployment to Google Cloud Run:
+
+1. **Set up environment variables in Secret Manager**:
+   - Create secrets for MongoDB URI, PostgreSQL credentials, JWT secret, and OpenAI API key
+   - Update the Cloud Build trigger with the secret references
+
+2. **Run the Cloud Build trigger**:
+   - The trigger will build and deploy both the frontend and backend services
+   - The frontend will be available at: https://buildsmart-frontend-us-central1-uc.a.run.app
+   - The backend will be available at: https://buildsmart-backend-us-central1-uc.a.run.app
+
+3. **Monitoring and logging**:
+   - Monitor the application using Cloud Monitoring dashboards
+   - View logs in the Cloud Logging console
+
+### Continuous Deployment
+
+The application is set up for continuous deployment:
+
+1. **Push changes to the main branch**:
+   - The Cloud Build trigger will automatically build and deploy the changes
+   - The deployment will be rolled out with zero downtime
+
+2. **Manual deployment**:
+   - You can also manually run the Cloud Build trigger from the Google Cloud Console
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
