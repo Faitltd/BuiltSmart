@@ -8,7 +8,7 @@ steps:
     args: [
       'build',
       '-t', 'gcr.io/fait-444705/buildsmart-frontend:$COMMIT_SHA',
-      '--build-arg', 'VITE_API_URL=https://buildsmart-backend-xxxxxxxxxx-uc.a.run.app',
+      '--build-arg', 'VITE_API_URL=https://buildsmart-backend-${_REGION_TAG}-uc.a.run.app',
       '--build-arg', 'VITE_SUPABASE_URL=https://ydisdyadjupyswcpbxzu.supabase.co',
       '--build-arg', 'VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlkaXNkeWFkanVweXN3Y3BieHp1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTg3NjY0MDAsImV4cCI6MjAxNDM0MjQwMH0.S23aDH2_Hj_F_uJhOGpgsmgI5-OlQJjBXg-yaOHJwaE',
       './frontend'
@@ -60,3 +60,4 @@ substitutions:
   _POSTGRES_DB: buildsmart
   _JWT_SECRET: ${_JWT_SECRET}
   _OPENAI_API_KEY: ${_OPENAI_API_KEY}
+  _REGION_TAG: us-central1
