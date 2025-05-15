@@ -11,6 +11,9 @@ RUN npm install
 # Copy the rest of the code
 COPY . .
 
+# Create directory for Firebase service account
+RUN mkdir -p /app/keys
+
 # Build TypeScript files
 RUN npm run build
 

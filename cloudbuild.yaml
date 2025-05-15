@@ -1,4 +1,12 @@
 steps:
+  # Create Firebase service account file from secret
+  - name: 'gcr.io/cloud-builders/gcloud'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        echo '${_FIREBASE_SERVICE_ACCOUNT}' > ./backend/keys/firebase-service-account.json
+
   # Build the backend image
   - name: 'gcr.io/cloud-builders/docker'
     args: ['build', '-t', 'gcr.io/fait-444705/buildsmart-backend:$COMMIT_SHA', './backend']
@@ -33,7 +41,7 @@ steps:
       - '--region=us-central1'
       - '--platform=managed'
       - '--allow-unauthenticated'
-      - '--set-env-vars=NODE_ENV=production,PORT=4001,FIREBASE_DATABASE_URL=${_FIREBASE_DATABASE_URL},FIREBASE_SERVICE_ACCOUNT=${_FIREBASE_SERVICE_ACCOUNT},POSTGRES_USER=${_POSTGRES_USER},POSTGRES_PASSWORD=${_POSTGRES_PASSWORD},POSTGRES_HOST=${_POSTGRES_HOST},POSTGRES_PORT=${_POSTGRES_PORT},POSTGRES_DB=${_POSTGRES_DB},JWT_SECRET=${_JWT_SECRET},OPENAI_API_KEY=${_OPENAI_API_KEY}'
+      - '--set-env-vars=NODE_ENV=production,PORT=4001,FIREBASE_DATABASE_URL=${_FIREBASE_DATABASE_URL},FIREBASE_SERVICE_ACCOUNT=${_FIREBASE_SERVICE_ACCOUNT},JWT_SECRET=${_JWT_SECRET},OPENAI_API_KEY=${_OPENAI_API_KEY}'
 
   # Deploy frontend to Cloud Run
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
@@ -54,11 +62,6 @@ images:
 substitutions:
   _FIREBASE_DATABASE_URL: https://fait-444705.firebaseio.com
   _FIREBASE_SERVICE_ACCOUNT: ${_FIREBASE_SERVICE_ACCOUNT}
-  _POSTGRES_USER: postgres
-  _POSTGRES_PASSWORD: ${_DB_PASSWORD}
-  _POSTGRES_HOST: ${_POSTGRES_HOST}
-  _POSTGRES_PORT: '5432'
-  _POSTGRES_DB: buildsmart
   _JWT_SECRET: ${_JWT_SECRET}
   _OPENAI_API_KEY: ${_OPENAI_API_KEY}
   _REGION_TAG: us-central1
