@@ -7,7 +7,8 @@ import { makeExecutableSchema } from '@graphql-tools/schema';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import dotenv from 'dotenv';
-import { connectMongoDB } from './database/mongodb/connection';
+// Import Firebase
+import './config/firebase';
 import typeDefs from './graphql/schema';
 import resolvers from './graphql/resolvers';
 import { verifyToken } from './middleware/auth';
@@ -41,13 +42,10 @@ app.use('/uploads', express.static(path.join(__dirname, '../uploads')));
 // API Routes
 app.use('/api/chatbot', chatbotRoutes);
 
-// Connect to MongoDB
-connectMongoDB();
-
 // Initialize mock data for development
 if (process.env.NODE_ENV === 'development') {
-  const { initMockData } = require('./mockData');
-  initMockData().catch((error: Error) => {
+  const { initFirebaseMockData } = require('./mockData');
+  initFirebaseMockData().catch((error: Error) => {
     console.error('Error initializing mock data:', error);
   });
 }
@@ -95,10 +93,11 @@ app.post('/api/v1/llm/conversation', verifyToken, async (req, res) => {
     const { estimate_id, message } = req.body;
 
     // Import here to avoid circular dependencies
-    const { Estimate } = require('./database/mongodb/schemas');
+    const { db } = require('./config/firebase');
     const { processLLMConversation } = require('./services/llmService');
 
-    const estimate = await Estimate.findById(estimate_id);
+    const estimateDoc = await db.collection('estimates').doc(estimate_id).get();
+    const estimate = estimateDoc.data();
 
     if (!estimate) {
       res.status(404).json({ message: 'Estimate not found' });
