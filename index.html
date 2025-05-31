@@ -51,15 +51,15 @@
             </div>
             <nav>
                 <ul class="flex space-x-6">
-                    <li><a href="#" class="text-slate-300 hover:text-primary transition-colors">Home</a></li>
-                    <li><a href="#" class="text-slate-300 hover:text-primary transition-colors">Projects</a></li>
+                    <li><a href="#home" class="text-slate-300 hover:text-primary transition-colors">Home</a></li>
+                    <li><a href="#projects" class="text-slate-300 hover:text-primary transition-colors">Projects</a></li>
                     <li><button id="sign-in-btn" class="bg-primary hover:bg-blue-600 text-white px-4 py-2 rounded-lg transition-colors">Sign In</button></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-    <main class="container mx-auto px-4 py-8">
+    <main id="home" class="container mx-auto px-4 py-8">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
             <div class="lg:col-span-8">
                 <div class="w-full bg-slate-800 shadow-2xl rounded-xl flex flex-col h-[600px]">
@@ -151,6 +151,18 @@
                 </div>
             </div>
         </div>
+
+        <section id="projects" class="mt-12">
+            <div class="bg-slate-800 p-6 rounded-xl shadow-xl">
+                <h2 class="text-xl font-bold mb-4">Sample Projects</h2>
+                <p class="text-slate-300 mb-6">Explore these example remodeling projects for inspiration.</p>
+                <ul class="space-y-2 text-slate-300">
+                    <li><i class="fas fa-home text-primary mr-2"></i> Kitchen Remodel</li>
+                    <li><i class="fas fa-bath text-primary mr-2"></i> Bathroom Update</li>
+                    <li><i class="fas fa-paint-roller text-primary mr-2"></i> Full Interior Refresh</li>
+                </ul>
+            </div>
+        </section>
     </main>
 
     <footer class="bg-slate-800 py-4 mt-8">
