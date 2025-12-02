@@ -80,6 +80,69 @@ document.addEventListener('DOMContentLoaded', () => {
         projects: []
     };
 
+    // Supabase authentication helpers
+    async function initializeAuthState() {
+        if (typeof supabaseAuth === 'undefined') {
+            console.warn('Supabase auth client is not available. Verify that supabase-config.js is loaded.');
+            return;
+        }
+
+        await refreshAuthState();
+
+        supabaseAuth.onAuthStateChange((_event, session) => {
+            if (session?.user) {
+                setAuthenticatedUser(session.user);
+            } else {
+                setUnauthenticatedState();
+            }
+        });
+    }
+
+    async function refreshAuthState() {
+        try {
+            const user = await supabaseAuth.getCurrentUser();
+            if (user) {
+                setAuthenticatedUser(user);
+            } else {
+                setUnauthenticatedState();
+            }
+        } catch (error) {
+            console.error('Error checking auth state:', error);
+        }
+    }
+
+    function setAuthenticatedUser(user) {
+        userState.isLoggedIn = true;
+        userState.email = user?.email || null;
+        userState.userId = user?.id || null;
+        signInBtn.textContent = 'Sign Out';
+
+        const signInPrompt = document.getElementById('sign-in-prompt');
+        if (signInPrompt) {
+            signInPrompt.style.display = 'none';
+        }
+    }
+
+    function setUnauthenticatedState() {
+        userState.isLoggedIn = false;
+        userState.email = null;
+        userState.userId = null;
+        signInBtn.textContent = 'Sign In';
+
+        const signInPrompt = document.getElementById('sign-in-prompt');
+        if (signInPrompt) {
+            signInPrompt.style.display = 'block';
+        }
+    }
+
+    function handleAuthButton() {
+        if (userState.isLoggedIn) {
+            handleSignOut();
+        } else {
+            openAuthModal();
+        }
+    }
+
     // Clear existing chat messages (for demo purposes)
     chatMessages.innerHTML = '';
 
@@ -119,7 +182,7 @@ document.addEventListener('DOMContentLoaded', () => {
     saveProjectBtn.addEventListener('click', saveProject);
 
     // Authentication related event listeners
-    signInBtn.addEventListener('click', openAuthModal);
+    signInBtn.addEventListener('click', handleAuthButton);
     signInPromptBtn.addEventListener('click', openAuthModal);
     closeModalBtn.addEventListener('click', closeAuthModal);
     signinTab.addEventListener('click', () => switchAuthTab('signin'));
@@ -181,6 +244,9 @@ document.addEventListener('DOMContentLoaded', () => {
             closeAuthModal();
         }
     });
+
+    // Initialize Supabase auth state
+    initializeAuthState();
 
     // Core chatbot functions
     function initializeChat() {
@@ -1483,13 +1549,91 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function saveProject() {
-        if (userState.isLoggedIn) {
-            // Mock saving project
-            addBotMessage("Your project has been saved successfully! You can access it anytime from your projects dashboard.");
-            savePrompt.style.display = 'none';
-        } else {
+    async function saveProject() {
+        if (typeof supabaseDB === 'undefined' || typeof supabaseAuth === 'undefined') {
+            addBotMessage("Supabase isn't configured yet, so I can't save this project.");
+            return;
+        }
+
+        if (!userState.isLoggedIn) {
             openAuthModal();
+            return;
+        }
+
+        try {
+            const projectName = chatbotState.rooms.length > 0
+                ? `${formatRoomTypeName(chatbotState.rooms[0].type)} project`
+                : 'Remodel Project';
+
+            const projectTotal = Math.round(chatbotState.totalEstimate.total || 0);
+
+            const projectResult = await supabaseDB.saveProject({
+                name: projectName,
+                totalCost: projectTotal,
+                status: 'completed'
+            });
+
+            if (!projectResult.success) {
+                addBotMessage(projectResult.error || "I couldn't save your project right now.");
+                return;
+            }
+
+            const project = projectResult.data;
+            const savedRooms = {};
+
+            for (const room of chatbotState.rooms) {
+                const dims = room.dimensions || {};
+                const roomResult = await supabaseDB.saveRoom(project.id, {
+                    name: room.name,
+                    type: room.type,
+                    length: dims.length || dims.squareFootage || 0,
+                    width: dims.width || 0,
+                    height: dims.height || 0
+                });
+
+                if (roomResult.success && roomResult.data?.id) {
+                    savedRooms[room.type] = roomResult.data.id;
+                }
+            }
+
+            const primaryRoomType = chatbotState.rooms[0]?.type;
+            const primaryRoomId = primaryRoomType ? savedRooms[primaryRoomType] : null;
+
+            if (chatbotState.selectedProducts?.length && primaryRoomId) {
+                for (const product of chatbotState.selectedProducts) {
+                    await supabaseDB.saveEstimate(project.id, primaryRoomId, {
+                        category: product.category || 'product',
+                        itemName: product.name,
+                        quantity: 1,
+                        unitCost: product.price,
+                        totalCost: product.price,
+                        notes: product.description
+                    });
+                }
+            }
+
+            if (chatbotState.laborCosts?.length) {
+                for (const roomLabor of chatbotState.laborCosts) {
+                    const roomId = savedRooms[roomLabor.roomType] || primaryRoomId || null;
+
+                    for (const laborItem of roomLabor.costs) {
+                        await supabaseDB.saveEstimate(project.id, roomId, {
+                            category: 'labor',
+                            itemName: laborItem.name,
+                            quantity: 1,
+                            unitCost: laborItem.cost,
+                            totalCost: laborItem.cost,
+                            notes: laborItem.description
+                        });
+                    }
+                }
+            }
+
+            addBotMessage("Your project has been saved to your FAIT account! You can view it in your projects dashboard.");
+            savePrompt.style.display = 'none';
+        } catch (error) {
+            console.error('Error saving project:', error);
+            addBotMessage("I couldn't save your project right now. Please try again in a moment.");
         }
     }
 
@@ -1531,30 +1675,41 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function handleSignIn(e) {
+    async function handleSignIn(e) {
         e.preventDefault();
         const email = document.getElementById('signin-email').value;
         const password = document.getElementById('signin-password').value;
 
         if (!email || !password) return;
 
-        // Mock sign in
-        userState.isLoggedIn = true;
-        userState.email = email;
+        if (typeof supabaseAuth === 'undefined') {
+            showAuthError('signin', 'Supabase is not configured. Please try again later.');
+            return;
+        }
 
-        // Update UI
-        signInBtn.textContent = 'Account';
-        document.getElementById('sign-in-prompt').style.display = 'none';
+        try {
+            const result = await supabaseAuth.signIn(email, password);
+            if (!result.success) {
+                showAuthError('signin', result.error || 'Unable to sign in right now.');
+                return;
+            }
 
-        closeAuthModal();
+            const user = await supabaseAuth.getCurrentUser();
 
-        // If save prompt is visible, save the project
-        if (savePrompt.style.display === 'flex') {
-            saveProject();
+            if (user) {
+                setAuthenticatedUser(user);
+                closeAuthModal();
+
+                if (savePrompt.style.display === 'flex') {
+                    await saveProject();
+                }
+            }
+        } catch (error) {
+            showAuthError('signin', error.message || 'Unable to sign in right now.');
         }
     }
 
-    function handleSignUp(e) {
+    async function handleSignUp(e) {
         e.preventDefault();
         const email = document.getElementById('signup-email').value;
         const password = document.getElementById('signup-password').value;
@@ -1562,9 +1717,43 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (!email || !password || password !== confirmPassword) return;
 
-        // Mock sign up
-        alert('Account created! Please sign in.');
-        switchAuthTab('signin');
+        if (typeof supabaseAuth === 'undefined') {
+            showAuthError('signup', 'Supabase is not configured. Please try again later.');
+            return;
+        }
+
+        try {
+            const result = await supabaseAuth.signUp(email, password, email);
+            if (!result.success) {
+                showAuthError('signup', result.error || 'Unable to create your account right now.');
+                return;
+            }
+
+            alert('Account created! Please check your email to confirm, then sign in.');
+            switchAuthTab('signin');
+        } catch (error) {
+            showAuthError('signup', error.message || 'Unable to create your account right now.');
+        }
+    }
+
+    async function handleSignOut() {
+        if (typeof supabaseAuth === 'undefined') {
+            addBotMessage('Supabase is not configured, so I cannot sign you out right now.');
+            return;
+        }
+
+        try {
+            const result = await supabaseAuth.signOut();
+            if (!result.success) {
+                addBotMessage(result.error || "I couldn't sign you out right now. Please try again.");
+                return;
+            }
+            setUnauthenticatedState();
+            addBotMessage("You're signed out. Sign in to save your next estimate.");
+        } catch (error) {
+            console.error('Error signing out:', error);
+            addBotMessage("I couldn't sign you out right now. Please try again.");
+        }
     }
 
     // Email validation function
